@@ -1,0 +1,728 @@
+[
+ {
+  "id": "sme-001",
+  "type": "F",
+  "category": "smery-mosty",
+  "text": "Kdo je zakladatelem terapie vnitřních rodinných systémů (IFS)?",
+  "options": [
+   "Jeffrey Young",
+   "Richard Schwartz",
+   "Aaron Beck",
+   "Otto Kernberg"
+  ],
+  "correct": 1,
+  "explanation": "IFS vytvořil rodinný terapeut Richard Schwartz, když si všiml, že klienti spontánně mluví o svých 'částech' a že tyto části tvoří systém podobný rodině. Young je zakladatel schematerapie, Beck kognitivní terapie a Kernberg patří k psychoanalytické tradici objektních vztahů.",
+  "source": "Schwartz, R. C.: Internal Family Systems Therapy, Guilford Press, 1995",
+  "seedElo": 1300
+ },
+ {
+  "id": "sme-002",
+  "type": "F",
+  "category": "smery-mosty",
+  "text": "Která z následujících vlastností NEPATŘÍ mezi osm C-vlastností Self v modelu IFS?",
+  "options": [
+   "Zvědavost (curiosity)",
+   "Soucit (compassion)",
+   "Kontrola (control)",
+   "Klid (calmness)"
+  ],
+  "correct": 2,
+  "explanation": "Kontrola mezi C-vlastnosti nepatří — Self v IFS nevládne částem silou, ale vede je vztahem. Zvědavost, soucit a klid jsou naopak klasické znaky přítomnosti Self-energie; jejich objevení v sezení je pro IFS terapeuta signál, že klient je alespoň částečně 'odblendovaný'.",
+  "source": "Schwartz, R. C. & Sweezy, M.: Internal Family Systems Therapy, 2nd ed., Guilford Press, 2020",
+  "seedElo": 1400,
+  "deepDive": "Osm C podle Schwartze: **calmness** (klid), **curiosity** (zvědavost), **compassion** (soucit), **confidence** (důvěra v sebe), **courage** (odvaha), **clarity** (jasnost), **connectedness** (propojenost) a **creativity** (tvořivost). Nejsou to dovednosti, které se klient učí — IFS předpokládá, že Self je vrozené, nepoškozené jádro, které se vynoří samo, jakmile části ustoupí. To je radikální teze: terapeut nebuduje zdravé já, jen odklízí to, co mu stojí v cestě. Prakticky slouží osm C jako diagnostický kompas: když klient mluví o části se zvědavostí a soucitem, je v Self; když s odporem nebo strachem, mluví jiná část."
+ },
+ {
+  "id": "sme-003",
+  "type": "F",
+  "category": "smery-mosty",
+  "text": "Co jsou v modelu IFS exiles (vyhnanci)?",
+  "options": [
+   "Části nesoucí bolest, stud nebo trauma, které ochránci drží mimo vědomí",
+   "Části, které klient vědomě odmítá a chce se jich zbavit",
+   "Vzpomínky vytěsněné do nevědomí bez vazby na konkrétní část",
+   "Části vzniklé až v dospělosti jako reakce na aktuální stres"
+  ],
+  "correct": 0,
+  "explanation": "Exiles jsou obvykle mladé části, které nesou břemena bolesti, studu či hrůzy z raných zranění; ochranné části je izolují, aby jejich pocity nezaplavily systém. Nejde o pouhé vzpomínky — IFS je chápe jako subosobnosti s vlastní perspektivou a věkem. Odmítání částí klientem je práce jiných částí, ne definice exila.",
+  "source": "Schwartz, R. C.: Internal Family Systems Therapy, Guilford Press, 1995",
+  "seedElo": 1400
+ },
+ {
+  "id": "sme-004",
+  "type": "F",
+  "category": "smery-mosty",
+  "text": "Jaký je v IFS hlavní rozdíl mezi manažery (managers) a hasiči (firefighters)?",
+  "options": [
+   "Manažeři chrání exily, hasiči chrání manažery",
+   "Manažeři jsou vědomí, hasiči nevědomí",
+   "Hasiči jsou vždy destruktivní, manažeři vždy adaptivní",
+   "Manažeři pracují preventivně, hasiči reaktivně po aktivaci exilové bolesti"
+  ],
+  "correct": 3,
+  "explanation": "Obě skupiny jsou ochránci exilů, liší se ale načasováním: manažeři se snaží bolesti předejít (perfekcionismus, kontrola, péče o druhé), hasiči nastupují, až když exilová bolest prorazí, a hasí ji rychle a často za vysokou cenu (alkohol, přejídání, disociace). Ani jedna skupina není z definice destruktivní — obě mají v IFS pozitivní záměr.",
+  "source": "Schwartz, R. C. & Sweezy, M.: Internal Family Systems Therapy, 2nd ed., Guilford Press, 2020",
+  "seedElo": 1500
+ },
+ {
+  "id": "sme-005",
+  "type": "F",
+  "category": "smery-mosty",
+  "text": "Pro jakou skupinu pacientů Jeffrey Young původně vyvinul schematerapii?",
+  "options": [
+   "Pro pacienty s psychotickými poruchami",
+   "Pro pacienty s chronickými a osobnostními obtížemi, kteří nedostatečně reagovali na klasickou KBT",
+   "Pro děti s vývojovým traumatem",
+   "Pro páry v chronickém konfliktu"
+  ],
+  "correct": 1,
+  "explanation": "Young, Beckův žák, narazil na limity standardní kognitivní terapie u pacientů s rigidními celoživotními vzorci — typicky s poruchami osobnosti. Schematerapie proto integruje KBT s prvky vztahové vazby, gestalt technik a psychodynamického myšlení o raném vývoji. Pro psychózy ani primárně pro děti či páry vyvinuta nebyla.",
+  "source": "Young, J. E., Klosko, J. S., Weishaar, M. E.: Schema Therapy: A Practitioner's Guide, Guilford Press, 2003",
+  "seedElo": 1300
+ },
+ {
+  "id": "sme-006",
+  "type": "F",
+  "category": "smery-mosty",
+  "text": "Kolik raných maladaptivních schémat rozlišuje standardní Youngova taxonomie?",
+  "options": [
+   "10",
+   "12",
+   "18",
+   "24"
+  ],
+  "correct": 2,
+  "explanation": "Youngova taxonomie obsahuje 18 raných maladaptivních schémat uspořádaných do pěti domén nenaplněných vývojových potřeb (např. odpojení a odmítnutí, narušená autonomie). Počet se v historii modelu mírně vyvíjel, ale 18 schémat v 5 doménách je kanonická podoba z roku 2003.",
+  "source": "Young, J. E., Klosko, J. S., Weishaar, M. E.: Schema Therapy: A Practitioner's Guide, Guilford Press, 2003",
+  "seedElo": 1500
+ },
+ {
+  "id": "sme-007",
+  "type": "F",
+  "category": "smery-mosty",
+  "text": "Co znamená limited reparenting (omezené rodičovství) ve schematerapii?",
+  "options": [
+   "Terapeut v hranicích profesního vztahu částečně sytí klientovy nenaplněné rané vývojové potřeby",
+   "Terapeut učí klienta lepším rodičovským dovednostem vůči vlastním dětem",
+   "Terapeut omezuje kontakt klienta s patogenními rodiči",
+   "Terapeut interpretuje klientův přenos rodičovských postav"
+  ],
+  "correct": 0,
+  "explanation": "Limited reparenting je jádrová vztahová strategie schematerapie: terapeut vědomě poskytuje to, co klientovi v dětství chybělo — bezpečí, validaci, hranice — v mezích etického rámce. Nejde o rodičovský trénink ani o zákaz kontaktu s rodinou; od psychodynamické interpretace přenosu se liší tím, že potřeby aktivně sytí, nejen zkoumá.",
+  "source": "Young, J. E., Klosko, J. S., Weishaar, M. E.: Schema Therapy: A Practitioner's Guide, Guilford Press, 2003",
+  "seedElo": 1400
+ },
+ {
+  "id": "sme-008",
+  "type": "F",
+  "category": "smery-mosty",
+  "text": "Jaká je hlavní funkce módu odtažitého ochránce (detached protector) ve schematerapii?",
+  "options": [
+   "Trestat klienta za selhání internalizovaným rodičovským hlasem",
+   "Kompenzovat schéma přehnaným výkonem a grandiozitou",
+   "Vyjadřovat nenaplněné potřeby zranitelného dítěte",
+   "Odpojit klienta od emocí a kontaktu, aby necítil schematickou bolest"
+  ],
+  "correct": 3,
+  "explanation": "Odtažitý ochránce je vyhýbavý zvládací mód: vypíná emoce, vytváří otupělost, prázdnotu nebo mechanický kontakt, a tím chrání před bolestí aktivovaných schémat. Trestání patří trestajícímu rodiči, kompenzace výkonem nadměrnému kompenzátorovi a vyjadřování potřeb módu zranitelného dítěte.",
+  "source": "Young, J. E., Klosko, J. S., Weishaar, M. E.: Schema Therapy: A Practitioner's Guide, Guilford Press, 2003",
+  "seedElo": 1400
+ },
+ {
+  "id": "sme-009",
+  "type": "F",
+  "category": "smery-mosty",
+  "text": "Čím se v Beckově kognitivním modelu vyznačují automatické myšlenky?",
+  "options": [
+   "Jsou to hluboké, absolutní soudy o vlastní hodnotě typu 'jsem bezcenný'",
+   "Jsou to spontánní, situačně vázané kognice na povrchu kognitivní hierarchie",
+   "Jsou to podmínková pravidla typu 'jestliže selžu, nikdo mě nebude mít rád'",
+   "Jsou to nevědomé fantazie dostupné jen volnou asociací"
+  ],
+  "correct": 1,
+  "explanation": "Automatické myšlenky jsou nejpovrchnější a nejsnáze dostupná vrstva kognice — bleskové, situačně spouštěné komentáře, které lze zachytit sebemonitorováním. Absolutní soudy o sobě jsou jádrová přesvědčení, podmínková pravidla jsou dysfunkční předpoklady; volná asociace patří psychoanalýze, ne kognitivnímu modelu.",
+  "source": "Beck, J. S.: Cognitive Behavior Therapy: Basics and Beyond, 3rd ed., Guilford Press, 2020",
+  "seedElo": 1300
+ },
+ {
+  "id": "sme-010",
+  "type": "F",
+  "category": "smery-mosty",
+  "text": "Co tvoří Beckovu kognitivní triádu deprese?",
+  "options": [
+   "Negativní pohled na minulost, přítomnost a budoucnost",
+   "Negativní pohled na sebe, na rodiče a na terapeuta",
+   "Negativní emoce, negativní chování a negativní myšlení",
+   "Negativní pohled na sebe, na svět (zkušenost) a na budoucnost"
+  ],
+  "correct": 3,
+  "explanation": "Beck popsal depresivní myšlení jako triádu negativního vidění sebe ('jsem vadný'), světa a vlastní zkušenosti ('vše je proti mně') a budoucnosti ('nic se nezlepší'). Časová osa minulost–přítomnost–budoucnost je častý zkreslený dojem; triáda emocí, chování a myšlení popisuje obecný KBT model, ne triádu deprese.",
+  "source": "Beck, A. T.: Depression: Clinical, Experimental, and Theoretical Aspects, 1967; Beck, A. T. et al.: Cognitive Therapy of Depression, Guilford Press, 1979",
+  "seedElo": 1300
+ },
+ {
+  "id": "sme-011",
+  "type": "F",
+  "category": "smery-mosty",
+  "text": "Jakou typickou formu mají dysfunkční předpoklady (intermediate beliefs) v kognitivním modelu?",
+  "options": [
+   "Absolutních soudů: 'Jsem neschopný'",
+   "Situačních komentářů: 'Tohle zase zkazím'",
+   "Podmínkových pravidel: 'Jestliže nebudu perfektní, ostatní mnou pohrdnou'",
+   "Tělesných pocitů doprovázejících emoci"
+  ],
+  "correct": 2,
+  "explanation": "Dysfunkční předpoklady jsou střední vrstva kognitivní hierarchie — podmínková pravidla a strategie ('jestliže–pak', 'musím', 'měl bych'), která chrání před aktivací jádrového přesvědčení. Absolutní soudy jsou jádrová přesvědčení, situační komentáře automatické myšlenky; tělesné pocity do kognitivní hierarchie nepatří.",
+  "source": "Beck, J. S.: Cognitive Behavior Therapy: Basics and Beyond, 3rd ed., Guilford Press, 2020",
+  "seedElo": 1500
+ },
+ {
+  "id": "sme-012",
+  "type": "F",
+  "category": "smery-mosty",
+  "text": "Jaký je primární cíl sokratovského dialogu v kognitivní terapii?",
+  "options": [
+   "Přesvědčit klienta logickými argumenty o iracionalitě jeho myšlenek",
+   "Vést klienta otázkami k vlastnímu objevení nových perspektiv (řízené objevování)",
+   "Získat od klienta anamnestická data strukturovaným rozhovorem",
+   "Vyvolat katarzi konfrontací s vytěsněným materiálem"
+  ],
+  "correct": 1,
+  "explanation": "Padesky zdůrazňuje, že sokratovský dialog je řízené objevování (guided discovery), ne křížový výslech: klient má sám dojít k závěru, protože jen tak mu uvěří. Přesvědčování argumenty je častá začátečnická chyba, která posiluje odpor. Anamnéza a katarze jsou cíle jiných postupů.",
+  "source": "Padesky, C. A.: Socratic Questioning: Changing Minds or Guiding Discovery?, keynote EABCT, 1993",
+  "seedElo": 1500
+ },
+ {
+  "id": "sme-013",
+  "type": "F",
+  "category": "smery-mosty",
+  "text": "Čím se model inhibičního učení (Craske) liší od klasického habituačního vysvětlení expozice?",
+  "options": [
+   "Tvrdí, že expozice funguje jen v kombinaci s medikací",
+   "Tvrdí, že strachová paměť se při expozici trvale vymaže",
+   "Tvrdí, že expozice musí probíhat postupně po malých krocích",
+   "Tvrdí, že klíčové je nové bezpečnostní učení, nikoli pokles strachu během sezení"
+  ],
+  "correct": 3,
+  "explanation": "Podle inhibičního učení expozice nevymazává starou strachovou asociaci, ale vytváří novou ('CS neznamená nebezpečí'), která se starou soutěží — proto pokles úzkosti během sezení není nutnou podmínkou úspěchu a důležitější je porušení očekávání (expectancy violation). Habituační model naopak stavěl právě na poklesu strachu v rámci sezení. Postupnost ani medikace nejsou jádrem sporu.",
+  "source": "Craske, M. G. et al.: Maximizing exposure therapy: An inhibitory learning approach, Behaviour Research and Therapy, 58, 2014",
+  "seedElo": 1700,
+  "deepDive": "Posun od habituace k inhibičnímu učení je jedna z nejdůležitějších revizí v moderní KBT. Prakticky mění vedení expozice: místo 'zůstaňte, dokud úzkost neklesne na polovinu' se terapeut ptá '**co přesně očekáváte, že se stane — a stalo se to?**'. Doporučení z toho plynoucí: maximalizovat rozpor mezi očekáváním a výsledkem, variovat kontexty a podněty (nové učení je kontextově vázané, proto se strach vrací), vysadit bezpečnostní chování a občas kombinovat více obávaných podnětů najednou (deepened extinction). Zajímavý most: 'stará paměť se nemaže, jen dostává konkurenci' rezonuje s psychodynamickou tezí, že minulost se nepřepisuje, ale získává nové významy."
+ },
+ {
+  "id": "sme-014",
+  "type": "F",
+  "category": "smery-mosty",
+  "text": "Co je v IFS břemeno (burden)?",
+  "options": [
+   "Extrémní přesvědčení nebo emoce, které část převzala ze zraňující zkušenosti a které lze rituálně odložit",
+   "Vrozená negativní vlastnost části, kterou nelze změnit",
+   "Zátěž, kterou terapeut přebírá od klienta v protipřenosu",
+   "Diagnóza, kterou klient vnímá jako stigma"
+  ],
+  "correct": 0,
+  "explanation": "Burden není podstatou části — je to 'náklad' (např. 'jsem bezcenná', hrůza, stud), který část převzala v okamžiku zranění a který lze v procesu unburdening odložit, čímž se část uvolní pro svou původní zdravou roli. Právě oddělitelnost břemene od části odlišuje IFS od pojetí neměnných rysů; protipřenos ani stigma s pojmem nesouvisí.",
+  "source": "Schwartz, R. C. & Sweezy, M.: Internal Family Systems Therapy, 2nd ed., Guilford Press, 2020",
+  "seedElo": 1500
+ },
+ {
+  "id": "sme-015",
+  "type": "F",
+  "category": "smery-mosty",
+  "text": "Co je empatická konfrontace ve schematerapii?",
+  "options": [
+   "Konfrontace klienta s nahrávkou jeho vlastního chování",
+   "Vyjádření terapeutovy frustrace autentickým sebeodhalením",
+   "Laskavé pojmenování klientova maladaptivního vzorce s uznáním jeho vývojového původu i jeho současné ceny",
+   "Přímé vyvracení klientových kognitivních omylů argumenty"
+  ],
+  "correct": 2,
+  "explanation": "Empatická konfrontace drží obě polohy najednou: 'rozumím, kde se to vzalo a čemu to kdysi sloužilo' a zároveň 'teď vás to poškozuje a udržuje schéma'. Právě spojení validace s konfrontací ji odlišuje od pouhého vyvracení omylů i od terapeutova sebeodhalení; nahrávky s pojmem nesouvisí.",
+  "source": "Young, J. E., Klosko, J. S., Weishaar, M. E.: Schema Therapy: A Practitioner's Guide, Guilford Press, 2003",
+  "seedElo": 1400
+ },
+ {
+  "id": "sme-016",
+  "type": "X",
+  "category": "smery-mosty",
+  "text": "Klient se roky vyhýbá společenským akcím. Jak by tento jev nejspíš konceptualizoval IFS terapeut?",
+  "options": [
+   "Vyhýbání je udržováno negativním posílením: úleva po vyhnutí posiluje vyhýbavé chování a brání vyvrácení katastrofických predikcí",
+   "Vyhýbání je strategie ochranné části (manažera), která brání situacím, jež by mohly aktivovat bolest zraněného exila",
+   "Vyhýbání je projev módu odtažitého ochránce, který odpojuje od schematické bolesti odmítnutí",
+   "Vyhýbání je obrana ega proti úzkosti z nevědomého konfliktu mezi přáním kontaktu a strachem z něj"
+  ],
+  "correct": 1,
+  "explanation": "IFS čte vyhýbání jako práci konkrétní ochranné části s pozitivním záměrem — manažer preventivně drží klienta dál od spouštěčů exilové bolesti, a terapeut by se té části ptal, čeho se bojí, že by se stalo, kdyby přestala. První možnost je behaviorální analýza KBT, třetí schematerapeutický mód, čtvrtá klasická psychodynamická formulace obrany.",
+  "source": "Schwartz, R. C. & Sweezy, M.: Internal Family Systems Therapy, 2nd ed., Guilford Press, 2020",
+  "seedElo": 1500
+ },
+ {
+  "id": "sme-017",
+  "type": "X",
+  "category": "smery-mosty",
+  "text": "Tentýž jev — dlouhodobé vyhýbání společenským situacím. Jak by ho nejspíš konceptualizoval KBT terapeut?",
+  "options": [
+   "Jako chování udržované negativním posílením, které brání korektivní zkušenosti a testování katastrofických predikcí",
+   "Jako přenosové opakování raného vzorce odmítajícího objektu na současné vztahy",
+   "Jako polarizaci mezi částí toužící po kontaktu a částí, která před ním chrání",
+   "Jako vyhýbavý zvládací styl schématu sociální izolace vzniklého v dětství"
+  ],
+  "correct": 0,
+  "explanation": "KBT formulace stojí na udržovacích mechanismech tady a teď: vyhnutí přináší okamžitou úlevu (negativní posílení), takže se opakuje, a klient se nikdy nedozví, že by katastrofa nenastala — proto je lékem expozice a behaviorální experiment. Přenos patří psychodynamice, polarizace částí IFS a schéma se zvládacím stylem schematerapii.",
+  "source": "Clark, D. M. & Wells, A.: A cognitive model of social phobia, in Heimberg et al. (eds.): Social Phobia, Guilford Press, 1995",
+  "seedElo": 1500
+ },
+ {
+  "id": "sme-018",
+  "type": "X",
+  "category": "smery-mosty",
+  "text": "Klientka se po každé drobné chybě zasypává tvrdou sebekritikou. Jak by tento jev nejspíš konceptualizovala schematerapie?",
+  "options": [
+   "Jako agresi původně mířenou na druhé, obrácenou proti vlastnímu já",
+   "Jako ochrannou část, která kritikou předbíhá očekávanou kritiku zvenčí",
+   "Jako aktivovaný mód trestajícího rodiče — internalizovaný hlas kritické pečující osoby útočící na zranitelné dítě",
+   "Jako automatické myšlenky sycené jádrovým přesvědčením o vlastní nedostatečnosti"
+  ],
+  "correct": 2,
+  "explanation": "Schematerapie čte krutou sebekritiku jako mód trestajícího rodiče (u Younga původně 'punitive parent'), tedy internalizaci reálného kritického či trestajícího hlasu z dětství, a terapeut se vůči němu aktivně vymezuje. Obrácení agrese proti já je psychodynamická formulace, ochranná část IFS a hierarchie myšlenek a přesvědčení patří KBT.",
+  "source": "Young, J. E., Klosko, J. S., Weishaar, M. E.: Schema Therapy: A Practitioner's Guide, Guilford Press, 2003",
+  "seedElo": 1400
+ },
+ {
+  "id": "sme-019",
+  "type": "X",
+  "category": "smery-mosty",
+  "text": "Tatáž nemilosrdná sebekritika po chybách. Jak by ji nejspíš konceptualizoval IFS terapeut?",
+  "options": [
+   "Jako projev krutého superega vzniklého identifikací s rodičovskou autoritou",
+   "Jako kognitivní omyl nadměrného zobecňování z jednotlivé chyby na celou osobu",
+   "Jako trestající rodičovský mód, který je třeba v terapii omezit a vykázat",
+   "Jako kritizujícího manažera, který se navzdory drsné metodě snaží klienta chránit — třeba před selháním nebo odmítnutím druhými"
+  ],
+  "correct": 3,
+  "explanation": "IFS předpokládá, že i vnitřní kritik je ochránce s pozitivním záměrem: kritikou se snaží předejít větší bolesti (např. ponížení zvenčí), a cesta k němu vede přes zvědavost na jeho funkci, ne přes boj s ním. To je klíčový kontrast se schematerapií, která trestající mód aktivně omezuje. Superego je psychodynamický pojem, nadměrné zobecňování KBT.",
+  "source": "Schwartz, R. C. & Sweezy, M.: Internal Family Systems Therapy, 2nd ed., Guilford Press, 2020",
+  "seedElo": 1500
+ },
+ {
+  "id": "sme-020",
+  "type": "X",
+  "category": "smery-mosty",
+  "text": "Táž tvrdá sebekritika. Která formulace odpovídá klasické psychodynamické tradici?",
+  "options": [
+   "Agrese původně mířená na zklamávající objekt je obrácena proti vlastnímu já a živí kruté superego",
+   "Sebekritika je naučená vnitřní řeč udržovaná jádrovým přesvědčením 'jsem vadný'",
+   "Sebekritika je mód internalizovaného rodiče, který terapeut obchází, aby chránil zranitelné dítě",
+   "Sebekritika je část systému, jejíž pozitivní záměr je třeba zvědavě prozkoumat"
+  ],
+  "correct": 0,
+  "explanation": "Freud v Truchlení a melancholii popsal melancholickou sebekritiku jako výčitky původně patřící ztracenému či zklamávajícímu objektu, které se po identifikaci s ním obracejí proti vlastnímu já; pozdější teorie to rozpracovala jako kruté superego a vnitřní zlý objekt. Druhá možnost je KBT, třetí schematerapie, čtvrtá IFS.",
+  "source": "Freud, S.: Trauer und Melancholie (Truchlení a melancholie), 1917",
+  "seedElo": 1700,
+  "deepDive": "Sebekritika je krásný testovací kámen pro srovnání směrů, protože ji každý vidí jinak — a všechny čtyři optiky jdou složit dohromady. Psychodynamika ptá se **odkud hlas pochází** (identifikace s objektem, obrácená agrese), schematerapie **čí je to hlas** (internalizovaný trestající rodič) a bojuje s ním, IFS ptá se **čemu hlas slouží** (ochrana před horší bolestí) a spojenčí se s ním, KBT ptá se **co hlas říká a jak to udržuje problém** (přesvědčení, omyly) a testuje ho. Pozoruhodné je, že schematerapie a IFS se tu prakticky rozcházejí nejvíc: Young mód trestajícího rodiče vykázat chce, Schwartz by i 'trestajícího' kritika vítal jako ochránce. Empiricky jde přitom o týž jev — rozdíl je čistě v modelu a z něj plynoucí intervenci."
+ },
+ {
+  "id": "sme-021",
+  "type": "X",
+  "category": "smery-mosty",
+  "text": "Klient při hádkách s partnerkou 'vypne' a několik hodin je jako v mlze. Jak by tuto disociaci nejspíš konceptualizoval IFS terapeut?",
+  "options": [
+   "Jako regresi ega do primitivnější obranné organizace při nadměrné úzkosti",
+   "Jako podmíněnou reakci, která byla v minulosti negativně posílena únikem z nesnesitelné situace",
+   "Jako zásah hasiče — reaktivního ochránce, který drastickým odpojením hasí exilovou bolest zaplavující systém",
+   "Jako přepnutí do módu odtažitého ochránce, který odřízne emoce spuštěné schématem"
+  ],
+  "correct": 2,
+  "explanation": "V IFS je náhlá disociace typická práce hasiče: exilová bolest prorazila, a hasič ji za každou cenu utne — otupěním, mlhou, odpojením. Klíčové je slovo 'reaktivně po zaplavení', které odlišuje hasiče od preventivních manažerů. Odtažitý ochránce je schematerapeutický mód, regrese ega psychodynamika a podmíněná reakce behaviorální analýza.",
+  "source": "Schwartz, R. C. & Sweezy, M.: Internal Family Systems Therapy, 2nd ed., Guilford Press, 2020",
+  "seedElo": 1500
+ },
+ {
+  "id": "sme-022",
+  "type": "X",
+  "category": "smery-mosty",
+  "text": "Klientka v terapii působí trvale zdvořile, věcně a bez emocí; na otázky po pocitech odpovídá 'nevím, asi nic'. Jak by tento obraz nejspíš konceptualizovala schematerapie?",
+  "options": [
+   "Jako alexithymii — deficit ve schopnosti rozpoznávat a pojmenovávat emoce, vhodný pro trénink emočních dovedností",
+   "Jako chronicky aktivní mód odtažitého ochránce, který odpojením chrání před bolestí schémat, ale zároveň blokuje terapii",
+   "Jako intelektualizaci a izolaci afektu — obrany, které oddělují myšlenkový obsah od emočního náboje",
+   "Jako manažerskou část, která drží emoce mimo, dokud si nevybuduje důvěru k terapeutovi"
+  ],
+  "correct": 1,
+  "explanation": "Trvalá emoční plochost a 'nevím' je pro schematerapii učebnicový odtažitý ochránce — mód, který Young považuje za hlavní překážku terapie u poruch osobnosti, protože brání kontaktu se zranitelným dítětem; terapeut ho empaticky konfrontuje a vyjednává jeho ústup. Intelektualizace a izolace afektu jsou psychodynamické obrany, manažerská část IFS, alexithymie deficitní model blízký KBT tréninku dovedností.",
+  "source": "Young, J. E., Klosko, J. S., Weishaar, M. E.: Schema Therapy: A Practitioner's Guide, Guilford Press, 2003",
+  "seedElo": 1500
+ },
+ {
+  "id": "sme-023",
+  "type": "X",
+  "category": "smery-mosty",
+  "text": "Klient tráví hodiny přepisováním běžných pracovních e-mailů, aby byly dokonalé. Jak by tento perfekcionismus nejspíš konceptualizoval kognitivní terapeut?",
+  "options": [
+   "Jako manažerskou část, která dokonalostí chrání zraněnou část nesoucí stud ze selhání",
+   "Jako nadměrnou kompenzaci schématu defektnosti vzniklého v kritickém rodinném prostředí",
+   "Jako projev nároků ideálního já, jehož nedosažení vyvolává nevědomý stud",
+   "Jako chování řízené dysfunkčním předpokladem 'jestliže neodvedu dokonalou práci, ukáže se, že jsem neschopný'"
+  ],
+  "correct": 3,
+  "explanation": "Kognitivní formulace umístí perfekcionismus do hierarchie: jádrové přesvědčení o neschopnosti je drženo v šachu podmínkovým pravidlem 'jestliže dokonale, pak v bezpečí', které řídí kompenzační chování — a právě to pravidlo se testuje behaviorálními experimenty (např. záměrně poslat 'dost dobrý' e-mail). Části patří IFS, nadměrná kompenzace schematerapii, ideální já a nevědomý stud psychodynamice.",
+  "source": "Beck, J. S.: Cognitive Behavior Therapy: Basics and Beyond, 3rd ed., Guilford Press, 2020; Shafran, R. et al.: Clinical perfectionism, Behaviour Research and Therapy, 2002",
+  "seedElo": 1500
+ },
+ {
+  "id": "sme-024",
+  "type": "X",
+  "category": "smery-mosty",
+  "text": "Tentýž perfekcionismus. Která konceptualizace odpovídá psychodynamické tradici?",
+  "options": [
+   "Perfekcionismus slouží nárokům přísného ideálu já a superega a brání proti nevědomému studu a pocitům nedostačivosti",
+   "Perfekcionismus je nadměrná kompenzace raného schématu defektnosti či selhání",
+   "Perfekcionismus je strategie manažera, který chce předejít aktivaci exila poníženého kritikou",
+   "Perfekcionismus je udržován podmínkovým předpokladem spojujícím výkon s přijatelností"
+  ],
+  "correct": 0,
+  "explanation": "Psychodynamické čtení pracuje s vnitřní strukturou: perfekcionismus usmiřuje přísné superego a chrání před setkáním s nevědomým studem a pocitem nedostačivosti vůči ideálu já; terapie zkoumá původ těchto nároků ve vztazích. Kompenzace schématu je Young, manažer a exil Schwartz, podmínkový předpoklad Beck — všechny popisují týž jev, ale jinou mapou.",
+  "source": "Freud, S.: Zavedení narcismu, 1914; McWilliams, N.: Psychoanalytic Diagnosis, 2nd ed., Guilford Press, 2011",
+  "seedElo": 1700
+ },
+ {
+  "id": "sme-025",
+  "type": "X",
+  "category": "smery-mosty",
+  "text": "Klient se na terapeuta rozzlobí: 'Stejně vám jde jen o peníze, jako všem.' Jak by tuto reakci nejspíš konceptualizovala psychodynamická tradice?",
+  "options": [
+   "Jako aktivaci schématu nedůvěry a zneužití, které terapeut vyvažuje limited reparentingem",
+   "Jako přenos — na terapeuta se přesouvá šablona raného vztahu s nespolehlivým či zneužívajícím objektem, a právě to je cenný materiál k práci",
+   "Jako automatickou myšlenku čtení myšlenek, kterou lze sokratovsky prozkoumat a otestovat",
+   "Jako ochrannou část, která útokem testuje, zda je terapeut bezpečný pro přístup ke zranitelnosti"
+  ],
+  "correct": 1,
+  "explanation": "Psychodynamicky je zlost na terapeuta prototypický přenos: klient nereaguje jen na reálného terapeuta, ale na oživlou šablonu raného objektu, a analýza přenosu tady a teď je centrální nástroj změny. Schéma nedůvěry je Youngova verze téže šablony, čtení myšlenek Beckova a testující ochránce Schwartzova — mosty mezi směry jsou tu obzvlášť viditelné.",
+  "source": "Freud, S.: Zur Dynamik der Übertragung, 1912; Gabbard, G. O.: Psychodynamic Psychiatry in Clinical Practice, 5th ed., 2014",
+  "seedElo": 1400
+ },
+ {
+  "id": "sme-026",
+  "type": "X",
+  "category": "smery-mosty",
+  "text": "Tentýž vztek na terapeuta ('jde vám jen o peníze'). Jak by s ním nejspíš pracoval IFS terapeut na úrovni konceptualizace?",
+  "options": [
+   "Jako s přenosovým opakováním vztahu k nespolehlivému rodiči, které je třeba interpretovat",
+   "Jako s aktivací módu rozzlobeného dítěte, jehož potřeby terapeut validuje a sytí",
+   "Jako s promluvou ochranné části: zeptá se, kdo z vnitřního systému teď mluví a před čím klienta chrání",
+   "Jako s testovatelnou predikcí o motivech terapeuta, kterou lze společně přezkoumat"
+  ],
+  "correct": 2,
+  "explanation": "IFS terapeut vztek nezpochybňuje ani neinterpretuje, ale zvědavě ho osloví jako část: 'Slyším část, která mi nevěří — co ji ke mně takhle staví? Před čím vás chrání?' Cíl je pomoci klientovi s částí unblendovat a navázat s ní vztah ze Self. Interpretace přenosu je psychodynamika, mód rozzlobeného dítěte schematerapie, testování predikce KBT.",
+  "source": "Schwartz, R. C. & Sweezy, M.: Internal Family Systems Therapy, 2nd ed., Guilford Press, 2020",
+  "seedElo": 1500
+ },
+ {
+  "id": "sme-027",
+  "type": "X",
+  "category": "smery-mosty",
+  "text": "Student s vynikajícími schopnostmi opakovaně odkládá psaní diplomové práce, až mu hrozí vyhazov. Jak by tuto prokrastinaci nejspíš konceptualizovala schematerapie?",
+  "options": [
+   "Jako vyhýbavý zvládací styl: odkládáním se student vyhýbá aktivaci schématu selhání a bolesti s ním spojené",
+   "Jako pasivní agresi vůči internalizované rodičovské autoritě, která výkon vyžaduje",
+   "Jako deficit dovedností plánování a řízení času vhodný pro nácvik",
+   "Jako polarizaci mezi částí, která tlačí na výkon, a částí, která stávkuje proti tlaku"
+  ],
+  "correct": 0,
+  "explanation": "Schematerapie rozlišuje tři zvládací styly — kapitulaci, vyhýbání a nadměrnou kompenzaci; prokrastinace je typické behaviorální vyhýbání, které krátkodobě chrání před bolestí schématu selhání ('stejně to zkazím'), ale dlouhodobě ho potvrzuje. Pasivní agrese je psychodynamické čtení, deficit dovedností behaviorální, polarizace částí IFS.",
+  "source": "Young, J. E., Klosko, J. S., Weishaar, M. E.: Schema Therapy: A Practitioner's Guide, Guilford Press, 2003",
+  "seedElo": 1500
+ },
+ {
+  "id": "sme-028",
+  "type": "X",
+  "category": "smery-mosty",
+  "text": "Klientka se po večerech, kdy se cítí osaměle, záchvatovitě přejídá. Jak by tento vzorec nejspíš konceptualizoval IFS terapeut?",
+  "options": [
+   "Jako naučené chování udržované krátkodobou úlevou, kterou jídlo přináší (negativní posílení)",
+   "Jako selhání módu zdravého dospělého v regulaci impulzivního dítěte",
+   "Jako orální fixaci — návrat k nejranějšímu způsobu sycení při frustraci vztahových potřeb",
+   "Jako hasiče, který jídlem rychle tlumí bolest osamělého exila, jakmile se večer vynoří"
+  ],
+  "correct": 3,
+  "explanation": "Záchvatovité přejídání je v IFS klasický hasičský zásah: reaktivní, impulzivní, bez ohledu na následky, s jediným cílem — okamžitě utnout exilovou bolest osamělosti. Terapie proto nezačíná bojem s jídlem, ale vztahem s hasičem a posléze s exilem, kterého chrání. Negativní posílení je KBT, módy schematerapie, orální fixace klasická psychoanalýza.",
+  "source": "Schwartz, R. C. & Sweezy, M.: Internal Family Systems Therapy, 2nd ed., Guilford Press, 2020",
+  "seedElo": 1400
+ },
+ {
+  "id": "sme-029",
+  "type": "X",
+  "category": "smery-mosty",
+  "text": "Manažer se hroutí, kdykoli nedostane pochvalu od nadřízené. Jak by tuto závislost na uznání nejspíš konceptualizoval kognitivní terapeut?",
+  "options": [
+   "Jako schéma hledání souhlasu a uznání, kdy vlastní hodnota závisí na reakcích druhých",
+   "Jako jádrové přesvědčení o vlastní bezcennosti kompenzované předpokladem 'mám hodnotu, jen když mě druzí oceňují'",
+   "Jako nenasycenou zrcadlící potřebu self, která hledá selfobjektovou odpověď v nadřízené",
+   "Jako exila nesoucího přesvědčení o bezcennosti, o kterého pečují části shánějící pochvalu"
+  ],
+  "correct": 1,
+  "explanation": "Kognitivní formulace: latentní jádrové přesvědčení 'jsem bezcenný' je kompenzováno podmínkovým předpokladem vážícím hodnotu na vnější ocenění — když pochvala nepřijde, předpoklad selže a jádrové přesvědčení se aktivuje i s depresivní reakcí. Schéma hledání souhlasu je Youngův pojem, zrcadlící selfobjektová potřeba Kohutova self-psychologie, exil s pečujícími částmi IFS.",
+  "source": "Beck, A. T.: Cognitive Therapy and the Emotional Disorders, 1976; Beck, J. S.: Cognitive Behavior Therapy: Basics and Beyond, 3rd ed., 2020",
+  "seedElo": 1600
+ },
+ {
+  "id": "sme-030",
+  "type": "X",
+  "category": "smery-mosty",
+  "text": "Když partner odjede na služební cestu, zaplaví třicetiletou klientku nepřiměřeně intenzivní pocit opuštěnosti 'jako když byla malá'. Jak by tento prožitek nejspíš konceptualizovala schematerapie?",
+  "options": [
+   "Jako separační úzkost oživující nezpracovanou ranou ztrátu primárního objektu",
+   "Jako katastrofické predikce ('opustí mě') vyvolávající úzkostnou reakci, kterou lze otestovat proti důkazům",
+   "Jako aktivaci schématu opuštění a přepnutí do módu zranitelného dítěte, jehož intenzita odpovídá stáří schématu, ne současné situaci",
+   "Jako zaplavení systému mladým exilem, který nese bolest raného opuštění"
+  ],
+  "correct": 2,
+  "explanation": "Nepřiměřená intenzita a dětská kvalita prožitku jsou pro schematerapii poznávací znak aktivovaného schématu (zde opuštění/nestálost) a módu zranitelného dítěte — klientka nereaguje na víkendovou cestu, ale skrze schéma na celou historii opuštění. Exil zaplavující systém je totéž viděné IFS optikou, rané objektní ztráty psychodynamika, testovatelné predikce KBT.",
+  "source": "Young, J. E., Klosko, J. S., Weishaar, M. E.: Schema Therapy: A Practitioner's Guide, Guilford Press, 2003",
+  "seedElo": 1400
+ },
+ {
+  "id": "sme-031",
+  "type": "K",
+  "category": "smery-mosty",
+  "text": "Jaký je klíčový koncepční rozdíl mezi Self v IFS a módem zdravého dospělého ve schematerapii?",
+  "options": [
+   "Self je pojímáno jako vrozené, nepoškozené jádro, které stačí odkrýt; zdravý dospělý je mód, který se v terapii postupně buduje a posiluje",
+   "Self je vědomé, zdravý dospělý je nevědomý",
+   "Self řídí pouze emoce, zdravý dospělý pouze chování",
+   "Žádný rozdíl — jde o týž koncept pod různými názvy"
+  ],
+  "correct": 0,
+  "explanation": "IFS stojí na silném předpokladu, že Self nelze poškodit a je vždy přítomné pod vrstvami částí — terapeut ho neodstavuje, ale uvolňuje mu cestu. Schematerapie je skromnější: zdravý dospělý je funkční mód, který u řady pacientů téměř chybí a musí se modelovat a trénovat, zpočátku i 'zapůjčením' terapeutova zdravého dospělého. Rozdíly vědomí/nevědomí ani emoce/chování pojmy nevystihují.",
+  "source": "Schwartz, R. C. & Sweezy, M.: Internal Family Systems Therapy, 2nd ed., 2020; Young, J. E. et al.: Schema Therapy, 2003",
+  "seedElo": 1700,
+  "deepDive": "Tenhle rozdíl není akademická hračka — určuje strategii celé terapie. Pokud je zdravé jádro **vrozené** (IFS), je terapie archeologie: odkrýváš, co tam vždycky bylo, a hlavní intervencí je žádat části, aby ustoupily. Pokud se zdravý dospělý **buduje** (schematerapie), je terapie spíš stavba: terapeut modeluje, sytí, edukuje a postupně předává funkce, které klient internalizuje — což je mimochodem strukturálně velmi blízko psychodynamickému pojmu internalizace dobrého objektu. Zajímavý paradox: 'optimistická' IFS teze je zároveň méně ověřitelná (jak odlišit odkryté Self od nově naučené kapacity?), zatímco schematerapeutická stavba je pomalejší, ale popisuje mechanismus, který jde sledovat. V praxi se oba přístupy často potkají uprostřed."
+ },
+ {
+  "id": "sme-032",
+  "type": "K",
+  "category": "smery-mosty",
+  "text": "Čím se rané maladaptivní schéma (Young) liší od jádrového přesvědčení (Beck)?",
+  "options": [
+   "Schéma je vědomé, jádrové přesvědčení nevědomé",
+   "Jádrové přesvědčení vzniká v dětství, schéma kdykoli v životě",
+   "Schéma je širší struktura zahrnující kromě kognice i emoce, vzpomínky a tělesné pocity, a je definováno vazbou na nenaplněné vývojové potřeby",
+   "Jde o synonyma — Young pouze převzal Beckův pojem"
+  ],
+  "correct": 2,
+  "explanation": "Jádrové přesvědčení je primárně kognitivní obsah ('jsem bezcenný'); Youngovo schéma je celoosobnostní vzorec, který kromě přesvědčení obsahuje emoční paměť, tělesné prožitky a vzpomínky a je explicitně navázán na frustraci raných potřeb. Oba pojmy vznikají typicky v dětství a oba jsou spíše latentní než plně vědomé, takže první dvě možnosti neplatí; synonyma to nejsou.",
+  "source": "Young, J. E., Klosko, J. S., Weishaar, M. E.: Schema Therapy: A Practitioner's Guide, Guilford Press, 2003, kap. 1",
+  "seedElo": 1500,
+  "deepDive": "Youngovo rozšíření Beckova pojmu je přesně ten krok, kterým se KBT přiblížila psychodynamice. Beckovo jádrové přesvědčení je **výrok** — dá se vyvracet důkazy. Youngovo schéma je **prožitková struktura** — nese emoce, tělo a vzpomínky, takže racionální vyvracení nestačí ('vím, že to je nesmysl, ale cítím to tak') a je potřeba zážitková práce: imaginativní přepis, židle, limited reparenting. Odtud je už jen krok k psychodynamickému **vnitřnímu objektu**: schéma opuštění je funkčně velmi podobné internalizovanému opouštějícímu objektu, jen bez metapsychologie pudů. Young tenhle most stavěl vědomě — schematerapie je zřejmě nejúspěšnější oficiální integrace kognitivní a psychodynamické tradice."
+ },
+ {
+  "id": "sme-033",
+  "type": "K",
+  "category": "smery-mosty",
+  "text": "Unblending v IFS i kognitivní distancování (decentering) v KBT vytvářejí odstup od vnitřního prožitku. V čem se liší?",
+  "options": [
+   "Unblending pracuje s emocemi, distancování s myšlenkami",
+   "Distancování je zážitková technika, unblending čistě verbální",
+   "Unblending je cíl terapie, distancování jen vedlejší efekt",
+   "Unblending navíc předpokládá, že to, od čeho se oddělujeme, je část s vlastní perspektivou, se kterou pak Self naváže vztah"
+  ],
+  "correct": 3,
+  "explanation": "Oba postupy mění vztah k prožitku z 'jsem to já' na 'něco ve mně' — ale KBT distancování končí u pozorovací pozice ('myšlenka není fakt'), zatímco IFS pokračuje dál: oddělená část je vnitřní bytost, které se ptáme, nasloucháme jí a budujeme s ní vztah. První dvě možnosti stavějí falešné dichotomie (oba postupy pracují s myšlenkami i emocemi a oba mají zážitkový rozměr).",
+  "source": "Schwartz, R. C. & Sweezy, M.: Internal Family Systems Therapy, 2nd ed., 2020; Segal, Z. V., Williams, J. M. G., Teasdale, J. D.: Mindfulness-Based Cognitive Therapy for Depression, 2002",
+  "seedElo": 1700
+ },
+ {
+  "id": "sme-034",
+  "type": "K",
+  "category": "smery-mosty",
+  "text": "Jaký je vztah mezi limited reparentingem (schematerapie) a korektivní emoční zkušeností (Alexander a French)?",
+  "options": [
+   "Jde o protikladné koncepty — reparenting korektivní zkušenost odmítá",
+   "Limited reparenting je cílená, systematická aplikace principu korektivní emoční zkušenosti: terapeut záměrně nabízí odpověď protikladnou raným zraňujícím zkušenostem",
+   "Korektivní emoční zkušenost se týká jen chování, reparenting jen emocí",
+   "Oba pojmy pocházejí od Younga, jen z různých fází jeho díla"
+  ],
+  "correct": 1,
+  "explanation": "Alexander a French už v roce 1946 tvrdili, že léčí nová vztahová zkušenost, která vyvrací starou šablonu — teze tehdy psychoanalýzou z velké části odmítaná jako manipulace. Young tento princip přetavil v explicitní techniku: terapeut vědomě sytí potřeby, které byly frustrovány, a stává se tak protipříkladem schématu. Pojmy si neodporují a korektivní zkušenost od Younga nepochází.",
+  "source": "Alexander, F. & French, T. M.: Psychoanalytic Therapy, 1946; Young, J. E. et al.: Schema Therapy, 2003",
+  "seedElo": 1700,
+  "deepDive": "Osud korektivní emoční zkušenosti je jedna z nejlepších ilustrací, jak myšlenky mezi směry putují. Alexander s ní v roce 1946 přišel **uvnitř psychoanalýzy** — a byl za ni prakticky exkomunikován: záměrně 'hrát' jinou odpověď než rodič prý znamená manipulaci místo analýzy. O půl století později tentýž princip **vplul zpátky** dvěma kanály: schematerapie z něj udělala techniku (limited reparenting) a moderní psychodynamické směry i výzkum common factors ho rehabilitovaly jako jádro účinnosti terapeutického vztahu vůbec. Pointa pro kvíz i pro praxi: to, co jeden směr vyloučí jako herezi, se jinému stane vlajkovou lodí — a pacientovi je jedno, kdo si to připíše."
+ },
+ {
+  "id": "sme-035",
+  "type": "K",
+  "category": "smery-mosty",
+  "text": "Čím se pojetí částí v IFS liší od pojetí egostavů v terapii egostavů (Watkins) a od patologických vnitřních stavů obecně?",
+  "options": [
+   "IFS trvá na tom, že mnohočetnost mysli je normální vlastnost každé psychiky a každá část má pozitivní záměr — nejde o produkt patologie ani o fragmenty vzniklé jen traumatem",
+   "IFS na rozdíl od egostavové terapie pracuje jen s vědomými stavy",
+   "Egostavy jsou vrozené, části v IFS vznikají výhradně učením",
+   "IFS části nemají vlastní emoce, egostavy ano"
+  ],
+  "correct": 0,
+  "explanation": "Schwartzova radikální teze zní: multiplicita je přirozená architektura mysli, ne známka poruchy — části mají i zdraví lidé a žádná část není ve své podstatě špatná. Egostavová tradice a disociační modely častěji chápou výrazné oddělené stavy jako důsledek traumatu či patologické disociace. Zbylé možnosti obracejí nebo vymýšlejí rozdíly, které modely netvrdí.",
+  "source": "Schwartz, R. C.: Internal Family Systems Therapy, 1995; Watkins, J. G. & Watkins, H. H.: Ego States: Theory and Therapy, 1997",
+  "seedElo": 1700
+ },
+ {
+  "id": "sme-036",
+  "type": "K",
+  "category": "smery-mosty",
+  "text": "Jaký je hlavní rozdíl mezi behaviorálním experimentem a expozicí v KBT?",
+  "options": [
+   "Behaviorální experiment probíhá v představách, expozice v reálu",
+   "Expozice je vždy delší než behaviorální experiment",
+   "Behaviorální experiment primárně testuje konkrétní predikci či přesvědčení, expozice primárně cílí na nové učení ve vztahu k obávanému podnětu opakovaným kontaktem",
+   "Žádný — jde o dva názvy téže techniky"
+  ],
+  "correct": 2,
+  "explanation": "Behaviorální experiment je epistemický nástroj: formuluje se hypotéza ('když se zeptám, vysmějí se mi'), naplánuje test a vyhodnotí výsledek proti predikci. Expozice je nástroj emočního učení: systematický kontakt s obávaným podnětem bez únikového chování. V praxi se překrývají (moderní expozice s porušováním očekávání se experimentu blíží), ale cílová proměnná se liší — přesvědčení vs. strachová asociace. Obě techniky mohou probíhat v reálu i v imaginaci.",
+  "source": "Bennett-Levy, J. et al. (eds.): Oxford Guide to Behavioural Experiments in Cognitive Therapy, Oxford University Press, 2004",
+  "seedElo": 1600
+ },
+ {
+  "id": "sme-037",
+  "type": "K",
+  "category": "smery-mosty",
+  "text": "Empatická konfrontace (schematerapie) i interpretace obrany (psychodynamika) pojmenovávají klientův maladaptivní vzorec. V čem se přístupy liší?",
+  "options": [
+   "Interpretace obrany vzorec kritizuje, empatická konfrontace ho schvaluje",
+   "Empatická konfrontace je explicitně edukativní a direktivnější — pojmenovává vzorec, jeho původ i cenu a rovnou vybízí ke změně; interpretace cílí primárně na vhled do nevědomé funkce obrany a změnu nechává vyrůst z porozumění",
+   "Empatická konfrontace se používá jen u poruch osobnosti, interpretace jen u neuróz",
+   "Interpretace se smí vyslovit až po letech terapie, empatická konfrontace na prvním sezení"
+  ],
+  "correct": 1,
+  "explanation": "Oba zásahy říkají 'dělá se tu něco, co vás chrání a zároveň omezuje' — liší se ale postoj a cíl: schematerapeut vzorec otevřeně edukuje, validuje jeho vývojový smysl a aktivně tlačí ke zdravější alternativě, zatímco analytik nabízí hypotézu o nevědomé funkci a spoléhá, že vhled uvolní změnu. Ani jeden přístup vzorec nekritizuje ani neschvaluje a rozdíly podle diagnózy či striktního načasování jsou karikatury.",
+  "source": "Young, J. E. et al.: Schema Therapy, 2003; Greenson, R. R.: The Technique and Practice of Psychoanalysis, 1967",
+  "seedElo": 1700
+ },
+ {
+  "id": "sme-038",
+  "type": "K",
+  "category": "smery-mosty",
+  "text": "Proč schematerapie k pojmovému aparátu schémat později přidala koncept módů?",
+  "options": [
+   "Protože schémata se ukázala jako neměřitelná",
+   "Aby se odlišila od Beckovy kognitivní terapie z licenčních důvodů",
+   "Protože módy lépe vysvětlují poruchy z dětství, zatímco schémata poruchy v dospělosti",
+   "Protože u pacientů s hraniční a narcistickou strukturou se mnoho schémat rychle střídá — mód zachycuje aktuálně aktivovaný stav (state), zatímco schéma je trvalá dispozice (trait)"
+  ],
+  "correct": 3,
+  "explanation": "U hraničních pacientů Young narazil na to, že práce s 15 a více schématy najednou je nepřehledná a nezachycuje dramatické přepínání stavů v sezení; mód jako 'schémata a zvládací reakce právě teď v akci' umožnil pracovat s tím, co je v místnosti. Jde tedy o doplněk trait modelu o state model, ne o náhradu — a rozhodně ne o licenční či vývojově-diagnostické rozlišení.",
+  "source": "Young, J. E., Klosko, J. S., Weishaar, M. E.: Schema Therapy: A Practitioner's Guide, Guilford Press, 2003, kap. 8",
+  "seedElo": 1600
+ },
+ {
+  "id": "sme-039",
+  "type": "V",
+  "category": "smery-mosty",
+  "text": "Klientka dosud o svém vnitřním kritikovi mluvila se zaťatými pěstmi ('nenávidím ho'). Dnes říká: 'Je mi ho vlastně líto — zajímalo by mě, proč pořád tak křičí.' Co tento posun signalizuje z hlediska IFS modelu?",
+  "options": [
+   "Nástup Self-energie: zvědavost a soucit vůči části naznačují, že klientka s ní přestává být splynutá a mluví ze Self",
+   "Reakční formaci — nenávist ke kritikovi se obrátila v předstíranou lítost",
+   "Rozvoj kognitivní defuze — klientka rozpoznala, že myšlenky kritika nejsou fakta",
+   "Přepnutí z módu trestajícího rodiče do módu zdravého dospělého"
+  ],
+  "correct": 0,
+  "explanation": "Zvědavost a soucit jsou dvě z osmi C-vlastností Self; jejich spontánní objevení vůči dříve nenáviděné části je pro IFS terapeuta klíčový signál, že proběhl unblending — nenávist ke kritikovi totiž patřila jiné, polarizované části, ne Self. Reakční formace je psychodynamický, defuze KBT/ACT a módy schematerapeutický popis, které otázka svým kritériem 'z hlediska IFS' vylučuje.",
+  "source": "Schwartz, R. C. & Sweezy, M.: Internal Family Systems Therapy, 2nd ed., Guilford Press, 2020",
+  "seedElo": 1500
+ },
+ {
+  "id": "sme-040",
+  "type": "V",
+  "category": "smery-mosty",
+  "text": "Klient v polovině sezení, těsně poté, co se dotkl vzpomínky na otcovo ponižování, začne mluvit monotónně, dívá se z okna a říká: 'No, ale to je stará historie, to je jedno. Co jsme měli za úkol?' Který mód je z hlediska schematerapie nejpravděpodobněji aktivní?",
+  "options": [
+   "Zlostné dítě",
+   "Trestající rodič",
+   "Odtažitý ochránce",
+   "Zdravý dospělý"
+  ],
+  "correct": 2,
+  "explanation": "Náhlé emoční odpojení, bagatelizace ('to je jedno') a únik k neutrálnímu tématu přesně ve chvíli, kdy se aktivovala schematická bolest, je učebnicový odtažitý ochránce. Zlostné dítě by se projevilo afektem, trestající rodič sebekritikou; zdravý dospělý by bolestné téma dokázal držet, ne z něj uniknout — věcný tón se za zdravého dospělého jen maskuje.",
+  "source": "Young, J. E., Klosko, J. S., Weishaar, M. E.: Schema Therapy: A Practitioner's Guide, Guilford Press, 2003",
+  "seedElo": 1400
+ },
+ {
+  "id": "sme-041",
+  "type": "V",
+  "category": "smery-mosty",
+  "text": "Klient: 'Šéf dnes na poradě zívl, když jsem mluvil. Nudím ho, moje prezentace byla katastrofa a asi mě chce vyhodit.' Který kognitivní omyl je v úsudku 'zívl, protože ho nudím já' nejvýrazněji přítomen z hlediska Beckovy taxonomie?",
+  "options": [
+   "Dichotomické myšlení",
+   "Personalizace",
+   "Emoční usuzování",
+   "Selektivní abstrakce zaměřená na pozitivní detaily"
+  ],
+  "correct": 1,
+  "explanation": "Personalizace je vztažení vnějších událostí k sobě bez dostatečných důkazů — zívnutí šéfa má desítky pravděpodobnějších příčin než klientovu nudnost. V úsudku lze najít i katastrofizaci ('chce mě vyhodit'), ale jádrový krok 'zívl kvůli mně' je personalizace. Dichotomické myšlení by vyžadovalo černobílou škálu, emoční usuzování odvození faktu z pocitu; selektivní abstrakce míří na negativní, ne pozitivní detaily.",
+  "source": "Beck, A. T.: Cognitive Therapy and the Emotional Disorders, International Universities Press, 1976",
+  "seedElo": 1400
+ },
+ {
+  "id": "sme-042",
+  "type": "V",
+  "category": "smery-mosty",
+  "text": "Klientka popisuje týdenní cyklus: část týdne pracuje do vyčerpání a nedovolí si pauzu, pak se na dva dny 'zhroutí' k seriálům a nedokáže se přimět k ničemu — a pracovní část ji za to pak dvojnásob bičuje. Jak tento cyklus popisuje IFS model?",
+  "options": [
+   "Jako cyklotýmní kolísání nálad vyžadující stabilizaci režimu",
+   "Jako střídání módů nadměrného kompenzátora a odtažitého sebekonejšitele",
+   "Jako klasický cyklus restrikce a selhání řízený perfekcionistickými pravidly",
+   "Jako polarizaci dvou ochránců: čím víc jedna část tlačí, tím extrémněji druhá stávkuje — a vzájemně se eskalují"
+  ],
+  "correct": 3,
+  "explanation": "Polarizace je v IFS stav, kdy dvě části zaujímají extrémní protichůdné role a každá svou aktivitou posiluje extrém té druhé; terapie proto necílí na 'vítězství' jedné strany, ale na to, aby obě části důvěřovaly Self jako prostředníkovi. Módy jsou schematerapeutický popis, restrikční cyklus KBT model a cyklotymie psychiatrická diagnóza — otázka se ale ptá na IFS čtení.",
+  "source": "Schwartz, R. C. & Sweezy, M.: Internal Family Systems Therapy, 2nd ed., Guilford Press, 2020",
+  "seedElo": 1600
+ },
+ {
+  "id": "sme-043",
+  "type": "I",
+  "category": "smery-mosty",
+  "text": "Klient v sezení opakuje: 'Já prostě JSEM k ničemu, to není žádná část, to je fakt.' Je zcela splynutý s kritickým prožitkem. Jaký první krok je nejvhodnější z hlediska IFS modelu?",
+  "options": [
+   "Předložit klientovi důkazy z jeho života, které přesvědčení 'jsem k ničemu' vyvracejí",
+   "Podpořit unblending: požádat klienta, zda by prožitek 'jsem k ničemu' mohl na chvíli kousek poodstoupit, a zjistit, jak se klient vůči němu cítí",
+   "Interpretovat, že přesvědčení o bezcennosti je internalizovaný hlas odmítajícího rodiče",
+   "Vést klienta imaginací k výjevu z dětství a přepsat ho sycením potřeb zraněného dítěte"
+  ],
+  "correct": 1,
+  "explanation": "V IFS je při plném splynutí (blending) jakákoli práce s obsahem předčasná — dokud část mluví 'jako já', není k dispozici Self, které by s ní mohlo navázat vztah. Prvním krokem je proto vždy žádost o oddělení a test vztahu ('jak se vůči té části cítíte?'). Důkazy proti přesvědčení jsou postup KBT, interpretace internalizace psychodynamiky a imaginativní přepis schematerapie — z hlediska IFS kritéria nejsou prvním krokem.",
+  "source": "Schwartz, R. C. & Sweezy, M.: Internal Family Systems Therapy, 2nd ed., Guilford Press, 2020",
+  "seedElo": 1600
+ },
+ {
+  "id": "sme-044",
+  "type": "I",
+  "category": "smery-mosty",
+  "text": "V sezení se u klientky s hraniční strukturou hlasitě aktivuje trestající rodič: 'Jsi odporná, zasloužíš si trpět.' Jaká reakce terapeuta je nejvhodnější z hlediska schematerapie?",
+  "options": [
+   "Rozhodně se vůči trestajícímu módu vymezit, odmítnout jeho poselství a chránit zranitelné dítě, jehož potřeby následně sytí",
+   "Zvědavě trestající hlas oslovit a zeptat se, před čím se klientku snaží chránit",
+   "Zůstat neutrální a zkoumat, čí hlas klientka v trestajícím poselství slyší a k jaké rané zkušenosti patří",
+   "Zapsat trestající myšlenku do záznamu a společně zvážit důkazy pro a proti jejímu obsahu"
+  ],
+  "correct": 0,
+  "explanation": "Schematerapie je u trestajícího rodiče výjimečně nekompromisní: tento mód se nevyjednává ani nezkoumá se zvědavostí, ale omezuje a vykazuje ('tenhle hlas tady nemá slovo'), protože jakýkoli prostor pro něj retraumatizuje zranitelné dítě. Zvědavé oslovení hlasu je postup IFS, neutrální zkoumání původu psychodynamika a záznam s důkazy KBT — což ukazuje, jak zásadně se intervence u téhož jevu mezi směry liší.",
+  "source": "Young, J. E., Klosko, J. S., Weishaar, M. E.: Schema Therapy: A Practitioner's Guide, Guilford Press, 2003; Arntz, A. & van Genderen, H.: Schema Therapy for Borderline Personality Disorder, 2009",
+  "seedElo": 1700
+ },
+ {
+  "id": "sme-045",
+  "type": "I",
+  "category": "smery-mosty",
+  "text": "Klientka po prezentaci hlásí automatickou myšlenku: 'Všichni si mysleli, že jsem trapná.' Jaký první krok je nejvhodnější z hlediska Beckovy kognitivní terapie?",
+  "options": [
+   "Ujistit ji, že prezentace určitě trapná nebyla",
+   "Zaměřit se na tělesné prožitky studu a nechat je odeznít v přítomnosti",
+   "Sokratovsky prozkoumat důkazy pro a proti myšlence a zvážit alternativní vysvětlení reakcí publika",
+   "Hledat, kterou ranou vztahovou zkušenost pocit trapnosti oživuje"
+  ],
+  "correct": 2,
+  "explanation": "Kognitivní terapie zachází s automatickou myšlenkou jako s hypotézou: společně s klientkou zkoumá, co ji podporuje a co jí odporuje ('Viděla jste reakce všech? Co by sis pomyslela ty o kolegyni, která se přeřekne?'), případně naváže behaviorálním experimentem. Přímé ujišťování je protipól sokratovské práce a myšlenku dlouhodobě neoslabí; práce s tělem a hledání raných kořenů patří jiným tradicím, ne prvnímu kroku KBT.",
+  "source": "Beck, J. S.: Cognitive Behavior Therapy: Basics and Beyond, 3rd ed., Guilford Press, 2020",
+  "seedElo": 1400
+ }
+]

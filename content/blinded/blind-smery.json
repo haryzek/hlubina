@@ -1,0 +1,497 @@
+[
+ {
+  "id": "sme-001",
+  "type": "F",
+  "text": "Kdo je zakladatelem terapie vnitřních rodinných systémů (IFS)?",
+  "options": [
+   "Jeffrey Young",
+   "Richard Schwartz",
+   "Aaron Beck",
+   "Otto Kernberg"
+  ]
+ },
+ {
+  "id": "sme-002",
+  "type": "F",
+  "text": "Která z následujících vlastností NEPATŘÍ mezi osm C-vlastností Self v modelu IFS?",
+  "options": [
+   "Zvědavost (curiosity)",
+   "Soucit (compassion)",
+   "Kontrola (control)",
+   "Klid (calmness)"
+  ]
+ },
+ {
+  "id": "sme-003",
+  "type": "F",
+  "text": "Co jsou v modelu IFS exiles (vyhnanci)?",
+  "options": [
+   "Části nesoucí bolest, stud nebo trauma, které ochránci drží mimo vědomí",
+   "Části, které klient vědomě odmítá a chce se jich zbavit",
+   "Vzpomínky vytěsněné do nevědomí bez vazby na konkrétní část",
+   "Části vzniklé až v dospělosti jako reakce na aktuální stres"
+  ]
+ },
+ {
+  "id": "sme-004",
+  "type": "F",
+  "text": "Jaký je v IFS hlavní rozdíl mezi manažery (managers) a hasiči (firefighters)?",
+  "options": [
+   "Manažeři chrání exily, hasiči chrání manažery",
+   "Manažeři jsou vědomí, hasiči nevědomí",
+   "Hasiči jsou vždy destruktivní, manažeři vždy adaptivní",
+   "Manažeři pracují preventivně, hasiči reaktivně po aktivaci exilové bolesti"
+  ]
+ },
+ {
+  "id": "sme-005",
+  "type": "F",
+  "text": "Pro jakou skupinu pacientů Jeffrey Young původně vyvinul schematerapii?",
+  "options": [
+   "Pro pacienty s psychotickými poruchami",
+   "Pro pacienty s chronickými a osobnostními obtížemi, kteří nedostatečně reagovali na klasickou KBT",
+   "Pro děti s vývojovým traumatem",
+   "Pro páry v chronickém konfliktu"
+  ]
+ },
+ {
+  "id": "sme-006",
+  "type": "F",
+  "text": "Kolik raných maladaptivních schémat rozlišuje standardní Youngova taxonomie?",
+  "options": [
+   "10",
+   "12",
+   "18",
+   "24"
+  ]
+ },
+ {
+  "id": "sme-007",
+  "type": "F",
+  "text": "Co znamená limited reparenting (omezené rodičovství) ve schematerapii?",
+  "options": [
+   "Terapeut v hranicích profesního vztahu částečně sytí klientovy nenaplněné rané vývojové potřeby",
+   "Terapeut učí klienta lepším rodičovským dovednostem vůči vlastním dětem",
+   "Terapeut omezuje kontakt klienta s patogenními rodiči",
+   "Terapeut interpretuje klientův přenos rodičovských postav"
+  ]
+ },
+ {
+  "id": "sme-008",
+  "type": "F",
+  "text": "Jaká je hlavní funkce módu odtažitého ochránce (detached protector) ve schematerapii?",
+  "options": [
+   "Trestat klienta za selhání internalizovaným rodičovským hlasem",
+   "Kompenzovat schéma přehnaným výkonem a grandiozitou",
+   "Vyjadřovat nenaplněné potřeby zranitelného dítěte",
+   "Odpojit klienta od emocí a kontaktu, aby necítil schematickou bolest"
+  ]
+ },
+ {
+  "id": "sme-009",
+  "type": "F",
+  "text": "Čím se v Beckově kognitivním modelu vyznačují automatické myšlenky?",
+  "options": [
+   "Jsou to hluboké, absolutní soudy o vlastní hodnotě typu 'jsem bezcenný'",
+   "Jsou to spontánní, situačně vázané kognice na povrchu kognitivní hierarchie",
+   "Jsou to podmínková pravidla typu 'jestliže selžu, nikdo mě nebude mít rád'",
+   "Jsou to nevědomé fantazie dostupné jen volnou asociací"
+  ]
+ },
+ {
+  "id": "sme-010",
+  "type": "F",
+  "text": "Co tvoří Beckovu kognitivní triádu deprese?",
+  "options": [
+   "Negativní pohled na minulost, přítomnost a budoucnost",
+   "Negativní pohled na sebe, na rodiče a na terapeuta",
+   "Negativní emoce, negativní chování a negativní myšlení",
+   "Negativní pohled na sebe, na svět (zkušenost) a na budoucnost"
+  ]
+ },
+ {
+  "id": "sme-011",
+  "type": "F",
+  "text": "Jakou typickou formu mají dysfunkční předpoklady (intermediate beliefs) v kognitivním modelu?",
+  "options": [
+   "Absolutních soudů: 'Jsem neschopný'",
+   "Situačních komentářů: 'Tohle zase zkazím'",
+   "Podmínkových pravidel: 'Jestliže nebudu perfektní, ostatní mnou pohrdnou'",
+   "Tělesných pocitů doprovázejících emoci"
+  ]
+ },
+ {
+  "id": "sme-012",
+  "type": "F",
+  "text": "Jaký je primární cíl sokratovského dialogu v kognitivní terapii?",
+  "options": [
+   "Přesvědčit klienta logickými argumenty o iracionalitě jeho myšlenek",
+   "Vést klienta otázkami k vlastnímu objevení nových perspektiv (řízené objevování)",
+   "Získat od klienta anamnestická data strukturovaným rozhovorem",
+   "Vyvolat katarzi konfrontací s vytěsněným materiálem"
+  ]
+ },
+ {
+  "id": "sme-013",
+  "type": "F",
+  "text": "Čím se model inhibičního učení (Craske) liší od klasického habituačního vysvětlení expozice?",
+  "options": [
+   "Tvrdí, že expozice funguje jen v kombinaci s medikací",
+   "Tvrdí, že strachová paměť se při expozici trvale vymaže",
+   "Tvrdí, že expozice musí probíhat postupně po malých krocích",
+   "Tvrdí, že klíčové je nové bezpečnostní učení, nikoli pokles strachu během sezení"
+  ]
+ },
+ {
+  "id": "sme-014",
+  "type": "F",
+  "text": "Co je v IFS břemeno (burden)?",
+  "options": [
+   "Extrémní přesvědčení nebo emoce, které část převzala ze zraňující zkušenosti a které lze rituálně odložit",
+   "Vrozená negativní vlastnost části, kterou nelze změnit",
+   "Zátěž, kterou terapeut přebírá od klienta v protipřenosu",
+   "Diagnóza, kterou klient vnímá jako stigma"
+  ]
+ },
+ {
+  "id": "sme-015",
+  "type": "F",
+  "text": "Co je empatická konfrontace ve schematerapii?",
+  "options": [
+   "Konfrontace klienta s nahrávkou jeho vlastního chování",
+   "Vyjádření terapeutovy frustrace autentickým sebeodhalením",
+   "Laskavé pojmenování klientova maladaptivního vzorce s uznáním jeho vývojového původu i jeho současné ceny",
+   "Přímé vyvracení klientových kognitivních omylů argumenty"
+  ]
+ },
+ {
+  "id": "sme-016",
+  "type": "X",
+  "text": "Klient se roky vyhýbá společenským akcím. Jak by tento jev nejspíš konceptualizoval IFS terapeut?",
+  "options": [
+   "Vyhýbání je udržováno negativním posílením: úleva po vyhnutí posiluje vyhýbavé chování a brání vyvrácení katastrofických predikcí",
+   "Vyhýbání je strategie ochranné části (manažera), která brání situacím, jež by mohly aktivovat bolest zraněného exila",
+   "Vyhýbání je projev módu odtažitého ochránce, který odpojuje od schematické bolesti odmítnutí",
+   "Vyhýbání je obrana ega proti úzkosti z nevědomého konfliktu mezi přáním kontaktu a strachem z něj"
+  ]
+ },
+ {
+  "id": "sme-017",
+  "type": "X",
+  "text": "Tentýž jev — dlouhodobé vyhýbání společenským situacím. Jak by ho nejspíš konceptualizoval KBT terapeut?",
+  "options": [
+   "Jako chování udržované negativním posílením, které brání korektivní zkušenosti a testování katastrofických predikcí",
+   "Jako přenosové opakování raného vzorce odmítajícího objektu na současné vztahy",
+   "Jako polarizaci mezi částí toužící po kontaktu a částí, která před ním chrání",
+   "Jako vyhýbavý zvládací styl schématu sociální izolace vzniklého v dětství"
+  ]
+ },
+ {
+  "id": "sme-018",
+  "type": "X",
+  "text": "Klientka se po každé drobné chybě zasypává tvrdou sebekritikou. Jak by tento jev nejspíš konceptualizovala schematerapie?",
+  "options": [
+   "Jako agresi původně mířenou na druhé, obrácenou proti vlastnímu já",
+   "Jako ochrannou část, která kritikou předbíhá očekávanou kritiku zvenčí",
+   "Jako aktivovaný mód trestajícího rodiče — internalizovaný hlas kritické pečující osoby útočící na zranitelné dítě",
+   "Jako automatické myšlenky sycené jádrovým přesvědčením o vlastní nedostatečnosti"
+  ]
+ },
+ {
+  "id": "sme-019",
+  "type": "X",
+  "text": "Tatáž nemilosrdná sebekritika po chybách. Jak by ji nejspíš konceptualizoval IFS terapeut?",
+  "options": [
+   "Jako projev krutého superega vzniklého identifikací s rodičovskou autoritou",
+   "Jako kognitivní omyl nadměrného zobecňování z jednotlivé chyby na celou osobu",
+   "Jako trestající rodičovský mód, který je třeba v terapii omezit a vykázat",
+   "Jako kritizujícího manažera, který se navzdory drsné metodě snaží klienta chránit — třeba před selháním nebo odmítnutím druhými"
+  ]
+ },
+ {
+  "id": "sme-020",
+  "type": "X",
+  "text": "Táž tvrdá sebekritika. Která formulace odpovídá klasické psychodynamické tradici?",
+  "options": [
+   "Agrese původně mířená na zklamávající objekt je obrácena proti vlastnímu já a živí kruté superego",
+   "Sebekritika je naučená vnitřní řeč udržovaná jádrovým přesvědčením 'jsem vadný'",
+   "Sebekritika je mód internalizovaného rodiče, který terapeut obchází, aby chránil zranitelné dítě",
+   "Sebekritika je část systému, jejíž pozitivní záměr je třeba zvědavě prozkoumat"
+  ]
+ },
+ {
+  "id": "sme-021",
+  "type": "X",
+  "text": "Klient při hádkách s partnerkou 'vypne' a několik hodin je jako v mlze. Jak by tuto disociaci nejspíš konceptualizoval IFS terapeut?",
+  "options": [
+   "Jako regresi ega do primitivnější obranné organizace při nadměrné úzkosti",
+   "Jako podmíněnou reakci, která byla v minulosti negativně posílena únikem z nesnesitelné situace",
+   "Jako zásah hasiče — reaktivního ochránce, který drastickým odpojením hasí exilovou bolest zaplavující systém",
+   "Jako přepnutí do módu odtažitého ochránce, který odřízne emoce spuštěné schématem"
+  ]
+ },
+ {
+  "id": "sme-022",
+  "type": "X",
+  "text": "Klientka v terapii působí trvale zdvořile, věcně a bez emocí; na otázky po pocitech odpovídá 'nevím, asi nic'. Jak by tento obraz nejspíš konceptualizovala schematerapie?",
+  "options": [
+   "Jako alexithymii — deficit ve schopnosti rozpoznávat a pojmenovávat emoce, vhodný pro trénink emočních dovedností",
+   "Jako chronicky aktivní mód odtažitého ochránce, který odpojením chrání před bolestí schémat, ale zároveň blokuje terapii",
+   "Jako intelektualizaci a izolaci afektu — obrany, které oddělují myšlenkový obsah od emočního náboje",
+   "Jako manažerskou část, která drží emoce mimo, dokud si nevybuduje důvěru k terapeutovi"
+  ]
+ },
+ {
+  "id": "sme-023",
+  "type": "X",
+  "text": "Klient tráví hodiny přepisováním běžných pracovních e-mailů, aby byly dokonalé. Jak by tento perfekcionismus nejspíš konceptualizoval kognitivní terapeut?",
+  "options": [
+   "Jako manažerskou část, která dokonalostí chrání zraněnou část nesoucí stud ze selhání",
+   "Jako nadměrnou kompenzaci schématu defektnosti vzniklého v kritickém rodinném prostředí",
+   "Jako projev nároků ideálního já, jehož nedosažení vyvolává nevědomý stud",
+   "Jako chování řízené dysfunkčním předpokladem 'jestliže neodvedu dokonalou práci, ukáže se, že jsem neschopný'"
+  ]
+ },
+ {
+  "id": "sme-024",
+  "type": "X",
+  "text": "Tentýž perfekcionismus. Která konceptualizace odpovídá psychodynamické tradici?",
+  "options": [
+   "Perfekcionismus slouží nárokům přísného ideálu já a superega a brání proti nevědomému studu a pocitům nedostačivosti",
+   "Perfekcionismus je nadměrná kompenzace raného schématu defektnosti či selhání",
+   "Perfekcionismus je strategie manažera, který chce předejít aktivaci exila poníženého kritikou",
+   "Perfekcionismus je udržován podmínkovým předpokladem spojujícím výkon s přijatelností"
+  ]
+ },
+ {
+  "id": "sme-025",
+  "type": "X",
+  "text": "Klient se na terapeuta rozzlobí: 'Stejně vám jde jen o peníze, jako všem.' Jak by tuto reakci nejspíš konceptualizovala psychodynamická tradice?",
+  "options": [
+   "Jako aktivaci schématu nedůvěry a zneužití, které terapeut vyvažuje limited reparentingem",
+   "Jako přenos — na terapeuta se přesouvá šablona raného vztahu s nespolehlivým či zneužívajícím objektem, a právě to je cenný materiál k práci",
+   "Jako automatickou myšlenku čtení myšlenek, kterou lze sokratovsky prozkoumat a otestovat",
+   "Jako ochrannou část, která útokem testuje, zda je terapeut bezpečný pro přístup ke zranitelnosti"
+  ]
+ },
+ {
+  "id": "sme-026",
+  "type": "X",
+  "text": "Tentýž vztek na terapeuta ('jde vám jen o peníze'). Jak by s ním nejspíš pracoval IFS terapeut na úrovni konceptualizace?",
+  "options": [
+   "Jako s přenosovým opakováním vztahu k nespolehlivému rodiči, které je třeba interpretovat",
+   "Jako s aktivací módu rozzlobeného dítěte, jehož potřeby terapeut validuje a sytí",
+   "Jako s promluvou ochranné části: zeptá se, kdo z vnitřního systému teď mluví a před čím klienta chrání",
+   "Jako s testovatelnou predikcí o motivech terapeuta, kterou lze společně přezkoumat"
+  ]
+ },
+ {
+  "id": "sme-027",
+  "type": "X",
+  "text": "Student s vynikajícími schopnostmi opakovaně odkládá psaní diplomové práce, až mu hrozí vyhazov. Jak by tuto prokrastinaci nejspíš konceptualizovala schematerapie?",
+  "options": [
+   "Jako vyhýbavý zvládací styl: odkládáním se student vyhýbá aktivaci schématu selhání a bolesti s ním spojené",
+   "Jako pasivní agresi vůči internalizované rodičovské autoritě, která výkon vyžaduje",
+   "Jako deficit dovedností plánování a řízení času vhodný pro nácvik",
+   "Jako polarizaci mezi částí, která tlačí na výkon, a částí, která stávkuje proti tlaku"
+  ]
+ },
+ {
+  "id": "sme-028",
+  "type": "X",
+  "text": "Klientka se po večerech, kdy se cítí osaměle, záchvatovitě přejídá. Jak by tento vzorec nejspíš konceptualizoval IFS terapeut?",
+  "options": [
+   "Jako naučené chování udržované krátkodobou úlevou, kterou jídlo přináší (negativní posílení)",
+   "Jako selhání módu zdravého dospělého v regulaci impulzivního dítěte",
+   "Jako orální fixaci — návrat k nejranějšímu způsobu sycení při frustraci vztahových potřeb",
+   "Jako hasiče, který jídlem rychle tlumí bolest osamělého exila, jakmile se večer vynoří"
+  ]
+ },
+ {
+  "id": "sme-029",
+  "type": "X",
+  "text": "Manažer se hroutí, kdykoli nedostane pochvalu od nadřízené. Jak by tuto závislost na uznání nejspíš konceptualizoval kognitivní terapeut?",
+  "options": [
+   "Jako schéma hledání souhlasu a uznání, kdy vlastní hodnota závisí na reakcích druhých",
+   "Jako jádrové přesvědčení o vlastní bezcennosti kompenzované předpokladem 'mám hodnotu, jen když mě druzí oceňují'",
+   "Jako nenasycenou zrcadlící potřebu self, která hledá selfobjektovou odpověď v nadřízené",
+   "Jako exila nesoucího přesvědčení o bezcennosti, o kterého pečují části shánějící pochvalu"
+  ]
+ },
+ {
+  "id": "sme-030",
+  "type": "X",
+  "text": "Když partner odjede na služební cestu, zaplaví třicetiletou klientku nepřiměřeně intenzivní pocit opuštěnosti 'jako když byla malá'. Jak by tento prožitek nejspíš konceptualizovala schematerapie?",
+  "options": [
+   "Jako separační úzkost oživující nezpracovanou ranou ztrátu primárního objektu",
+   "Jako katastrofické predikce ('opustí mě') vyvolávající úzkostnou reakci, kterou lze otestovat proti důkazům",
+   "Jako aktivaci schématu opuštění a přepnutí do módu zranitelného dítěte, jehož intenzita odpovídá stáří schématu, ne současné situaci",
+   "Jako zaplavení systému mladým exilem, který nese bolest raného opuštění"
+  ]
+ },
+ {
+  "id": "sme-031",
+  "type": "K",
+  "text": "Jaký je klíčový koncepční rozdíl mezi Self v IFS a módem zdravého dospělého ve schematerapii?",
+  "options": [
+   "Self je pojímáno jako vrozené, nepoškozené jádro, které stačí odkrýt; zdravý dospělý je mód, který se v terapii postupně buduje a posiluje",
+   "Self je vědomé, zdravý dospělý je nevědomý",
+   "Self řídí pouze emoce, zdravý dospělý pouze chování",
+   "Žádný rozdíl — jde o týž koncept pod různými názvy"
+  ]
+ },
+ {
+  "id": "sme-032",
+  "type": "K",
+  "text": "Čím se rané maladaptivní schéma (Young) liší od jádrového přesvědčení (Beck)?",
+  "options": [
+   "Schéma je vědomé, jádrové přesvědčení nevědomé",
+   "Jádrové přesvědčení vzniká v dětství, schéma kdykoli v životě",
+   "Schéma je širší struktura zahrnující kromě kognice i emoce, vzpomínky a tělesné pocity, a je definováno vazbou na nenaplněné vývojové potřeby",
+   "Jde o synonyma — Young pouze převzal Beckův pojem"
+  ]
+ },
+ {
+  "id": "sme-033",
+  "type": "K",
+  "text": "Unblending v IFS i kognitivní distancování (decentering) v KBT vytvářejí odstup od vnitřního prožitku. V čem se liší?",
+  "options": [
+   "Unblending pracuje s emocemi, distancování s myšlenkami",
+   "Distancování je zážitková technika, unblending čistě verbální",
+   "Unblending je cíl terapie, distancování jen vedlejší efekt",
+   "Unblending navíc předpokládá, že to, od čeho se oddělujeme, je část s vlastní perspektivou, se kterou pak Self naváže vztah"
+  ]
+ },
+ {
+  "id": "sme-034",
+  "type": "K",
+  "text": "Jaký je vztah mezi limited reparentingem (schematerapie) a korektivní emoční zkušeností (Alexander a French)?",
+  "options": [
+   "Jde o protikladné koncepty — reparenting korektivní zkušenost odmítá",
+   "Limited reparenting je cílená, systematická aplikace principu korektivní emoční zkušenosti: terapeut záměrně nabízí odpověď protikladnou raným zraňujícím zkušenostem",
+   "Korektivní emoční zkušenost se týká jen chování, reparenting jen emocí",
+   "Oba pojmy pocházejí od Younga, jen z různých fází jeho díla"
+  ]
+ },
+ {
+  "id": "sme-035",
+  "type": "K",
+  "text": "Čím se pojetí částí v IFS liší od pojetí egostavů v terapii egostavů (Watkins) a od patologických vnitřních stavů obecně?",
+  "options": [
+   "IFS trvá na tom, že mnohočetnost mysli je normální vlastnost každé psychiky a každá část má pozitivní záměr — nejde o produkt patologie ani o fragmenty vzniklé jen traumatem",
+   "IFS na rozdíl od egostavové terapie pracuje jen s vědomými stavy",
+   "Egostavy jsou vrozené, části v IFS vznikají výhradně učením",
+   "IFS části nemají vlastní emoce, egostavy ano"
+  ]
+ },
+ {
+  "id": "sme-036",
+  "type": "K",
+  "text": "Jaký je hlavní rozdíl mezi behaviorálním experimentem a expozicí v KBT?",
+  "options": [
+   "Behaviorální experiment probíhá v představách, expozice v reálu",
+   "Expozice je vždy delší než behaviorální experiment",
+   "Behaviorální experiment primárně testuje konkrétní predikci či přesvědčení, expozice primárně cílí na nové učení ve vztahu k obávanému podnětu opakovaným kontaktem",
+   "Žádný — jde o dva názvy téže techniky"
+  ]
+ },
+ {
+  "id": "sme-037",
+  "type": "K",
+  "text": "Empatická konfrontace (schematerapie) i interpretace obrany (psychodynamika) pojmenovávají klientův maladaptivní vzorec. V čem se přístupy liší?",
+  "options": [
+   "Interpretace obrany vzorec kritizuje, empatická konfrontace ho schvaluje",
+   "Empatická konfrontace je explicitně edukativní a direktivnější — pojmenovává vzorec, jeho původ i cenu a rovnou vybízí ke změně; interpretace cílí primárně na vhled do nevědomé funkce obrany a změnu nechává vyrůst z porozumění",
+   "Empatická konfrontace se používá jen u poruch osobnosti, interpretace jen u neuróz",
+   "Interpretace se smí vyslovit až po letech terapie, empatická konfrontace na prvním sezení"
+  ]
+ },
+ {
+  "id": "sme-038",
+  "type": "K",
+  "text": "Proč schematerapie k pojmovému aparátu schémat později přidala koncept módů?",
+  "options": [
+   "Protože schémata se ukázala jako neměřitelná",
+   "Aby se odlišila od Beckovy kognitivní terapie z licenčních důvodů",
+   "Protože módy lépe vysvětlují poruchy z dětství, zatímco schémata poruchy v dospělosti",
+   "Protože u pacientů s hraniční a narcistickou strukturou se mnoho schémat rychle střídá — mód zachycuje aktuálně aktivovaný stav (state), zatímco schéma je trvalá dispozice (trait)"
+  ]
+ },
+ {
+  "id": "sme-039",
+  "type": "V",
+  "text": "Klientka dosud o svém vnitřním kritikovi mluvila se zaťatými pěstmi ('nenávidím ho'). Dnes říká: 'Je mi ho vlastně líto — zajímalo by mě, proč pořád tak křičí.' Co tento posun signalizuje z hlediska IFS modelu?",
+  "options": [
+   "Nástup Self-energie: zvědavost a soucit vůči části naznačují, že klientka s ní přestává být splynutá a mluví ze Self",
+   "Reakční formaci — nenávist ke kritikovi se obrátila v předstíranou lítost",
+   "Rozvoj kognitivní defuze — klientka rozpoznala, že myšlenky kritika nejsou fakta",
+   "Přepnutí z módu trestajícího rodiče do módu zdravého dospělého"
+  ]
+ },
+ {
+  "id": "sme-040",
+  "type": "V",
+  "text": "Klient v polovině sezení, těsně poté, co se dotkl vzpomínky na otcovo ponižování, začne mluvit monotónně, dívá se z okna a říká: 'No, ale to je stará historie, to je jedno. Co jsme měli za úkol?' Který mód je z hlediska schematerapie nejpravděpodobněji aktivní?",
+  "options": [
+   "Zlostné dítě",
+   "Trestající rodič",
+   "Odtažitý ochránce",
+   "Zdravý dospělý"
+  ]
+ },
+ {
+  "id": "sme-041",
+  "type": "V",
+  "text": "Klient: 'Šéf dnes na poradě zívl, když jsem mluvil. Nudím ho, moje prezentace byla katastrofa a asi mě chce vyhodit.' Který kognitivní omyl je v úsudku 'zívl, protože ho nudím já' nejvýrazněji přítomen z hlediska Beckovy taxonomie?",
+  "options": [
+   "Dichotomické myšlení",
+   "Personalizace",
+   "Emoční usuzování",
+   "Selektivní abstrakce zaměřená na pozitivní detaily"
+  ]
+ },
+ {
+  "id": "sme-042",
+  "type": "V",
+  "text": "Klientka popisuje týdenní cyklus: část týdne pracuje do vyčerpání a nedovolí si pauzu, pak se na dva dny 'zhroutí' k seriálům a nedokáže se přimět k ničemu — a pracovní část ji za to pak dvojnásob bičuje. Jak tento cyklus popisuje IFS model?",
+  "options": [
+   "Jako cyklotýmní kolísání nálad vyžadující stabilizaci režimu",
+   "Jako střídání módů nadměrného kompenzátora a odtažitého sebekonejšitele",
+   "Jako klasický cyklus restrikce a selhání řízený perfekcionistickými pravidly",
+   "Jako polarizaci dvou ochránců: čím víc jedna část tlačí, tím extrémněji druhá stávkuje — a vzájemně se eskalují"
+  ]
+ },
+ {
+  "id": "sme-043",
+  "type": "I",
+  "text": "Klient v sezení opakuje: 'Já prostě JSEM k ničemu, to není žádná část, to je fakt.' Je zcela splynutý s kritickým prožitkem. Jaký první krok je nejvhodnější z hlediska IFS modelu?",
+  "options": [
+   "Předložit klientovi důkazy z jeho života, které přesvědčení 'jsem k ničemu' vyvracejí",
+   "Podpořit unblending: požádat klienta, zda by prožitek 'jsem k ničemu' mohl na chvíli kousek poodstoupit, a zjistit, jak se klient vůči němu cítí",
+   "Interpretovat, že přesvědčení o bezcennosti je internalizovaný hlas odmítajícího rodiče",
+   "Vést klienta imaginací k výjevu z dětství a přepsat ho sycením potřeb zraněného dítěte"
+  ]
+ },
+ {
+  "id": "sme-044",
+  "type": "I",
+  "text": "V sezení se u klientky s hraniční strukturou hlasitě aktivuje trestající rodič: 'Jsi odporná, zasloužíš si trpět.' Jaká reakce terapeuta je nejvhodnější z hlediska schematerapie?",
+  "options": [
+   "Rozhodně se vůči trestajícímu módu vymezit, odmítnout jeho poselství a chránit zranitelné dítě, jehož potřeby následně sytí",
+   "Zvědavě trestající hlas oslovit a zeptat se, před čím se klientku snaží chránit",
+   "Zůstat neutrální a zkoumat, čí hlas klientka v trestajícím poselství slyší a k jaké rané zkušenosti patří",
+   "Zapsat trestající myšlenku do záznamu a společně zvážit důkazy pro a proti jejímu obsahu"
+  ]
+ },
+ {
+  "id": "sme-045",
+  "type": "I",
+  "text": "Klientka po prezentaci hlásí automatickou myšlenku: 'Všichni si mysleli, že jsem trapná.' Jaký první krok je nejvhodnější z hlediska Beckovy kognitivní terapie?",
+  "options": [
+   "Ujistit ji, že prezentace určitě trapná nebyla",
+   "Zaměřit se na tělesné prožitky studu a nechat je odeznít v přítomnosti",
+   "Sokratovsky prozkoumat důkazy pro a proti myšlence a zvážit alternativní vysvětlení reakcí publika",
+   "Hledat, kterou ranou vztahovou zkušenost pocit trapnosti oživuje"
+  ]
+ }
+]

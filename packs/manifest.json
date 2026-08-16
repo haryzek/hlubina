@@ -1,3 +1,51 @@
 [
-  { "id": "core-01", "file": "core-01.json", "title": "Jádro 1 — testovací", "count": 3, "version": 1 }
+ {
+  "id": "obrany",
+  "file": "obrany.json",
+  "title": "Obrany",
+  "count": 48,
+  "version": 1
+ },
+ {
+  "id": "prenos",
+  "file": "prenos.json",
+  "title": "Přenos a technika",
+  "count": 50,
+  "version": 1
+ },
+ {
+  "id": "skoly",
+  "file": "skoly.json",
+  "title": "Školy a autoři",
+  "count": 50,
+  "version": 1
+ },
+ {
+  "id": "smery",
+  "file": "smery.json",
+  "title": "Směry a mosty",
+  "count": 45,
+  "version": 1
+ },
+ {
+  "id": "struktura",
+  "file": "struktura.json",
+  "title": "Struktura a diagnostika",
+  "count": 45,
+  "version": 1
+ },
+ {
+  "id": "vyvoj",
+  "file": "vyvoj.json",
+  "title": "Vývojové teorie",
+  "count": 45,
+  "version": 1
+ },
+ {
+  "id": "vyzkum",
+  "file": "vyzkum.json",
+  "title": "Výzkum, etika, dějiny",
+  "count": 47,
+  "version": 1
+ }
 ]
