@@ -58,10 +58,86 @@ promptu, ne hrnutí dál.
   příští dávky cílí tam.
 - Oprava chybné otázky = nová verze balíčku; id otázky se nikdy nerecykluje.
 
-## Knižní režim (odloženo, princip zůstává)
+## Lekce z v1 a zesílení verifikace
 
-Až na něj dojde: summary a otázky jsou **dva paralelní výstupy z textu
-kapitoly, nikdy řetěz**; každá knižní otázka má kotvu na pasáž a verifikuje
-se proti ní; `deepDive` obsahuje přímý úryvek s uvedením strany. Jen
-informační knihy — transformační texty (pozdní Ogden, Bion) patří na
-poličku „číst doopravdy".
+Slepá verifikace v1 pustila 330/330 (0 low). To neznamená bezchybný obsah:
+generátor i verifikátor jsou tentýž model a **sdílejí slepá místa** —
+verifikátor „souhlasí" i s otázkou, jejíž chyba plyne z chybného sdíleného
+přesvědčení. Od další vlny proto:
+
+1. **Slepé řešení** (jako dosud) — chytá nejednoznačnost a překlepy klíče.
+2. **Adversariální refutátor** (nový, samostatný běh): dostane otázku
+   VČETNĚ klíče a má za úkol klíč **zbořit** — najít distraktor, který je
+   dle kritéria stejně nebo lépe obhajitelný, nebo věcnou chybu v klíči.
+   Úspěšná refutace → otázka letí. Chytá jiný typ chyb než slepé řešení.
+3. **Flag loop** zůstává finálním arbitrem; flagnuté kusy se re-verifikují
+   **proti zdroji** (ne proti znalostem modelu) a zamítnuté vzorce se
+   zapisují do `content/antipatterns.md` jako zákazy pro příští generátory.
+
+## Dlouhodobý provoz: výrobní večery
+
+Rytmus: **1 výrobní večer = 1 vlna = 150–350 otázek**, celé v Cowork /
+Claude Code, Claude orchestruje 15–30 agentů. Bob má přesně tři role:
+**(a)** vybere téma/knihu a dodá zdroje, **(b)** 5 minut škrtá v navržené
+mapě pokrytí, **(c)** při hraní flaguje. Nic víc — žádné ruční review dávek.
+
+Protokol vlny (tematické sady):
+
+1. Bob: téma + hloubka (např. „sny a technika práce s nimi, 1600+").
+2. Claude: návrh mapy pokrytí (pojmy × typy × úhly) → Bob škrtne/doplní.
+3. **Dedup proti existujícímu poolu**: agent zestručnní každou existující
+   otázku dotčených kategorií na jednořádkový „angle"; seznam jde
+   generátorům jako zakázaný. (Nahrazuje starý taxonomický aparát, škáluje
+   s velikostí poolu.)
+4. Paralelní generace po pojmových trsech → slepé řešení + refutátor →
+   assemble + validate → nový pack, bump SW cache, push.
+5. Elo-cílení: před každou vlnou se z exportu hry přečtou kategorie
+   s nejnižší úspěšností a extrémními Ely → vlna dosycuje slabiny.
+
+## Knižní program: 5 knih „skrz naskrz"
+
+Cíl: zodpovědět správně všechny otázky knihy ≈ znát z ní vše podstatné.
+To je závazek **úplnosti pokrytí**, ne jen kvality jednotlivých otázek —
+proto má knižní pipeline navíc bránu úplnosti (krok 4).
+
+Vhodné knihy: informační (McWilliams, Gabbard, Wampold, Fonagy, přehledy).
+Transformační texty (pozdní Ogden, Bion, memoáry) sem nepatří — polička
+„číst doopravdy". Odhad: hutná odborná kniha = 15–25 otázek na kapitolu,
+tj. **250–400 otázek na knihu**; jedna kniha = 2–3 výrobní večery.
+
+Protokol knihy:
+
+1. **Ingest** (večer 1): PDF/EPUB → text po kapitolách do
+   `content/books/<id>/`. Bob jen dodá soubor.
+2. **Mapa vědění**: agent per kapitola vytěží úplný seznam: klíčová
+   tvrzení, pojmy, distinkce, klinické implikace, příklady, autorovy
+   ne-mainstreamové pozice — každá položka s kotvou (strana/oddíl).
+   Mapa = plán pokrytí i pozdější měřítko úplnosti.
+3. **Dva paralelní výstupy z textu kapitoly, nikdy řetěz** (večer 2):
+   - `summary.md` — 10–15 min čtení pro Boba, vlastními slovy;
+   - otázky s povinnou kotvou `"anchor": "s. 87 — pasáž o …"`; formulace
+     nikdy nepřebírají text doslova, ale `deepDive` naopak **cituje
+     kotvenou pasáž** (blockquote + strana) — v answer sheetu mluví autor.
+4. **Brána úplnosti**: kritik porovná mapu vědění × vygenerované otázky.
+   Každá podstatná položka mapy musí být zasažena ≥1 otázkou; díry →
+   druhé kolo generace. Bez tohoto kroku je „skrz naskrz" jen pocit.
+5. **Dvojitá verifikace**: (a) kotvová — verifikátor dostane otázku +
+   kotvenou pasáž a potvrdí, že pasáž klíč jednoznačně podpírá (tady
+   sdílená slepá místa nevadí — rozhoduje text, ne znalosti modelu);
+   (b) slepé řešení bez klíče. Obě musí projít.
+6. **Zápis** (večer 3): pack `book-<id>.json`, validate, deploy. Otázky
+   s přesahem do obecných kategorií se počítají i tam.
+
+Užití (testing effect): Bob přečte summary kapitoly, otázky pak ve hře
+fungují jako retrieval practice v následujících týdnech. Otázky potkané
+bez summary učí přes explanation — pomalejší, ale legitimní cesta.
+
+Drobné úpravy appky pro knižní éru (1 krátká seance): přepínač balíčků
+on/off v nastavení (kniha se zapne, až Bob dočte summary), případně
+`tools/flags-report.mjs` pro pohodlný výpis flagnutých otázek z exportu.
+
+## Kapacitní výhled
+
+5 knih ≈ 1300–1700 otázek + průběžné tematické vlny ≈ pool 2500+ během
+podzimu při tempu ~1 večer týdně. Engine to unese beze změn (localStorage
+i scheduler škálují v pohodě na nízké tisíce otázek).
