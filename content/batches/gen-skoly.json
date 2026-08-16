@@ -1,0 +1,806 @@
+[
+  {
+    "id": "sko-001",
+    "type": "F",
+    "category": "skoly-autori",
+    "text": "V kterém díle Freud poprvé systematicky představil strukturální model psychiky (id, ego, superego), který doplnil starší model topografický?",
+    "options": [
+      "Výklad snů (1900)",
+      "Mimo princip slasti (1920)",
+      "Já a Ono (1923)",
+      "Inhibice, symptom a úzkost (1926)"
+    ],
+    "correct": 2,
+    "explanation": "Strukturální model (id, ego, superego) Freud rozpracoval v knize Já a Ono z roku 1923. Výklad snů zavedl model topografický (nevědomí, předvědomí, vědomí), Mimo princip slasti přineslo pud smrti a nutkání k opakování a Inhibice, symptom a úzkost revidovaly teorii úzkosti — žádné z těchto děl strukturální model nezavádí.",
+    "source": "Freud, S.: Das Ich und das Es (Já a Ono), 1923",
+    "seedElo": 1400
+  },
+  {
+    "id": "sko-002",
+    "type": "F",
+    "category": "skoly-autori",
+    "text": "Jak Freud charakterizoval vztah mezi principem slasti a principem reality?",
+    "options": [
+      "Princip reality nahrazuje princip slasti tím, že odkládá uspokojení a bere v úvahu vnější podmínky, cíl slasti však neopouští",
+      "Princip reality je vrozený a princip slasti se vyvíjí až výchovou",
+      "Oba principy fungují od narození paralelně a nezávisle na sobě",
+      "Princip slasti se týká pouze snů, princip reality bdělého života"
+    ],
+    "correct": 0,
+    "explanation": "Podle Freuda princip reality princip slasti neruší, ale modifikuje: ego se učí odkládat uspokojení a snášet nelibost jako oklikou vedoucí cestu k slasti. Princip slasti je vývojově primární, nikoli naopak, a oba principy se týkají celého duševního života, ne jen snů či bdění.",
+    "source": "Freud, S.: Formulierungen über die zwei Prinzipien des psychischen Geschehens, 1911",
+    "seedElo": 1400
+  },
+  {
+    "id": "sko-003",
+    "type": "F",
+    "category": "skoly-autori",
+    "text": "Co je podle Freudovy pozdní teorie (1926) signální úzkost?",
+    "options": [
+      "Úzkost vznikající automaticky přeměnou nevybitého libida",
+      "Vrozený strach ze smrti, který je základem všech neuróz",
+      "Úzkost, kterou dítě přejímá nápodobou od úzkostné matky",
+      "Malá dávka úzkosti, kterou ego aktivně produkuje jako varování před hrozící nebezpečnou situací, aby spustilo obranu"
+    ],
+    "correct": 3,
+    "explanation": "V Inhibici, symptomu a úzkosti Freud obrátil svou starší teorii: úzkost už není jen automatickým důsledkem nahromaděného libida, ale ego ji může vytvářet v oslabené formě jako signál blížícího se nebezpečí (např. ztráty objektu), který mobilizuje obrany. První možnost popisuje právě starší, opuštěnou 'toxickou' teorii úzkosti.",
+    "source": "Freud, S.: Hemmung, Symptom und Angst, 1926",
+    "seedElo": 1600
+  },
+  {
+    "id": "sko-004",
+    "type": "F",
+    "category": "skoly-autori",
+    "text": "Který klinický jev vedl Freuda v Mimo princip slasti (1920) k postulování nutkání k opakování jako fenoménu 'mimo' princip slasti?",
+    "options": [
+      "Hysterická konverze tělesných symptomů",
+      "Opakované návraty traumatických zážitků ve snech válečných neurotiků a v přenosu",
+      "Chybné výkony v každodenním životě",
+      "Vtěsnání dětské sexuality do latence"
+    ],
+    "correct": 1,
+    "explanation": "Freuda zarazilo, že sny traumatizovaných vojáků znovu a znovu vracejí děsivou situaci a že pacienti v přenosu opakují bolestné vzorce — tedy jevy, které žádnou slast nepřinášejí. Právě to ho vedlo k hypotéze nutkání k opakování a nakonec k pudu smrti. Hysterie, chybné výkony i latence byly vysvětlitelné v rámci principu slasti.",
+    "source": "Freud, S.: Jenseits des Lustprinzips (Mimo princip slasti), 1920",
+    "seedElo": 1500,
+    "deepDive": "Rok 1920 je zlomem celé Freudovy teorie. Do té doby stál jeho dualismus na protikladu sexuálních pudů a pudů sebezáchovy; válečné neurózy z první světové války a tvrdošíjné opakování bolesti v přenosu ale do tohoto schématu nezapadaly. Freud proto zavedl spekulativní protiklad Erotu a pudu smrti (Thanatos), který sám označil za 'spekulaci, často přitaženou za vlasy'. Většina pozdějších škol pud smrti jako biologický koncept odmítla — s výraznou výjimkou Melanie Kleinové, která z něj naopak učinila základ své teorie rané závisti a agrese."
+  },
+  {
+    "id": "sko-005",
+    "type": "F",
+    "category": "skoly-autori",
+    "text": "Jak vypadá Freudův pudový dualismus po roce 1920?",
+    "options": [
+      "Pud moci proti pudu podřízení",
+      "Protiklad Erotu (životních pudů) a pudu smrti",
+      "Sexuální pudy proti pudům sebezáchovy",
+      "Libido objektní proti libidu narcistickému"
+    ],
+    "correct": 1,
+    "explanation": "Po roce 1920 Freud nahradil starší protiklad sexuálních pudů a pudů sebezáchovy (možnost c) novým dualismem Erotu a pudu smrti. Objektní a narcistické libido jsou dvě podoby téhož libida, nikoli pudový protiklad, a pud moci je koncept spíše adlerovský.",
+    "source": "Freud, S.: Jenseits des Lustprinzips, 1920",
+    "seedElo": 1400
+  },
+  {
+    "id": "sko-006",
+    "type": "F",
+    "category": "skoly-autori",
+    "text": "Proč Melanie Kleinová mluvila o 'pozicích' (paranoidně-schizoidní, depresivní), a ne o vývojových stadiích?",
+    "options": [
+      "Termín stadium si nechtěla přivlastnit z ohledu na Freudovu teorii psychosexuálních stadií",
+      "Pozice označuje pouze tělesné držení kojence při kojení",
+      "Pozice se týkají výhradně psychotických pacientů, stadia pacientů neurotických",
+      "Pozice jsou trvalé konfigurace úzkostí, obran a objektních vztahů, mezi nimiž člověk osciluje po celý život, nejde o jednorázově překonané fáze"
+    ],
+    "correct": 3,
+    "explanation": "Kleinová volila slovo pozice právě proto, že nejde o etapy, které by člověk jednou provždy opustil: i zralý dospělý se pod tlakem vrací k paranoidně-schizoidnímu fungování a znovu propracovává depresivní pozici. Nešlo o zdvořilost vůči Freudovi ani o rozlišení psychóza/neuróza — obě pozice popisují normální i patologický vývoj.",
+    "source": "Klein, M.: Notes on Some Schizoid Mechanisms, 1946; Segal, H.: Introduction to the Work of Melanie Klein, 1964",
+    "seedElo": 1500
+  },
+  {
+    "id": "sko-007",
+    "type": "F",
+    "category": "skoly-autori",
+    "text": "Co znamená reparace v teorii Melanie Kleinové?",
+    "options": [
+      "Touhu a snahu napravit poškození, které dítě ve fantazii způsobilo milovanému objektu svou agresí; klíčový zdroj tvořivosti a lásky",
+      "Obranný mechanismus, kterým ego opravuje trhliny ve vytěsnění",
+      "Terapeutovu aktivní omluvu pacientovi po empatickém selhání",
+      "Kompenzaci orgánové méněcennosti podle vzoru Adlera"
+    ],
+    "correct": 0,
+    "explanation": "Reparace patří k depresivní pozici: když dítě pozná, že nenáviděný a milovaný objekt je tentýž, vzniká vina a s ní touha objekt ve fantazii i skutečnosti napravit — Kleinová v tom viděla kořen tvořivosti a sublimace. Nejde o techniku terapeuta ani o adlerovskou kompenzaci; od manické reparace se pravá reparace liší uznáním viny a závislosti.",
+    "source": "Klein, M.: Love, Guilt and Reparation, 1937",
+    "seedElo": 1500
+  },
+  {
+    "id": "sko-008",
+    "type": "F",
+    "category": "skoly-autori",
+    "text": "Jak kleiniáni (zejm. Susan Isaacsová) pojímají nevědomou fantazii (phantasy)?",
+    "options": [
+      "Jako vzácný patologický jev typický pro psychotické stavy",
+      "Jako vědomé denní snění, které pacient v analýze vypráví",
+      "Jako mentální reprezentaci a korelát pudů, přítomný od počátku života a podkládající veškerou psychickou aktivitu",
+      "Jako obsah kolektivního nevědomí sdílený celým lidstvem"
+    ],
+    "correct": 2,
+    "explanation": "Isaacsová v klasické stati z kontroverzních diskusí definovala phantasy jako primární obsah nevědomých duševních procesů — psychický výraz pudu, který funguje od narození a je podkladem myšlení, snů i symptomů. Není to tedy vědomé fantazírování ani jev omezený na patologii; kolektivní nevědomí je koncept jungovský.",
+    "source": "Isaacs, S.: The Nature and Function of Phantasy, 1948",
+    "seedElo": 1600
+  },
+  {
+    "id": "sko-009",
+    "type": "F",
+    "category": "skoly-autori",
+    "text": "Čím se podle Winnicotta vyznačuje přechodový objekt (např. oblíbená deka nebo plyšák)?",
+    "options": [
+      "Existuje v mezioblasti mezi subjektivním a objektivně vnímaným; nikdy neklademe dítěti otázku, zda si ho vytvořilo, nebo našlo",
+      "Je to objekt, na který dítě přesouvá oidipskou rivalitu s otcem",
+      "Je to vnitřní objekt vzniklý introjekcí dobrého prsu",
+      "Slouží výhradně k vybití agresivních pudů mimo vztah s matkou"
+    ],
+    "correct": 0,
+    "explanation": "Přechodový objekt obývá Winnicottovu třetí, přechodovou oblast zkušenosti mezi vnitřní a vnější realitou; jeho paradox (stvořeno i nalezeno zároveň) se nemá rozhodovat. Není to vnitřní objekt v kleiniánském smyslu (je reálný a hmatatelný) a jeho funkcí je zvládání separace a přechod k symbolizaci, ne vybíjení agrese či oidipská rivalita.",
+    "source": "Winnicott, D. W.: Transitional Objects and Transitional Phenomena, 1953",
+    "seedElo": 1400
+  },
+  {
+    "id": "sko-010",
+    "type": "F",
+    "category": "skoly-autori",
+    "text": "Jak podle Winnicotta vzniká kapacita být sám?",
+    "options": [
+      "Odpojením libida od objektů a jeho stažením na vlastní ego",
+      "Tréninkem separace, kdy je dítě záměrně ponecháváno o samotě",
+      "Paradoxně zkušeností být sám v přítomnosti druhého — dítě je samo, zatímco matka je spolehlivě, nenárokově k dispozici",
+      "Identifikací s otcem jako třetím, který přerušuje symbiózu s matkou"
+    ],
+    "correct": 2,
+    "explanation": "Winnicottův slavný paradox zní, že schopnost být sám vyrůstá ze zkušenosti samoty v něčí přítomnosti: dítě může být 'nezúčastněně' samo se sebou jen díky tiché, nevtíravé přítomnosti matky, která se postupně internalizuje. Záměrné ponechávání o samotě ani stažení libida tuto kapacitu nevytvářejí — spíše vedou k předčasné, obranné samostatnosti.",
+    "source": "Winnicott, D. W.: The Capacity to be Alone, 1958",
+    "seedElo": 1500
+  },
+  {
+    "id": "sko-011",
+    "type": "F",
+    "category": "skoly-autori",
+    "text": "Jaká je podle Winnicotta (Použití objektu, 1969) role destrukce v tom, aby se objekt stal pro subjekt reálným a použitelným?",
+    "options": [
+      "Destrukce musí být v terapii interpretována jako odpor, jinak léčbu zničí",
+      "Subjekt objekt ve fantazii ničí, a teprve když objekt destrukci přežije bez odvety a bez zhroucení, ocitá se mimo oblast omnipotence a lze ho skutečně užívat",
+      "Destruktivní fantazie jsou projevem pudu smrti a musí být převáženy vděčností",
+      "Objekt se stává reálným tím, že destrukci oplatí a stanoví tak dítěti hranice"
+    ],
+    "correct": 1,
+    "explanation": "Winnicottova pointa: 'ty máš pro mě hodnotu, protože jsi přežil mé zničení'. Přežitím (bez odplaty i bez kolapsu) se objekt prokáže jako vnější, nezávislý na subjektově omnipotentní kontrole, a teprve pak je možné ho 'používat'. Odveta ani interpretace destrukce jako odporu tento vývojový krok neumožňují a výklad přes pud smrti je kleiniánský, ne winnicottovský.",
+    "source": "Winnicott, D. W.: The Use of an Object, 1969",
+    "seedElo": 1700,
+    "deepDive": "Winnicott tuto práci poprvé přednesl v roce 1968 před Newyorskou psychoanalytickou společností — a publikum, vycvičené v egopsychologii, ji přijalo tvrdou kritikou. Winnicott, už vážně nemocný, tehdy prohodil, že jeho koncept byl 'roztrhán na kusy' a on bude rád, když z toho něco vzejde — čímž mimoděk předvedl vlastní tezi o přežití destrukce. Zemřel o tři roky později; text se stal jedním z nejcitovanějších v poválečné psychoanalýze a mostem k intersubjektivním teoriím (Benjaminová na něm postavila koncept vzájemného uznání)."
+  },
+  {
+    "id": "sko-012",
+    "type": "F",
+    "category": "skoly-autori",
+    "text": "Co popisuje Bionův model kontejner–kontejnované (♀♂)?",
+    "options": [
+      "Vztah mezi vědomím a předvědomím v topografickém modelu",
+      "Techniku, při níž terapeut zadržuje vlastní interpretace do konce sezení",
+      "Uspořádání setting–pacient: rámec terapie drží pacientovy regrese",
+      "Proces, v němž jeden psychický aparát (např. matka) přijímá nesnesitelné projikované obsahy druhého, přetváří je a vrací ve stravitelné podobě"
+    ],
+    "correct": 3,
+    "explanation": "Kontejner (♀) přijímá projektivní identifikací vyslané syrové obsahy (kontejnované, ♂), svou alfa-funkcí je detoxikuje a vrací v podobě, kterou lze myslet — prototypem je matčino snění (reverie) nad kojencem. Nejde o topografii, o zadržování interpretací ani primárně o setting, i když rámec může kontejnující funkci podporovat.",
+    "source": "Bion, W. R.: Learning from Experience, 1962",
+    "seedElo": 1500
+  },
+  {
+    "id": "sko-013",
+    "type": "F",
+    "category": "skoly-autori",
+    "text": "Jaký je u Biona vztah mezi alfa-funkcí a beta-elementy?",
+    "options": [
+      "Alfa-funkce je vrozená, beta-elementy vznikají až traumatem",
+      "Beta-elementy jsou zpracované vzpomínky, alfa-elementy syrová smyslová data",
+      "Alfa-funkce vytváří beta-elementy z alfa-elementů během snění",
+      "Alfa-funkce přetváří syrové smyslové a emoční dojmy (beta-elementy) v alfa-elementy použitelné pro myšlení, snění a paměť"
+    ],
+    "correct": 3,
+    "explanation": "Směr je klíčový: beta-elementy jsou nezpracovaná 'věcná' data vhodná jen k evakuaci projektivní identifikací nebo k acting-outu; alfa-funkce je transformuje v alfa-elementy, stavební kameny snové práce a myšlení. Možnosti b) a c) směr obracejí a alfa-funkce se podle Biona vyvíjí ve vztahu s kontejnujícím objektem, není hotová od narození.",
+    "source": "Bion, W. R.: Learning from Experience, 1962",
+    "seedElo": 1600
+  },
+  {
+    "id": "sko-014",
+    "type": "F",
+    "category": "skoly-autori",
+    "text": "Co Bion mínil doporučením, aby analytik pracoval 'bez paměti a touhy'?",
+    "options": [
+      "Analytik má aktivně potlačit veškeré protipřenosové pocity",
+      "Analytik se má vzdát lpění na tom, co o pacientovi ví, i na přání ho vyléčit, aby mohl vnímat vyvíjející se psychickou realitu sezení (O) v přítomném okamžiku",
+      "Analytik si nemá vést dokumentaci, aby chránil pacientovo soukromí",
+      "Paměť a touha jsou beta-elementy, které analytik projikuje do pacienta"
+    ],
+    "correct": 1,
+    "explanation": "Jde o disciplínu pozornosti, ne o administrativu ani o potlačování citů: paměť (známé) a touha (chtěné budoucí) podle Biona zahlcují mysl a brání intuici toho, co se rodí teď — proto má analytik každé sezení vstupovat bez nasycení předchozím věděním. Protipřenos naopak Bion i post-bionovci využívají jako nástroj; potlačit ho není cílem.",
+    "source": "Bion, W. R.: Notes on Memory and Desire, 1967",
+    "seedElo": 1600
+  },
+  {
+    "id": "sko-015",
+    "type": "F",
+    "category": "skoly-autori",
+    "text": "Co je selfobjekt v Kohutově psychologii self?",
+    "options": [
+      "Vnitřní objekt vzniklý štěpením ega podle Fairbairna",
+      "Reprezentace vlastního těla v egu",
+      "Druhá osoba (či její funkce) prožívaná jako součást self, která plní funkce, jež self ještě nedokáže zajistit samo — např. zrcadlení nebo zklidnění",
+      "Přechodový objekt v dospělosti, např. talisman"
+    ],
+    "correct": 2,
+    "explanation": "Selfobjekt není objekt 'tam venku', ale druhý prožívaný z hlediska funkcí, které vykonává pro soudržnost, vitalitu a regulaci self. Kohut zdůrazňoval, že selfobjektové potřeby v zralejší podobě trvají celý život — nejde o patologii. Fairbairnovy vnitřní objekty i winnicottovský přechodový objekt jsou odlišné koncepty z jiných teorií.",
+    "source": "Kohut, H.: The Analysis of the Self, 1971",
+    "seedElo": 1400
+  },
+  {
+    "id": "sko-016",
+    "type": "F",
+    "category": "skoly-autori",
+    "text": "Jak podle Kohuta probíhá transmutující internalizace?",
+    "options": [
+      "Prostřednictvím optimálních, nevyhnutelných drobných selhání selfobjektu si dítě po kouscích osvojuje funkce, které dosud vykonával druhý, a buduje tak strukturu self",
+      "Dítě jednorázově introjikuje celý rodičovský objekt v oidipském období",
+      "Terapeut cíleně frustruje pacienta, aby posílil jeho ego",
+      "Self se proměňuje identifikací s agresorem podle Anny Freudové"
+    ],
+    "correct": 0,
+    "explanation": "Klíčem je postupnost a snesitelná dávka: když selfobjekt selže optimálně (ne traumaticky), dítě internalizuje ne osobu, ale její funkci — ze zklidňování matkou se stává schopnost zklidnit se samo. Nejde o jednorázovou introjekci celého objektu ani o záměrnou frustraci technikou; identifikace s agresorem je obranný mechanismus z jiného teoretického rámce.",
+    "source": "Kohut, H.: The Analysis of the Self, 1971",
+    "seedElo": 1600
+  },
+  {
+    "id": "sko-017",
+    "type": "F",
+    "category": "skoly-autori",
+    "text": "Co v Kohutově teorii označuje fragmentace self?",
+    "options": [
+      "Vývojově normální stav novorozence před vznikem ega",
+      "Rozpad štěpením na zcela dobré a zcela špatné objekty",
+      "Trvalé rozdělení osobnosti na alter ega při disociativní poruše",
+      "Ztrátu soudržnosti self v reakci na selhání selfobjektového prostředí, projevující se od difuzní úzkosti a hypochondrie po dezintegraci"
+    ],
+    "correct": 3,
+    "explanation": "Fragmentace je pro Kohuta osou psychopatologie: když selfobjektové vazby selžou, soudržné self se rozpadá a produkty rozpadu (izolovaná hypochondrická starost o tělo, dezintegrační úzkost, narcistický vztek) nejsou pudové projevy, ale úlomky self. Štěpení na dobré/špatné objekty je koncept kleiniánsko-kernbergovský a s disociativní poruchou identity fragmentace nesplývá.",
+    "source": "Kohut, H.: The Restoration of the Self, 1977",
+    "seedElo": 1600
+  },
+  {
+    "id": "sko-018",
+    "type": "F",
+    "category": "skoly-autori",
+    "text": "Kterou trojicí znaků Kernberg definuje hraniční organizaci osobnosti?",
+    "options": [
+      "Fragmentace self, nedostatek empatie, narcistický vztek",
+      "Ztráta testování reality, halucinace, bludy",
+      "Difuze identity, převaha primitivních obran (štěpení aj.) a v zásadě zachované testování reality",
+      "Stabilní identita, zralé obrany, oslabené testování reality"
+    ],
+    "correct": 2,
+    "explanation": "Kernbergova strukturální diagnóza staví hraniční organizaci mezi neurotickou a psychotickou: od neurotické ji odlišuje difuze identity a primitivní obrany kolem štěpení, od psychotické zachované testování reality. Ztráta testování reality definuje organizaci psychotickou; první možnost míchá pojmy Kohutovy.",
+    "source": "Kernberg, O.: Borderline Conditions and Pathological Narcissism, 1975",
+    "seedElo": 1500
+  },
+  {
+    "id": "sko-019",
+    "type": "F",
+    "category": "skoly-autori",
+    "text": "Co je jádrem přenosem fokusované psychoterapie (TFP) Kernberga a spolupracovníků?",
+    "options": [
+      "Systematická interpretace štěpených, protikladných objektních vztahů, jak se aktivují v přenosu tady a teď, s cílem integrace identity; drží ji pevný rámec a kontrakt",
+      "Zrcadlení pacientových selfobjektových potřeb a empatické ponoření",
+      "Nácvik dovedností emoční regulace ve skupině a individuálním koučování",
+      "Volné asociace na pohovce pětkrát týdně bez aktivity terapeuta"
+    ],
+    "correct": 0,
+    "explanation": "TFP je manualizovaná psychodynamická léčba hraniční patologie: terapeut identifikuje dominantní dyády objektních vztahů (např. oběť–trýznitel), sleduje jejich převracení v přenosu a interpretací štěpení směřuje k integraci identity; kontrakt chrání rámec. Zrcadlení je kohutovské, nácvik dovedností patří k DBT a klasické uspořádání na pohovce TFP nepřebírá.",
+    "source": "Clarkin, J. F., Yeomans, F. E., Kernberg, O. F.: Psychotherapy for Borderline Personality, 1999",
+    "seedElo": 1600
+  },
+  {
+    "id": "sko-020",
+    "type": "F",
+    "category": "skoly-autori",
+    "text": "Co Thomas Ogden nazývá analytickým třetím?",
+    "options": [
+      "Supervizora jako třetí osobu analytického procesu",
+      "Nevědomě spoluvytvářený intersubjektivní 'třetí subjekt' analýzy, generovaný analytikem a pacientem a zpětně oba proměňující",
+      "Otcovskou funkci, která rozbíjí duální vztah matka–dítě",
+      "Třetí topografickou instanci mezi vědomím a nevědomím"
+    ],
+    "correct": 1,
+    "explanation": "Analytický třetí je u Ogdena zkušenostní útvar vznikající v dialektickém napětí mezi subjektivitami analytika a pacienta; přístup k němu dává mimo jiné analytikova reverie. Nejde o reálnou třetí osobu (supervizora) ani o oidipského/symbolického třetího ve smyslu otcovské funkce, což je pojetí spíše lacanovské či klasické.",
+    "source": "Ogden, T. H.: The Analytic Third: Working with Intersubjective Clinical Facts, 1994",
+    "seedElo": 1600
+  },
+  {
+    "id": "sko-021",
+    "type": "F",
+    "category": "skoly-autori",
+    "text": "Čím Ogden doplnil kleiniánskou dvojici pozic o autisticko-kontiguitní pozici?",
+    "options": [
+      "Popisuje výhradně patologii dětského autismu podle DSM",
+      "Označuje stadium fúze s matkou mezi 6. a 12. měsícem",
+      "Jde o nejprimitivnější modus generování zkušenosti, založený na smyslové kontiguitě — rytmech a povrchových počitcích, z nichž vzniká první pocit ohraničeného self",
+      "Je to zralá pozice následující po pozici depresivní"
+    ],
+    "correct": 2,
+    "explanation": "Ogden (v návaznosti na Tustinovou a Meltzera) přidal k paranoidně-schizoidní a depresivní pozici třetí, senzorickou dimenzi zkušenosti: kožní kontakt, rytmus, tvar a povrch tvoří nejranější 'lepidlo' self. Jde o pozici v dialektickém vztahu s ostatními, ne o diagnózu autismu, vývojové stadium ani o nadstavbu nad depresivní pozicí.",
+    "source": "Ogden, T. H.: The Primitive Edge of Experience, 1989",
+    "seedElo": 1800
+  },
+  {
+    "id": "sko-022",
+    "type": "F",
+    "category": "skoly-autori",
+    "text": "V čem spočívala Ferencziho 'aktivní technika' dvacátých let?",
+    "options": [
+      "V zavedení vzájemné analýzy, kdy pacient analyzuje analytika",
+      "V analytikových zákazech a příkazech (např. zdržet se uklidňujících rituálů), které měly zvýšit napětí a vyplavit vytěsněný materiál",
+      "V prodloužení sezení na několik hodin podle potřeby pacienta",
+      "V systematickém poskytování rad ohledně životních rozhodnutí"
+    ],
+    "correct": 1,
+    "explanation": "Aktivní technika znamenala odklon od čistě vyčkávavé pozice: analytik ukládal úkoly a zákazy, aby frustrací zvýšil pudové napětí a zpřístupnil skrytý materiál. Ferenczi ji později sám kriticky opustil a experimentoval s opačným pólem (elasticita, relaxace); vzájemná analýza je až pozdní experiment z Klinického deníku, ne aktivní technika.",
+    "source": "Ferenczi, S.: The Further Development of an Active Therapy in Psycho-Analysis, 1921",
+    "seedElo": 1700
+  },
+  {
+    "id": "sko-023",
+    "type": "F",
+    "category": "skoly-autori",
+    "text": "Jaká je ústřední teze Fairbairnovy revize teorie libida?",
+    "options": [
+      "Libido nehledá slast, ale objekt — člověk je od počátku bytostně zaměřen na vztah, a slast je cestou k objektu, ne cílem",
+      "Libido je neutrální psychická energie bez sexuální povahy, jak tvrdil i Jung",
+      "Libido hledá slast a objekt je jen nahodilým prostředkem jejího dosažení",
+      "Libido se vyvíjí přes orální, anální a falické stadium k primátu genitálu"
+    ],
+    "correct": 0,
+    "explanation": "Fairbairnovo heslo 'libido is object-seeking, not pleasure-seeking' obrací Freudovo pojetí (možnost c): erotogenní zóny jsou pro něj kanály vztahu k objektu, ne zdroje samoúčelné slasti, a psychopatologie je poruchou vztahů, ne pudové ekonomie. Desexualizace libida je pozice Jungova a klasická stadia Fairbairn nahradil vývojem závislosti na objektu.",
+    "source": "Fairbairn, W. R. D.: Psychoanalytic Studies of the Personality, 1952",
+    "seedElo": 1500
+  },
+  {
+    "id": "sko-024",
+    "type": "F",
+    "category": "skoly-autori",
+    "text": "Jak Jung definoval kolektivní nevědomí?",
+    "options": [
+      "Jako sdílené rodinné nevědomí přenášené výchovou v prvních letech života",
+      "Jako souhrn vytěsněných zážitků, které jedinec kdysi prožil vědomě",
+      "Jako vrstvu psychiky společnou lidstvu, tvořenou zděděnými archetypy — apriorními vzorci prožívání a představivosti, nikoli konkrétními vzpomínkami",
+      "Jako skupinovou mentalitu davu popsanou Le Bonem"
+    ],
+    "correct": 2,
+    "explanation": "Kolektivní nevědomí je podle Junga nadosobní: neobsahuje osobní vytěsněný materiál (to je osobní nevědomí, blízké Freudovu pojetí), ale archetypy jako zděděné formy bez hotového obsahu, které se plní individuální zkušeností. Není to ani rodinná tradice, ani psychologie davu.",
+    "source": "Jung, C. G.: Die Archetypen und das kollektive Unbewusste (GW 9/1), 1934/1954",
+    "seedElo": 1400
+  },
+  {
+    "id": "sko-025",
+    "type": "F",
+    "category": "skoly-autori",
+    "text": "Kterým pojmem Sullivan vystihl roli terapeuta ve své interpersonální psychiatrii?",
+    "options": [
+      "Neutrální zrcadlo odrážející pacientovy projekce",
+      "Pomocné ego nahrazující chybějící funkce pacienta",
+      "Kontejner pro pacientovy beta-elementy",
+      "Zúčastněný pozorovatel (participant observer), který je vždy součástí pozorovaného interpersonálního pole"
+    ],
+    "correct": 3,
+    "explanation": "Sullivan odmítl představu analytika jako nezúčastněného zrcadla: terapeut podle něj nikdy nestojí mimo pole, jeho osoba a jednání spoluutvářejí data, která pozoruje — proto zúčastněný pozorovatel. Zrcadlo je metafora klasická freudovská, pomocné ego patří egopsychologii a psychodramatu, kontejner Bionovi.",
+    "source": "Sullivan, H. S.: The Psychiatric Interview, 1954",
+    "seedElo": 1500
+  },
+  {
+    "id": "sko-026",
+    "type": "K",
+    "category": "skoly-autori",
+    "text": "Kleinovské rozlišení: matka věnuje pozornost sourozenci a dítě zuří, že ztrácí její lásku ve prospěch třetího. Který pojem to vystihuje — na rozdíl od situace, kdy dítě chce zničit dobrý prs právě proto, že je dobrý a on sám ho nevlastní?",
+    "options": [
+      "Chamtivost (greed) — v obou případech jde o totéž",
+      "První je závist, druhá žárlivost",
+      "V obou případech jde o závist, liší se jen intenzitou",
+      "První je žárlivost, druhá závist"
+    ],
+    "correct": 3,
+    "explanation": "Žárlivost je u Kleinové trojstranná: bojím se, že lásku dobrého objektu ztratím ve prospěch soka, dobro objektu ale uznávám a chci ho pro sebe. Závist je dvojstranná a zhoubnější: útočí na dobro objektu samotné, právě proto, že ho mám před očima a není moje. Chamtivost je třetí, odlišný pojem — chce objekt bezohledně vytěžit, ne zkazit.",
+    "source": "Klein, M.: Envy and Gratitude, 1957",
+    "seedElo": 1500
+  },
+  {
+    "id": "sko-027",
+    "type": "K",
+    "category": "skoly-autori",
+    "text": "Čím se v kleiniánském pojetí liší projektivní identifikace od prosté projekce?",
+    "options": [
+      "Projekce je vždy patologická, projektivní identifikace vždy normální",
+      "Při projektivní identifikaci jsou části self ve fantazii umístěny do objektu, s nímž se subjekt dál identifikuje a jejž kontroluje; interpersonálně může vyvíjet tlak, aby druhý projikované skutečně prožíval — projekce je 'jen' připsání vlastního obsahu druhému",
+      "Jde o synonyma, projektivní identifikace je pouze novější termín",
+      "Projektivní identifikace probíhá vědomě, projekce nevědomě"
+    ],
+    "correct": 1,
+    "explanation": "U projekce obsah druhému připíšu a tím to končí; u projektivní identifikace zůstávám s projikovanou částí self spojen — sleduji ji v objektu, kontroluji ho a (v pozdějším, bionovském rozšíření) reálně v druhém odpovídající prožitek vyvolávám. Oba procesy jsou nevědomé a oba mají normální i patologické podoby; synonyma to nejsou.",
+    "source": "Klein, M.: Notes on Some Schizoid Mechanisms, 1946; Ogden, T. H.: Projective Identification and Psychotherapeutic Technique, 1982",
+    "seedElo": 1600
+  },
+  {
+    "id": "sko-028",
+    "type": "K",
+    "category": "skoly-autori",
+    "text": "Který kontrast nejpřesněji odlišuje paranoidně-schizoidní pozici od depresivní pozice u Kleinové?",
+    "options": [
+      "Úzkost o přežití vlastního self vůči rozštěpeným částečným objektům vs. úzkost a vina za poškození celého, ambivalentně milovaného objektu",
+      "Přítomnost agrese vs. její úplná absence",
+      "Psychotické fungování vs. neurotické fungování",
+      "Smutná nálada vs. podezíravá nálada jako hlavní rozlišovací znak"
+    ],
+    "correct": 0,
+    "explanation": "Rozhodující je povaha objektu a úzkosti: v PS pozici je objekt rozštěpen na ideální a pronásledující částečné objekty a úzkost je persekuční (o self); v depresivní pozici je objekt celý a ambivalentně milovaný a úzkost je depresivní (o objekt), s vinou a touhou po reparaci. Agrese je přítomna v obou, nejde o dělení psychóza/neuróza a 'nálada' není definičním kritériem — depresivní pozice není deprese.",
+    "source": "Klein, M.: A Contribution to the Psychogenesis of Manic-Depressive States, 1935; Notes on Some Schizoid Mechanisms, 1946",
+    "seedElo": 1600
+  },
+  {
+    "id": "sko-029",
+    "type": "K",
+    "category": "skoly-autori",
+    "text": "Freud 1926: čím se liší automatická (traumatická) úzkost od úzkosti signální?",
+    "options": [
+      "Automatická úzkost je vědomá, signální nevědomá",
+      "Automatická úzkost zaplavuje bezmocné ego při skutečné traumatické situaci; signální úzkost ego samo v malé dávce reprodukuje při hrozbě takové situace, aby včas spustilo obranu",
+      "Signální úzkost mají jen děti, automatickou jen dospělí",
+      "Automatická úzkost patří superegu, signální idu"
+    ],
+    "correct": 1,
+    "explanation": "Rozdíl je v roli ega: při traumatické situaci (zaplavení podněty, prototypem porod) je ego pasivně přemoženo — úzkost je automatická; signální úzkost je naopak aktivní výkon ega, zmenšená 'očkovací' reprodukce úzkosti při nebezpečné situaci (hrozbě traumatu), která mobilizuje vytěsnění. Obě formy se vyskytují v každém věku a úzkost Freud lokalizoval do ega, ne do superega či idu.",
+    "source": "Freud, S.: Hemmung, Symptom und Angst, 1926",
+    "seedElo": 1700
+  },
+  {
+    "id": "sko-030",
+    "type": "K",
+    "category": "skoly-autori",
+    "text": "Winnicott rozlišuje vztahování se k objektu (object-relating) a užívání objektu (object-usage). V čem je jádro rozdílu?",
+    "options": [
+      "Vztahování je zdravé, užívání je manipulativní zneužívání druhého",
+      "Užívání objektu je vývojově ranější než vztahování se k objektu",
+      "Při vztahování je objekt ještě svazkem projekcí v oblasti subjektivní omnipotence; při užívání je objekt vnímán jako vnější realita s vlastním životem, což předpokládá, že přežil destrukci",
+      "Vztahování se týká matky, užívání otce"
+    ],
+    "correct": 2,
+    "explanation": "U Winnicotta je 'užívání' paradoxně vývojový výkon, ne zneužití: znamená schopnost těžit z druhého jako ze skutečně vnějšího, mimo dosah vlastní omnipotence — a k tomu vede právě destrukce, kterou objekt přežije. Pořadí je vztahování → užívání, tedy obráceně než v možnosti b), a s dělením matka/otec rozlišení nesouvisí.",
+    "source": "Winnicott, D. W.: The Use of an Object, 1969",
+    "seedElo": 1700
+  },
+  {
+    "id": "sko-031",
+    "type": "K",
+    "category": "skoly-autori",
+    "text": "Pacient v analýze potřebuje, aby analytik obdivně přijímal jeho výkony a potvrzoval jeho výjimečnost; jiný pacient potřebuje analytika zažívat jako klidnou, dokonalou postavu, s níž může splývat její sílu. Jak tyto dva selfobjektové přenosy Kohut nazval?",
+    "options": [
+      "Erotizovaný a negativní přenos",
+      "Dvojnický (alter ego) a fúzní přenos",
+      "První je idealizující, druhý zrcadlící",
+      "První je zrcadlící, druhý idealizující"
+    ],
+    "correct": 3,
+    "explanation": "Zrcadlící přenos oživuje potřebu grandiózního self být viděn a obdivován ('lesk v matčině oku'); idealizující přenos oživuje potřebu opřít se o všemocný idealizovaný rodičovský imago a čerpat z něj klid. Možnost c) je přesně prohozená; dvojnický přenos je třetí typ — potřeba tichého souputníka podobného mně — a erotizovaný/negativní přenos nejsou Kohutovy selfobjektové kategorie.",
+    "source": "Kohut, H.: The Analysis of the Self, 1971",
+    "seedElo": 1600
+  },
+  {
+    "id": "sko-032",
+    "type": "K",
+    "category": "skoly-autori",
+    "text": "Kernberg: podle jaké dvojice ústředních obran rozlišuje neurotickou a hraniční organizaci osobnosti?",
+    "options": [
+      "Sublimace u neurotické vs. altruismus u hraniční",
+      "Projekce u neurotické vs. introjekce u hraniční",
+      "Disociace u neurotické vs. konverze u hraniční",
+      "Vytěsnění (represe) u neurotické vs. štěpení u hraniční"
+    ],
+    "correct": 3,
+    "explanation": "Neurotická organizace drží konflikty mimo vědomí vertikálně přes vytěsnění a zralejší obrany; hraniční organizace odděluje protikladné, plně vědomí přístupné, ale navzájem izolované stavy self a objektu štěpením, kolem něhož se druží primitivní idealizace, devalvace, projektivní identifikace a popření. Ostatní dvojice takto organizace nerozlišují — projekce, konverze i disociace se vyskytují napříč.",
+    "source": "Kernberg, O.: Borderline Conditions and Pathological Narcissism, 1975",
+    "seedElo": 1500
+  },
+  {
+    "id": "sko-033",
+    "type": "K",
+    "category": "skoly-autori",
+    "text": "Bionovo K a −K: který popis rozdílu je nejpřesnější?",
+    "options": [
+      "K je vědění jako hotové vlastnictví faktů, −K je pouhá nevědomost",
+      "K je kognitivní vazba, L (láska) je vazba emoční — K a −K se liší jen předmětem",
+      "K je vazba aktivního poznávání a snahy 'poznávat' zkušenost, −K je aktivní proces poznání zbavující smyslu — např. znehodnocování porozumění, lhaní si, útok na pravdu",
+      "−K označuje vytěsněné vědění, které lze interpretací vrátit do K"
+    ],
+    "correct": 2,
+    "explanation": "K u Biona není držení pravdy, ale živý proces 'getting to know' — vztah ke zkušenosti; −K není prostá absence vědění, nýbrž jeho aktivní protiklad: obalování porozumění závistí a lží, vyprazdňování smyslu, misrepresentace. Proto −K nelze redukovat na nevědomost ani na vytěsněný obsah čekající na interpretaci.",
+    "source": "Bion, W. R.: Learning from Experience, 1962",
+    "seedElo": 1800
+  },
+  {
+    "id": "sko-034",
+    "type": "K",
+    "category": "skoly-autori",
+    "text": "Čím se Bionovy 'ataky na spojování' (attacks on linking) liší od klasického kleiniánského štěpení objektu?",
+    "options": [
+      "Ataky na spojování jsou vědomou strategií, štěpení nevědomou obranou",
+      "Jsou to synonyma pro tentýž mechanismus",
+      "Ataky na spojování popisují destrukci samotných spojů — mezi myšlenkami, mezi emocí a myšlením, mezi pacientem a objektem — takže je napaden aparát poznávání sám; štěpení 'jen' rozděluje objekt a self na dobré a špatné části",
+      "Štěpení se týká myšlenek, ataky na spojování výhradně vnějších vztahů"
+    ],
+    "correct": 2,
+    "explanation": "Bion posunul důraz z rozdělených obsahů na zničené spojení: psychotická část osobnosti útočí na vše, co spojuje (i na spojující funkci prsu či analytikovy interpretace), a výsledkem jsou 'bizarní objekty' a neschopnost myslet. Štěpení objekty třídí, ale nechává mysl schopnou vazeb. Oba procesy jsou nevědomé a nejde o synonyma.",
+    "source": "Bion, W. R.: Attacks on Linking, 1959",
+    "seedElo": 1800
+  },
+  {
+    "id": "sko-035",
+    "type": "K",
+    "category": "skoly-autori",
+    "text": "Kontroverzní diskuse (1941–1945): v čem spočíval klíčový technický spor mezi Annou Freudovou a Melanie Kleinovou o dětskou analýzu?",
+    "options": [
+      "Kleinová pokládala hru za plnohodnotný ekvivalent volných asociací a interpretovala hluboký přenos i u malých dětí; Anna Freudová zdůrazňovala výchovnou a přípravnou fázi a soudila, že dítě žijící s reálnými rodiči nevytváří plnou přenosovou neurózu",
+      "Anna Freudová analyzovala jen dospělé, Kleinová jen děti",
+      "Spor se týkal výhradně délky sezení u dětí",
+      "Kleinová odmítala u dětí interpretovat agresi, Anna Freudová na ní trvala"
+    ],
+    "correct": 0,
+    "explanation": "Jádrem sporu byla technika i teorie: Kleinová četla dětskou hru jako symbolický materiál umožňující ranou, hlubokou interpretaci (včetně negativního přenosu a agrese — právě tu interpretovala obzvlášť ochotně), zatímco Anna Freudová stavěla na pedagogičtějším přístupu, spojenectví s egem a skepsi k přenosové neuróze u dětí. Obě analyzovaly děti; o délce sezení spor nebyl.",
+    "source": "King, P., Steiner, R. (eds.): The Freud–Klein Controversies 1941–45, 1991",
+    "seedElo": 1700,
+    "deepDive": "Kontroverzní diskuse probíhaly v Britské psychoanalytické společnosti za války — členové odcházeli z vědeckých schůzí do krytů při náletech Luftwaffe a Freudova smrt v Londýně (1939) spor o dědictví jen vyostřila. Výsledkem nebylo vítězství, ale slavný 'gentlemanský kompromis': společnost se rozdělila na kleiniánskou skupinu, skupinu Anny Freudové (později 'současní freudiáni') a nezávislou Middle Group, z níž vzešli Winnicott, Fairbairn (volně přidružený ze Skotska), Balint a Bowlby. Paralelní výcvikové proudy pod jednou střechou existují v Londýně dodnes — a právě z třecích ploch mezi nimi vyrostla velká část poválečné britské teorie objektních vztahů."
+  },
+  {
+    "id": "sko-036",
+    "type": "K",
+    "category": "skoly-autori",
+    "text": "Horneyová popisuje tři neurotické pohyby. Jak se liší pohyb proti lidem od pohybu od lidí?",
+    "options": [
+      "Pohyb proti lidem je vždy vědomý, pohyb od lidí nevědomý",
+      "Pohyb proti lidem řeší basální úzkost expanzí — bojem, ovládáním a triumfem nad druhými; pohyb od lidí rezignací na vztahy — odstupem, soběstačností a nedotknutelností",
+      "Pohyb proti lidem znamená otevřenou kriminalitu, pohyb od lidí schizofrenii",
+      "Pohyb proti lidem je typický pro muže, pohyb od lidí pro ženy"
+    ],
+    "correct": 1,
+    "explanation": "Všechny tři pohyby (k lidem, proti lidem, od lidí) jsou strategie zvládání basální úzkosti: compliance hledá bezpečí v lásce a podřízení, agresivní typ v moci a vítězství, odtažitý typ v nezávislosti a citovém odstupu. Nejde o diagnózy ani o rozdíl vědomé/nevědomé či mužské/ženské — neurotické je podle Horneyové rigidní uvíznutí v jedné strategii.",
+    "source": "Horney, K.: Our Inner Conflicts, 1945",
+    "seedElo": 1400
+  },
+  {
+    "id": "sko-037",
+    "type": "K",
+    "category": "skoly-autori",
+    "text": "V čem je zásadní rozdíl mezi Freudovým a Fairbairnovým výkladem toho, proč se týrané dítě lne ke špatnému rodiči?",
+    "options": [
+      "Freud by mluvil o masochistickém uspokojení pudu (slast jako cíl), Fairbairn o tom, že dítě potřebuje objekt za každou cenu — internalizuje jeho špatnost, aby vnější vztah udrželo snesitelný ('morální obrana')",
+      "Freud by jev popřel, Fairbairn ho poprvé popsal",
+      "Oba by ho vysvětlili identifikací s agresorem",
+      "Fairbairn by mluvil o fixaci libida v orálním stadiu, Freud o hledání objektu"
+    ],
+    "correct": 0,
+    "explanation": "Ukázkový kontrast obou paradigmat: v pudovém modelu je lpění na trýzniteli vysvětlitelné ekonomií slasti (masochismus), kdežto pro Fairbairna dokazuje primát objektu — dítě si raději vezme špatnost do sebe ('lépe být hříšníkem ve světě řízeném Bohem než žít ve světě řízeném ďáblem'), než aby ztratilo vztah. Možnost d) obě pozice prohazuje; identifikace s agresorem je pojem Anny Freudové a Ferencziho, ne společné vysvětlení obou.",
+    "source": "Fairbairn, W. R. D.: The Repression and the Return of Bad Objects, 1943",
+    "seedElo": 1700
+  },
+  {
+    "id": "sko-038",
+    "type": "K",
+    "category": "skoly-autori",
+    "text": "Winnicottovo pravé a falešné self: které vymezení je nejpřesnější?",
+    "options": [
+      "Pravé self je spontánní gesto a žitý pocit reálnosti vyrůstající z tělesného bytí; falešné self vzniká compliancí — přizpůsobením matčinu selhávajícímu zrcadlení — a v krajní podobě pravé self skrývá a chrání za cenu pocitu prázdnoty",
+      "Pravé self je vrozené superego, falešné self je naučené ego",
+      "Falešné self je totéž co vědomá společenská přetvářka a lhaní",
+      "Pravé self se projevuje jen v psychóze, falešné self ve zdraví"
+    ],
+    "correct": 0,
+    "explanation": "Falešné self není lhaní, ale nevědomá struktura: dítě, jehož spontánní gesta matka nezachytila, se učí žít z přizpůsobení a jeho pravé self zůstává v úkrytu — navenek může fungovat skvěle, uvnitř je pocit neskutečnosti. Winnicott zároveň popsal zdravou míru falešného self (zdvořilá sociální fasáda); se strukturami ego/superego ani s osou psychóza/zdraví dělení nesplývá.",
+    "source": "Winnicott, D. W.: Ego Distortion in Terms of True and False Self, 1960",
+    "seedElo": 1500
+  },
+  {
+    "id": "sko-039",
+    "type": "K",
+    "category": "skoly-autori",
+    "text": "Jak se liší Kohutovo pojetí narcistického vzteku od klasického pojetí agrese jako pudu?",
+    "options": [
+      "Kohut pokládal narcistický vztek za zdravou sublimaci pudu smrti",
+      "Narcistický vztek je podle Kohuta vrozený a od agrese se liší jen intenzitou",
+      "Pro Kohuta není agrese primárním pudem, ale produktem rozpadu: narcistický vztek je reakcí na zranění self selfobjektovým selháním, typická je neúprosná potřeba odplaty a nápravy křivdy",
+      "Kohut agresi u narcistických pacientů popíral"
+    ],
+    "correct": 2,
+    "explanation": "Kohut obrátil kauzalitu: agrese není původní síla, kterou je třeba zkrotit, ale 'disintegrační produkt' — když je grandiózní self zraněno nebo idealizovaný selfobjekt selže, vzniká specifický vztek s nárokem na absolutní odčinění urážky. Tím se lišil od Freuda i Kernberga, který primárnější roli agrese hájil; popírat agresi ovšem Kohut nepopíral, vysvětloval ji jinak.",
+    "source": "Kohut, H.: Thoughts on Narcissism and Narcissistic Rage, 1972",
+    "seedElo": 1700
+  },
+  {
+    "id": "sko-040",
+    "type": "K",
+    "category": "skoly-autori",
+    "text": "Jungovské rozlišení: čím se liší komplex od archetypu?",
+    "options": [
+      "Komplex je vždy patologický, archetyp vždy zdravý",
+      "Archetyp je osobně získaný, komplex zděděný",
+      "Jde o synonyma; komplex je jen starší Jungův termín",
+      "Komplex je citově nabitý trs představ v osobním nevědomí, utvořený individuální zkušeností; archetyp je zděděná apriorní forma v kolektivním nevědomí, která může tvořit jádro komplexu"
+    ],
+    "correct": 3,
+    "explanation": "Komplex (např. mateřský) je konkrétní, biograficky nasycený útvar zjištěný mj. asociačním experimentem; archetyp (Matka) je obecná, obsahově prázdná zděděná forma, kolem níž se osobní zkušenost organizuje — Jung mluvil o archetypovém jádru komplexu. Vztah dědičnosti je tedy přesně opačný než v možnosti b) a komplexy má podle Junga každý, nejsou samy o sobě nemocí.",
+    "source": "Jung, C. G.: Allgemeines zur Komplextheorie, 1934",
+    "seedElo": 1500
+  },
+  {
+    "id": "sko-041",
+    "type": "V",
+    "category": "skoly-autori",
+    "text": "Pacientka se po měsících vřelé spolupráce vrací z terapeutovy dovolené a suše oznámí, že terapie 'stejně nikdy k ničemu nebyla' a terapeut 'jen papouškuje příručky'; zároveň mluví o nové svépomocné knize, která 'konečně funguje'. Z hlediska kleiniánské teorie je nejpřesnějším čtením tohoto materiálu:",
+    "options": [
+      "Depresivní pozice: pacientka truchlí nad ztrátou objektu a hledá reparaci v knize",
+      "Návrat do paranoidně-schizoidního fungování: separací vyvolaná závist a znehodnocení dobrého objektu, rozštěpení na znehodnoceného terapeuta a idealizovanou knihu",
+      "Negativní terapeutická reakce z nevědomé viny podle Freuda",
+      "Zdravá individuace: pacientka si osvojila autonomii a terapii už nepotřebuje"
+    ],
+    "correct": 1,
+    "explanation": "Kleiniánsky čteno: dovolená konfrontovala pacientku se závislostí na dobrém objektu, který jí nepatří; závist a persekuční úzkost vedou ke znehodnocení ('nikdy k ničemu nebyla' maže i dobrou minulost) a štěpení přesune ideál do knihy. Depresivní odpověď by nesla smutek a starost o vztah, ne výsměch; freudovská negativní terapeutická reakce je jiný teoretický rámec, než jaký zadání žádá, a načasování těsně po separaci mluví proti 'zdravé autonomii'.",
+    "source": "Klein, M.: Envy and Gratitude, 1957; Joseph, B.: Psychic Equilibrium and Psychic Change, 1989",
+    "seedElo": 1600
+  },
+  {
+    "id": "sko-042",
+    "type": "V",
+    "category": "skoly-autori",
+    "text": "Během sezení s panickým pacientem terapeut náhle cítí bezejmennou hrůzu, která 'není jeho'. Nezasáhne hned; nechá zážitek v sobě usadit, přemýšlí, co pacient nemůže unést, a později klidně pojmenuje, čeho se pacient možná děsí. Pacient se viditelně zklidní. Z hlediska Bionovy teorie tento průběh nejpřesněji popisuje pojem:",
+    "options": [
+      "Korektivní emoční zkušenost podle Alexandra",
+      "Zrcadlení grandiózního self",
+      "Kontejnování: terapeut přijal projektivní identifikací evakuované beta-elementy, alfa-funkcí je přetvořil a vrátil ve stravitelné podobě",
+      "Identifikace s agresorem"
+    ],
+    "correct": 2,
+    "explanation": "Sekvence přesně kopíruje model kontejner–kontejnovaný: pacient evakuuje nesnesitelný, nemyslitelný obsah (bezejmenná hrůza je přímo Bionův termín), terapeutova reverie a alfa-funkce mu dají tvar a vrácená, 'detoxikovaná' verze umožní pacientovi obsah myslet místo jen vypuzovat. Korektivní emoční zkušenost je jiný, nebionovský koncept, zrcadlení je kohutovské a identifikace s agresorem sem věcně nesedí.",
+    "source": "Bion, W. R.: Learning from Experience, 1962; A Theory of Thinking, 1962",
+    "seedElo": 1500
+  },
+  {
+    "id": "sko-043",
+    "type": "V",
+    "category": "skoly-autori",
+    "text": "Adolescentní pacient týdny testuje terapeuta: uráží ho, ničí věci v pracovně, nedostavuje se. Terapeut drží rámec, nemstí se, nehroutí se a nadále je spolehlivě k dispozici. Po čase chlapec poprvé mluví o něčem osobním. Z hlediska Winnicottovy teorie je nejvhodnějším popisem toho, co proběhlo:",
+    "options": [
+      "Systematická desenzibilizace agresivních podnětů",
+      "Terapeut posílil pozitivní přenos odměňováním žádoucího chování",
+      "Pacient dosáhl vhledu do oidipského konfliktu",
+      "Objekt přežil destrukci: tím, že terapeut nebyl zničen ani se nemstil, dostal se mimo pacientovu omnipotentní kontrolu a stal se reálným, použitelným objektem, jemuž lze svěřit pravé self"
+    ],
+    "correct": 3,
+    "explanation": "Winnicott viděl v destruktivním testování (zvlášť u antisociální tendence) naději: pacient nevědomě zkouší, zda prostředí vydrží. Přežití bez odvety a bez kolapsu umisťuje objekt vně omnipotence — teprve takovému objektu lze důvěřovat a 'používat' ho. Behaviorální čtení (desenzibilizace, odměňování) míjí zadané kritérium a oidipský vhled zde není nosným mechanismem změny.",
+    "source": "Winnicott, D. W.: The Use of an Object, 1969",
+    "seedElo": 1600
+  },
+  {
+    "id": "sko-044",
+    "type": "V",
+    "category": "skoly-autori",
+    "text": "Pacient s narcistickou problematikou léta stabilně pracuje v analýze. Analytik jednou omylem zapomene na domluvený přesun sezení. Pacient přijde rozlámaný: nemůže se soustředit, celé dny ho zaměstnává bolest zad, cítí se 'rozsypaný' a na analytika se snese mrazivé pohrdání. Z hlediska Kohutovy psychologie self je nejpřesnějším čtením:",
+    "options": [
+      "Oidipská rivalita: pacient trestá otcovskou postavu za vyloučení",
+      "Selhání selfobjektové vazby vyvolalo fragmentaci self (hypochondrická sebezaostřenost, ztráta koheze) a narcistický vztek; klíčová je analytikova empatická rekonstrukce zranění, ne interpretace pacientovy agrese jako pudu",
+      "Maligní regrese, kterou je nutné zastavit zpevněním hranic",
+      "Sekundární zisk z nemoci: bolest zad má pacientovi zajistit péči"
+    ],
+    "correct": 1,
+    "explanation": "Obraz je učebnicově kohutovský: drobné selhání idealizovaného selfobjektu naruší kohezi self a produkty rozpadu jsou právě hypochondrické zaujetí tělem, difuzní rozpad výkonnosti a chladný narcistický vztek. Kohut by radil nejprve empaticky uznat reálnost zranění z pozice pacienta; výklady přes oidipskou rivalitu, sekundární zisk či nutnost 'zpevnit hranice' míjejí zadané kritérium psychologie self.",
+    "source": "Kohut, H.: The Restoration of the Self, 1977; Thoughts on Narcissism and Narcissistic Rage, 1972",
+    "seedElo": 1700
+  },
+  {
+    "id": "sko-045",
+    "type": "V",
+    "category": "skoly-autori",
+    "text": "Pacientka na vstupním vyšetření: partnera před měsícem popisovala jako 'jediného, kdo ji kdy pochopil', dnes je to 'sobecké monstrum'; sama neví, co chce studovat, kým je, střídá skupiny přátel i styly. Halucinace ani bludy nemá, realitu testuje spolehlivě. Z hlediska Kernbergovy strukturální diagnostiky je nejpřesnější závěr:",
+    "options": [
+      "Psychotická organizace osobnosti vzhledem k nestabilitě vztahů",
+      "Neurotická organizace osobnosti, protože je zachováno testování reality",
+      "Hraniční organizace osobnosti: difuze identity a štěpení (oscilace idealizace–devalvace) při zachovaném testování reality",
+      "Normální adolescentní krize identity bez strukturální patologie"
+    ],
+    "correct": 2,
+    "explanation": "Nález sedí přesně na Kernbergovu triádu: difuze identity (nesoudržný obraz sebe i druhých), primitivní obrany v čele se štěpením (překlopení partnera z ideálu do monstra) a zachované testování reality, které vylučuje psychotickou organizaci. Zachované testování reality samo o sobě neurotickou organizaci nezakládá — tam by musela být integrovaná identita; a strukturální interview slouží právě k odlišení od běžné vývojové krize.",
+    "source": "Kernberg, O.: Severe Personality Disorders: Psychotherapeutic Strategies, 1984",
+    "seedElo": 1500
+  },
+  {
+    "id": "sko-046",
+    "type": "V",
+    "category": "skoly-autori",
+    "text": "Analytik při pacientově monotónním vyprávění přistihne sám sebe, jak myslí na vlastní přeplněnou lednici a na jídlo, které se v ní kazí. Místo aby to zahnal jako nepozornost, vezme to jako materiál a postupně se v něm vynoří hypotéza o něčem 'zkaženém a nevyhozeném' v pacientově životě. Z hlediska Ogdenova přístupu je nejpřesnějším pojmenováním tohoto postupu:",
+    "options": [
+      "Práce s reverie: zdánlivě soukromé snění analytika je čteno jako výtvor analytického třetího, a tedy jako nepřímá komunikace o nevědomé situaci dvojice",
+      "Protipřenosový akting, který měl analytik v supervizi odstranit",
+      "Volně těkající pozornost, jejímž cílem je nemyslet na nic konkrétního",
+      "Sebeodhalení: analytik má obsah snění pacientovi ihned sdělit"
+    ],
+    "correct": 0,
+    "explanation": "Ogden radikalizoval Bionovu reverie: i banální, tělesné či trapné myšlenky analytika ('nejobyčejnější mentální krajina') nejsou šumem, ale spoluvytvořeným produktem intersubjektivního třetího, a proto klinickým faktem. Nejde o selhání, které má supervize odstranit, ani o prosté 'nemyšlení'; a Ogden výslovně varuje před přímým sdělováním obsahu reverie — užívá ji nepřímo, k formulaci interpretace.",
+    "source": "Ogden, T. H.: Reverie and Interpretation, 1997",
+    "seedElo": 1700
+  },
+  {
+    "id": "sko-047",
+    "type": "E",
+    "category": "skoly-autori",
+    "text": "Najdi chybu v tvrzení: 'Kleinová popsala paranoidně-schizoidní a depresivní pozici jako vývojová stadia; jakmile dítě kolem čtvrtého měsíce vstoupí do depresivní pozice, paranoidně-schizoidní fungování definitivně opouští a v dospělosti se k němu zdravý člověk už nevrací.' Z hlediska kleiniánské teorie je chybné především:",
+    "options": [
+      "Chybné je spojení depresivní pozice s obdobím kolem čtvrtého měsíce — Kleinová ji kladla až do puberty",
+      "Tvrzení je celé v pořádku a odpovídá Kleinové",
+      "Chybné je, že by pozice popsala Kleinová — jde o pojmy Winnicottovy",
+      "Tvrzení pojednává pozice jako jednosměrně opouštěná stadia; podle Kleinové jde o konfigurace, mezi nimiž psychika osciluje celoživotně (Bion to zapsal PS↔D)"
+    ],
+    "correct": 3,
+    "explanation": "Jádrem omylu je slovo 'definitivně': pozice nejsou schody, ale způsoby organizace zkušenosti, mezi nimiž se i zdravý dospělý pohybuje — pod tlakem regreduje k PS fungování a depresivní pozici znovu a znovu propracovává; Bion oscilaci zachytil zápisem PS↔D. Časový údaj (druhé čtvrtletí prvního roku) naopak Kleinové zhruba odpovídá a autorství pozic je nesporně její.",
+    "source": "Klein, M.: Notes on Some Schizoid Mechanisms, 1946; Bion, W. R.: Learning from Experience, 1962",
+    "seedElo": 1600
+  },
+  {
+    "id": "sko-048",
+    "type": "E",
+    "category": "skoly-autori",
+    "text": "Najdi chybu v tvrzení: 'Kohut zavedl pojem selfobjekt a tvrdil, že narcistické potřeby zrcadlení a idealizace jsou známkou patologie, kterou má úspěšná analýza zcela odstranit — zralý člověk už žádné selfobjekty nepotřebuje.' Z hlediska Kohutovy teorie je chybné především:",
+    "options": [
+      "Chybný je pojem idealizace — ten u Kohuta nefiguruje, patří Kernbergovi",
+      "Závěr o odstranění selfobjektových potřeb: podle Kohuta trvají celý život a vývoj i léčba směřují od archaických ke zralým formám (např. umění, ideály, přátelství), ne k jejich zrušení",
+      "Chybné je autorství — pojem selfobjekt zavedl Winnicott",
+      "Tvrzení je celé správné a shrnuje Kohutovo pojetí"
+    ],
+    "correct": 1,
+    "explanation": "Kohutova nejradikálnější teze zní opačně, než tvrzení sugeruje: potřeba selfobjektů je celoživotní a analogická potřebě kyslíku — patologií není potřeba sama, ale uvíznutí v archaických formách. Cílem analýzy je proto transformace (zralé zrcadlení, realistické ideály), ne narcistická 'nezávislost'. Pojem selfobjekt je Kohutův a idealizace je přímo jedna z jeho tří selfobjektových potřeb.",
+    "source": "Kohut, H.: How Does Analysis Cure?, 1984",
+    "seedElo": 1600
+  },
+  {
+    "id": "sko-049",
+    "type": "X",
+    "category": "skoly-autori",
+    "text": "Tříleté dítě po narození sourozence opakovaně bije matku a trhá jí knihy. Nabízejí se čtyři výklady. Který z nich odpovídá specificky Winnicottovu myšlení, na rozdíl od čtení kleiniánského, kohutovského a klasicky freudovského?",
+    "options": [
+      "Agrese vyjadřuje závist a útok na dobrý objekt, který dítě vlastní fantazií poškozuje a bude potřebovat reparaci",
+      "Jde o narcistický vztek: sourozenec zranil grandiózní self a selhalo rodičovské zrcadlení",
+      "Agrese je zde vitální spontánní gesto a test prostředí: dítě potřebuje zjistit, že matka jeho destruktivitu přežije bez odvety a bez zhroucení, a naděje se skrývá právě v tom, že to zkouší doma",
+      "Jde o regresi na análně-sadistické stadium s odvozením agrese z pudu smrti"
+    ],
+    "correct": 2,
+    "explanation": "Winnicottův podpis je dvojí: agrese jako projev vitality (ne primárně destrukce) a důraz na přežití prostředí — destruktivní chování je paradoxně projevem naděje a důvěry, že objekt vydrží. Možnost a) je kleiniánská (závist, reparace), b) kohutovská (zranění self, zrcadlení) a d) klasicky freudovská pudově-vývojová. Otázka nechce 'pravdu o dítěti', jen správné přiřazení jazyka škole.",
+    "source": "Winnicott, D. W.: Aggression in Relation to Emotional Development, 1950; The Use of an Object, 1969",
+    "seedElo": 1700,
+    "deepDive": "Osud agrese je jednou z nejostřejších dělicích čar mezi školami. Freud po roce 1920 odvozoval agresi z pudu smrti; Kleinová tuto spekulaci jako jediná velká škola plně klinicky rozvinula (envy jako přímý derivát pudu smrti). Winnicott pud smrti odmítl a agresi přeznačil na životní sílu a motilitu, která se destruktivní stává až selháním prostředí. Kohut šel ještě dál: agrese je pouhý produkt rozpadu self. Kernberg se naopak vrátil k silné konstituční agresi jako stavebnímu kameni těžké patologie — takže spor Freud vs. prostředí vs. self běží v nových kostýmech dodnes."
+  },
+  {
+    "id": "sko-050",
+    "type": "X",
+    "category": "skoly-autori",
+    "text": "Pacient se do analytika 'zamiluje' a nekriticky ho obdivuje. Čtyři školy, čtyři čtení. Která formulace odpovídá specificky Kohutově psychologii self, na rozdíl od čtení klasicky freudovského, kleiniánského a sullivanovského?",
+    "options": [
+      "Jde o přenosové opakování oidipské lásky k rodiči; obdiv je odvozen z vytěsněného libidinózního přání a má být přeložen zpět do infantilního konfliktu",
+      "Idealizace je obranou proti závisti a štěpení: znehodnocení je za dveřmi, jakmile analytik zklame",
+      "Jde o parataxické zkreslení: pacient na analytika přenáší personifikace z dřívějších interpersonálních situací a to je třeba ověřovat konsenzuální validizací",
+      "Rozvinul se idealizující selfobjektový přenos: oživená vývojová potřeba opřít self o silný, klidný objekt; nemá být předčasně interpretován jako obrana, ale nejprve empaticky přijat, protože nese zablokovaný vývoj self"
+    ],
+    "correct": 3,
+    "explanation": "Kohutovský podpis je v tom, že idealizace není maskovaný pud ani obrana, ale legitimní vývojová potřeba, která dostává druhou šanci — proto se nemá 'rozbíjet' časnou interpretací. Možnost a) je klasicky freudovská (přenos jako opakování oidipského libida), b) kleiniánsko-kernbergovská (idealizace jako obrana proti závisti/štěpení) a c) sullivanovská (parataxické zkreslení, konsenzuální validizace).",
+    "source": "Kohut, H.: The Analysis of the Self, 1971",
+    "seedElo": 1700
+  }
+]

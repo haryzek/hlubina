@@ -1,0 +1,40 @@
+[
+  {
+    "id": "tmp-001",
+    "type": "F",
+    "category": "skoly-autori",
+    "text": "Který autor zavedl pojem 'dost dobrá matka' (good enough mother)?",
+    "options": ["Melanie Klein", "Donald Winnicott", "Wilfred Bion", "Heinz Kohut"],
+    "correct": 1,
+    "explanation": "Pojem zavedl Winnicott: matka nemusí být dokonalá, stačí dost dobrá — její drobná selhání v únosné míře budují dětskou kapacitu snášet frustraci. Klein pracovala s pozicemi, Bion s kontejnováním, Kohut se selfobjekty.",
+    "source": "Winnicott (1953)",
+    "seedElo": 1350
+  },
+  {
+    "id": "tmp-002",
+    "type": "K",
+    "category": "obrany",
+    "text": "Čím se projektivní identifikace liší od prosté projekce?",
+    "options": [
+      "Je vědomá, zatímco projekce je nevědomá",
+      "Týká se jen pozitivních obsahů",
+      "Druhá osoba je interpersonálním tlakem přiměna projikovaný obsah skutečně prožívat",
+      "Vyskytuje se pouze u psychotické organizace"
+    ],
+    "correct": 2,
+    "explanation": "U projektivní identifikace nezůstává obsah jen 'promítnut' — příjemce je jemným interpersonálním tlakem vtažen do toho, aby jej reálně prožíval či odehrával. Obě obrany jsou nevědomé a nejsou vázané jen na psychózu.",
+    "source": "Ogden (1982)",
+    "seedElo": 1550
+  },
+  {
+    "id": "tmp-003",
+    "type": "V",
+    "category": "prenos-technika",
+    "text": "Klient vypráví o smrti otce věcně a bez emocí, soustředí se na detaily dědického řízení. Z hlediska psychodynamického porozumění jde nejpravděpodobněji o:",
+    "options": ["izolaci afektu", "popření", "reaktivní výtvor", "disociaci"],
+    "correct": 0,
+    "explanation": "Fakta zůstávají plně dostupná, ale afekt je od nich oddělen — typická izolace afektu. Popření by popíralo samu událost, reaktivní výtvor by ukazoval opačný afekt, disociace by narušila kontinuitu prožívání.",
+    "source": "McWilliams, Psychoanalytická diagnóza",
+    "seedElo": 1500
+  }
+]

@@ -1,0 +1,761 @@
+[
+  {
+    "id": "vyz-001",
+    "type": "F",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Kdo jako první použil metaforu ptáka Doda z Alenky v říši divů pro myšlenku, že různé psychoterapie mohou být účinné díky společným faktorům?",
+    "options": [
+      "Lester Luborsky ve své metaanalýze srovnávacích studií",
+      "Jerome Frank v knize Persuasion and Healing",
+      "Saul Rosenzweig v článku z roku 1936",
+      "Bruce Wampold v knize The Great Psychotherapy Debate"
+    ],
+    "correct": 2,
+    "explanation": "Rosenzweig už v roce 1936 v článku o implicitních společných faktorech použil citát ptáka Doda: „Všichni vyhráli a všichni musí dostat ceny.“ Luborsky verdikt v roce 1975 empiricky oživil a Wampold ho later systematizoval, ale prvenství patří Rosenzweigovi. Frank rozpracoval společné faktory, metaforu Doda ale nezavedl.",
+    "source": "Rosenzweig, S. (1936). Some implicit common factors in diverse methods of psychotherapy. American Journal of Orthopsychiatry, 6(3).",
+    "seedElo": 1500,
+    "deepDive": "Rosenzweigův článek má tři strany a předběhl dobu o půl století. Napsal ho jako mladý výzkumník a tvrdil v něm, že úspěch terapie možná nezávisí na tom, co terapeuti *říkají, že dělají*, ale na tom, co dělají všichni společně: nabízejí konzistentní ideologii, osobnost terapeuta a implicitní přeučení. Citát ptáka Doda si vypůjčil z Carrollovy Alenky, kde Dodo po zmateném závodě prohlásí, že vyhráli všichni. Když Luborsky se spolupracovníky v roce 1975 shrnul srovnávací studie a našel převážně nerozhodné výsledky, dal svému článku podtitul právě podle Doda — a spor o „dodo bird verdict“ se stal jednou z nejdéle běžících kontroverzí výzkumu psychoterapie."
+  },
+  {
+    "id": "vyz-002",
+    "type": "F",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Co přesně tvrdí takzvaný dodo bird verdict ve výzkumu psychoterapie?",
+    "options": [
+      "Že etablované (bona fide) terapie vedou v průměru k přibližně rovnocenným výsledkům",
+      "Že psychoterapie je účinnější než farmakoterapie u všech diagnóz",
+      "Že účinnost terapie závisí především na délce léčby",
+      "Že žádná psychoterapie není účinnější než placebo"
+    ],
+    "correct": 0,
+    "explanation": "Verdikt se týká přibližné rovnocennosti výsledků různých legitimních, na pomoc zaměřených terapií — ne toho, že terapie nefunguje, ani srovnání s léky. Neplyne z něj ani nadřazenost delší léčby. Spor se dnes vede hlavně o to, zda rovnocennost platí univerzálně, nebo existují výjimky u specifických diagnóz.",
+    "source": "Luborsky, L., Singer, B., & Luborsky, L. (1975). Comparative studies of psychotherapies. Archives of General Psychiatry, 32(8).",
+    "seedElo": 1300
+  },
+  {
+    "id": "vyz-003",
+    "type": "F",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Kterými třemi cestami podle Wampoldova kontextuálního modelu psychoterapie působí?",
+    "options": [
+      "Katarze, vhled a korektivní emoční zkušenost",
+      "Reálný vztah, vytvoření očekávání skrze vysvětlení potíží a zdraví podporující činnosti",
+      "Diagnóza, protokol léčby a měření výsledků",
+      "Sugesce, přenos a interpretace"
+    ],
+    "correct": 1,
+    "explanation": "Wampold popisuje tři dráhy: reálný (lidský) vztah, budování očekávání skrze srozumitelné vysvětlení potíží a plán léčby, a konkrétní zdraví podporující činnosti, které klient v souladu s tímto vysvětlením podniká. Model je alternativou k medicínskému modelu specifických účinných složek. Ostatní možnosti míchají pojmy z psychoanalýzy a metodologie, nejde o Wampoldovy tři cesty.",
+    "source": "Wampold, B. E., & Imel, Z. E. (2015). The Great Psychotherapy Debate (2nd ed.). Routledge.",
+    "seedElo": 1500
+  },
+  {
+    "id": "vyz-004",
+    "type": "F",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Z jakých tří složek se skládá terapeutická aliance podle Bordinovy panteoretické koncepce?",
+    "options": [
+      "Empatie, kongruence a bezpodmínečné přijetí",
+      "Přenos, protipřenos a pracovní ego",
+      "Důvěra, mlčenlivost a pravidelnost setkávání",
+      "Shoda na cílech, shoda na úkolech a emoční pouto"
+    ],
+    "correct": 3,
+    "explanation": "Bordin (1979) definoval alianci jako shodu na cílech terapie, shodu na úkolech (co se v terapii konkrétně dělá) a emoční pouto mezi klientem a terapeutem. Koncepce je záměrně panteoretická — použitelná napříč směry. Empatie, kongruence a přijetí jsou Rogersovy podmínky, nikoli Bordinovy složky aliance.",
+    "source": "Bordin, E. S. (1979). The generalizability of the psychoanalytic concept of the working alliance. Psychotherapy: Theory, Research & Practice, 16(3).",
+    "seedElo": 1300
+  },
+  {
+    "id": "vyz-005",
+    "type": "F",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Co ukazují velké metaanalýzy o vztahu terapeutické aliance a výsledku terapie?",
+    "options": [
+      "Aliance predikuje výsledek pouze v psychodynamických terapiích",
+      "Aliance je konzistentní, středně silný prediktor výsledku napříč terapeutickými směry",
+      "Aliance s výsledkem terapie nekoreluje",
+      "Aliance je nejsilnějším známým prediktorem a vysvětluje většinu rozptylu výsledků"
+    ],
+    "correct": 1,
+    "explanation": "Metaanalýzy (Horvath, Flückiger a kol.) opakovaně nacházejí korelaci kolem r = .28 — jde o jeden z nejrobustnějších, ale středně silných prediktorů, platný napříč směry včetně KBT. Aliance tedy nevysvětluje většinu rozptylu, ani není specialitou psychodynamické terapie. Nulový vztah je v rozporu s desítkami studií.",
+    "source": "Flückiger, C., Del Re, A. C., Wampold, B. E., & Horvath, A. O. (2018). The alliance in adult psychotherapy: A meta-analytic synthesis. Psychotherapy, 55(4).",
+    "seedElo": 1500
+  },
+  {
+    "id": "vyz-006",
+    "type": "F",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Jaké dva základní typy ruptur terapeutické aliance rozlišují Safran a Muran?",
+    "options": [
+      "Ruptury stažením (withdrawal) a ruptury konfrontací (confrontation)",
+      "Ruptury přenosové a protipřenosové",
+      "Ruptury rané a pozdní",
+      "Ruptury kognitivní a emoční"
+    ],
+    "correct": 0,
+    "explanation": "Safran a Muran rozlišují ruptury stažením (klient se odpojuje, mlčí, přitakává bez účasti) a ruptury konfrontací (klient otevřeně vyjadřuje nespokojenost či hněv vůči terapeutovi nebo terapii). Rozlišení je klíčové, protože každý typ vyžaduje jinou cestu reparace. Ostatní dělení se v jejich modelu nepoužívají.",
+    "source": "Safran, J. D., & Muran, J. C. (2000). Negotiating the Therapeutic Alliance: A Relational Treatment Guide. Guilford Press.",
+    "seedElo": 1500
+  },
+  {
+    "id": "vyz-007",
+    "type": "F",
+    "category": "vyzkum-etika-dejiny",
+    "text": "K jakému hlavnímu závěru dospěla průlomová metaanalýza Smithové a Glasse (1977) o účinnosti psychoterapie?",
+    "options": [
+      "Psychoterapie je účinná jen u lehčích potíží",
+      "Behaviorální terapie výrazně překonávají všechny ostatní",
+      "Průměrný klient po terapii je na tom lépe než zhruba tři čtvrtiny neléčených osob",
+      "Účinek psychoterapie je nerozlišitelný od spontánní remise"
+    ],
+    "correct": 2,
+    "explanation": "Smithová a Glass agregovali stovky studií a našli průměrnou velikost účinku kolem 0,68, což odpovídá tomu, že průměrný léčený člověk je na tom lépe než přibližně 75 % kontrolní skupiny. Šlo o první velkou metaanalýzu v psychologii a přímou odpověď na Eysenckovu skepsi. Rozdíly mezi směry byly malé, nikoli drtivá převaha behaviorálních terapií.",
+    "source": "Smith, M. L., & Glass, G. V. (1977). Meta-analysis of psychotherapy outcome studies. American Psychologist, 32(9).",
+    "seedElo": 1500
+  },
+  {
+    "id": "vyz-008",
+    "type": "F",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Které tvrzení odpovídá závěrům Shedlerova přehledu The Efficacy of Psychodynamic Psychotherapy (2010)?",
+    "options": [
+      "Psychodynamická terapie funguje pouze u poruch osobnosti",
+      "Psychodynamická terapie je účinná jen ve verzi trvající řadu let",
+      "Účinky psychodynamické terapie nelze měřit standardními nástroji",
+      "Velikosti účinku psychodynamické terapie jsou srovnatelné s jinými terapiemi a zisky mají tendenci po ukončení léčby dále narůstat"
+    ],
+    "correct": 3,
+    "explanation": "Shedler shrnul metaanalýzy ukazující velikosti účinku srovnatelné s terapiemi označovanými za empiricky podložené, a navíc opakovaný nález, že zisky psychodynamické léčby se při follow-up měřeních dále zvětšují. Argumentoval také, že účinné „nedynamické“ terapie často využívají technik dlouhodobě rozvíjených v dynamické tradici. Omezení na poruchy osobnosti ani nutnost víceleté léčby z přehledu neplynou.",
+    "source": "Shedler, J. (2010). The efficacy of psychodynamic psychotherapy. American Psychologist, 65(2).",
+    "seedElo": 1500
+  },
+  {
+    "id": "vyz-009",
+    "type": "F",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Jaký tvar má vztah mezi počtem sezení a podílem zlepšených klientů podle klasického dose-response výzkumu (Howard a kol.)?",
+    "options": [
+      "Negativně akcelerovaná křivka: největší přírůstky zlepšení přicházejí v raných sezeních a poté se zpomalují",
+      "Lineární: každé sezení přidává stejný díl zlepšení",
+      "Prahový: efekt se objevuje až po překročení určitého minimálního počtu sezení",
+      "U-křivka: zlepšení nejprve klesá a poté roste"
+    ],
+    "correct": 0,
+    "explanation": "Howard a kolegové popsali negativně akcelerovanou křivku — značná část klientů se měřitelně zlepší už během prvních sezení a další přírůstky vyžadují stále více času. To neznamená, že delší terapie je zbytečná; některé cíle a populace vyžadují delší práci. Lineární ani prahový model datům neodpovídá.",
+    "source": "Howard, K. I., Kopta, S. M., Krause, M. S., & Orlinsky, D. E. (1986). The dose-effect relationship in psychotherapy. American Psychologist, 41(2).",
+    "seedElo": 1500
+  },
+  {
+    "id": "vyz-010",
+    "type": "F",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Jak vysoký je průměrný podíl klientů, kteří předčasně ukončí terapii (dropout), podle metaanalýzy Swifta a Greenberga (2012)?",
+    "options": [
+      "Méně než 5 %",
+      "Zhruba pětina klientů",
+      "Přibližně polovina klientů",
+      "Více než dvě třetiny klientů"
+    ],
+    "correct": 1,
+    "explanation": "Metaanalýza 669 studií našla průměrnou míru dropoutu kolem 20 %, tedy zhruba každý pátý klient. Míra se lišila podle definice dropoutu, diagnózy i settingu; vyšší byla mimo kontrolované studie. Údaje kolem poloviny pocházejí ze starších, metodologicky volnějších přehledů.",
+    "source": "Swift, J. K., & Greenberg, R. P. (2012). Premature discontinuation in adult psychotherapy: A meta-analysis. Journal of Consulting and Clinical Psychology, 80(4).",
+    "seedElo": 1700
+  },
+  {
+    "id": "vyz-011",
+    "type": "F",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Co se ve výzkumu psychoterapie myslí pojmem therapist effects (efekt terapeuta)?",
+    "options": [
+      "Vliv terapeutovy únavy na průběh jednotlivého sezení",
+      "Zkreslení výsledků studií způsobené tím, že terapeut je zároveň výzkumníkem",
+      "Zjištění, že část rozptylu výsledků systematicky připadá na to, u kterého terapeuta se klient léčí — a bývá větší než rozdíly mezi metodami",
+      "Placebo efekt vyvolaný terapeutovou pověstí"
+    ],
+    "correct": 2,
+    "explanation": "Víceúrovňové analýzy ukazují, že terapeuti se od sebe systematicky liší v dosahovaných výsledcích — na osobu terapeuta připadá typicky kolem 5 % rozptylu, což je víc, než kolik obvykle vysvětlují rozdíly mezi terapeutickými metodami. To přesouvá pozornost výzkumu od otázky „která metoda“ k otázce „co dělají efektivní terapeuti jinak“. Ostatní možnosti popisují jiné jevy (únava, allegiance, očekávání).",
+    "source": "Baldwin, S. A., & Imel, Z. E. (2013). Therapist effects. In M. J. Lambert (Ed.), Bergin and Garfield's Handbook of Psychotherapy and Behavior Change (6th ed.). Wiley.",
+    "seedElo": 1700
+  },
+  {
+    "id": "vyz-012",
+    "type": "F",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Které zjištění vedlo k zavedení konceptu deliberate practice (záměrného tréninku) do vzdělávání psychoterapeutů?",
+    "options": [
+      "Že terapeuti s výcvikem v KBT mají lepší výsledky než ostatní",
+      "Že klienti preferují starší terapeuty",
+      "Že výsledky terapeutů se zlepšují úměrně počtu absolvovaných výcviků",
+      "Že samotné roky praxe v průměru nevedou ke zlepšování výsledků terapeutů"
+    ],
+    "correct": 3,
+    "explanation": "Longitudinální data (např. Goldberg a kol., 2016) ukázala, že výsledky terapeutů se s pouhými lety zkušeností v průměru nezlepšují, ba mírně stagnují či klesají. To odpovídá Ericssonovu rozlišení mezi pouhou zkušeností a záměrným tréninkem: cíleným nácvikem konkrétních dovedností se zpětnou vazbou mimo komfortní zónu. Počet výcviků ani preference klientů tímto zjištěním nejsou.",
+    "source": "Goldberg, S. B., et al. (2016). Do psychotherapists improve with time and experience? Journal of Counseling Psychology, 63(1); Rousmaniere, T. (2017). Deliberate Practice for Psychotherapists. Routledge.",
+    "seedElo": 1700
+  },
+  {
+    "id": "vyz-013",
+    "type": "F",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Které prvky terapeutického vztahu označila pracovní skupina vedená Norcrossem za prokazatelně účinné (demonstrably effective)?",
+    "options": [
+      "Mimo jiné alianci, empatii, sbírání zpětné vazby od klienta a shodu na cílech",
+      "Pouze délku vztahu a frekvenci sezení",
+      "Výhradně techniky specifické pro daný terapeutický směr",
+      "Fyzickou atraktivitu terapeuta a shodu pohlaví s klientem"
+    ],
+    "correct": 0,
+    "explanation": "Třetí pracovní skupina APA pro empiricky podložené vztahy zařadila mezi prokazatelně účinné prvky alianci (u dospělých i mládeže), empatii, sbírání a využívání zpětné vazby od klienta, shodu na cílech a kolaboraci. Smyslem projektu bylo doplnit seznamy empiricky podložených léčeb o důkazy k samotnému vztahu. Specifické techniky byly mimo záběr této otázky, atraktivita a shoda pohlaví mezi účinné prvky nepatří.",
+    "source": "Norcross, J. C., & Lambert, M. J. (2018). Psychotherapy relationships that work III. Psychotherapy, 55(4).",
+    "seedElo": 1500
+  },
+  {
+    "id": "vyz-014",
+    "type": "F",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Které čtyři společné složky účinného léčení popsal Jerome Frank v knize Persuasion and Healing?",
+    "options": [
+      "Diagnostika, medikace, terapie a rehabilitace",
+      "Emočně nabitý vztah, léčebné prostředí, vysvětlující rámec (mýtus) a rituál či procedura",
+      "Vhled, katarze, přenos a odpor",
+      "Expozice, nácvik, zpevnění a generalizace"
+    ],
+    "correct": 1,
+    "explanation": "Frank tvrdil, že všechny formy léčení — od šamanismu po psychoterapii — sdílejí emočně nabitý důvěrný vztah, léčebné prostředí, věrohodný vysvětlující rámec a rituál, na němž se obě strany podílejí. Společným cílem je podle něj překonání demoralizace. Ostatní možnosti vyjmenovávají pojmy psychoanalýzy či KBT, ne Frankovy společné složky.",
+    "source": "Frank, J. D., & Frank, J. B. (1991). Persuasion and Healing (3rd ed.). Johns Hopkins University Press.",
+    "seedElo": 1500
+  },
+  {
+    "id": "vyz-015",
+    "type": "F",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Čím Hans Eysenck v roce 1952 vyprovokoval vznik moderního výzkumu účinnosti psychoterapie?",
+    "options": [
+      "Publikoval první randomizovanou studii psychoterapie",
+      "Prokázal, že behaviorální terapie je škodlivá",
+      "Tvrdil, že dostupná data neukazují účinek psychoterapie nad rámec spontánní remise",
+      "Navrhl první standardizovaný dotazník terapeutického výsledku"
+    ],
+    "correct": 2,
+    "explanation": "Eysenck z hrubých srovnání vyvodil, že přibližně dvě třetiny neurotických pacientů se zlepší i bez léčby, a že tedy pro účinnost (zejména psychoanalytické) terapie chybí důkazy. Jeho metodika byla později rozsáhle kritizována, ale provokace spustila desetiletí systematického výzkumu vrcholícího metaanalýzou Smithové a Glasse. Randomizovanou studii ani dotazník výsledku nepublikoval.",
+    "source": "Eysenck, H. J. (1952). The effects of psychotherapy: An evaluation. Journal of Consulting Psychology, 16(5).",
+    "seedElo": 1500,
+    "deepDive": "Eysenckův útok z roku 1952 je učebnicový příklad produktivní provokace. Srovnal míry zlepšení pacientů v psychoterapii s údaji o pojišťovacích klientech a hospitalizovaných neuroticích bez léčby — srovnání metodologicky děravé (nesrovnatelné skupiny, různé definice zlepšení), ale řečnicky zdrcující. Psychoterapeutická obec musela poprvé vzít vážně otázku důkazů. Odpověď trvala čtvrt století: v roce 1977 Smithová a Glass vynalezli pro tento účel metaanalýzu — dnes standardní nástroj celé medicíny — a ukázali, že průměrný účinek terapie je robustní. Bez Eysencka by možná metaanalýza vznikla později a jinde; jeho skepse tak paradoxně psychoterapii posílila."
+  },
+  {
+    "id": "vyz-016",
+    "type": "F",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Jaký hlavní přínos má rutinní monitorování výsledků (routine outcome monitoring) se zpětnou vazbou terapeutovi podle výzkumu Michaela Lamberta?",
+    "options": [
+      "Zkracuje průměrnou délku terapie u všech klientů",
+      "Nahrazuje potřebu supervize",
+      "Zvyšuje příjmy praxe díky lepší dokumentaci",
+      "Snižuje riziko zhoršení u klientů, jejichž terapie se nevyvíjí dobře (not on track)"
+    ],
+    "correct": 3,
+    "explanation": "Lambertův výzkum se systémem OQ-45 ukázal, že terapeuti sami špatně rozpoznávají klienty směřující ke zhoršení; upozornění ze systematického měření výrazně zlepšuje výsledky právě u těchto „not on track“ případů. Přínos je tedy především záchrannou sítí, ne univerzálním zkracovačem terapie. Supervizi monitoring nenahrazuje, doplňuje ji.",
+    "source": "Lambert, M. J., & Shimokawa, K. (2011). Collecting client feedback. Psychotherapy, 48(1).",
+    "seedElo": 1700
+  },
+  {
+    "id": "vyz-017",
+    "type": "F",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Co v profesní etice znamená princip hranic kompetence?",
+    "options": [
+      "Terapeut poskytuje jen služby, pro něž má vzdělání, výcvik a zkušenost, a při jejich překročení hledá supervizi, další vzdělání nebo klienta odkáže dál",
+      "Terapeut nesmí pracovat s více než jedním diagnostickým okruhem",
+      "Terapeut smí pracovat pouze pod trvalým dohledem supervizora",
+      "Terapeut nesmí kombinovat techniky různých směrů"
+    ],
+    "correct": 0,
+    "explanation": "Kompetence je vymezena vzděláním, výcvikem a supervidovanou zkušeností; etické kodexy (např. APA 2.01) požadují, aby terapeut mimo tyto hranice buď nepracoval, nebo si kompetenci doplnil, případně klienta předal. Nejde o zákaz více diagnóz ani o zákaz integrace technik. Trvalý dohled se týká výcviku, ne celé kariéry.",
+    "source": "American Psychological Association (2017). Ethical Principles of Psychologists and Code of Conduct, Standard 2.01.",
+    "seedElo": 1300
+  },
+  {
+    "id": "vyz-018",
+    "type": "F",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Co stanovil kalifornský případ Tarasoff, na nějž se odvolává etika mlčenlivosti po celém světě?",
+    "options": [
+      "Že klient může kdykoli nahlédnout do kompletní dokumentace",
+      "Že mlčenlivost je absolutní a nelze ji prolomit ani při ohrožení života",
+      "Že terapeut má povinnost podniknout kroky k ochraně identifikovatelné osoby, které klient věrohodně hrozí vážným ublížením",
+      "Že terapeut musí každé sezení nahrávat pro případ soudního sporu"
+    ],
+    "correct": 2,
+    "explanation": "Rozhodnutí Tarasoff v. Regents of the University of California (1976) formulovalo zásadu, že ochrana veřejnosti může převážit nad mlčenlivostí: terapeut má povinnost chránit konkrétní ohroženou osobu (varováním, kontaktováním úřadů apod.). Ustálilo se heslo „protective privilege ends where the public peril begins“. Mlčenlivost tedy absolutní není; nahrávání ani neomezený přístup do dokumentace s případem nesouvisejí.",
+    "source": "Tarasoff v. Regents of the University of California, 17 Cal. 3d 425 (1976).",
+    "seedElo": 1500
+  },
+  {
+    "id": "vyz-019",
+    "type": "F",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Jak přistupuje etický kodex APA k sexuálnímu vztahu s bývalým klientem po ukončení terapie?",
+    "options": [
+      "Po ukončení terapie žádná omezení neplatí",
+      "Zakazuje jej nejméně dva roky po ukončení a i poté jej připouští jen ve zcela výjimečných okolnostech, které musí terapeut prokázat",
+      "Povoluje jej, pokud terapie trvala méně než rok",
+      "Zakazuje jej doživotně bez výjimky ve všech profesních kodexech"
+    ],
+    "correct": 1,
+    "explanation": "Standard 10.08 zakazuje sexuální intimity s bývalými klienty minimálně dva roky po ukončení — a i po uplynutí této lhůty leží na psychologovi břemeno prokázat, že nejde o zneužití (posuzuje se mj. délka a intenzita terapie, klientova zranitelnost). Nejde tedy o automatické povolení po dvou letech. Doživotní zákaz některé kodexy skutečně mají, ale ne všechny — proto je čtvrtá možnost jako obecné tvrzení nepřesná.",
+    "source": "American Psychological Association (2017). Ethical Principles of Psychologists and Code of Conduct, Standard 10.08.",
+    "seedElo": 1700
+  },
+  {
+    "id": "vyz-020",
+    "type": "F",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Jak současná profesní etika chápe informovaný souhlas v psychoterapii?",
+    "options": [
+      "Jako formalitu vyžadovanou jen u výzkumných studií",
+      "Jako dokument, který podepisuje pouze klientova pojišťovna",
+      "Jako jednorázový podpis formuláře na začátku léčby",
+      "Jako průběžný proces: srozumitelné informování o povaze léčby, alternativách, rizicích a limitech mlčenlivosti, obnovované při podstatných změnách"
+    ],
+    "correct": 3,
+    "explanation": "Informovaný souhlas je proces, ne dokument: klient má rozumět povaze a průběhu terapie, honorářům, limitům mlčenlivosti a dostupným alternativám, a souhlas se aktualizuje při změnách (nová metoda, zapojení třetích stran, nahrávání). Jednorázový podpis bez porozumění etickému požadavku nedostojí. Netýká se jen výzkumu a pojišťovna není jeho subjektem.",
+    "source": "American Psychological Association (2017). Ethical Principles of Psychologists and Code of Conduct, Standards 3.10 a 10.01.",
+    "seedElo": 1300
+  },
+  {
+    "id": "vyz-021",
+    "type": "F",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Kdo ve skutečnosti léčil slavnou pacientku Annu O. a odkud pochází označení talking cure?",
+    "options": [
+      "Josef Breuer; označení talking cure vymyslela sama pacientka",
+      "Sigmund Freud; označení zavedl ve Studiích o hysterii",
+      "Carl Gustav Jung; označení pochází z jeho asociačního experimentu",
+      "Sándor Ferenczi; označení zavedl v deníku z roku 1932"
+    ],
+    "correct": 0,
+    "explanation": "Annu O. léčil v letech 1880 až 1882 Josef Breuer; Freud ji nikdy neléčil, případ znal z Breuerova vyprávění a společně jej publikovali ve Studiích o hysterii (1895). Výrazy „talking cure“ a „chimney sweeping“ vymyslela pacientka sama pro popis úlevy z vymluvení symptomů. Jung ani Ferenczi s případem neměli nic společného.",
+    "source": "Breuer, J., & Freud, S. (1895). Studien über Hysterie.",
+    "seedElo": 1300,
+    "deepDive": "Anna O. je zakládající mýtus psychoanalýzy — a jako správný mýtus je napůl pravdivý. Breuer léčbu popsal jako katarzní úspěch, ale z dochovaných záznamů víme, že pacientka po ukončení léčby strávila roky v sanatoriích, mimo jiné se závislostí na morfiu, který dostávala na neuralgie. Slavná historka o hysterickém těhotenství a Breuerově panickém útěku je zřejmě pozdější Freudova dramatizace. Skutečný druhý život Berthy Pappenheim je přitom pozoruhodnější než ten mytický: stala se průkopnicí sociální práce, bojovala proti obchodu se ženami, překládala Mary Wollstonecraft a Německo ji po smrti uctilo poštovní známkou. Léčení vyprávěním ji neuzdravilo — ale zdá se, že si nakonec pomohla sama, prací a smyslem."
+  },
+  {
+    "id": "vyz-022",
+    "type": "F",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Kým se po skončení léčby stala Bertha Pappenheim, žena skrytá za pseudonymem Anna O.?",
+    "options": [
+      "První ženskou členkou Vídeňské psychoanalytické společnosti",
+      "Průkopnicí sociální práce a bojovnicí za práva žen v Německu",
+      "Freudovou dlouholetou sekretářkou",
+      "Zakladatelkou první psychoanalytické kliniky v Berlíně"
+    ],
+    "correct": 1,
+    "explanation": "Pappenheim se stala vůdčí postavou německé sociální práce: založila spolek Jüdischer Frauenbund, vedla domov pro ohrožené dívky a veřejně vystupovala proti obchodu se ženami. K psychoanalýze se stavěla odmítavě a o své léčbě nikdy veřejně nemluvila. S Freudem profesně nespolupracovala a analytickou kliniku nezakládala.",
+    "source": "Borch-Jacobsen, M. (1996). Remembering Anna O.: A Century of Mystification. Routledge.",
+    "seedElo": 1500
+  },
+  {
+    "id": "vyz-023",
+    "type": "F",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Co bylo teoretickým jádrem roztržky mezi Freudem a Jungem, dovršené v roce 1913?",
+    "options": [
+      "Spor o autorství výkladu snů",
+      "Jungovo odmítnutí práce s přenosem",
+      "Jungovo pojetí libida jako obecné psychické energie namísto energie primárně sexuální",
+      "Neshoda o délce výcvikové analýzy"
+    ],
+    "correct": 2,
+    "explanation": "V knize Wandlungen und Symbole der Libido (1912) Jung rozšířil libido na obecnou psychickou energii a zpochybnil sexuální etiologii neuróz, což Freud považoval za opuštění základního kamene psychoanalýzy. Roli hrály i osobní faktory (Freudova představa Junga jako korunního prince a nežidovské tváře hnutí), ale doktrinální jádro sporu bylo pojetí libida. Přenos Jung neodmítal a výcviková analýza tehdy nebyla standardizována.",
+    "source": "Jung, C. G. (1912). Wandlungen und Symbole der Libido; McGuire, W. (Ed.) (1974). The Freud/Jung Letters. Princeton University Press.",
+    "seedElo": 1500
+  },
+  {
+    "id": "vyz-024",
+    "type": "F",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Kvůli jakému teoretickému důrazu se Alfred Adler v roce 1911 rozešel s Freudem a založil vlastní školu?",
+    "options": [
+      "Kvůli důrazu na kolektivní nevědomí a archetypy",
+      "Kvůli požadavku, aby analýzu směli provádět jen lékaři",
+      "Kvůli odmítání jakékoli práce se sny",
+      "Kvůli důrazu na pocity méněcennosti, usilování o uplatnění a sociální faktory namísto sexuální etiologie neuróz"
+    ],
+    "correct": 3,
+    "explanation": "Adler stavěl do centra orgánovou méněcennost, kompenzační usilování a „mužský protest“, a sexuální pud odsunul z role univerzální příčiny neuróz — což Freud odmítl jako popření psychoanalýzy, a Adler s částí Vídeňské společnosti odešel a založil individuální psychologii. Kolektivní nevědomí patří Jungovi. Otázka laické analýzy ani práce se sny jádrem sporu nebyly.",
+    "source": "Ellenberger, H. F. (1970). The Discovery of the Unconscious. Basic Books, kap. o Adlerovi.",
+    "seedElo": 1500
+  },
+  {
+    "id": "vyz-025",
+    "type": "F",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Proč byl Sándor Ferenczi na sklonku života marginalizován psychoanalytickým hnutím a proč byl později rehabilitován?",
+    "options": [
+      "Marginalizován pro experimenty s vřelejší, vzájemnější technikou a pro text o traumatickém působení dospělých na děti; rehabilitován jako předchůdce vztahové psychoanalýzy a výzkumu traumatu",
+      "Marginalizován pro odmítnutí konceptu nevědomí; rehabilitován kognitivní vědou",
+      "Marginalizován pro spolupráci s behavioristy; rehabilitován integrativním hnutím",
+      "Marginalizován kvůli plagiátorství; rehabilitován po nálezu původních rukopisů"
+    ],
+    "correct": 0,
+    "explanation": "Ferencziho experimenty s aktivní a poté elastickou, vzájemnější technikou (včetně pokusu o vzájemnou analýzu) a jeho přednáška Zmatení jazyků (1932), která vracela vážnost reálnému traumatu a svádění, vedly k odcizení od Freuda a k dlouhé marginalizaci, přiživené Jonesovým tvrzením o jeho duševní nemoci. Od 80. let, s vydáním Klinického deníku, je čten jako předchůdce vztahové psychoanalýzy, teorie traumatu a důrazu na protipřenos. S behaviorismem ani plagiátorstvím jeho příběh nesouvisí.",
+    "source": "Ferenczi, S. (1932/1988). The Clinical Diary of Sándor Ferenczi (ed. J. Dupont). Harvard University Press; Aron, L., & Harris, A. (1993). The Legacy of Sándor Ferenczi.",
+    "seedElo": 1700,
+    "deepDive": "Ferenczi byl Freudův nejbližší přítel a nejodvážnější experimentátor hnutí. Zatímco Freud směřoval k chladnější technice zrcadla, Ferenczi zkoušel opak: co když pacient s raným traumatem potřebuje především zažít, že tentokrát je vztah jiný? Jeho Klinický deník z roku 1932 obsahuje šokující sebereflexe — přiznání nudy, odporu i vlastních chyb — a pokus o „vzájemnou analýzu“, kde analyzoval pacientku a ona jeho. Přednáška Zmatení jazyků, kterou Freud nechtěl nechat publikovat, tvrdila, že skutečné zneužití dětí je častější, než analýza připouští, a že dítě internalizuje vinu agresora. Ernest Jones ho pak v oficiální biografii Freuda vylíčil jako psychotika. Trvalo půl století, než vztahová psychoanalýza a výzkum traumatu zjistily, že řadu jejich základních myšlenek napsal maďarský analytik, který zemřel roku 1933 v nemilosti."
+  },
+  {
+    "id": "vyz-026",
+    "type": "F",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Jak skončily takzvané Controversial Discussions mezi stoupenci Melanie Kleinové a Anny Freudové v Britské psychoanalytické společnosti (1941 až 1945)?",
+    "options": [
+      "Vyloučením kleiniánů ze společnosti",
+      "Kompromisem: společnost zůstala jednotná, ale vznikly paralelní výcvikové proudy (kleiniánský, annafreudovský a střední skupina)",
+      "Rozpuštěním společnosti a založením dvou nových institutů",
+      "Vítězstvím Anny Freudové a zákazem kleiniánské techniky u dětí"
+    ],
+    "correct": 1,
+    "explanation": "Spor o teorii raného vývoje a dětskou techniku skončil takzvaným gentlemanským ujednáním: společnost se nerozpadla, ale výcvik se rozdělil do proudů — kleiniánského, skupiny Anny Freudové a středních, později Nezávislých (Winnicott, Fairbairn a další). Nikdo nebyl vyloučen a žádná technika zakázána. Toto uspořádání formovalo britskou psychoanalýzu na desetiletí.",
+    "source": "King, P., & Steiner, R. (Eds.) (1991). The Freud-Klein Controversies 1941-45. Routledge.",
+    "seedElo": 1700,
+    "deepDive": "Představte si Londýn za války: ve dne padají bomby, večer se v Britské psychoanalytické společnosti vášnivě diskutuje o tom, zda kojenec v prvních měsících života prožívá závist a fantazie o zničení matčina těla. Kleinová, přišedší z Budapešti a Berlína, vybudovala v Británii vlivnou školu; Anna Freudová dorazila roku 1938 s nemocným otcem a zjistila, že ostrov obývá „jiná psychoanalýza“. Série vědeckých setkání v letech 1941 až 1945 měla rozhodnout, čí učení je pravou analýzou. Nerozhodla — a právě to je její odkaz. Kompromis tří výcvikových proudů uchoval pod jednou střechou pluralitu, z níž vyrostla střední (Nezávislá) skupina: Winnicott, Fairbairn, Balint. Paradoxně tak nejplodnější britská tradice vznikla z odmítnutí vybrat si stranu."
+  },
+  {
+    "id": "vyz-027",
+    "type": "F",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Čím Heinz Hartmann založil americkou ego-psychologii?",
+    "options": [
+      "Teorií objektních vztahů odvozenou z pozorování kojenců",
+      "Konceptem self jako nadřazené struktury osobnosti",
+      "Tezí o adaptaci a bezkonfliktní sféře ega, tedy o funkcích ega nezávislých na pudovém konfliktu",
+      "Přenesením Pavlovových experimentů do psychoanalýzy"
+    ],
+    "correct": 2,
+    "explanation": "Hartmannova práce Ego psychologie a problém adaptace (1939) postulovala primární autonomii ega: funkce jako vnímání, paměť či motorika se vyvíjejí v bezkonfliktní sféře a slouží adaptaci na průměrně očekávatelné prostředí. Tím posunul psychoanalýzu k obecné psychologii a jeho program ovládl poválečnou americkou analýzu. Objektní vztahy patří britské tradici a psychologie self Kohutovi.",
+    "source": "Hartmann, H. (1939). Ich-Psychologie und Anpassungsproblem (Ego Psychology and the Problem of Adaptation).",
+    "seedElo": 1700
+  },
+  {
+    "id": "vyz-028",
+    "type": "F",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Co spojovalo takzvané neopsychoanalytiky, jako byli Karen Horneyová, Erich Fromm a Harry Stack Sullivan?",
+    "options": [
+      "Návrat k Freudově teorii svádění",
+      "Snaha převést psychoanalýzu do laboratorního experimentu",
+      "Odmítnutí práce s nevědomím",
+      "Přesun důrazu z biologických pudů na kulturní a interpersonální determinanty neurózy"
+    ],
+    "correct": 3,
+    "explanation": "Neopsychoanalytici (kulturní škola) kritizovali Freudův pudový biologismus a univerzalismus: Horneyová zdůraznila bazální úzkost a kulturní podmíněnost (včetně kritiky pojetí ženství), Fromm společenský charakter, Sullivan interpersonální pole. Nevědomí neopouštěli, přeznačili jeho obsah. S teorií svádění ani s laboratorním experimentem jejich program nesouvisí.",
+    "source": "Horney, K. (1937). The Neurotic Personality of Our Time; Sullivan, H. S. (1953). The Interpersonal Theory of Psychiatry.",
+    "seedElo": 1500
+  },
+  {
+    "id": "vyz-029",
+    "type": "F",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Jak souvisí vznik kognitivní terapie s psychoanalytickou minulostí Aarona Becka?",
+    "options": [
+      "Beck byl vycvičený psychoanalytik; kognitivní terapii rozvinul poté, co jeho výzkum snů depresivních pacientů nepotvrdil analytickou hypotézu o obráceném hostilním přání",
+      "Beck psychoanalýzu nikdy nestudoval a vyšel čistě z behaviorismu",
+      "Beck převzal kognitivní model přímo od Junga",
+      "Beck vytvořil kognitivní terapii jako větev ego-psychologie na přání svého výcvikového institutu"
+    ],
+    "correct": 0,
+    "explanation": "Beck absolvoval analytický výcvik a chtěl psychoanalýzu empiricky obhájit: testoval hypotézu, že deprese je hostilita obrácená proti sobě, na obsahu snů. Místo masochistických přání ale nacházel témata ztráty, selhání a defektnosti — tedy tatáž negativní schémata jako v bdělém myšlení, což ho vedlo ke kognitivnímu modelu. Nevyšel z behaviorismu ani od Junga a institut ho k ničemu nepověřil; jeho odklon byl naopak přijat chladně.",
+    "source": "Beck, A. T. (1967). Depression: Clinical, Experimental, and Theoretical Aspects; Rosner, R. I. (2014). The 'splendid isolation' of Aaron T. Beck. Isis, 105(4).",
+    "seedElo": 1500,
+    "deepDive": "Zrod KBT je krásná ironie dějin: vznikla z pokusu psychoanalýzu zachránit, ne pohřbít. Beck, mladý analytik ve Filadelfii padesátých let, věřil, že analytické hypotézy lze testovat — sám říkal, že chtěl psychoanalýzu učinit vědecky úctyhodnou. Vybral si tezi, že deprese je hněv obrácený dovnitř, a hledal v snech depresivních pacientů masochistická přání. Našel ale všední témata: sen o rozbitém automatu, o ztraceném kabátě, o tom, že člověk někam nedorazí. Tytéž motivy poražení a ztráty pak slyšel v bdělých „automatických myšlenkách“ pacientů na gauči. Závěr, že deprese je porucha zpracování informací, ne skrytého přání, ho stál členství v analytické komunitě — American Psychoanalytic Association mu opakovaně zamítla členství. O půl století později se kruh uzavírá: výzkum common factors ukazuje, že jeho terapie a terapie jeho bývalých kolegů si jsou výsledky podobnější, než obě strany čekaly."
+  },
+  {
+    "id": "vyz-030",
+    "type": "F",
+    "category": "vyzkum-etika-dejiny",
+    "text": "V čem spočívala revolučnost práce Carla Rogerse pro výzkum psychoterapie?",
+    "options": [
+      "Vyvinul první projektivní diagnostickou metodu",
+      "Jako první systematicky nahrával a zveřejňoval záznamy sezení a formuloval testovatelné podmínky terapeutické změny",
+      "Zavedl randomizované kontrolované studie do psychiatrie",
+      "Prosadil povinnou výcvikovou analýzu pro poradce"
+    ],
+    "correct": 1,
+    "explanation": "Rogers ve 40. letech prolomil tabu, když začal sezení nahrávat, přepisovat a vystavovat výzkumu — do té doby byla terapeutova pracovna černou skříňkou. Článek z roku 1957 pak formuloval nutné a dostatečné podmínky změny (mj. empatii, kongruenci, bezpodmínečné pozitivní přijetí) jako testovatelné hypotézy. RCT design z jeho dílny nepochází a výcvikovou analýzu neprosazoval, jeho tradice stojí mimo psychoanalýzu.",
+    "source": "Rogers, C. R. (1957). The necessary and sufficient conditions of therapeutic personality change. Journal of Consulting Psychology, 21(2).",
+    "seedElo": 1500,
+    "deepDive": "Rogersova revoluce měla dvě křídla a obě bývají podceňována. To první je technologické: pořídit v roce 1940 záznam terapie znamenalo tahat do pracovny gramofonové disky a měnit je každé tři minuty — a hlavně připustit, že se kdokoli může podívat terapeutovi pod ruce. Freud publikoval kazuistiky, tedy vlastní vyprávění; Rogers publikoval data. To druhé křídlo je rétorické: článek z roku 1957 je formulován jako vyzývavá hypotéza — šest podmínek, které jsou prý nutné a *dostatečné*, takže žádná technika, žádná diagnóza, žádný výklad nejsou potřeba. Výzkum následujících dekád ukázal, že podmínky jsou spíše „velmi nápomocné než dostatečné“, ale tím, že je Rogers formuloval falzifikovatelně, založil celou tradici výzkumu terapeutického vztahu, z níž dnes čerpá i Norcrossova pracovní skupina."
+  },
+  {
+    "id": "vyz-031",
+    "type": "K",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Kontrast efficacy vs. effectiveness: které tvrzení správně vystihuje rozdíl mezi těmito dvěma typy výzkumu psychoterapie?",
+    "options": [
+      "Efficacy se měří u jednotlivce, effectiveness u skupin",
+      "Efficacy znamená účinnost z pohledu klienta, effectiveness z pohledu terapeuta",
+      "Efficacy zkoumá účinek v kontrolovaných randomizovaných studiích, effectiveness účinek v podmínkách běžné klinické praxe",
+      "Efficacy se týká krátkodobých a effectiveness dlouhodobých terapií"
+    ],
+    "correct": 2,
+    "explanation": "Efficacy studie maximalizují vnitřní validitu (randomizace, manuály, výběrová kritéria), effectiveness studie zkoumají, jak léčba funguje v naturalistických podmínkách běžné praxe s heterogenními klienty — maximalizují vnější validitu. Slavným příkladem effectiveness přístupu je průzkum Consumer Reports analyzovaný Seligmanem. Rozdíl nespočívá v perspektivě klienta a terapeuta ani v délce léčby.",
+    "source": "Seligman, M. E. P. (1995). The effectiveness of psychotherapy: The Consumer Reports study. American Psychologist, 50(12).",
+    "seedElo": 1500
+  },
+  {
+    "id": "vyz-032",
+    "type": "K",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Kontrast překročení hranice (boundary crossing) vs. porušení hranice (boundary violation) podle Gutheila a Gabbarda: které tvrzení rozdíl vystihuje správně?",
+    "options": [
+      "Crossing se týká času sezení, violation peněz",
+      "Crossing je jakýkoli fyzický kontakt, violation kontakt sexuální",
+      "Jde o synonyma používaná v různých zemích",
+      "Crossing je odchylka od rámce, která může být neškodná či prospěšná, violation je odchylka, která klienta poškozuje nebo vykořisťuje"
+    ],
+    "correct": 3,
+    "explanation": "Gutheil a Gabbard rozlišují překročení hranice (např. podání ruky, doprovod klienta v krizi), které nemusí škodit a někdy léčbě pomáhá, od porušení hranice, jež klienta zneužívá či poškozuje (typicky sexuální kontakt, finanční vykořisťování). Klíčem je dopad na klienta a zneužití asymetrie vztahu, ne kategorie času, peněz či dotyku samy o sobě. Termíny rozhodně nejsou synonyma.",
+    "source": "Gutheil, T. G., & Gabbard, G. O. (1993). The concept of boundaries in clinical practice. American Journal of Psychiatry, 150(2).",
+    "seedElo": 1700
+  },
+  {
+    "id": "vyz-033",
+    "type": "K",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Kontrast ruptury stažením vs. konfrontací (Safran a Muran): který projev klienta je typickou rupturou stažením, nikoli konfrontací?",
+    "options": [
+      "Klient odpovídá stále úsečněji, mění témata a přitakává, aniž by se doopravdy účastnil",
+      "Klient zvýšeným hlasem říká, že terapie je ztráta času",
+      "Klient zpochybňuje terapeutovu kvalifikaci",
+      "Klient požaduje vrácení peněz za minulé sezení"
+    ],
+    "correct": 0,
+    "explanation": "Stažení je pohyb od kontaktu pryč: vyhýbání, povrchní souhlas, ztišení, pseudospolupráce — ruptura snadno přehlédnutelná, protože sezení navenek běží hladce. Zbylé tři projevy jsou pohyb proti terapeutovi, tedy konfrontační ruptura. Prakticky to znamená, že u stažení musí terapeut rupturu nejprve aktivně zachytit a pojmenovat, u konfrontace spíše ustát a nezareagovat obranně.",
+    "source": "Safran, J. D., & Muran, J. C. (2000). Negotiating the Therapeutic Alliance. Guilford Press.",
+    "seedElo": 1500
+  },
+  {
+    "id": "vyz-034",
+    "type": "K",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Kontrast supervize vs. osobní terapie terapeuta: které tvrzení vystihuje klíčový rozdíl mezi nimi?",
+    "options": [
+      "Supervize je povinná jen ve výcviku v KBT, osobní terapie jen v psychoanalýze",
+      "Supervize slouží kvalitě práce s klienty a supervizor nese spoluodpovědnost za tuto rovinu; osobní terapie slouží terapeutovu vlastnímu rozvoji a jejím klientem je terapeut sám",
+      "Supervize se zabývá emocemi, osobní terapie technikou",
+      "V supervizi platí mlčenlivost, v osobní terapii nikoli"
+    ],
+    "correct": 1,
+    "explanation": "Supervize je vztah zaměřený na klientovu léčbu a profesní rozvoj supervidovaného, s normativní (kontrolní) funkcí; osobní terapie je léčbou či rozvojem terapeuta samotného. Když se v supervizi vynoří supervidovaného osobní materiál, etickým standardem je pojmenovat ho a odkázat do terapie, ne supervizi v terapii proměnit. Emoce i technika patří do obou a mlčenlivost platí v obou rámcích.",
+    "source": "Bernard, J. M., & Goodyear, R. K. (2019). Fundamentals of Clinical Supervision (6th ed.). Pearson.",
+    "seedElo": 1500
+  },
+  {
+    "id": "vyz-035",
+    "type": "K",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Kontrast kontextuální model vs. medicínský model psychoterapie: v čem spočívá jádro jejich sporu?",
+    "options": [
+      "Zda má terapii hradit zdravotní pojišťovna",
+      "Zda smí terapii vykonávat nelékař",
+      "Zda účinek terapie plyne především ze specifických technik cílených na mechanismus poruchy, nebo ze společných faktorů aktivovaných v léčivém kontextu",
+      "Zda je vhodné kombinovat terapii s farmaky"
+    ],
+    "correct": 2,
+    "explanation": "Medicínský model předpokládá, že terapie působí jako lék: specifická složka cílí na specifický mechanismus poruchy, a proto by se měly směry lišit účinností. Kontextuální model (Wampold) vysvětluje účinek vztahem, očekáváním a smysluplným rituálem, čemuž odpovídají nálezy o přibližné rovnocennosti směrů a velkých efektech terapeuta. Otázky úhrad, kompetencí nelékařů a kombinace s farmaky jsou spory jiného řádu.",
+    "source": "Wampold, B. E., & Imel, Z. E. (2015). The Great Psychotherapy Debate (2nd ed.). Routledge.",
+    "seedElo": 1500
+  },
+  {
+    "id": "vyz-036",
+    "type": "K",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Kontrast dětské techniky Melanie Kleinové vs. Anny Freudové: které tvrzení vystihuje jejich klíčový spor?",
+    "options": [
+      "Kleinová odmítala hru jako nástroj, Anna Freudová ji zavedla",
+      "Kleinová pracovala jen s adolescenty, Anna Freudová jen s batolaty",
+      "Anna Freudová interpretovala sny dětí, Kleinová je zakazovala",
+      "Kleinová chápala dětskou hru jako ekvivalent volných asociací a interpretovala hluboce a časně i přenos; Anna Freudová zdůrazňovala přípravnou fázi, výchovný aspekt a nezralost dětského přenosu"
+    ],
+    "correct": 3,
+    "explanation": "Kleinová považovala hru za přímou symbolickou komunikaci nevědomí, a proto interpretovala rané úzkosti a přenos od počátku léčby; Anna Freudová namítala, že dítě dosud žije s primárními objekty, plný přenos nevytváří a analýza u něj potřebuje přípravnou, pedagogicky citlivou fázi. Právě tento spor o hloubku a načasování interpretace byl osou Controversial Discussions. Obě přitom hru používaly a obě pracovaly s dětmi různého věku.",
+    "source": "Klein, M. (1932). The Psycho-Analysis of Children; Freud, A. (1927). Einführung in die Technik der Kinderanalyse; King, P., & Steiner, R. (1991). The Freud-Klein Controversies.",
+    "seedElo": 1900
+  },
+  {
+    "id": "vyz-037",
+    "type": "E",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Terapeut během léčby: a) přijme od klienta na konci sezení upřímné poděkování, b) přeloží sezení kvůli své nemoci, c) přistoupí na klientovu nabídku společného podnikání ve firmě klienta, d) doporučí klientovi svépomocnou knihu. Který krok je z hlediska profesní etiky nejzávažnější chybou?",
+    "options": [
+      "Vstup do společného podnikání s klientem",
+      "Přijetí poděkování",
+      "Přeložení sezení kvůli nemoci",
+      "Doporučení svépomocné knihy"
+    ],
+    "correct": 0,
+    "explanation": "Společné podnikání zakládá duální vztah s finanční provázaností: ohrožuje terapeutovu objektivitu, zneužívá asymetrii vztahu a vytváří riziko vykořisťování klienta — etické kodexy takové vztahy zakazují, pokud hrozí újma či ztráta nestrannosti. Poděkování, přeložení sezení i doporučení knihy jsou běžné, rámec neohrožující kroky. Klíčové kritérium je zde střet rolí, ne dobrá vůle obou stran.",
+    "source": "American Psychological Association (2017). Ethical Principles of Psychologists and Code of Conduct, Standard 3.05 (Multiple Relationships).",
+    "seedElo": 1300
+  },
+  {
+    "id": "vyz-038",
+    "type": "E",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Terapeutka na večeři s přáteli vypráví o svém klientovi: neuvede jméno, ale zmíní jeho profesi vzácnou v jejich malém městě, věk a povahu potíží. Z hlediska etiky mlčenlivosti — v čem spočívá její chyba?",
+    "options": [
+      "V žádné; bez uvedení jména mlčenlivost porušena nebyla",
+      "Kombinace údajů činí klienta identifikovatelným, takže jde o porušení mlčenlivosti navzdory vynechání jména",
+      "Chybou je pouze to, že nemluvila o klientovi v pozitivním duchu",
+      "Chybou je mluvit o práci mimo pracovní dobu"
+    ],
+    "correct": 1,
+    "explanation": "Mlčenlivost nechrání jen jméno, ale identifikovatelnost: vzácná profese v malém městě spolu s věkem a potížemi klienta prakticky odhaluje. Etické kodexy povolují diskusi o případech jen pro odborné účely (supervize, konzultace) a v podobě znemožňující identifikaci. Vyznění vyprávění ani denní doba nejsou etickým kritériem — identifikovatelnost a účel sdělení ano.",
+    "source": "American Psychological Association (2017). Ethical Principles of Psychologists and Code of Conduct, Standards 4.01 a 4.06.",
+    "seedElo": 1500
+  },
+  {
+    "id": "vyz-039",
+    "type": "E",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Studie hlásí: „Terapie X je účinnější než terapie Y. Studii vedl autor terapie X, terapeuty směru Y byli studenti po krátkém školení a věrnost oběma protokolům nebyla měřena.“ Z metodologického hlediska — která vada nejvíce podkopává závěr o nadřazenosti terapie X?",
+    "options": [
+      "Příliš krátký název studie",
+      "Absence follow-up měření po pěti letech",
+      "Nekontrolovaná allegiance výzkumníka spojená s nerovnou kvalifikací terapeutů obou ramen",
+      "Použití sebeposuzovacích dotazníků"
+    ],
+    "correct": 2,
+    "explanation": "Allegiance efekt — loajalita výzkumníka k vlastní metodě — patří k nejlépe doloženým zkreslením srovnávacích studií a zde je umocněn tím, že srovnávací rameno vedli nedostatečně vycvičení terapeuti bez kontroly věrnosti protokolu; „poražená“ terapie tak vůbec nedostala férovou šanci. Sebeposuzovací dotazníky jsou legitimní nástroj a chybějící pětiletý follow-up nezneplatňuje krátkodobé srovnání. Wampoldovy analýzy ukazují, že po kontrole allegiance rozdíly mezi bona fide terapiemi z velké části mizí.",
+    "source": "Luborsky, L., et al. (1999). The researcher's own therapy allegiances: A 'wild card' in comparisons of treatment efficacy. Clinical Psychology: Science and Practice, 6(1).",
+    "seedElo": 1700
+  },
+  {
+    "id": "vyz-040",
+    "type": "E",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Autor přehledu píše: „Aliance měřená ve třetím sezení koreluje s výsledkem terapie, a proto je prokázáno, že dobrá aliance výsledek způsobuje.“ Z metodologického hlediska — jaká je hlavní chyba tohoto závěru?",
+    "options": [
+      "Aliance se nedá měřit ve třetím sezení",
+      "Korelace r kolem .28 je příliš malá na to, aby byla publikovatelná",
+      "Aliance a výsledek se nikdy neměří u stejných klientů",
+      "Z korelace se vyvozuje kauzalita, ačkoli vztah může spoluvytvářet třetí faktor, například časné zlepšení klienta posilující jak alianci, tak výsledek"
+    ],
+    "correct": 3,
+    "explanation": "Jde o klasický problém kauzální inference: časné symptomatické zlepšení může zlepšovat hodnocení aliance i predikovat výsledek, takže korelace sama kauzalitu neprokazuje. Moderní studie proto kontrolují časnou změnu či užívají opakovaná měření uvnitř klientů — a vztah aliance s výsledkem z velké části přetrvává, což kauzální interpretaci podporuje, ale až po této metodologické práci. Aliance ve třetím sezení se měří běžně a středně silné korelace jsou publikovatelné zcela standardně.",
+    "source": "DeRubeis, R. J., Brotman, M. A., & Gibbons, C. J. (2005). A conceptual and methodological analysis of the nonspecifics argument. Clinical Psychology: Science and Practice, 12(2); Flückiger, C., et al. (2018). Psychotherapy, 55(4).",
+    "seedElo": 1900
+  },
+  {
+    "id": "vyz-041",
+    "type": "E",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Klient v průběhu terapie nabídne terapeutovi darem drahé hodinky po svém otci. Terapeut je přijme se slovy, že o tom není třeba mluvit, aby klienta neranil. Z hlediska profesní etiky a práce s rámcem — v čem je jádro chyby?",
+    "options": [
+      "Terapeut přijal dar vysoké hodnoty bez prozkoumání jeho významu, čímž zatížil vztah a promarnil klinicky důležitý materiál",
+      "Terapeut měl hodinky přijmout, ale nechat si je pojistit",
+      "Chybou je nepřijmout jakýkoli dar okamžitě, aby nevznikla ruptura",
+      "Jedinou správnou reakcí je okamžité ukončení terapie"
+    ],
+    "correct": 0,
+    "explanation": "U darů rozhoduje hodnota, načasování a význam: drahý a citově nabitý dar uprostřed léčby volá po citlivém prozkoumání (co dar vyjadřuje, co by jeho přijetí či nepřijetí znamenalo), nikoli po mlčenlivém přijetí, které vytváří závazek a mění mocenskou rovnováhu. Automatické přijímání všech darů i ukončení terapie jsou extrémy míjející podstatu. Drobný symbolický dar na konci léčby naproti tomu bývá eticky přijatelný.",
+    "source": "Zur, O. (2007). Boundaries in Psychotherapy: Ethical and Clinical Explorations. American Psychological Association.",
+    "seedElo": 1500
+  },
+  {
+    "id": "vyz-042",
+    "type": "E",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Terapeut sdělí dlouhodobé klientce s aktuálně zhoršenou depresí, že příští týden definitivně končí praxi, dnešní sezení je poslední a další péči si má sama někde najít. Z hlediska profesní etiky — jak se toto pochybení nazývá a v čem spočívá?",
+    "options": [
+      "Duální vztah; terapeut smísil dvě role",
+      "Prolomení mlčenlivosti; terapeut sdělil příliš mnoho o sobě",
+      "Opuštění klienta (abandonment); ukončení bez přípravy, přechodového plánu a zajištění návazné péče u klientky, která ji zjevně potřebuje",
+      "Falešná naděje; terapeut sliboval nemožné"
+    ],
+    "correct": 2,
+    "explanation": "Etické ukončení vyžaduje včasné oznámení, zpracování konce v terapii a u klientů s pokračující potřebou péče konkrétní pomoc s návazností (pretermination counseling, doporučení). Náhlé ukončení u dekompenzované klientky bez těchto kroků je opuštění klienta — samostatná kategorie pochybení odlišná od duálního vztahu i porušení mlčenlivosti. Ukončit praxi terapeut samozřejmě smí, chyba je ve způsobu.",
+    "source": "American Psychological Association (2017). Ethical Principles of Psychologists and Code of Conduct, Standard 10.10 (Terminating Therapy); Vasquez, M. J. T., et al. (2008). Psychotherapy termination: Clinical and ethical responsibilities. Journal of Clinical Psychology, 64(5).",
+    "seedElo": 1500
+  },
+  {
+    "id": "vyz-043",
+    "type": "I",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Klient v polovině sezení zvýší hlas: „Tohle je k ničemu. Jenom opakujete, co říkám, a nic se nemění.“ Z hlediska modelu reparace ruptur Safrana a Murana — která reakce terapeuta je nejvhodnější?",
+    "options": [
+      "Vysvětlit klientovi, že jeho hněv je odpor, který je třeba překonat",
+      "Nabídnout okamžitě jinou techniku, aby se nespokojenost už neopakovala",
+      "Připomenout klientovi dosavadní pokroky a uklidnit ho",
+      "Nebránit se, ocenit otevřenost, zvědavě prozkoumat klientovu zkušenost a uznat vlastní podíl na tom, co nefunguje"
+    ],
+    "correct": 3,
+    "explanation": "Model Safrana a Murana u konfrontační ruptury doporučuje metakomunikaci: terapeut ustojí hněv bez obrany, prozkoumá klientovu zkušenost a autenticky uzná svůj příspěvek — právě to mění rupturu v korektivní zkušenost a výzkum reparaci spojuje s lepšími výsledky. Označení hněvu za odpor rupturu prohlubuje obviněním klienta, rychlá výměna techniky i uklidňování pokroky klientovu zkušenost obcházejí. Kritériem je zde reparace aliance, ne rychlé zklidnění situace.",
+    "source": "Safran, J. D., Muran, J. C., & Eubanks-Carter, C. (2011). Repairing alliance ruptures. Psychotherapy, 48(1).",
+    "seedElo": 1500
+  },
+  {
+    "id": "vyz-044",
+    "type": "I",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Terapeut zjistí, že potíže klienta, kterého vede pro úzkosti, dominantně tvoří závažná restriktivní porucha příjmu potravy, s níž nemá výcvik ani zkušenost. Z hlediska profesní etiky — jaký je nejvhodnější postup?",
+    "options": [
+      "Otevřeně situaci pojmenovat, konzultovat se supervizorem a zajistit předání ke specializované péči, případně pokračovat jen v jasně vymezené doplňkové roli",
+      "Pokračovat beze změny, protože přerušení vztahu by klienta poškodilo",
+      "Okamžitě terapii ukončit jediným e-mailem, aby nepřekračoval kompetence ani den",
+      "Tajně si nastudovat literaturu a léčbu vést dál, aniž by klientovi cokoli říkal"
+    ],
+    "correct": 0,
+    "explanation": "Etika kompetence vyžaduje nepracovat mimo vlastní kvalifikaci, zároveň však etika ukončování zakazuje klienta náhle opustit — správná cesta proto kombinuje transparentnost, supervizi a řízené předání, případně jasně dohodnutou doplňkovou roli vedle specialisty. Pokračování beze změny riskuje újmu u potenciálně život ohrožující poruchy, e-mailové ukončení je abandonment a tajné samostudium nenahrazuje výcvik ani informovaný souhlas. Kritériem je klientovo bezpečí, ne terapeutův komfort.",
+    "source": "American Psychological Association (2017). Ethical Principles of Psychologists and Code of Conduct, Standards 2.01 a 10.10.",
+    "seedElo": 1300
+  },
+  {
+    "id": "vyz-045",
+    "type": "I",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Terapeut si všimne, že jeho klient se v posledních týdnech na dotaznících pohody mírně zhoršuje, ačkoli sezení působí příjemně a bezkonfliktně. Z hlediska výzkumu zpětné vazby a ruptur aliance — který postup je nejvhodnější?",
+    "options": [
+      "Zhoršení na sezení otevřeně zvednout, prozkoumat s klientem, co v terapii nefunguje, a zvážit skrytou rupturu stažením za hladkým povrchem",
+      "Data ignorovat, protože klinický dojem z příjemných sezení je spolehlivější než dotazník",
+      "Bez konzultace s klientem zdvojnásobit frekvenci sezení",
+      "Předat klienta jinému terapeutovi bez vysvětlení"
+    ],
+    "correct": 0,
+    "explanation": "Právě kombinace hladkých sezení a zhoršujících se měření je typický obraz ruptury stažením a případu „not on track“: výzkum Lamberta ukazuje, že terapeutův dojem zhoršení systematicky přehlíží, a doporučeným krokem je zpětnou vazbu otevřít a společně upravit směr práce. Ignorování dat opakuje přesně tu chybu, kterou má monitoring korigovat; jednostranné zdvojnásobení frekvence i mlčenlivé předání obcházejí klientův hlas. Kritériem je využití zpětné vazby k reparaci, ne obrana příjemné atmosféry.",
+    "source": "Lambert, M. J. (2010). Prevention of Treatment Failure. American Psychological Association; Safran, J. D., & Muran, J. C. (2000). Negotiating the Therapeutic Alliance.",
+    "seedElo": 1700
+  },
+  {
+    "id": "vyz-046",
+    "type": "X",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Klient se po terapeutově trefné, ale předčasné interpretaci odmlčí a po zbytek sezení jen zdvořile přitakává. Které přiřazení výkladů k rámcům je správné? 1: pohyb od kontaktu, který je třeba metakomunikačně otevřít. 2: klient přestal zažívat bezpodmínečné přijetí, podmínky změny jsou oslabeny. 3: zdvořilé přitakávání funguje jako vyhýbavé bezpečné chování udržující problém.",
+    "options": [
+      "1 = rogersovský rámec, 2 = KBT, 3 = Safran a Muran",
+      "1 = Safran a Muran (ruptura stažením), 2 = rogersovský rámec, 3 = KBT",
+      "1 = KBT, 2 = Safran a Muran, 3 = rogersovský rámec",
+      "Všechny tři výklady patří výhradně psychoanalýze"
+    ],
+    "correct": 1,
+    "explanation": "Popis pohybu od kontaktu s potřebou metakomunikace je jazyk modelu ruptur Safrana a Murana; oslabení podmínek změny (přijetí, empatie) je rogersovská optika; čtení přitakávání jako vyhýbavého bezpečného chování je kognitivně-behaviorální funkční analýza. Jeden a týž klinický okamžik tak tři rámce uchopí odlišně, a přesto kompatibilně — všechny tři vedou k témuž praktickému kroku: jev citlivě otevřít. Právě tato konvergence je argumentem teorií společných faktorů.",
+    "source": "Safran, J. D., & Muran, J. C. (2000); Rogers, C. R. (1957); Salkovskis, P. M. (1991). The importance of behaviour in the maintenance of anxiety and panic. Behavioural Psychotherapy, 19(1).",
+    "seedElo": 1700
+  },
+  {
+    "id": "vyz-047",
+    "type": "X",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Klient se výrazně zlepší už po třech sezeních, dřív než mohla proběhnout systematická práce specifickou technikou. Které vysvětlení tohoto jevu odpovídá Wampoldovu kontextuálnímu modelu, nikoli modelu medicínskému?",
+    "options": [
+      "Zlepšení je důkazem výjimečně rychlého působení specifické techniky na mechanismus poruchy",
+      "Zlepšení je nutně chybou měření",
+      "Zlepšení lze číst jako remoralizaci: obnovu naděje skrze vztah, věrohodné vysvětlení potíží a očekávání pomoci",
+      "Zlepšení dokazuje, že klient terapii nikdy nepotřeboval"
+    ],
+    "correct": 2,
+    "explanation": "Kontextuální model (v návaznosti na Frankův koncept demoralizace) očekává, že významná část změny přijde brzy — z naděje, vztahu a smysluplného vysvětlení, tedy ze společných faktorů; časná odpověď před nasazením specifických procedur je s ním plně konzistentní. Medicínský model by zlepšení připisoval specifické složce, která zde ale ještě nemohla systematicky působit. Chyba měření ani zbytečnost terapie z rychlého zlepšení neplynou — časná odpověď je naopak dobrým prognostickým znamením.",
+    "source": "Frank, J. D., & Frank, J. B. (1991). Persuasion and Healing; Wampold, B. E., & Imel, Z. E. (2015). The Great Psychotherapy Debate; Howard, K. I., et al. (1993). A phase model of psychotherapy outcome. Journal of Consulting and Clinical Psychology, 61(4).",
+    "seedElo": 1700
+  }
+]

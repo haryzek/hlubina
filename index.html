@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="cs">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#0a1a1e">
+<title>Hlubina</title>
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icons/icon-192.png">
+<link rel="apple-touch-icon" href="icons/icon-192.png">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header id="hdr">
+  <div id="hdr-elo" title="Tvoje Elo">1500</div>
+  <div id="hdr-title">HLUBINA</div>
+  <nav>
+    <button id="btn-stats" class="icon-btn" aria-label="Statistiky">▤</button>
+    <button id="btn-settings" class="icon-btn" aria-label="Nastavení">⚙</button>
+  </nav>
+</header>
+
+<main>
+  <section id="view-question" class="view">
+    <div id="q-card">
+      <div id="q-meta"></div>
+      <div id="q-text"></div>
+      <div id="q-options"></div>
+    </div>
+    <div id="q-feedback" class="hidden">
+      <div id="fb-result"></div>
+      <div id="fb-explanation"></div>
+      <div id="fb-source"></div>
+      <details id="fb-deepdive" class="hidden"><summary>Jít hlouběji</summary><div id="fb-deepdive-body"></div></details>
+      <div id="fb-actions">
+        <button id="btn-flag" class="ghost-btn">🐟 smrdí mi to</button>
+        <button id="btn-next">Další</button>
+      </div>
+    </div>
+  </section>
+
+  <section id="view-stats" class="view hidden">
+    <h2>Statistiky</h2>
+    <div id="st-summary"></div>
+    <div id="st-sparkline"></div>
+    <h3>Kategorie</h3>
+    <div id="st-categories"></div>
+    <h3>Typy otázek</h3>
+    <div id="st-types"></div>
+    <h3>Poslední odpovědi</h3>
+    <div id="st-history"></div>
+    <button class="back-btn" data-back>← Zpět ke hře</button>
+  </section>
+
+  <section id="view-settings" class="view hidden">
+    <h2>Nastavení</h2>
+    <div class="set-block">
+      <h3>Záloha</h3>
+      <p class="hint">Data žijí jen v tomhle prohlížeči. Před výměnou zařízení exportuj.</p>
+      <button id="btn-export">Exportovat zálohu</button>
+      <button id="btn-import">Importovat zálohu</button>
+      <input type="file" id="import-file" accept="application/json" class="hidden">
+    </div>
+    <div class="set-block">
+      <h3>Balíčky</h3>
+      <div id="set-packs"></div>
+    </div>
+    <div class="set-block">
+      <h3>Nebezpečná zóna</h3>
+      <button id="btn-reset" class="danger">Smazat všechen postup</button>
+    </div>
+    <p id="set-version" class="hint"></p>
+    <button class="back-btn" data-back>← Zpět ke hře</button>
+  </section>
+</main>
+
+<div id="toast" class="hidden"></div>
+
+<script type="module" src="app.js"></script>
+</body>
+</html>
