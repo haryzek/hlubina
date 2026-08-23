@@ -4,48 +4,63 @@
   "file": "obrany.json",
   "title": "Obrany",
   "count": 48,
-  "version": 1
+  "version": 1,
+  "obor": "psychoterapie"
  },
  {
   "id": "prenos",
   "file": "prenos.json",
   "title": "Přenos a technika",
   "count": 50,
-  "version": 1
+  "version": 1,
+  "obor": "psychoterapie"
  },
  {
   "id": "skoly",
   "file": "skoly.json",
   "title": "Školy a autoři",
   "count": 50,
-  "version": 1
+  "version": 1,
+  "obor": "psychoterapie"
  },
  {
   "id": "smery",
   "file": "smery.json",
   "title": "Směry a mosty",
   "count": 45,
-  "version": 1
+  "version": 1,
+  "obor": "psychoterapie"
  },
  {
   "id": "struktura",
   "file": "struktura.json",
   "title": "Struktura a diagnostika",
   "count": 45,
-  "version": 1
+  "version": 1,
+  "obor": "psychoterapie"
  },
  {
   "id": "vyvoj",
   "file": "vyvoj.json",
   "title": "Vývojové teorie",
   "count": 45,
-  "version": 1
+  "version": 1,
+  "obor": "psychoterapie"
  },
  {
   "id": "vyzkum",
   "file": "vyzkum.json",
   "title": "Výzkum, etika, dějiny",
   "count": 47,
-  "version": 1
+  "version": 1,
+  "obor": "psychoterapie"
+ },
+ {
+  "id": "sondaz",
+  "file": "sondaz.json",
+  "title": "Sondáž — žebřík",
+  "count": 77,
+  "version": 1,
+  "obor": "psychoterapie"
  }
 ]

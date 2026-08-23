@@ -179,6 +179,19 @@ main {
   cursor: pointer;
 }
 .ghost-btn.flagged { border-color: var(--wrong); color: var(--wrong); }
+.ghost-btn.kept { border-color: var(--accent); color: var(--accent); }
+
+#pool-select {
+  width: 100%;
+  margin-top: 6px;
+  background: var(--bg-raised);
+  color: var(--text);
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  padding: 12px;
+  font-size: 15px;
+  min-height: 48px;
+}
 
 /* ---------- stats & settings ---------- */
 h2 { font-size: 20px; margin: 8px 0 16px; }
@@ -242,6 +255,35 @@ table.stats td.num { text-align: right; font-variant-numeric: tabular-nums; }
   padding: 12px 0;
   cursor: pointer;
 }
+
+/* ---------- obor menu ---------- */
+#obor-menu {
+  position: absolute;
+  top: calc(env(safe-area-inset-top, 0px) + 58px);
+  right: 12px;
+  background: var(--bg-raised);
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  padding: 6px;
+  z-index: 20;
+  min-width: 230px;
+  box-shadow: 0 8px 30px rgba(0,0,0,0.45);
+}
+.obor-item {
+  display: block;
+  width: 100%;
+  text-align: left;
+  background: none;
+  border: none;
+  color: var(--text);
+  font-size: 15px;
+  padding: 12px 14px;
+  border-radius: 10px;
+  min-height: 48px;
+  cursor: pointer;
+}
+.obor-item:active { background: var(--bg-card); }
+.obor-item.active { color: var(--accent); font-weight: 700; }
 
 /* ---------- toast ---------- */
 #toast {

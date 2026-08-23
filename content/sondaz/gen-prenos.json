@@ -1,0 +1,178 @@
+[
+ {
+  "id": "son-pre-01",
+  "type": "V",
+  "category": "prenos-technika",
+  "text": "Klient je po roce analýzy: původní fobické symptomy, kvůli nimž přišel, znatelně zeslábly, zato se jeho konfliktní svět přeskupil kolem osoby analytika — žárlí na ostatní pacienty, sezení jsou středobodem jeho týdne a mimo ně o analytikovi intenzivně přemýšlí. Který klasický pojem tento vývoj vystihuje?",
+  "options": [
+   "Maligní regrese s rozpouštěním hranic self ve vztahu k analytikovi",
+   "Přenosová neuróza — infantilní konflikt se nově soustředil na analytika",
+   "Náhradní symptomatologie po pouhém potlačení původní fobické struktury",
+   "Nezralá idealizace analytika jako obrana proti hrozící separaci od objektu"
+  ],
+  "correct": 1,
+  "explanation": "Freud popsal, že v klasické analýze se původní neuróza přemění v přenosovou neurózu: symptomy v životě blednou a konflikt se v koncentrované, aktuální podobě odehrává ve vztahu k analytikovi, kde je léčebně dostupný 'in vivo'. Maligní regrese by nesla rozpad funkcí, náhradní symptom by byl nový symptom mimo vztah a idealizace nevysvětluje přesun celé konfliktní dynamiky.",
+  "source": "Freud, S.: Erinnern, Wiederholen und Durcharbeiten, 1914; Etchegoyen, H.: The Fundamentals of Psychoanalytic Technique, 1991, kap. o přenosové neuróze",
+  "seedElo": 1500
+ },
+ {
+  "id": "son-pre-02",
+  "type": "V",
+  "category": "prenos-technika",
+  "text": "Klient po zvlášť trefné interpretaci, kterou sám označil za osvobozující, přichází další týden hlubší v depresi, znehodnocuje dosažené pokroky a uvažuje o marnosti léčby. Terapeutka si zpětně všimne, že tentýž obrat nastal po každém výraznějším zlepšení. Nejpřiléhavější pojmenování je:",
+  "options": [
+   "Útěk do zdraví jako obranná reakce na příliš rychlé odkrývání materiálu",
+   "Cyklické kolísání nálady probíhající nezávisle na dění v terapeutickém procesu",
+   "Negativní terapeutická reakce — zhoršení po pokroku, sycené nevědomou vinou",
+   "Recidiva původních symptomů signalizující blížící se ukončení léčby"
+  ],
+  "correct": 2,
+  "explanation": "Zákonité zhoršení právě po zlepšení či po vydařené interpretaci popsal Freud jako negativní terapeutickou reakci a spojil ji s nevědomým pocitem viny: uzdravení je 'zakázané', a tak musí být potrestáno. Útěk do zdraví je pohyb opačný (náhlé 'uzdravení' před ohrožujícím materiálem), náhodné kolísání nevysvětluje přesnou časovou vazbu na pokrok a o terminaci vinětka nemluví.",
+  "source": "Freud, S.: Das Ich und das Es, 1923, kap. V; Sandler, J., Dare, C., Holder, A.: The Patient and the Analyst, 1973",
+  "seedElo": 1550
+ },
+ {
+  "id": "son-pre-03",
+  "type": "V",
+  "category": "prenos-technika",
+  "text": "Terapeut pracuje s hluboce regredovaným klientem, který mu opakovaně ničí věci v pracovně, uráží ho a testuje každou hranici. Terapeut si s úlekem uvědomuje zřetelnou nenávist vůči němu. Winnicottova pozice z textu o nenávisti v protipřenosu říká:",
+  "options": [
+   "Část nenávisti může být objektivní, přiměřená reálnému chování klienta, a terapeut ji má unést a přiznat si ji",
+   "Nenávist k pacientovi je vždy známkou nedostatečně dokončené vlastní cvičné analýzy a supervidovaného výcviku terapeuta",
+   "Nenávist je nutné klientovi hned na místě sdělit, aby vztah zůstal autentický a nic se neskrývalo",
+   "Nenávist signalizuje, že klient patří do ústavní ochranné péče a ambulantní práci je namístě ukončit"
+  ],
+  "correct": 0,
+  "explanation": "Winnicott (1949) rozlišil nenávist neurotickou (terapeutovu vlastní) od objektivní, kterou by dané chování vyvolalo v komkoli — a tvrdí, že ji analytik musí umět snést a vědět o ní, jinak ji odehraje skrytě. Sdělení pacientovi připouští až v pozdní fázi léčby, nikoli okamžitě; rovnice 'nenávist = špatně analyzovaný terapeut' je právě to pojetí, proti kterému text míří.",
+  "source": "Winnicott, D. W.: Hate in the Counter-Transference, International Journal of Psychoanalysis, 30, 1949",
+  "seedElo": 1600
+ },
+ {
+  "id": "son-pre-04",
+  "type": "F",
+  "category": "prenos-technika",
+  "text": "Co podle Stracheyho (1934) činí interpretaci 'mutativní', tedy schopnou vyvolat strukturální změnu?",
+  "options": [
+   "Je genetická — propojuje aktuální vzorec s co nejranější rekonstruovanou dětskou vzpomínkou",
+   "Je vyslovena teprve poté, co pacient dosáhl plného a stabilního intelektuálního vhledu do konfliktu",
+   "Je podávána nedirektivně, formou otevřené otázky, aby si ji pacient mohl objevit a formulovat sám",
+   "Míří na impulz živý v přenosu, v bodě urgence, a dává rozlišit archaický objekt od reálného analytika"
+  ],
+  "correct": 3,
+  "explanation": "Strachey popsal mutativní interpretaci jako dvoufázový děj v přenosu: pacient si uvědomí, že impulz míří na analytika teď a tady, a zároveň zakusí rozdíl mezi projikovaným archaickým nad-jáským objektem a reálným analytikem — tím se zmírňuje krutost nad-já. Genetické a extratransferové interpretace mají roli přípravnou; intelektuální vhled ani tázací forma jádrem mutativního účinku nejsou.",
+  "source": "Strachey, J.: The nature of the therapeutic action of psycho-analysis, International Journal of Psychoanalysis, 15, 1934",
+  "seedElo": 1700
+ },
+ {
+  "id": "son-pre-05",
+  "type": "F",
+  "category": "prenos-technika",
+  "text": "Jak je míněno Bionovo technické doporučení vstupovat do sezení 'bez paměti a bez touhy' (without memory and desire)?",
+  "options": [
+   "Analytik si nemá vést dokumentaci ani před léčbou číst anamnézu, aby zůstal ke všem nálezům nezaujatý",
+   "Disciplinovaně odkládat nasycené vědění o pacientovi i přání ho uzdravit ve prospěch přítomného sezení",
+   "Jde o doporučení určené výhradně pro práci s psychotickými pacienty v režimu dlouhodobé ústavní péče",
+   "Analytik má potlačit vlastní volné asociace a soustředit se pouze na doslovný obsah pacientovy řeči"
+  ],
+  "correct": 1,
+  "explanation": "Bion nemíří na amnézii ani administrativu: paměť (co o pacientovi 'vím') a touha (aby se uzdravil, aby sezení dopadlo) sytí mysl předem hotovými tvary a brání zachytit 'vybranou skutečnost' toho, co se emočně děje teď. Jde o kázeň pozornosti příbuznou Freudově rovnoměrně se vznášející pozornosti, platnou obecně, ne jen u psychóz; vlastní asociace jsou naopak pracovním kanálem.",
+  "source": "Bion, W. R.: Notes on memory and desire, Psychoanalytic Forum, 2, 1967; Bion, W. R.: Attention and Interpretation, 1970",
+  "seedElo": 1750
+ },
+ {
+  "id": "son-pre-06",
+  "type": "V",
+  "category": "prenos-technika",
+  "text": "Klient měsíce živě líčí střety s nadřízenými a přáteli, ale o vztahu k terapeutovi nemluví nikdy; na přímý dotaz odpoví zdvořilostní frází a vrátí se ven. Terapeut zvažuje interpretovat možné narážky na sebe v klientově materiálu. V Gillových pojmech tím oslovuje:",
+  "options": [
+   "Odpor vůči rozřešení přenosu — klient lpí na dosaženém přenosovém uspokojení a nechce je opustit",
+   "Extratransferovou vrstvu materiálu, která má podle klasické techniky v léčbě systematickou přednost",
+   "Odpor vůči uvědomění přenosu — jeho deriváty se přesouvají do vyprávění o vnějších vztazích",
+   "Odpor vůči vzpomínání, který se technicky řeší především trpělivou genetickou rekonstrukcí"
+  ],
+  "correct": 2,
+  "explanation": "Gill rozlišil odpor vůči uvědomění přenosu (pacient přenos nepřipustí do vědomí a jeho deriváty ukládá do vyprávění o vnějších postavách) od odporu vůči jeho rozřešení (přenos je vědomý, ale pacient se ho nechce vzdát). Zde chybí samo uvědomění, proto je technikou volby hledat a interpretovat narážky na vztah tady a teď; extratransferový materiál přednost nemá — je nosičem skrytého přenosu.",
+  "source": "Gill, M.: Analysis of Transference, sv. I, 1982, kap. o odporu vůči uvědomění přenosu",
+  "seedElo": 1800
+ },
+ {
+  "id": "son-pre-07",
+  "type": "I",
+  "category": "prenos-technika",
+  "text": "Terapeut při klientově plynulém, ale zvláštně bezbarvém vyprávění opakovaně sklouzne k útržkovité fantazii o kufru zapomenutém na nádraží. Z hlediska kritéria 'reverie užít jako data o společném nevědomém poli, aniž je její surový obsah klientovi konfesijně sdělen' je nejvhodnější:",
+  "options": [
+   "Snění vnitřně podržet, zkoumat jeho vazbu k dění mezi nimi a nechat jím tiše informovat příští intervenci",
+   "Fantazii klientovi doslovně převyprávět jako autentické sebeodhalení toho, co se právě děje v mysli analytika",
+   "Snění utnout jako prostý výpadek soustředění a disciplinovaně se vrátit k obsahu klientovy aktuální řeči",
+   "Sdělit klientovi, že jeho vyprávění působí prázdně a že něco podstatného zřejmě odkládá stranou"
+  ],
+  "correct": 0,
+  "explanation": "Ogden chápe reverie jako výtvor analytického třetího — zdánlivě soukromé snění bývá nevědomou odpovědí na to, co dvojice právě prožívá (zde možná 'odložený, zapomenutý obsah'). Kritériem je nepřímé užití: obsah se nesděluje, ale promýšlí a přetavuje do porozumění. Doslovná konfese zatíží klienta analytikovým materiálem, utnutí zahodí jediný kanál, kterým se bezbarvost může stát myslitelnou, a výrok o 'prázdnotě' bez vnitřního zpracování je předčasný zkrat.",
+  "source": "Ogden, T. H.: Reverie and interpretation, Psychoanalytic Quarterly, 66, 1997; Ogden, T. H.: The analytic third, IJP, 75, 1994",
+  "seedElo": 1850
+ },
+ {
+  "id": "son-pre-08",
+  "type": "V",
+  "category": "prenos-technika",
+  "text": "Klient terapeuta soustavně jízlivě devalvuje. Terapeut zjišťuje, že jeho interpretace začínají dostávat nenápadně říznou, ironickou hranu — má chuť klientovi jeho pohrdání 'vracet stejnou mincí', byť kultivovaně. Který Rackerův pojem tuto dynamiku přímo pojmenovává?",
+  "options": [
+   "Projektivní protiidentifikace zaplavovaného analytika podle Grinberga",
+   "Objektivní nenávist v protipřenosu, jak ji formuloval Winnicott",
+   "Negativní terapeutická reakce probíhající na straně terapeuta",
+   "Talionská odpověď — protipřenos oplácí negativní přenos negativním"
+  ],
+  "correct": 3,
+  "explanation": "Racker popsal 'zákon talionu' jako obecné pokušení protipřenosu: pozitivnímu přenosu odpovídat pozitivně a negativnímu negativně, oko za oko — a v tichém oplácení devalvace ironií se přesně tento zákon odehrává. Grinbergova protiidentifikace popisuje zaplavení analytika projikovaným obsahem bez ohledu na jeho dispozice, Winnicottova objektivní nenávist je reakce na reálné destruktivní chování, nikoli mechanismus odplaty, a negativní terapeutická reakce je pojem pro pacientovo zhoršení po pokroku.",
+  "source": "Racker, H.: Transference and Countertransference, 1968, kap. The Meanings and Uses of Countertransference (talionic response)",
+  "seedElo": 1900
+ },
+ {
+  "id": "son-pre-09",
+  "type": "V",
+  "category": "prenos-technika",
+  "text": "Klient léta zdvořile přijímá interpretace, nikdy neoponuje a analýza je pozoruhodně statická. Postupně vyjde najevo, že celou situaci tiše přeznačil: dochází sem, jak říká, 'za moudrým přítelem na placené popovídání' a interpretace bere jako zajímavé názory, s nimiž vnitřně nepočítá. Který pojem tuto konstelaci vystihuje?",
+  "options": [
+   "Nenamítatelný pozitivní přenos, který v léčbě nese běžnou spolupráci",
+   "Reverzibilní perspektiva — zjevný souhlas při tichém obrácení premis situace",
+   "Falešná zralost charakteru typu 'as-if' osobnosti, jak ji popsala Helene Deutschová",
+   "Intelektualizace jako obrana izolující afekt od intelektuálního vhledu"
+  ],
+  "correct": 1,
+  "explanation": "Bionovu reverzibilní perspektivu řadí Etchegoyen k nejzáludnějším odporům: pacient s interpretacemi zdánlivě souhlasí, ale mlčky obrátil samotné premisy setkání (co je analýza, kdo je analytik), takže dynamický proces se mění ve statický obraz — spor se nevede o výklady, ale o neviditelné předpoklady. Nenamítatelný pozitivní přenos práci nese, 'as-if' je charakterová organizace celé osobnosti a intelektualizace nevysvětluje systematické přepsání smyslu situace.",
+  "source": "Bion, W. R.: Elements of Psycho-Analysis, 1963; Etchegoyen, H.: The Fundamentals of Psychoanalytic Technique, 1991, kap. o reverzibilní perspektivě",
+  "seedElo": 1950
+ },
+ {
+  "id": "son-pre-10",
+  "type": "V",
+  "category": "prenos-technika",
+  "text": "Kandidát ve výcviku si všimne, že jeho intervence u pacienta stále víc řídí ohled na výcvikového supervizora: volí 'předpisové' interpretace, o nichž tuší, že by je supervize ocenila, a vyhýbá se krokům, jež by před komisí obhajoval těžko. Racker pro protipřenos určovaný významnou třetí osobou razí pojem:",
+  "options": [
+   "Konkordantní protipřenos s institucionálním objektem výcvikového společenství",
+   "Protipřenosová pozice, v protikladu k pouhé protipřenosové myšlence",
+   "Nepřímý protipřenos — reakce určované třetím, na jehož soudu záleží",
+   "Laterální přenos kandidáta přesunutý z pacienta na osobu supervizora"
+  ],
+  "correct": 2,
+  "explanation": "Racker odlišil přímý protipřenos (reakce na samotného pacienta) od nepřímého, vyvolaného třetí osobou — supervizorem, institucí, referujícím kolegou — jejíž hodnocení je pro analytika významné; kandidát pak nevědomky léčí 'pro supervizora', ne pro pacienta. Rackerova dvojice pozice/myšlenka popisuje míru, v níž protipřenos analytika ovládne, nikoli jeho adresáta, a laterální přenos je pojem pro pacientův přenos na osoby mimo analytika.",
+  "source": "Racker, H.: Transference and Countertransference, 1968, kap. The Countertransference (direct and indirect countertransference)",
+  "seedElo": 2050
+ },
+ {
+  "id": "son-pre-11",
+  "type": "I",
+  "category": "prenos-technika",
+  "text": "Klientka po letech léčby sama zdatně vykládá své vzorce, cituje minulé interpretace a sezení plynou v oboustranně příjemné, takřka kolegiální shodě; terapeut se přistihuje u tiché spokojenosti — a zároveň ví, že se v jejím životě nic nemění. Z hlediska kritéria Betty Josephové 'číst přenos jako totální situaci — podle toho, k čemu je analytik právě užíván, nikoli podle manifestního obsahu' je nejvhodnější:",
+  "options": [
+   "Prohloubit genetickou rekonstrukci vzorců, které klientka sama ochotně nabízí, a systematicky ji dovést až k jejich raným kořenům",
+   "Ocenit její rostoucí sebereflexi jako svébytnou kapacitu pozorujícího já, kterou je třeba dále cíleně posilovat a upevňovat",
+   "Sdělit jí vlastní spokojenost i pochybnost jako otevřené sebeodhalení a ponechat na ní volbu dalšího směru společné práce",
+   "Zaměřit se na funkci hladké spolupráce tady a teď — na konejšivou souhru, jež drží změnu i rušivé afekty mimo dosah"
+  ],
+  "correct": 3,
+  "explanation": "Josephová ukazuje, že přenos je totální situace: rozhodující není, co pacient říká (zde bezvadně 'analytický' obsah), ale co s analytikem dělá — zde ho rekrutuje do příjemné, nehybné dvojice, jejíž funkcí je nic neriskovat; terapeutova spokojenost je protipřenosový klíč k tomuto uspořádání, nikoli doklad pokroku. Genetické prohlubování i oceňování by souhru dál sytily materiálem, který jí slouží, a konfesijní sebeodhalení nahrazuje čtení 'užití analytika' přesunem břemene volby na klientku.",
+  "source": "Joseph, B.: Transference: the total situation, International Journal of Psychoanalysis, 66, 1985; Joseph, B.: Psychic Equilibrium and Psychic Change, 1989",
+  "seedElo": 2150
+ }
+]

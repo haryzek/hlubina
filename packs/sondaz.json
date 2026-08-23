@@ -1,0 +1,1234 @@
+[
+ {
+  "id": "son-obr-01",
+  "type": "V",
+  "category": "obrany",
+  "text": "Klientka po každé hádce, v níž jí partner podle jejího líčení zjevně křivdí, neprotestuje a nezlobí se. Místo toho ji doma zaplaví sebenenávist — 'jsem hrozná, všechno kazím' — a několikrát se poškrábala do krve. Zlost na partnera u sebe vůbec nenachází. Který mechanismus nejlépe vystihuje osud jejího agresivního impulzu?",
+  "options": [
+   "Introjekce — partnerova kritika je přijata dovnitř jako vlastní vnitřní hlas",
+   "Masochistické odčinění — sebepoškozením magicky ruší svou vinu z hádky",
+   "Obrácení proti vlastní osobě — agrese vůči objektu je odkloněna na sebe",
+   "Pasivní agrese — zlost na partnera je vyjádřena nepřímo skrze utrpení"
+  ],
+  "correct": 2,
+  "explanation": "Obrácení proti vlastní osobě (turning against the self) je jedním z Freudových 'osudů pudu': impulz zůstává agresivní a aktuální, mění se jen jeho cíl — z objektu na subjekt, typicky protože zlost na potřebný objekt je nepřijatelná či nebezpečná. Introjekce by vyžadovala zvnitřněný kritizující hlas partnera, který vinětka nepopisuje; odčinění by rušilo už proběhlý čin a pasivní agrese by zlost stále mířila na partnera, byť oklikou — zde ale afekt zcela mění adresáta.",
+  "source": "Freud, S.: Pudy a jejich osudy (1915); Freudová, A.: Já a obranné mechanismy (1936)",
+  "seedElo": 1500
+ },
+ {
+  "id": "son-obr-02",
+  "type": "K",
+  "category": "obrany",
+  "text": "Vaillant řadí anticipaci mezi pět zralých obran. Čím se z hlediska definičního kritéria zralá anticipace liší od úzkostného ruminování o budoucnosti?",
+  "options": [
+   "Anticipace předem dávkuje afekt a vede k reálné přípravě; ruminace afekt jen opakuje bez řešení",
+   "Anticipace se týká výhradně pozitivních událostí, ruminace výhradně negativních scénářů budoucnosti",
+   "Anticipace je plně nevědomý proces, ruminace je vědomá strategie zvládání nejistoty",
+   "Anticipace budoucí hrozbu adaptivně zlehčuje, ruminace ji naopak realisticky zvětšuje"
+  ],
+  "correct": 0,
+  "explanation": "Definičním znakem zralé anticipace je, že budoucí bolest je prožita předem po snesitelných dávkách a přetavena v konkrétní přípravu — afekt slouží plánování. Ruminace afekt opakovaně spouští, ale nikam ho nevede: chybí propracování i příprava. Valence události kritériem není (anticipovat lze právě hrozby) a zlehčování hrozby by bylo popřením, nikoli anticipací; vědomost obě formy sdílejí jen částečně a rozdíl nezakládá.",
+  "source": "Vaillant, G. E.: Adaptation to Life (1977); Vaillant, G. E.: The Wisdom of the Ego (1993)",
+  "seedElo": 1550
+ },
+ {
+  "id": "son-obr-03",
+  "type": "V",
+  "category": "obrany",
+  "text": "Manažerka, která se v situacích hodnocení a závislosti na moci druhých cítívala v dětství bezmocná, opakovaně navazuje erotizované vztahy právě s muži, kteří rozhodují o její kariéře. Vzrušení popisuje jako nejsilnější tam, kde je v sázce její pozice; strach ani bezmoc si v těchto situacích neuvědomuje. Který mechanismus nejlépe vystihuje osud její úzkosti z bezmoci?",
+  "options": [
+   "Sublimace — erotická energie je tvořivě přesměrována do pracovních vztahů",
+   "Sexualizace — ohrožující prožitek bezmoci je nevědomě přetvořen ve vzrušení",
+   "Acting out — konflikt s autoritou je odehráván v impulzivním navazování vztahů",
+   "Kontrafobní obrana — klientka záměrně vyhledává situace, jichž se děsí"
+  ],
+  "correct": 1,
+  "explanation": "Sexualizace (erotizace) podle McWilliams transformuje děsivý zážitek — bezmoc, závislost, ponížení — ve vzrušení, a mění tak trauma v pocit moci a slasti; vodítkem je vazba vzrušení právě na situace původního ohrožení při současné nepřítomnosti vědomého strachu. Sublimace by šla opačným směrem (od pudu k nesexuálnímu cíli). Kontrafobní vzorec předpokládá vědomě pociťovaný strach, který je vyhledáván a přemáhán, a acting out nevysvětluje specificky erotickou přeměnu afektu.",
+  "source": "McWilliams, N.: Psychoanalytická diagnóza (1994/2015), kap. Sexualizace",
+  "seedElo": 1600
+ },
+ {
+  "id": "son-obr-04",
+  "type": "K",
+  "category": "obrany",
+  "text": "Kleinovská tradice popisuje manickou obranu jako organizovanou odpověď na úzkosti depresivní pozice — na vinu, ztrátu a závislost na objektu. Která triáda postojů vůči objektu ji definuje?",
+  "options": [
+   "Závist, chamtivost a žárlivost",
+   "Idealizace, devalvace a popření",
+   "Vina, reparace a vděčnost",
+   "Kontrola, triumf a pohrdání"
+  ],
+  "correct": 3,
+  "explanation": "Manická obrana popírá závislost na objektu i bolest z jeho poškození pomocí charakteristické triády: kontrola (objekt nemůže odejít ani zranit), triumf (jsem nad ním, ztráta mě nebolí) a pohrdání (nestojí za to, aby jeho ztráta bolela). Závist–chamtivost–žárlivost je Kleinové trojice primárních destruktivních postojů, ne obrana proti depresivní pozici; vina–reparace–vděčnost patří k jejímu zdravému zpracování a idealizace–devalvace–popření je volná směs primitivních obran bez tohoto specifického určení.",
+  "source": "Klein, M.: Mourning and its Relation to Manic-Depressive States (1940); Segal, H.: Introduction to the Work of Melanie Klein (1964)",
+  "seedElo": 1700
+ },
+ {
+  "id": "son-obr-05",
+  "type": "V",
+  "category": "obrany",
+  "text": "Bezdětná žena léta financuje a organizuje pěveckou kariéru mladší sestry. Vlastní hudební ambice, v mládí výrazné, 'už dávno nemá' a nedokáže si představit vlastní vystoupení. Sestřiny úspěchy prožívá s intenzitou, jako by byly její, při sestřině neúspěchu se hroutí víc než sestra sama a bez sestřiny kariéry by její život 'neměl smysl'. Který mechanismus vzorec nejlépe vystihuje?",
+  "options": [
+   "Zralý altruismus — vlastní přání jsou uspokojována pružnou službou druhému",
+   "Projektivní identifikace — sestra je nucena nést odštěpenou agresi klientky",
+   "Altruistické odstoupení — vlastní přání jsou postoupena zástupci a žita skrze něj",
+   "Reaktivní výtvor — rivalita vůči sestře je přeměněna v okázale a nutkavě obětavou péči"
+  ],
+  "correct": 2,
+  "explanation": "Altruistické odstoupení (altruistic surrender) popsala Anna Freudová: subjekt se vlastních zakázaných či úzkostných přání vzdá, uloží je do vhodného zástupce a uspokojuje je zástupně — odtud intenzita prožívání cizích úspěchů, zhroucení při zástupcově selhání a prázdnota vlastního přání. Zralý altruismus vlastní život neruší a nese uspokojení bez závislosti na zástupci. Reaktivní výtvor by obracel hostilitu, pro niž tu chybí doklad, a projektivní identifikace by ukládala nesnesitelný afekt, ne celé ambice self.",
+  "source": "Freudová, A.: Já a obranné mechanismy (1936), kap. Forma altruismu",
+  "seedElo": 1750
+ },
+ {
+  "id": "son-obr-06",
+  "type": "K",
+  "category": "obrany",
+  "text": "Freud vedle vytěsnění (Verdrängung) a popření (Verleugnung) pracoval i s pojmem zavržení (Verwerfung), který Lacan rozpracoval jako forkluzi — mechanismus psychózy. Co je jejím definičním znakem oproti vytěsnění?",
+  "options": [
+   "Obsah nebyl nikdy symbolicky zapsán a vrací se subjektu zvenčí, z reálna",
+   "Obsah je symbolizován a vrací se v přestrojení snů a chybných úkonů",
+   "Obsah je zapsán dvojmo a subjekt mezi oběma verzemi zápisu trvale osciluje",
+   "Obsah je vědomě odmítnut a subjekt ho pak záměrně drží mimo pozornost"
+  ],
+  "correct": 0,
+  "explanation": "U vytěsnění je obsah symbolicky zapsán a z nevědomí se vrací zevnitř, v derivátech — snech, symptomech, přeřeknutích ('návrat vytěsněného'). Forkluze znamená, že klíčový signifikant do symbolického řádu nikdy nevstoupil; co bylo zavrženo uvnitř, vrací se zvenčí — halucinačně, z reálna, jako u Vlčího muže či Schrebera. Dvojí zápis s oscilací odpovídá rozštěpu já u fetišismu (Verleugnung) a vědomé odmítání je suprese, žádný z psychotických mechanismů.",
+  "source": "Freud, S.: Z dějin infantilní neurózy ('Vlčí muž', 1918); Lacan, J.: Seminář III — Psychózy (1955–56)",
+  "seedElo": 1800
+ },
+ {
+  "id": "son-obr-07",
+  "type": "V",
+  "category": "obrany",
+  "text": "Muž týraný v dětství oběma rodiči v terapii neochvějně opakuje, že rodiče 'dělali, co mohli', a bití si 'zasloužil, protože byl nezvladatelné dítě'. Když terapeut jemně zpochybní jeho vinu, klient reaguje nárůstem úzkosti a zhoršením stavu — jako by bylo bezpečnější být špatný on než mít špatné rodiče. Který koncept dynamiku nejlépe vystihuje?",
+  "options": [
+   "Identifikace s agresorem — muž přejal rodičovskou roli i hodnocení své osoby",
+   "Racionalizace — muž si bití zpětně zdůvodňuje jako nutnou součást výchovy",
+   "Primitivní idealizace — rodiče jsou obsazeni jako dokonalé mocné objekty",
+   "Morální obrana — vina je vzata na sebe, aby objekty zůstaly dobré"
+  ],
+  "correct": 3,
+  "explanation": "Fairbairnova morální obrana: dítě závislé na špatných objektech si jejich špatnost zvnitřní jako vlastní vinu, protože 'hříšník ve světě řízeném Bohem' má naději a bezpečí, kdežto dítě dobrého self ve světě špatných objektů žádné — proto zpochybnění viny paradoxně zvyšuje úzkost. Identifikace s agresorem by se projevila přejetím agresorova jednání vůči druhým, racionalizace nevysvětlí úzkost při nabídce úlevy a idealizace popisuje jen polovinu operace — chybí jí klíčový přesun špatnosti do self.",
+  "source": "Fairbairn, W. R. D.: The Repression and the Return of Bad Objects (1943), in: Psychoanalytic Studies of the Personality (1952)",
+  "seedElo": 1850
+ },
+ {
+  "id": "son-obr-08",
+  "type": "K",
+  "category": "obrany",
+  "text": "Terapeut pacienta, který byl v dětství soustavně ponižován, u sebe rozlišuje dva opakující se protipřenosové stavy: někdy cítí pacientův stud a vlastní malost, jindy se přistihne při impulzu pacienta káravě poučovat z pozice převahy. Jak tyto dva stavy rozlišuje Rackerova klasifikace?",
+  "options": [
+   "První je komplementární identifikace se self pacienta, druhý konkordantní s objektem",
+   "První je konkordantní identifikace se self, druhý komplementární s vnitřním objektem",
+   "První je empatická rezonance, druhý je terapeutův vlastní přenos na pacienta",
+   "Oba jsou konkordantní identifikace — liší se pouze valencí prožívaného afektu"
+  ],
+  "correct": 1,
+  "explanation": "Racker rozlišil konkordantní identifikaci — terapeut se identifikuje s pacientovým self a cítí to, co pacient (stud, malost) — a komplementární identifikaci, kdy je terapeut tlačen do role pacientova vnitřního objektu (zde ponižující autority) a prožívá její postoje. První distraktor obě definice přesně prohazuje. Rozlišení je klinicky zásadní: konkordantní stav podporuje empatii, komplementární hrozí odehráním objektní role, není-li rozpoznán jako informace o pacientově vnitřním vztahovém páru.",
+  "source": "Racker, H.: The Meanings and Uses of Countertransference (1957); Racker, H.: Transference and Countertransference (1968)",
+  "seedElo": 1900
+ },
+ {
+  "id": "son-obr-09",
+  "type": "V",
+  "category": "obrany",
+  "text": "Pacient s psychotickou organizací: kdykoli terapeutova interpretace dává smysl a na okamžik oba spojí ve sdíleném porozumění, pacient ji vzápětí rozdrobí — přeruší větu, znejasní, co sám právě řekl, prohlásí, že 'slova stejně nic neznamenají'. Terapeut opakovaně zažívá, že myšlenky v místnosti se rozpadají a nelze na nich stavět. Který Bionův koncept dění nejlépe vystihuje?",
+  "options": [
+   "Útoky na spojování — destrukce spojů mezi myšlenkami i mezi objekty",
+   "Negativní terapeutická reakce — zhoršení stavu po každém pokroku léčby",
+   "Intelektualizace — významy jsou drženy v bezpečné abstraktní rovině",
+   "Disociace — pacient se při interpretacích odpojuje od kontaktu s realitou"
+  ],
+  "correct": 0,
+  "explanation": "Bionovy 'útoky na spojování' (attacks on linking): psychotická část osobnosti napadá samotné spoje — mezi myšlenkou a myšlenkou, mezi pacientem a objektem, mezi slovem a významem — protože spojení oživuje nesnesitelnou závislost a smysl; výsledkem je fragmentace, kterou terapeut zažívá jako rozpad myšlení v místnosti. Negativní terapeutická reakce ničí zlepšení z nevědomé viny, ne spoje samotné; intelektualizace významy uchovává, jen je odosobňuje, a disociace by odpojila stav vědomí, ne cíleně destruovala vazby smyslu.",
+  "source": "Bion, W. R.: Attacks on Linking, Int. J. Psychoanal. (1959)",
+  "seedElo": 1950
+ },
+ {
+  "id": "son-obr-10",
+  "type": "K",
+  "category": "obrany",
+  "text": "John Steiner popisuje 'patologickou organizaci osobnosti', jež pacientovi poskytuje psychické útočiště (psychic retreat). Čím se tento útvar podle Steinera liší od jednotlivé obrany či běžného obranného repertoáru?",
+  "options": [
+   "Je tvořen výhradně psychotickými mechanismy se ztrátou testování reality",
+   "Jde o vývojově nejranější obranu, která předchází štěpení i projekci",
+   "Je to pevně svázaný systém obran nabízející úkryt před úzkostmi obou pozic",
+   "Je to synonymum hraniční organizace v Kernbergově strukturálním smyslu"
+  ],
+  "correct": 2,
+  "explanation": "Steinerova patologická organizace není jedna obrana, ale rigidní, vzájemně se podpírající systém obran (často personifikovaný jako vnitřní 'gang' po vzoru Rosenfeldova destruktivního narcismu), který nabízí útočiště jak před fragmentační úzkostí paranoidně-schizoidní pozice, tak před vinou a ztrátou pozice depresivní — pacient v něm uvázne mezi oběma, relativně stabilní, ale bez vývoje. Nekryje se s Kernbergovou hraniční organizací (jde o jiný teoretický rámec i rozsah), nevyžaduje ztrátu testování reality a není vývojově nejranější operací.",
+  "source": "Steiner, J.: Psychic Retreats (1993); Rosenfeld, H.: A Clinical Approach to the Psychoanalytic Theory of the Life and Death Instincts (1971)",
+  "seedElo": 2050
+ },
+ {
+  "id": "son-obr-11",
+  "type": "V",
+  "category": "obrany",
+  "text": "Pacientka s těžkou ranou deprivací v úzkostných momentech sezení sotva znatelně rytmicky pohupuje chodidlem, přejíždí prstem po hraně opěrky a šeptem si opakuje terapeutova slova — zjevně pro jejich rytmus a zvuk, ne význam. Nepůsobí odpojeně od reality ani od vztahu; spíš jako by se držela povrchů a rytmů, aby se 'nerozsypala'. Který koncept z Ogdenova rozšíření kleinovského modelu prožívání nejlépe vystihuje?",
+  "options": [
+   "Disociativní obrana — vědomí se za úzkosti obranně odpojuje od těla, vztahu i reality",
+   "Autisticko-kontiguitní obrana — soudržnost self drží smyslový rytmus a povrch",
+   "Regrese — pacientka se pod tíhou úzkosti vrací k přechodovým objektům dětství",
+   "Izolace afektu — pozornost ke smyslovým detailům odděluje emoci od obsahu"
+  ],
+  "correct": 1,
+  "explanation": "Ogden k paranoidně-schizoidní a depresivní pozici přidal autisticko-kontiguitní mód: nejelementárnější rovinu prožívání, kde je soudržnost self generována smyslovostí — rytmem, tvrdými hranami, kontinuitou povrchu. Obrany tohoto módu (senzorická sebestimulace, lpění na 'tvrdém objektu') brání úzkosti z rozpadu a beztvarosti, nikoli z pronásledování či viny. Disociaci vinětka výslovně vylučuje (kontakt trvá), regrese k přechodovému objektu by předpokládala symbolickou funkci předmětu, a izolace afektu operuje na reprezentacích, ne na senzorickém dnu prožívání.",
+  "source": "Ogden, T. H.: The Primitive Edge of Experience (1989)",
+  "seedElo": 2150
+ },
+ {
+  "id": "son-pre-01",
+  "type": "V",
+  "category": "prenos-technika",
+  "text": "Klient je po roce analýzy: původní fobické symptomy, kvůli nimž přišel, znatelně zeslábly, zato se jeho konfliktní svět přeskupil kolem osoby analytika — žárlí na ostatní pacienty, sezení jsou středobodem jeho týdne a mimo ně o analytikovi intenzivně přemýšlí. Který klasický pojem tento vývoj vystihuje?",
+  "options": [
+   "Maligní regrese s rozpouštěním hranic self ve vztahu k analytikovi",
+   "Přenosová neuróza — infantilní konflikt se nově soustředil na analytika",
+   "Náhradní symptomatologie po pouhém potlačení původní fobické struktury",
+   "Nezralá idealizace analytika jako obrana proti hrozící separaci od objektu"
+  ],
+  "correct": 1,
+  "explanation": "Freud popsal, že v klasické analýze se původní neuróza přemění v přenosovou neurózu: symptomy v životě blednou a konflikt se v koncentrované, aktuální podobě odehrává ve vztahu k analytikovi, kde je léčebně dostupný 'in vivo'. Maligní regrese by nesla rozpad funkcí, náhradní symptom by byl nový symptom mimo vztah a idealizace nevysvětluje přesun celé konfliktní dynamiky.",
+  "source": "Freud, S.: Erinnern, Wiederholen und Durcharbeiten, 1914; Etchegoyen, H.: The Fundamentals of Psychoanalytic Technique, 1991, kap. o přenosové neuróze",
+  "seedElo": 1500
+ },
+ {
+  "id": "son-pre-02",
+  "type": "V",
+  "category": "prenos-technika",
+  "text": "Klient po zvlášť trefné interpretaci, kterou sám označil za osvobozující, přichází další týden hlubší v depresi, znehodnocuje dosažené pokroky a uvažuje o marnosti léčby. Terapeutka si zpětně všimne, že tentýž obrat nastal po každém výraznějším zlepšení. Nejpřiléhavější pojmenování je:",
+  "options": [
+   "Útěk do zdraví jako obranná reakce na příliš rychlé odkrývání materiálu",
+   "Cyklické kolísání nálady probíhající nezávisle na dění v terapeutickém procesu",
+   "Negativní terapeutická reakce — zhoršení po pokroku, sycené nevědomou vinou",
+   "Recidiva původních symptomů signalizující blížící se ukončení léčby"
+  ],
+  "correct": 2,
+  "explanation": "Zákonité zhoršení právě po zlepšení či po vydařené interpretaci popsal Freud jako negativní terapeutickou reakci a spojil ji s nevědomým pocitem viny: uzdravení je 'zakázané', a tak musí být potrestáno. Útěk do zdraví je pohyb opačný (náhlé 'uzdravení' před ohrožujícím materiálem), náhodné kolísání nevysvětluje přesnou časovou vazbu na pokrok a o terminaci vinětka nemluví.",
+  "source": "Freud, S.: Das Ich und das Es, 1923, kap. V; Sandler, J., Dare, C., Holder, A.: The Patient and the Analyst, 1973",
+  "seedElo": 1550
+ },
+ {
+  "id": "son-pre-03",
+  "type": "V",
+  "category": "prenos-technika",
+  "text": "Terapeut pracuje s hluboce regredovaným klientem, který mu opakovaně ničí věci v pracovně, uráží ho a testuje každou hranici. Terapeut si s úlekem uvědomuje zřetelnou nenávist vůči němu. Winnicottova pozice z textu o nenávisti v protipřenosu říká:",
+  "options": [
+   "Část nenávisti může být objektivní, přiměřená reálnému chování klienta, a terapeut ji má unést a přiznat si ji",
+   "Nenávist k pacientovi je vždy známkou nedostatečně dokončené vlastní cvičné analýzy a supervidovaného výcviku terapeuta",
+   "Nenávist je nutné klientovi hned na místě sdělit, aby vztah zůstal autentický a nic se neskrývalo",
+   "Nenávist signalizuje, že klient patří do ústavní ochranné péče a ambulantní práci je namístě ukončit"
+  ],
+  "correct": 0,
+  "explanation": "Winnicott (1949) rozlišil nenávist neurotickou (terapeutovu vlastní) od objektivní, kterou by dané chování vyvolalo v komkoli — a tvrdí, že ji analytik musí umět snést a vědět o ní, jinak ji odehraje skrytě. Sdělení pacientovi připouští až v pozdní fázi léčby, nikoli okamžitě; rovnice 'nenávist = špatně analyzovaný terapeut' je právě to pojetí, proti kterému text míří.",
+  "source": "Winnicott, D. W.: Hate in the Counter-Transference, International Journal of Psychoanalysis, 30, 1949",
+  "seedElo": 1600
+ },
+ {
+  "id": "son-pre-04",
+  "type": "F",
+  "category": "prenos-technika",
+  "text": "Co podle Stracheyho (1934) činí interpretaci 'mutativní', tedy schopnou vyvolat strukturální změnu?",
+  "options": [
+   "Je genetická — propojuje aktuální vzorec s co nejranější rekonstruovanou dětskou vzpomínkou",
+   "Je vyslovena teprve poté, co pacient dosáhl plného a stabilního intelektuálního vhledu do konfliktu",
+   "Je podávána nedirektivně, formou otevřené otázky, aby si ji pacient mohl objevit a formulovat sám",
+   "Míří na impulz živý v přenosu, v bodě urgence, a dává rozlišit archaický objekt od reálného analytika"
+  ],
+  "correct": 3,
+  "explanation": "Strachey popsal mutativní interpretaci jako dvoufázový děj v přenosu: pacient si uvědomí, že impulz míří na analytika teď a tady, a zároveň zakusí rozdíl mezi projikovaným archaickým nad-jáským objektem a reálným analytikem — tím se zmírňuje krutost nad-já. Genetické a extratransferové interpretace mají roli přípravnou; intelektuální vhled ani tázací forma jádrem mutativního účinku nejsou.",
+  "source": "Strachey, J.: The nature of the therapeutic action of psycho-analysis, International Journal of Psychoanalysis, 15, 1934",
+  "seedElo": 1700
+ },
+ {
+  "id": "son-pre-05",
+  "type": "F",
+  "category": "prenos-technika",
+  "text": "Jak je míněno Bionovo technické doporučení vstupovat do sezení 'bez paměti a bez touhy' (without memory and desire)?",
+  "options": [
+   "Analytik si nemá vést dokumentaci ani před léčbou číst anamnézu, aby zůstal ke všem nálezům nezaujatý",
+   "Disciplinovaně odkládat nasycené vědění o pacientovi i přání ho uzdravit ve prospěch přítomného sezení",
+   "Jde o doporučení určené výhradně pro práci s psychotickými pacienty v režimu dlouhodobé ústavní péče",
+   "Analytik má potlačit vlastní volné asociace a soustředit se pouze na doslovný obsah pacientovy řeči"
+  ],
+  "correct": 1,
+  "explanation": "Bion nemíří na amnézii ani administrativu: paměť (co o pacientovi 'vím') a touha (aby se uzdravil, aby sezení dopadlo) sytí mysl předem hotovými tvary a brání zachytit 'vybranou skutečnost' toho, co se emočně děje teď. Jde o kázeň pozornosti příbuznou Freudově rovnoměrně se vznášející pozornosti, platnou obecně, ne jen u psychóz; vlastní asociace jsou naopak pracovním kanálem.",
+  "source": "Bion, W. R.: Notes on memory and desire, Psychoanalytic Forum, 2, 1967; Bion, W. R.: Attention and Interpretation, 1970",
+  "seedElo": 1750
+ },
+ {
+  "id": "son-pre-06",
+  "type": "V",
+  "category": "prenos-technika",
+  "text": "Klient měsíce živě líčí střety s nadřízenými a přáteli, ale o vztahu k terapeutovi nemluví nikdy; na přímý dotaz odpoví zdvořilostní frází a vrátí se ven. Terapeut zvažuje interpretovat možné narážky na sebe v klientově materiálu. V Gillových pojmech tím oslovuje:",
+  "options": [
+   "Odpor vůči rozřešení přenosu — klient lpí na dosaženém přenosovém uspokojení a nechce je opustit",
+   "Extratransferovou vrstvu materiálu, která má podle klasické techniky v léčbě systematickou přednost",
+   "Odpor vůči uvědomění přenosu — jeho deriváty se přesouvají do vyprávění o vnějších vztazích",
+   "Odpor vůči vzpomínání, který se technicky řeší především trpělivou genetickou rekonstrukcí"
+  ],
+  "correct": 2,
+  "explanation": "Gill rozlišil odpor vůči uvědomění přenosu (pacient přenos nepřipustí do vědomí a jeho deriváty ukládá do vyprávění o vnějších postavách) od odporu vůči jeho rozřešení (přenos je vědomý, ale pacient se ho nechce vzdát). Zde chybí samo uvědomění, proto je technikou volby hledat a interpretovat narážky na vztah tady a teď; extratransferový materiál přednost nemá — je nosičem skrytého přenosu.",
+  "source": "Gill, M.: Analysis of Transference, sv. I, 1982, kap. o odporu vůči uvědomění přenosu",
+  "seedElo": 1800
+ },
+ {
+  "id": "son-pre-07",
+  "type": "I",
+  "category": "prenos-technika",
+  "text": "Terapeut při klientově plynulém, ale zvláštně bezbarvém vyprávění opakovaně sklouzne k útržkovité fantazii o kufru zapomenutém na nádraží. Z hlediska kritéria 'reverie užít jako data o společném nevědomém poli, aniž je její surový obsah klientovi konfesijně sdělen' je nejvhodnější:",
+  "options": [
+   "Snění vnitřně podržet, zkoumat jeho vazbu k dění mezi nimi a nechat jím tiše informovat příští intervenci",
+   "Fantazii klientovi doslovně převyprávět jako autentické sebeodhalení toho, co se právě děje v mysli analytika",
+   "Snění utnout jako prostý výpadek soustředění a disciplinovaně se vrátit k obsahu klientovy aktuální řeči",
+   "Sdělit klientovi, že jeho vyprávění působí prázdně a že něco podstatného zřejmě odkládá stranou"
+  ],
+  "correct": 0,
+  "explanation": "Ogden chápe reverie jako výtvor analytického třetího — zdánlivě soukromé snění bývá nevědomou odpovědí na to, co dvojice právě prožívá (zde možná 'odložený, zapomenutý obsah'). Kritériem je nepřímé užití: obsah se nesděluje, ale promýšlí a přetavuje do porozumění. Doslovná konfese zatíží klienta analytikovým materiálem, utnutí zahodí jediný kanál, kterým se bezbarvost může stát myslitelnou, a výrok o 'prázdnotě' bez vnitřního zpracování je předčasný zkrat.",
+  "source": "Ogden, T. H.: Reverie and interpretation, Psychoanalytic Quarterly, 66, 1997; Ogden, T. H.: The analytic third, IJP, 75, 1994",
+  "seedElo": 1850
+ },
+ {
+  "id": "son-pre-08",
+  "type": "V",
+  "category": "prenos-technika",
+  "text": "Klient terapeuta soustavně jízlivě devalvuje. Terapeut zjišťuje, že jeho interpretace začínají dostávat nenápadně říznou, ironickou hranu — má chuť klientovi jeho pohrdání 'vracet stejnou mincí', byť kultivovaně. Který Rackerův pojem tuto dynamiku přímo pojmenovává?",
+  "options": [
+   "Projektivní protiidentifikace zaplavovaného analytika podle Grinberga",
+   "Objektivní nenávist v protipřenosu, jak ji formuloval Winnicott",
+   "Negativní terapeutická reakce probíhající na straně terapeuta",
+   "Talionská odpověď — protipřenos oplácí negativní přenos negativním"
+  ],
+  "correct": 3,
+  "explanation": "Racker popsal 'zákon talionu' jako obecné pokušení protipřenosu: pozitivnímu přenosu odpovídat pozitivně a negativnímu negativně, oko za oko — a v tichém oplácení devalvace ironií se přesně tento zákon odehrává. Grinbergova protiidentifikace popisuje zaplavení analytika projikovaným obsahem bez ohledu na jeho dispozice, Winnicottova objektivní nenávist je reakce na reálné destruktivní chování, nikoli mechanismus odplaty, a negativní terapeutická reakce je pojem pro pacientovo zhoršení po pokroku.",
+  "source": "Racker, H.: Transference and Countertransference, 1968, kap. The Meanings and Uses of Countertransference (talionic response)",
+  "seedElo": 1900
+ },
+ {
+  "id": "son-pre-09",
+  "type": "V",
+  "category": "prenos-technika",
+  "text": "Klient léta zdvořile přijímá interpretace, nikdy neoponuje a analýza je pozoruhodně statická. Postupně vyjde najevo, že celou situaci tiše přeznačil: dochází sem, jak říká, 'za moudrým přítelem na placené popovídání' a interpretace bere jako zajímavé názory, s nimiž vnitřně nepočítá. Který pojem tuto konstelaci vystihuje?",
+  "options": [
+   "Nenamítatelný pozitivní přenos, který v léčbě nese běžnou spolupráci",
+   "Reverzibilní perspektiva — zjevný souhlas při tichém obrácení premis situace",
+   "Falešná zralost charakteru typu 'as-if' osobnosti, jak ji popsala Helene Deutschová",
+   "Intelektualizace jako obrana izolující afekt od intelektuálního vhledu"
+  ],
+  "correct": 1,
+  "explanation": "Bionovu reverzibilní perspektivu řadí Etchegoyen k nejzáludnějším odporům: pacient s interpretacemi zdánlivě souhlasí, ale mlčky obrátil samotné premisy setkání (co je analýza, kdo je analytik), takže dynamický proces se mění ve statický obraz — spor se nevede o výklady, ale o neviditelné předpoklady. Nenamítatelný pozitivní přenos práci nese, 'as-if' je charakterová organizace celé osobnosti a intelektualizace nevysvětluje systematické přepsání smyslu situace.",
+  "source": "Bion, W. R.: Elements of Psycho-Analysis, 1963; Etchegoyen, H.: The Fundamentals of Psychoanalytic Technique, 1991, kap. o reverzibilní perspektivě",
+  "seedElo": 1950
+ },
+ {
+  "id": "son-pre-10",
+  "type": "V",
+  "category": "prenos-technika",
+  "text": "Kandidát ve výcviku si všimne, že jeho intervence u pacienta stále víc řídí ohled na výcvikového supervizora: volí 'předpisové' interpretace, o nichž tuší, že by je supervize ocenila, a vyhýbá se krokům, jež by před komisí obhajoval těžko. Racker pro protipřenos určovaný významnou třetí osobou razí pojem:",
+  "options": [
+   "Konkordantní protipřenos s institucionálním objektem výcvikového společenství",
+   "Protipřenosová pozice, v protikladu k pouhé protipřenosové myšlence",
+   "Nepřímý protipřenos — reakce určované třetím, na jehož soudu záleží",
+   "Laterální přenos kandidáta přesunutý z pacienta na osobu supervizora"
+  ],
+  "correct": 2,
+  "explanation": "Racker odlišil přímý protipřenos (reakce na samotného pacienta) od nepřímého, vyvolaného třetí osobou — supervizorem, institucí, referujícím kolegou — jejíž hodnocení je pro analytika významné; kandidát pak nevědomky léčí 'pro supervizora', ne pro pacienta. Rackerova dvojice pozice/myšlenka popisuje míru, v níž protipřenos analytika ovládne, nikoli jeho adresáta, a laterální přenos je pojem pro pacientův přenos na osoby mimo analytika.",
+  "source": "Racker, H.: Transference and Countertransference, 1968, kap. The Countertransference (direct and indirect countertransference)",
+  "seedElo": 2050
+ },
+ {
+  "id": "son-pre-11",
+  "type": "I",
+  "category": "prenos-technika",
+  "text": "Klientka po letech léčby sama zdatně vykládá své vzorce, cituje minulé interpretace a sezení plynou v oboustranně příjemné, takřka kolegiální shodě; terapeut se přistihuje u tiché spokojenosti — a zároveň ví, že se v jejím životě nic nemění. Z hlediska kritéria Betty Josephové 'číst přenos jako totální situaci — podle toho, k čemu je analytik právě užíván, nikoli podle manifestního obsahu' je nejvhodnější:",
+  "options": [
+   "Prohloubit genetickou rekonstrukci vzorců, které klientka sama ochotně nabízí, a systematicky ji dovést až k jejich raným kořenům",
+   "Ocenit její rostoucí sebereflexi jako svébytnou kapacitu pozorujícího já, kterou je třeba dále cíleně posilovat a upevňovat",
+   "Sdělit jí vlastní spokojenost i pochybnost jako otevřené sebeodhalení a ponechat na ní volbu dalšího směru společné práce",
+   "Zaměřit se na funkci hladké spolupráce tady a teď — na konejšivou souhru, jež drží změnu i rušivé afekty mimo dosah"
+  ],
+  "correct": 3,
+  "explanation": "Josephová ukazuje, že přenos je totální situace: rozhodující není, co pacient říká (zde bezvadně 'analytický' obsah), ale co s analytikem dělá — zde ho rekrutuje do příjemné, nehybné dvojice, jejíž funkcí je nic neriskovat; terapeutova spokojenost je protipřenosový klíč k tomuto uspořádání, nikoli doklad pokroku. Genetické prohlubování i oceňování by souhru dál sytily materiálem, který jí slouží, a konfesijní sebeodhalení nahrazuje čtení 'užití analytika' přesunem břemene volby na klientku.",
+  "source": "Joseph, B.: Transference: the total situation, International Journal of Psychoanalysis, 66, 1985; Joseph, B.: Psychic Equilibrium and Psychic Change, 1989",
+  "seedElo": 2150
+ },
+ {
+  "id": "son-sko-01",
+  "type": "F",
+  "category": "skoly-autori",
+  "text": "Co je podle Winnicotta primární mateřské zaujetí (primary maternal preoccupation)?",
+  "options": [
+   "Symbiotická vazba trvající celý první rok života, jejíž předčasné přerušení podle Winnicotta vede přímo k rozvoji dětské psychózy",
+   "Patologicky úzkostná fixace matky na dítě po porodu, kterou má podle Winnicotta včas zachytit pediatr a předat psychoterapii",
+   "Přechodný stav zvýšené citlivosti na sklonku těhotenství a v prvních týdnech — 'normální nemoc' umožňující vyladění na kojence",
+   "Vědomě nacvičovaná technika responzivní péče o novorozence, kterou Winnicott doporučoval systematicky školit v poradnách pro matky"
+  ],
+  "correct": 2,
+  "explanation": "Winnicott popsal spontánně vznikající a spontánně odeznívající stav stažení matky do vztahu s dítětem, který přirovnal k nemoci — kdyby nešlo o mateřství, vypadal by jako porucha (mluvil o 'normální nemoci'). Právě tento stav dovoluje matce téměř úplnou identifikaci s kojencem a naplňování jeho potřeb dřív, než je stačí signalizovat. Nejde o vědomou techniku ani o patologii a s celoročním symbiotickým obdobím ho Winnicott neztotožňoval.",
+  "source": "Winnicott, D. W.: Primary Maternal Preoccupation, 1956",
+  "seedElo": 1500
+ },
+ {
+  "id": "son-sko-02",
+  "type": "F",
+  "category": "skoly-autori",
+  "text": "Jaká je ústřední teze Ferencziho pozdní práce Zmatení jazyků mezi dospělými a dítětem (1932/33)?",
+  "options": [
+   "Dítě mluví jazykem něhy, dospělý odpoví jazykem vášně; trauma dovršuje popření okolím a dítě introjikuje vinu agresora",
+   "Dítě mluví jazykem pudů, rodič jazykem kultury; neuróza vzniká nezdařeným překladem pudové řeči do řeči symbolů a slov",
+   "Dospělý i dítě mluví týmž jazykem něhy; traumatem se zážitek stává až dodatečnou sexualizací vzpomínky v období puberty",
+   "Řeč dospělých a dětí se míjí v rovině pojmů; Ferenczi proto pro dětskou analýzu navrhl nahradit interpretaci názornou hrou"
+  ],
+  "correct": 0,
+  "explanation": "Ferenczi rehabilitoval reálné trauma: dětská přítulnost patří do registru něhy, dospělý ji však může zaměnit za přání zralé sexuality a odpovědět vášní. Zhoubu dovršuje následné popření okolím — dítě zůstává s nesdíleným zážitkem, identifikuje se s agresorem, introjikuje jeho pocit viny a jeho osobnost se štěpí. Text narazil na Freudův odpor a do širšího oběhu se dostal až po desetiletích.",
+  "source": "Ferenczi, S.: Confusion of Tongues Between Adults and the Child, 1933",
+  "seedElo": 1550
+ },
+ {
+  "id": "son-sko-03",
+  "type": "K",
+  "category": "skoly-autori",
+  "text": "Bionova teorie skupin: čím se bazální skupina párování (baP) liší od bazální skupiny závislosti (baD)?",
+  "options": [
+   "Párování označuje spojenectví vůdce se zapisovatelem schůzí, závislost pak vztah skupiny k instituci, která ji financuje a poskytuje jí rámec",
+   "Skupina v párování vkládá naději do dvojice, z níž má vzejít 'mesiáš', jenž nesmí přijít; skupina v závislosti čeká sycení a ochranu vůdce",
+   "Párování je zralý pracovní modus, jehož skupina dosahuje po propracování; závislost je vedle boje-útěku jediný regresivní bazální předpoklad",
+   "Párování popisuje erotické dvojice, jež odvádějí skupinu od úkolu; závislost návykové vzorce členů, které skupina nevědomě spoluudržuje"
+  ],
+  "correct": 1,
+  "explanation": "Bazální předpoklady jsou tři regresivní mentality skupiny: závislost (vůdce jako božstvo, jež má sytit a chránit), boj-útěk a párování, v němž skupina s nadějí sleduje dvojici, z níž má vzejít vykupitel či spásná idea — mesianistická naděje ovšem plní funkci, jen dokud zůstává nenaplněná. Párování tedy není pracovní skupina (ta je protipólem všech tří předpokladů) a s erotikou dvojic či financováním nemá definice nic společného.",
+  "source": "Bion, W. R.: Experiences in Groups, 1961",
+  "seedElo": 1600
+ },
+ {
+  "id": "son-sko-04",
+  "type": "K",
+  "category": "skoly-autori",
+  "text": "Fairbairnova endopsychická struktura: jaký je vztah antilibidinózního ega ('vnitřního sabotéra') k egu libidinóznímu?",
+  "options": [
+   "Antilibidinózní ego je pozdější vývojovou vrstvou libidinózního ega a v období latence od něj přebírá vazbu na vzrušující objekt",
+   "Obě subjá jsou rovnocennými frakcemi centrálního ega; u moci se střídají podle aktuální síly vytěsnění a stavu vnějších vztahů",
+   "Antilibidinózní ego je Fairbairnovým překladem Freudova superega, na libidinózní ego proto působí výčitkami svědomí a ideály",
+   "Svázáno s odmítajícím objektem útočí na libidinózní ego a jeho potřebnost — pronásleduje část self, která dosud doufá a touží"
+  ],
+  "correct": 3,
+  "explanation": "Štěpením ega vznikají u Fairbairna vedle centrálního ega dvě potlačené struktury: libidinózní ego vázané na vzrušující (slibující) objekt a antilibidinózní ego vázané na objekt odmítající. Vnitřní sabotér přejímá nepřátelskost odmítajícího rodiče a obrací ji dovnitř proti vlastní potřebnosti a naději — klinicky se ukazuje jako nenávist k vlastní zranitelnosti. Superego pokládal Fairbairn za komplexnější, jen zčásti se překrývající útvar, ne za totéž.",
+  "source": "Fairbairn, W. R. D.: Endopsychic Structure Considered in Terms of Object-Relationships, 1944",
+  "seedElo": 1700
+ },
+ {
+  "id": "son-sko-05",
+  "type": "K",
+  "category": "skoly-autori",
+  "text": "Spor Kohut–Kernberg o narcismus: v čem se liší jejich pojetí grandiózního self?",
+  "options": [
+   "Pro Kohuta normální archaická struktura zamrzlá nedostatkem zrcadlení; pro Kernberga patologická slitina reálného self, ideálního self a ideálního objektu",
+   "Pro Kernberga normální vývojový útvar dozrávající optimální frustrací; pro Kohuta obranná kondenzace vzniklá štěpením a popřením rané orální agrese",
+   "Oba jej chápou jako vývojovou strukturu a liší se jen technikou: Kohut obrannou grandiozitu interpretuje ihned, Kernberg vyčkává na rozvinutí přenosu",
+   "Pro Kohuta vědomá fantazie velikosti korigovatelná konfrontací; pro Kernberga nevědomý introjekt idealizovaného rodiče z oidipského období vývoje"
+  ],
+  "correct": 0,
+  "explanation": "Jádro slavné kontroverze sedmdesátých let: Kohut vidí v grandiozitě zamrzlou normální vývojovou potřebu, které má analýza dovolit rozvinout se v zrcadlícím přenosu, a proto ji zprvu nekonfrontuje. Kernberg v ní vidí od počátku patologickou obrannou strukturu slitou z ideálních a reálných reprezentací, jež chrání před závistí, vztekem a závislostí, a její obranné užití včetně negativního přenosu systematicky analyzuje. Možnost b) obě pozice přesně prohazuje.",
+  "source": "Kernberg, O.: Borderline Conditions and Pathological Narcissism, 1975; Kohut, H.: The Analysis of the Self, 1971",
+  "seedElo": 1750
+ },
+ {
+  "id": "son-sko-06",
+  "type": "F",
+  "category": "skoly-autori",
+  "text": "V čem podle Loewalda (O terapeutickém působení psychoanalýzy, 1960) spočívá léčivý účinek analýzy?",
+  "options": [
+   "V udržování soustavné frustrace a abstinence, jež pacienta přiměje vzdát se infantilních uspokojení ve prospěch zralejší sublimace a práce",
+   "V korektivní rodičovské roli: analytik podle pacientovy anamnézy vědomě zaujímá postoj opačný, než jaký měl patogenní rodič, a přehrává dětství nanovo",
+   "Analytik působí jako nový objekt: umožňuje obnovu přerušeného vývoje ega a interpretací zprostředkuje vyšší integraci — z 'duchů' se stávají 'předci'",
+   "V čistém vhledu: zvědomění nevědomého konfliktu léčí samo o sobě a vztah s analytikem slouží pouze jako neutrální nosič správných interpretací"
+  ],
+  "correct": 2,
+  "explanation": "Loewald uvnitř klasické tradice tiše provedl vztahovou revoluci: analytik nefunguje jako neutrální zrcadlo, ale jako nový objekt, s nímž se — analogicky vztahu rodič–dítě — znovu rozbíhá zastavený vývoj; interpretace působí tím, že drží napětí mezi pacientovou aktuální úrovní a zralejší organizací, kterou analytik 'drží v mysli'. Slavná metafora říká, že přízraky nevědomí mají být položeny k odpočinku jako předci. Nejde o hranou korektivní roli à la Alexander ani o pouhý vhled či frustraci.",
+  "source": "Loewald, H. W.: On the Therapeutic Action of Psycho-Analysis, 1960",
+  "seedElo": 1800
+ },
+ {
+  "id": "son-sko-07",
+  "type": "F",
+  "category": "skoly-autori",
+  "text": "Co označuje Bollasův pojem nemyšlené známé (unthought known)?",
+  "options": [
+   "Vytěsněné stopy raných traumat, které lze rekonstruktivní interpretací postupně převést zpět do vědomé narativní paměti pacienta",
+   "Vrozené prekoncepce v Bionově smyslu, které v psychice čekají na realizaci setkáním s odpovídajícím vnějším objektem či zkušeností",
+   "Souhrn procedurálních dovedností a tělesných automatismů, které subjekt vykonává bez účasti vědomí a nemá důvod o nich přemýšlet",
+   "Raná zkušenost s objektem, jež formuje bytí subjektu, ač nebyla nikdy myšlena — nese ji nálada, estetično a užívání objektů"
+  ],
+  "correct": 3,
+  "explanation": "Bollas míní vědění, které v nás je, ale nikdy nebylo myšleno: ranou 'gramatiku' vztahu s objektem, otištěnou dřív, než ji bylo možné symbolizovat a reprezentovat. Není proto vytěsněná (nikdy nebyla zapsána jako obsah, nemá se co 'vracet') a do analýzy vstupuje nepřímo — atmosférou, náladami, estetickými preferencemi a způsobem, jak pacient analytika 'používá'. S tělesnou procedurální pamětí v úzkém smyslu ani s bionovskou vrozenou prekoncepcí pojem nesplývá, byť na Biona Bollas navazuje.",
+  "source": "Bollas, C.: The Shadow of the Object: Psychoanalysis of the Unthought Known, 1987",
+  "seedElo": 1850
+ },
+ {
+  "id": "son-sko-08",
+  "type": "F",
+  "category": "skoly-autori",
+  "text": "Jak Laplancheova obecná teorie svádění vysvětluje vznik nevědomí pomocí enigmatických signifikantů?",
+  "options": [
+   "Nevědomí vzniká fylogeneticky: enigmatické signifikanty jsou zděděná prasvádění lidského druhu, která dítě reaktivuje ve své fantazii",
+   "Dospělý adresuje dítěti zprávy kompromitované svým nevědomým sexuálnem; dítě je zčásti přeloží a nepřeložený zbytek utvoří jádro nevědomí",
+   "Enigmatické signifikanty jsou dětské otázky po původu, které rodič odmítá zodpovědět; nevědomí je archivem těchto nezodpovězených otázek",
+   "Signifikanty jsou u Laplanche prvky jazyka jako u Lacana; nevědomí vzniká vstupem dítěte do symbolického řádu při osvojování si řeči"
+  ],
+  "correct": 1,
+  "explanation": "Laplanche zobecnil Freudovu opuštěnou teorii svádění: primární antropologickou situací je asymetrie — péče dospělého nese vedle vědomého sdělení i příměs jeho nevědomé sexuality, takže zprávy jsou enigmatické i pro samotného odesílatele. Dítě se je pokouší přeložit; co překladu odolá, je 'vyvrženo dovnitř' a tvoří sexuální nevědomí jako vnitřní cizí těleso. Nejde tedy o fylogenetické dědictví ani o lacanovský vstup do jazyka — proti obojímu se Laplanche výslovně vymezoval.",
+  "source": "Laplanche, J.: Nouveaux fondements pour la psychanalyse, 1987",
+  "seedElo": 1900
+ },
+ {
+  "id": "son-sko-09",
+  "type": "K",
+  "category": "skoly-autori",
+  "text": "Greenův komplex mrtvé matky: čím se následky 'mrtvé matky' liší od následků skutečné ztráty matky v dětství?",
+  "options": [
+   "Matka je přítomná, ale psychicky mrtvá; dítě náhle ztrácí její investici, dekatektuje ji a identifikuje se s ní — smutek bez uchopitelné ztráty",
+   "Skutečná smrt matky působí vždy těžší patologii, neboť chybí objekt identifikace; psychicky mrtvá matka zanechává jen přechodnou separační úzkost",
+   "Jde o týž proces truchlení, pouze časově rozložený; Green trval na tom, že nevědomí mezi reálnou a psychickou smrtí objektu vůbec nerozlišuje",
+   "Mrtvá matka je dětskou fantazií o zavraždění matky z oidipské rivality, kdežto reálná ztráta patří do registru traumatu a fantazii obchází"
+  ],
+  "correct": 0,
+  "explanation": "Greenův paradox: dítě nemá koho oplakat, protože matka žije — ztratilo však náhle a nesrozumitelně její psychickou přítomnost, typicky když ji pohltilo vlastní truchlení či deprese. Po marných pokusech ji oživit ji dítě dekatektuje a identifikuje se s prázdnem samým; jádrem je 'bílý' smutek, díra v psychice a pozdější neschopnost milovat bez ochromení. Právě nehmatatelnost ztráty ji činí hůře zpracovatelnou než smrt, kterou lze truchlit; o fantazii vraždy Greenova stať není.",
+  "source": "Green, A.: La mère morte, in: Narcissisme de vie, narcissisme de mort, 1983",
+  "seedElo": 1950
+ },
+ {
+  "id": "son-sko-10",
+  "type": "K",
+  "category": "skoly-autori",
+  "text": "Pozdní Bion: jaký je rozdíl mezi transformací v K a transformací v O?",
+  "options": [
+   "Transformace v K probíhá na straně pacienta, transformace v O na straně analytika; dohromady tvoří pár kontejner–kontejnované na úrovni sezení",
+   "K označuje transformace slovní, O transformace obrazové; Bion je rozlišil podle řádků a sloupců mřížky, do nichž se materiál sezení zapisuje",
+   "V K zkušenost poznáváme zvenčí, 'o ní'; v O se s ní stáváme jedním — O je nepoznatelné, lze v ně jen 'být', a poznání se otevírá až převodem do K",
+   "O je Bionova zkratka pro objekt; transformací v O míní prostou proměnu objektu přenosu, například přesun investice z matky na analytika"
+  ],
+  "correct": 2,
+  "explanation": "O je Bionova šifra pro absolutní pravdu emoční zkušenosti, věc o sobě: nelze ji vědět, pouze jí být (at-one-ment). Poznávání v K zůstává 'věděním o' — užitečné, ale vnější; skutečná psychická změna podle pozdního Biona vyžaduje transformaci v O, přechod od vědění k bytí, a interpretovat lze až to, co se z evoluce O podaří převést do K. S mřížkou, dělbou rolí pacient/analytik ani se záměnou objektů přenosu definice nesouvisí.",
+  "source": "Bion, W. R.: Transformations, 1965; Attention and Interpretation, 1970",
+  "seedElo": 2050
+ },
+ {
+  "id": "son-sko-11",
+  "type": "K",
+  "category": "skoly-autori",
+  "text": "Greenova práce negativu: čím se negativní halucinace liší od vytěsnění?",
+  "options": [
+   "Negativní halucinace je psychotický klam smyslů, vytěsnění neurotická obrana; Green je kladl na protilehlé póly jedné škály obranných operací",
+   "Negativní halucinace škrtá samo vnímání či zápis objektu, kdežto vytěsnění předpokládá již zapsanou reprezentaci a jen ji drží mimo vědomí",
+   "Jde o dvě jména téhož procesu: negativní halucinace je Greenovým překladem Freudova vytěsnění do jazyka teorie reprezentací a investic",
+   "Negativní halucinace se týká jen obrazu vlastního těla v zrcadle, vytěsnění jen objektních reprezentací; dělítkem je směr investice"
+  ],
+  "correct": 1,
+  "explanation": "Pro Greena je negativní halucinace radikálnější než vytěsnění: neodsouvá hotový obsah, ale maže vjem či reprezentaci samu — 'reprezentace absence reprezentace'. Má přitom i strukturující líc: negativní halucinace matky vytváří rámující strukturu (structure encadrante), prázdný rám, do něhož se teprve mohou vpisovat další reprezentace; patologickou se práce negativu stává, když prázdno pohltí investici vůbec. Nejde o smyslový klam v psychiatrickém smyslu ani o synonymum represe.",
+  "source": "Green, A.: Le travail du négatif, 1993",
+  "seedElo": 2150
+ },
+ {
+  "id": "son-sme-01",
+  "type": "X",
+  "category": "smery-mosty",
+  "text": "Klient celé dny bojuje s úzkostí — dechová cvičení, rozptylování, kontrola myšlenek — a je vyčerpaný; úzkost se přesto vrací. Jak by tento obraz nejspíš konceptualizoval terapeut z hlediska ACT?",
+  "options": [
+   "Jako bezpečnostní chování, které krátkodobě uleví, ale brání vyvrácení katastrofických predikcí o úzkosti",
+   "Jako manažerské části, které neustálou kontrolou chrání systém před zaplavením starou exilovou bolestí",
+   "Jako experienciální vyhýbání: jádrem problému není úzkost sama, ale právě boj s ní, který zužuje život",
+   "Jako mód nadměrného kompenzátora, jenž kontrolou prožívání kompenzuje rané schéma zranitelnosti"
+  ],
+  "correct": 2,
+  "explanation": "ACT obrací perspektivu: utrpení nevzniká z přítomnosti nepříjemného prožitku, ale z chronické snahy se ho zbavit (experienciální vyhýbání), která paradoxně prožitek posiluje a spotřebovává život. Terapeut by proto začal 'kreativní beznadějí' — poctivou bilancí, co všechno kontrola stála a co přinesla. Bezpečnostní chování je formulace KBT, manažeři IFS a nadměrná kompenzace schematerapie.",
+  "source": "Hayes, S. C., Strosahl, K. D., Wilson, K. G.: Acceptance and Commitment Therapy, 2nd ed., Guilford Press, 2012",
+  "seedElo": 1500
+ },
+ {
+  "id": "son-sme-02",
+  "type": "X",
+  "category": "smery-mosty",
+  "text": "Klientka s hraniční strukturou po hádce prohlásí: 'Vím naprosto jistě, že mnou pohrdá. Cítím to, tak to tak je.' Jak by tento stav nejspíš popsal terapeut z hlediska MBT?",
+  "options": [
+   "Jako psychickou ekvivalenci: vnitřní stav je prožíván jako fakt o vnější realitě a ztrácí se rozměr 'jako by'",
+   "Jako emoční usuzování — kognitivní omyl, který odvozuje fakta o vnějším světě z aktuálně prožívaného pocitu",
+   "Jako projektivní identifikaci, jíž klientka ukládá do druhého vlastní nesnesitelný sebepohrdavý obsah",
+   "Jako aktivované jádrové schéma nedůvěry a zneužití, které chování druhých jednoznačně čte jako útok"
+  ],
+  "correct": 0,
+  "explanation": "Psychická ekvivalence je jeden z prementalizačních modů: mysl ztrácí schopnost držet vnitřní stav jako reprezentaci ('takhle to teď prožívám') a prožívá ho jako realitu samu — typicky pod vysokým afektem u hraniční patologie. MBT terapeut by nejdřív zpomalil a validoval afekt, teprve pak zvědavě otevíral alternativní čtení. Emoční usuzování je Beckova taxonomie, projektivní identifikace kleiniánská tradice, schéma nedůvěry Young.",
+  "source": "Bateman, A. & Fonagy, P.: Mentalization-Based Treatment for Personality Disorders: A Practical Guide, Oxford University Press, 2016",
+  "seedElo": 1550
+ },
+ {
+  "id": "son-sme-03",
+  "type": "K",
+  "category": "smery-mosty",
+  "text": "Akceptace v ACT i expozice v habituačním pojetí zahrnují záměrný kontakt s nepříjemným prožitkem. V čem se z hlediska ACT zásadně liší?",
+  "options": [
+   "Akceptace je přípravný krok, který má klienta zklidnit natolik, aby následnou expozici vůbec dokázal podstoupit",
+   "Habituační expozice měří úspěch poklesem úzkosti; akceptace je ochota nést prožitek ve službě hodnot",
+   "Akceptace pracuje výhradně s myšlenkovými obsahy, zatímco expozice výhradně s tělesnými reakcemi strachu",
+   "Jde o tentýž proces — ACT expozici pouze přejmenovala, aby se terminologicky vymezila vůči tradiční KBT"
+  ],
+  "correct": 1,
+  "explanation": "V ACT není akceptace technikou na snížení úzkosti — kdyby byla, stala by se jen rafinovanější formou vyhýbání ('přijmu to, aby to odešlo'). Kritériem úspěchu je rozšíření behaviorálního repertoáru směrem k hodnotám, i kdyby úzkost zůstala. Habituační model naopak stavěl právě na poklesu strachu; zajímavé je, že Craskeové inhibiční učení se v tomto bodě k ACT přiblížilo.",
+  "source": "Hayes, S. C., Strosahl, K. D., Wilson, K. G.: Acceptance and Commitment Therapy, 2nd ed., Guilford Press, 2012",
+  "seedElo": 1600
+ },
+ {
+  "id": "son-sme-04",
+  "type": "K",
+  "category": "smery-mosty",
+  "text": "Self jako kontext (ACT) a Self (IFS) znějí podobně. Jaký je mezi nimi klíčový pojmový rozdíl?",
+  "options": [
+   "Self jako kontext je vrozené léčivé jádro osobnosti, kdežto Self v IFS je postupně trénovaná pozorovací dovednost",
+   "Oba pojmy označují totéž — čisté pozorující vědomí bez vlastností, které v terapii nemá žádnou aktivní funkci",
+   "Self jako kontext aktivně řídí a vede vnitřní systém, zatímco Self v IFS je pouze perspektiva, z níž klient pozoruje",
+   "Self jako kontext je čistá perspektiva bez obsahu a vlastností; Self v IFS je aktivní činitel, který systém vede"
+  ],
+  "correct": 3,
+  "explanation": "ACT pojímá self-as-context minimalisticky: je to bezobsažný úhel pohledu ('já tady teď'), z něhož lze prožitky pozorovat, ale který sám nic nedělá a nic nechce. Schwartzovo Self je naopak plnokrevný agent — má vlastnosti (osm C), navazuje vztahy s částmi a přebírá vedení systému. První dvě možnosti atributy obracejí nebo stírají; právě aktivita a kvality Self jsou nejčastější kámen úrazu při srovnávání obou modelů.",
+  "source": "Hayes, S. C. et al.: Acceptance and Commitment Therapy, 2nd ed., 2012; Schwartz, R. C. & Sweezy, M.: Internal Family Systems Therapy, 2nd ed., 2020",
+  "seedElo": 1700
+ },
+ {
+  "id": "son-sme-05",
+  "type": "X",
+  "category": "smery-mosty",
+  "text": "Úspěšná právnička pracuje bez přestávek, odpočinek prožívá jako nebezpečnou ztrátu času a laskavost k sobě ji viditelně zneklidňuje. Jak by tento obraz nejspíš konceptualizoval terapeut z hlediska CFT (Gilbert)?",
+  "options": [
+   "Jako hypertrofii systému motivace a výkonu při zakrnělém systému zklidnění, takže bezpečí umí navodit jen výkonem",
+   "Jako schéma nadměrných nároků, které je udržováno nadměrnou kompenzací hlubšího pocitu vlastní nedostačivosti",
+   "Jako manažerskou část, jež nepřetržitým výkonem chrání mladého exila nesoucího stud z raného ponížení druhými",
+   "Jako chování řízené rigidním pravidlem 'odpočinek rovná se selhání', které brání korektivní zkušenosti s pauzou"
+  ],
+  "correct": 0,
+  "explanation": "CFT pracuje s třemi afektivně-regulačními systémy: ohrožení, motivace/výkon a zklidnění/spojení (soothing). Když soothing systém nebyl v dětství syceně rozvinut, člověk reguluje ohrožení jediným dostupným kanálem — výkonem — a soucit k sobě paradoxně spouští poplach (fear of compassion), což je pro CFT klíčový terapeutický cíl, ne překážka. Nároky se zvládacím stylem jsou Young, manažer s exilem Schwartz, rigidní pravidlo Beck.",
+  "source": "Gilbert, P.: Compassion Focused Therapy: Distinctive Features, Routledge, 2010",
+  "seedElo": 1750
+ },
+ {
+  "id": "son-sme-06",
+  "type": "K",
+  "category": "smery-mosty",
+  "text": "Mód zranitelného dítěte (schematerapie) i exil (IFS) označují bolestivý dětský prožitek v dospělém. Kde leží klíčový pojmový rozdíl?",
+  "options": [
+   "Mód je z definice plně vědomý stav, kdežto exil zůstává trvale a zcela mimo dosah vědomí klienta",
+   "Exil se v terapii posiluje a dostává více prostoru, zatímco mód zranitelného dítěte se oslabuje a vykazuje",
+   "Mód je popis právě aktivovaného stavu; exil je trvalá subosobnost, jež existuje i mimo aktivaci",
+   "Mód nese kromě emocí i vzpomínky a tělesné pocity, kdežto exil obsahuje pouze emoce bez příběhu"
+  ],
+  "correct": 2,
+  "explanation": "Mód je state-pojem: odpovídá na otázku 'co je v klientovi aktivní právě teď' a mimo aktivaci o něm model mlčí. Exil je entita: subosobnost s věkem, pamětí a záměrem, která v systému 'bydlí' nepřetržitě, i když ji ochránci drží stranou — proto s ní lze vyjednávat, ptát se jí a nakonec ji odbřemenit. Oba prožitky bývají částečně mimo vědomí a oběma směry se pečuje, ne vykazuje; vykazuje se trestající rodič, ne dítě.",
+  "source": "Young, J. E. et al.: Schema Therapy, 2003; Schwartz, R. C. & Sweezy, M.: Internal Family Systems Therapy, 2nd ed., 2020",
+  "seedElo": 1800
+ },
+ {
+  "id": "son-sme-07",
+  "type": "K",
+  "category": "smery-mosty",
+  "text": "Schéma opuštění (Young) i internalizovaný opouštějící objekt (teorie objektních vztahů) vysvětlují opakující se prožitky opuštění. V čem se pojmy zásadně liší?",
+  "options": [
+   "Schéma vzniká výhradně v raném dětství, kdežto vnitřní objekt se utváří průběžně až v dospělých vztazích",
+   "Vnitřní objekt je dyáda — reprezentace já a druhého spojená afektem; schéma je dispozice bez vnitřního 'druhého'",
+   "Vnitřní objekt je vědomě dostupná vzpomínka na rodiče, zatímco schéma je zcela nevědomá emoční struktura",
+   "Schéma se projevuje pouze v kognitivních obsazích, kdežto vnitřní objekt pouze v chování uvnitř vztahů"
+  ],
+  "correct": 1,
+  "explanation": "Jednotkou objektně-vztahové teorie je dyáda: reprezentace self, reprezentace objektu a afekt mezi nimi — vnitřní objekt je 'někdo' v psychice, kdo jedná, opouští, soudí, a v přenosu se role dyády obsazují a obracejí. Youngovo schéma je širší dispoziční vzorec (kognice, emoce, tělo, vzpomínky) vázaný na frustraci potřeb, ale bez předpokladu vnitřního agenta-druhého. Oba pojmy vznikají typicky raně a oba jsou převážně latentní, takže zbylá rozlišení neplatí.",
+  "source": "Kernberg, O. F.: Object Relations Theory and Clinical Psychoanalysis, Jason Aronson, 1976; Young, J. E. et al.: Schema Therapy, 2003",
+  "seedElo": 1850
+ },
+ {
+  "id": "son-sme-08",
+  "type": "K",
+  "category": "smery-mosty",
+  "text": "Empatická konfrontace (schematerapie) i konfrontace v TFP (Kernberg, Yeomans) pojmenovávají klientovi něco, co sám nevidí. Čím se oba zásahy technicky liší?",
+  "options": [
+   "Konfrontace v TFP je vyhrazena pro negativní přenos, empatická konfrontace se používá výhradně u pozitivního",
+   "Empatická konfrontace interpretuje nevědomou dyádu objektních vztahů, TFP konfrontace validuje vývojový původ vzorce",
+   "Oba zásahy jsou technicky totožné a liší se pouze názvem, který si každá škola zvolila z historických důvodů",
+   "TFP konfrontace z pozice neutrality ukazuje rozpory; empatická konfrontace validuje původ vzorce a vybízí ke změně"
+  ],
+  "correct": 3,
+  "explanation": "V TFP je konfrontace druhý krok triády klarifikace–konfrontace–interpretace: terapeut z technické neutrality taktně předloží rozpor mezi kanály komunikace (slova, afekt, chování vůči terapeutovi) a tím připraví půdu pro interpretaci odštěpené dyády — sám nic nesytí ani nedoporučuje. Schematerapeut naopak neutralitu programově opouští: vzorec validuje, edukuje o jeho ceně a z pozice limited reparentingu aktivně tlačí ke zdravější alternativě. Druhá možnost atributy směrů obrací.",
+  "source": "Yeomans, F. E., Clarkin, J. F., Kernberg, O. F.: Transference-Focused Psychotherapy for Borderline Personality Disorder, American Psychiatric Publishing, 2015; Young, J. E. et al.: Schema Therapy, 2003",
+  "seedElo": 1900
+ },
+ {
+  "id": "son-sme-09",
+  "type": "K",
+  "category": "smery-mosty",
+  "text": "Self-energie (IFS) i mentalizace (MBT) popisují 'zdravou' pozici mysli vůči vnitřnímu dění. V čem se oba koncepty zásadně rozcházejí?",
+  "options": [
+   "Mentalizace je nabytá schopnost představovat si duševní stavy, jež pod afektem selhává; Self je vrozený stav, jenž se jen odkrývá",
+   "Self-energie je kognitivní operace zaměřená na stavy druhých lidí, mentalizace je prožitkový stav klidu obrácený k sobě",
+   "Mentalizace se týká výhradně porozumění druhým lidem, kdežto Self-energie výhradně vztahu k vlastním vnitřním částem osobnosti",
+   "Oba pojmy označují touž metakognitivní kapacitu a liší se pouze terminologií, kterou každá z obou škol historicky zvolila"
+  ],
+  "correct": 0,
+  "explanation": "Rozdíl je ontologický i technický: mentalizace je vývojový výdobytek — imaginativní činnost o duševních stavech svých i druhých, křehká pod arousal, kterou MBT systematicky cvičí postojem nevědění. Self v IFS není dovednost ani reprezentování, ale stav bytí, jenž nemohl být poškozen a vynoří se sám, jakmile části ustoupí — netrénuje se, uvolňuje se mu cesta. Oba koncepty míří k sobě i k druhým a nejsou synonyma; podobnost je funkční, ne pojmová.",
+  "source": "Bateman, A. & Fonagy, P.: Mentalization-Based Treatment for Personality Disorders, Oxford University Press, 2016; Schwartz, R. C. & Sweezy, M.: Internal Family Systems Therapy, 2nd ed., 2020",
+  "seedElo": 1950
+ },
+ {
+  "id": "son-sme-10",
+  "type": "K",
+  "category": "smery-mosty",
+  "text": "Kognitivní defuze (ACT) i unblending (IFS) oddělují klienta od myšlenky 'jsem bezcenný'. V kterém bodě se oba procesy technicky rozcházejí?",
+  "options": [
+   "Defuze myšlenku racionálně vyvrací důkazy z klientova života, unblending ji naopak přijímá jako pravdivý popis reality",
+   "Unblending je jednorázový akt na začátku terapie, kdežto defuze je celoživotní proces vyžadující každodenní formální praxi",
+   "Defuze mění funkci myšlenky a její obsah už dále nerozvíjí; unblending z ní činí promluvu části, s níž se vede dialog",
+   "Defuze probíhá výhradně imaginativně skrze cvičení, unblending výhradně v přímém rozhovoru mezi klientem a terapeutem"
+  ],
+  "correct": 2,
+  "explanation": "Klíčová hranice je v osudu obsahu po oddělení. ACT obsah záměrně neexploruje — funkce má přednost před obsahem, a rozebírat, proč si mysl myslí 'jsem bezcenný', by fúzi jen krmilo; cílem je, aby výrok ztratil behaviorální nadvládu. IFS jde opačně: po unblendingu se obsah bere vážně jako sdělení části — terapeut se ptá, čeho se část bojí, jak je stará a co nese, protože cílem je vztah a odbřemenění, ne oslabení literárnosti výroku. Defuze myšlenku nevyvrací (to by byla restrukturalizace) a oba procesy se průběžně opakují.",
+  "source": "Hayes, S. C. et al.: Acceptance and Commitment Therapy, 2nd ed., 2012; Schwartz, R. C. & Sweezy, M.: Internal Family Systems Therapy, 2nd ed., 2020",
+  "seedElo": 2050
+ },
+ {
+  "id": "son-sme-11",
+  "type": "K",
+  "category": "smery-mosty",
+  "text": "Jakou roli hraje epistemická důvěra ve Fonagyho a Allisonově revidované teorii terapeutické změny?",
+  "options": [
+   "Je jiným názvem pro pracovní alianci — shodu na cílech a úkolech terapie, která napříč směry nejlépe predikuje výsledek",
+   "Obnovená mentalizováním ve vztahu otevírá kanál sociálního učení, takže se klient znovu učí od druhých i mimo terapii",
+   "Označuje důvěru terapeuta ve vlastní metodu, která se na klienta přenáší primárně placebovým mechanismem očekávání",
+   "Vzniká internalizací terapeuta jako dobrého objektu, který postupně zmírňuje krutost archaického superega"
+  ],
+  "correct": 1,
+  "explanation": "Fonagy s Allisonovou navrhli, že společným jádrem účinných terapií není konkrétní technika, ale znovuotevření epistemické důvěry: zkušenost, že mě druhý přesně mentalizuje, funguje jako ostenzivní signál ('toto sdělení je určeno tobě a je relevantní'), který uzavřený kanál sociálního učení — typicky zavřený u rané adverzity — znovu otevře. Terapie pak působí hlavně tím, že klient začne přijímat nové poznání i od lidí mimo ordinaci. Aliance je Bordinův pojem a internalizace dobrého objektu objektně-vztahová formulace; s placebem teorie nepracuje.",
+  "source": "Fonagy, P. & Allison, E.: The role of mentalizing and epistemic trust in the therapeutic relationship, Psychotherapy, 51(3), 2014",
+  "seedElo": 2150
+ },
+ {
+  "id": "son-str-01",
+  "type": "V",
+  "category": "struktura-diagnostika",
+  "text": "Pan David (34) tři dny po pohřbu otce, s nímž měl blízký vztah, uspořádal velkolepou 'oslavu jeho života', v práci si vzal dva projekty navíc a v sezeních nepřetržitě vtipkuje ('táta by nechtěl, abychom brečeli'). Když terapeut tempo zpomalí, na okamžik prosvitne panika a pacient rychle změní téma. Z hlediska McWilliamsové obraz nejpravděpodobněji odpovídá:",
+  "options": [
+   "Narcistické dynamice — velkolepý výkon jako obrana proti skrytému studu a prázdnotě",
+   "Manické dynamice — popření ztráty a útěk do akce jako obrana proti smutku",
+   "Obsedantní dynamice — únik do pracovní kontroly jako izolace afektu po ztrátě",
+   "Hysterické dynamice — dramatizace prožitku a represe bolestného afektu ze ztráty"
+  ],
+  "correct": 1,
+  "explanation": "Manická (hypomanická) dynamika je dle McWilliamsové rubem depresivní: proti smutku, ztrátě a závislosti se brání popřením, devalvací významu ztráty a útěkem do aktivity, humoru a vzrušení — panika při zpomalení prozrazuje, čemu akce utíká. Narcistický výkon by sloužil obdivu, ne úniku před truchlením; obsedantní izolace afektu by nesla suchou věcnost bez horečnatosti; hysterická represe by afekt dramatizovala, ne popírala vtipem.",
+  "source": "Nancy McWilliams: Psychoanalytická diagnóza, kap. Depresivní a manické osobnosti; Klein: Mourning and Its Relation to Manic-Depressive States",
+  "seedElo": 1500
+ },
+ {
+  "id": "son-str-02",
+  "type": "K",
+  "category": "struktura-diagnostika",
+  "text": "V psychodynamické diagnostice se rozlišuje autoplastická a aloplastická adaptace. Co pojmy označují a jaký mají diagnostický význam?",
+  "options": [
+   "Autoplastická adaptace mění okolí, aloplastická mění sebe; první je typická pro poruchy charakteru, druhá pro symptomové neurózy",
+   "Jde o dva starší názvy pro sublimaci; s opuštěním topografického modelu ztratilo rozlišení diagnostický význam a dnes se neužívá",
+   "Autoplastická adaptace označuje vědomé zvládání, aloplastická nevědomou obranu; rozlišení určuje především indikaci farmakoterapie",
+   "Autoplastická adaptace řeší konflikt změnou sebe (neurózy), aloplastická změnou okolí (charakterová, zvláště psychopatická patologie)"
+  ],
+  "correct": 3,
+  "explanation": "Autoplastické řešení obrací konflikt dovnitř — vzniká symptom, utrpení nese pacient sám, což je typické pro neurotické struktury. Aloplastické řešení konflikt exportuje: mění se, manipuluje či trpí okolí, zatímco rysy zůstávají egosyntonní — vzorec charakterové a zvláště antisociální patologie. Diagnosticky pomáhá odhadnout, kdo v ordinaci skončí dobrovolně (autoplastik) a koho přivede tlak okolí či soud (aloplastik).",
+  "source": "Otto Fenichel: The Psychoanalytic Theory of Neurosis; Nancy McWilliams: Psychoanalytická diagnóza, kap. Charakterová patologie",
+  "seedElo": 1550
+ },
+ {
+  "id": "son-str-03",
+  "type": "V",
+  "category": "struktura-diagnostika",
+  "text": "Paní Olga (29) se partnerům ve všem podřizuje, rozhodnutí od volby práce po oblečení deleguje na druhé, samotu snáší s úzkostí a po rozchodu naváže do měsíce nový vztah, 'aby se měla o koho opřít'. Nikomu nic nevyčítá, netrpí okázale a o partnerech mluví s vděčností. Jádrovou dynamikou je nejpravděpodobněji:",
+  "options": [
+   "Závislá (anaklitická) dynamika — podřízení a delegace kompetence výměnou za péči a vedení",
+   "Masochistická dynamika — utrpení v podřízení jako nevědomý nárok na péči a morální kredit",
+   "Hraniční organizace — panický strach z opuštění s oscilací idealizace a devalvace partnerů",
+   "Depresivní dynamika — introjekce špatnosti objektu a obrácení agrese proti vlastnímu self"
+  ],
+  "correct": 0,
+  "explanation": "Jádrem závislé dynamiky je organizace self kolem vztahu jako opory: kompetence a rozhodování se delegují výměnou za vedení a péči, úzkost budí samostatnost, ne blízkost, a objekt je snadno zaměnitelný — důležitá je funkce opory, ne konkrétní osoba. Masochistickou dynamiku by prozrazovalo předváděné utrpení s výčitkou, hraniční organizaci bouřlivé oscilace a štěpení, depresivní dynamiku tiché sebeobviňování — nic z toho tu není.",
+  "source": "PDM-2 (Lingiardi & McWilliams, eds.), osa P — závislé osobnosti; Bornstein: The Dependent Personality",
+  "seedElo": 1600
+ },
+ {
+  "id": "son-str-04",
+  "type": "F",
+  "category": "struktura-diagnostika",
+  "text": "Osa 'Struktura' v systému operacionalizované psychodynamické diagnostiky OPD-2 hodnotí úroveň strukturální integrace osobnosti. Které úrovně systém rozlišuje?",
+  "options": [
+   "Neurotickou, hraniční a psychotickou úroveň, převzaté beze změny z Kernbergova strukturálního modelu organizace",
+   "Pět úrovní mentalizace od pretendního modu po plné reflektivní fungování podle Fonagyho škály reflektivních funkcí",
+   "Čtyři úrovně: dobrou, omezenou, nízkou a dezintegrovanou integraci, hodnocené na dimenzích self a vztahů",
+   "Tři pásma závažnosti symptomů — lehké, střední a těžké — ukotvená v deskriptivních diagnostických kritériích MKN"
+  ],
+  "correct": 2,
+  "explanation": "OPD-2 hodnotí strukturu na čtyřstupňové škále (dobrá — omezená — nízká — dezintegrovaná integrace, plus mezistupně) napříč dimenzemi, jako jsou vnímání sebe a objektů, regulace self a vztahů, vnitřní a vnější komunikace a schopnost vazby. Na rozdíl od Kernbergovy trojice úrovní jde o jemnější, operacionalizovaný a výzkumně kotvený rating; mentalizační škála RF ani symptomová závažnost dle MKN osou Struktura nejsou.",
+  "source": "OPD Task Force: Operationalized Psychodynamic Diagnosis OPD-2, osa IV (Struktura)",
+  "seedElo": 1700
+ },
+ {
+  "id": "son-str-05",
+  "type": "K",
+  "category": "struktura-diagnostika",
+  "text": "Sidney Blatt rozlišil dvě jádrové konfigurace depresivního prožívání. Jak se liší a jaký mají diagnosticko-terapeutický význam?",
+  "options": [
+   "Anaklitická deprese odpovídá endogennímu typu, introjektivní reaktivnímu; psychoterapie je smysluplně indikována jen u reaktivní formy",
+   "Anaklitická se točí kolem opuštění a bezmoci, introjektivní kolem selhání, viny a sebekritiky; každá žádá jiný terapeutický důraz",
+   "Anaklitická deprese je raně dětská forma, introjektivní její dospělá podoba; jde o vývojová stadia jedné a téže poruchy",
+   "Introjektivní konfigurace se pojí výhradně s hraniční organizací, anaklitická s neurotickou; rozlišení tak určuje úroveň struktury"
+  ],
+  "correct": 1,
+  "explanation": "Blatt popsal anaklitickou (dependentní) konfiguraci organizovanou kolem vztahovosti — jádrem je hrůza z opuštění, osamění a bezmoc — a introjektivní (sebekritickou) organizovanou kolem sebedefinice — jádrem je selhání, vina a nemilosrdný vnitřní kritik. Rozlišení má prediktivní hodnotu: anaklitičtí pacienti těží spíše z podpůrně-vztahových prvků léčby, introjektivní z vhledové interpretační práce. Obě konfigurace se vyskytují napříč úrovněmi organizace.",
+  "source": "Sidney J. Blatt: Experiences of Depression; Blatt: Polarities of Experience (2008)",
+  "seedElo": 1750
+ },
+ {
+  "id": "son-str-06",
+  "type": "V",
+  "category": "struktura-diagnostika",
+  "text": "Pan Robert (41), auditor, je pověstný bezchybností: pracuje do noci, vede si detailní seznamy a kontroluje po sobě každou položku. Chyba v něm ale nevyvolá výčitky svědomí, nýbrž palčivé zahanbení a vztek; kritiku odbývá devalvací ('ten to nemůže posoudit') a dokonalý výkon potřebuje mít viditelně oceněný, jinak pro něj práce 'nemá smysl'. Rozhoduje jádrová dynamika, nikoli povrch — jde nejpravděpodobněji o:",
+  "options": [
+   "Obsedantní dynamiku — perfekcionismus řízený vinou a konfliktem mezi vzdorem a poslušností",
+   "Depresivní dynamiku — sebekritika a perfekcionismus jako splácení introjikované viny",
+   "Masochistickou dynamiku — vyčerpávající dřina jako utrpení předkládané okolí k ocenění",
+   "Narcistickou dynamiku — perfekcionismus ve službě grandiózního self, hnaný studem, ne vinou"
+  ],
+  "correct": 3,
+  "explanation": "Povrch (pečlivost, seznamy, kontrola) je obsedantní, ale jádro prozrazuje afekt po chybě: obsedantní perfekcionista prožívá vinu vůči vnitřní autoritě a pochybuje, narcistický prožívá stud před publikem, kritiku devalvuje a výkon potřebuje zrcadlený obdivem — dokonalost tu sytí grandiózní self, ne svědomí. Depresivní sebekritika by kritiku druhých přijímala jako oprávněnou; masochistická dřina by byla vztahově předváděným utrpením, ne leštěním image.",
+  "source": "Nancy McWilliams: Psychoanalytická diagnóza, kap. Narcistické a Obsedantní osobnosti; Gabbard: Psychodynamická psychiatrie v klinické praxi",
+  "seedElo": 1800
+ },
+ {
+  "id": "son-str-07",
+  "type": "V",
+  "category": "struktura-diagnostika",
+  "text": "Slečna Iveta (24) přichází s tím, že je 'bipolární': propady nálady trvají hodiny až dva dny, spouští je hádka nebo odmítnutí a odeznívají po usmíření; 'nahoře' je, když vztah funguje. Spánek a energie jsou mimo propady stabilní a epizody nikdy netrvají týdny ani nepřicházejí bez zjevného podnětu. Strukturálně přiléhavější čtení afektivního obrazu je:",
+  "options": [
+   "Afektivní nestabilita hraniční organizace — krátké, reaktivní výkyvy spouštěné děním ve vztazích",
+   "Bipolární porucha II — střídání hypomanických a depresivních fází s rychlým cyklováním nálad",
+   "Cyklothymie — mírnější endogenní oscilace nálady, probíhající nezávisle na vnějších událostech",
+   "Manická obrana depresivní dynamiky — popření smutku útěkem do zvýšené aktivity a nových vztahů"
+  ],
+  "correct": 0,
+  "explanation": "Diferenciálním kritériem je tvar a spouštěč výkyvu: hraniční afektivní nestabilita je interpersonálně reaktivní, mění se v řádu hodin až dnů podle stavu vazby a chybí autonomní epizody s vegetativními změnami. Bipolární i cyklothymní oscilace jsou fázické a relativně nezávislé na vztahových podnětech, hypomanie nese změnu spánku a energie po dny až týdny. Záměna vede k letům neúčinné farmakoterapie místo práce se strukturou.",
+  "source": "Gunderson: Borderline Personality Disorder: A Clinical Guide; Paris: The Bipolar Spectrum — Diagnosis or Fad?; PDM-2, osa S",
+  "seedElo": 1850
+ },
+ {
+  "id": "son-str-08",
+  "type": "V",
+  "category": "struktura-diagnostika",
+  "text": "Paní Klára (35) s každým novým partnerem 'kompletně vyměnila' hodnoty, styl, koníčky i politické názory; okolí ji popisuje jako dokonale přizpůsobenou, její vztahy jsou formálně bezchybné. V terapii ochotně přejímá terapeutčin slovník i výklady, ale terapeutka má zvláštní pocit, že mluví s dokonalou napodobeninou vztahu bez skutečné účasti; pacientka sama žádnou tíseň neudává. Nejpřiléhavější pojmenování obrazu je:",
+  "options": [
+   "Falešné self dle Winnicotta — ochranná fasáda kompliance skrývající potlačené pravé self",
+   "Vysoce funkční hysterická dynamika — identifikace s objektem ve službě svádění a péče",
+   "As-if osobnost dle Deutschové — totální bezkonfliktní identifikace místo vlastní identity",
+   "Schizoidní dynamika — povrchová konformita kryjící bohatý, úzkostlivě střežený vnitřní svět"
+  ],
+  "correct": 2,
+  "explanation": "Deutschové as-if osobnost žije plnou, plastickou identifikací s aktuálním objektem — bez vnitřního konfliktu, bez subjektivního pocitu falše a bez vlastního jádra, které by identifikace nahrazovaly; typickým vodítkem je právě protipřenosový dojem 'napodobeniny' vztahu. Winnicottovo falešné self naproti tomu něco chrání — pravé self existuje a fasáda bývá provázena prázdnotou či tísní; schizoidní konformita kryje živý skrytý svět a hysterická identifikace slouží vztahové dynamice, ne náhradě identity.",
+  "source": "Helene Deutsch: Some Forms of Emotional Disturbance and their Relationship to Schizophrenia (1942); Winnicott: Ego Distortion in Terms of True and False Self",
+  "seedElo": 1900
+ },
+ {
+  "id": "son-str-09",
+  "type": "K",
+  "category": "struktura-diagnostika",
+  "text": "Kernberg uvnitř hraničního pásma organizace rozlišuje vyšší a nižší úroveň. Co je hlavním strukturálním kritériem tohoto rozlišení?",
+  "options": [
+   "Přítomnost opakovaného sebepoškozování a chronické suicidality — nižší úroveň hraniční organizace je definována právě jejich výskytem v anamnéze",
+   "Kvalita testování reality — na nižší úrovni je trvale ztracené jako u psychóz, na vyšší jen přechodně oslabené v afektu či regresi",
+   "Počet naplněných deskriptivních kritérií DSM pro hraniční poruchu a celková symptomová zátěž v čase, zejména afektivní nestabilita",
+   "Integrace superega a míra prostoupení agresí — nižší pásmo tvoří maligní narcismus a antisociální struktura, vyšší si drží kapacitu viny a vazby"
+  ],
+  "correct": 3,
+  "explanation": "Uvnitř hraniční organizace vede dělítko po ose superega a agrese: vyšší pásmo (např. závislé, histriónské, masochistické struktury) si drží kapacitu viny, závazku a péče o objekt, nižší pásmo (maligní narcismus, antisociální struktura) má superego fragmentované či zkorumpované a agrese je egosyntonní — což je hlavní prognostický prediktor. Testování reality je zachované v celém hraničním pásmu; sebepoškozování ani počet DSM kritérií strukturu nedefinují.",
+  "source": "Otto F. Kernberg: Severe Personality Disorders; Caligor, Kernberg, Clarkin: Handbook of Dynamic Psychotherapy for Higher Level Personality Pathology",
+  "seedElo": 1950
+ },
+ {
+  "id": "son-str-10",
+  "type": "V",
+  "category": "struktura-diagnostika",
+  "text": "Pan Igor (38), forenzní ambulance, odsouzen za vydírání a ublížení na zdraví. Je grandiózní, okolí čte jako nepřátele ('kdo neudeří první, prohrál') a násilí popisuje s uspokojením. Zároveň však: k jedinému příteli z mládí je léta loajální i proti vlastnímu zájmu, po činu namířeném proti bratrovi měl týdny trýznivé výčitky a k terapeutovi si přes kontrolu a testování postupně vytváří závislý, chvílemi idealizující přenos. Strukturálně nejpřiléhavější zařazení je:",
+  "options": [
+   "Maligní narcismus — sadismus a paranoidní rysy při ostrůvkovité kapacitě loajality, viny a vazby",
+   "Antisociální (psychopatická) organizace — vztahy čistě instrumentální, bez jakékoli kapacity vazby a viny",
+   "Narcistická porucha na vyšší úrovni organizace — grandiozita s neporušenou kapacitou vztahů a svědomí",
+   "Paranoidní osobnost na hraniční úrovni — projekce agrese s perzekučním čtením veškerých vztahů"
+  ],
+  "correct": 0,
+  "explanation": "Rozhodují ostrůvky neinstrumentálního vztahu: dlouhodobá loajalita proti vlastnímu zájmu, autentická vina a schopnost závislého či idealizujícího přenosu jsou přesně ty zbytky superega a objektní vazby, které dle Kernberga odlišují maligní narcismus od plné antisociální organizace — tam by přenos zůstal čistě exploativní a vina chyběla. Pro narcistickou poruchu vyšší úrovně je obraz příliš prostoupen egosyntonním sadismem; paranoidní čtení je přítomné, ale nevysvětluje grandiozitu ani uspokojení z násilí.",
+  "source": "Otto F. Kernberg: Severe Personality Disorders; Kernberg: Aggression in Personality Disorders and Perversions",
+  "seedElo": 2050
+ },
+ {
+  "id": "son-str-11",
+  "type": "K",
+  "category": "struktura-diagnostika",
+  "text": "Protipřenos může sloužit jako diferenciálně diagnostické vodítko mezi antisociální (psychopatickou) organizací a maligním narcismem. Který popis odpovídá typickému rozdílu?",
+  "options": [
+   "U psychopatie terapeut prožívá především nudu a pocit zbytečnosti, u maligního narcismu difuzní strach a nejistotu z pacientovy naprosté nepředvídatelnosti",
+   "U maligního narcismu terapeut cítí čistě soucit s oběťmi pacientových činů, u psychopatie idealizující obdiv k pacientově inteligenci a společenskému šarmu",
+   "U psychopatie predátorský mráz — pocit, že jsem chladně čten a klamán, bez vztahového tahu; u maligního narcismu vtažení do boje o moc s momenty kontaktu",
+   "Protipřenos tyto dvě organizace spolehlivě nerozliší, protože vzniká výhradně z terapeutovy vlastní patologie, nikoli z pacientova interpersonálního tlaku"
+  ],
+  "correct": 2,
+  "explanation": "U psychopatické organizace je typický protipřenos predátorsko-prey: mrazivý pocit, že jsem odhadován jako kořist a klamán, s nápadnou absencí vztahového tahu — 'nikdo tam není'. U maligního narcismu terapeut bývá vtahován do sadomasochistického zápasu o moc a ponížení, ale s momenty skutečného kontaktu, závislosti či deprese, které odpovídají zbytkové kapacitě vazby. Nuda je klasický protipřenos běžné narcistické dynamiky, ne psychopatie; protipřenos jako čistý artefakt terapeuta je předkleinovské čtení, které o objektním tlaku pacienta nic neví.",
+  "source": "J. Reid Meloy: The Psychopathic Mind; Gabbard: Psychodynamická psychiatrie v klinické praxi; Kernberg: Severe Personality Disorders",
+  "seedElo": 2150
+ },
+ {
+  "id": "son-vyv-01",
+  "type": "F",
+  "category": "vyvoj",
+  "text": "Co znamená Bowlbyho pojem monotropie a jak se vztahuje k dalším attachmentovým postavám?",
+  "options": [
+   "Dítě se dokáže připoutat pouze k biologické matce; ostatní pečující osoby attachment nevytvářejí",
+   "Dítě má vrozený sklon preferovat jednu hlavní attachmentovou postavu na vrcholu hierarchie dalších figur",
+   "Kvalita attachmentu k matce se automaticky a beze změny přenáší na všechny další vztahy dítěte",
+   "Dítě se váže ke všem pečujícím osobám rovnocenně a preferenci mezi nimi vytváří až pozdější zkušenost"
+  ],
+  "correct": 1,
+  "explanation": "Monotropie označuje vrozený sklon vytvořit hierarchii attachmentových figur s jednou preferovanou osobou na vrcholu — tou, k níž se dítě uchyluje především při ohrožení. Nemusí jít o biologickou matku a další figury (otec, prarodiče) attachment plnohodnotně vytvářejí, jen stojí v hierarchii níže. Nejde ani o rovnocennost figur, ani o automatický přenos kvality vztahu.",
+  "source": "Bowlby, J.: Attachment and Loss, Vol. 1: Attachment, 1969, kap. 15",
+  "seedElo": 1500
+ },
+ {
+  "id": "son-vyv-02",
+  "type": "K",
+  "category": "vyvoj",
+  "text": "Který rys mateřské péče v prvním roce podle Ainsworthové baltimorské studie nejlépe predikoval jistý attachment ve dvanácti měsících?",
+  "options": [
+   "Celkové množství času stráveného v těsném tělesném kontaktu s dítětem",
+   "Množství podnětové stimulace a aktivního povzbuzování dítěte k exploraci",
+   "Důslednost pevného režimu krmení a spánku nezávisle na signálech dítěte",
+   "Senzitivita — přesné čtení signálů dítěte a promptní, přiléhavá odpověď na ně"
+  ],
+  "correct": 3,
+  "explanation": "Baltimorská domácí pozorování ukázala, že jistotu ve Strange Situation nejlépe predikuje mateřská senzitivita: schopnost signály dítěte vnímat, správně interpretovat a včas a přiměřeně na ně odpovědět. Samotné množství kontaktu ani stimulace prediktorem nebylo a rigidní režim ignorující signály se pojil spíše s nejistotou. Senzitivita se hodnotila na Ainsworthové devítibodových škálách.",
+  "source": "Ainsworth, M. D. S., Blehar, M., Waters, E., Wall, S.: Patterns of Attachment, 1978",
+  "seedElo": 1550
+ },
+ {
+  "id": "son-vyv-03",
+  "type": "K",
+  "category": "vyvoj",
+  "text": "V čem spočívá podle Winnicotta paradox schopnosti být sám (capacity to be alone)?",
+  "options": [
+   "Vzniká zkušeností bytí o samotě v přítomnosti matky, která je nevtíravě k dispozici",
+   "Vzniká postupným prodlužováním separací od matky úměrně věku a zralosti dítěte",
+   "Je vrozenou dispozicí, kterou nadměrně pečující matka svou přítomností oslabuje",
+   "Vzniká identifikací s otcem jako třetím, který dítě vyvazuje ze symbiózy s matkou"
+  ],
+  "correct": 0,
+  "explanation": "Winnicottův paradox zní: schopnost být sám se rodí ze zkušenosti být sám za přítomnosti druhého. Dítě, které si hraje vedle nevtíravě dostupné matky, může být ponořeno do vlastního prožívání bez nároku reagovat — a tuto podpůrnou přítomnost postupně zvnitřní jako dobré vnitřní prostředí. Tréninkem separací ani vrozenou dispozicí kapacita nevzniká; oidipská triangulace je jiný rámec.",
+  "source": "Winnicott, D. W.: The Capacity to be Alone, IJP, 1958",
+  "seedElo": 1600
+ },
+ {
+  "id": "son-vyv-04",
+  "type": "K",
+  "category": "vyvoj",
+  "text": "Co jsou v teorii Daniela Sterna RIGs (reprezentace zobecněných interakcí) a jaký jev z nich vyplývá?",
+  "options": [
+   "Vrozená percepční schémata lidského obličeje, z nichž plyne novorozenecká vizuální preference tváří",
+   "Symbolické fantazie o rodičích, z nichž plyne obsahová podoba pozdějších přenosových reakcí",
+   "Zobecněné paměťové struktury opakovaných interakčních epizod; jejich aktivací vzniká evokovaný společník",
+   "Vědomě vybavitelné vzpomínky na jednotlivé události s matkou, z nichž plyne autobiografická paměť"
+  ],
+  "correct": 2,
+  "explanation": "RIG (Representation of Interactions that have been Generalized) je prototypická paměťová struktura vydestilovaná z mnoha podobných interakčních epizod — „jak to chodí, když jsem s mámou rozrušený\". Její aktivace v nové situaci vyvolá „evokovaného společníka\": prožitkovou přítomnost druhého i v jeho fyzické nepřítomnosti. Jde o preverbální, procedurální reprezentace, ne o symbolické fantazie ani vědomé epizodické vzpomínky.",
+  "source": "Stern, D.: The Interpersonal World of the Infant, 1985, kap. 5",
+  "seedElo": 1700
+ },
+ {
+  "id": "son-vyv-05",
+  "type": "V",
+  "category": "vyvoj",
+  "text": "Muž v AAI vypráví o raných vztazích vcelku uceleně. Když dojde na otcovu smrt, řekne: „Otec zemřel v devadesátém… je to tak lepší, hlídá mě, když v noci řídím,\" na půl minuty ztichne a pak plynule pokračuje jiným tématem. Podle kritéria lapsů v monitorování uvažování a diskurzu toto svědčí nejspíše pro kterou klasifikaci?",
+  "options": [
+   "Preoccupied (E) — narativ pohlcený dosud živým hněvem a zapleteností vůči zemřelému otci",
+   "Unresolved (U) — lokální kolaps monitorování diskurzu u tématu ztráty na organizovaném pozadí",
+   "Dismissing (Ds) — plošná idealizace otce bez konkrétních epizodických dokladů v paměti",
+   "Cannot Classify (CC) — globální rozpad či míšení narativních strategií napříč celým rozhovorem"
+  ],
+  "correct": 1,
+  "explanation": "Výrok, v němž mrtvý otec současně nežije a aktivně „hlídá\", je typický laps v monitorování uvažování (mrtvý jako nadále jednající), doplněný lapsem diskurzu (nepřiznané dlouhé mlčení). Klasifikace U se přiděluje právě za takové lokální kolapsy u ztráty či traumatu, zatímco zbytek narativu může být koherentní — U se proto uvádí s podkladovou organizovanou kategorií. Pro E chybí hněvivá zapletenost, pro CC globální rozpad celého rozhovoru.",
+  "source": "Main, M., Goldwyn, R.: Adult Attachment Scoring and Classification System; Hesse, E. in: Cassidy & Shaver (eds.): Handbook of Attachment, 2008",
+  "seedElo": 1750
+ },
+ {
+  "id": "son-vyv-06",
+  "type": "K",
+  "category": "vyvoj",
+  "text": "Čím Lyons-Ruth rozšířila hypotézu Main a Hesseho o vzniku dezorganizovaného attachmentu (typ D)?",
+  "options": [
+   "Prokázala, že dezorganizaci působí jen zjevné týrání a hrubé zanedbávání, nikoli subtilnější chování pečující osoby",
+   "Ukázala, že vystrašené (frightened) chování matky dezorganizaci predikuje, zatímco děsivé (frightening) chování nikoli",
+   "Přesunula vysvětlení z chování matky na temperamentovou dráždivost dítěte doloženou behaviorální genetikou",
+   "Doložila, že D predikuje i širší narušená komunikace matky — rozporné signály, záměna rolí — bez zjevně děsivého chování"
+  ],
+  "correct": 3,
+  "explanation": "Main a Hesse vysvětlovali dezorganizaci vystrašeným či děsivým chováním rodiče. Lyons-Ruth s kolegy (systém AMBIANCE) doložila, že D predikuje širší spektrum narušené afektivní komunikace: afektivní chyby (protichůdné signály, nereagování na distres), dezorientace, negativně-intruzivní chování, záměna rolí a stažení — i tam, kde nic zjevně děsivého nepozorujeme. Dezorganizace tedy nevyžaduje týrání a temperamentové vysvětlení data nepodporují.",
+  "source": "Lyons-Ruth, K., Bronfman, E., Parsons, E.: Atypical maternal behavior and disorganized infant attachment, Monographs of the SRCD, 1999",
+  "seedElo": 1800
+ },
+ {
+  "id": "son-vyv-07",
+  "type": "V",
+  "category": "vyvoj",
+  "text": "Pacientka s hraniční poruchou osobnosti popisuje, že v ní „sedí někdo cizí, kdo ji nenávidí\". Úlevu zažívá, když partnera vyprovokuje k výbuchu — nenávist je pak venku, v něm. Sebepořezání popisuje jako „vyříznutí toho cizího\". Z hlediska Fonagyho vývojového modelu tento obraz nejpřesněji vystihuje který pojem?",
+  "options": [
+   "Alien self — zvnitřněný cizorodý díl self z nekontingentního zrcadlení, externalizovaný do druhých",
+   "Falešné self — fasáda z compliance, jež skrývá spontánní pravé jádro před nároky prostředí",
+   "Projektivní identifikace v kleiniánském smyslu — fantazijní umístění odštěpené části ega do vnějšího objektu",
+   "Identifikace s agresorem — obranné převzetí role a atributů útočníka v pojetí Anny Freudové"
+  ],
+  "correct": 0,
+  "explanation": "Alien self vzniká, když dítě místo svého zrcadleného stavu zvnitřní nekontingentní či neznačkovanou reprezentaci stavu rodiče — v self pak sídlí cizorodá, často perzekuční část. Nutkavá externalizace (vyprovokovat druhého, aby cizí část nesl on) a sebepoškození jako pokus zbavit se jí tělesně jsou přesně mechanismy, jimiž Fonagy vysvětluje hraniční dynamiku. Winnicottovo falešné self je fasáda compliance, ne nenávistný vnitřní obyvatel; kleiniánská projektivní identifikace popisuje fantazii bez tohoto vývojového mechanismu zrcadlení.",
+  "source": "Fonagy, P., Gergely, G., Jurist, E., Target, M.: Affect Regulation, Mentalization, and the Development of the Self, 2002",
+  "seedElo": 1850
+ },
+ {
+  "id": "son-vyv-08",
+  "type": "K",
+  "category": "vyvoj",
+  "text": "Co podle Winnicotta (The Use of an Object) umožňuje dítěti přejít od vztahování se k objektu (object-relating) k jeho užívání (object-usage)?",
+  "options": [
+   "Matčino aktivní a zveličené zrcadlení agresivních impulzů dítěte v bezpečném rámci hry",
+   "Slovní interpretace destruktivních fantazií dítěte ze strany rodiče nebo terapeuta",
+   "Přežití objektu — ustojí destrukci bez odvety a bez zhroucení, a tím se stane reálným",
+   "Vytěsnění destruktivity do nevědomí a její nahrazení reaktivní vděčností vůči objektu"
+  ],
+  "correct": 2,
+  "explanation": "Ve vztahování je objekt ještě svazkem projekcí; reálným a užitečným se stane teprve tehdy, když dítě objekt ve fantazii „zničí\" a objekt destrukci přežije — neoplatí ji, nezhroutí se, nestáhne se. Tím se ocitá mimo dosah dětské omnipotence, tedy skutečně venku, a lze ho užívat jako nezávislý zdroj. Interpretace ani vytěsnění tento krok nezajistí; klíčové je přežití, ne zrcadlení agrese.",
+  "source": "Winnicott, D. W.: The Use of an Object, IJP, 1969; Playing and Reality, 1971",
+  "seedElo": 1900
+ },
+ {
+  "id": "son-vyv-09",
+  "type": "K",
+  "category": "vyvoj",
+  "text": "Čím se v Sternově pojetí liší vitalitní afekty (vitality affects) od kategoriálních afektů?",
+  "options": [
+   "Vitalitní jsou vrozené a univerzální, kategoriální se dítě učí až sociálním odkazováním z tváře matky v druhém půlroce",
+   "Vitalitní jsou dynamické kontury prožívání — vzdouvání, odeznívání, výbuch — provázející každý akt; kategoriální jsou diskrétní emoce",
+   "Vitalitní afekty jsou čistě fyziologické aktivace bez psychického obsahu, kategoriální afekty jsou tytéž aktivace po kognitivním zhodnocení situace",
+   "Vitalitní afekty patří vynořujícímu se self a v dalším vývoji mizí, kategoriální afekty nastupují s jádrovým self a přetrvávají celý život"
+  ],
+  "correct": 1,
+  "explanation": "Vitalitní afekty jsou časově-dynamické kvality prožívání — crescendo, odplývání, exploze, váhavost — přítomné v každém chování bez ohledu na to, zda probíhá nějaká kategoriální emoce; Stern je popisoval kinetickými termíny. Kategoriální afekty jsou diskrétní darwinovské emoce (radost, hněv, smutek). Právě vitalitní kontury jsou hlavním médiem afektové atunace a podle Sterna nikdy nemizí — nesou hudební a taneční rozměr prožívání po celý život.",
+  "source": "Stern, D.: The Interpersonal World of the Infant, 1985, kap. 3",
+  "seedElo": 1950
+ },
+ {
+  "id": "son-vyv-10",
+  "type": "K",
+  "category": "vyvoj",
+  "text": "Jakou roli přisoudila Mary Main (1991) metakognitivnímu monitorování v attachmentovém výzkumu?",
+  "options": [
+   "Je v jejím pojetí přesným synonymem Fonagyho reflektivní funkce a hodnotí se toutéž devítibodovou škálou na AAI",
+   "Umožňuje dítěti již ve Strange Situation vědomě přepínat mezi minimalizační strategií typu A a maximalizační strategií typu C",
+   "V AAI se projevuje sledováním vlastní řeči a jejích omylů; souvisí s jistotou a s ochranou před přenosem traumatu",
+   "Rozvíjí se nezávisle na attachmentové historii jako čistě exekutivní kognitivní funkce dozrávající až ve školním věku"
+  ],
+  "correct": 2,
+  "explanation": "Main rozlišila metakognitivní znalost (chápání zdání a skutečnosti, reprezentační změny) a metakognitivní monitorování — průběžné sledování vlastního myšlení a řeči, v AAI viditelné v komentářích typu „vlastně si protiřečím\". Koherentní, jistí mluvčí monitorují více; u dětí může rozvinutá metakognice tlumit dopad děsivé zkušenosti, a působí tak proti mezigeneračnímu přenosu. S reflektivní funkcí koncept úzce souvisí a byl jejím předchůdcem, ale není to totéž ani tatáž škála; o vědomé volbě strategie batoletem Main nemluví.",
+  "source": "Main, M.: Metacognitive knowledge, metacognitive monitoring, and singular (coherent) vs. multiple (incoherent) models of attachment, in: Parkes, Stevenson-Hinde, Marris (eds.): Attachment Across the Life Cycle, 1991",
+  "seedElo": 2050
+ },
+ {
+  "id": "son-vyv-11",
+  "type": "K",
+  "category": "vyvoj",
+  "text": "V čem klasifikace hostile–helpless (HH) stavů mysli podle Lyons-Ruth doplňuje standardní kategorii unresolved (U) na AAI?",
+  "options": [
+   "HH nahrazuje kategorii U u těch mluvčích, kteří žádnou ztrátu ani trauma nezažili, a kóduje se výhradně u této skupiny respondentů",
+   "HH je oficiální subtyp kategorie preoccupied (E3), vyhrazený pro mluvčí s diagnostikovanou hraniční poruchou osobnosti",
+   "HH kóduje neverbální doprovod výpovědí při rozhovoru, zatímco U se opírá výhradně o jazykový obsah pasáží o traumatu",
+   "HH zachycuje globálně nezintegrovaná, protikladná hodnocení figur v celém přepisu; U jen lokální lapsy u ztráty a traumatu"
+  ],
+  "correct": 3,
+  "explanation": "Kódování U je vázáno na lokální lapsy v pasážích o ztrátě a traumatu, takže míjí mluvčí, jejichž trauma je vztahové a prostupuje celý narativ. HH se kóduje napříč celým přepisem: hostilní pól charakterizuje identifikace s hostilní pečující figurou při jejím současném znehodnocení, bezmocný pól prostupující bezmoc a strach. HH predikuje dezorganizaci dítěte i nad rámec U a hraniční patologii, ale není subtypem E ani náhradou U a neopírá se o neverbální kódování.",
+  "source": "Lyons-Ruth, K., Yellin, C., Melnick, S., Atwood, G.: Expanding the concept of unresolved mental states: Hostile/Helpless states of mind, Development and Psychopathology, 2005",
+  "seedElo": 2150
+ },
+ {
+  "id": "son-vyz-01",
+  "type": "F",
+  "category": "vyzkum-etika-dejiny",
+  "text": "Co požadovala kritéria hnutí empiricky podložených léčeb (Division 12 APA, Chambless a Hollon) pro zařazení terapie mezi „well-established“?",
+  "options": [
+   "Nejméně jednu metaanalýzu s celkovým vzorkem přes tisíc léčených pacientů a pětiletým katamnestickým follow-upem",
+   "Formální konsensus mezinárodního expertního panelu složeného ze zástupců všech hlavních terapeutických směrů",
+   "Nejméně dvě kvalitní studie nezávislých týmů prokazující převahu nad placebem či rovnocennost s etablovanou léčbou",
+   "Doložení specifického psychologického mechanismu účinku terapie v kontrolovaných laboratorních experimentech"
+  ],
+  "correct": 2,
+  "explanation": "Kritéria stála na replikovaných skupinových experimentech (nebo sérii experimentů s jedním případem) od nezávislých výzkumných týmů, s léčebným manuálem a jasně definovanou populací. Metaanalýza ani expertní konsensus podmínkou nebyly a mechanismus účinku se neprokazoval. Hnutí vyvolalo dlouhý spor: kritici namítali, že kritéria zvýhodňují manualizované terapie a krátkodobé studie.",
+  "source": "Chambless, D. L., & Hollon, S. D. (1998). Defining empirically supported therapies. Journal of Consulting and Clinical Psychology, 66(1).",
+  "seedElo": 1500
+ },
+ {
+  "id": "son-vyz-02",
+  "type": "F",
+  "category": "vyzkum-etika-dejiny",
+  "text": "K jakému hlavnímu závěru dospěla velká studie NIMH TDCRP (Elkin a kol.) srovnávající KBT, interpersonální terapii, imipramin a placebo u deprese?",
+  "options": [
+   "U mírnější deprese se podmínky včetně placeba s klinickým vedením lišily jen málo; imipramin vynikl až u těžší deprese",
+   "KBT jednoznačně překonala interpersonální terapii i antidepresivní medikaci ve všech výsledkových měřeních studie",
+   "Placebo se ukázalo jako zcela neúčinné a naprostá většina pacientů v této podmínce léčbu předčasně ukončila",
+   "Interpersonální terapie fungovala pouze v kombinaci s antidepresivní medikací, samostatně podávaná nikoli"
+  ],
+  "correct": 0,
+  "explanation": "TDCRP nenašla u mírnější deprese podstatné rozdíly mezi rameny — i placebo s podpůrným klinickým vedením si vedlo překvapivě dobře. Sekundární analýzy podle závažnosti ukázaly převahu imipraminu (a částečně IPT) u těžší deprese. Studie se stala klasickou ukázkou toho, jak málo se bona fide léčby liší a jak silné je podpůrné vedení samo o sobě.",
+  "source": "Elkin, I., et al. (1989). National Institute of Mental Health Treatment of Depression Collaborative Research Program. Archives of General Psychiatry, 46(11); Elkin, I., et al. (1995). Initial severity and differential treatment outcome. Journal of Consulting and Clinical Psychology, 63(5).",
+  "seedElo": 1550
+ },
+ {
+  "id": "son-vyz-03",
+  "type": "F",
+  "category": "vyzkum-etika-dejiny",
+  "text": "Co ustanovila takzvaná boulderská konference z roku 1949 pro výcvik klinických psychologů?",
+  "options": [
+   "Model praktického doktorátu PsyD zaměřeného čistě na klinickou práci bez výzkumného výcviku",
+   "Model scientist-practitioner: klinický psycholog má být vzdělán zároveň jako výzkumník i praktik",
+   "Povinnou osobní výcvikovou analýzu jako podmínku udělení klinické licence ve Spojených státech",
+   "Úplné oddělení klinické psychologie od univerzit do samostatných léčebných institutů"
+  ],
+  "correct": 1,
+  "explanation": "Konference v Boulderu v Coloradu definovala klinického psychologa jako vědce i praktika v jedné osobě — doktorát měl zahrnovat výzkumný výcvik i supervidovanou praxi. Model PsyD vznikl až jako reakce na konferenci ve Vailu roku 1973 (practitioner-scholar). Boulderský model dodnes rámuje debatu o vztahu vědy a praxe v klinické psychologii.",
+  "source": "Raimy, V. C. (Ed.) (1950). Training in Clinical Psychology (Boulder Conference). Prentice-Hall.",
+  "seedElo": 1600
+ },
+ {
+  "id": "son-vyz-04",
+  "type": "K",
+  "category": "vyzkum-etika-dejiny",
+  "text": "Kontrast statistická vs. klinická významnost výsledku terapie (Jacobson a Truax): které tvrzení rozdíl vystihuje správně?",
+  "options": [
+   "Statistická významnost se počítá ze standardizovaných dotazníků, klinická z klinického rozhovoru s pacientem",
+   "Jde o dva rovnocenné názvy téhož jevu: p-hodnota pod 0,05 automaticky znamená i klinickou významnost výsledku",
+   "Klinická významnost je subjektivní dojem ošetřujícího terapeuta, který nelze žádným způsobem standardizovaně měřit",
+   "Statistická významnost říká, že skupinový rozdíl není náhoda; klinická, že se jednotlivec posunul do pásma běžné populace"
+  ],
+  "correct": 3,
+  "explanation": "Jacobson a Truax operacionalizovali klinickou významnost dvěma kritérii: indexem spolehlivé změny (RCI — změna větší, než vysvětlí chyba měření) a překročením hranice mezi klinickou a neklinickou populací. Skupinově významný efekt může znamenat, že se mnoho pacientů zlepšilo jen kosmeticky. Rozlišení se stalo standardem vykazování výsledků terapie.",
+  "source": "Jacobson, N. S., & Truax, P. (1991). Clinical significance: A statistical approach to defining meaningful change in psychotherapy research. Journal of Consulting and Clinical Psychology, 59(1).",
+  "seedElo": 1700
+ },
+ {
+  "id": "son-vyz-05",
+  "type": "E",
+  "category": "vyzkum-etika-dejiny",
+  "text": "Terapeutka zvažuje, že si klienta vyhledá na internetu, protože je zvědavá na jeho profesní úspěchy, o nichž na sezeních mluví. Podle etické literatury o patient-targeted googling — jaké je klíčové kritérium, zda vyhledání provést?",
+  "options": [
+   "Zda existuje klinické zdůvodnění v zájmu léčby a zda je terapeutka připravena krok transparentně otevřít",
+   "Zda jsou informace veřejně dostupné; co je jednou veřejné, může terapeut volně číst bez dalších omezení",
+   "Zda vyhledávání proběhne mimo pracovní dobu terapeutky a na jejím soukromém, nikoli pracovním zařízení",
+   "Zda klient sám aktivně používá veřejné sociální sítě; pak s vyhledáním implicitně souhlasí"
+  ],
+  "correct": 0,
+  "explanation": "Doporučení (Clinton, Silverman a Brendel) staví na sérii otázek před vyhledáním: proč to chci udělat, prospěje či uškodí to léčbě, mám to sdělit klientovi a jak naložím s nálezem. Veřejná dostupnost informací etickou otázku neruší — problém je v jednostranném, skrytém aktu, který mění vztah a obchází klientovu autonomii. Výjimkou mohou být situace akutního rizika.",
+  "source": "Clinton, B. K., Silverman, B. C., & Brendel, D. H. (2010). Patient-targeted googling: The ethics of searching online for patient information. Harvard Review of Psychiatry, 18(2).",
+  "seedElo": 1750
+ },
+ {
+  "id": "son-vyz-06",
+  "type": "E",
+  "category": "vyzkum-etika-dejiny",
+  "text": "Pojišťovna argumentuje Howardovou dose-response křivkou: „Po dvanácti sezeních se křivka zplošťuje, delší léčba tedy pacientům už téměř nic nepřináší.“ Z metodologického hlediska — v čem je hlavní chyba tohoto závěru?",
+  "options": [
+   "Křivka byla spočítána výhradně na psychodynamických terapiích, takže pro ostatní terapeutické směry neplatí",
+   "Howardova původní data ukázala přísně lineární vztah, takže se žádné zplošťování přínosu dalších sezení nekoná",
+   "Délka léčby není přidělena náhodně — klienti končí, když se zlepší; z agregované křivky nelze kauzálně předepsat dávku",
+   "Pouhých dvanáct sezení je příliš malý počet na spolehlivé statistické měření jakéhokoli skutečného léčebného efektu"
+  ],
+  "correct": 2,
+  "explanation": "Průřezová dose-response data trpí endogenitou délky léčby: pomaleji se lepšící klienti zůstávají déle, rychle zlepšení odcházejí dřív. Model „good enough level“ (Barkham, Stiles; Baldwin a kol.) ukázal, že tempo změny se liší podle celkové délky léčby — klienti s více sezeními se lepší pomaleji, ale lepší se. Z agregované křivky proto nelze odvodit strop užitečné dávky pro jednotlivce.",
+  "source": "Baldwin, S. A., Berkeljon, A., Atkins, D. C., Olsen, J. A., & Nielsen, S. L. (2009). Rates of change in naturalistic psychotherapy: Contrasting dose-effect and good-enough level models. Journal of Consulting and Clinical Psychology, 77(2).",
+  "seedElo": 1800
+ },
+ {
+  "id": "son-vyz-07",
+  "type": "F",
+  "category": "vyzkum-etika-dejiny",
+  "text": "Co podle výzkumu Andersona a kolegů predikuje rozdíly ve výsledcích mezi terapeuty (therapist effects)?",
+  "options": [
+   "Celkový počet let klinické praxe spolu s množstvím absolvovaných certifikovaných výcviků",
+   "Facilitativní interpersonální dovednosti měřené výkonovým testem reakcí na klientské podněty",
+   "Teoretická orientace terapeuta v kombinaci s jeho nejvyšším dosaženým akademickým titulem",
+   "Skóre terapeuta v sebeposuzovacích dotaznících osobnostních rysů, zejména v přívětivosti"
+  ],
+  "correct": 1,
+  "explanation": "Anderson a kolegové nechali terapeuty reagovat na nahrávky náročných klientských momentů a hodnotili vřelost, přesvědčivost, empatickou přesnost či práci s kritikou. Tyto facilitativní interpersonální dovednosti predikovaly výsledky jejich reálných klientů, zatímco zkušenost a teoretická orientace nikoli. Nález podporuje přesun otázky od „která metoda“ k „které dovednosti“ a je oporou hnutí deliberate practice.",
+  "source": "Anderson, T., Ogles, B. M., Patterson, C. L., Lambert, M. J., & Vermeersch, D. A. (2009). Therapist effects: Facilitative interpersonal skills as a predictor of therapist success. Journal of Clinical Psychology, 65(7).",
+  "seedElo": 1850
+ },
+ {
+  "id": "son-vyz-08",
+  "type": "F",
+  "category": "vyzkum-etika-dejiny",
+  "text": "Co jsou sudden gains (Tang a DeRubeis) a který nález komplikuje jejich původní kognitivní vysvětlení?",
+  "options": [
+   "Zlepšení v prvních třech sezeních; komplikací je, že se objevují jen u lehkých depresí",
+   "Skoková zlepšení po skončení léčby; komplikací je, že je nelze měřit běžnými dotazníky",
+   "Náhlá zlepšení vyvolaná změnou medikace; komplikací je, že se týkají jen farmakoterapie",
+   "Velká, převážně trvalá zlepšení mezi dvěma sezeními; komplikací je, že se objevují i mimo KBT"
+  ],
+  "correct": 3,
+  "explanation": "Tang a DeRubeis popsali u KBT deprese náhlé meziseansní skoky, které tvořily podstatnou část celkové změny a predikovaly lepší výsledek; původně je spojovali s kognitivními změnami v předcházejícím sezení. Pozdější studie ale našly sudden gains i v psychodynamické či podpůrné léčbě, a dokonce v kontrolních podmínkách. To oslabuje výklad, že jde o specifický produkt kognitivních technik, a činí z nich obecný fenomén procesu změny.",
+  "source": "Tang, T. Z., & DeRubeis, R. J. (1999). Sudden gains and critical sessions in cognitive-behavioral therapy for depression. Journal of Consulting and Clinical Psychology, 67(6); Aderka, I. M., et al. (2012). Sudden gains during psychological treatments: A meta-analysis. Journal of Consulting and Clinical Psychology, 80(1).",
+  "seedElo": 1900
+ },
+ {
+  "id": "son-vyz-09",
+  "type": "F",
+  "category": "vyzkum-etika-dejiny",
+  "text": "Jak moderní studie s opakovaným měřením (Falkenström, Zilcha-Mano a další) posunuly debatu o kauzalitě vztahu aliance a výsledku?",
+  "options": [
+   "Oddělily vnitroosobní složku: kolísání aliance u téhož klienta předpovídá následnou změnu symptomů",
+   "Prokázaly, že aliance je pouze vedlejším produktem symptomatické úlevy a vlastní kauzální vliv nemá",
+   "Ukázaly, že aliance působí jen u klientů s vyhýbavou vztahovou vazbou, u ostatních nikoli",
+   "Zjistily, že korelace aliance a výsledku vzniká výhradně chybou společné metody měření"
+  ],
+  "correct": 0,
+  "explanation": "Klasická korelace mezi klienty směšuje dvě věci: že klienti s lepší aliancí mívají lepší výsledky (může jít o vlastnosti klientů) a že zlepšení aliance předchází zlepšení symptomů u téhož člověka. Víceúrovňové disagregované analýzy ukázaly, že i vnitroosobní složka predikuje následnou změnu — sezení s nadprůměrnou aliancí předchází většímu poklesu symptomů. Zilcha-Mano na tom staví rozlišení trait-like a state-like aliance.",
+  "source": "Falkenström, F., Granström, F., & Holmqvist, R. (2013). Therapeutic alliance predicts symptomatic improvement session by session. Journal of Counseling Psychology, 60(3); Zilcha-Mano, S. (2017). Is the alliance really therapeutic? American Psychologist, 72(4).",
+  "seedElo": 1950
+ },
+ {
+  "id": "son-vyz-10",
+  "type": "F",
+  "category": "vyzkum-etika-dejiny",
+  "text": "Co zjistil Pim Cuijpers s kolegy, když metaanalýzu psychoterapie deprese korigovali na publikační zkreslení?",
+  "options": [
+   "Průměrný efekt po korekci vzrostl z g kolem 0,45 na hodnoty kolem 0,60",
+   "Průměrný efekt klesl z hodnot kolem 0,67 na hodnoty kolem 0,42",
+   "Korekce efekt prakticky nezměnila, zkreslení se ukázalo jako zanedbatelné",
+   "Průměrný efekt po korekci klesl na hodnoty kolem nuly, tedy k neúčinnosti"
+  ],
+  "correct": 1,
+  "explanation": "Cuijpersův tým ukázal asymetrii funnel plotu odpovídající nepublikovaným malým studiím s nulovými výsledky; po korekci metodou trim-and-fill klesl průměrný efekt psychoterapie deprese zhruba z 0,67 na 0,42. Terapie tedy zůstává účinná, ale mírněji, než tvrdila nekorigovaná literatura. Navazující práce téhož týmu dále snižovaly odhad při omezení na studie s nízkým rizikem zkreslení.",
+  "source": "Cuijpers, P., Smit, F., Bohlmeijer, E., Hollon, S. D., & Andersson, G. (2010). Efficacy of cognitive-behavioural therapy and other psychological treatments for adult depression: Meta-analytic study of publication bias. British Journal of Psychiatry, 196(3).",
+  "seedElo": 2050
+ },
+ {
+  "id": "son-vyz-11",
+  "type": "F",
+  "category": "vyzkum-etika-dejiny",
+  "text": "Která postava raného psychoanalytického hnutí ve stati z roku 1912 předjala koncept pudu smrti, což Freud později přiznal v poznámce v Mimo princip slasti?",
+  "options": [
+   "Lou Andreas-Salomé ve stati o narcismu jako dvojím směřování",
+   "Viktor Tausk v práci o „ovlivňovacím stroji“ u schizofrenie",
+   "Sabina Spielreinová v práci Destrukce jako příčina vznikání",
+   "Herbert Silberer v práci o symbolice a autosymbolickém fenoménu"
+  ],
+  "correct": 2,
+  "explanation": "Spielreinová — bývalá pacientka Junga v Burghölzli, později analytička a členka vídeňské společnosti — v textu Die Destruktion als Ursache des Werdens argumentovala, že pudový život obsahuje destruktivní složku spjatou s rozpouštěním já. Freud v Mimo princip slasti (1920) v poznámce uvedl, že podstatnou část těchto úvah anticipovala. Zavražděna byla roku 1942 při nacistickém masakru v Rostově; její dílo bylo znovuobjeveno až v 70. a 80. letech.",
+  "source": "Spielrein, S. (1912). Die Destruktion als Ursache des Werdens. Jahrbuch für psychoanalytische und psychopathologische Forschungen, 4; Freud, S. (1920). Jenseits des Lustprinzips (pozn. ke kap. VI).",
+  "seedElo": 2150
+ }
+]

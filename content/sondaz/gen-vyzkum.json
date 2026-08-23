@@ -1,0 +1,178 @@
+[
+ {
+  "id": "son-vyz-01",
+  "type": "F",
+  "category": "vyzkum-etika-dejiny",
+  "text": "Co požadovala kritéria hnutí empiricky podložených léčeb (Division 12 APA, Chambless a Hollon) pro zařazení terapie mezi „well-established“?",
+  "options": [
+   "Nejméně jednu metaanalýzu s celkovým vzorkem přes tisíc léčených pacientů a pětiletým katamnestickým follow-upem",
+   "Formální konsensus mezinárodního expertního panelu složeného ze zástupců všech hlavních terapeutických směrů",
+   "Nejméně dvě kvalitní studie nezávislých týmů prokazující převahu nad placebem či rovnocennost s etablovanou léčbou",
+   "Doložení specifického psychologického mechanismu účinku terapie v kontrolovaných laboratorních experimentech"
+  ],
+  "correct": 2,
+  "explanation": "Kritéria stála na replikovaných skupinových experimentech (nebo sérii experimentů s jedním případem) od nezávislých výzkumných týmů, s léčebným manuálem a jasně definovanou populací. Metaanalýza ani expertní konsensus podmínkou nebyly a mechanismus účinku se neprokazoval. Hnutí vyvolalo dlouhý spor: kritici namítali, že kritéria zvýhodňují manualizované terapie a krátkodobé studie.",
+  "source": "Chambless, D. L., & Hollon, S. D. (1998). Defining empirically supported therapies. Journal of Consulting and Clinical Psychology, 66(1).",
+  "seedElo": 1500
+ },
+ {
+  "id": "son-vyz-02",
+  "type": "F",
+  "category": "vyzkum-etika-dejiny",
+  "text": "K jakému hlavnímu závěru dospěla velká studie NIMH TDCRP (Elkin a kol.) srovnávající KBT, interpersonální terapii, imipramin a placebo u deprese?",
+  "options": [
+   "U mírnější deprese se podmínky včetně placeba s klinickým vedením lišily jen málo; imipramin vynikl až u těžší deprese",
+   "KBT jednoznačně překonala interpersonální terapii i antidepresivní medikaci ve všech výsledkových měřeních studie",
+   "Placebo se ukázalo jako zcela neúčinné a naprostá většina pacientů v této podmínce léčbu předčasně ukončila",
+   "Interpersonální terapie fungovala pouze v kombinaci s antidepresivní medikací, samostatně podávaná nikoli"
+  ],
+  "correct": 0,
+  "explanation": "TDCRP nenašla u mírnější deprese podstatné rozdíly mezi rameny — i placebo s podpůrným klinickým vedením si vedlo překvapivě dobře. Sekundární analýzy podle závažnosti ukázaly převahu imipraminu (a částečně IPT) u těžší deprese. Studie se stala klasickou ukázkou toho, jak málo se bona fide léčby liší a jak silné je podpůrné vedení samo o sobě.",
+  "source": "Elkin, I., et al. (1989). National Institute of Mental Health Treatment of Depression Collaborative Research Program. Archives of General Psychiatry, 46(11); Elkin, I., et al. (1995). Initial severity and differential treatment outcome. Journal of Consulting and Clinical Psychology, 63(5).",
+  "seedElo": 1550
+ },
+ {
+  "id": "son-vyz-03",
+  "type": "F",
+  "category": "vyzkum-etika-dejiny",
+  "text": "Co ustanovila takzvaná boulderská konference z roku 1949 pro výcvik klinických psychologů?",
+  "options": [
+   "Model praktického doktorátu PsyD zaměřeného čistě na klinickou práci bez výzkumného výcviku",
+   "Model scientist-practitioner: klinický psycholog má být vzdělán zároveň jako výzkumník i praktik",
+   "Povinnou osobní výcvikovou analýzu jako podmínku udělení klinické licence ve Spojených státech",
+   "Úplné oddělení klinické psychologie od univerzit do samostatných léčebných institutů"
+  ],
+  "correct": 1,
+  "explanation": "Konference v Boulderu v Coloradu definovala klinického psychologa jako vědce i praktika v jedné osobě — doktorát měl zahrnovat výzkumný výcvik i supervidovanou praxi. Model PsyD vznikl až jako reakce na konferenci ve Vailu roku 1973 (practitioner-scholar). Boulderský model dodnes rámuje debatu o vztahu vědy a praxe v klinické psychologii.",
+  "source": "Raimy, V. C. (Ed.) (1950). Training in Clinical Psychology (Boulder Conference). Prentice-Hall.",
+  "seedElo": 1600
+ },
+ {
+  "id": "son-vyz-04",
+  "type": "K",
+  "category": "vyzkum-etika-dejiny",
+  "text": "Kontrast statistická vs. klinická významnost výsledku terapie (Jacobson a Truax): které tvrzení rozdíl vystihuje správně?",
+  "options": [
+   "Statistická významnost se počítá ze standardizovaných dotazníků, klinická z klinického rozhovoru s pacientem",
+   "Jde o dva rovnocenné názvy téhož jevu: p-hodnota pod 0,05 automaticky znamená i klinickou významnost výsledku",
+   "Klinická významnost je subjektivní dojem ošetřujícího terapeuta, který nelze žádným způsobem standardizovaně měřit",
+   "Statistická významnost říká, že skupinový rozdíl není náhoda; klinická, že se jednotlivec posunul do pásma běžné populace"
+  ],
+  "correct": 3,
+  "explanation": "Jacobson a Truax operacionalizovali klinickou významnost dvěma kritérii: indexem spolehlivé změny (RCI — změna větší, než vysvětlí chyba měření) a překročením hranice mezi klinickou a neklinickou populací. Skupinově významný efekt může znamenat, že se mnoho pacientů zlepšilo jen kosmeticky. Rozlišení se stalo standardem vykazování výsledků terapie.",
+  "source": "Jacobson, N. S., & Truax, P. (1991). Clinical significance: A statistical approach to defining meaningful change in psychotherapy research. Journal of Consulting and Clinical Psychology, 59(1).",
+  "seedElo": 1700
+ },
+ {
+  "id": "son-vyz-05",
+  "type": "E",
+  "category": "vyzkum-etika-dejiny",
+  "text": "Terapeutka zvažuje, že si klienta vyhledá na internetu, protože je zvědavá na jeho profesní úspěchy, o nichž na sezeních mluví. Podle etické literatury o patient-targeted googling — jaké je klíčové kritérium, zda vyhledání provést?",
+  "options": [
+   "Zda existuje klinické zdůvodnění v zájmu léčby a zda je terapeutka připravena krok transparentně otevřít",
+   "Zda jsou informace veřejně dostupné; co je jednou veřejné, může terapeut volně číst bez dalších omezení",
+   "Zda vyhledávání proběhne mimo pracovní dobu terapeutky a na jejím soukromém, nikoli pracovním zařízení",
+   "Zda klient sám aktivně používá veřejné sociální sítě; pak s vyhledáním implicitně souhlasí"
+  ],
+  "correct": 0,
+  "explanation": "Doporučení (Clinton, Silverman a Brendel) staví na sérii otázek před vyhledáním: proč to chci udělat, prospěje či uškodí to léčbě, mám to sdělit klientovi a jak naložím s nálezem. Veřejná dostupnost informací etickou otázku neruší — problém je v jednostranném, skrytém aktu, který mění vztah a obchází klientovu autonomii. Výjimkou mohou být situace akutního rizika.",
+  "source": "Clinton, B. K., Silverman, B. C., & Brendel, D. H. (2010). Patient-targeted googling: The ethics of searching online for patient information. Harvard Review of Psychiatry, 18(2).",
+  "seedElo": 1750
+ },
+ {
+  "id": "son-vyz-06",
+  "type": "E",
+  "category": "vyzkum-etika-dejiny",
+  "text": "Pojišťovna argumentuje Howardovou dose-response křivkou: „Po dvanácti sezeních se křivka zplošťuje, delší léčba tedy pacientům už téměř nic nepřináší.“ Z metodologického hlediska — v čem je hlavní chyba tohoto závěru?",
+  "options": [
+   "Křivka byla spočítána výhradně na psychodynamických terapiích, takže pro ostatní terapeutické směry neplatí",
+   "Howardova původní data ukázala přísně lineární vztah, takže se žádné zplošťování přínosu dalších sezení nekoná",
+   "Délka léčby není přidělena náhodně — klienti končí, když se zlepší; z agregované křivky nelze kauzálně předepsat dávku",
+   "Pouhých dvanáct sezení je příliš malý počet na spolehlivé statistické měření jakéhokoli skutečného léčebného efektu"
+  ],
+  "correct": 2,
+  "explanation": "Průřezová dose-response data trpí endogenitou délky léčby: pomaleji se lepšící klienti zůstávají déle, rychle zlepšení odcházejí dřív. Model „good enough level“ (Barkham, Stiles; Baldwin a kol.) ukázal, že tempo změny se liší podle celkové délky léčby — klienti s více sezeními se lepší pomaleji, ale lepší se. Z agregované křivky proto nelze odvodit strop užitečné dávky pro jednotlivce.",
+  "source": "Baldwin, S. A., Berkeljon, A., Atkins, D. C., Olsen, J. A., & Nielsen, S. L. (2009). Rates of change in naturalistic psychotherapy: Contrasting dose-effect and good-enough level models. Journal of Consulting and Clinical Psychology, 77(2).",
+  "seedElo": 1800
+ },
+ {
+  "id": "son-vyz-07",
+  "type": "F",
+  "category": "vyzkum-etika-dejiny",
+  "text": "Co podle výzkumu Andersona a kolegů predikuje rozdíly ve výsledcích mezi terapeuty (therapist effects)?",
+  "options": [
+   "Celkový počet let klinické praxe spolu s množstvím absolvovaných certifikovaných výcviků",
+   "Facilitativní interpersonální dovednosti měřené výkonovým testem reakcí na klientské podněty",
+   "Teoretická orientace terapeuta v kombinaci s jeho nejvyšším dosaženým akademickým titulem",
+   "Skóre terapeuta v sebeposuzovacích dotaznících osobnostních rysů, zejména v přívětivosti"
+  ],
+  "correct": 1,
+  "explanation": "Anderson a kolegové nechali terapeuty reagovat na nahrávky náročných klientských momentů a hodnotili vřelost, přesvědčivost, empatickou přesnost či práci s kritikou. Tyto facilitativní interpersonální dovednosti predikovaly výsledky jejich reálných klientů, zatímco zkušenost a teoretická orientace nikoli. Nález podporuje přesun otázky od „která metoda“ k „které dovednosti“ a je oporou hnutí deliberate practice.",
+  "source": "Anderson, T., Ogles, B. M., Patterson, C. L., Lambert, M. J., & Vermeersch, D. A. (2009). Therapist effects: Facilitative interpersonal skills as a predictor of therapist success. Journal of Clinical Psychology, 65(7).",
+  "seedElo": 1850
+ },
+ {
+  "id": "son-vyz-08",
+  "type": "F",
+  "category": "vyzkum-etika-dejiny",
+  "text": "Co jsou sudden gains (Tang a DeRubeis) a který nález komplikuje jejich původní kognitivní vysvětlení?",
+  "options": [
+   "Zlepšení v prvních třech sezeních; komplikací je, že se objevují jen u lehkých depresí",
+   "Skoková zlepšení po skončení léčby; komplikací je, že je nelze měřit běžnými dotazníky",
+   "Náhlá zlepšení vyvolaná změnou medikace; komplikací je, že se týkají jen farmakoterapie",
+   "Velká, převážně trvalá zlepšení mezi dvěma sezeními; komplikací je, že se objevují i mimo KBT"
+  ],
+  "correct": 3,
+  "explanation": "Tang a DeRubeis popsali u KBT deprese náhlé meziseansní skoky, které tvořily podstatnou část celkové změny a predikovaly lepší výsledek; původně je spojovali s kognitivními změnami v předcházejícím sezení. Pozdější studie ale našly sudden gains i v psychodynamické či podpůrné léčbě, a dokonce v kontrolních podmínkách. To oslabuje výklad, že jde o specifický produkt kognitivních technik, a činí z nich obecný fenomén procesu změny.",
+  "source": "Tang, T. Z., & DeRubeis, R. J. (1999). Sudden gains and critical sessions in cognitive-behavioral therapy for depression. Journal of Consulting and Clinical Psychology, 67(6); Aderka, I. M., et al. (2012). Sudden gains during psychological treatments: A meta-analysis. Journal of Consulting and Clinical Psychology, 80(1).",
+  "seedElo": 1900
+ },
+ {
+  "id": "son-vyz-09",
+  "type": "F",
+  "category": "vyzkum-etika-dejiny",
+  "text": "Jak moderní studie s opakovaným měřením (Falkenström, Zilcha-Mano a další) posunuly debatu o kauzalitě vztahu aliance a výsledku?",
+  "options": [
+   "Oddělily vnitroosobní složku: kolísání aliance u téhož klienta předpovídá následnou změnu symptomů",
+   "Prokázaly, že aliance je pouze vedlejším produktem symptomatické úlevy a vlastní kauzální vliv nemá",
+   "Ukázaly, že aliance působí jen u klientů s vyhýbavou vztahovou vazbou, u ostatních nikoli",
+   "Zjistily, že korelace aliance a výsledku vzniká výhradně chybou společné metody měření"
+  ],
+  "correct": 0,
+  "explanation": "Klasická korelace mezi klienty směšuje dvě věci: že klienti s lepší aliancí mívají lepší výsledky (může jít o vlastnosti klientů) a že zlepšení aliance předchází zlepšení symptomů u téhož člověka. Víceúrovňové disagregované analýzy ukázaly, že i vnitroosobní složka predikuje následnou změnu — sezení s nadprůměrnou aliancí předchází většímu poklesu symptomů. Zilcha-Mano na tom staví rozlišení trait-like a state-like aliance.",
+  "source": "Falkenström, F., Granström, F., & Holmqvist, R. (2013). Therapeutic alliance predicts symptomatic improvement session by session. Journal of Counseling Psychology, 60(3); Zilcha-Mano, S. (2017). Is the alliance really therapeutic? American Psychologist, 72(4).",
+  "seedElo": 1950
+ },
+ {
+  "id": "son-vyz-10",
+  "type": "F",
+  "category": "vyzkum-etika-dejiny",
+  "text": "Co zjistil Pim Cuijpers s kolegy, když metaanalýzu psychoterapie deprese korigovali na publikační zkreslení?",
+  "options": [
+   "Průměrný efekt po korekci vzrostl z g kolem 0,45 na hodnoty kolem 0,60",
+   "Průměrný efekt klesl z hodnot kolem 0,67 na hodnoty kolem 0,42",
+   "Korekce efekt prakticky nezměnila, zkreslení se ukázalo jako zanedbatelné",
+   "Průměrný efekt po korekci klesl na hodnoty kolem nuly, tedy k neúčinnosti"
+  ],
+  "correct": 1,
+  "explanation": "Cuijpersův tým ukázal asymetrii funnel plotu odpovídající nepublikovaným malým studiím s nulovými výsledky; po korekci metodou trim-and-fill klesl průměrný efekt psychoterapie deprese zhruba z 0,67 na 0,42. Terapie tedy zůstává účinná, ale mírněji, než tvrdila nekorigovaná literatura. Navazující práce téhož týmu dále snižovaly odhad při omezení na studie s nízkým rizikem zkreslení.",
+  "source": "Cuijpers, P., Smit, F., Bohlmeijer, E., Hollon, S. D., & Andersson, G. (2010). Efficacy of cognitive-behavioural therapy and other psychological treatments for adult depression: Meta-analytic study of publication bias. British Journal of Psychiatry, 196(3).",
+  "seedElo": 2050
+ },
+ {
+  "id": "son-vyz-11",
+  "type": "F",
+  "category": "vyzkum-etika-dejiny",
+  "text": "Která postava raného psychoanalytického hnutí ve stati z roku 1912 předjala koncept pudu smrti, což Freud později přiznal v poznámce v Mimo princip slasti?",
+  "options": [
+   "Lou Andreas-Salomé ve stati o narcismu jako dvojím směřování",
+   "Viktor Tausk v práci o „ovlivňovacím stroji“ u schizofrenie",
+   "Sabina Spielreinová v práci Destrukce jako příčina vznikání",
+   "Herbert Silberer v práci o symbolice a autosymbolickém fenoménu"
+  ],
+  "correct": 2,
+  "explanation": "Spielreinová — bývalá pacientka Junga v Burghölzli, později analytička a členka vídeňské společnosti — v textu Die Destruktion als Ursache des Werdens argumentovala, že pudový život obsahuje destruktivní složku spjatou s rozpouštěním já. Freud v Mimo princip slasti (1920) v poznámce uvedl, že podstatnou část těchto úvah anticipovala. Zavražděna byla roku 1942 při nacistickém masakru v Rostově; její dílo bylo znovuobjeveno až v 70. a 80. letech.",
+  "source": "Spielrein, S. (1912). Die Destruktion als Ursache des Werdens. Jahrbuch für psychoanalytische und psychopathologische Forschungen, 4; Freud, S. (1920). Jenseits des Lustprinzips (pozn. ke kap. VI).",
+  "seedElo": 2150
+ }
+]

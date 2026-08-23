@@ -1,0 +1,178 @@
+[
+ {
+  "id": "son-sme-01",
+  "type": "X",
+  "category": "smery-mosty",
+  "text": "Klient celé dny bojuje s úzkostí — dechová cvičení, rozptylování, kontrola myšlenek — a je vyčerpaný; úzkost se přesto vrací. Jak by tento obraz nejspíš konceptualizoval terapeut z hlediska ACT?",
+  "options": [
+   "Jako bezpečnostní chování, které krátkodobě uleví, ale brání vyvrácení katastrofických predikcí o úzkosti",
+   "Jako manažerské části, které neustálou kontrolou chrání systém před zaplavením starou exilovou bolestí",
+   "Jako experienciální vyhýbání: jádrem problému není úzkost sama, ale právě boj s ní, který zužuje život",
+   "Jako mód nadměrného kompenzátora, jenž kontrolou prožívání kompenzuje rané schéma zranitelnosti"
+  ],
+  "correct": 2,
+  "explanation": "ACT obrací perspektivu: utrpení nevzniká z přítomnosti nepříjemného prožitku, ale z chronické snahy se ho zbavit (experienciální vyhýbání), která paradoxně prožitek posiluje a spotřebovává život. Terapeut by proto začal 'kreativní beznadějí' — poctivou bilancí, co všechno kontrola stála a co přinesla. Bezpečnostní chování je formulace KBT, manažeři IFS a nadměrná kompenzace schematerapie.",
+  "source": "Hayes, S. C., Strosahl, K. D., Wilson, K. G.: Acceptance and Commitment Therapy, 2nd ed., Guilford Press, 2012",
+  "seedElo": 1500
+ },
+ {
+  "id": "son-sme-02",
+  "type": "X",
+  "category": "smery-mosty",
+  "text": "Klientka s hraniční strukturou po hádce prohlásí: 'Vím naprosto jistě, že mnou pohrdá. Cítím to, tak to tak je.' Jak by tento stav nejspíš popsal terapeut z hlediska MBT?",
+  "options": [
+   "Jako psychickou ekvivalenci: vnitřní stav je prožíván jako fakt o vnější realitě a ztrácí se rozměr 'jako by'",
+   "Jako emoční usuzování — kognitivní omyl, který odvozuje fakta o vnějším světě z aktuálně prožívaného pocitu",
+   "Jako projektivní identifikaci, jíž klientka ukládá do druhého vlastní nesnesitelný sebepohrdavý obsah",
+   "Jako aktivované jádrové schéma nedůvěry a zneužití, které chování druhých jednoznačně čte jako útok"
+  ],
+  "correct": 0,
+  "explanation": "Psychická ekvivalence je jeden z prementalizačních modů: mysl ztrácí schopnost držet vnitřní stav jako reprezentaci ('takhle to teď prožívám') a prožívá ho jako realitu samu — typicky pod vysokým afektem u hraniční patologie. MBT terapeut by nejdřív zpomalil a validoval afekt, teprve pak zvědavě otevíral alternativní čtení. Emoční usuzování je Beckova taxonomie, projektivní identifikace kleiniánská tradice, schéma nedůvěry Young.",
+  "source": "Bateman, A. & Fonagy, P.: Mentalization-Based Treatment for Personality Disorders: A Practical Guide, Oxford University Press, 2016",
+  "seedElo": 1550
+ },
+ {
+  "id": "son-sme-03",
+  "type": "K",
+  "category": "smery-mosty",
+  "text": "Akceptace v ACT i expozice v habituačním pojetí zahrnují záměrný kontakt s nepříjemným prožitkem. V čem se z hlediska ACT zásadně liší?",
+  "options": [
+   "Akceptace je přípravný krok, který má klienta zklidnit natolik, aby následnou expozici vůbec dokázal podstoupit",
+   "Habituační expozice měří úspěch poklesem úzkosti; akceptace je ochota nést prožitek ve službě hodnot",
+   "Akceptace pracuje výhradně s myšlenkovými obsahy, zatímco expozice výhradně s tělesnými reakcemi strachu",
+   "Jde o tentýž proces — ACT expozici pouze přejmenovala, aby se terminologicky vymezila vůči tradiční KBT"
+  ],
+  "correct": 1,
+  "explanation": "V ACT není akceptace technikou na snížení úzkosti — kdyby byla, stala by se jen rafinovanější formou vyhýbání ('přijmu to, aby to odešlo'). Kritériem úspěchu je rozšíření behaviorálního repertoáru směrem k hodnotám, i kdyby úzkost zůstala. Habituační model naopak stavěl právě na poklesu strachu; zajímavé je, že Craskeové inhibiční učení se v tomto bodě k ACT přiblížilo.",
+  "source": "Hayes, S. C., Strosahl, K. D., Wilson, K. G.: Acceptance and Commitment Therapy, 2nd ed., Guilford Press, 2012",
+  "seedElo": 1600
+ },
+ {
+  "id": "son-sme-04",
+  "type": "K",
+  "category": "smery-mosty",
+  "text": "Self jako kontext (ACT) a Self (IFS) znějí podobně. Jaký je mezi nimi klíčový pojmový rozdíl?",
+  "options": [
+   "Self jako kontext je vrozené léčivé jádro osobnosti, kdežto Self v IFS je postupně trénovaná pozorovací dovednost",
+   "Oba pojmy označují totéž — čisté pozorující vědomí bez vlastností, které v terapii nemá žádnou aktivní funkci",
+   "Self jako kontext aktivně řídí a vede vnitřní systém, zatímco Self v IFS je pouze perspektiva, z níž klient pozoruje",
+   "Self jako kontext je čistá perspektiva bez obsahu a vlastností; Self v IFS je aktivní činitel, který systém vede"
+  ],
+  "correct": 3,
+  "explanation": "ACT pojímá self-as-context minimalisticky: je to bezobsažný úhel pohledu ('já tady teď'), z něhož lze prožitky pozorovat, ale který sám nic nedělá a nic nechce. Schwartzovo Self je naopak plnokrevný agent — má vlastnosti (osm C), navazuje vztahy s částmi a přebírá vedení systému. První dvě možnosti atributy obracejí nebo stírají; právě aktivita a kvality Self jsou nejčastější kámen úrazu při srovnávání obou modelů.",
+  "source": "Hayes, S. C. et al.: Acceptance and Commitment Therapy, 2nd ed., 2012; Schwartz, R. C. & Sweezy, M.: Internal Family Systems Therapy, 2nd ed., 2020",
+  "seedElo": 1700
+ },
+ {
+  "id": "son-sme-05",
+  "type": "X",
+  "category": "smery-mosty",
+  "text": "Úspěšná právnička pracuje bez přestávek, odpočinek prožívá jako nebezpečnou ztrátu času a laskavost k sobě ji viditelně zneklidňuje. Jak by tento obraz nejspíš konceptualizoval terapeut z hlediska CFT (Gilbert)?",
+  "options": [
+   "Jako hypertrofii systému motivace a výkonu při zakrnělém systému zklidnění, takže bezpečí umí navodit jen výkonem",
+   "Jako schéma nadměrných nároků, které je udržováno nadměrnou kompenzací hlubšího pocitu vlastní nedostačivosti",
+   "Jako manažerskou část, jež nepřetržitým výkonem chrání mladého exila nesoucího stud z raného ponížení druhými",
+   "Jako chování řízené rigidním pravidlem 'odpočinek rovná se selhání', které brání korektivní zkušenosti s pauzou"
+  ],
+  "correct": 0,
+  "explanation": "CFT pracuje s třemi afektivně-regulačními systémy: ohrožení, motivace/výkon a zklidnění/spojení (soothing). Když soothing systém nebyl v dětství syceně rozvinut, člověk reguluje ohrožení jediným dostupným kanálem — výkonem — a soucit k sobě paradoxně spouští poplach (fear of compassion), což je pro CFT klíčový terapeutický cíl, ne překážka. Nároky se zvládacím stylem jsou Young, manažer s exilem Schwartz, rigidní pravidlo Beck.",
+  "source": "Gilbert, P.: Compassion Focused Therapy: Distinctive Features, Routledge, 2010",
+  "seedElo": 1750
+ },
+ {
+  "id": "son-sme-06",
+  "type": "K",
+  "category": "smery-mosty",
+  "text": "Mód zranitelného dítěte (schematerapie) i exil (IFS) označují bolestivý dětský prožitek v dospělém. Kde leží klíčový pojmový rozdíl?",
+  "options": [
+   "Mód je z definice plně vědomý stav, kdežto exil zůstává trvale a zcela mimo dosah vědomí klienta",
+   "Exil se v terapii posiluje a dostává více prostoru, zatímco mód zranitelného dítěte se oslabuje a vykazuje",
+   "Mód je popis právě aktivovaného stavu; exil je trvalá subosobnost, jež existuje i mimo aktivaci",
+   "Mód nese kromě emocí i vzpomínky a tělesné pocity, kdežto exil obsahuje pouze emoce bez příběhu"
+  ],
+  "correct": 2,
+  "explanation": "Mód je state-pojem: odpovídá na otázku 'co je v klientovi aktivní právě teď' a mimo aktivaci o něm model mlčí. Exil je entita: subosobnost s věkem, pamětí a záměrem, která v systému 'bydlí' nepřetržitě, i když ji ochránci drží stranou — proto s ní lze vyjednávat, ptát se jí a nakonec ji odbřemenit. Oba prožitky bývají částečně mimo vědomí a oběma směry se pečuje, ne vykazuje; vykazuje se trestající rodič, ne dítě.",
+  "source": "Young, J. E. et al.: Schema Therapy, 2003; Schwartz, R. C. & Sweezy, M.: Internal Family Systems Therapy, 2nd ed., 2020",
+  "seedElo": 1800
+ },
+ {
+  "id": "son-sme-07",
+  "type": "K",
+  "category": "smery-mosty",
+  "text": "Schéma opuštění (Young) i internalizovaný opouštějící objekt (teorie objektních vztahů) vysvětlují opakující se prožitky opuštění. V čem se pojmy zásadně liší?",
+  "options": [
+   "Schéma vzniká výhradně v raném dětství, kdežto vnitřní objekt se utváří průběžně až v dospělých vztazích",
+   "Vnitřní objekt je dyáda — reprezentace já a druhého spojená afektem; schéma je dispozice bez vnitřního 'druhého'",
+   "Vnitřní objekt je vědomě dostupná vzpomínka na rodiče, zatímco schéma je zcela nevědomá emoční struktura",
+   "Schéma se projevuje pouze v kognitivních obsazích, kdežto vnitřní objekt pouze v chování uvnitř vztahů"
+  ],
+  "correct": 1,
+  "explanation": "Jednotkou objektně-vztahové teorie je dyáda: reprezentace self, reprezentace objektu a afekt mezi nimi — vnitřní objekt je 'někdo' v psychice, kdo jedná, opouští, soudí, a v přenosu se role dyády obsazují a obracejí. Youngovo schéma je širší dispoziční vzorec (kognice, emoce, tělo, vzpomínky) vázaný na frustraci potřeb, ale bez předpokladu vnitřního agenta-druhého. Oba pojmy vznikají typicky raně a oba jsou převážně latentní, takže zbylá rozlišení neplatí.",
+  "source": "Kernberg, O. F.: Object Relations Theory and Clinical Psychoanalysis, Jason Aronson, 1976; Young, J. E. et al.: Schema Therapy, 2003",
+  "seedElo": 1850
+ },
+ {
+  "id": "son-sme-08",
+  "type": "K",
+  "category": "smery-mosty",
+  "text": "Empatická konfrontace (schematerapie) i konfrontace v TFP (Kernberg, Yeomans) pojmenovávají klientovi něco, co sám nevidí. Čím se oba zásahy technicky liší?",
+  "options": [
+   "Konfrontace v TFP je vyhrazena pro negativní přenos, empatická konfrontace se používá výhradně u pozitivního",
+   "Empatická konfrontace interpretuje nevědomou dyádu objektních vztahů, TFP konfrontace validuje vývojový původ vzorce",
+   "Oba zásahy jsou technicky totožné a liší se pouze názvem, který si každá škola zvolila z historických důvodů",
+   "TFP konfrontace z pozice neutrality ukazuje rozpory; empatická konfrontace validuje původ vzorce a vybízí ke změně"
+  ],
+  "correct": 3,
+  "explanation": "V TFP je konfrontace druhý krok triády klarifikace–konfrontace–interpretace: terapeut z technické neutrality taktně předloží rozpor mezi kanály komunikace (slova, afekt, chování vůči terapeutovi) a tím připraví půdu pro interpretaci odštěpené dyády — sám nic nesytí ani nedoporučuje. Schematerapeut naopak neutralitu programově opouští: vzorec validuje, edukuje o jeho ceně a z pozice limited reparentingu aktivně tlačí ke zdravější alternativě. Druhá možnost atributy směrů obrací.",
+  "source": "Yeomans, F. E., Clarkin, J. F., Kernberg, O. F.: Transference-Focused Psychotherapy for Borderline Personality Disorder, American Psychiatric Publishing, 2015; Young, J. E. et al.: Schema Therapy, 2003",
+  "seedElo": 1900
+ },
+ {
+  "id": "son-sme-09",
+  "type": "K",
+  "category": "smery-mosty",
+  "text": "Self-energie (IFS) i mentalizace (MBT) popisují 'zdravou' pozici mysli vůči vnitřnímu dění. V čem se oba koncepty zásadně rozcházejí?",
+  "options": [
+   "Mentalizace je nabytá schopnost představovat si duševní stavy, jež pod afektem selhává; Self je vrozený stav, jenž se jen odkrývá",
+   "Self-energie je kognitivní operace zaměřená na stavy druhých lidí, mentalizace je prožitkový stav klidu obrácený k sobě",
+   "Mentalizace se týká výhradně porozumění druhým lidem, kdežto Self-energie výhradně vztahu k vlastním vnitřním částem osobnosti",
+   "Oba pojmy označují touž metakognitivní kapacitu a liší se pouze terminologií, kterou každá z obou škol historicky zvolila"
+  ],
+  "correct": 0,
+  "explanation": "Rozdíl je ontologický i technický: mentalizace je vývojový výdobytek — imaginativní činnost o duševních stavech svých i druhých, křehká pod arousal, kterou MBT systematicky cvičí postojem nevědění. Self v IFS není dovednost ani reprezentování, ale stav bytí, jenž nemohl být poškozen a vynoří se sám, jakmile části ustoupí — netrénuje se, uvolňuje se mu cesta. Oba koncepty míří k sobě i k druhým a nejsou synonyma; podobnost je funkční, ne pojmová.",
+  "source": "Bateman, A. & Fonagy, P.: Mentalization-Based Treatment for Personality Disorders, Oxford University Press, 2016; Schwartz, R. C. & Sweezy, M.: Internal Family Systems Therapy, 2nd ed., 2020",
+  "seedElo": 1950
+ },
+ {
+  "id": "son-sme-10",
+  "type": "K",
+  "category": "smery-mosty",
+  "text": "Kognitivní defuze (ACT) i unblending (IFS) oddělují klienta od myšlenky 'jsem bezcenný'. V kterém bodě se oba procesy technicky rozcházejí?",
+  "options": [
+   "Defuze myšlenku racionálně vyvrací důkazy z klientova života, unblending ji naopak přijímá jako pravdivý popis reality",
+   "Unblending je jednorázový akt na začátku terapie, kdežto defuze je celoživotní proces vyžadující každodenní formální praxi",
+   "Defuze mění funkci myšlenky a její obsah už dále nerozvíjí; unblending z ní činí promluvu části, s níž se vede dialog",
+   "Defuze probíhá výhradně imaginativně skrze cvičení, unblending výhradně v přímém rozhovoru mezi klientem a terapeutem"
+  ],
+  "correct": 2,
+  "explanation": "Klíčová hranice je v osudu obsahu po oddělení. ACT obsah záměrně neexploruje — funkce má přednost před obsahem, a rozebírat, proč si mysl myslí 'jsem bezcenný', by fúzi jen krmilo; cílem je, aby výrok ztratil behaviorální nadvládu. IFS jde opačně: po unblendingu se obsah bere vážně jako sdělení části — terapeut se ptá, čeho se část bojí, jak je stará a co nese, protože cílem je vztah a odbřemenění, ne oslabení literárnosti výroku. Defuze myšlenku nevyvrací (to by byla restrukturalizace) a oba procesy se průběžně opakují.",
+  "source": "Hayes, S. C. et al.: Acceptance and Commitment Therapy, 2nd ed., 2012; Schwartz, R. C. & Sweezy, M.: Internal Family Systems Therapy, 2nd ed., 2020",
+  "seedElo": 2050
+ },
+ {
+  "id": "son-sme-11",
+  "type": "K",
+  "category": "smery-mosty",
+  "text": "Jakou roli hraje epistemická důvěra ve Fonagyho a Allisonově revidované teorii terapeutické změny?",
+  "options": [
+   "Je jiným názvem pro pracovní alianci — shodu na cílech a úkolech terapie, která napříč směry nejlépe predikuje výsledek",
+   "Obnovená mentalizováním ve vztahu otevírá kanál sociálního učení, takže se klient znovu učí od druhých i mimo terapii",
+   "Označuje důvěru terapeuta ve vlastní metodu, která se na klienta přenáší primárně placebovým mechanismem očekávání",
+   "Vzniká internalizací terapeuta jako dobrého objektu, který postupně zmírňuje krutost archaického superega"
+  ],
+  "correct": 1,
+  "explanation": "Fonagy s Allisonovou navrhli, že společným jádrem účinných terapií není konkrétní technika, ale znovuotevření epistemické důvěry: zkušenost, že mě druhý přesně mentalizuje, funguje jako ostenzivní signál ('toto sdělení je určeno tobě a je relevantní'), který uzavřený kanál sociálního učení — typicky zavřený u rané adverzity — znovu otevře. Terapie pak působí hlavně tím, že klient začne přijímat nové poznání i od lidí mimo ordinaci. Aliance je Bordinův pojem a internalizace dobrého objektu objektně-vztahová formulace; s placebem teorie nepracuje.",
+  "source": "Fonagy, P. & Allison, E.: The role of mentalizing and epistemic trust in the therapeutic relationship, Psychotherapy, 51(3), 2014",
+  "seedElo": 2150
+ }
+]

@@ -1,0 +1,178 @@
+[
+ {
+  "id": "son-str-01",
+  "type": "V",
+  "category": "struktura-diagnostika",
+  "text": "Pan David (34) tři dny po pohřbu otce, s nímž měl blízký vztah, uspořádal velkolepou 'oslavu jeho života', v práci si vzal dva projekty navíc a v sezeních nepřetržitě vtipkuje ('táta by nechtěl, abychom brečeli'). Když terapeut tempo zpomalí, na okamžik prosvitne panika a pacient rychle změní téma. Z hlediska McWilliamsové obraz nejpravděpodobněji odpovídá:",
+  "options": [
+   "Narcistické dynamice — velkolepý výkon jako obrana proti skrytému studu a prázdnotě",
+   "Manické dynamice — popření ztráty a útěk do akce jako obrana proti smutku",
+   "Obsedantní dynamice — únik do pracovní kontroly jako izolace afektu po ztrátě",
+   "Hysterické dynamice — dramatizace prožitku a represe bolestného afektu ze ztráty"
+  ],
+  "correct": 1,
+  "explanation": "Manická (hypomanická) dynamika je dle McWilliamsové rubem depresivní: proti smutku, ztrátě a závislosti se brání popřením, devalvací významu ztráty a útěkem do aktivity, humoru a vzrušení — panika při zpomalení prozrazuje, čemu akce utíká. Narcistický výkon by sloužil obdivu, ne úniku před truchlením; obsedantní izolace afektu by nesla suchou věcnost bez horečnatosti; hysterická represe by afekt dramatizovala, ne popírala vtipem.",
+  "source": "Nancy McWilliams: Psychoanalytická diagnóza, kap. Depresivní a manické osobnosti; Klein: Mourning and Its Relation to Manic-Depressive States",
+  "seedElo": 1500
+ },
+ {
+  "id": "son-str-02",
+  "type": "K",
+  "category": "struktura-diagnostika",
+  "text": "V psychodynamické diagnostice se rozlišuje autoplastická a aloplastická adaptace. Co pojmy označují a jaký mají diagnostický význam?",
+  "options": [
+   "Autoplastická adaptace mění okolí, aloplastická mění sebe; první je typická pro poruchy charakteru, druhá pro symptomové neurózy",
+   "Jde o dva starší názvy pro sublimaci; s opuštěním topografického modelu ztratilo rozlišení diagnostický význam a dnes se neužívá",
+   "Autoplastická adaptace označuje vědomé zvládání, aloplastická nevědomou obranu; rozlišení určuje především indikaci farmakoterapie",
+   "Autoplastická adaptace řeší konflikt změnou sebe (neurózy), aloplastická změnou okolí (charakterová, zvláště psychopatická patologie)"
+  ],
+  "correct": 3,
+  "explanation": "Autoplastické řešení obrací konflikt dovnitř — vzniká symptom, utrpení nese pacient sám, což je typické pro neurotické struktury. Aloplastické řešení konflikt exportuje: mění se, manipuluje či trpí okolí, zatímco rysy zůstávají egosyntonní — vzorec charakterové a zvláště antisociální patologie. Diagnosticky pomáhá odhadnout, kdo v ordinaci skončí dobrovolně (autoplastik) a koho přivede tlak okolí či soud (aloplastik).",
+  "source": "Otto Fenichel: The Psychoanalytic Theory of Neurosis; Nancy McWilliams: Psychoanalytická diagnóza, kap. Charakterová patologie",
+  "seedElo": 1550
+ },
+ {
+  "id": "son-str-03",
+  "type": "V",
+  "category": "struktura-diagnostika",
+  "text": "Paní Olga (29) se partnerům ve všem podřizuje, rozhodnutí od volby práce po oblečení deleguje na druhé, samotu snáší s úzkostí a po rozchodu naváže do měsíce nový vztah, 'aby se měla o koho opřít'. Nikomu nic nevyčítá, netrpí okázale a o partnerech mluví s vděčností. Jádrovou dynamikou je nejpravděpodobněji:",
+  "options": [
+   "Závislá (anaklitická) dynamika — podřízení a delegace kompetence výměnou za péči a vedení",
+   "Masochistická dynamika — utrpení v podřízení jako nevědomý nárok na péči a morální kredit",
+   "Hraniční organizace — panický strach z opuštění s oscilací idealizace a devalvace partnerů",
+   "Depresivní dynamika — introjekce špatnosti objektu a obrácení agrese proti vlastnímu self"
+  ],
+  "correct": 0,
+  "explanation": "Jádrem závislé dynamiky je organizace self kolem vztahu jako opory: kompetence a rozhodování se delegují výměnou za vedení a péči, úzkost budí samostatnost, ne blízkost, a objekt je snadno zaměnitelný — důležitá je funkce opory, ne konkrétní osoba. Masochistickou dynamiku by prozrazovalo předváděné utrpení s výčitkou, hraniční organizaci bouřlivé oscilace a štěpení, depresivní dynamiku tiché sebeobviňování — nic z toho tu není.",
+  "source": "PDM-2 (Lingiardi & McWilliams, eds.), osa P — závislé osobnosti; Bornstein: The Dependent Personality",
+  "seedElo": 1600
+ },
+ {
+  "id": "son-str-04",
+  "type": "F",
+  "category": "struktura-diagnostika",
+  "text": "Osa 'Struktura' v systému operacionalizované psychodynamické diagnostiky OPD-2 hodnotí úroveň strukturální integrace osobnosti. Které úrovně systém rozlišuje?",
+  "options": [
+   "Neurotickou, hraniční a psychotickou úroveň, převzaté beze změny z Kernbergova strukturálního modelu organizace",
+   "Pět úrovní mentalizace od pretendního modu po plné reflektivní fungování podle Fonagyho škály reflektivních funkcí",
+   "Čtyři úrovně: dobrou, omezenou, nízkou a dezintegrovanou integraci, hodnocené na dimenzích self a vztahů",
+   "Tři pásma závažnosti symptomů — lehké, střední a těžké — ukotvená v deskriptivních diagnostických kritériích MKN"
+  ],
+  "correct": 2,
+  "explanation": "OPD-2 hodnotí strukturu na čtyřstupňové škále (dobrá — omezená — nízká — dezintegrovaná integrace, plus mezistupně) napříč dimenzemi, jako jsou vnímání sebe a objektů, regulace self a vztahů, vnitřní a vnější komunikace a schopnost vazby. Na rozdíl od Kernbergovy trojice úrovní jde o jemnější, operacionalizovaný a výzkumně kotvený rating; mentalizační škála RF ani symptomová závažnost dle MKN osou Struktura nejsou.",
+  "source": "OPD Task Force: Operationalized Psychodynamic Diagnosis OPD-2, osa IV (Struktura)",
+  "seedElo": 1700
+ },
+ {
+  "id": "son-str-05",
+  "type": "K",
+  "category": "struktura-diagnostika",
+  "text": "Sidney Blatt rozlišil dvě jádrové konfigurace depresivního prožívání. Jak se liší a jaký mají diagnosticko-terapeutický význam?",
+  "options": [
+   "Anaklitická deprese odpovídá endogennímu typu, introjektivní reaktivnímu; psychoterapie je smysluplně indikována jen u reaktivní formy",
+   "Anaklitická se točí kolem opuštění a bezmoci, introjektivní kolem selhání, viny a sebekritiky; každá žádá jiný terapeutický důraz",
+   "Anaklitická deprese je raně dětská forma, introjektivní její dospělá podoba; jde o vývojová stadia jedné a téže poruchy",
+   "Introjektivní konfigurace se pojí výhradně s hraniční organizací, anaklitická s neurotickou; rozlišení tak určuje úroveň struktury"
+  ],
+  "correct": 1,
+  "explanation": "Blatt popsal anaklitickou (dependentní) konfiguraci organizovanou kolem vztahovosti — jádrem je hrůza z opuštění, osamění a bezmoc — a introjektivní (sebekritickou) organizovanou kolem sebedefinice — jádrem je selhání, vina a nemilosrdný vnitřní kritik. Rozlišení má prediktivní hodnotu: anaklitičtí pacienti těží spíše z podpůrně-vztahových prvků léčby, introjektivní z vhledové interpretační práce. Obě konfigurace se vyskytují napříč úrovněmi organizace.",
+  "source": "Sidney J. Blatt: Experiences of Depression; Blatt: Polarities of Experience (2008)",
+  "seedElo": 1750
+ },
+ {
+  "id": "son-str-06",
+  "type": "V",
+  "category": "struktura-diagnostika",
+  "text": "Pan Robert (41), auditor, je pověstný bezchybností: pracuje do noci, vede si detailní seznamy a kontroluje po sobě každou položku. Chyba v něm ale nevyvolá výčitky svědomí, nýbrž palčivé zahanbení a vztek; kritiku odbývá devalvací ('ten to nemůže posoudit') a dokonalý výkon potřebuje mít viditelně oceněný, jinak pro něj práce 'nemá smysl'. Rozhoduje jádrová dynamika, nikoli povrch — jde nejpravděpodobněji o:",
+  "options": [
+   "Obsedantní dynamiku — perfekcionismus řízený vinou a konfliktem mezi vzdorem a poslušností",
+   "Depresivní dynamiku — sebekritika a perfekcionismus jako splácení introjikované viny",
+   "Masochistickou dynamiku — vyčerpávající dřina jako utrpení předkládané okolí k ocenění",
+   "Narcistickou dynamiku — perfekcionismus ve službě grandiózního self, hnaný studem, ne vinou"
+  ],
+  "correct": 3,
+  "explanation": "Povrch (pečlivost, seznamy, kontrola) je obsedantní, ale jádro prozrazuje afekt po chybě: obsedantní perfekcionista prožívá vinu vůči vnitřní autoritě a pochybuje, narcistický prožívá stud před publikem, kritiku devalvuje a výkon potřebuje zrcadlený obdivem — dokonalost tu sytí grandiózní self, ne svědomí. Depresivní sebekritika by kritiku druhých přijímala jako oprávněnou; masochistická dřina by byla vztahově předváděným utrpením, ne leštěním image.",
+  "source": "Nancy McWilliams: Psychoanalytická diagnóza, kap. Narcistické a Obsedantní osobnosti; Gabbard: Psychodynamická psychiatrie v klinické praxi",
+  "seedElo": 1800
+ },
+ {
+  "id": "son-str-07",
+  "type": "V",
+  "category": "struktura-diagnostika",
+  "text": "Slečna Iveta (24) přichází s tím, že je 'bipolární': propady nálady trvají hodiny až dva dny, spouští je hádka nebo odmítnutí a odeznívají po usmíření; 'nahoře' je, když vztah funguje. Spánek a energie jsou mimo propady stabilní a epizody nikdy netrvají týdny ani nepřicházejí bez zjevného podnětu. Strukturálně přiléhavější čtení afektivního obrazu je:",
+  "options": [
+   "Afektivní nestabilita hraniční organizace — krátké, reaktivní výkyvy spouštěné děním ve vztazích",
+   "Bipolární porucha II — střídání hypomanických a depresivních fází s rychlým cyklováním nálad",
+   "Cyklothymie — mírnější endogenní oscilace nálady, probíhající nezávisle na vnějších událostech",
+   "Manická obrana depresivní dynamiky — popření smutku útěkem do zvýšené aktivity a nových vztahů"
+  ],
+  "correct": 0,
+  "explanation": "Diferenciálním kritériem je tvar a spouštěč výkyvu: hraniční afektivní nestabilita je interpersonálně reaktivní, mění se v řádu hodin až dnů podle stavu vazby a chybí autonomní epizody s vegetativními změnami. Bipolární i cyklothymní oscilace jsou fázické a relativně nezávislé na vztahových podnětech, hypomanie nese změnu spánku a energie po dny až týdny. Záměna vede k letům neúčinné farmakoterapie místo práce se strukturou.",
+  "source": "Gunderson: Borderline Personality Disorder: A Clinical Guide; Paris: The Bipolar Spectrum — Diagnosis or Fad?; PDM-2, osa S",
+  "seedElo": 1850
+ },
+ {
+  "id": "son-str-08",
+  "type": "V",
+  "category": "struktura-diagnostika",
+  "text": "Paní Klára (35) s každým novým partnerem 'kompletně vyměnila' hodnoty, styl, koníčky i politické názory; okolí ji popisuje jako dokonale přizpůsobenou, její vztahy jsou formálně bezchybné. V terapii ochotně přejímá terapeutčin slovník i výklady, ale terapeutka má zvláštní pocit, že mluví s dokonalou napodobeninou vztahu bez skutečné účasti; pacientka sama žádnou tíseň neudává. Nejpřiléhavější pojmenování obrazu je:",
+  "options": [
+   "Falešné self dle Winnicotta — ochranná fasáda kompliance skrývající potlačené pravé self",
+   "Vysoce funkční hysterická dynamika — identifikace s objektem ve službě svádění a péče",
+   "As-if osobnost dle Deutschové — totální bezkonfliktní identifikace místo vlastní identity",
+   "Schizoidní dynamika — povrchová konformita kryjící bohatý, úzkostlivě střežený vnitřní svět"
+  ],
+  "correct": 2,
+  "explanation": "Deutschové as-if osobnost žije plnou, plastickou identifikací s aktuálním objektem — bez vnitřního konfliktu, bez subjektivního pocitu falše a bez vlastního jádra, které by identifikace nahrazovaly; typickým vodítkem je právě protipřenosový dojem 'napodobeniny' vztahu. Winnicottovo falešné self naproti tomu něco chrání — pravé self existuje a fasáda bývá provázena prázdnotou či tísní; schizoidní konformita kryje živý skrytý svět a hysterická identifikace slouží vztahové dynamice, ne náhradě identity.",
+  "source": "Helene Deutsch: Some Forms of Emotional Disturbance and their Relationship to Schizophrenia (1942); Winnicott: Ego Distortion in Terms of True and False Self",
+  "seedElo": 1900
+ },
+ {
+  "id": "son-str-09",
+  "type": "K",
+  "category": "struktura-diagnostika",
+  "text": "Kernberg uvnitř hraničního pásma organizace rozlišuje vyšší a nižší úroveň. Co je hlavním strukturálním kritériem tohoto rozlišení?",
+  "options": [
+   "Přítomnost opakovaného sebepoškozování a chronické suicidality — nižší úroveň hraniční organizace je definována právě jejich výskytem v anamnéze",
+   "Kvalita testování reality — na nižší úrovni je trvale ztracené jako u psychóz, na vyšší jen přechodně oslabené v afektu či regresi",
+   "Počet naplněných deskriptivních kritérií DSM pro hraniční poruchu a celková symptomová zátěž v čase, zejména afektivní nestabilita",
+   "Integrace superega a míra prostoupení agresí — nižší pásmo tvoří maligní narcismus a antisociální struktura, vyšší si drží kapacitu viny a vazby"
+  ],
+  "correct": 3,
+  "explanation": "Uvnitř hraniční organizace vede dělítko po ose superega a agrese: vyšší pásmo (např. závislé, histriónské, masochistické struktury) si drží kapacitu viny, závazku a péče o objekt, nižší pásmo (maligní narcismus, antisociální struktura) má superego fragmentované či zkorumpované a agrese je egosyntonní — což je hlavní prognostický prediktor. Testování reality je zachované v celém hraničním pásmu; sebepoškozování ani počet DSM kritérií strukturu nedefinují.",
+  "source": "Otto F. Kernberg: Severe Personality Disorders; Caligor, Kernberg, Clarkin: Handbook of Dynamic Psychotherapy for Higher Level Personality Pathology",
+  "seedElo": 1950
+ },
+ {
+  "id": "son-str-10",
+  "type": "V",
+  "category": "struktura-diagnostika",
+  "text": "Pan Igor (38), forenzní ambulance, odsouzen za vydírání a ublížení na zdraví. Je grandiózní, okolí čte jako nepřátele ('kdo neudeří první, prohrál') a násilí popisuje s uspokojením. Zároveň však: k jedinému příteli z mládí je léta loajální i proti vlastnímu zájmu, po činu namířeném proti bratrovi měl týdny trýznivé výčitky a k terapeutovi si přes kontrolu a testování postupně vytváří závislý, chvílemi idealizující přenos. Strukturálně nejpřiléhavější zařazení je:",
+  "options": [
+   "Maligní narcismus — sadismus a paranoidní rysy při ostrůvkovité kapacitě loajality, viny a vazby",
+   "Antisociální (psychopatická) organizace — vztahy čistě instrumentální, bez jakékoli kapacity vazby a viny",
+   "Narcistická porucha na vyšší úrovni organizace — grandiozita s neporušenou kapacitou vztahů a svědomí",
+   "Paranoidní osobnost na hraniční úrovni — projekce agrese s perzekučním čtením veškerých vztahů"
+  ],
+  "correct": 0,
+  "explanation": "Rozhodují ostrůvky neinstrumentálního vztahu: dlouhodobá loajalita proti vlastnímu zájmu, autentická vina a schopnost závislého či idealizujícího přenosu jsou přesně ty zbytky superega a objektní vazby, které dle Kernberga odlišují maligní narcismus od plné antisociální organizace — tam by přenos zůstal čistě exploativní a vina chyběla. Pro narcistickou poruchu vyšší úrovně je obraz příliš prostoupen egosyntonním sadismem; paranoidní čtení je přítomné, ale nevysvětluje grandiozitu ani uspokojení z násilí.",
+  "source": "Otto F. Kernberg: Severe Personality Disorders; Kernberg: Aggression in Personality Disorders and Perversions",
+  "seedElo": 2050
+ },
+ {
+  "id": "son-str-11",
+  "type": "K",
+  "category": "struktura-diagnostika",
+  "text": "Protipřenos může sloužit jako diferenciálně diagnostické vodítko mezi antisociální (psychopatickou) organizací a maligním narcismem. Který popis odpovídá typickému rozdílu?",
+  "options": [
+   "U psychopatie terapeut prožívá především nudu a pocit zbytečnosti, u maligního narcismu difuzní strach a nejistotu z pacientovy naprosté nepředvídatelnosti",
+   "U maligního narcismu terapeut cítí čistě soucit s oběťmi pacientových činů, u psychopatie idealizující obdiv k pacientově inteligenci a společenskému šarmu",
+   "U psychopatie predátorský mráz — pocit, že jsem chladně čten a klamán, bez vztahového tahu; u maligního narcismu vtažení do boje o moc s momenty kontaktu",
+   "Protipřenos tyto dvě organizace spolehlivě nerozliší, protože vzniká výhradně z terapeutovy vlastní patologie, nikoli z pacientova interpersonálního tlaku"
+  ],
+  "correct": 2,
+  "explanation": "U psychopatické organizace je typický protipřenos predátorsko-prey: mrazivý pocit, že jsem odhadován jako kořist a klamán, s nápadnou absencí vztahového tahu — 'nikdo tam není'. U maligního narcismu terapeut bývá vtahován do sadomasochistického zápasu o moc a ponížení, ale s momenty skutečného kontaktu, závislosti či deprese, které odpovídají zbytkové kapacitě vazby. Nuda je klasický protipřenos běžné narcistické dynamiky, ne psychopatie; protipřenos jako čistý artefakt terapeuta je předkleinovské čtení, které o objektním tlaku pacienta nic neví.",
+  "source": "J. Reid Meloy: The Psychopathic Mind; Gabbard: Psychodynamická psychiatrie v klinické praxi; Kernberg: Severe Personality Disorders",
+  "seedElo": 2150
+ }
+]

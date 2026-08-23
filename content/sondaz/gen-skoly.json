@@ -1,0 +1,178 @@
+[
+ {
+  "id": "son-sko-01",
+  "type": "F",
+  "category": "skoly-autori",
+  "text": "Co je podle Winnicotta primární mateřské zaujetí (primary maternal preoccupation)?",
+  "options": [
+   "Symbiotická vazba trvající celý první rok života, jejíž předčasné přerušení podle Winnicotta vede přímo k rozvoji dětské psychózy",
+   "Patologicky úzkostná fixace matky na dítě po porodu, kterou má podle Winnicotta včas zachytit pediatr a předat psychoterapii",
+   "Přechodný stav zvýšené citlivosti na sklonku těhotenství a v prvních týdnech — 'normální nemoc' umožňující vyladění na kojence",
+   "Vědomě nacvičovaná technika responzivní péče o novorozence, kterou Winnicott doporučoval systematicky školit v poradnách pro matky"
+  ],
+  "correct": 2,
+  "explanation": "Winnicott popsal spontánně vznikající a spontánně odeznívající stav stažení matky do vztahu s dítětem, který přirovnal k nemoci — kdyby nešlo o mateřství, vypadal by jako porucha (mluvil o 'normální nemoci'). Právě tento stav dovoluje matce téměř úplnou identifikaci s kojencem a naplňování jeho potřeb dřív, než je stačí signalizovat. Nejde o vědomou techniku ani o patologii a s celoročním symbiotickým obdobím ho Winnicott neztotožňoval.",
+  "source": "Winnicott, D. W.: Primary Maternal Preoccupation, 1956",
+  "seedElo": 1500
+ },
+ {
+  "id": "son-sko-02",
+  "type": "F",
+  "category": "skoly-autori",
+  "text": "Jaká je ústřední teze Ferencziho pozdní práce Zmatení jazyků mezi dospělými a dítětem (1932/33)?",
+  "options": [
+   "Dítě mluví jazykem něhy, dospělý odpoví jazykem vášně; trauma dovršuje popření okolím a dítě introjikuje vinu agresora",
+   "Dítě mluví jazykem pudů, rodič jazykem kultury; neuróza vzniká nezdařeným překladem pudové řeči do řeči symbolů a slov",
+   "Dospělý i dítě mluví týmž jazykem něhy; traumatem se zážitek stává až dodatečnou sexualizací vzpomínky v období puberty",
+   "Řeč dospělých a dětí se míjí v rovině pojmů; Ferenczi proto pro dětskou analýzu navrhl nahradit interpretaci názornou hrou"
+  ],
+  "correct": 0,
+  "explanation": "Ferenczi rehabilitoval reálné trauma: dětská přítulnost patří do registru něhy, dospělý ji však může zaměnit za přání zralé sexuality a odpovědět vášní. Zhoubu dovršuje následné popření okolím — dítě zůstává s nesdíleným zážitkem, identifikuje se s agresorem, introjikuje jeho pocit viny a jeho osobnost se štěpí. Text narazil na Freudův odpor a do širšího oběhu se dostal až po desetiletích.",
+  "source": "Ferenczi, S.: Confusion of Tongues Between Adults and the Child, 1933",
+  "seedElo": 1550
+ },
+ {
+  "id": "son-sko-03",
+  "type": "K",
+  "category": "skoly-autori",
+  "text": "Bionova teorie skupin: čím se bazální skupina párování (baP) liší od bazální skupiny závislosti (baD)?",
+  "options": [
+   "Párování označuje spojenectví vůdce se zapisovatelem schůzí, závislost pak vztah skupiny k instituci, která ji financuje a poskytuje jí rámec",
+   "Skupina v párování vkládá naději do dvojice, z níž má vzejít 'mesiáš', jenž nesmí přijít; skupina v závislosti čeká sycení a ochranu vůdce",
+   "Párování je zralý pracovní modus, jehož skupina dosahuje po propracování; závislost je vedle boje-útěku jediný regresivní bazální předpoklad",
+   "Párování popisuje erotické dvojice, jež odvádějí skupinu od úkolu; závislost návykové vzorce členů, které skupina nevědomě spoluudržuje"
+  ],
+  "correct": 1,
+  "explanation": "Bazální předpoklady jsou tři regresivní mentality skupiny: závislost (vůdce jako božstvo, jež má sytit a chránit), boj-útěk a párování, v němž skupina s nadějí sleduje dvojici, z níž má vzejít vykupitel či spásná idea — mesianistická naděje ovšem plní funkci, jen dokud zůstává nenaplněná. Párování tedy není pracovní skupina (ta je protipólem všech tří předpokladů) a s erotikou dvojic či financováním nemá definice nic společného.",
+  "source": "Bion, W. R.: Experiences in Groups, 1961",
+  "seedElo": 1600
+ },
+ {
+  "id": "son-sko-04",
+  "type": "K",
+  "category": "skoly-autori",
+  "text": "Fairbairnova endopsychická struktura: jaký je vztah antilibidinózního ega ('vnitřního sabotéra') k egu libidinóznímu?",
+  "options": [
+   "Antilibidinózní ego je pozdější vývojovou vrstvou libidinózního ega a v období latence od něj přebírá vazbu na vzrušující objekt",
+   "Obě subjá jsou rovnocennými frakcemi centrálního ega; u moci se střídají podle aktuální síly vytěsnění a stavu vnějších vztahů",
+   "Antilibidinózní ego je Fairbairnovým překladem Freudova superega, na libidinózní ego proto působí výčitkami svědomí a ideály",
+   "Svázáno s odmítajícím objektem útočí na libidinózní ego a jeho potřebnost — pronásleduje část self, která dosud doufá a touží"
+  ],
+  "correct": 3,
+  "explanation": "Štěpením ega vznikají u Fairbairna vedle centrálního ega dvě potlačené struktury: libidinózní ego vázané na vzrušující (slibující) objekt a antilibidinózní ego vázané na objekt odmítající. Vnitřní sabotér přejímá nepřátelskost odmítajícího rodiče a obrací ji dovnitř proti vlastní potřebnosti a naději — klinicky se ukazuje jako nenávist k vlastní zranitelnosti. Superego pokládal Fairbairn za komplexnější, jen zčásti se překrývající útvar, ne za totéž.",
+  "source": "Fairbairn, W. R. D.: Endopsychic Structure Considered in Terms of Object-Relationships, 1944",
+  "seedElo": 1700
+ },
+ {
+  "id": "son-sko-05",
+  "type": "K",
+  "category": "skoly-autori",
+  "text": "Spor Kohut–Kernberg o narcismus: v čem se liší jejich pojetí grandiózního self?",
+  "options": [
+   "Pro Kohuta normální archaická struktura zamrzlá nedostatkem zrcadlení; pro Kernberga patologická slitina reálného self, ideálního self a ideálního objektu",
+   "Pro Kernberga normální vývojový útvar dozrávající optimální frustrací; pro Kohuta obranná kondenzace vzniklá štěpením a popřením rané orální agrese",
+   "Oba jej chápou jako vývojovou strukturu a liší se jen technikou: Kohut obrannou grandiozitu interpretuje ihned, Kernberg vyčkává na rozvinutí přenosu",
+   "Pro Kohuta vědomá fantazie velikosti korigovatelná konfrontací; pro Kernberga nevědomý introjekt idealizovaného rodiče z oidipského období vývoje"
+  ],
+  "correct": 0,
+  "explanation": "Jádro slavné kontroverze sedmdesátých let: Kohut vidí v grandiozitě zamrzlou normální vývojovou potřebu, které má analýza dovolit rozvinout se v zrcadlícím přenosu, a proto ji zprvu nekonfrontuje. Kernberg v ní vidí od počátku patologickou obrannou strukturu slitou z ideálních a reálných reprezentací, jež chrání před závistí, vztekem a závislostí, a její obranné užití včetně negativního přenosu systematicky analyzuje. Možnost b) obě pozice přesně prohazuje.",
+  "source": "Kernberg, O.: Borderline Conditions and Pathological Narcissism, 1975; Kohut, H.: The Analysis of the Self, 1971",
+  "seedElo": 1750
+ },
+ {
+  "id": "son-sko-06",
+  "type": "F",
+  "category": "skoly-autori",
+  "text": "V čem podle Loewalda (O terapeutickém působení psychoanalýzy, 1960) spočívá léčivý účinek analýzy?",
+  "options": [
+   "V udržování soustavné frustrace a abstinence, jež pacienta přiměje vzdát se infantilních uspokojení ve prospěch zralejší sublimace a práce",
+   "V korektivní rodičovské roli: analytik podle pacientovy anamnézy vědomě zaujímá postoj opačný, než jaký měl patogenní rodič, a přehrává dětství nanovo",
+   "Analytik působí jako nový objekt: umožňuje obnovu přerušeného vývoje ega a interpretací zprostředkuje vyšší integraci — z 'duchů' se stávají 'předci'",
+   "V čistém vhledu: zvědomění nevědomého konfliktu léčí samo o sobě a vztah s analytikem slouží pouze jako neutrální nosič správných interpretací"
+  ],
+  "correct": 2,
+  "explanation": "Loewald uvnitř klasické tradice tiše provedl vztahovou revoluci: analytik nefunguje jako neutrální zrcadlo, ale jako nový objekt, s nímž se — analogicky vztahu rodič–dítě — znovu rozbíhá zastavený vývoj; interpretace působí tím, že drží napětí mezi pacientovou aktuální úrovní a zralejší organizací, kterou analytik 'drží v mysli'. Slavná metafora říká, že přízraky nevědomí mají být položeny k odpočinku jako předci. Nejde o hranou korektivní roli à la Alexander ani o pouhý vhled či frustraci.",
+  "source": "Loewald, H. W.: On the Therapeutic Action of Psycho-Analysis, 1960",
+  "seedElo": 1800
+ },
+ {
+  "id": "son-sko-07",
+  "type": "F",
+  "category": "skoly-autori",
+  "text": "Co označuje Bollasův pojem nemyšlené známé (unthought known)?",
+  "options": [
+   "Vytěsněné stopy raných traumat, které lze rekonstruktivní interpretací postupně převést zpět do vědomé narativní paměti pacienta",
+   "Vrozené prekoncepce v Bionově smyslu, které v psychice čekají na realizaci setkáním s odpovídajícím vnějším objektem či zkušeností",
+   "Souhrn procedurálních dovedností a tělesných automatismů, které subjekt vykonává bez účasti vědomí a nemá důvod o nich přemýšlet",
+   "Raná zkušenost s objektem, jež formuje bytí subjektu, ač nebyla nikdy myšlena — nese ji nálada, estetično a užívání objektů"
+  ],
+  "correct": 3,
+  "explanation": "Bollas míní vědění, které v nás je, ale nikdy nebylo myšleno: ranou 'gramatiku' vztahu s objektem, otištěnou dřív, než ji bylo možné symbolizovat a reprezentovat. Není proto vytěsněná (nikdy nebyla zapsána jako obsah, nemá se co 'vracet') a do analýzy vstupuje nepřímo — atmosférou, náladami, estetickými preferencemi a způsobem, jak pacient analytika 'používá'. S tělesnou procedurální pamětí v úzkém smyslu ani s bionovskou vrozenou prekoncepcí pojem nesplývá, byť na Biona Bollas navazuje.",
+  "source": "Bollas, C.: The Shadow of the Object: Psychoanalysis of the Unthought Known, 1987",
+  "seedElo": 1850
+ },
+ {
+  "id": "son-sko-08",
+  "type": "F",
+  "category": "skoly-autori",
+  "text": "Jak Laplancheova obecná teorie svádění vysvětluje vznik nevědomí pomocí enigmatických signifikantů?",
+  "options": [
+   "Nevědomí vzniká fylogeneticky: enigmatické signifikanty jsou zděděná prasvádění lidského druhu, která dítě reaktivuje ve své fantazii",
+   "Dospělý adresuje dítěti zprávy kompromitované svým nevědomým sexuálnem; dítě je zčásti přeloží a nepřeložený zbytek utvoří jádro nevědomí",
+   "Enigmatické signifikanty jsou dětské otázky po původu, které rodič odmítá zodpovědět; nevědomí je archivem těchto nezodpovězených otázek",
+   "Signifikanty jsou u Laplanche prvky jazyka jako u Lacana; nevědomí vzniká vstupem dítěte do symbolického řádu při osvojování si řeči"
+  ],
+  "correct": 1,
+  "explanation": "Laplanche zobecnil Freudovu opuštěnou teorii svádění: primární antropologickou situací je asymetrie — péče dospělého nese vedle vědomého sdělení i příměs jeho nevědomé sexuality, takže zprávy jsou enigmatické i pro samotného odesílatele. Dítě se je pokouší přeložit; co překladu odolá, je 'vyvrženo dovnitř' a tvoří sexuální nevědomí jako vnitřní cizí těleso. Nejde tedy o fylogenetické dědictví ani o lacanovský vstup do jazyka — proti obojímu se Laplanche výslovně vymezoval.",
+  "source": "Laplanche, J.: Nouveaux fondements pour la psychanalyse, 1987",
+  "seedElo": 1900
+ },
+ {
+  "id": "son-sko-09",
+  "type": "K",
+  "category": "skoly-autori",
+  "text": "Greenův komplex mrtvé matky: čím se následky 'mrtvé matky' liší od následků skutečné ztráty matky v dětství?",
+  "options": [
+   "Matka je přítomná, ale psychicky mrtvá; dítě náhle ztrácí její investici, dekatektuje ji a identifikuje se s ní — smutek bez uchopitelné ztráty",
+   "Skutečná smrt matky působí vždy těžší patologii, neboť chybí objekt identifikace; psychicky mrtvá matka zanechává jen přechodnou separační úzkost",
+   "Jde o týž proces truchlení, pouze časově rozložený; Green trval na tom, že nevědomí mezi reálnou a psychickou smrtí objektu vůbec nerozlišuje",
+   "Mrtvá matka je dětskou fantazií o zavraždění matky z oidipské rivality, kdežto reálná ztráta patří do registru traumatu a fantazii obchází"
+  ],
+  "correct": 0,
+  "explanation": "Greenův paradox: dítě nemá koho oplakat, protože matka žije — ztratilo však náhle a nesrozumitelně její psychickou přítomnost, typicky když ji pohltilo vlastní truchlení či deprese. Po marných pokusech ji oživit ji dítě dekatektuje a identifikuje se s prázdnem samým; jádrem je 'bílý' smutek, díra v psychice a pozdější neschopnost milovat bez ochromení. Právě nehmatatelnost ztráty ji činí hůře zpracovatelnou než smrt, kterou lze truchlit; o fantazii vraždy Greenova stať není.",
+  "source": "Green, A.: La mère morte, in: Narcissisme de vie, narcissisme de mort, 1983",
+  "seedElo": 1950
+ },
+ {
+  "id": "son-sko-10",
+  "type": "K",
+  "category": "skoly-autori",
+  "text": "Pozdní Bion: jaký je rozdíl mezi transformací v K a transformací v O?",
+  "options": [
+   "Transformace v K probíhá na straně pacienta, transformace v O na straně analytika; dohromady tvoří pár kontejner–kontejnované na úrovni sezení",
+   "K označuje transformace slovní, O transformace obrazové; Bion je rozlišil podle řádků a sloupců mřížky, do nichž se materiál sezení zapisuje",
+   "V K zkušenost poznáváme zvenčí, 'o ní'; v O se s ní stáváme jedním — O je nepoznatelné, lze v ně jen 'být', a poznání se otevírá až převodem do K",
+   "O je Bionova zkratka pro objekt; transformací v O míní prostou proměnu objektu přenosu, například přesun investice z matky na analytika"
+  ],
+  "correct": 2,
+  "explanation": "O je Bionova šifra pro absolutní pravdu emoční zkušenosti, věc o sobě: nelze ji vědět, pouze jí být (at-one-ment). Poznávání v K zůstává 'věděním o' — užitečné, ale vnější; skutečná psychická změna podle pozdního Biona vyžaduje transformaci v O, přechod od vědění k bytí, a interpretovat lze až to, co se z evoluce O podaří převést do K. S mřížkou, dělbou rolí pacient/analytik ani se záměnou objektů přenosu definice nesouvisí.",
+  "source": "Bion, W. R.: Transformations, 1965; Attention and Interpretation, 1970",
+  "seedElo": 2050
+ },
+ {
+  "id": "son-sko-11",
+  "type": "K",
+  "category": "skoly-autori",
+  "text": "Greenova práce negativu: čím se negativní halucinace liší od vytěsnění?",
+  "options": [
+   "Negativní halucinace je psychotický klam smyslů, vytěsnění neurotická obrana; Green je kladl na protilehlé póly jedné škály obranných operací",
+   "Negativní halucinace škrtá samo vnímání či zápis objektu, kdežto vytěsnění předpokládá již zapsanou reprezentaci a jen ji drží mimo vědomí",
+   "Jde o dvě jména téhož procesu: negativní halucinace je Greenovým překladem Freudova vytěsnění do jazyka teorie reprezentací a investic",
+   "Negativní halucinace se týká jen obrazu vlastního těla v zrcadle, vytěsnění jen objektních reprezentací; dělítkem je směr investice"
+  ],
+  "correct": 1,
+  "explanation": "Pro Greena je negativní halucinace radikálnější než vytěsnění: neodsouvá hotový obsah, ale maže vjem či reprezentaci samu — 'reprezentace absence reprezentace'. Má přitom i strukturující líc: negativní halucinace matky vytváří rámující strukturu (structure encadrante), prázdný rám, do něhož se teprve mohou vpisovat další reprezentace; patologickou se práce negativu stává, když prázdno pohltí investici vůbec. Nejde o smyslový klam v psychiatrickém smyslu ani o synonymum represe.",
+  "source": "Green, A.: Le travail du négatif, 1993",
+  "seedElo": 2150
+ }
+]

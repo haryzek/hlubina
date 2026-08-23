@@ -1,0 +1,178 @@
+[
+ {
+  "id": "son-vyv-01",
+  "type": "F",
+  "category": "vyvoj",
+  "text": "Co znamená Bowlbyho pojem monotropie a jak se vztahuje k dalším attachmentovým postavám?",
+  "options": [
+   "Dítě se dokáže připoutat pouze k biologické matce; ostatní pečující osoby attachment nevytvářejí",
+   "Dítě má vrozený sklon preferovat jednu hlavní attachmentovou postavu na vrcholu hierarchie dalších figur",
+   "Kvalita attachmentu k matce se automaticky a beze změny přenáší na všechny další vztahy dítěte",
+   "Dítě se váže ke všem pečujícím osobám rovnocenně a preferenci mezi nimi vytváří až pozdější zkušenost"
+  ],
+  "correct": 1,
+  "explanation": "Monotropie označuje vrozený sklon vytvořit hierarchii attachmentových figur s jednou preferovanou osobou na vrcholu — tou, k níž se dítě uchyluje především při ohrožení. Nemusí jít o biologickou matku a další figury (otec, prarodiče) attachment plnohodnotně vytvářejí, jen stojí v hierarchii níže. Nejde ani o rovnocennost figur, ani o automatický přenos kvality vztahu.",
+  "source": "Bowlby, J.: Attachment and Loss, Vol. 1: Attachment, 1969, kap. 15",
+  "seedElo": 1500
+ },
+ {
+  "id": "son-vyv-02",
+  "type": "K",
+  "category": "vyvoj",
+  "text": "Který rys mateřské péče v prvním roce podle Ainsworthové baltimorské studie nejlépe predikoval jistý attachment ve dvanácti měsících?",
+  "options": [
+   "Celkové množství času stráveného v těsném tělesném kontaktu s dítětem",
+   "Množství podnětové stimulace a aktivního povzbuzování dítěte k exploraci",
+   "Důslednost pevného režimu krmení a spánku nezávisle na signálech dítěte",
+   "Senzitivita — přesné čtení signálů dítěte a promptní, přiléhavá odpověď na ně"
+  ],
+  "correct": 3,
+  "explanation": "Baltimorská domácí pozorování ukázala, že jistotu ve Strange Situation nejlépe predikuje mateřská senzitivita: schopnost signály dítěte vnímat, správně interpretovat a včas a přiměřeně na ně odpovědět. Samotné množství kontaktu ani stimulace prediktorem nebylo a rigidní režim ignorující signály se pojil spíše s nejistotou. Senzitivita se hodnotila na Ainsworthové devítibodových škálách.",
+  "source": "Ainsworth, M. D. S., Blehar, M., Waters, E., Wall, S.: Patterns of Attachment, 1978",
+  "seedElo": 1550
+ },
+ {
+  "id": "son-vyv-03",
+  "type": "K",
+  "category": "vyvoj",
+  "text": "V čem spočívá podle Winnicotta paradox schopnosti být sám (capacity to be alone)?",
+  "options": [
+   "Vzniká zkušeností bytí o samotě v přítomnosti matky, která je nevtíravě k dispozici",
+   "Vzniká postupným prodlužováním separací od matky úměrně věku a zralosti dítěte",
+   "Je vrozenou dispozicí, kterou nadměrně pečující matka svou přítomností oslabuje",
+   "Vzniká identifikací s otcem jako třetím, který dítě vyvazuje ze symbiózy s matkou"
+  ],
+  "correct": 0,
+  "explanation": "Winnicottův paradox zní: schopnost být sám se rodí ze zkušenosti být sám za přítomnosti druhého. Dítě, které si hraje vedle nevtíravě dostupné matky, může být ponořeno do vlastního prožívání bez nároku reagovat — a tuto podpůrnou přítomnost postupně zvnitřní jako dobré vnitřní prostředí. Tréninkem separací ani vrozenou dispozicí kapacita nevzniká; oidipská triangulace je jiný rámec.",
+  "source": "Winnicott, D. W.: The Capacity to be Alone, IJP, 1958",
+  "seedElo": 1600
+ },
+ {
+  "id": "son-vyv-04",
+  "type": "K",
+  "category": "vyvoj",
+  "text": "Co jsou v teorii Daniela Sterna RIGs (reprezentace zobecněných interakcí) a jaký jev z nich vyplývá?",
+  "options": [
+   "Vrozená percepční schémata lidského obličeje, z nichž plyne novorozenecká vizuální preference tváří",
+   "Symbolické fantazie o rodičích, z nichž plyne obsahová podoba pozdějších přenosových reakcí",
+   "Zobecněné paměťové struktury opakovaných interakčních epizod; jejich aktivací vzniká evokovaný společník",
+   "Vědomě vybavitelné vzpomínky na jednotlivé události s matkou, z nichž plyne autobiografická paměť"
+  ],
+  "correct": 2,
+  "explanation": "RIG (Representation of Interactions that have been Generalized) je prototypická paměťová struktura vydestilovaná z mnoha podobných interakčních epizod — „jak to chodí, když jsem s mámou rozrušený\". Její aktivace v nové situaci vyvolá „evokovaného společníka\": prožitkovou přítomnost druhého i v jeho fyzické nepřítomnosti. Jde o preverbální, procedurální reprezentace, ne o symbolické fantazie ani vědomé epizodické vzpomínky.",
+  "source": "Stern, D.: The Interpersonal World of the Infant, 1985, kap. 5",
+  "seedElo": 1700
+ },
+ {
+  "id": "son-vyv-05",
+  "type": "V",
+  "category": "vyvoj",
+  "text": "Muž v AAI vypráví o raných vztazích vcelku uceleně. Když dojde na otcovu smrt, řekne: „Otec zemřel v devadesátém… je to tak lepší, hlídá mě, když v noci řídím,\" na půl minuty ztichne a pak plynule pokračuje jiným tématem. Podle kritéria lapsů v monitorování uvažování a diskurzu toto svědčí nejspíše pro kterou klasifikaci?",
+  "options": [
+   "Preoccupied (E) — narativ pohlcený dosud živým hněvem a zapleteností vůči zemřelému otci",
+   "Unresolved (U) — lokální kolaps monitorování diskurzu u tématu ztráty na organizovaném pozadí",
+   "Dismissing (Ds) — plošná idealizace otce bez konkrétních epizodických dokladů v paměti",
+   "Cannot Classify (CC) — globální rozpad či míšení narativních strategií napříč celým rozhovorem"
+  ],
+  "correct": 1,
+  "explanation": "Výrok, v němž mrtvý otec současně nežije a aktivně „hlídá\", je typický laps v monitorování uvažování (mrtvý jako nadále jednající), doplněný lapsem diskurzu (nepřiznané dlouhé mlčení). Klasifikace U se přiděluje právě za takové lokální kolapsy u ztráty či traumatu, zatímco zbytek narativu může být koherentní — U se proto uvádí s podkladovou organizovanou kategorií. Pro E chybí hněvivá zapletenost, pro CC globální rozpad celého rozhovoru.",
+  "source": "Main, M., Goldwyn, R.: Adult Attachment Scoring and Classification System; Hesse, E. in: Cassidy & Shaver (eds.): Handbook of Attachment, 2008",
+  "seedElo": 1750
+ },
+ {
+  "id": "son-vyv-06",
+  "type": "K",
+  "category": "vyvoj",
+  "text": "Čím Lyons-Ruth rozšířila hypotézu Main a Hesseho o vzniku dezorganizovaného attachmentu (typ D)?",
+  "options": [
+   "Prokázala, že dezorganizaci působí jen zjevné týrání a hrubé zanedbávání, nikoli subtilnější chování pečující osoby",
+   "Ukázala, že vystrašené (frightened) chování matky dezorganizaci predikuje, zatímco děsivé (frightening) chování nikoli",
+   "Přesunula vysvětlení z chování matky na temperamentovou dráždivost dítěte doloženou behaviorální genetikou",
+   "Doložila, že D predikuje i širší narušená komunikace matky — rozporné signály, záměna rolí — bez zjevně děsivého chování"
+  ],
+  "correct": 3,
+  "explanation": "Main a Hesse vysvětlovali dezorganizaci vystrašeným či děsivým chováním rodiče. Lyons-Ruth s kolegy (systém AMBIANCE) doložila, že D predikuje širší spektrum narušené afektivní komunikace: afektivní chyby (protichůdné signály, nereagování na distres), dezorientace, negativně-intruzivní chování, záměna rolí a stažení — i tam, kde nic zjevně děsivého nepozorujeme. Dezorganizace tedy nevyžaduje týrání a temperamentové vysvětlení data nepodporují.",
+  "source": "Lyons-Ruth, K., Bronfman, E., Parsons, E.: Atypical maternal behavior and disorganized infant attachment, Monographs of the SRCD, 1999",
+  "seedElo": 1800
+ },
+ {
+  "id": "son-vyv-07",
+  "type": "V",
+  "category": "vyvoj",
+  "text": "Pacientka s hraniční poruchou osobnosti popisuje, že v ní „sedí někdo cizí, kdo ji nenávidí\". Úlevu zažívá, když partnera vyprovokuje k výbuchu — nenávist je pak venku, v něm. Sebepořezání popisuje jako „vyříznutí toho cizího\". Z hlediska Fonagyho vývojového modelu tento obraz nejpřesněji vystihuje který pojem?",
+  "options": [
+   "Alien self — zvnitřněný cizorodý díl self z nekontingentního zrcadlení, externalizovaný do druhých",
+   "Falešné self — fasáda z compliance, jež skrývá spontánní pravé jádro před nároky prostředí",
+   "Projektivní identifikace v kleiniánském smyslu — fantazijní umístění odštěpené části ega do vnějšího objektu",
+   "Identifikace s agresorem — obranné převzetí role a atributů útočníka v pojetí Anny Freudové"
+  ],
+  "correct": 0,
+  "explanation": "Alien self vzniká, když dítě místo svého zrcadleného stavu zvnitřní nekontingentní či neznačkovanou reprezentaci stavu rodiče — v self pak sídlí cizorodá, často perzekuční část. Nutkavá externalizace (vyprovokovat druhého, aby cizí část nesl on) a sebepoškození jako pokus zbavit se jí tělesně jsou přesně mechanismy, jimiž Fonagy vysvětluje hraniční dynamiku. Winnicottovo falešné self je fasáda compliance, ne nenávistný vnitřní obyvatel; kleiniánská projektivní identifikace popisuje fantazii bez tohoto vývojového mechanismu zrcadlení.",
+  "source": "Fonagy, P., Gergely, G., Jurist, E., Target, M.: Affect Regulation, Mentalization, and the Development of the Self, 2002",
+  "seedElo": 1850
+ },
+ {
+  "id": "son-vyv-08",
+  "type": "K",
+  "category": "vyvoj",
+  "text": "Co podle Winnicotta (The Use of an Object) umožňuje dítěti přejít od vztahování se k objektu (object-relating) k jeho užívání (object-usage)?",
+  "options": [
+   "Matčino aktivní a zveličené zrcadlení agresivních impulzů dítěte v bezpečném rámci hry",
+   "Slovní interpretace destruktivních fantazií dítěte ze strany rodiče nebo terapeuta",
+   "Přežití objektu — ustojí destrukci bez odvety a bez zhroucení, a tím se stane reálným",
+   "Vytěsnění destruktivity do nevědomí a její nahrazení reaktivní vděčností vůči objektu"
+  ],
+  "correct": 2,
+  "explanation": "Ve vztahování je objekt ještě svazkem projekcí; reálným a užitečným se stane teprve tehdy, když dítě objekt ve fantazii „zničí\" a objekt destrukci přežije — neoplatí ji, nezhroutí se, nestáhne se. Tím se ocitá mimo dosah dětské omnipotence, tedy skutečně venku, a lze ho užívat jako nezávislý zdroj. Interpretace ani vytěsnění tento krok nezajistí; klíčové je přežití, ne zrcadlení agrese.",
+  "source": "Winnicott, D. W.: The Use of an Object, IJP, 1969; Playing and Reality, 1971",
+  "seedElo": 1900
+ },
+ {
+  "id": "son-vyv-09",
+  "type": "K",
+  "category": "vyvoj",
+  "text": "Čím se v Sternově pojetí liší vitalitní afekty (vitality affects) od kategoriálních afektů?",
+  "options": [
+   "Vitalitní jsou vrozené a univerzální, kategoriální se dítě učí až sociálním odkazováním z tváře matky v druhém půlroce",
+   "Vitalitní jsou dynamické kontury prožívání — vzdouvání, odeznívání, výbuch — provázející každý akt; kategoriální jsou diskrétní emoce",
+   "Vitalitní afekty jsou čistě fyziologické aktivace bez psychického obsahu, kategoriální afekty jsou tytéž aktivace po kognitivním zhodnocení situace",
+   "Vitalitní afekty patří vynořujícímu se self a v dalším vývoji mizí, kategoriální afekty nastupují s jádrovým self a přetrvávají celý život"
+  ],
+  "correct": 1,
+  "explanation": "Vitalitní afekty jsou časově-dynamické kvality prožívání — crescendo, odplývání, exploze, váhavost — přítomné v každém chování bez ohledu na to, zda probíhá nějaká kategoriální emoce; Stern je popisoval kinetickými termíny. Kategoriální afekty jsou diskrétní darwinovské emoce (radost, hněv, smutek). Právě vitalitní kontury jsou hlavním médiem afektové atunace a podle Sterna nikdy nemizí — nesou hudební a taneční rozměr prožívání po celý život.",
+  "source": "Stern, D.: The Interpersonal World of the Infant, 1985, kap. 3",
+  "seedElo": 1950
+ },
+ {
+  "id": "son-vyv-10",
+  "type": "K",
+  "category": "vyvoj",
+  "text": "Jakou roli přisoudila Mary Main (1991) metakognitivnímu monitorování v attachmentovém výzkumu?",
+  "options": [
+   "Je v jejím pojetí přesným synonymem Fonagyho reflektivní funkce a hodnotí se toutéž devítibodovou škálou na AAI",
+   "Umožňuje dítěti již ve Strange Situation vědomě přepínat mezi minimalizační strategií typu A a maximalizační strategií typu C",
+   "V AAI se projevuje sledováním vlastní řeči a jejích omylů; souvisí s jistotou a s ochranou před přenosem traumatu",
+   "Rozvíjí se nezávisle na attachmentové historii jako čistě exekutivní kognitivní funkce dozrávající až ve školním věku"
+  ],
+  "correct": 2,
+  "explanation": "Main rozlišila metakognitivní znalost (chápání zdání a skutečnosti, reprezentační změny) a metakognitivní monitorování — průběžné sledování vlastního myšlení a řeči, v AAI viditelné v komentářích typu „vlastně si protiřečím\". Koherentní, jistí mluvčí monitorují více; u dětí může rozvinutá metakognice tlumit dopad děsivé zkušenosti, a působí tak proti mezigeneračnímu přenosu. S reflektivní funkcí koncept úzce souvisí a byl jejím předchůdcem, ale není to totéž ani tatáž škála; o vědomé volbě strategie batoletem Main nemluví.",
+  "source": "Main, M.: Metacognitive knowledge, metacognitive monitoring, and singular (coherent) vs. multiple (incoherent) models of attachment, in: Parkes, Stevenson-Hinde, Marris (eds.): Attachment Across the Life Cycle, 1991",
+  "seedElo": 2050
+ },
+ {
+  "id": "son-vyv-11",
+  "type": "K",
+  "category": "vyvoj",
+  "text": "V čem klasifikace hostile–helpless (HH) stavů mysli podle Lyons-Ruth doplňuje standardní kategorii unresolved (U) na AAI?",
+  "options": [
+   "HH nahrazuje kategorii U u těch mluvčích, kteří žádnou ztrátu ani trauma nezažili, a kóduje se výhradně u této skupiny respondentů",
+   "HH je oficiální subtyp kategorie preoccupied (E3), vyhrazený pro mluvčí s diagnostikovanou hraniční poruchou osobnosti",
+   "HH kóduje neverbální doprovod výpovědí při rozhovoru, zatímco U se opírá výhradně o jazykový obsah pasáží o traumatu",
+   "HH zachycuje globálně nezintegrovaná, protikladná hodnocení figur v celém přepisu; U jen lokální lapsy u ztráty a traumatu"
+  ],
+  "correct": 3,
+  "explanation": "Kódování U je vázáno na lokální lapsy v pasážích o ztrátě a traumatu, takže míjí mluvčí, jejichž trauma je vztahové a prostupuje celý narativ. HH se kóduje napříč celým přepisem: hostilní pól charakterizuje identifikace s hostilní pečující figurou při jejím současném znehodnocení, bezmocný pól prostupující bezmoc a strach. HH predikuje dezorganizaci dítěte i nad rámec U a hraniční patologii, ale není subtypem E ani náhradou U a neopírá se o neverbální kódování.",
+  "source": "Lyons-Ruth, K., Yellin, C., Melnick, S., Atwood, G.: Expanding the concept of unresolved mental states: Hostile/Helpless states of mind, Development and Psychopathology, 2005",
+  "seedElo": 2150
+ }
+]

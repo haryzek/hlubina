@@ -74,6 +74,26 @@ přesvědčení. Od další vlny proto:
    **proti zdroji** (ne proti znalostem modelu) a zamítnuté vzorce se
    zapisují do `content/antipatterns.md` jako zákazy pro příští generátory.
 
+## Obory (od v1.1)
+
+Appka má vrstvu **obor → balíček → kniha**: obor (psychoterapie, filosofie,
+vědomí a mysl, přírodní vědy, general) má vlastní Elo hráče a balíčky;
+kniha je balíček vázaný polem `parent` na balíček uvnitř oboru (kniha
+o kvantovce → balíček kvantovka v přírodních vědách). Obor může mít
+balíček „general". Hraje se guláš všeho, jeden obor, jeden balíček
+(včetně jeho knih), nebo jedna kniha.
+
+**Pravidlo: každý balíček dostane sondáž před výrobou otázek** — žebřík
+~10 otázek per téma napříč obtížností (1500–2150), Bob ho odehraje,
+z exportu se přečte jeho strop a teprve podle něj se cílí hlavní generace.
+
+Poučení ze sondáže psychoterapie (2026-08-23): **form-guesser nefunguje**
+— model nedokáže „nevědět" obsah, trefil 77/77 a jeho „formální signály"
+jsou racionalizace znalostí. Anti-tell se hlídá jedině mechanicky:
+poměr délek options ≤ 1,25, správná nejdelší max ~35 % (validate.mjs),
+plus délkový korektor jako opravný průchod. Staré balíčky v1 mají tell
+94 % — při nejbližší vlně projít korektorem.
+
 ## Dlouhodobý provoz: výrobní večery
 
 Rytmus: **1 výrobní večer = 1 vlna = 150–350 otázek**, celé v Cowork /

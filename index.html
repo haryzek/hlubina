@@ -17,8 +17,10 @@
   <nav>
     <button id="btn-stats" class="icon-btn" aria-label="Statistiky">▤</button>
     <button id="btn-settings" class="icon-btn" aria-label="Nastavení">⚙</button>
+    <button id="btn-obor" class="icon-btn" aria-label="Obor">☰</button>
   </nav>
 </header>
+<div id="obor-menu" class="hidden"></div>
 
 <main>
   <section id="view-question" class="view">
@@ -34,6 +36,7 @@
       <details id="fb-deepdive" class="hidden"><summary>Jít hlouběji</summary><div id="fb-deepdive-body"></div></details>
       <div id="fb-actions">
         <button id="btn-flag" class="ghost-btn">🐟 smrdí mi to</button>
+        <button id="btn-keep" class="ghost-btn">♻ nechat</button>
         <button id="btn-next">Další</button>
       </div>
     </div>
@@ -60,6 +63,11 @@
       <button id="btn-export">Exportovat zálohu</button>
       <button id="btn-import">Importovat zálohu</button>
       <input type="file" id="import-file" accept="application/json" class="hidden">
+    </div>
+    <div class="set-block">
+      <h3>Hraješ z</h3>
+      <select id="pool-select"></select>
+      <p class="hint">Všechno = mix všech balíčků. Volba jednoho balíčku (třeba knihy) omezí kvíz jen na něj.</p>
     </div>
     <div class="set-block">
       <h3>Balíčky</h3>

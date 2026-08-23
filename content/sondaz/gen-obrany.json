@@ -1,0 +1,178 @@
+[
+ {
+  "id": "son-obr-01",
+  "type": "V",
+  "category": "obrany",
+  "text": "Klientka po každé hádce, v níž jí partner podle jejího líčení zjevně křivdí, neprotestuje a nezlobí se. Místo toho ji doma zaplaví sebenenávist — 'jsem hrozná, všechno kazím' — a několikrát se poškrábala do krve. Zlost na partnera u sebe vůbec nenachází. Který mechanismus nejlépe vystihuje osud jejího agresivního impulzu?",
+  "options": [
+   "Introjekce — partnerova kritika je přijata dovnitř jako vlastní vnitřní hlas",
+   "Masochistické odčinění — sebepoškozením magicky ruší svou vinu z hádky",
+   "Obrácení proti vlastní osobě — agrese vůči objektu je odkloněna na sebe",
+   "Pasivní agrese — zlost na partnera je vyjádřena nepřímo skrze utrpení"
+  ],
+  "correct": 2,
+  "explanation": "Obrácení proti vlastní osobě (turning against the self) je jedním z Freudových 'osudů pudu': impulz zůstává agresivní a aktuální, mění se jen jeho cíl — z objektu na subjekt, typicky protože zlost na potřebný objekt je nepřijatelná či nebezpečná. Introjekce by vyžadovala zvnitřněný kritizující hlas partnera, který vinětka nepopisuje; odčinění by rušilo už proběhlý čin a pasivní agrese by zlost stále mířila na partnera, byť oklikou — zde ale afekt zcela mění adresáta.",
+  "source": "Freud, S.: Pudy a jejich osudy (1915); Freudová, A.: Já a obranné mechanismy (1936)",
+  "seedElo": 1500
+ },
+ {
+  "id": "son-obr-02",
+  "type": "K",
+  "category": "obrany",
+  "text": "Vaillant řadí anticipaci mezi pět zralých obran. Čím se z hlediska definičního kritéria zralá anticipace liší od úzkostného ruminování o budoucnosti?",
+  "options": [
+   "Anticipace předem dávkuje afekt a vede k reálné přípravě; ruminace afekt jen opakuje bez řešení",
+   "Anticipace se týká výhradně pozitivních událostí, ruminace výhradně negativních scénářů budoucnosti",
+   "Anticipace je plně nevědomý proces, ruminace je vědomá strategie zvládání nejistoty",
+   "Anticipace budoucí hrozbu adaptivně zlehčuje, ruminace ji naopak realisticky zvětšuje"
+  ],
+  "correct": 0,
+  "explanation": "Definičním znakem zralé anticipace je, že budoucí bolest je prožita předem po snesitelných dávkách a přetavena v konkrétní přípravu — afekt slouží plánování. Ruminace afekt opakovaně spouští, ale nikam ho nevede: chybí propracování i příprava. Valence události kritériem není (anticipovat lze právě hrozby) a zlehčování hrozby by bylo popřením, nikoli anticipací; vědomost obě formy sdílejí jen částečně a rozdíl nezakládá.",
+  "source": "Vaillant, G. E.: Adaptation to Life (1977); Vaillant, G. E.: The Wisdom of the Ego (1993)",
+  "seedElo": 1550
+ },
+ {
+  "id": "son-obr-03",
+  "type": "V",
+  "category": "obrany",
+  "text": "Manažerka, která se v situacích hodnocení a závislosti na moci druhých cítívala v dětství bezmocná, opakovaně navazuje erotizované vztahy právě s muži, kteří rozhodují o její kariéře. Vzrušení popisuje jako nejsilnější tam, kde je v sázce její pozice; strach ani bezmoc si v těchto situacích neuvědomuje. Který mechanismus nejlépe vystihuje osud její úzkosti z bezmoci?",
+  "options": [
+   "Sublimace — erotická energie je tvořivě přesměrována do pracovních vztahů",
+   "Sexualizace — ohrožující prožitek bezmoci je nevědomě přetvořen ve vzrušení",
+   "Acting out — konflikt s autoritou je odehráván v impulzivním navazování vztahů",
+   "Kontrafobní obrana — klientka záměrně vyhledává situace, jichž se děsí"
+  ],
+  "correct": 1,
+  "explanation": "Sexualizace (erotizace) podle McWilliams transformuje děsivý zážitek — bezmoc, závislost, ponížení — ve vzrušení, a mění tak trauma v pocit moci a slasti; vodítkem je vazba vzrušení právě na situace původního ohrožení při současné nepřítomnosti vědomého strachu. Sublimace by šla opačným směrem (od pudu k nesexuálnímu cíli). Kontrafobní vzorec předpokládá vědomě pociťovaný strach, který je vyhledáván a přemáhán, a acting out nevysvětluje specificky erotickou přeměnu afektu.",
+  "source": "McWilliams, N.: Psychoanalytická diagnóza (1994/2015), kap. Sexualizace",
+  "seedElo": 1600
+ },
+ {
+  "id": "son-obr-04",
+  "type": "K",
+  "category": "obrany",
+  "text": "Kleinovská tradice popisuje manickou obranu jako organizovanou odpověď na úzkosti depresivní pozice — na vinu, ztrátu a závislost na objektu. Která triáda postojů vůči objektu ji definuje?",
+  "options": [
+   "Závist, chamtivost a žárlivost",
+   "Idealizace, devalvace a popření",
+   "Vina, reparace a vděčnost",
+   "Kontrola, triumf a pohrdání"
+  ],
+  "correct": 3,
+  "explanation": "Manická obrana popírá závislost na objektu i bolest z jeho poškození pomocí charakteristické triády: kontrola (objekt nemůže odejít ani zranit), triumf (jsem nad ním, ztráta mě nebolí) a pohrdání (nestojí za to, aby jeho ztráta bolela). Závist–chamtivost–žárlivost je Kleinové trojice primárních destruktivních postojů, ne obrana proti depresivní pozici; vina–reparace–vděčnost patří k jejímu zdravému zpracování a idealizace–devalvace–popření je volná směs primitivních obran bez tohoto specifického určení.",
+  "source": "Klein, M.: Mourning and its Relation to Manic-Depressive States (1940); Segal, H.: Introduction to the Work of Melanie Klein (1964)",
+  "seedElo": 1700
+ },
+ {
+  "id": "son-obr-05",
+  "type": "V",
+  "category": "obrany",
+  "text": "Bezdětná žena léta financuje a organizuje pěveckou kariéru mladší sestry. Vlastní hudební ambice, v mládí výrazné, 'už dávno nemá' a nedokáže si představit vlastní vystoupení. Sestřiny úspěchy prožívá s intenzitou, jako by byly její, při sestřině neúspěchu se hroutí víc než sestra sama a bez sestřiny kariéry by její život 'neměl smysl'. Který mechanismus vzorec nejlépe vystihuje?",
+  "options": [
+   "Zralý altruismus — vlastní přání jsou uspokojována pružnou službou druhému",
+   "Projektivní identifikace — sestra je nucena nést odštěpenou agresi klientky",
+   "Altruistické odstoupení — vlastní přání jsou postoupena zástupci a žita skrze něj",
+   "Reaktivní výtvor — rivalita vůči sestře je přeměněna v okázale a nutkavě obětavou péči"
+  ],
+  "correct": 2,
+  "explanation": "Altruistické odstoupení (altruistic surrender) popsala Anna Freudová: subjekt se vlastních zakázaných či úzkostných přání vzdá, uloží je do vhodného zástupce a uspokojuje je zástupně — odtud intenzita prožívání cizích úspěchů, zhroucení při zástupcově selhání a prázdnota vlastního přání. Zralý altruismus vlastní život neruší a nese uspokojení bez závislosti na zástupci. Reaktivní výtvor by obracel hostilitu, pro niž tu chybí doklad, a projektivní identifikace by ukládala nesnesitelný afekt, ne celé ambice self.",
+  "source": "Freudová, A.: Já a obranné mechanismy (1936), kap. Forma altruismu",
+  "seedElo": 1750
+ },
+ {
+  "id": "son-obr-06",
+  "type": "K",
+  "category": "obrany",
+  "text": "Freud vedle vytěsnění (Verdrängung) a popření (Verleugnung) pracoval i s pojmem zavržení (Verwerfung), který Lacan rozpracoval jako forkluzi — mechanismus psychózy. Co je jejím definičním znakem oproti vytěsnění?",
+  "options": [
+   "Obsah nebyl nikdy symbolicky zapsán a vrací se subjektu zvenčí, z reálna",
+   "Obsah je symbolizován a vrací se v přestrojení snů a chybných úkonů",
+   "Obsah je zapsán dvojmo a subjekt mezi oběma verzemi zápisu trvale osciluje",
+   "Obsah je vědomě odmítnut a subjekt ho pak záměrně drží mimo pozornost"
+  ],
+  "correct": 0,
+  "explanation": "U vytěsnění je obsah symbolicky zapsán a z nevědomí se vrací zevnitř, v derivátech — snech, symptomech, přeřeknutích ('návrat vytěsněného'). Forkluze znamená, že klíčový signifikant do symbolického řádu nikdy nevstoupil; co bylo zavrženo uvnitř, vrací se zvenčí — halucinačně, z reálna, jako u Vlčího muže či Schrebera. Dvojí zápis s oscilací odpovídá rozštěpu já u fetišismu (Verleugnung) a vědomé odmítání je suprese, žádný z psychotických mechanismů.",
+  "source": "Freud, S.: Z dějin infantilní neurózy ('Vlčí muž', 1918); Lacan, J.: Seminář III — Psychózy (1955–56)",
+  "seedElo": 1800
+ },
+ {
+  "id": "son-obr-07",
+  "type": "V",
+  "category": "obrany",
+  "text": "Muž týraný v dětství oběma rodiči v terapii neochvějně opakuje, že rodiče 'dělali, co mohli', a bití si 'zasloužil, protože byl nezvladatelné dítě'. Když terapeut jemně zpochybní jeho vinu, klient reaguje nárůstem úzkosti a zhoršením stavu — jako by bylo bezpečnější být špatný on než mít špatné rodiče. Který koncept dynamiku nejlépe vystihuje?",
+  "options": [
+   "Identifikace s agresorem — muž přejal rodičovskou roli i hodnocení své osoby",
+   "Racionalizace — muž si bití zpětně zdůvodňuje jako nutnou součást výchovy",
+   "Primitivní idealizace — rodiče jsou obsazeni jako dokonalé mocné objekty",
+   "Morální obrana — vina je vzata na sebe, aby objekty zůstaly dobré"
+  ],
+  "correct": 3,
+  "explanation": "Fairbairnova morální obrana: dítě závislé na špatných objektech si jejich špatnost zvnitřní jako vlastní vinu, protože 'hříšník ve světě řízeném Bohem' má naději a bezpečí, kdežto dítě dobrého self ve světě špatných objektů žádné — proto zpochybnění viny paradoxně zvyšuje úzkost. Identifikace s agresorem by se projevila přejetím agresorova jednání vůči druhým, racionalizace nevysvětlí úzkost při nabídce úlevy a idealizace popisuje jen polovinu operace — chybí jí klíčový přesun špatnosti do self.",
+  "source": "Fairbairn, W. R. D.: The Repression and the Return of Bad Objects (1943), in: Psychoanalytic Studies of the Personality (1952)",
+  "seedElo": 1850
+ },
+ {
+  "id": "son-obr-08",
+  "type": "K",
+  "category": "obrany",
+  "text": "Terapeut pacienta, který byl v dětství soustavně ponižován, u sebe rozlišuje dva opakující se protipřenosové stavy: někdy cítí pacientův stud a vlastní malost, jindy se přistihne při impulzu pacienta káravě poučovat z pozice převahy. Jak tyto dva stavy rozlišuje Rackerova klasifikace?",
+  "options": [
+   "První je komplementární identifikace se self pacienta, druhý konkordantní s objektem",
+   "První je konkordantní identifikace se self, druhý komplementární s vnitřním objektem",
+   "První je empatická rezonance, druhý je terapeutův vlastní přenos na pacienta",
+   "Oba jsou konkordantní identifikace — liší se pouze valencí prožívaného afektu"
+  ],
+  "correct": 1,
+  "explanation": "Racker rozlišil konkordantní identifikaci — terapeut se identifikuje s pacientovým self a cítí to, co pacient (stud, malost) — a komplementární identifikaci, kdy je terapeut tlačen do role pacientova vnitřního objektu (zde ponižující autority) a prožívá její postoje. První distraktor obě definice přesně prohazuje. Rozlišení je klinicky zásadní: konkordantní stav podporuje empatii, komplementární hrozí odehráním objektní role, není-li rozpoznán jako informace o pacientově vnitřním vztahovém páru.",
+  "source": "Racker, H.: The Meanings and Uses of Countertransference (1957); Racker, H.: Transference and Countertransference (1968)",
+  "seedElo": 1900
+ },
+ {
+  "id": "son-obr-09",
+  "type": "V",
+  "category": "obrany",
+  "text": "Pacient s psychotickou organizací: kdykoli terapeutova interpretace dává smysl a na okamžik oba spojí ve sdíleném porozumění, pacient ji vzápětí rozdrobí — přeruší větu, znejasní, co sám právě řekl, prohlásí, že 'slova stejně nic neznamenají'. Terapeut opakovaně zažívá, že myšlenky v místnosti se rozpadají a nelze na nich stavět. Který Bionův koncept dění nejlépe vystihuje?",
+  "options": [
+   "Útoky na spojování — destrukce spojů mezi myšlenkami i mezi objekty",
+   "Negativní terapeutická reakce — zhoršení stavu po každém pokroku léčby",
+   "Intelektualizace — významy jsou drženy v bezpečné abstraktní rovině",
+   "Disociace — pacient se při interpretacích odpojuje od kontaktu s realitou"
+  ],
+  "correct": 0,
+  "explanation": "Bionovy 'útoky na spojování' (attacks on linking): psychotická část osobnosti napadá samotné spoje — mezi myšlenkou a myšlenkou, mezi pacientem a objektem, mezi slovem a významem — protože spojení oživuje nesnesitelnou závislost a smysl; výsledkem je fragmentace, kterou terapeut zažívá jako rozpad myšlení v místnosti. Negativní terapeutická reakce ničí zlepšení z nevědomé viny, ne spoje samotné; intelektualizace významy uchovává, jen je odosobňuje, a disociace by odpojila stav vědomí, ne cíleně destruovala vazby smyslu.",
+  "source": "Bion, W. R.: Attacks on Linking, Int. J. Psychoanal. (1959)",
+  "seedElo": 1950
+ },
+ {
+  "id": "son-obr-10",
+  "type": "K",
+  "category": "obrany",
+  "text": "John Steiner popisuje 'patologickou organizaci osobnosti', jež pacientovi poskytuje psychické útočiště (psychic retreat). Čím se tento útvar podle Steinera liší od jednotlivé obrany či běžného obranného repertoáru?",
+  "options": [
+   "Je tvořen výhradně psychotickými mechanismy se ztrátou testování reality",
+   "Jde o vývojově nejranější obranu, která předchází štěpení i projekci",
+   "Je to pevně svázaný systém obran nabízející úkryt před úzkostmi obou pozic",
+   "Je to synonymum hraniční organizace v Kernbergově strukturálním smyslu"
+  ],
+  "correct": 2,
+  "explanation": "Steinerova patologická organizace není jedna obrana, ale rigidní, vzájemně se podpírající systém obran (často personifikovaný jako vnitřní 'gang' po vzoru Rosenfeldova destruktivního narcismu), který nabízí útočiště jak před fragmentační úzkostí paranoidně-schizoidní pozice, tak před vinou a ztrátou pozice depresivní — pacient v něm uvázne mezi oběma, relativně stabilní, ale bez vývoje. Nekryje se s Kernbergovou hraniční organizací (jde o jiný teoretický rámec i rozsah), nevyžaduje ztrátu testování reality a není vývojově nejranější operací.",
+  "source": "Steiner, J.: Psychic Retreats (1993); Rosenfeld, H.: A Clinical Approach to the Psychoanalytic Theory of the Life and Death Instincts (1971)",
+  "seedElo": 2050
+ },
+ {
+  "id": "son-obr-11",
+  "type": "V",
+  "category": "obrany",
+  "text": "Pacientka s těžkou ranou deprivací v úzkostných momentech sezení sotva znatelně rytmicky pohupuje chodidlem, přejíždí prstem po hraně opěrky a šeptem si opakuje terapeutova slova — zjevně pro jejich rytmus a zvuk, ne význam. Nepůsobí odpojeně od reality ani od vztahu; spíš jako by se držela povrchů a rytmů, aby se 'nerozsypala'. Který koncept z Ogdenova rozšíření kleinovského modelu prožívání nejlépe vystihuje?",
+  "options": [
+   "Disociativní obrana — vědomí se za úzkosti obranně odpojuje od těla, vztahu i reality",
+   "Autisticko-kontiguitní obrana — soudržnost self drží smyslový rytmus a povrch",
+   "Regrese — pacientka se pod tíhou úzkosti vrací k přechodovým objektům dětství",
+   "Izolace afektu — pozornost ke smyslovým detailům odděluje emoci od obsahu"
+  ],
+  "correct": 1,
+  "explanation": "Ogden k paranoidně-schizoidní a depresivní pozici přidal autisticko-kontiguitní mód: nejelementárnější rovinu prožívání, kde je soudržnost self generována smyslovostí — rytmem, tvrdými hranami, kontinuitou povrchu. Obrany tohoto módu (senzorická sebestimulace, lpění na 'tvrdém objektu') brání úzkosti z rozpadu a beztvarosti, nikoli z pronásledování či viny. Disociaci vinětka výslovně vylučuje (kontakt trvá), regrese k přechodovému objektu by předpokládala symbolickou funkci předmětu, a izolace afektu operuje na reprezentacích, ne na senzorickém dnu prožívání.",
+  "source": "Ogden, T. H.: The Primitive Edge of Experience (1989)",
+  "seedElo": 2150
+ }
+]
