@@ -39,6 +39,30 @@ launch config „hlubina".
 - Flag „🐟 smrdí mi to" ukládá `flag` do qstate — je v exportu a je to
   hlavní zpětná vazba kvality obsahu.
 
+## Jak funguje Elo (a kde má strop)
+
+1. **Očekávání.** Před odpovědí se z rozdílu hráčova Ela (Rp) a Ela
+   otázky (Rq) spočítá pravděpodobnost úspěchu:
+   `E = 1/(1+10^((Rq−Rp)/400))`. 400 bodů rozdílu = 10× vyšší šance;
+   stejné Elo → E = 0,5. Hráč 2141 proti otázce 1500 → E ≈ 0,97.
+2. **Zúčtování.** Po odpovědi hráč dostane `K × (výsledek − E)`.
+   K = 32 do 200 odpovědí v oboru, pak 24, po 1000 odpovědích 16.
+   Prakticky: poražená otázka na vlastní úrovni ≈ +16; poražená otázka
+   o 600 níž ≈ +1, ale prohra s ní ≈ −31. **Elo je účetnictví
+   překvapení — platí se jen za informaci.**
+3. **Otázky hrají taky.** Každá otázka má vlastní Elo (start = seedElo
+   z balíčku) a aktualizuje se zrcadlově s K = 12: poražená klesá,
+   vítězná roste. Pool se sám dokalibrovává a otázky, které hráč kazí,
+   stoupají za ním → hra se personalizuje na slabiny (záměr).
+4. **Strop.** Matematicky žádný; prakticky **strop poolu + pár stovek**.
+   Elo se ustálí tam, kde hráč vyhrává přesně tak často, jak formule
+   čeká. Nad nejtěžšími otázkami se zisky scvrknou na desetiny bodu
+   a jediná chyba stojí ~30 — přes to se nedá prošplhat. Navíc porážené
+   otázky klesají (K=12), takže si hráč „spásá potravu pod nohama".
+   Empiricky: v1 pool (strop otázek ~1900) zastavil Boba na ~2020;
+   po sondáži (strop 2150) je na ~2140. Chceš vyšší číslo → musí přijít
+   těžší odpor, ne víc hraní.
+
 ## Provozní rituály (každý deploy)
 
 1. `node tools/validate.mjs` musí projít (schéma, duplicity, anti-tell).
