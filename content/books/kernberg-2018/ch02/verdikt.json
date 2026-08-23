@@ -1,0 +1,42 @@
+{
+  "otazky": [
+    {"id": "k18-c02-101", "verdict": "pass"},
+    {"id": "k18-c02-102", "verdict": "pass"},
+    {"id": "k18-c02-103", "verdict": "pass"},
+    {"id": "k18-c02-104", "verdict": "pass"},
+    {"id": "k18-c02-105", "verdict": "pass"},
+    {"id": "k18-c02-106", "verdict": "pass"},
+    {"id": "k18-c02-107", "verdict": "pass"},
+    {"id": "k18-c02-108", "verdict": "pass"},
+    {"id": "k18-c02-109", "verdict": "pass"},
+    {"id": "k18-c02-110", "verdict": "pass"},
+    {"id": "k18-c02-111", "verdict": "pass"},
+    {"id": "k18-c02-112", "verdict": "pass"},
+    {"id": "k18-c02-113", "verdict": "pass"},
+    {"id": "k18-c02-114", "verdict": "pass"},
+    {"id": "k18-c02-201", "verdict": "pass"},
+    {"id": "k18-c02-202", "verdict": "pass"},
+    {"id": "k18-c02-203", "verdict": "pass"},
+    {"id": "k18-c02-204", "verdict": "pass"},
+    {"id": "k18-c02-205", "verdict": "pass"},
+    {"id": "k18-c02-206", "verdict": "pass"},
+    {"id": "k18-c02-207", "verdict": "pass"},
+    {"id": "k18-c02-208", "verdict": "pass"},
+    {"id": "k18-c02-209", "verdict": "pass"},
+    {"id": "k18-c02-210", "verdict": "pass"},
+    {"id": "k18-c02-211", "verdict": "pass"},
+    {"id": "k18-c02-212", "verdict": "pass"},
+    {"id": "k18-c02-213", "verdict": "pass"},
+    {"id": "k18-c02-214", "verdict": "pass"}
+  ],
+  "diry": [
+    {"mapId": "m15", "item": "Deskriptivně má poruchu osobnosti ten, jehož rigidita osobnosti dosahuje bodu, kdy významně, konzistentně a chronicky narušuje každodenní fungování a/nebo způsobuje významnou distresu jemu nebo okolí.", "proc": "Je to samotná deskriptivní definice poruchy osobnosti — otázky pokrývají rigiditu rysů, ale ne definiční práh, kdy se z rigidity stává porucha."},
+    {"mapId": "m31", "item": "Higher level personality pathology — relativně zdravá skupina (NPO plus hybridní struktury na hranici high BPO/NPO), která dobře reaguje na méně strukturovanou formu TFP-E.", "proc": "Klíčový termín, kterým kniha vymezuje celou cílovou kohortu méně strukturované TFP-E, a žádná otázka ho nezasahuje."},
+    {"mapId": "m33", "item": "Neurotická úroveň organizace zahrnuje obsedantně-kompulzivní, depresivní a vyšší hysterickou poruchu osobnosti, zdravější subset vyhýbavé poruchy a subsyndromální patologii.", "proc": "Přiřazení konkrétních poruch k NPO je jádro klasifikačního obsahu kapitoly (Figure 2-2) a žádná otázka mapování netestuje."},
+    {"mapId": "m37", "item": "Hraniční úroveň organizace zahrnuje závislou, histriónskou, narcistickou, hraniční, paranoidní, schizoidní a antisociální poruchu osobnosti.", "proc": "Výčet poruch spadajících do BPO je základní klasifikační znalost kapitoly, kterou žádná otázka nezasahuje."},
+    {"mapId": "m41", "item": "BPO se dále dělí na high/middle/low podle kvality objektních vztahů a morálního fungování (spolu s narůstající patologií identity).", "proc": "Otázky jmenují tři BPO pásma, ale kritéria, PODLE ČEHO se dělí (objektní vztahy + morální fungování), netestuje žádná."},
+    {"mapId": "m42", "item": "Klíčové rozlišení high-BPO vs. middle/low-BPO: u middle/low je centrální špatně integrovaná agrese, u high-BPO dominují úzkosti kolem závislosti a sebehodnocení, agrese je sekundární.", "proc": "Text tuto distinkci označuje jako 'essential distinction' mezi podskupinami BPO a žádná otázka ji nezasahuje."},
+    {"mapId": "m43", "item": "High-BPO: závislá, histriónská, narušenější vyhýbavá a zdravější narcistické spektrum; low-BPO: antisociální porucha a malignní narcismus.", "proc": "Konkrétní obsazení nejzdravějšího a nejzávažnějšího BPO pásma (včetně malignního narcismu) je jádrová klasifikace s prognostickým dopadem, netestovaná žádnou otázkou."},
+    {"mapId": "m76", "item": "Sociální testování reality — schopnost číst sociální signály, rozumět konvencím a reagovat taktně; deficity u BPO vedou k nepřiměřenému chování a mylné interpretaci signálů.", "proc": "Kapitola zavádí sociální testování reality jako samostatný konstrukt odlišný od testování reality proper a žádná otázka ho nezasahuje."}
+  ]
+}

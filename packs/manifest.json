@@ -62,5 +62,14 @@
   "count": 77,
   "version": 1,
   "obor": "psychoterapie"
+ },
+ {
+  "id": "kernberg-2018",
+  "file": "kernberg-2018.json",
+  "title": "Kernberg 2018: TFP-E (kap. 2)",
+  "count": 36,
+  "version": 1,
+  "obor": "psychoterapie",
+  "parent": "struktura"
  }
 ]

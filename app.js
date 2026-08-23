@@ -25,6 +25,7 @@ const CAT_LABELS = {
   'struktura-diagnostika': 'Struktura a diagnostika',
   'smery-mosty': 'Směry a mosty',
   'vyzkum-etika-dejiny': 'Výzkum, etika, dějiny',
+  'kernberg-2018': 'Kernberg: TFP-E',
 };
 
 // ---------- stav ----------

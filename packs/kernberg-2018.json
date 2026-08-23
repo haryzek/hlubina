@@ -1,0 +1,650 @@
+[
+ {
+  "id": "k18-c02-101",
+  "type": "F",
+  "category": "kernberg-2018",
+  "text": "Co přesně podle úvodní definice v kapitole označuje pojem \"osobnost\"?",
+  "options": [
+   "Dynamickou organizaci vzorců chování, poznávání, emocí, motivace a prožívání a vztahování se k druhým",
+   "Soubor nevědomých obranných mechanismů, které si jedinec osvojil k překonání vnitřního psychického konfliktu",
+   "Statický soubor osobnostních rysů daných výhradně genetickou výbavou jedince, neměnný výchovou",
+   "Klinické hodnocení závažnosti poruchy osobnosti pomocí standardizované diagnostické testovací baterie"
+  ],
+  "correct": 0,
+  "explanation": "Text definuje osobnost jako dynamickou organizaci trvalých vzorců chování, poznávání, emocí, motivace a vztahování se k druhým, nikoli jako pouhé obrany, genetiku nebo diagnostický nástroj. Distraktory zaměňují osobnost za jednu z jejích dílčích součástí či za metodu jejího hodnocení.",
+  "deepDive": "**Přímo z textu** (oddíl 'Personality and Personality Disorders Within the Framework of Object Relations Theory'):\n\n> \"THE TERM AND CONCEPT OF PERSONALITY refer to the dynamic organization of enduring patterns of behavior, cognition, emotion, motivation, and ways of experiencing and relating to others that are characteristic of an individual.\"\n\nJde o úvodní, záměrně širokou definici, na které pak celá kapitola staví rozlišení deskriptivní a strukturální roviny osobnosti.",
+  "source": "Caligor, Kernberg, Clarkin, Yeomans (2018), kap. 2",
+  "anchor": "oddíl 'Personality and Personality Disorders Within the Framework of Object Relations Theory' — pasáž začínající 'THE TERM AND CONCEPT OF PERSONALITY refer to'",
+  "seedElo": 1550
+ },
+ {
+  "id": "k18-c02-102",
+  "type": "F",
+  "category": "kernberg-2018",
+  "text": "Jaké tři perspektivy psychodynamického popisu osobnosti autoři v Části 1 kapitoly rozlišují?",
+  "options": [
+   "Behaviorální, kognitivní a afektivní",
+   "Deskriptivní, strukturální a dynamickou",
+   "Genetickou, vývojovou a environmentální",
+   "Kategorickou, dimenzionální a hybridní"
+  ],
+  "correct": 1,
+  "explanation": "Autoři výslovně uvádějí tři roviny popisu osobnosti: deskriptivní, strukturální a dynamickou, přičemž první dvě rozvádějí v této kapitole a dynamickou až v kapitole 3. Ostatní trojice pojmů se v textu jako organizující rámec kapitoly neobjevují.",
+  "deepDive": "**Přímo z textu** (oddíl 'Part 1: Psychodynamic Description of Personality and Personality Disorder'):\n\n> \"A PSYCHODYNAMIC DESCRIPTION OF PERSONALITY AND PERSONALITY pathology within the framework of object relations theory is characterized by 1) descriptive, 2) structural, and 3) dynamic features of personality functioning.\"\n\nTato věta funguje jako programové prohlášení celé Části 1 a udává, že strukturální a deskriptivní rovina se doplňují a dynamická přijde na řadu až v následující kapitole.",
+  "source": "Caligor, Kernberg, Clarkin, Yeomans (2018), kap. 2",
+  "anchor": "oddíl 'Part 1: Psychodynamic Description of Personality and Personality Disorder' — pasáž začínající 'A PSYCHODYNAMIC DESCRIPTION OF PERSONALITY'",
+  "seedElo": 1400
+ },
+ {
+  "id": "k18-c02-103",
+  "type": "K",
+  "category": "kernberg-2018",
+  "text": "Jak se od sebe podle textu liší deskriptivní a strukturální perspektiva na osobnost?",
+  "options": [
+   "Deskriptivní se zaměřuje na neurobiologické koreláty rysů, strukturální na sebehodnocené osobnostní dotazníky",
+   "Deskriptivní hodnotí pouze závažnost patologie, zatímco strukturální hodnotí výhradně přítomnost jednotlivých rysů",
+   "Deskriptivní popisuje pozorovatelné shluky rysů, strukturální popisuje stabilní vzorce funkcí organizujících prožívání",
+   "Deskriptivní vychází striktně z teorie objektních vztahů, strukturální naopak z kritérií DSM-5 Sekce II"
+  ],
+  "correct": 2,
+  "explanation": "Deskriptivní rovina pracuje s pozorovatelnými shluky rysů (např. svědomitost, impulzivita), zatímco strukturální rovina popisuje stabilní psychické funkce organizující chování a prožívání, jako je identita nebo obrany. Ostatní možnosti zaměňují oba přístupy za jiné, v textu nepoužité opozice.",
+  "deepDive": "**Přímo z textu** (oddíl 'Psychodynamic Description of Personality and Personality Disorder'):\n\n> \"From a structural perspective, an individual's personality can be described in terms of the relatively stable and enduring patterns of psychological functions or processes that underlie and organize the individual's behavior, perceptions, and subjective experience in predictable ways.\"\n\nTato definice strukturální roviny je záměrně kontrastována s předchozím odstavcem o deskriptivní rovině, která hovoří o \"clusters of personality traits\".",
+  "source": "Caligor, Kernberg, Clarkin, Yeomans (2018), kap. 2",
+  "anchor": "oddíl 'Psychodynamic Description of Personality and Personality Disorder' — pasáž začínající 'From a structural perspective, an individual's personality can be described'",
+  "seedElo": 1600
+ },
+ {
+  "id": "k18-c02-104",
+  "type": "K",
+  "category": "kernberg-2018",
+  "text": "Čím se z deskriptivního hlediska liší uplatnění rysu osobnosti u zdravého jedince od uplatnění rysu v rámci poruchy osobnosti?",
+  "options": [
+   "Zdravý jedinec žádné osobnostní rysy nemá vůbec, teprve poruchou osobnosti tyto rysy postupně vznikají",
+   "Rozdíl spočívá výhradně v intenzitě emočního doprovodu daného rysu, nikoli v jeho flexibilitě či rigiditě",
+   "Porucha osobnosti se projevuje jen v jedné přesně vymezené situaci, zatímco zdravý jedinec je rigidní zcela všude",
+   "Zdravý jedinec rys flexibilně přizpůsobuje kontextu, u poruchy osobnosti je rys rigidní bez ohledu na vhodnost"
+  ],
+  "correct": 3,
+  "explanation": "Text rozlišuje normální osobnost a poruchu osobnosti na základě flexibility versus rigidity aktivace rysů: zdravý člověk rys přizpůsobí situaci, u poruchy osobnosti se rys aktivuje stále stejně, i když je to maladaptivní. Ostatní možnosti popírají, že by rysy měl i zdravý jedinec, nebo staví rozdíl na jiném kritériu, než uvádí text.",
+  "deepDive": "**Přímo z textu** (oddíl 'Trait-Based Diagnosis of Personality Disorders and DSM-5 Section II'):\n\n> \"When traits are rigid, the individual is unable to change his behavior, even when it is highly maladaptive not to do so and even if he purposefully attempts to do so.\"\n\nV protikladu k tomu normální osobnost dle textu \"traits are not extreme and are flexibly and adaptively activated in different settings\".",
+  "source": "Caligor, Kernberg, Clarkin, Yeomans (2018), kap. 2",
+  "anchor": "oddíl 'Trait-Based Diagnosis of Personality Disorders and DSM-5 Section II' — pasáž začínající 'When traits are rigid, the individual is unable'",
+  "seedElo": 1600
+ },
+ {
+  "id": "k18-c02-105",
+  "type": "V",
+  "category": "kernberg-2018",
+  "text": "Pan X je v práci extrémně pečlivý – dokument čte pětkrát a nechá ho zkontrolovat třemi kolegy, než ho schválí. Ani když ho šéf žádá o rychlé rozhodnutí a hrozí zmeškání důležitého termínu, není schopen svůj postup zrychlit. Který jev z textu tato situace ilustruje?",
+  "options": [
+   "Extrémní a rigidní aktivaci rysu pečlivosti, přetrvávající i tam, kde je zjevně nepřiměřená a maladaptivní",
+   "Adaptivní a flexibilní uplatňování rysu svědomitosti, přizpůsobené měnícímu se kontextu dané situace",
+   "Rozpad testování reality v podmínkách akutního a dlouhodobě neřešeného pracovního přetížení a stresu",
+   "Projekci vlastní potlačené a dlouhodobě nezpracované agrese směrem k nadřízenému v pracovním prostředí"
+  ],
+  "correct": 0,
+  "explanation": "Vinětka odpovídá textovému příkladu jedince, který nedokáže dočasně uvolnit své standardy ani při hrozbě zmeškání termínu — jde o ukázku rigidní a extrémní aktivace rysu. Flexibilní uplatnění rysu by naopak znamenalo přizpůsobení situaci, testování reality ani agrese v popisu nefigurují.",
+  "deepDive": "**Přímo z textu** (oddíl 'Trait-Based Diagnosis of Personality Disorders and DSM-5 Section II'):\n\n> \"the individual who is rigidly attentive to detail will be unable to temporarily loosen his standards, even when his boss calls on him to do so or when failing to do so means missing an important deadline... the first individual is not merely attentive to detail but must reread a document five times and then have three others read it before he approves it.\"\n\nTento konkrétní příklad slouží v textu jako ilustrace přechodu od normální pečlivosti k extrémnímu a rigidnímu rysu.",
+  "source": "Caligor, Kernberg, Clarkin, Yeomans (2018), kap. 2",
+  "anchor": "oddíl 'Trait-Based Diagnosis of Personality Disorders and DSM-5 Section II' — pasáž začínající 'the individual who is rigidly attentive to detail'",
+  "seedElo": 1700
+ },
+ {
+  "id": "k18-c02-106",
+  "type": "F",
+  "category": "kernberg-2018",
+  "text": "Na základě čeho definuje teorie objektních vztahů závažnost patologie osobnosti ve strukturální diagnóze?",
+  "options": [
+   "Výhradně přítomnosti či nepřítomnosti konkrétních diagnostických kritérií podle klasifikace DSM-5",
+   "Prožívání sebe a druhých, kvality objektních vztahů, povahy obran a stability testování reality",
+   "Genetické zátěže a temperamentu jedince, měřeného standardizovaně na počátku léčebného procesu",
+   "Délky trvání jednotlivých symptomů a jejich celkového dopadu na pracovní výkonnost jedince"
+  ],
+  "correct": 1,
+  "explanation": "Text jmenovitě uvádí čtyři pilíře strukturální závažnosti: prožívání sebe a druhých, kvalitu objektních vztahů, povahu obran a stabilitu testování reality. Ostatní možnosti popisují kritéria, která tento text pro strukturální diagnózu nepoužívá.",
+  "deepDive": "**Přímo z textu** (oddíl 'Psychodynamic Description of Personality and Personality Disorder'):\n\n> \"severity of personality pathology is defined through the lens of the individual's experience of herself and her significant others; the quality of her relationships, or object relations; the nature of her defensive operations; and the stability of her reality testing.\"\n\nTato čtveřice dimenzí je základem pozdějšího STIPO-R hodnocení popsaného v Části 2 kapitoly.",
+  "source": "Caligor, Kernberg, Clarkin, Yeomans (2018), kap. 2",
+  "anchor": "oddíl 'Psychodynamic Description of Personality and Personality Disorder' — pasáž začínající 'severity of personality pathology is defined through the lens'",
+  "seedElo": 1550
+ },
+ {
+  "id": "k18-c02-107",
+  "type": "F",
+  "category": "kernberg-2018",
+  "text": "Jak je koncipován klasifikační přístup modelu objektních vztahů k poruchám osobnosti?",
+  "options": [
+   "Jednoosý, založený výhradně na popisu vnějšího chování bez ohledu na vnitřní psychickou strukturu jedince",
+   "Trojosý přístup, kombinující genetickou výbavu, temperament a ranou vývojovou životní historii jedince",
+   "Dvouosý: nejprve závažnost strukturální patologie podle konsolidace identity, poté deskriptivní typ osobnosti",
+   "Založený čistě na kategorické diagnóze podle jednotlivých diagnostických kritérií DSM-5 Sekce II"
+  ],
+  "correct": 2,
+  "explanation": "Model kombinuje dvě osy — nejprve dimenzionální posouzení závažnosti strukturální patologie (podle konsolidace identity) a teprve poté deskriptivní charakterizaci osobnostního \"typu\" či \"stylu\". Ostatní varianty tento dvouosý charakter popírají nebo ho zaměňují za jiný počet os.",
+  "deepDive": "**Přímo z textu** (oddíl 'Psychodynamic Description of Personality and Personality Disorder'):\n\n> \"the object relations theory approach relies on first characterizing the severity of personality pathology by assessing the nature, organization, and degree of integration of psychological structures, and then characterizing descriptive features of personality pathology to make a diagnosis of personality 'type' or 'style.'\"\n\nText tento přístup dále označuje jako \"two-axial approach\".",
+  "source": "Caligor, Kernberg, Clarkin, Yeomans (2018), kap. 2",
+  "anchor": "oddíl 'Psychodynamic Description of Personality and Personality Disorder' — pasáž začínající 'the object relations theory approach relies on first characterizing'",
+  "seedElo": 1650
+ },
+ {
+  "id": "k18-c02-108",
+  "type": "F",
+  "category": "kernberg-2018",
+  "text": "Jaký konstrukt zaujímá v modelu objektních vztahů centrální postavení při rozlišování normální osobnosti a lehčích poruch osobnosti od poruch závažnějších?",
+  "options": [
+   "Úroveň inteligence a kognitivního fungování jedince",
+   "Přítomnost traumatické zkušenosti v anamnéze",
+   "Kvalita rodinného zázemí v raném dětství jedince",
+   "Konstrukt identity a stupeň jeho konsolidace"
+  ],
+  "correct": 3,
+  "explanation": "Text explicitně staví konsolidaci identity do role klíčového ukazatele, který odděluje normální osobnost a lehčí (neurotické) poruchy od poruch organizovaných na hraniční úrovni. Inteligence, trauma ani rodinné zázemí v textu jako klasifikační kritérium nefigurují.",
+  "deepDive": "**Přímo z textu** (oddíl 'Structural Diagnosis of Personality Disorders and DSM-5 Section III'):\n\n> \"Identity consolidation distinguishes between normal personality and higher-level personality disorders on the one hand and more severe personality disorders on the other.\"\n\nIdentita je zde označena jako psychologická struktura organizující zkušenost sebe a druhých a jako osa, kolem níž je vystavěna celá strukturální klasifikace v Části 2.",
+  "source": "Caligor, Kernberg, Clarkin, Yeomans (2018), kap. 2",
+  "anchor": "oddíl 'Structural Diagnosis of Personality Disorders and DSM-5 Section III' — pasáž začínající 'Identity consolidation distinguishes between normal personality'",
+  "seedElo": 1450
+ },
+ {
+  "id": "k18-c02-109",
+  "type": "K",
+  "category": "kernberg-2018",
+  "text": "Jak se dle strukturálního přístupu liší převažující obranné mechanismy u normální osobnosti oproti závažným poruchám osobnosti?",
+  "options": [
+   "U normální osobnosti převažují zralé obrany, u závažných poruch dominují štěpením podmíněné obrany",
+   "U normální osobnosti chybí jakékoli obranné mechanismy, u poruch osobnosti se objevují teprve poprvé",
+   "U obou skupin převažují zcela tytéž obranné mechanismy, liší se pouze frekvence a intenzita jejich užití",
+   "U normální osobnosti dominují štěpením podmíněné obrany, u poruch osobnosti obrany založené na represi"
+  ],
+  "correct": 0,
+  "explanation": "Text uvádí, že u normální osobnosti \"mature defenses predominate\" a umožňují flexibilní zvládání konfliktu, zatímco u závažných poruch dominují štěpením podmíněné obrany udržující rozštěpené, černobílé prožívání. Poslední distraktor záměrně otočí správný vztah pozpátku.",
+  "deepDive": "**Přímo z textu** (oddíl 'Structural Diagnosis of Personality Disorders and DSM-5 Section III'):\n\n> \"mature defenses predominate and allow for adaptation to life and flexible management of psychological conflict... lower-level, splitting-based defenses predominate and maintain a dissociated, black-and-white quality of experience while introducing severe rigidity and poor adaptation.\"\n\nJde o dvě protilehlé pozice na kontinuu, které text popisuje pro normální osobnost a pro nejzávažnější poruchy osobnosti.",
+  "source": "Caligor, Kernberg, Clarkin, Yeomans (2018), kap. 2",
+  "anchor": "oddíl 'Structural Diagnosis of Personality Disorders and DSM-5 Section III' — pasáž začínající 'In the normal personality, 1) identity is fully consolidated'",
+  "seedElo": 1650
+ },
+ {
+  "id": "k18-c02-110",
+  "type": "F",
+  "category": "kernberg-2018",
+  "text": "Jakých pět úrovní organizace osobnosti model objektních vztahů v rámci strukturální diagnózy rozlišuje?",
+  "options": [
+   "Mírnou, střední, těžkou, extrémní a psychotickou úroveň patologie osobnosti podle závažnosti",
+   "Normální organizaci, neurotickou úroveň (NPO), vysokou, střední a nízkou hraniční úroveň (BPO)",
+   "Zdravou, subklinickou, klinickou a chronickou úroveň patologie osobnosti podle trvání",
+   "Úrovně 1 až 5 podle DSM-5 Alternativního modelu bez jakéhokoli dalšího vlastního názvosloví"
+  ],
+  "correct": 1,
+  "explanation": "Text uvádí pět kategorií od nejzdravější po nejzávažnější: normální organizace osobnosti, neurotická úroveň, a tři stupně hraniční úrovně organizace (vysoká, střední, nízká BPO). Ostatní výčty používají terminologii, kterou tento oddíl nepoužívá.",
+  "deepDive": "**Přímo z textu** (oddíl 'Level of Personality Organization and STIPO-R Dimensional Profiles'):\n\n> \"patients can be described as having normal personality organization, a neurotic level of personality organization (NPO), a high borderline level of personality organization (high BPO), a middle borderline level of personality organization (middle BPO), or a low borderline level of personality organization (low BPO).\"\n\nTěchto pět úrovní popisuje trajektorii od nejzdravějšího ke nejzávažnějšímu stupni patologie.",
+  "source": "Caligor, Kernberg, Clarkin, Yeomans (2018), kap. 2",
+  "anchor": "oddíl 'Level of Personality Organization and STIPO-R Dimensional Profiles' — pasáž začínající 'patients can be described as having normal personality organization'",
+  "seedElo": 1500
+ },
+ {
+  "id": "k18-c02-111",
+  "type": "K",
+  "category": "kernberg-2018",
+  "text": "Co ve skutečnosti označují termíny \"vysoká\" a \"nízká\" hraniční úroveň organizace osobnosti (BPO)?",
+  "options": [
+   "Sociální status pacienta v jeho okolní komunitě a dosažený stupeň formálního vzdělání a příjmu",
+   "Míru, do jaké pacient přesně a doslovně splňuje jednotlivá kritéria pro konkrétní diagnózu podle DSM-5",
+   "Úroveň organizace psychických struktur, nikoli závažnost — vyšší organizace znamená větší psychické zdraví",
+   "Pořadí, v jakém se jednotlivé poruchy osobnosti typicky objevují v celém průběhu vývoje jedince"
+  ],
+  "correct": 2,
+  "explanation": "Autoři výslovně upozorňují, že \"high\" a \"low\" neoznačují míru závažnosti, ale úroveň organizace a integrace psychických struktur, přičemž vyšší organizace znamená lepší psychické zdraví. Toto vysvětlení předchází možnému nedorozumění, že vysoká BPO je horší než nízká.",
+  "deepDive": "**Přímo z textu** (oddíl 'Level of Personality Organization and STIPO-R Dimensional Profiles'):\n\n> \"Within the object relations theory framework, 'high' and 'low' refer not to severity, but to level of organization, with higher levels of organization and integration corresponding with higher levels of psychological health.\"\n\nAutoři tuto pasáž zařazují záměrně jako preventivní vysvětlení, protože očekávají, že terminologie \"high BPO\" jako méně závažná skupina může čtenáře zmást.",
+  "source": "Caligor, Kernberg, Clarkin, Yeomans (2018), kap. 2",
+  "anchor": "oddíl 'Level of Personality Organization and STIPO-R Dimensional Profiles' — pasáž začínající 'Within the object relations theory framework, high and low refer not to severity'",
+  "seedElo": 1700
+ },
+ {
+  "id": "k18-c02-112",
+  "type": "K",
+  "category": "kernberg-2018",
+  "text": "V čem se zásadně liší diagnóza \"hraniční porucha osobnosti\" (BPD) podle DSM-5 od \"hraniční úrovně organizace osobnosti\" (BPO)?",
+  "options": [
+   "BPD je širší kategorie než BPO a zahrnuje v tomto pojetí úplně všechny poruchy osobnosti bez jakékoli výjimky",
+   "BPD a BPO jsou synonyma, používaná zcela zaměnitelně a bez rozdílu v obou zde popsaných klasifikačních systémech",
+   "BPO se vztahuje výhradně na dětskou populaci pacientů, zatímco BPD se týká pouze dospělých osob v léčbě",
+   "BPD je konkrétní porucha vymezená deskriptivními rysy, BPO je širší strukturální kategorie zahrnující i další poruchy"
+  ],
+  "correct": 3,
+  "explanation": "Text jasně rozlišuje BPD jako konkrétní, deskriptivně vymezenou diagnózu DSM-5 od BPO jako mnohem širší strukturální kategorie, která zahrnuje BPD i všechny ostatní závažné poruchy osobnosti. Tvrzení, že jde o synonyma nebo že je vztah obrácený, textu odporují.",
+  "deepDive": "**Přímo z textu** (oddíl 'Level of Personality Organization and STIPO-R Dimensional Profiles'):\n\n> \"BPD is a specific personality disorder, diagnosed on the basis of a constellation of descriptive features. BPO is a much broader category based on structural features, in particular, pathology of identity formation. The BPO diagnosis... subsumes the DSM-5 BPD diagnosis as well as all of the severe personality disorders.\"\n\nToto rozlišení je pro pochopení celého klasifikačního modelu knihy klíčové a vrací se k němu i Obrázek 2–2.",
+  "source": "Caligor, Kernberg, Clarkin, Yeomans (2018), kap. 2",
+  "anchor": "oddíl 'Level of Personality Organization and STIPO-R Dimensional Profiles' — pasáž začínající 'BPD is a specific personality disorder, diagnosed on the basis'",
+  "seedElo": 1650
+ },
+ {
+  "id": "k18-c02-113",
+  "type": "F",
+  "category": "kernberg-2018",
+  "text": "Kterých pět domén hodnotí semistrukturovaný rozhovor STIPO-R?",
+  "options": [
+   "Identitu, objektní vztahy, obrany, agresi a morální hodnoty pacienta",
+   "Náladu, úzkost, kvalitu spánku, apetit a celkovou úroveň energie",
+   "Inteligenci, paměť, pozornost, exekutivní funkce a plynulost řeči",
+   "Temperament, charakter, sebeúctu, empatii a míru asertivity"
+  ],
+  "correct": 0,
+  "explanation": "STIPO-R podle textu hodnotí pět domén: identitu, objektní vztahy, obrany, agresi a morální hodnoty, každou na pětibodové škále závažnosti. Ostatní výčty jmenují oblasti, které STIPO-R podle textu nehodnotí.",
+  "deepDive": "**Přímo z textu** (oddíl 'Level of Personality Organization and STIPO-R Dimensional Profiles'):\n\n> \"The STIPO-R evaluates the domains of identity, object relations, defenses, aggression, and moral values. The patient's functioning in each domain is rated on a 5-point scale of severity (1 = normal; 5 = most severe).\"\n\nTěchto pět domén se pak znovu objevuje v klinických vinětách u pacientek a pacientů popsaných dále v kapitole.",
+  "source": "Caligor, Kernberg, Clarkin, Yeomans (2018), kap. 2",
+  "anchor": "oddíl 'Level of Personality Organization and STIPO-R Dimensional Profiles' — pasáž začínající 'The STIPO-R evaluates the domains of identity'",
+  "seedElo": 1550
+ },
+ {
+  "id": "k18-c02-114",
+  "type": "V",
+  "category": "kernberg-2018",
+  "text": "Pacientka nejprve popisuje svého terapeuta jako vynikajícího, chápavého posluchače. Poté, co jí poprvé předloží účet, se v příští session rozzuří a označí ho za \"šarlatána\", nedůvěryhodného a neschopného, přičemž svůj dřívější pozitivní pohled na něj zcela popře jako v tu chvíli bezvýznamný. Který obranný mechanismus tato situace nejlépe ilustruje?",
+  "options": [
+   "Represi konfliktního přání, které trvale a zcela zůstává mimo veškerý dosah vědomí jedince navždy",
+   "Štěpení s idealizací a devalvací, kdy jsou protikladné, silně nabité obrazy druhého prožívány odděleně",
+   "Sublimaci konfliktní motivace do zcela neutrální, sociálně přijatelné a produktivně tvořivé aktivity",
+   "Reakční formaci, při níž je původní afekt zcela nahrazen svým opačným a protikladným citovým prožitkem"
+  ],
+  "correct": 1,
+  "explanation": "Popsané střídání idealizovaného a zcela devalvovaného obrazu terapeuta, přičemž předchozí pozitivní pohled je popřen jako nedůležitý, odpovídá textem popsanému štěpení. Represe by naopak konfliktní obsah zcela vytěsnila z vědomí, sublimace ani reakční formace popsanému chování neodpovídají.",
+  "deepDive": "**Přímo z textu** (oddíl 'Clinical Illustration 2 (continued): Splitting-Based Defense'):\n\n> \"Ms. B came to her next session in a rage and began to viciously attack the therapist; she called him 'a charlatan,' untrustworthy and incompetent, and said that she had been a fool to be in treatment with someone who clearly cared nothing about her as a person and was just using her to make money.\"\n\nText tuto vinětu následně komentuje jako typickou ukázku toho, jak \"all-good\" idealizovaný obraz druhého náhle ustupuje \"all-bad\" paranoidnímu obrazu, aniž by byly oba obrazy vzájemně integrovány.",
+  "source": "Caligor, Kernberg, Clarkin, Yeomans (2018), kap. 2",
+  "anchor": "oddíl 'Clinical Illustration 2 (continued): Splitting-Based Defense' — pasáž začínající 'Ms. B came to her next session in a rage'",
+  "seedElo": 1800
+ },
+ {
+  "id": "k18-c02-201",
+  "type": "F",
+  "category": "kernberg-2018",
+  "text": "Co podle textu představuje strukturální korelát syndromu difúze identity?",
+  "options": [
+   "Selhání vnitřních objektních vztahů integrovat se do stabilní a realistické zkušenosti sebe a druhých",
+   "Trvalá a zcela nevratná ztráta schopnosti testovat realitu i mimo oblasti psychického konfliktu jedince",
+   "Absence jakýchkoli obranných mechanismů v celé psychické organizaci osobnosti jako takové a bez výjimky",
+   "Vrozený a neměnný deficit v neuronálních okruzích zpracovávajících afekt a celkové emoční prožívání"
+  ],
+  "correct": 0,
+  "explanation": "Text výslovně definuje difúzi identity strukturálně jako selhání koalescence vnitřních objektních vztahů. Trvalá ztráta testování reality je textem explicitně vyloučena jako rys poruch osobnosti; splitting-based obrany naopak přítomny jsou; neuronální deficit text nezmiňuje.",
+  "deepDive": "**Přímo z textu** (oddíl 'Pathology of Identity Formation: Syndrome of Identity Diffusion'):\n\n> \"The structural correlate of identity diffusion is the failure of internal object relations to coalesce to form a stable, realistic, and flexible experience of self and others.\"\n\nJde o klíčovou strukturální definici, na které stojí celý koncept difúze identity v kapitole.",
+  "source": "Caligor, Kernberg, Clarkin, Yeomans (2018), kap. 2",
+  "anchor": "oddíl 'Pathology of Identity Formation: Syndrome of Identity Diffusion' — pasáž začínající 'The structural correlate of identity diffusion is the failure'",
+  "seedElo": 1450
+ },
+ {
+  "id": "k18-c02-202",
+  "type": "F",
+  "category": "kernberg-2018",
+  "text": "Podle klasifikace Kernberga (1975) se obranné mechanismy dělí do tří skupin. O které skupiny jde?",
+  "options": [
+   "vytěsňovací, popírací a somatizační obrany, typické pro konverzní a psychosomatické poruchy",
+   "adaptivní, situační a chronické obrany podle délky a okolností jejich uplatnění",
+   "zralé obrany, represí podmíněné (neurotické) obrany a štěpením podmíněné (primitivní) obrany",
+   "obranné mechanismy ega, superega a id v rámci klasické strukturální teorie osobnosti"
+  ],
+  "correct": 2,
+  "explanation": "Text uvádí trojici mature/repression-based (neurotic)/splitting-based (primitive) obran jako základní klasifikační rámec kapitoly (viz Tabulka 2-2). Ostatní varianty jsou fabrikované kategorizace, které text nepoužívá.",
+  "deepDive": "**Přímo z textu** (oddíl 'Defenses'):\n\n> \"Kernberg (1975) presents an approach to the classification of defenses that divides them into three groups: 1) mature defenses, 2) repression-based or 'neurotic' defenses, and 3) splitting-based or lower-level (sometimes referred to as 'primitive') defenses.\"\n\nTato trojčlenná klasifikace je páteří celé podkapitoly o obranách.",
+  "source": "Caligor, Kernberg, Clarkin, Yeomans (2018), kap. 2",
+  "anchor": "oddíl 'Defenses' — pasáž začínající 'As shown in Table 2–2, Kernberg (1975) presents an approach'",
+  "seedElo": 1500
+ },
+ {
+  "id": "k18-c02-203",
+  "type": "K",
+  "category": "kernberg-2018",
+  "text": "V čem spočívá klíčový rozdíl mezi represí a štěpením (disociací) jako obranným mechanismem?",
+  "options": [
+   "Represe vylučuje z vědomí pouze afekt spojený s konfliktem, zatímco štěpení vylučuje výhradně smyslovou percepci samotné konfliktní situace",
+   "Represe vylučuje konfliktní obsah z vědomí úplně, zatímco při štěpení zůstávají obě protikladné stránky zkušenosti vědomé, jen oddělené od sebe",
+   "Represe se týká výhradně vztahů k autoritám a nadřízeným osobám v zaměstnání, štěpení naopak pouze vztahů partnerských a milostných",
+   "Represe je typická výhradně a pouze pro pacienty organizované na úrovni BPO, štěpení naopak výhradně pro pacienty organizované na úrovni NPO"
+  ],
+  "correct": 1,
+  "explanation": "Text popisuje represi jako vyloučení konfliktního obsahu z vědomí, zatímco při štěpení obě protikladné stránky zůstávají vědomé, jen se neaktivují současně ani ve vztahu ke stejnému objektnímu vztahu. Ostatní varianty jsou nepodložené nebo obrácené (obě obrany se v různé míře vyskytují na obou úrovních organizace).",
+  "deepDive": "**Přímo z textu** (oddíl 'Splitting-Based Defenses'):\n\n> \"In TFP-E, the terms dissociation and splitting refer to a psychological process in which two aspects of experience that are in conflict are both allowed to emerge fully into consciousness, but either not at the same time or not in conjunction with the same object relation.\"\n\nToto je definiční odlišení štěpení od represe, na kterém text staví celý rozdíl mezi neurotickými a primitivními obranami.",
+  "source": "Caligor, Kernberg, Clarkin, Yeomans (2018), kap. 2",
+  "anchor": "oddíl 'Splitting-Based Defenses' — pasáž začínající 'Whereas the neurotic defenses make use of repression'",
+  "seedElo": 1650
+ },
+ {
+  "id": "k18-c02-204",
+  "type": "F",
+  "category": "kernberg-2018",
+  "text": "Co podle textu patří mezi subjektivní projevy konsolidace normální identity?",
+  "options": [
+   "Potřeba neustálého ujišťování druhými lidmi o vlastní hodnotě, přijatelnosti a významu",
+   "Sklon k idealizaci blízkých osob jako obraně proti pociťované vnitřní hostilitě a agresi",
+   "Kolísání zájmů a hodnot podle aktuálního sociálního prostředí a bezprostředního okolí jedince",
+   "Schopnost investovat do zájmů v čase a 'znát svou vlastní mysl', pokud jde o hodnoty a názory"
+  ],
+  "correct": 3,
+  "explanation": "Text uvádí investici do zájmů v čase a znalost vlastních hodnot a názorů jako projev konsolidované identity. Ostatní tři možnosti popisují naopak rysy difúze identity (proměnlivost hodnot podle prostředí) nebo defenzivní idealizaci typickou pro NPO, nikoli normální identitu.",
+  "deepDive": "**Přímo z textu** (oddíl 'Identity Consolidation'):\n\n> \"Normal identity formation is manifested in the ability to invest, over time, in professional, intellectual, and recreational interests, and to 'know one's own mind' with regard to one's values, opinions, tastes, and beliefs.\"\n\nJde o definiční popis normální konsolidace identity, který text staví do kontrastu s difúzí identity popsanou dále.",
+  "source": "Caligor, Kernberg, Clarkin, Yeomans (2018), kap. 2",
+  "anchor": "oddíl 'Identity Consolidation' — pasáž začínající 'Normal identity formation, or identity consolidation'",
+  "seedElo": 1550
+ },
+ {
+  "id": "k18-c02-205",
+  "type": "K",
+  "category": "kernberg-2018",
+  "text": "Jak se podle textu liší způsob, jakým normální osobnost a osobnost organizovaná na neurotické úrovni (NPO) zachází s konfliktními objektními vztahy?",
+  "options": [
+   "V normální osobnosti jsou konfliktní vztahy flexibilně obsaženy v sebepojetí, u NPO vyloučeny represí",
+   "V normální osobnosti jsou konfliktní vztahy vytěsněny zcela úplně, zatímco u NPO zůstávají naopak plně vědomé",
+   "Obě skupiny zachází s konfliktními vztahy naprosto identicky, liší se pouze v oblasti morálního fungování",
+   "U NPO jsou konfliktní vztahy štěpeny na idealizované a paranoidní póly, u normální osobnosti nikoli takto"
+  ],
+  "correct": 0,
+  "explanation": "Text explicitně kontrastuje flexibilní obsažení konfliktních vztahů v normální osobnosti s jejich represivním vyloučením u NPO. Druhá možnost je obrácená, třetí popírá klíčový rozdíl, který text zdůrazňuje, a čtvrtá popisuje štěpení typické spíš pro BPO, ne primárně NPO.",
+  "deepDive": "**Přímo z textu** (oddíl 'Identity in the Neurotic Level of Personality Organization'):\n\n> \"However, in contrast to what is seen in the normal personality, in which conflictual object relations are fluidly contained and managed within an overarching sense of self, in the setting of NPO, the more extreme and highly affectively charged experiences of self and others associated with psychological conflict are excluded from, rather than contained within, a stable and relatively well-integrated sense of self, and remain stably out of conscious awareness.\"\n\nTím se NPO odlišuje od normální osobnosti, kde jsou konfliktní zkušenosti flexibilně obsaženy uvnitř sebepojetí.",
+  "source": "Caligor, Kernberg, Clarkin, Yeomans (2018), kap. 2",
+  "anchor": "oddíl 'Identity in the Neurotic Level of Personality Organization' — pasáž začínající 'In the setting of the neurotic level of personality organization'",
+  "seedElo": 1700
+ },
+ {
+  "id": "k18-c02-206",
+  "type": "V",
+  "category": "kernberg-2018",
+  "text": "Pacient v terapii nevědomě vyvolává u terapeuta pocit bezmoci a zbytečnosti — jako by v něm evokoval přesně ten prožitek vlastní neschopnosti, kterého se sám vědomě nechce dotknout. Terapeut si všímá, že v jeho vlastních reakcích na pacienta se objevuje přesně tento pocit. O kterou obranu podle textu jde nejspíše?",
+  "options": [
+   "Sublimace konfliktní energie",
+   "Reakční formace afektu vůči",
+   "Projektivní identifikace",
+   "Neurotická intelektualizace"
+  ],
+  "correct": 2,
+  "explanation": "Projektivní identifikace zahrnuje vyštěpení a projekci vlastní zkušenosti do druhého tak, aby ji druhý skutečně prožíval, a zároveň interakci vyvolávající u druhého odpovídající reakce. Sublimace je zralá obrana, reakční formace a intelektualizace jsou represivní obrany, které tento interpersonální mechanismus indukce afektu do druhého nepopisují.",
+  "deepDive": "**Přímo z textu** (oddíl 'Splitting-Based Defenses'):\n\n> \"Projective identification involves splitting off aspects of one's internal experience and projecting them into another person so that the projected aspects of the self are experienced as part of the other person. At the same time, the individual using projective identification will interact with the other person to elicit responses consistent with what has been projected.\"\n\nVigneta ilustruje přesně tento mechanismus 'aktualizace' projekce v terapeutickém vztahu.",
+  "source": "Caligor, Kernberg, Clarkin, Yeomans (2018), kap. 2",
+  "anchor": "oddíl 'Splitting-Based Defenses' — pasáž začínající 'The group of splitting-based defenses includes, in addition to splitting proper, projective identification'",
+  "seedElo": 1650
+ },
+ {
+  "id": "k18-c02-207",
+  "type": "F",
+  "category": "kernberg-2018",
+  "text": "Které z následujících je podle textu příkladem zralé (mature) obrany?",
+  "options": [
+   "Reakční formace afektu",
+   "Zralá sublimace přání",
+   "Primitivní devalvace",
+   "Primitivní omnipotence"
+  ],
+  "correct": 1,
+  "explanation": "Sublimace je textem přímo uvedena mezi zralými obranami (spolu se supresí, anticipací, altruismem a humorem). Reakční formace patří mezi represivní obrany, devalvace a omnipotentní kontrola mezi štěpením podmíněné obrany.",
+  "deepDive": "**Přímo z textu** (oddíl 'Mature Defenses'):\n\n> \"Suppression, anticipation, altruism, humor, and sublimation are examples of mature defenses.\"\n\nTento výčet je jediným místem v textu, kde jsou zralé obrany explicitně jmenovány.",
+  "source": "Caligor, Kernberg, Clarkin, Yeomans (2018), kap. 2",
+  "anchor": "oddíl 'Mature Defenses' — pasáž začínající 'Suppression, anticipation, altruism, humor, and sublimation'",
+  "seedElo": 1600
+ },
+ {
+  "id": "k18-c02-208",
+  "type": "V",
+  "category": "kernberg-2018",
+  "text": "Klientka na večírku vůbec nevnímá, že je středem pozornosti mužů, a je pokaždé znovu upřímně překvapená, když si toho všimne. Zůstává jí ale nedostupné potěšení z vlastní sexuální přitažlivosti a v blízkých vztazích je nápadně zdrženlivá. Který mechanismus podle textu tuto situaci nejlépe vysvětluje?",
+  "options": [
+   "Štěpení mezi idealizovaným a persekutorním obrazem partnera v jejím milostném životě",
+   "Primitivní popření hrozivé a subjektivně ohrožující zkušenosti v mezilidském kontaktu",
+   "Projektivní identifikace vlastní nezpracované a nevědomé agrese do bezprostředního okolí a společnosti",
+   "Represe konfliktních přání po sexuální moci a pozornosti, které tak zůstávají mimo vědomé sebepojetí"
+  ],
+  "correct": 3,
+  "explanation": "Jde o parafrázi příkladu Ms. N: konfliktní přání po sexuální moci a pozornosti jsou vytěsněna, což vede k rigiditě a inhibici, ale nikoli k hrubému zkreslení reality. Štěpení, primitivní popření a projektivní identifikace jsou naopak splitting-based mechanismy, které text přiřazuje pacientům organizovaným na hraniční, nikoli neurotické úrovni.",
+  "deepDive": "**Přímo z textu** (oddíl 'Clinical Illustration 1 (continued): Repression-Based Defense'):\n\n> \"For example, when at a party, Ms. N was unaware of her conflictual wishes to command sexual attention; these wishes, perhaps represented by internal object relations of a powerful, sexually attractive woman-self in relation to 1) an admiring and responsive man and 2) an inferior, defeated woman, with both dyads associated with feelings of triumph and sexual pleasure, were excluded from Ms. N's dominant, conscious sense of self, and were repressed.\"\n\nVigneta v otázce je smyšlená, ale koncept je věrně převzat z klinické ilustrace Ms. N.",
+  "source": "Caligor, Kernberg, Clarkin, Yeomans (2018), kap. 2",
+  "anchor": "oddíl 'Clinical Illustration 1 (continued): Repression-Based Defense' — pasáž začínající 'Ms. N, the patient introduced earlier'",
+  "seedElo": 1700
+ },
+ {
+  "id": "k18-c02-209",
+  "type": "V",
+  "category": "kernberg-2018",
+  "text": "Pacientka týdny popisovala terapeuta jako výjimečně chápavého a nápomocného. Poté, co jí poprvé předal fakturu, přišla na sezení rozzuřená a označila ho za šarlatána, kterému na ní nikdy nezáleželo; na dřívější pozitivní pohled si sice vzpomíná, ale nepřikládá mu žádný emoční význam. Který proces text tímto typem příkladu ilustruje?",
+  "options": [
+   "Štěpení, kdy jsou idealizovaný a persekutorní obraz druhého prožívány vědomě, ale odděleně a v různých okamžicích",
+   "Vytěsnění agresivních přání vůči terapeutovi do zcela nepřístupného a navždy nevědomého prostoru mysli",
+   "Reakční formaci, při níž se veškerá potlačovaná agrese mění v opačný, láskyplný a idealizovaný postoj vůči druhému",
+   "Trvalou a zcela nevratnou ztrátu testování reality provázenou hlubokou a nezvratnou psychotickou dezorganizací"
+  ],
+  "correct": 0,
+  "explanation": "Jde o klinickou ilustraci Ms. B: idealizovaný a persekutorní obraz terapeuta jsou oba vědomé, jen aktivované v různých okamžicích, a popření chrání jejich oddělenost. Nejde o represi (nic není z vědomí vyloučeno), ani o reakční formaci, a text výslovně vylučuje trvalou ztrátu testování reality jako rys poruch osobnosti.",
+  "deepDive": "**Přímo z textu** (oddíl 'Clinical Illustration 2 (continued): Splitting-Based Defense'):\n\n> \"Ms. B responded that she remembered having had those thoughts, but they were irrelevant in the present; she now saw the therapist for who he truly was, and that was the only thing that mattered.\"\n\nTím pacientka popírá emoční význam dřívějšího idealizovaného pohledu, což udržuje oddělenost obou pólů štěpení.",
+  "source": "Caligor, Kernberg, Clarkin, Yeomans (2018), kap. 2",
+  "anchor": "oddíl 'Clinical Illustration 2 (continued): Splitting-Based Defense' — pasáž začínající 'Ms. B, the patient introduced earlier in this chapter, was referred'",
+  "seedElo": 1700
+ },
+ {
+  "id": "k18-c02-210",
+  "type": "K",
+  "category": "kernberg-2018",
+  "text": "Jak se podle textu liší subjektivní projev poruchy identity u narcistické poruchy osobnosti od projevu u poruchy hraniční (BPD)?",
+  "options": [
+   "U narcistické poruchy je sebeprožívání stabilnější, prožívání druhých bývá povrchní; u hraniční poruchy je nestabilní obojí",
+   "U narcistické poruchy dominuje výrazná temporální diskontinuita zkušenosti sebe, u hraniční pak naopak silný pocit neautentičnosti a odcizení",
+   "U obou poruch je prožívání sebe i druhých zcela rovnoměrně nestabilní a silně polarizované, bez jakéhokoli rozdílu",
+   "Narcistická porucha se výrazně vyznačuje trvalou ztrátou testování reality, zatímco hraniční porucha se jí vůbec nevyznačuje"
+  ],
+  "correct": 2,
+  "explanation": "Text popisuje BPD jako prototyp s nestabilním prožíváním sebe i druhých a výraznou temporální diskontinuitou, zatímco u NPD je sebeprožívání relativně stabilní, ale prožívání druhých povrchní/karikaturní, s dominujícím pocitem neautentičnosti. První možnost tyto rysy prohazuje, druhá popírá popsaný rozdíl a čtvrtá je textem nepodložená.",
+  "deepDive": "**Přímo z textu** (oddíl o Identitě, pasáž o BPD a NPD):\n\n> \"In contrast, in narcissistic personality disorder, a more stable sense of self, albeit distorted and often fragile, coexists with what is often a dramatically superficial, shadowy, or caricature-like experience of others...Feelings of inauthenticity tend to be an especially prominent subjective manifestation of identity pathology in the narcissistic group.\"\n\nText to staví do kontrastu s BPD, kde je prototypem 'temporal discontinuity'.",
+  "source": "Caligor, Kernberg, Clarkin, Yeomans (2018), kap. 2",
+  "anchor": "oddíl 'Identity' (pasáž o BPD a NPD) — pasáž začínající 'In contrast, in narcissistic personality disorder'",
+  "seedElo": 1750
+ },
+ {
+  "id": "k18-c02-211",
+  "type": "F",
+  "category": "kernberg-2018",
+  "text": "Jak text charakterizuje orientaci vztahů k druhým u pacientů organizovaných na střední a nízké hraniční úrovni (middle/low BPO)?",
+  "options": [
+   "Vztahy jsou založeny na hluboké empatii, ale s výraznými obtížemi v sexuální oblasti",
+   "Vztahy jsou orientovány na naplnění vlastních potřeb, často na bázi 'něco za něco'",
+   "Vztahy zcela chybí, pacienti se plně izolují od jakéhokoli mezilidského kontaktu",
+   "Vztahy jsou stabilní a mutuálně závislé, ale zcela chybí schopnost skutečné intimity"
+  ],
+  "correct": 1,
+  "explanation": "Text popisuje u middle a low BPO potřebně orientovaný přístup ke vztahům, často na principu 'něco za něco'. Hluboká empatie a mutuální závislost jsou naopak rysy normální osobnosti či NPO, a úplná absence vztahů je obecným tvrzením, které text takto neformuluje.",
+  "deepDive": "**Přímo z textu** (oddíl 'Quality of Object Relations'):\n\n> \"In low and middle borderline levels of personality organization, pathology of object relations is relatively severe, and a need-fulfilling orientation toward interpersonal relations predominates...often tied to the assumption that relations are organized on a quid pro quo basis.\"\n\nJde o klíčovou charakteristiku kvality objektních vztahů v této části spektra BPO.",
+  "source": "Caligor, Kernberg, Clarkin, Yeomans (2018), kap. 2",
+  "anchor": "oddíl 'Quality of Object Relations' — pasáž začínající 'In contrast, the borderline level of personality organization is characterized by pathology of object relations'",
+  "seedElo": 1600
+ },
+ {
+  "id": "k18-c02-212",
+  "type": "F",
+  "category": "kernberg-2018",
+  "text": "Co je podle textu typické pro morální fungování řady pacientů s vysokou hraniční úrovní organizace (high BPO)?",
+  "options": [
+   "Úplná a trvalá absence vnitřního morálního kompasu spojená s naprostou neschopností pocitu viny",
+   "Morální fungování zcela plně srovnatelné s normální osobností, zcela bez jakékoli rigidity",
+   "Orientace výhradně a jedině na to, 'nebýt přistižen', zcela a naprosto bez jakéhokoli svědomí",
+   "Nadměrně přísné morální standardy, které mohou koexistovat s nápadnými mezerami v morálním fungování"
+  ],
+  "correct": 3,
+  "explanation": "Text uvádí, že u high BPO je běžná kombinace přehnaně přísných morálních standardů a zároveň nápadných mezer v morálním fungování, udržovaná štěpením a popřením. První a třetí možnost popisují spíše low BPO/antisociální pól, druhá ignoruje textem zdůrazněnou rigiditu.",
+  "deepDive": "**Přímo z textu** (oddíl 'Moral Values'):\n\n> \"It is common for individuals organized at a high borderline level to demonstrate excessively harsh moral standards that may comfortably coexist with glaring lacunae in moral functioning. Splitting and denial underlie the capacity to maintain frankly contradictory attitudes toward moral functioning.\"\n\nJde o typický příklad zdánlivého paradoxu, který text vysvětluje pomocí štěpení a popření.",
+  "source": "Caligor, Kernberg, Clarkin, Yeomans (2018), kap. 2",
+  "anchor": "oddíl 'Moral Values' — pasáž začínající 'It is common for individuals organized at a high borderline level'",
+  "seedElo": 1650
+ },
+ {
+  "id": "k18-c02-213",
+  "type": "I",
+  "category": "kernberg-2018",
+  "text": "Jaký je podle autorů rozdílný strukturální cíl TFP-E u pacientů s BPO oproti pacientům s NPO?",
+  "options": [
+   "U BPO jde o konsolidaci identity integrací disociovaných objektních vztahů, u NPO o integraci vytěsněných vztahů a redukci rigidity",
+   "U obou skupin je cíl léčby zcela totožný — úplné a definitivní odstranění naprosto všech obranných mechanismů jedince",
+   "U BPO je cílem terapie primárně farmakologická stabilizace afektu, u NPO naopak psychoterapeutická práce s identitou pacienta",
+   "U NPO jde ve výsledku výhradně jen o konsolidaci identity, u BPO naopak jen o pouhé snížení symptomatické úzkosti pacienta"
+  ],
+  "correct": 0,
+  "explanation": "Text (Tabulka 2-3) přesně takto rozlišuje cíle léčby: u BPO konsolidace identity integrací disociovaných idealizovaných/paranoidních vztahů, u NPO integrace vytěsněných vztahů do už konsolidovaného sebepojetí a snížení rigidity. Ostatní možnosti buď obracejí cíle, nebo zavádějí prvky (farmakoterapii), které v modelu nefigurují.",
+  "deepDive": "**Přímo z textu** (oddíl 'Clinical Implications of the Structural Model of Personality Disorders'):\n\n> \"For patients organized at a borderline level who present with clinically significant identity pathology, treatment is organized around promoting the integration and coalescence of dissociated, idealized, and paranoid internal object relations, with the goal of establishing a more coherent, stable, better-differentiated, and complex experience of self and others—that is, identity consolidation. For patients organized at a neurotic level who present with personality rigidity in the setting of normal identity formation, treatment is organized around promoting the integration of repressed or dissociated internal object relations into an already consolidated, stable, and relatively complex sense of self, with the goal of reducing personality rigidity and enriching affective experience in an area of conflict.\"\n\nTato pasáž je jádrem klinických implikací strukturálního modelu v Části 4.",
+  "source": "Caligor, Kernberg, Clarkin, Yeomans (2018), kap. 2",
+  "anchor": "oddíl 'Clinical Implications of the Structural Model of Personality Disorders' — pasáž začínající 'Transference-focused psychotherapy—extended (TFP-E) is conceptualized'",
+  "seedElo": 1500
+ },
+ {
+  "id": "k18-c02-214",
+  "type": "I",
+  "category": "kernberg-2018",
+  "text": "Jaký klinický důsledek plyne z pozorování, že u těžších poruch osobnosti bývá myšlení v oblastech konfliktu konkrétnější a schopnost mentalizovat klesá?",
+  "options": [
+   "Terapeut by se měl zcela a důsledně vyhýbat naprosto jakémukoli zkoumání přenosu, dokud pacient neprojde farmakoterapií",
+   "Konkrétnost myšlení signalizuje vždy trvalou psychózu, kterou je nutné nejprve bezpodmínečně vyloučit hospitalizací pacienta",
+   "Terapeutický přístup musí nejprve zohlednit konkrétní charakter pacientova aktuálního prožívání, než se přistoupí k explorativní práci",
+   "U těchto pacientů je vždy třeba explorci objektních vztahů v přenosu zcela a trvale nahradit nácvikem sociálních dovedností"
+  ],
+  "correct": 2,
+  "explanation": "Text spojuje konkrétnost myšlení a nižší mentalizační kapacitu s potřebou terapeutického taktu a načasování — nejprve adresovat konkrétní kvalitu aktuálního prožívání, teprve pak přistoupit k explorativní práci. Text nevyžaduje vyhýbání se přenosu, konkrétnost nerovná se trvalé psychóze (tu text výslovně odlišuje) a explorace není nahrazena nácvikem dovedností.",
+  "deepDive": "**Přímo z textu** (oddíl 'Reality Testing and Reflective Capacities'):\n\n> \"In personality disorders as a rule, thinking tends to be more concrete in areas of conflict...our treatment approach takes into account the need to address the concrete nature of the patient's experience in the moment before initiating exploratory work.\"\n\nJde o přímý most mezi strukturální diagnostikou (reality testing, mentalizace) a klinickou technikou zmiňovanou v kapitole 11.",
+  "source": "Caligor, Kernberg, Clarkin, Yeomans (2018), kap. 2",
+  "anchor": "oddíl 'Reality Testing and Reflective Capacities' — pasáž začínající 'In personality disorders as a rule, thinking tends to be more concrete'",
+  "seedElo": 1750
+ },
+ {
+  "id": "k18-c02-301",
+  "type": "F",
+  "category": "kernberg-2018",
+  "text": "Podle deskriptivní definice v kapitole 2, kdy přesně se rigidita osobnostních rysů stává poruchou osobnosti?",
+  "options": [
+   "Když rigidita brání jedinci přizpůsobit se libovolné formě psychoterapeutické či farmakologické léčebné intervence.",
+   "Když rigidita vede k opakovanému a zjevnému porušování sociálně přijímaných konvenčních norem chování.",
+   "Když rigidita významně, konzistentně a chronicky narušuje fungování a/nebo způsobuje distres jedinci nebo okolí.",
+   "Když rigidita způsobí trvalou a nevratnou ztrátu schopnosti testovat realitu i mimo afektově nabité situace."
+  ],
+  "correct": 2,
+  "explanation": "Kapitola definuje poruchu osobnosti z deskriptivního hlediska jako bod, kdy rigidita rysů přestává být jen stylem a začíná významně, konzistentně a chronicky narušovat každodenní fungování, případně způsobovat distres jedinci nebo jeho okolí. Jde o práh oddělující 'osobnostní styl' od 'poruchy osobnosti'.",
+  "deepDive": "**Přímo z textu** (oddíl 'Trait-Based Diagnosis of Personality Disorders and DSM-5 Section II'):\n\n> From a descriptive perspective, an individual whose personality rigidity reaches the point that it significantly, consistently, and chronically interferes with daily functioning, and/or causes significant distress to the individual or those around him, is said to have a personality disorder.\n\nTato věta je samotnou deskriptivní definicí poruchy osobnosti podle autorů — nejde o kvalitativně jinou vlastnost než normální rysy, ale o kvantitativní posun v míře rigidity, který překročí práh funkčního narušení nebo distresu.",
+  "source": "Caligor, Kernberg, Clarkin, Yeomans (2018), kap. 2",
+  "anchor": "oddíl 'Trait-Based Diagnosis of Personality Disorders and DSM-5 Section II' — pasáž začínající 'From a descriptive perspective, an individual whose'",
+  "seedElo": 1550
+ },
+ {
+  "id": "k18-c02-302",
+  "type": "F",
+  "category": "kernberg-2018",
+  "text": "Jak kapitola definuje termín 'higher level personality pathology' (vyšší úroveň patologie osobnosti)?",
+  "options": [
+   "Relativně zdravá skupina pacientů na neurotické úrovni s hybridními strukturami na hranici high BPO a NPO.",
+   "Skupina pacientů se STIPO-R skóre identity na úrovni 1, tedy zcela bez jakékoli patologie ve všech pěti hodnocených doménách.",
+   "Podskupina low-BPO pacientů s malignantním narcismem, kteří si přesto zachovávají stabilní a nezkreslené testování reality.",
+   "Kategorie zahrnující výhradně pacienty s hraniční poruchou osobnosti podle DSM-5, s neobvykle dobrou prognózou léčby."
+  ],
+  "correct": 0,
+  "explanation": "Termín 'higher level personality pathology' kapitola vyhrazuje pro relativně zdravou kohortu — pacienty organizované na neurotické úrovni plus hybridní struktury na hranici high BPO a NPO. Tato skupina dobře profituje z méně strukturované formy TFP-E popsané pro NPO pacienty.",
+  "deepDive": "**Přímo z textu** (oddíl 'Higher Level Personality Pathology'):\n\n> We have used the term higher level personality pathology (see Caligor et al. 2007) to describe a relatively healthy group of patients composed of those organized at a neurotic level, along with those with hybrid structures falling on the border between high BPO and NPO.\n\nTermín tedy explicitně spojuje dvě podskupiny — čistou NPO a hraniční hybridy high-BPO/NPO — a váže je na konkrétní terapeutický důsledek: méně strukturovanou variantu TFP-E.",
+  "source": "Caligor, Kernberg, Clarkin, Yeomans (2018), kap. 2",
+  "anchor": "oddíl 'Higher Level Personality Pathology' — pasáž začínající 'We have used the term higher level'",
+  "seedElo": 1550
+ },
+ {
+  "id": "k18-c02-303",
+  "type": "K",
+  "category": "kernberg-2018",
+  "text": "Které poruchy osobnosti kapitola řadí do neurotické úrovně organizace (NPO)?",
+  "options": [
+   "Závislá, histriónská, narcistická a hraniční porucha osobnosti spolu se subsyndromální patologií osobnosti.",
+   "Paranoidní, schizoidní, antisociální porucha osobnosti a nejzávažnější formy narcistické poruchy osobnosti.",
+   "Obsedantně-kompulzivní a depresivní porucha, vyšší hysterická porucha a zdravější vyhýbavá porucha.",
+   "Schizotypní porucha osobnosti, malignantní narcismus a plně vyjádřená hraniční porucha osobnosti v akutní fázi."
+  ],
+  "correct": 2,
+  "explanation": "Do NPO kapitola řadí obsedantně-kompulzivní a depresivní poruchu osobnosti, vyšší hysterickou poruchu (obě chybí v DSM-5), relativně zdravou podskupinu vyhýbavé poruchy a velkou skupinu subsyndromální patologie osobnosti nedosahující prahu pro DSM diagnózu.",
+  "deepDive": "**Přímo z textu** (oddíl 'Neurotic Level of Personality Organization'):\n\n> This group includes individuals with obsessive-compulsive and depressive personality disorders (the latter omitted from DSM-5), individuals with the higher-level hysterical personality disorder (omitted from DSM-5), a relatively healthy subset of patients with avoidant personality disorder, and the large group of patients seen in clinical practice who present with personality pathology not of sufficient severity to meet criteria for a DSM personality disorder.\n\nVšimni si, že dvě z klíčových NPO diagnóz (depresivní a hysterická) v DSM-5 vůbec nefigurují — kniha je udržuje jako klinicky užitečné, i když nejsou formálně kodifikované.",
+  "source": "Caligor, Kernberg, Clarkin, Yeomans (2018), kap. 2",
+  "anchor": "oddíl 'Neurotic Level of Personality Organization' — pasáž začínající 'This group includes individuals with obsessive-compulsive'",
+  "seedElo": 1550
+ },
+ {
+  "id": "k18-c02-304",
+  "type": "K",
+  "category": "kernberg-2018",
+  "text": "Které poruchy osobnosti kapitola typicky řadí do hraniční úrovně organizace (BPO)?",
+  "options": [
+   "Obsedantně-kompulzivní, depresivní porucha a zdravější subset vyhýbavé poruchy osobnosti.",
+   "Pouze hraniční a antisociální porucha osobnosti, zbytek patří k neurotické úrovni organizace.",
+   "Schizotypní, vyhýbavá, obsedantně-kompulzivní a depresivní porucha osobnosti v mírnější formě.",
+   "Závislá, histriónská, narcistická, hraniční, paranoidní, schizoidní a antisociální porucha osobnosti."
+  ],
+  "correct": 3,
+  "explanation": "Do hraniční úrovně organizace kapitola řadí většinu poruch osobnosti popsaných v DSM-5: závislou, histriónskou, narcistickou, hraniční, paranoidní, schizoidní a antisociální poruchu osobnosti.",
+  "deepDive": "**Přímo z textu** (oddíl 'Borderline Level of Personality Organization'):\n\n> Most of the personality disorders described in DSM-5 are found in this more severe group of personality disorders, including dependent, histrionic, narcissistic, borderline, paranoid, schizoid, and antisocial personality disorders.\n\nBPO je tedy širší a heterogennější kategorie než NPO — pokrývá naprostou většinu DSM-5 diagnóz, což odpovídá tomu, že strukturální přístup klade důraz především na míru poruchy identity, nikoli na typ rysů.",
+  "source": "Caligor, Kernberg, Clarkin, Yeomans (2018), kap. 2",
+  "anchor": "oddíl 'Borderline Level of Personality Organization' — pasáž začínající 'Most of the personality disorders described'",
+  "seedElo": 1550
+ },
+ {
+  "id": "k18-c02-305",
+  "type": "F",
+  "category": "kernberg-2018",
+  "text": "Podle čeho se hraniční úroveň organizace (BPO) dále dělí na pásma high/middle/low?",
+  "options": [
+   "Podle kvality objektních vztahů a morálního fungování, spolu s narůstající patologií identity.",
+   "Podle stability testování reality a přítomnosti transientní ztráty kontaktu s vnější realitou.",
+   "Podle převažujícího typu obranných mechanismů, konkrétně štěpení oproti čistě represivním obranám.",
+   "Podle míry sociálního testování reality a schopnosti přiměřeně číst sociální signály."
+  ],
+  "correct": 0,
+  "explanation": "Kapitola upřesňuje, že BPO skupina je dále členěna na high/middle/low pásmo na základě kvality objektních vztahů a morálního fungování, spolu s narůstající závažností patologie identity — nejde tedy jen o samotnou identitu, ale o tři doplňující se dimenze.",
+  "deepDive": "**Přímo z textu** (oddíl 'Dimensional Nature of Classification and High, Middle, and Low Borderline Personality Organization'):\n\n> The group of personality disorders falling into the borderline level of personality organization is large and heterogeneous and can be further characterized according to severity on the basis of 1) quality of object relations and 2) moral functioning, along with increasing severity of identity pathology.\n\nTři osy — objektní vztahy, morální fungování a stupeň patologie identity — tak společně určují, zda pacient spadá do high, middle, nebo low pásma BPO.",
+  "source": "Caligor, Kernberg, Clarkin, Yeomans (2018), kap. 2",
+  "anchor": "oddíl 'Dimensional Nature of Classification and High, Middle, and Low Borderline Personality Organization' — pasáž začínající 'can be further characterized according to severity'",
+  "seedElo": 1550
+ },
+ {
+  "id": "k18-c02-306",
+  "type": "K",
+  "category": "kernberg-2018",
+  "text": "V čem spočívá 'zásadní rozdíl' (essential distinction), který kapitola popisuje mezi high-BPO a middle/low-BPO skupinou?",
+  "options": [
+   "U middle/low-BPO je centrální porucha morálního fungování, zatímco u high-BPO dominuje výrazně nestabilní testování reality.",
+   "U high-BPO převažuje disociace jako hlavní obrana, zatímco u middle/low-BPO převažuje výhradně represe.",
+   "U middle/low-BPO je centrální špatně integrovaná agrese, zatímco u high-BPO dominují úzkosti kolem závislosti a sebehodnocení.",
+   "U high-BPO je centrální deficit sociálního testování reality, zatímco u middle/low-BPO dominuje závažná porucha identity vztahů."
+  ],
+  "correct": 2,
+  "explanation": "Klíčovým rozlišením mezi high-BPO a middle/low-BPO je role agrese: u middle a zejména low-BPO je centrální špatně integrovaná agrese jako hlavní zdroj úzkosti, zatímco u high-BPO dominují úzkosti spojené se závislostí a udržením sebehodnocení, přičemž agrese je až sekundární.",
+  "deepDive": "**Přímo z textu** (oddíl 'Dimensional Nature of Classification and High, Middle, and Low Borderline Personality Organization'):\n\n> An essential distinction between the high-BPO group and the middle- and low-BPO groups is the role played by aggression in psychological functioning and pathology...Aggression is less central in individuals with high-level borderline pathology, who struggle primarily with anxieties related to dependency and self-esteem maintenance, and only secondarily with aggression.\n\nAutoři to explicitně označují jako 'essential distinction' — nejde o vedlejší detail, ale o hlavní osu odlišující zdravější a závažnější konec BPO spektra.",
+  "source": "Caligor, Kernberg, Clarkin, Yeomans (2018), kap. 2",
+  "anchor": "oddíl 'Dimensional Nature of Classification and High, Middle, and Low Borderline Personality Organization' — pasáž začínající 'An essential distinction between the high-BPO'",
+  "seedElo": 1550
+ },
+ {
+  "id": "k18-c02-307",
+  "type": "K",
+  "category": "kernberg-2018",
+  "text": "Které poruchy osobnosti kapitola konkrétně řadí do high-BPO, respektive do low-BPO pásma?",
+  "options": [
+   "High-BPO zahrnuje paranoidní a schizoidní poruchu osobnosti; low-BPO zahrnuje hraniční a histriónskou poruchu osobnosti.",
+   "High-BPO zahrnuje závislou, histriónskou a vyhýbavou poruchu a zdravější narcismus; low-BPO antisociální poruchu a malignantní narcismus.",
+   "High-BPO zahrnuje obsedantně-kompulzivní a depresivní poruchu osobnosti; low-BPO zahrnuje výrazně těžší vyhýbavou a závislou poruchu osobnosti.",
+   "High-BPO zahrnuje malignantní narcismus a antisociální poruchu osobnosti; low-BPO zahrnuje závislou a histriónskou poruchu osobnosti."
+  ],
+  "correct": 1,
+  "explanation": "High-BPO pásmo zahrnuje závislou, histriónskou a narušenější vyhýbavou poruchu osobnosti a zdravější konec narcistického spektra. Low-BPO pásmo naopak zahrnuje antisociální poruchu osobnosti a nejzávažnější formy narcistické poruchy včetně malignantního narcismu.",
+  "deepDive": "**Přímo z textu** (oddíl 'Dimensional Nature of Classification and High, Middle, and Low Borderline Personality Organization'):\n\n> The high-BPO group includes dependent, histrionic, and more disturbed avoidant personalities, as well as the healthier end of the narcissistic spectrum. The low-BPO group includes antisocial personality disorder and more severe forms of narcissistic personality disorder presenting with prominent antisocial features, including malignant narcissism.\n\nZajímavé je, že narcistická porucha se 'roztahuje' napříč celým BPO spektrem — od zdravějšího konce v high-BPO až po malignantní narcismus v low-BPO — podle míry antisociálních rysů.",
+  "source": "Caligor, Kernberg, Clarkin, Yeomans (2018), kap. 2",
+  "anchor": "oddíl 'Dimensional Nature of Classification and High, Middle, and Low Borderline Personality Organization' — pasáž začínající 'The high-BPO group includes dependent'",
+  "seedElo": 1550
+ },
+ {
+  "id": "k18-c02-308",
+  "type": "F",
+  "category": "kernberg-2018",
+  "text": "Co je podle kapitoly 'sociální testování reality' (social reality testing)?",
+  "options": [
+   "Schopnost odlišit vlastní vnitřní prožívání od objektivní vnější reality v afektově nabitých mezilidských situacích.",
+   "Schopnost mentalizovat, tedy reflektovat vnitřní stavy sebe i druhých v průběhu afektově nabitého konfliktu.",
+   "Schopnost udržet stabilní a nezkreslený obraz sebe sama napříč různými sociálními i pracovními kontexty života.",
+   "Schopnost číst sociální signály, rozumět konvencím a reagovat taktně; deficit u BPO vede k nevhodnému chování."
+  ],
+  "correct": 3,
+  "explanation": "Sociální testování reality je odlišné od testování reality proper — jde o schopnost číst sociální signály, rozumět konvencím a reagovat taktně v mezilidských situacích. Její deficit u pacientů s BPO vede k nepřiměřenému chování, kterého si často nejsou vědomi, a k mylné interpretaci sociálních signálů.",
+  "deepDive": "**Přímo z textu** (oddíl 'Reality Testing and Reflective Capacities'):\n\n> Turning from reality testing proper to what we refer to as social reality testing, we see that individuals organized at a borderline level frequently present with deficits in this area. Social reality testing is responsible for the ability to read social cues, understand social conventions, and respond tactfully in interpersonal settings...Deficits in social reality testing can lead individuals who are organized at a borderline level to behave inappropriately in social settings, typically without being aware of doing so, and misinterpretation of social cues may lead to transient feelings of paranoia or fears of being abandoned.\n\nKapitola tento konstrukt záměrně odděluje od 'testování reality proper' (schopnosti odlišit vnitřní a vnější realitu) — jde o samostatnou, subtilnější schopnost čtení sociálního kontextu.",
+  "source": "Caligor, Kernberg, Clarkin, Yeomans (2018), kap. 2",
+  "anchor": "oddíl 'Reality Testing and Reflective Capacities' — pasáž začínající 'Turning from reality testing proper to'",
+  "seedElo": 1550
+ }
+]

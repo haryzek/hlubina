@@ -1,0 +1,146 @@
+[
+  {
+    "id": "k18-c02-301",
+    "type": "F",
+    "category": "kernberg-2018",
+    "text": "Podle deskriptivní definice v kapitole 2, kdy přesně se rigidita osobnostních rysů stává poruchou osobnosti?",
+    "options": [
+      "Když rigidita brání jedinci přizpůsobit se libovolné formě psychoterapeutické či farmakologické léčebné intervence.",
+      "Když rigidita vede k opakovanému a zjevnému porušování sociálně přijímaných konvenčních norem chování.",
+      "Když rigidita významně, konzistentně a chronicky narušuje fungování a/nebo způsobuje distres jedinci nebo okolí.",
+      "Když rigidita způsobí trvalou a nevratnou ztrátu schopnosti testovat realitu i mimo afektově nabité situace."
+    ],
+    "correct": 2,
+    "explanation": "Kapitola definuje poruchu osobnosti z deskriptivního hlediska jako bod, kdy rigidita rysů přestává být jen stylem a začíná významně, konzistentně a chronicky narušovat každodenní fungování, případně způsobovat distres jedinci nebo jeho okolí. Jde o práh oddělující 'osobnostní styl' od 'poruchy osobnosti'.",
+    "deepDive": "**Přímo z textu** (oddíl 'Trait-Based Diagnosis of Personality Disorders and DSM-5 Section II'):\n\n> From a descriptive perspective, an individual whose personality rigidity reaches the point that it significantly, consistently, and chronically interferes with daily functioning, and/or causes significant distress to the individual or those around him, is said to have a personality disorder.\n\nTato věta je samotnou deskriptivní definicí poruchy osobnosti podle autorů — nejde o kvalitativně jinou vlastnost než normální rysy, ale o kvantitativní posun v míře rigidity, který překročí práh funkčního narušení nebo distresu.",
+    "source": "Caligor, Kernberg, Clarkin, Yeomans (2018), kap. 2",
+    "anchor": "oddíl 'Trait-Based Diagnosis of Personality Disorders and DSM-5 Section II' — pasáž začínající 'From a descriptive perspective, an individual whose'",
+    "seedElo": 1550
+  },
+  {
+    "id": "k18-c02-302",
+    "type": "F",
+    "category": "kernberg-2018",
+    "text": "Jak kapitola definuje termín 'higher level personality pathology' (vyšší úroveň patologie osobnosti)?",
+    "options": [
+      "Relativně zdravá skupina pacientů na neurotické úrovni s hybridními strukturami na hranici high BPO a NPO.",
+      "Skupina pacientů se STIPO-R skóre identity na úrovni 1, tedy zcela bez jakékoli patologie ve všech pěti hodnocených doménách.",
+      "Podskupina low-BPO pacientů s malignantním narcismem, kteří si přesto zachovávají stabilní a nezkreslené testování reality.",
+      "Kategorie zahrnující výhradně pacienty s hraniční poruchou osobnosti podle DSM-5, s neobvykle dobrou prognózou léčby."
+    ],
+    "correct": 0,
+    "explanation": "Termín 'higher level personality pathology' kapitola vyhrazuje pro relativně zdravou kohortu — pacienty organizované na neurotické úrovni plus hybridní struktury na hranici high BPO a NPO. Tato skupina dobře profituje z méně strukturované formy TFP-E popsané pro NPO pacienty.",
+    "deepDive": "**Přímo z textu** (oddíl 'Higher Level Personality Pathology'):\n\n> We have used the term higher level personality pathology (see Caligor et al. 2007) to describe a relatively healthy group of patients composed of those organized at a neurotic level, along with those with hybrid structures falling on the border between high BPO and NPO.\n\nTermín tedy explicitně spojuje dvě podskupiny — čistou NPO a hraniční hybridy high-BPO/NPO — a váže je na konkrétní terapeutický důsledek: méně strukturovanou variantu TFP-E.",
+    "source": "Caligor, Kernberg, Clarkin, Yeomans (2018), kap. 2",
+    "anchor": "oddíl 'Higher Level Personality Pathology' — pasáž začínající 'We have used the term higher level'",
+    "seedElo": 1550
+  },
+  {
+    "id": "k18-c02-303",
+    "type": "K",
+    "category": "kernberg-2018",
+    "text": "Které poruchy osobnosti kapitola řadí do neurotické úrovně organizace (NPO)?",
+    "options": [
+      "Závislá, histriónská, narcistická a hraniční porucha osobnosti spolu se subsyndromální patologií osobnosti.",
+      "Paranoidní, schizoidní, antisociální porucha osobnosti a nejzávažnější formy narcistické poruchy osobnosti.",
+      "Obsedantně-kompulzivní a depresivní porucha, vyšší hysterická porucha a zdravější vyhýbavá porucha.",
+      "Schizotypní porucha osobnosti, malignantní narcismus a plně vyjádřená hraniční porucha osobnosti v akutní fázi."
+    ],
+    "correct": 2,
+    "explanation": "Do NPO kapitola řadí obsedantně-kompulzivní a depresivní poruchu osobnosti, vyšší hysterickou poruchu (obě chybí v DSM-5), relativně zdravou podskupinu vyhýbavé poruchy a velkou skupinu subsyndromální patologie osobnosti nedosahující prahu pro DSM diagnózu.",
+    "deepDive": "**Přímo z textu** (oddíl 'Neurotic Level of Personality Organization'):\n\n> This group includes individuals with obsessive-compulsive and depressive personality disorders (the latter omitted from DSM-5), individuals with the higher-level hysterical personality disorder (omitted from DSM-5), a relatively healthy subset of patients with avoidant personality disorder, and the large group of patients seen in clinical practice who present with personality pathology not of sufficient severity to meet criteria for a DSM personality disorder.\n\nVšimni si, že dvě z klíčových NPO diagnóz (depresivní a hysterická) v DSM-5 vůbec nefigurují — kniha je udržuje jako klinicky užitečné, i když nejsou formálně kodifikované.",
+    "source": "Caligor, Kernberg, Clarkin, Yeomans (2018), kap. 2",
+    "anchor": "oddíl 'Neurotic Level of Personality Organization' — pasáž začínající 'This group includes individuals with obsessive-compulsive'",
+    "seedElo": 1550
+  },
+  {
+    "id": "k18-c02-304",
+    "type": "K",
+    "category": "kernberg-2018",
+    "text": "Které poruchy osobnosti kapitola typicky řadí do hraniční úrovně organizace (BPO)?",
+    "options": [
+      "Obsedantně-kompulzivní, depresivní porucha a zdravější subset vyhýbavé poruchy osobnosti.",
+      "Pouze hraniční a antisociální porucha osobnosti, zbytek patří k neurotické úrovni organizace.",
+      "Schizotypní, vyhýbavá, obsedantně-kompulzivní a depresivní porucha osobnosti v mírnější formě.",
+      "Závislá, histriónská, narcistická, hraniční, paranoidní, schizoidní a antisociální porucha osobnosti."
+    ],
+    "correct": 3,
+    "explanation": "Do hraniční úrovně organizace kapitola řadí většinu poruch osobnosti popsaných v DSM-5: závislou, histriónskou, narcistickou, hraniční, paranoidní, schizoidní a antisociální poruchu osobnosti.",
+    "deepDive": "**Přímo z textu** (oddíl 'Borderline Level of Personality Organization'):\n\n> Most of the personality disorders described in DSM-5 are found in this more severe group of personality disorders, including dependent, histrionic, narcissistic, borderline, paranoid, schizoid, and antisocial personality disorders.\n\nBPO je tedy širší a heterogennější kategorie než NPO — pokrývá naprostou většinu DSM-5 diagnóz, což odpovídá tomu, že strukturální přístup klade důraz především na míru poruchy identity, nikoli na typ rysů.",
+    "source": "Caligor, Kernberg, Clarkin, Yeomans (2018), kap. 2",
+    "anchor": "oddíl 'Borderline Level of Personality Organization' — pasáž začínající 'Most of the personality disorders described'",
+    "seedElo": 1550
+  },
+  {
+    "id": "k18-c02-305",
+    "type": "F",
+    "category": "kernberg-2018",
+    "text": "Podle čeho se hraniční úroveň organizace (BPO) dále dělí na pásma high/middle/low?",
+    "options": [
+      "Podle kvality objektních vztahů a morálního fungování, spolu s narůstající patologií identity.",
+      "Podle stability testování reality a přítomnosti transientní ztráty kontaktu s vnější realitou.",
+      "Podle převažujícího typu obranných mechanismů, konkrétně štěpení oproti čistě represivním obranám.",
+      "Podle míry sociálního testování reality a schopnosti přiměřeně číst sociální signály."
+    ],
+    "correct": 0,
+    "explanation": "Kapitola upřesňuje, že BPO skupina je dále členěna na high/middle/low pásmo na základě kvality objektních vztahů a morálního fungování, spolu s narůstající závažností patologie identity — nejde tedy jen o samotnou identitu, ale o tři doplňující se dimenze.",
+    "deepDive": "**Přímo z textu** (oddíl 'Dimensional Nature of Classification and High, Middle, and Low Borderline Personality Organization'):\n\n> The group of personality disorders falling into the borderline level of personality organization is large and heterogeneous and can be further characterized according to severity on the basis of 1) quality of object relations and 2) moral functioning, along with increasing severity of identity pathology.\n\nTři osy — objektní vztahy, morální fungování a stupeň patologie identity — tak společně určují, zda pacient spadá do high, middle, nebo low pásma BPO.",
+    "source": "Caligor, Kernberg, Clarkin, Yeomans (2018), kap. 2",
+    "anchor": "oddíl 'Dimensional Nature of Classification and High, Middle, and Low Borderline Personality Organization' — pasáž začínající 'can be further characterized according to severity'",
+    "seedElo": 1550
+  },
+  {
+    "id": "k18-c02-306",
+    "type": "K",
+    "category": "kernberg-2018",
+    "text": "V čem spočívá 'zásadní rozdíl' (essential distinction), který kapitola popisuje mezi high-BPO a middle/low-BPO skupinou?",
+    "options": [
+      "U middle/low-BPO je centrální porucha morálního fungování, zatímco u high-BPO dominuje výrazně nestabilní testování reality.",
+      "U high-BPO převažuje disociace jako hlavní obrana, zatímco u middle/low-BPO převažuje výhradně represe.",
+      "U middle/low-BPO je centrální špatně integrovaná agrese, zatímco u high-BPO dominují úzkosti kolem závislosti a sebehodnocení.",
+      "U high-BPO je centrální deficit sociálního testování reality, zatímco u middle/low-BPO dominuje závažná porucha identity vztahů."
+    ],
+    "correct": 2,
+    "explanation": "Klíčovým rozlišením mezi high-BPO a middle/low-BPO je role agrese: u middle a zejména low-BPO je centrální špatně integrovaná agrese jako hlavní zdroj úzkosti, zatímco u high-BPO dominují úzkosti spojené se závislostí a udržením sebehodnocení, přičemž agrese je až sekundární.",
+    "deepDive": "**Přímo z textu** (oddíl 'Dimensional Nature of Classification and High, Middle, and Low Borderline Personality Organization'):\n\n> An essential distinction between the high-BPO group and the middle- and low-BPO groups is the role played by aggression in psychological functioning and pathology...Aggression is less central in individuals with high-level borderline pathology, who struggle primarily with anxieties related to dependency and self-esteem maintenance, and only secondarily with aggression.\n\nAutoři to explicitně označují jako 'essential distinction' — nejde o vedlejší detail, ale o hlavní osu odlišující zdravější a závažnější konec BPO spektra.",
+    "source": "Caligor, Kernberg, Clarkin, Yeomans (2018), kap. 2",
+    "anchor": "oddíl 'Dimensional Nature of Classification and High, Middle, and Low Borderline Personality Organization' — pasáž začínající 'An essential distinction between the high-BPO'",
+    "seedElo": 1550
+  },
+  {
+    "id": "k18-c02-307",
+    "type": "K",
+    "category": "kernberg-2018",
+    "text": "Které poruchy osobnosti kapitola konkrétně řadí do high-BPO, respektive do low-BPO pásma?",
+    "options": [
+      "High-BPO zahrnuje paranoidní a schizoidní poruchu osobnosti; low-BPO zahrnuje hraniční a histriónskou poruchu osobnosti.",
+      "High-BPO zahrnuje závislou, histriónskou a vyhýbavou poruchu a zdravější narcismus; low-BPO antisociální poruchu a malignantní narcismus.",
+      "High-BPO zahrnuje obsedantně-kompulzivní a depresivní poruchu osobnosti; low-BPO zahrnuje výrazně těžší vyhýbavou a závislou poruchu osobnosti.",
+      "High-BPO zahrnuje malignantní narcismus a antisociální poruchu osobnosti; low-BPO zahrnuje závislou a histriónskou poruchu osobnosti."
+    ],
+    "correct": 1,
+    "explanation": "High-BPO pásmo zahrnuje závislou, histriónskou a narušenější vyhýbavou poruchu osobnosti a zdravější konec narcistického spektra. Low-BPO pásmo naopak zahrnuje antisociální poruchu osobnosti a nejzávažnější formy narcistické poruchy včetně malignantního narcismu.",
+    "deepDive": "**Přímo z textu** (oddíl 'Dimensional Nature of Classification and High, Middle, and Low Borderline Personality Organization'):\n\n> The high-BPO group includes dependent, histrionic, and more disturbed avoidant personalities, as well as the healthier end of the narcissistic spectrum. The low-BPO group includes antisocial personality disorder and more severe forms of narcissistic personality disorder presenting with prominent antisocial features, including malignant narcissism.\n\nZajímavé je, že narcistická porucha se 'roztahuje' napříč celým BPO spektrem — od zdravějšího konce v high-BPO až po malignantní narcismus v low-BPO — podle míry antisociálních rysů.",
+    "source": "Caligor, Kernberg, Clarkin, Yeomans (2018), kap. 2",
+    "anchor": "oddíl 'Dimensional Nature of Classification and High, Middle, and Low Borderline Personality Organization' — pasáž začínající 'The high-BPO group includes dependent'",
+    "seedElo": 1550
+  },
+  {
+    "id": "k18-c02-308",
+    "type": "F",
+    "category": "kernberg-2018",
+    "text": "Co je podle kapitoly 'sociální testování reality' (social reality testing)?",
+    "options": [
+      "Schopnost odlišit vlastní vnitřní prožívání od objektivní vnější reality v afektově nabitých mezilidských situacích.",
+      "Schopnost mentalizovat, tedy reflektovat vnitřní stavy sebe i druhých v průběhu afektově nabitého konfliktu.",
+      "Schopnost udržet stabilní a nezkreslený obraz sebe sama napříč různými sociálními i pracovními kontexty života.",
+      "Schopnost číst sociální signály, rozumět konvencím a reagovat taktně; deficit u BPO vede k nevhodnému chování."
+    ],
+    "correct": 3,
+    "explanation": "Sociální testování reality je odlišné od testování reality proper — jde o schopnost číst sociální signály, rozumět konvencím a reagovat taktně v mezilidských situacích. Její deficit u pacientů s BPO vede k nepřiměřenému chování, kterého si často nejsou vědomi, a k mylné interpretaci sociálních signálů.",
+    "deepDive": "**Přímo z textu** (oddíl 'Reality Testing and Reflective Capacities'):\n\n> Turning from reality testing proper to what we refer to as social reality testing, we see that individuals organized at a borderline level frequently present with deficits in this area. Social reality testing is responsible for the ability to read social cues, understand social conventions, and respond tactfully in interpersonal settings...Deficits in social reality testing can lead individuals who are organized at a borderline level to behave inappropriately in social settings, typically without being aware of doing so, and misinterpretation of social cues may lead to transient feelings of paranoia or fears of being abandoned.\n\nKapitola tento konstrukt záměrně odděluje od 'testování reality proper' (schopnosti odlišit vnitřní a vnější realitu) — jde o samostatnou, subtilnější schopnost čtení sociálního kontextu.",
+    "source": "Caligor, Kernberg, Clarkin, Yeomans (2018), kap. 2",
+    "anchor": "oddíl 'Reality Testing and Reflective Capacities' — pasáž začínající 'Turning from reality testing proper to'",
+    "seedElo": 1550
+  }
+]

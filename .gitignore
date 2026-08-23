@@ -1,0 +1,4 @@
+# plné texty knih nikdy do veřejného repa (copyright) — v repu smí být jen otázky s krátkými citacemi
+content/books/src/
+content/books/*/epub/
+content/books/*/*/text.md
