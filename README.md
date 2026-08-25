@@ -176,6 +176,26 @@ Claude přímý přístup nemá, Bob kopíruje do repa ručně).
 - Elo-cílení: z Bobova exportu číst per-doména úspěšnost a extrémní Ela
   otázek → další vlna dosycuje slabiny a mění nudné (podstřelené) kusy.
 
+## Plán oborů a balíčků (k 2026-08-24, zatím nepostaveno)
+
+Pravidlo: **každý nový balíček dostane sondážní žebřík (~11 otázek,
+1300–2150) → Bob odehraje → z exportu se čte strop → hlavní generace
+~100 otázek na balíček.** Sebehodnocení místo sondáže Bob odmítl —
+sondáž je zákon.
+
+- **Psychoterapie** (živý): tvrdá vlna 2000–2300 (~450) · Kernberg 2018
+  kap. 3–13 lite · Kernberg 1975 · TFP Guide 2014 · McWilliams a další
+  klasiky dle dodávky.
+- **Přírodní vědy**: Kvantovka · Evoluce a biologie · Kosmologie
+  a fyzika velkého · Živočichové.
+- **Filosofie**: Dějiny filosofie · Epistemologie a filosofie vědy ·
+  Etika · Logika a paradoxy (logické problémy a šmodrchance různé
+  obtížnosti — Bobovo výslovné přání).
+- **Vědomí a mysl**: Filosofie mysli (qualia, hard problem, zombie) ·
+  Theory of mind mimo kliniku · Neurověda vědomí (GWT, IIT, prediktivní
+  zpracování).
+- **General**: Technologie · AI · Zajímavá „crazy" fakta všeho druhu.
+
 ## Nápadník (Bobova přání, zatím nepostavená)
 
 - **Studijní scroll („učebnice")**: prolistovat všechny otázky balíčku
