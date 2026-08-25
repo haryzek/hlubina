@@ -1,0 +1,222 @@
+[
+  {
+    "id": "log-01",
+    "type": "F",
+    "category": "logika",
+    "text": "Všechny kočky jsou savci. Whiskers je kočka. Co z toho logicky plyne?",
+    "options": ["Whiskers je savec.", "Whiskers je pes.", "Whiskers není savec.", "Nelze nic usoudit."],
+    "correct": 0,
+    "explanation": "Platí obecné pravidlo (všechny kočky jsou savci) a Whiskers splňuje podmínku, že je kočka. Proto na něj pravidlo dopadá a musí být savcem. Jde o základní platný sylogismus.",
+    "source": "klasický sylogismus",
+    "seedElo": 1300
+  },
+  {
+    "id": "log-02",
+    "type": "F",
+    "category": "logika",
+    "text": "Žádný plaz není teplokrevný živočich. Někteří hadi jsou plazi. Co z toho logicky plyne?",
+    "options": ["Všichni hadi jsou teplokrevní.", "Někteří hadi nejsou teplokrevní.", "Žádný z těchto hadů není plaz.", "Nelze nic usoudit o žádných hadech."],
+    "correct": 1,
+    "explanation": "Ti hadi, o kterých víme, že jsou plazi, spadají pod pravidlo 'žádný plaz není teplokrevný' - takže tito konkrétní hadi teplokrevní nejsou. Odtud plyne, že alespoň někteří hadi nejsou teplokrevní.",
+    "source": "klasický sylogismus (mood Ferio)",
+    "seedElo": 1330
+  },
+  {
+    "id": "log-03",
+    "type": "F",
+    "category": "logika",
+    "text": "Petr je vyšší než Jana. Jana je vyšší než Karel. Kdo je ze tří jmenovaných nejnižší?",
+    "options": ["Nejnižší je Petr.", "Nejnižší je Karel.", "Nejnižší je Jana.", "Nelze to vůbec určit."],
+    "correct": 1,
+    "explanation": "Z 'Petr > Jana' a 'Jana > Karel' plyne řetězec Petr > Jana > Karel. Karel je tedy v tomto pořadí nejníže.",
+    "source": "klasická úloha na tranzitivitu",
+    "seedElo": 1360
+  },
+  {
+    "id": "log-04",
+    "type": "F",
+    "category": "logika",
+    "text": "Otec má pět synů a každý ze synů má přesně jednu sestru (tutéž pro všechny syny). Kolik dětí má otec celkem?",
+    "options": ["Celkem 5 dětí.", "Celkem 10 dětí.", "Celkem 6 dětí.", "Celkem 4 děti."],
+    "correct": 2,
+    "explanation": "Sestra je společná všem pěti synům - je to jediná dcera, ne pět různých dcer. Celkem je tedy dětí 5 synů + 1 dcera = 6.",
+    "source": "klasická hádanka",
+    "seedElo": 1390
+  },
+  {
+    "id": "log-05",
+    "type": "F",
+    "category": "logika",
+    "text": "Na ostrově žijí jen rytíři, kteří vždy mluví pravdu, a lháři, kteří vždy lžou. Potkáte dva obyvatele, A a B. A řekne: 'Alespoň jeden z nás dvou je lhář.' Kým jsou A a B?",
+    "options": ["Oba jsou rytíři mluvící pravdu.", "Oba jsou lháři, co vždy lžou.", "A je lhář, B je pravdomluvný rytíř.", "A je poctivý rytíř, B je lhář."],
+    "correct": 3,
+    "explanation": "Kdyby A byl lhář, jeho výrok by musel být nepravdivý - tedy nikdo z nich by nebyl lhář, což je spor s tím, že A lhář je. A tedy musí být rytíř a jeho výrok je pravdivý: alespoň jeden je lhář, a protože A je rytíř, musí to být B.",
+    "source": "Smullyan, rytíři a lháři",
+    "seedElo": 1420
+  },
+  {
+    "id": "log-06",
+    "type": "F",
+    "category": "logika",
+    "text": "V jedné vesnici žije holič, muž z téže vesnice, který holí právě ty muže vesnice, kteří se neholí sami - a jen ty. Kdo holí holiče?",
+    "options": ["Holič holí sám sebe, protože se sám vlastně neholí.", "Holič chodí holit se pravidelně ke svému sousedovi.", "Situace vede ke sporu, holič dle zadání nemůže existovat.", "Holič si holí vousy podle toho, jaký je zrovna den v týdnu."],
+    "correct": 2,
+    "explanation": "Pokud se holič holí sám, pak podle pravidla patří mezi ty, které neholí - spor. Pokud se sám neholí, pak podle pravidla ho holit má - opět spor. Zadání je tedy vnitřně sporné a takový holič nemůže existovat (Russellův paradox v hávu hádanky).",
+    "source": "Russellův paradox holiče",
+    "seedElo": 1450
+  },
+  {
+    "id": "log-07",
+    "type": "F",
+    "category": "logika",
+    "text": "Máte 3 vzhledově identické mince, jedna je falešná a lehčí než ostatní dvě (které váží stejně). Kolik nejméně vážení na rovnoramenných vahách stačí, abyste falešnou minci najisto našli?",
+    "options": ["0 vážení.", "1 vážení.", "2 vážení.", "3 vážení."],
+    "correct": 1,
+    "explanation": "Položíte jednu minci proti druhé a třetí necháte stranou. Pokud se váhy vychýlí, lehčí strana je falešná; pokud jsou v rovnováze, falešná je ta odložená. Stačí tedy jediné vážení.",
+    "source": "klasická úloha o vážení mincí",
+    "seedElo": 1480
+  },
+  {
+    "id": "log-08",
+    "type": "F",
+    "category": "logika",
+    "text": "Stojíte na rozcestí dvou cest - jedna vede do bezpečného města, druhá do nebezpečné bažiny. Potkáte domorodce, o kterém víte jen to, že buď vždy mluví pravdu, nebo vždy lže (nevíte který typ to je). Smíte mu položit jedinou otázku s odpovědí ano/ne. Jak se zeptat, abyste se s jistotou dozvěděli, která cesta vede do města?",
+    "options": ["Zeptáte se: 'Je tahle cesta bezpečná do města?' a prostě uvěříte odpovědi.", "Zeptáte se: 'Jsi rytíř mluvící pravdu?' a podle odpovědi poznáte cestu.", "Zeptáte se: 'Řekl by opačný typ, že vede do města?' a půjdete jinam.", "Zeptáte se: 'Miluješ vždycky pravdu?' a podle tónu hlasu poznáte cestu."],
+    "correct": 2,
+    "explanation": "Otázka se dvěma vnořenými negacemi (skutečná odpověď × hypotetická odpověď opačného typu) se u pravdomluvného i lháře 'zlomí' stejně - oba odpoví shodně nepravdivě o cestě do města. Proto stačí jít opačným směrem, než domorodec ukáže.",
+    "source": "klasická hádanka o rozcestí",
+    "seedElo": 1510
+  },
+  {
+    "id": "log-09",
+    "type": "F",
+    "category": "logika",
+    "text": "Máte 8 vzhledově identických mincí, jedna je falešná a lehčí, ostatní váží stejně. Kolik nejméně vážení na rovnoramenných vahách je potřeba, abyste falešnou minci najisto našli?",
+    "options": ["4 vážení.", "3 vážení.", "1 vážení.", "2 vážení."],
+    "correct": 3,
+    "explanation": "Mince rozdělíte na tři skupiny (3, 3, 2) a porovnáte dvě trojice. Podle výsledku zúžíte podezřelou skupinu na nejvýše 3 mince a druhým vážením mezi nimi najdete tu falešnou. Jedno vážení by stačilo jen na maximálně 3 mince, proto jsou potřeba dvě.",
+    "source": "klasická úloha o vážení mincí",
+    "seedElo": 1540
+  },
+  {
+    "id": "log-10",
+    "type": "F",
+    "category": "logika",
+    "text": "Alice, Bob a Karel mají na hlavě klobouk - buď červený, nebo modrý. Každý vidí klobouky obou ostatních, ale ne svůj vlastní. Je oznámeno, že dohromady jsou přesně dva červené klobouky a jeden modrý. Alice vidí, že Bob má červený klobouk a Karel má modrý klobouk. Jakou barvu má klobouk Alice?",
+    "options": ["Má červenou barvu.", "Má modrou barvu.", "Nedá se to určit.", "Nemá žádnou barvu."],
+    "correct": 0,
+    "explanation": "Bob (červený) a Karel (modrý) už vyčerpali jeden červený a jediný modrý klobouk. Protože celkem musí být dva červené, musí být červený i klobouk Alice.",
+    "source": "klasická hádanka o kloboucích",
+    "seedElo": 1570
+  },
+  {
+    "id": "log-11",
+    "type": "F",
+    "category": "logika",
+    "text": "V Zénonově paradoxu Achilles nikdy nedostihne pomalejší želvu, protože než doběhne tam, kde želva byla, ona mezitím popoleze o kousek dál - a to se opakuje do nekonečna. V čem spočívá standardní matematické rozuzlení tohoto paradoxu?",
+    "options": ["Achilles ve skutečnosti želvu nikdy nedostihne, celý paradox je pravdivý.", "Nekonečná řada čím dál kratších úseků má konečný součet, čas je též konečný.", "Prostor je prý nespojitý, takže se Achilles a želva nikdy nepotkají v jednom bodě.", "Paradox platí jen pro nekonečně rychlé želvy, což je fyzikálně nemožné."],
+    "correct": 1,
+    "explanation": "Achilles skutečně musí uběhnout nekonečně mnoho stále kratších úseků, ale jejich součet (geometrická řada) je konečné číslo, konečný čas. Proto želvu v reálném a konečném čase dostihne a předběhne.",
+    "source": "Zénonův paradox (Achilles a želva)",
+    "seedElo": 1600
+  },
+  {
+    "id": "log-12",
+    "type": "F",
+    "category": "logika",
+    "text": "Uvažte výrok: 'Tento výrok je nepravdivý.' V čem spočívá jádro paradoxu lháře, který tento výrok představuje?",
+    "options": ["Výrok je jednoznačně pravdivý, protože sám sebe potvrzuje.", "Výrok je nesmyslný, nemá tedy logickou hodnotu, což problém odstraňuje.", "Výrok je jednoznačně nepravdivý, protože mluví sám o sobě.", "Výrok nejde označit za pravdivý ani nepravdivý, obojí vede ke sporu."],
+    "correct": 3,
+    "explanation": "Pokud je výrok pravdivý, pak podle svého vlastního obsahu je nepravdivý - spor. Pokud je nepravdivý, pak to, co tvrdí (že je nepravdivý), platí, takže je pravdivý - opět spor. Sebeodkazování výrok uzamyká mimo obvyklé kategorie pravda/nepravda.",
+    "source": "paradox lháře",
+    "seedElo": 1630
+  },
+  {
+    "id": "log-13",
+    "type": "F",
+    "category": "logika",
+    "text": "Tři lidé, A, B a C, jsou buď rytíři (mluví vždy pravdu), nebo lháři (vždy lžou). A řekne: 'B je lhář.' B řekne: 'A a C jsou stejného typu (oba rytíři, nebo oba lháři).' Kým je C?",
+    "options": ["C je rytíř, mluvící vždy pravdu.", "C může být oboje, nelze určit.", "C je lhář, který vždy lže.", "C je stejného typu jako B."],
+    "correct": 2,
+    "explanation": "Pokud je A rytíř, je jeho výrok pravdivý, takže B je lhář; B jako lhář lže, že A a C jsou stejní, takže C musí být jiný typ než A - tedy lhář. Pokud je A lhář, jeho výrok je nepravdivý, takže B je rytíř; B jako rytíř mluví pravdu, že A a C jsou stejní, takže C je stejný typ jako A - tedy opět lhář. V obou možných scénářích vychází C jako lhář.",
+    "source": "Smullyan, rytíři a lháři",
+    "seedElo": 1660
+  },
+  {
+    "id": "log-14",
+    "type": "F",
+    "category": "logika",
+    "text": "Loď Theseova: postupně se vymění úplně všechna prkna lodi za nová, jedno po druhém, až žádné z původních prken nezůstane. V čem spočívá jádro tohoto paradoxu?",
+    "options": ["Ukazuje, že objekt fyzicky nikdy nemůže být vyměněn, aniž by hned zanikl.", "Zpochybňuje kritérium, podle něhož je něco 'touž' věcí navzdory výměně hmoty.", "Dokazuje, že žádná loď ve skutečnosti nikdy neexistuje jako jeden celek.", "Řeší se tím, že prkna se prostě nesmí vyměňovat, jinak jde vždy o jinou loď."],
+    "correct": 1,
+    "explanation": "Paradox neřeší fyzikální otázku, ale pojmovou: co vlastně činí objekt 'týmž' objektem v čase - kontinuita tvaru a funkce, nebo totožnost hmoty. Různá kritéria identity vedou k různým, stejně obhajitelným odpovědím, a proto zde neexistuje jedna nesporná pravda, jen volba kritéria.",
+    "source": "loď Theseova",
+    "seedElo": 1690
+  },
+  {
+    "id": "log-15",
+    "type": "F",
+    "category": "logika",
+    "text": "Máte 9 vzhledově identických mincí, jedna je falešná a lehčí, ostatní váží stejně. Kolik nejméně vážení na rovnoramenných vahách stačí, abyste falešnou minci najisto našli?",
+    "options": ["2 vážení.", "4 vážení.", "3 vážení.", "1 vážení."],
+    "correct": 0,
+    "explanation": "Mince rozdělíte na tři skupiny po třech a porovnáte dvě z nich. Podle výsledku poznáte, ve které trojici je falešná mince lehčí, a druhým vážením mezi jejími třemi mincemi ji přesně určíte.",
+    "source": "klasická úloha o vážení mincí",
+    "seedElo": 1720
+  },
+  {
+    "id": "log-16",
+    "type": "F",
+    "category": "logika",
+    "text": "Ve skladu je celkem 5 klobouků: 3 černé a 2 bílé. Dozorce nasadí každému ze tří vězňů A, B, C jeden klobouk a zbylé dva schová, aniž by je kdokoli viděl. Každý vězeň vidí klobouky obou ostatních, ale ne svůj vlastní, a všichni znají složení skladu (3 černé, 2 bílé). Vězeň A řekne: 'Nevím, jakou mám barvu.' Vězeň B pak řekne: 'Já taky nevím.' Co z toho může logicky usoudit vězeň C o barvě svého klobouku?",
+    "options": ["C nemůže usoudit nic o vlastní barvě.", "C usoudí, že jeho vlastní klobouk je bílý.", "C usoudí, že jeho klobouk je černý.", "C usoudí, že A a B mají barvu jako on."],
+    "correct": 2,
+    "explanation": "Kdyby B a C měli oba bílé klobouky, vyčerpali by oba bílé kusy, takže A by ihned poznal svůj klobouk jako černý - ale A neví, takže alespoň jeden z B, C je černý. Kdyby C byl bílý, pak by z této podmínky B usoudil, že sám musí být černý - ale B taky neví. Proto C nemůže být bílý a musí být černý.",
+    "source": "klasická hádanka o kloboucích (odvozeno od úlohy tří mudrců)",
+    "seedElo": 1750
+  },
+  {
+    "id": "log-17",
+    "type": "F",
+    "category": "logika",
+    "text": "V televizní hře jsou tři zavřené dveře, za jedněmi je auto, za dalšíma dvěma kozy. Vyberete dveře č. 1. Moderátor, který vždy ví, kde je auto, a vždy otevře jiné dveře s kozou (nikdy vaše dveře, nikdy dveře s autem), otevře dveře č. 3 a odhalí kozu. Poté vám nabídne možnost změnit volbu na dveře č. 2. Je výhodnější zůstat u dveří č. 1, přejít na dveře č. 2, nebo je to jedno?",
+    "options": ["Přejít na dveře č. 2, výhra se přechodem zvýší na 2/3.", "Zůstat u dveří č. 1, výhra je stejně pravděpodobná jako u přechodu.", "Je to jedno, obě volby mají pravděpodobnost přesně 1/2.", "Zůstat u dveří č. 1, tato volba má vyšší pravděpodobnost výhry."],
+    "correct": 0,
+    "explanation": "Původní volba měla šanci 1/3 na auto a zbylé dveře dohromady 2/3. Moderátor cíleně otevřel kozu z té dvojice, takže celá pravděpodobnost 2/3 se přesune na jediné zbývající zavřené dveře - dveře č. 2. Přechod tedy zdvojnásobí šanci na výhru.",
+    "source": "Monty Hall problém",
+    "seedElo": 1780
+  },
+  {
+    "id": "log-18",
+    "type": "F",
+    "category": "logika",
+    "text": "A, B a C jsou buď rytíři (mluví vždy pravdu), nebo lháři (vždy lžou). A řekne: 'Všichni tři jsme lháři.' B řekne: 'Přesně jeden z nás je rytíř.' Kým jsou A, B a C?",
+    "options": ["A rytíř, B lhář, C rytíř.", "Všichni tři jsou lháři.", "A lhář, B lhář, C rytíř.", "A lhář, B rytíř, C lhář."],
+    "correct": 3,
+    "explanation": "Kdyby A byl rytíř, jeho výrok 'všichni jsme lháři' by musel platit i o něm - spor, takže A je lhář. Jeho výrok je tedy nepravdivý, takže ne všichni jsou lháři - aspoň jeden je rytíř. Kdyby byl lhářem i B, jeho výrok by musel být nepravdivý, ale s A lhářem a B lhářem by 'přesně jeden rytíř' vyžadovalo C rytíře, což by výrok B učinilo pravdivým - spor s tím, že B je lhář. Proto je B rytíř; jeho pravdivý výrok pak říká, že rytíř je jen jeden - tedy C je lhář.",
+    "source": "Smullyan, rytíři a lháři",
+    "seedElo": 1810
+  },
+  {
+    "id": "log-19",
+    "type": "F",
+    "category": "logika",
+    "text": "Přídavné jméno nazveme 'heterologické', pokud samo sebe nepopisuje (např. slovo 'dlouhé' je heterologické, protože ono samo dlouhé není; slovo 'české' je autologické, protože je to skutečně české slovo). Je slovo 'heterologické' samo heterologické?",
+    "options": ["Ani jedna odpověď nejde přiřadit konzistentně, obě vedou ke sporu.", "Ano, slovo je jednoznačně heterologické, žádný spor v tom není.", "Ne, slovo je jednoznačně autologické, popisuje samo sebe.", "Otázka je nesmyslná, přídavná jména nemohou popisovat sama sebe."],
+    "correct": 0,
+    "explanation": "Kdyby 'heterologické' bylo heterologické, znamenalo by to, že sebe nepopisuje - ale tím, že je heterologické, sebe právě popisuje, spor. Kdyby bylo autologické (popisovalo samo sebe), muselo by být heterologické podle definice heterologičnosti - opět spor. Jde o strukturní obdobu paradoxu lháře (Grellingův–Nelsonův paradox).",
+    "source": "Grellingův-Nelsonův paradox",
+    "seedElo": 1840
+  },
+  {
+    "id": "log-20",
+    "type": "F",
+    "category": "logika",
+    "text": "Máte 12 vzhledově identických mincí. Přesně jedna je falešná a liší se váhou od ostatních, ale nevíte, jestli je lehčí, nebo těžší. Kolik nejméně vážení na rovnoramenných vahách je potřeba, abyste s jistotou našli falešnou minci (nemusíte určit, zda je lehčí, nebo těžší)?",
+    "options": ["2 vážení.", "4 vážení.", "5 vážení.", "3 vážení."],
+    "correct": 3,
+    "explanation": "Každé vážení má tři možné výsledky (rovnováha, doleva, doprava), takže n vážení rozliší nejvýše 3^n případů. Pro 12 mincí a neznámý směr odchylky je 2·12=24 možných stavů, a 3^2=9 nestačí, zatímco 3^3=27 ano - proto jsou potřeba právě 3 vážení, dosažitelná chytrým rozdělením mincí do trojic po skupinách.",
+    "source": "klasická úloha o 12 mincích",
+    "seedElo": 1870
+  }
+]

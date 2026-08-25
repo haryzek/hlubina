@@ -1,0 +1,322 @@
+[
+ {
+  "id": "tec-01",
+  "type": "F",
+  "category": "technologie",
+  "text": "Co byl ENIAC, dokončený v roce 1945?",
+  "options": [
+   "První mechanický kalkulátor poháněný párou",
+   "První počítač postavený na křemíkových obvodech",
+   "První tranzistorový počítač postavený v Evropě",
+   "První elektronkový počítač pro obecné výpočty"
+  ],
+  "correct": 3,
+  "explanation": "ENIAC byl jeden z prvních elektronických, plně programovatelných počítačů pro obecné použití, postavený na elektronkách na University of Pennsylvania. Tranzistor byl vynalezen až 1947 a integrované obvody přišly o desetiletí později.",
+  "source": "Encyclopaedia Britannica, heslo ENIAC",
+  "seedElo": 1300
+ },
+ {
+  "id": "tec-02",
+  "type": "F",
+  "category": "technologie",
+  "text": "Čím se proslavila Ada Lovelace u Babbageova stroje?",
+  "options": [
+   "Financovala celý vývoj stroje z vlastního majetku",
+   "Sestrojila fyzicky funkční model celého stroje",
+   "Napsala k němu algoritmus, dnes brán za první program",
+   "Vynalezla systém děrných štítků pro řízení všech strojů"
+  ],
+  "correct": 2,
+  "explanation": "Ada Lovelace přeložila a rozšířila text o Babbageově Analytickém stroji o vlastní poznámky, mezi nimiž byl postup pro výpočet Bernoulliho čísel — bývá označován za první algoritmus určený ke zpracování strojem. Stroj samotný nebyl za jejího života postaven a děrné štítky převzal Babbage z Jacquardových tkalcovských stavů.",
+  "source": "Ada Lovelace, poznámky k překladu Menabreova textu, 1843",
+  "seedElo": 1330
+ },
+ {
+  "id": "tec-03",
+  "type": "F",
+  "category": "technologie",
+  "text": "Co formuluje Mooreův zákon o vývoji čipů?",
+  "options": [
+   "Cena hotových počítačů klesá výrazně lineárně s časem",
+   "Rychlost internetu se každý rok zdvojnásobí",
+   "Kapacita disků roste rychleji než procesory",
+   "Počet tranzistorů na čipu se zhruba zdvojnásobí"
+  ],
+  "correct": 3,
+  "explanation": "Gordon Moore v roce 1965 pozoroval, že počet tranzistorů, které lze ekonomicky umístit na čip, se zhruba každé dva roky zdvojnásobuje. Nejde o fyzikální zákon, ale o empirické pozorování trendu, které dlouho fungovalo jako plánovací cíl polovodičového průmyslu a v posledních letech se zpomaluje.",
+  "source": "Gordon Moore, Electronics Magazine, 1965",
+  "seedElo": 1360
+ },
+ {
+  "id": "tec-04",
+  "type": "F",
+  "category": "technologie",
+  "text": "Jaký byl Turingův přínos k dešifrování Enigmy?",
+  "options": [
+   "Postavil počítač, který šifru dešifroval sám",
+   "Navrhl stroj bombe k hledání denních nastavení",
+   "Prolomil šifru čistě matematickým důkazem",
+   "Fyzicky ukradl šifrovací klíč z německé ponorky"
+  ],
+  "correct": 1,
+  "explanation": "Turing v Bletchley Parku vedl vývoj elektromechanického stroje bombe, který výrazně zrychlil systematické hledání denního nastavení Enigmy využitím jejích konstrukčních slabin. Šlo o kombinaci matematické analýzy a strojového prohledávání, nikoli o čistě teoretický důkaz ani o krádež klíčů (ta se odehrála samostatně a přispěla jinak).",
+  "source": "Andrew Hodges: Alan Turing: The Enigma, 1983",
+  "seedElo": 1390
+ },
+ {
+  "id": "tec-05",
+  "type": "F",
+  "category": "technologie",
+  "text": "Jaký byl vztah sítě ARPANET k dnešnímu internetu?",
+  "options": [
+   "Byla to armádou financovaná síť, základ internetu",
+   "Byl to komerční projekt firmy AT&T z 60. let",
+   "Byly to dvě zcela nezávislé sítě bez souvislosti",
+   "Vznikl až po webu jako jeho pozdější nadstavba"
+  ],
+  "correct": 0,
+  "explanation": "ARPANET vznikl koncem 60. let jako projekt agentury ARPA amerického ministerstva obrany a sloužil k výzkumu paketového přepojování mezi univerzitami. Jeho protokoly a zkušenosti se staly základem pro vývoj dnešního internetu, nešlo o komerční projekt telefonní společnosti ani o nadstavbu webu, který vznikl o dvě desetiletí později.",
+  "source": "Katie Hafner, Matthew Lyon: Where Wizards Stay Up Late, 1996",
+  "seedElo": 1420
+ },
+ {
+  "id": "tec-06",
+  "type": "K",
+  "category": "technologie",
+  "text": "V čem je rozdíl mezi internetem a webem?",
+  "options": [
+   "Jde o dva synonymní pojmy pro stejnou síť",
+   "Web je fyzická síť kabelů, internet software nad ní",
+   "Internet je síť počítačů, web jen služba nad ní",
+   "Internet vznikl jako nadstavba webu pro e-maily"
+  ],
+  "correct": 2,
+  "explanation": "Internet je globální infrastruktura propojených sítí využívající protokol TCP/IP. Web, který v roce 1989 navrhl Tim Berners-Lee, je jedna z mnoha služeb běžících nad internetem, založená na HTTP a hypertextových odkazech — vedle webu existují nad stejnou sítí i e-mail, přenos souborů nebo streamování.",
+  "source": "CERN: A Short History of the Web",
+  "seedElo": 1450
+ },
+ {
+  "id": "tec-07",
+  "type": "F",
+  "category": "technologie",
+  "text": "Co znamená, že TCP/IP je základem fungování internetu?",
+  "options": [
+   "Definuje balení dat do paketů a jejich směrování",
+   "Je to formát komprese souborů při stahování",
+   "Je to programovací jazyk pro tvorbu prohlížečů",
+   "Je to bezpečnostní certifikát ověřující weby"
+  ],
+  "correct": 0,
+  "explanation": "TCP/IP je sada protokolů, která standardizuje, jak se data rozdělí na pakety, jak se adresují a směrují napříč různými fyzickými sítěmi tak, aby dorazily ke správnému příjemci a byly správně poskládány zpět. Umožnil tak propojení heterogenních sítí do jedné funkční celosvětové sítě, na rozdíl od bezpečnostních certifikátů, programovacích jazyků či kompresních formátů.",
+  "source": "Vint Cerf, Robert Kahn: A Protocol for Packet Network Intercommunication, 1974",
+  "seedElo": 1480
+ },
+ {
+  "id": "tec-08",
+  "type": "F",
+  "category": "technologie",
+  "text": "Proč funguje HTTPS bez předem sdíleného hesla?",
+  "options": [
+   "Data se posílají nešifrovaná, jen rozdělená",
+   "Server pošle heslo předem obyčejným e-mailem",
+   "Prohlížeč důvěřuje serveru dle IP adresy",
+   "Používá se asymetrická kryptografie s párem klíčů"
+  ],
+  "correct": 3,
+  "explanation": "Asymetrická kryptografie pracuje s párem klíčů — veřejným a soukromým. Zprávu zašifrovanou veřejným klíčem lze rozšifrovat jen odpovídajícím soukromým klíčem, takže dvě strany si mohou bezpečně domluvit společný šifrovací klíč, aniž by kdy sdílely tajemství po nezabezpečeném kanálu. To je matematický základ, na kterém HTTPS staví, nikoli důvěra v IP adresu nebo rozdělení dat.",
+  "source": "Whitfield Diffie, Martin Hellman: New Directions in Cryptography, 1976",
+  "seedElo": 1510
+ },
+ {
+  "id": "tec-09",
+  "type": "F",
+  "category": "technologie",
+  "text": "Jaký je rozdíl mezi šifrováním a kompresí dat?",
+  "options": [
+   "Šifrování soubor zmenší, komprese ho naopak vždy zvětší",
+   "Jde jen o dva různé názvy pro úplně tentýž proces",
+   "Komprese data zabezpečuje, šifrování je jen zmenšuje",
+   "Šifrování dělá data nečitelná, komprese je jen zmenšuje"
+  ],
+  "correct": 3,
+  "explanation": "Šifrování transformuje data pomocí klíče tak, aby byla bez znalosti klíče prakticky nečitelná — cílem je utajení, nikoli velikost. Komprese naopak hledá a odstraňuje statistickou nadbytečnost v datech, aby zabírala méně místa, ale sama o sobě data nijak neutajuje. Obě operace lze kombinovat, ale řeší odlišné problémy.",
+  "source": "Bruce Schneier: Applied Cryptography, 1996",
+  "seedElo": 1540
+ },
+ {
+  "id": "tec-10",
+  "type": "K",
+  "category": "technologie",
+  "text": "Proč GPS potřebuje korekce z Einsteinovy relativity?",
+  "options": [
+   "Relativita ovlivňuje jen rychlost rádiových vln",
+   "Satelity používají relativitu k výpočtu hmotnosti",
+   "Korekce se týkají jen vlivu Měsíce na dráhu",
+   "Relativita mění chod hodin na satelitech oproti Zemi"
+  ],
+  "correct": 3,
+  "explanation": "Satelity GPS letí rychle (speciální relativita zpomaluje jejich hodiny) a zároveň jsou ve slabším gravitačním poli než na Zemi (obecná relativita jejich hodiny naopak zrychluje). Čistý efekt hodiny na satelitech zrychluje o desítky mikrosekund denně, a bez korekce by se chyba v poloze rychle nabalovala na kilometry.",
+  "source": "Neil Ashby: Relativity in the Global Positioning System, Living Reviews in Relativity, 2003",
+  "seedElo": 1570
+ },
+ {
+  "id": "tec-11",
+  "type": "F",
+  "category": "technologie",
+  "text": "Co umožnilo znovupoužitelnost prvního stupně Falconu 9?",
+  "options": [
+   "Stupeň tvoří nafukovací moduly, které se poté složí",
+   "Stupeň se řízeně vrací a přistává na motorech",
+   "Stupeň se po startu katapultuje rovnou zpět na rampu",
+   "Celý stupeň přistává na padáku přímo do oceánu"
+  ],
+  "correct": 1,
+  "explanation": "Falcon 9 po oddělení druhého stupně provede řízený návrat prvního stupně, který pomocí opětovného zážehu motorů a mřížových kormidel zpomalí a vertikálně přistane na plošině nebo na souši. To umožňuje stupeň znovu použít, na rozdíl od dřívějších raket, kde první stupně dopadaly do moře a byly ztraceny.",
+  "source": "SpaceX, technická dokumentace Falcon 9; NASA přehledy programu Commercial Crew",
+  "seedElo": 1600
+ },
+ {
+  "id": "tec-12",
+  "type": "F",
+  "category": "technologie",
+  "text": "Jak zjednodušeně funguje CRISPR-Cas9 při úpravě genomu?",
+  "options": [
+   "Vloží do buňky virus, který zcela nahradí genom",
+   "Funguje jako barva, co geny zviditelní pod mikroskopem",
+   "Ozařuje buňku zářením, které náhodně poškozuje geny",
+   "Naváděcí RNA dovede Cas9 na místo, kde DNA přestřihne"
+  ],
+  "correct": 3,
+  "explanation": "Systém CRISPR-Cas9 využívá krátkou naváděcí RNA, která nasměruje enzym Cas9 na konkrétní sekvenci DNA, tu přestřihne a buněčné opravné mechanismy pak zlom opraví — buď s chybami, což gen vyřadí, nebo podle dodané šablony, což umožní vložit novou sekvenci. Nejde o virovou náhradu genomu ani o zobrazovací techniku.",
+  "source": "Jennifer Doudna, Emmanuelle Charpentier: A Programmable Dual-RNA-Guided DNA Endonuclease, Science, 2012",
+  "seedElo": 1630
+ },
+ {
+  "id": "tec-13",
+  "type": "F",
+  "category": "technologie",
+  "text": "Čím se mRNA vakcíny liší od klasických vakcín s virem?",
+  "options": [
+   "Přímo ničí virus antibiotiky obsaženými ve vakcíně",
+   "Dodají instrukci, podle níž si buňky vyrobí protein",
+   "Jde o trvalou úpravu lidské DNA přímo v jádru",
+   "Obsahují celý živý virus, jen ve zmrazené formě"
+  ],
+  "correct": 1,
+  "explanation": "mRNA vakcína dodá buňkám do cytoplazmy (nikoli do jádra a nezasahuje buněčnou DNA) genetickou instrukci pro výrobu neškodné části virového proteinu. Imunitní systém se naučí tento protein rozpoznávat a zareagovat rychleji při setkání se skutečným virem. Neobsahuje živý ani oslabený virus a nemá nic společného s antibiotiky, která na viry vůbec nepůsobí.",
+  "source": "Pardi et al.: mRNA vaccines — a new era in vaccinology, Nature Reviews Drug Discovery, 2018",
+  "seedElo": 1660
+ },
+ {
+  "id": "tec-14",
+  "type": "K",
+  "category": "technologie",
+  "text": "Co je grafen a proč o něj je takový zájem?",
+  "options": [
+   "Syntetický polymer nahrazující plasty z ropy",
+   "Nový druh skla odolného vůči teplotám",
+   "Vrstva uhlíku silná jeden atom, pevná a vodivá",
+   "Slitina titanu a hliníku pro letecký průmysl"
+  ],
+  "correct": 2,
+  "explanation": "Grafen je dvourozměrná forma uhlíku, atomy jsou uspořádány do voštinové (hexagonální) mřížky silné jediný atom. Díky tomu má neobvykle vysokou pevnost v tahu i vynikající elektrickou a tepelnou vodivost, což z něj dělá kandidáta pro elektroniku, kompozity i senzory. Není to polymer, kovová slitina ani druh skla.",
+  "source": "Andre Geim, Konstantin Novoselov: Electric Field Effect in Atomically Thin Carbon Films, Science, 2004",
+  "seedElo": 1690
+ },
+ {
+  "id": "tec-15",
+  "type": "F",
+  "category": "technologie",
+  "text": "Jaký je hlavní princip lithium-iontové baterie?",
+  "options": [
+   "Ionty lithia se vratně přesouvají mezi elektrodami",
+   "Vyrábí proud reakcí lithia se vzdušným kyslíkem",
+   "Baterie spaluje lithium jako palivo na teplo",
+   "Funguje na radioaktivním rozpadu izotopu lithia"
+  ],
+  "correct": 0,
+  "explanation": "V lithium-iontové baterii putují ionty lithia při nabíjení od kladné k záporné elektrodě a při vybíjení opačným směrem, přičemž elektrony tečou vnějším obvodem a vykonávají práci. Tento vratný proces bez spalování umožňuje relativně vysokou hustotu energie vzhledem k hmotnosti, což byl klíčový důvod jejího komerčního rozšíření od 90. let.",
+  "source": "John Goodenough, Nobelova nadace: The Lithium-ion Battery, popis objevu 2019",
+  "seedElo": 1720
+ },
+ {
+  "id": "tec-16",
+  "type": "F",
+  "category": "technologie",
+  "text": "Co je pravda o citátu Billa Gatese o 640 kB?",
+  "options": [
+   "Prokazatelně pochází od Steva Jobse, nikoli Gatese",
+   "Je to věta z oficiální dokumentace IBM PC",
+   "Autorství se mu jen připisuje, sám ho popřel",
+   "Je doložen dobovým rozhovorem, který Gates potvrdil"
+  ],
+  "correct": 2,
+  "explanation": "Věta „640 kB by mělo stačit každému“ patří mezi nejslavnější technologické citáty, ale je to zřejmě apokryf — Gates jeho autorství opakovaně popřel a žádný dobový záznam, kde by to řekl, nebyl nalezen. Ukazuje to, jak snadno se v dějinách technologií šíří efektní, ale nedoložené výroky, které se pak masově opakují jako fakt.",
+  "source": "Quote Investigator, heslo k výroku o 640 kB; opakovaná Gatesova vyjádření v rozhovorech",
+  "seedElo": 1750
+ },
+ {
+  "id": "tec-17",
+  "type": "K",
+  "category": "technologie",
+  "text": "Čím se GNU GPL liší od zveřejnění kódu zdarma?",
+  "options": [
+   "Umožňuje autorovi kdykoli zpětně zpoplatnit vydaný software",
+   "Zaručuje svobody a nutí odvozená díla zůstat pod licencí",
+   "Je to jen marketingové označení bez právní vymahatelnosti",
+   "Zcela zakazuje jakékoli komerční využití daného softwaru"
+  ],
+  "correct": 1,
+  "explanation": "GNU GPL nejen zpřístupňuje zdrojový kód, ale právně vynucuje takzvaný copyleft: kdokoliv software upraví a dál šíří, musí odvozené dílo vydat pod stejnou svobodnou licencí. Tím se liší od pouhého sdílení kódu zdarma, které by dovolovalo software v budoucnu uzavřít. GPL komerční využití nezakazuje, jen chrání svobody uživatelů i v odvozených verzích.",
+  "source": "Free Software Foundation: GNU General Public License, text licence a doprovodné vysvětlení",
+  "seedElo": 1780
+ },
+ {
+  "id": "tec-18",
+  "type": "F",
+  "category": "technologie",
+  "text": "Čím se liší kvantová distribuce klíčů od klasického přenosu?",
+  "options": [
+   "Přenáší data rychleji než světlo díky provázání částic",
+   "Data vůbec necestují kanálem, ale okamžitě se teleportují",
+   "Odposlech kvantového stavu fotonu ho naruší a odhalí",
+   "Je to jen jiný název pro klasické šifrování AES"
+  ],
+  "correct": 2,
+  "explanation": "Kvantová distribuce klíčů využívá fyzikální fakt, že měření kvantového stavu (např. polarizace fotonu) ho nevratně mění. Pokud se útočník pokusí přenášené kvantové bity odposlechnout, komunikující strany to díky zvýšené chybovosti mohou odhalit. Nejde o rychlejší než světlo přenos informace ani o klasické šifrování přejmenované na kvantové.",
+  "source": "Charles Bennett, Gilles Brassard: Quantum Cryptography, protokol BB84, 1984",
+  "seedElo": 1810
+ },
+ {
+  "id": "tec-19",
+  "type": "F",
+  "category": "technologie",
+  "text": "Proč je rozklad čísel na prvočinitele klíčový pro RSA?",
+  "options": [
+   "Protože jsou prvočísla vždy tajná a nepublikovaná",
+   "Protože RSA počítá jen a pouze se sudými čísly",
+   "Násobit prvočísla je snadné, rozklad součinu je obtížný",
+   "Protože faktoring je stejně rychlý jako násobení"
+  ],
+  "correct": 2,
+  "explanation": "RSA staví na tzv. jednosměrné funkci: vynásobit dvě velká prvočísla je pro počítač otázka okamžiku, ale najít tato dvě prvočísla zpětně jen ze znalosti jejich součinu je při dostatečně velkých číslech pro klasické algoritmy prakticky nezvládnutelné v rozumném čase. Právě na této asymetrii obtížnosti stojí bezpečnost šifrování i digitálních podpisů RSA.",
+  "source": "Rivest, Shamir, Adleman: A Method for Obtaining Digital Signatures and Public-Key Cryptosystems, 1978",
+  "seedElo": 1840
+ },
+ {
+  "id": "tec-20",
+  "type": "K",
+  "category": "technologie",
+  "text": "Proč Shorův algoritmus ohrožuje RSA na kvantovém počítači?",
+  "options": [
+   "Rozkládá čísla na prvočinitele v podstatně kratším čase",
+   "Funguje jen na symetrických šifrách typu AES",
+   "Jen zrychluje hrubé zkoušení hesel metodou pokus-omyl",
+   "Umožňuje odposlouchávat optická vlákna bez detekce"
+  ],
+  "correct": 0,
+  "explanation": "Shorův algoritmus je kvantový algoritmus, který dokáže rozložit velká čísla na prvočinitele v čase rostoucím jen polynomiálně s velikostí čísla, na rozdíl od exponenciální náročnosti nejlepších známých klasických metod. Na dostatečně výkonném kvantovém počítači by tak dokázal efektivně prolomit právě tu matematickou obtížnost, na které staví bezpečnost RSA — proto se dnes vyvíjí tzv. postkvantová kryptografie.",
+  "source": "Peter Shor: Algorithms for Quantum Computation: Discrete Logarithms and Factoring, 1994",
+  "seedElo": 1870
+ }
+]

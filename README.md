@@ -176,7 +176,18 @@ Claude přímý přístup nemá, Bob kopíruje do repa ručně).
 - Elo-cílení: z Bobova exportu číst per-doména úspěšnost a extrémní Ela
   otázek → další vlna dosycuje slabiny a mění nudné (podstřelené) kusy.
 
-## Plán oborů a balíčků (k 2026-08-24, zatím nepostaveno)
+## Plán oborů a balíčků (aktualizováno 2026-08-25)
+
+**Hotovo 2026-08-25:** obor psychoterapie přejmenován na **Psychoanalýza**
+(Bobova svátost; migrace Elo v loadState, schéma v3). Název „Psychoterapie
+(směry)" rezervován pro budoucí obor s ACT, bioenergetikou, Pesso Boyden…
+(pozn.: ISTDP je psychodynamická — až přijde, Bob rozhodne, zda patří do
+svátosti). Nasazeny **sondáže všech 14 nových balíčků** (20 otázek/balíček,
+žebřík 1300–1870, layman úroveň) ve 4 nových oborech — viz níže. Po
+odehrání sondáží Bobem se z exportu čtou stropy per balíček a jede hlavní
+generace ~100/balíček. Pozn. z výroby: Sonnet ignoruje anti-tell pravidla
+v promptu (~69 % správná nejdelší) → délkový korektor je povinná stanice;
+pozice correct vyvažuje mechanicky assemble skript permutací options.
 
 Pravidlo: **každý nový balíček dostane sondážní žebřík (~11 otázek,
 1300–2150) → Bob odehraje → z exportu se čte strop → hlavní generace

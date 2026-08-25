@@ -1,0 +1,322 @@
+[
+ {
+  "id": "fmy-01",
+  "type": "F",
+  "category": "filosofie-mysli",
+  "text": "Fyzikalismus v otázce mysli a těla tvrdí, že:",
+  "options": [
+   "vše duševní je nakonec fyzické, nebo je fyzičnem plně určeno",
+   "vědomí je jen iluze, kterou náš mozek dokonale předstírá",
+   "mysl a tělo jsou dvě oddělené substance, co spolu nekomunikují",
+   "mysl je nehmotná substance, která na těle vůbec nezávisí"
+  ],
+  "correct": 0,
+  "explanation": "Fyzikalismus je pozice, že v realitě nakonec neexistuje nic mimo fyzické – duševní stavy jsou buď totožné s mozkovými procesy, nebo jimi plně určené. Je to hlavní soupeř dualismu, který naopak předpokládá nehmotnou mysl.",
+  "source": "Úvod do filosofie mysli",
+  "seedElo": 1300
+ },
+ {
+  "id": "fmy-02",
+  "type": "F",
+  "category": "filosofie-mysli",
+  "text": "Co jsou v filosofii mysli tzv. qualia?",
+  "options": [
+   "měřitelné fyzikální vlastnosti neuronů a jejich výbojů",
+   "subjektivní kvalita prožitku, jaké to je danou věc zakoušet",
+   "obecný název pro schopnost mozku zpracovávat informace",
+   "logické chyby, které lidé dělají při úvahách o mysli"
+  ],
+  "correct": 1,
+  "explanation": "Qualia jsou subjektivní, prožívané kvality zkušenosti – jak chutná káva, jak vypadá červená, jak bolí spálenina. Právě jejich existence a povaha je jádrem sporu mezi fyzikalisty a jejich kritiky.",
+  "source": "Frank Jackson, Thomas Nagel",
+  "seedElo": 1330
+ },
+ {
+  "id": "fmy-03",
+  "type": "F",
+  "category": "filosofie-mysli",
+  "text": "David Chalmers rozlišuje „lehké“ a „těžké“ problémy vědomí. V čem přesně spočívá ten těžký?",
+  "options": [
+   "ve vysvětlení, proč zpracování informací doprovází prožitek",
+   "v tom, že lidé popisují své prožitky odlišnými slovy",
+   "v tom, že vysvětlit funkce jako pozornost je technicky obtížné",
+   "v tom, že dosud neznáme přesnou anatomii mozkové kůry"
+  ],
+  "correct": 0,
+  "explanation": "Lehké problémy se týkají vysvětlení funkcí – jak mozek rozpoznává tváře nebo řídí pozornost – a jsou v principu řešitelné standardní vědou. Těžký problém je otázka, proč tyto funkce vůbec doprovází subjektivní prožitek, místo aby probíhaly bez jakéhokoli „vnitřního světla“.",
+  "source": "David Chalmers, Facing Up to the Problem of Consciousness (1995)",
+  "seedElo": 1360
+ },
+ {
+  "id": "fmy-04",
+  "type": "F",
+  "category": "filosofie-mysli",
+  "text": "Myšlenkový experiment s filosofickým zombiem (bytostí fyzicky identickou s člověkem, ale bez vědomí) má primárně ukázat, že:",
+  "options": [
+   "lze simulovat lidské chování bez fyzické struktury mozku",
+   "fyzický popis člověka nevynucuje existenci vědomí",
+   "chování samo o sobě je nespolehlivým důkazem inteligence",
+   "umělá inteligence nikdy nebude fungovat jako lidský mozek"
+  ],
+  "correct": 1,
+  "explanation": "Pokud je logicky myslitelná bytost s naprosto stejnou fyzickou stavbou a chováním jako člověk, ale bez jakéhokoli vnitřního prožívání, pak z čistě fyzického popisu vědomí nutně nevyplývá. To má podle Chalmerse podkopávat tvrdý fyzikalismus.",
+  "source": "David Chalmers, The Conscious Mind (1996)",
+  "seedElo": 1390
+ },
+ {
+  "id": "fmy-05",
+  "type": "F",
+  "category": "filosofie-mysli",
+  "text": "V myšlenkovém experimentu Franka Jacksona zná vědkyně Mary od narození jen černobílý pokoj, ale ovládá kompletní fyzikální vědu o barvách. Co se má stát, když poprvé uvidí červenou barvu?",
+  "options": [
+   "přestane věřit ve fyzikalismus a přijme rovnou dualismus",
+   "zjistí, že fyzikální popis barev byl celou dobu chybný",
+   "zdá se, že se dozví něco nového, jaké to je vidět",
+   "nic nového se nedozví, protože vše podstatné znala"
+  ],
+  "correct": 2,
+  "explanation": "Argument tvrdí, že Mary má i přes úplnou fyzikální znalost před prvním spatřením barvy stále co objevit – samotný prožitek. To má ukazovat, že úplný fyzikální popis světa nezahrnuje všechna fakta, tedy že subjektivní zkušenost přesahuje fyziku.",
+  "source": "Frank Jackson, Epiphenomenal Qualia (1982)",
+  "seedElo": 1420
+ },
+ {
+  "id": "fmy-06",
+  "type": "F",
+  "category": "filosofie-mysli",
+  "text": "V Searlově myšlenkovém experimentu „čínský pokoj“ člověk v místnosti manipuluje čínskými znaky podle pravidel, aniž by čínsky rozuměl, a přesto zvenčí vypadá, že rozumí. Co má tento experiment dokládat?",
+  "options": [
+   "že formální manipulace symboly sama nezakládá porozumění",
+   "že porozumění jazyku vyžaduje znalost gramatiky, ne slov",
+   "že lidé se naučí cizí jazyk i bez pravidel gramatiky",
+   "že žádný počítačový program nezpracuje přirozený jazyk"
+  ],
+  "correct": 0,
+  "explanation": "Searle chtěl ukázat, že syntaxe (formální manipulace symboly) sama o sobě nestačí k sémantice (porozumění významu). I systém, který navenek úspěšně „konverzuje“, tak podle něj nemusí ničemu rozumět – což mířilo proti tehdejší silné umělé inteligenci.",
+  "source": "John Searle, Minds, Brains, and Programs (1980)",
+  "seedElo": 1450
+ },
+ {
+  "id": "fmy-07",
+  "type": "K",
+  "category": "filosofie-mysli",
+  "text": "Čím se funkcionalismus liší od teorie identity (identity theory) mysli a mozku?",
+  "options": [
+   "funkcionalismus definuje stav příčinnou rolí, identity ho ztotožní s mozkem",
+   "funkcionalismus popírá existenci duševních stavů, teorie identity je potvrzuje",
+   "funkcionalismus tvrdí, že mysl je nehmotná, teorie identity tvrdí pravý opak",
+   "funkcionalismus je forma dualismu, teorie identity je forma fyzikalismu"
+  ],
+  "correct": 0,
+  "explanation": "Teorie identity ztotožňuje např. bolest s konkrétním typem neuronální aktivace v mozku. Funkcionalismus jde dál a tvrdí, že bolest je definována tím, co dělá – jakou hraje kauzální roli mezi vstupy, výstupy a jinými stavy –, takže ji v principu může realizovat i jiný materiál než mozek.",
+  "source": "Hilary Putnam, Multiple Realizability",
+  "seedElo": 1480
+ },
+ {
+  "id": "fmy-08",
+  "type": "F",
+  "category": "filosofie-mysli",
+  "text": "Thomas Nagel se ve slavné eseji ptá, jaké to je být netopýrem. Jaký je hlavní bod jeho argumentu?",
+  "options": [
+   "echolokace je smysl, který lidé technicky nikdy nezreplikují",
+   "zvířata podle vědy nemají žádné vědomí srovnatelné s lidským",
+   "subjektivní prožitek je vázán na perspektivu, věda ho míjí",
+   "netopýři jsou tak odlišní, že o nich věda nezjistí vůbec nic"
+  ],
+  "correct": 2,
+  "explanation": "Nagel netvrdí, že o netopýrech nemůžeme nic vědět, ale že si nedokážeme představit, jaké to je zakoušet svět jejich echolokací z jejich vlastní perspektivy. Tím ukazuje mezeru mezi objektivním, třetiosobovým popisem a subjektivním, prvoosobovým prožitkem.",
+  "source": "Thomas Nagel, What Is It Like to Be a Bat? (1974)",
+  "seedElo": 1510
+ },
+ {
+  "id": "fmy-09",
+  "type": "F",
+  "category": "filosofie-mysli",
+  "text": "Co v filosofii mysli znamená pojem intencionalita?",
+  "options": [
+   "vědomé úmysly a plány, které si člověk předsevzal splnit",
+   "vlastnost mentálních stavů být zaměřena na předmět",
+   "morální odpovědnost člověka za vlastní myšlenky",
+   "schopnost jednat záměrně namísto čistě reflexivně"
+  ],
+  "correct": 1,
+  "explanation": "Intencionalita je vlastnost mysli být zaměřená na něco – myslíme na Prahu, bojíme se pavouka, věříme, že prší. Filosofové ji považují za jeden z charakteristických rysů duševních stavů, který je těžké vysvětlit čistě fyzikálně.",
+  "source": "Franz Brentano, Psychologie z empirického hlediska",
+  "seedElo": 1540
+ },
+ {
+  "id": "fmy-10",
+  "type": "K",
+  "category": "filosofie-mysli",
+  "text": "Čím se eliminativní materialismus manželů Churchlandových liší od běžného redukcionismu (např. teorie identity)?",
+  "options": [
+   "eliminativismus tvrdí, že naše laická psychologie je zcela správná a přesná",
+   "redukcionismus ztotožní „víru“ s mozkem, eliminativismus ji z vědy vypouští",
+   "eliminativismus je vlastně jen jiné jméno pro dualismus vlastností mysli",
+   "redukcionismus popírá existenci mozku, eliminativismus ji naopak potvrzuje"
+  ],
+  "correct": 1,
+  "explanation": "Redukcionista věří, že se pojmy lidové psychologie – víry, touhy, záměry – nakonec ukážou být totožné s mozkovými stavy. Eliminativista jde radikálněji: tvrdí, že tato lidová psychologie je jako fyzika před Newtonem, tedy natolik chybná teorie, že by měla být nahrazena, ne přeložena do neurovědy.",
+  "source": "Paul a Patricia Churchlandovi",
+  "seedElo": 1570
+ },
+ {
+  "id": "fmy-11",
+  "type": "F",
+  "category": "filosofie-mysli",
+  "text": "Jak lze laicky shrnout panpsychismus jako řešení problému vědomí?",
+  "options": [
+   "vědomí vzniká výhradně u bytostí, které disponují jazykem a řečí",
+   "vědomí podle této pozice vůbec neexistuje, je to jen jazyková iluze",
+   "vědomí je pouze chemická reakce probíhající uvnitř savčího mozku",
+   "prožívání je základní vlastnost hmoty, vědomí je jen jejím tvarem"
+  ],
+  "correct": 3,
+  "explanation": "Panpsychismus se snaží obejít těžký problém tím, že prožívání nepovažuje za něco, co náhle „vyskočí“ z nevědomé hmoty, ale za základní vlastnost přítomnou už na nejnižší úrovni reality – v komplexnějších uspořádáních (jako je mozek) se pak tato vlastnost skládá do bohatšího vědomí.",
+  "source": "Galen Strawson, Philip Goff",
+  "seedElo": 1600
+ },
+ {
+  "id": "fmy-12",
+  "type": "K",
+  "category": "filosofie-mysli",
+  "text": "V čem se zásadně liší pozice Daniela Dennetta a Davida Chalmerse k vědomí?",
+  "options": [
+   "Dennett věří, že qualia jsou nehmotná substance, Chalmers je odmítá",
+   "Dennett je přesvědčený dualista, zatímco Chalmers je čistý fyzikalista",
+   "Dennett odmítá hard problém, Chalmers trvá, že zbývá prožitek",
+   "oba nakonec zastávají v podstatě totožnou pozici, liší se jen slovy"
+  ],
+  "correct": 2,
+  "explanation": "Dennett zastává funkcionalistický přístup, podle kterého jsou zdánlivě záhadná qualia jen komplexním souhrnem funkcí a dispozic – jakmile vysvětlíme všechny „lehké“ problémy, nic dalšího k vysvětlení nezbývá. Chalmers naopak trvá na tom, že subjektivní prožitek je fakt navíc, který funkční vysvětlení nezachycuje.",
+  "source": "Daniel Dennett, Consciousness Explained; David Chalmers, The Conscious Mind",
+  "seedElo": 1630
+ },
+ {
+  "id": "fmy-13",
+  "type": "F",
+  "category": "filosofie-mysli",
+  "text": "Podle Johna Locka spočívá osobní identita v čase především na:",
+  "options": [
+   "kontinuitě jedné a téže nehmotné duše v čase",
+   "totožnosti fyzického těla a mozku od narození",
+   "sociálním uznání ostatních, že jde o tutéž osobu",
+   "psychologické kontinuitě, na řetězci vzpomínek"
+  ],
+  "correct": 3,
+  "explanation": "Locke odmítl duši i tělo jako kritérium a navrhl, že to, co dělá člověka „týmž já“ v čase, je psychologická souvislost – především paměť, díky které si dnešní já pamatuje zážitky včerejšího já. Toto kritérium dodnes rámuje debaty o osobní identitě.",
+  "source": "John Locke, Esej o lidském rozumu (1690)",
+  "seedElo": 1660
+ },
+ {
+  "id": "fmy-14",
+  "type": "F",
+  "category": "filosofie-mysli",
+  "text": "Myšlenkový experiment s teleportací (tělo je na Zemi rozloženo a přesná kopie sestavena na Marsu) se ve filosofii mysli používá především k tomu, aby:",
+  "options": [
+   "ukázal, že vědomí sídlí výhradně v míše, ne v mozku",
+   "dokázal, že teleportace je technicky zcela nemožná",
+   "prokázal, že duše při přenosu cestuje spolu s tělem",
+   "otestoval, co znamená, že jde stále o tutéž osobu"
+  ],
+  "correct": 3,
+  "explanation": "Pokud kopie na Marsu má identické vzpomínky i osobnost, je to táž osoba, nebo jen dokonalá replika? Experiment tlačí na naše intuice o tom, zda je identita otázkou fyzické kontinuity, psychologické kontinuity, nebo něčeho jiného, a ukazuje, jak křehké tyto intuice jsou.",
+  "source": "Derek Parfit, Reasons and Persons (1984)",
+  "seedElo": 1690
+ },
+ {
+  "id": "fmy-15",
+  "type": "K",
+  "category": "filosofie-mysli",
+  "text": "Jaký je hlavní rozdíl mezi libertarianismem (v otázce svobodné vůle) a kompatibilismem?",
+  "options": [
+   "libertarianismus žádá neplatnost determinismu, kompatibilismus to nepovažuje za nutné",
+   "libertarianismus a kompatibilismus jsou vlastně dva odlišné názvy pro jednu pozici",
+   "kompatibilismus je čistě politický pojem, s filosofií mysli vůbec nesouvisí",
+   "libertarianismus svobodnou vůli zcela popírá, kompatibilismus ji naopak plně potvrzuje"
+  ],
+  "correct": 0,
+  "explanation": "Libertarián (v metafyzickém smyslu) věří, že svobodné jednání vyžaduje, aby budoucnost nebyla plně určena minulostí a přírodními zákony. Kompatibilista naopak tvrdí, že i ve světě, kde je vše kauzálně určeno, může mít smysl mluvit o svobodě – pokud jednáme podle vlastních přání bez vnějšího donucení.",
+  "source": "Úvod do svobodné vůle",
+  "seedElo": 1720
+ },
+ {
+  "id": "fmy-16",
+  "type": "F",
+  "category": "filosofie-mysli",
+  "text": "Jak kompatibilista laicky vysvětlí, že máme svobodnou vůli, i když svět je (třeba) plně kauzálně determinovaný?",
+  "options": [
+   "svoboda vyžaduje, aby v mozku vznikala čistá kvantová náhoda",
+   "svobodná vůle je iluze, kterou kompatibilismus rovněž popírá",
+   "svoboda je jednání podle vlastních přání a bez vnějšího donucení",
+   "svoboda znamená, že jednání není způsobené ani vlastními přáními"
+  ],
+  "correct": 2,
+  "explanation": "Kompatibilista přesouvá otázku svobody z „byla budoucnost otevřená?“ na „jednal jsem podle svých vlastních důvodů, bez nátlaku a manipulace?“. I v deterministickém světě tak může dávat smysl rozlišovat mezi svobodným jednáním a jednáním pod nátlakem.",
+  "source": "Harry Frankfurt, Daniel Dennett, Elbow Room",
+  "seedElo": 1750
+ },
+ {
+  "id": "fmy-17",
+  "type": "K",
+  "category": "filosofie-mysli",
+  "text": "Kritici argumentu s filosofickým zombiem často namítají, že i kdyby byl zombie logicky (pojmově) myslitelný, neznamená to ještě, že je:",
+  "options": [
+   "vůbec formulovatelný jako smysluplný myšlenkový experiment",
+   "přírodně možný, slučitelný s reálnými přírodními zákony",
+   "relevantní pro současnou debatu o umělé inteligenci",
+   "zajímavým podnětem pro kognitivní vědu a psychologii mysli"
+  ],
+  "correct": 1,
+  "explanation": "To, že si něco umíme bez rozporu představit (logická možnost), ještě neznamená, že to může skutečně nastat ve světě s našimi přírodními zákony (přírodní možnost). Kritici tvrdí, že Chalmersův argument z pouhé logické myslitelnosti zombieho na fyzikální nemožnost vědomí bez mozku nedokazuje nic o skutečném světě.",
+  "source": "Diskuse k Chalmersovu argumentu ze zombieho",
+  "seedElo": 1780
+ },
+ {
+  "id": "fmy-18",
+  "type": "F",
+  "category": "filosofie-mysli",
+  "text": "Jednou z fyzikalistických odpovědí na argument s Mary v černobílém pokoji je tzv. „hypotéza schopnosti“ (ability hypothesis). Co tvrdí?",
+  "options": [
+   "fyzika o barvách, kterou Mary znala, byla už od počátku neúplná a chybná",
+   "prožitek barvy je z definice úplně totéž co znalost vlnové délky",
+   "Mary ve skutečnosti nikdy nezačne vidět, protože v pokoji dávno oslepla",
+   "Mary nezíská nový fakt, jen novou schopnost barvu poznat a představit si ji"
+  ],
+  "correct": 3,
+  "explanation": "Hypotéza schopnosti se snaží zachránit fyzikalismus tím, že rozlišuje znalost faktů („co je červená“) od praktických schopností („umět červenou poznat, představit si ji“). Podle ní Mary nezíská nový fakt o světě, jen novou dovednost – takže žádné fyzikální fakty jí nechyběly.",
+  "source": "David Lewis, Laurence Nemirow",
+  "seedElo": 1810
+ },
+ {
+  "id": "fmy-19",
+  "type": "K",
+  "category": "filosofie-mysli",
+  "text": "Argument z obráceného spektra (inverted qualia) je namířen především proti které pozici?",
+  "options": [
+   "proti panpsychismu jako celkovému řešení hard problému",
+   "proti eliminativnímu materialismu manželů Churchlandových",
+   "proti funkcionalismu, protože role jde s odlišnými qualii",
+   "proti substančnímu dualismu duše a těla podle Descarta"
+  ],
+  "correct": 2,
+  "explanation": "Argument si představuje dva lidi, kteří mají identické chování i kauzální role duševních stavů (co je pro jednoho „červené“, oba nazvou stejně a reagují stejně), ale jeden vidí spektrum obráceně vůči druhému. Pokud je to myslitelné, funkční role sama nevystihuje, jaké to je daný prožitek mít – což je problém pro funkcionalismus.",
+  "source": "Ned Block, kritika funkcionalismu",
+  "seedElo": 1840
+ },
+ {
+  "id": "fmy-20",
+  "type": "F",
+  "category": "filosofie-mysli",
+  "text": "Na Searlův čínský pokoj reaguje tzv. „systémová odpověď“ (systems reply) tvrzením, že:",
+  "options": [
+   "čínský pokoj dokazuje, že počítač nikdy nebude rozumět jazyku",
+   "porozumění je vlastností celého systému, nejen člověka uvnitř",
+   "člověk v místnosti čínsky rozumí, jen si to neuvědomuje",
+   "experiment je nesmyslný, protože pokoj nejde fyzicky sestavit"
+  ],
+  "correct": 1,
+  "explanation": "Systémová odpověď nesouhlasí s tím, že stačí zkoumat, zda rozumí člověk uvnitř – tvrdí, že relevantní jednotkou je celý systém (osoba, pravidla, papíry, mechanismus zpracování), a ten jako celek by mohl vykazovat porozumění, i když žádná jeho jednotlivá součást ho nemá. Searle na to odpovídal, že by si i celá pravidla mohl člověk zapamatovat a stále by nerozuměl.",
+  "source": "Reakce na John Searle, Minds, Brains, and Programs",
+  "seedElo": 1870
+ }
+]

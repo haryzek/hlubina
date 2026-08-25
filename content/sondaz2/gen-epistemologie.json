@@ -1,0 +1,322 @@
+[
+  {
+    "id": "epi-01",
+    "type": "F",
+    "category": "epistemologie",
+    "text": "Klasická definice poznání říká, že poznání je pravdivé a zdůvodněné přesvědčení. Co přesně tato definice vyžaduje?",
+    "options": [
+      "Pravdivé přesvědčení, které je navíc zdůvodněné",
+      "Silné přesvědčení, kterému věříme bez pochyb",
+      "Cokoliv, co většina lidí považuje za fakt",
+      "Přesvědčení podložené jedním spolehlivým svědkem"
+    ],
+    "correct": 0,
+    "explanation": "Tradiční definice poznání (JTB – justified true belief) žádá tři podmínky zároveň: přesvědčení musí být pravdivé, musíme mu věřit a musíme pro něj mít dobré důvody. Chybí-li kterákoli podmínka, o poznání v přísném smyslu nejde.",
+    "source": "Platón, Theaitétos",
+    "seedElo": 1300
+  },
+  {
+    "id": "epi-02",
+    "type": "F",
+    "category": "epistemologie",
+    "text": "Proč Gettierovy protipříklady z roku 1963 zpochybnily definici poznání jako pravdivé zdůvodněné přesvědčení?",
+    "options": [
+      "Ukázaly, že žádné zdůvodnění nemůže být nikdy zcela úplné",
+      "Ukázaly případy pravdivé zdůvodněné víry, jež vznikla jen náhodou",
+      "Dokázaly, že objektivní pravda ve skutečnosti vůbec neexistuje",
+      "Prokázaly, že zdůvodnění je vždy důležitější než pravdivost"
+    ],
+    "correct": 1,
+    "explanation": "Gettier sestrojil situace, kdy má člověk pravdivé a zdánlivě dobře zdůvodněné přesvědčení, ale k pravdě dospěl jen shodou náhod, ne díky spolehlivému úsudku. Intuitivně to jako poznání nepůsobí, přestože splňuje formální podmínky JTB.",
+    "source": "Edmund Gettier, Is Justified True Belief Knowledge? (1963)",
+    "seedElo": 1330
+  },
+  {
+    "id": "epi-03",
+    "type": "F",
+    "category": "epistemologie",
+    "text": "Co ukazuje myšlenkový experiment „mozek v kádi“ (napojený na simulaci, která mu předstírá běžný svět)?",
+    "options": [
+      "Že veškeré vědění pochází výhradně jen ze smyslů",
+      "Že mozek bez celého těla nedokáže vůbec myslet",
+      "Že klamný svět nelze vyloučit, běžně to ale neřešíme",
+      "Že věda tuto možnost už dávno jednou provždy vyvrátila"
+    ],
+    "correct": 2,
+    "explanation": "Experiment ukazuje mez radikálního skepticismu: nedovedeme logicky vyloučit, že jsme klamáni ve všem. V praktickém životě to ale nijak neřeší, protože žádný důkaz by takovou možnost stejně neodlišil od reality.",
+    "source": "Hilary Putnam, Reason, Truth and History (1981); inspirace Descartovým zlým démonem",
+    "seedElo": 1360
+  },
+  {
+    "id": "epi-04",
+    "type": "F",
+    "category": "epistemologie",
+    "text": "Co je induktivní usuzování v nejběžnějším smyslu?",
+    "options": [
+      "Odvození jednotlivého závěru z jedné obecné premisy",
+      "Vyvrácení celé teorie jediným jasným protipříkladem",
+      "Přijetí závěru jen na základě autority mluvčího",
+      "Odvození obecného závěru z opakovaných pozorování"
+    ],
+    "correct": 3,
+    "explanation": "Indukce postupuje od konkrétních pozorovaných případů k obecnému tvrzení – například z toho, že slunce vyšlo tisíckrát, usuzujeme, že vyjde i zítra. Na rozdíl od deduktivního úsudku takový závěr nikdy není logicky nutný.",
+    "source": "obecná logika a metodologie vědy",
+    "seedElo": 1390
+  },
+  {
+    "id": "epi-05",
+    "type": "F",
+    "category": "epistemologie",
+    "text": "V čem přesně spočívá Humův „problém indukce“?",
+    "options": [
+      "V tom, že minulé opakování jevu nezaručuje jeho budoucí opakování",
+      "V tom, že indukce funguje jen v matematice, ne v přírodních vědách",
+      "V tom, že Hume odmítal jakékoli pozorování jako zdroj vědění",
+      "V tom, že indukce vyžaduje přesnou znalost latinské terminologie"
+    ],
+    "correct": 0,
+    "explanation": "Hume upozornil, že víru v pravidelnost přírody nelze zdůvodnit ani logicky (není to nutná pravda), ani zkušeností (to by byl kruh v důkazu). Praktickou spolehlivost indukce tedy bereme spíš jako zvyk než jako logicky podloženou jistotu.",
+    "source": "David Hume, Zkoumání o lidském rozumu (1748)",
+    "seedElo": 1420
+  },
+  {
+    "id": "epi-06",
+    "type": "F",
+    "category": "epistemologie",
+    "text": "Co podle Karla Poppera odlišuje vědeckou teorii od nevědecké?",
+    "options": [
+      "Vědecká teorie musí být potvrzena velkým počtem pozorování",
+      "Vědecká teorie musí být v principu ověřitelně vyvratitelná",
+      "Vědecká teorie musí pocházet od uznávané akademické instituce",
+      "Vědecká teorie nesmí být nikdy zpochybněna žádnými novými daty"
+    ],
+    "correct": 1,
+    "explanation": "Popper obrátil důraz z potvrzování na vyvracení: teorie je vědecká, pokud formuluje riskantní předpovědi, které by ji mohly v principu usvědčit ze lži. Teorie, kterou nelze žádným myslitelným pozorováním vyvrátit, podle něj vědecká není.",
+    "source": "Karl Popper, Logika vědeckého zkoumání (1934)",
+    "seedElo": 1450
+  },
+  {
+    "id": "epi-07",
+    "type": "F",
+    "category": "epistemologie",
+    "text": "Jaké je časté omezení Popperovy falzifikace, na které poukázali pozdější filozofové vědy?",
+    "options": [
+      "Nedokáže vůbec rozlišit matematiku od přírodních věd",
+      "Zakazuje vědcům formulovat jakékoli nové hypotézy",
+      "Při neúspěchu není jasné, zda selhala teorie, či předpoklad",
+      "Vyžaduje okamžité zavržení teorie po prvním záporném výsledku"
+    ],
+    "correct": 2,
+    "explanation": "Tzv. Duhem-Quinův problém říká, že jedna teorie nikdy netestujeme izolovaně, ale spolu s množstvím vedlejších předpokladů o přístrojích a podmínkách. Selže-li předpověď, můžeme vinu svést i na ně, a proto samotná falzifikace nikdy neprobíhá tak čistě, jak Popper navrhoval.",
+    "source": "Pierre Duhem; Willard Van Orman Quine, Two Dogmas of Empiricism (1951)",
+    "seedElo": 1480
+  },
+  {
+    "id": "epi-08",
+    "type": "F",
+    "category": "epistemologie",
+    "text": "Co je hlavním problémem tzv. demarkace mezi vědou a pseudovědou?",
+    "options": [
+      "Věda je prý vždy definována množstvím peněz vložených do výzkumu",
+      "Pseudověda prý nikdy nepoužívá žádnou odbornou terminologii",
+      "Vědecké teorie se prý nikdy vůbec nesmí měnit ani upravovat",
+      "Ostrou hranici je těžké stanovit, pomáhá jen testovatelnost"
+    ],
+    "correct": 3,
+    "explanation": "Snahy najít jedno jediné kritérium (jako přesná falzifikovatelnost) narazily na výjimky na obou stranách. V praxi proto rozlišujeme vědu od pseudovědy podle souboru znaků: otevřenosti kritice, shody s ostatním poznáním a ochoty měnit názor pod tíhou dat.",
+    "source": "Larry Laudan, The Demise of the Demarcation Problem (1983)",
+    "seedElo": 1510
+  },
+  {
+    "id": "epi-09",
+    "type": "F",
+    "category": "epistemologie",
+    "text": "Co Thomas Kuhn míní pojmem „paradigma“ ve vědě?",
+    "options": [
+      "Jednotlivý matematický vzorec užívaný jen ve fyzice",
+      "Sdílený rámec pojmů a metod, v němž komunita vědců pracuje",
+      "Oficiální dokument popisující etiku vědeckého výzkumu",
+      "Soubor experimentů, které jednou provždy potvrdily teorii"
+    ],
+    "correct": 1,
+    "explanation": "Podle Kuhna neprobíhá vývoj vědy jen plynulým hromaděním faktů. Většinu času vědci řeší „hádanky“ v rámci sdíleného paradigmatu, dokud se nenahromadí anomálie, které vedou k vědecké revoluci a přijetí paradigmatu nového.",
+    "source": "Thomas Kuhn, Struktura vědeckých revolucí (1962)",
+    "seedElo": 1540
+  },
+  {
+    "id": "epi-10",
+    "type": "F",
+    "category": "epistemologie",
+    "text": "Co tvrdí korespondenční teorie pravdy?",
+    "options": [
+      "Že výrok je pravdivý, když zapadá do systému přesvědčení",
+      "Že pravda je věcí konsenzu celé odborné komunity",
+      "Že pravda je jen to, co je právě prakticky užitečné",
+      "Že výrok je pravdivý, pokud odpovídá stavu věcí ve světě"
+    ],
+    "correct": 3,
+    "explanation": "Korespondenční teorie je intuitivně nejpřirozenější pojetí pravdy: výrok „venku prší“ je pravdivý přesně tehdy, když venku skutečně prší. Pravda je tu chápána jako vztah shody mezi jazykem či myšlením a realitou.",
+    "source": "Aristotelés, Metafyzika; Alfred Tarski, formální teorie pravdy",
+    "seedElo": 1570
+  },
+  {
+    "id": "epi-11",
+    "type": "F",
+    "category": "epistemologie",
+    "text": "Čím se koherenční teorie pravdy liší od korespondenční?",
+    "options": [
+      "Podle souladu výroku s ostatními přesvědčeními v systému",
+      "Tvrdí, že objektivní pravda vůbec neexistuje nikde",
+      "Vyžaduje experimentální ověření úplně každého výroku",
+      "Ztotožňuje pravdu s tím, co tvrdí většina všech lidí"
+    ],
+    "correct": 0,
+    "explanation": "Podle koherentismu je výrok pravdivý, pokud logicky a bez rozporů zapadá do celku ostatních přesvědčení, která uznáváme. Kritici namítají, že celý vzájemně souladný systém přesvědčení může být přesto v rozporu se skutečností.",
+    "source": "F. H. Bradley; Otto Neurath, koherenční teorie pravdy",
+    "seedElo": 1600
+  },
+  {
+    "id": "epi-12",
+    "type": "F",
+    "category": "epistemologie",
+    "text": "Co Occamova břitva doopravdy říká, přesněji než lidová verze „nejjednodušší vysvětlení je vždy správné“?",
+    "options": [
+      "Že jednodušší teorie je vždy automaticky ta pravdivá",
+      "Že vysvětlení s méně slovy je lepší bez ohledu na obsah",
+      "Že mezi teoriemi stejné síly volíme tu s méně předpoklady",
+      "Že složité jevy nikdy nemají žádné jednoduché příčiny"
+    ],
+    "correct": 2,
+    "explanation": "Occamova břitva není zákon přírody ani záruka pravdy, ale metodologické pravidlo: pokud dvě teorie vysvětlují data stejně dobře, je rozumnější dát přednost té, která nepředpokládá zbytečné entity či mechanismy navíc.",
+    "source": "Vilém Occam, princip parsimonie (14. stol.)",
+    "seedElo": 1630
+  },
+  {
+    "id": "epi-13",
+    "type": "F",
+    "category": "epistemologie",
+    "text": "Jak bayesovské myšlení popisuje racionální reakci na nový důkaz?",
+    "options": [
+      "Nový důkaz by měl vždy zcela nahradit veškerá předchozí přesvědčení",
+      "Míru přesvědčení měníme podle síly důkazu i výchozí pravděpodobnosti",
+      "Nové důkazy je třeba ignorovat, pokud odporují zavedené teorii",
+      "Přesvědčení se má měnit jen tehdy, když to nařídí uznávaná autorita"
+    ],
+    "correct": 1,
+    "explanation": "Bayesovský přístup chápe poznání jako postupnou aktualizaci pravděpodobností: silný a nečekaný důkaz posune naše přesvědčení výrazně, slabý nebo očekávaný jen málo. Klíčové je také zohlednit, jak nepravděpodobná byla hypotéza už na začátku.",
+    "source": "Thomas Bayes; moderní bayesovská epistemologie",
+    "seedElo": 1660
+  },
+  {
+    "id": "epi-14",
+    "type": "F",
+    "category": "epistemologie",
+    "text": "Co je konfirmační zkreslení (confirmation bias) a proč je z epistemologického hlediska nebezpečné?",
+    "options": [
+      "Tendence věřit pouze časopisům s vysokým impakt faktorem",
+      "Sklon zapomínat úplně všechny informace bez ohledu na obsah",
+      "Preference starších, dávno zavedených teorií před novějšími",
+      "Sklon vyhledávat informace, jež potvrzují to, čemu už věříme"
+    ],
+    "correct": 3,
+    "explanation": "Konfirmační zkreslení podkopává schopnost sebekritického poznání, protože nás nenápadně vede k tomu, abychom hledali potvrzení místo testování vlastních názorů. Efektivní obranou je aktivně vyhledávat důkazy, které by nás mohly vyvrátit.",
+    "source": "Peter Wason, experimenty s konfirmačním zkreslením (1960)",
+    "seedElo": 1690
+  },
+  {
+    "id": "epi-15",
+    "type": "F",
+    "category": "epistemologie",
+    "text": "Podle čeho je rozumné posuzovat, zda věřit tvrzení experta?",
+    "options": [
+      "Podle shody nezávislých odborníků a jejich úzké specializace",
+      "Podle toho, jak sebejistě a přesvědčivě daný expert mluví",
+      "Podle počtu sledujících na jeho sociálních sítích",
+      "Podle toho, zda se tvrzení shoduje s naším dosavadním názorem"
+    ],
+    "correct": 0,
+    "explanation": "Rozumná důvěra ke svědectví expertů se opírá o ověřitelné znaky: konsenzus nezávislých odborníků, relevanci jejich kvalifikace k danému tématu a transparentnost zdrojů, nikoli o řečnickou přesvědčivost nebo shodu s naším přáním.",
+    "source": "Alvin Goldman, Experts: Which Ones Should You Trust? (2001)",
+    "seedElo": 1720
+  },
+  {
+    "id": "epi-16",
+    "type": "F",
+    "category": "epistemologie",
+    "text": "V čem je vnitřní problém silného epistemického relativismu, tedy tvrzení, že „všechny názory na pravdu jsou stejně platné“?",
+    "options": [
+      "Nedá se prý vůbec formulovat žádným lidským přirozeným jazykem",
+      "Odporuje logice jen v matematice, jinde funguje bez problémů",
+      "Sama teze si nárokuje obecnou platnost, čímž si protiřečí",
+      "Byl už jednou provždy vyvrácen jediným laboratorním experimentem"
+    ],
+    "correct": 2,
+    "explanation": "Pokud je pravda vždy jen relativní k pohledu, pak i sám výrok relativismu je nanejvýš relativně pravdivý, a nemůže tedy platit obecně jako námitka proti objektivní pravdě. Tento sebeodkazující problém patří k nejstarším argumentům proti radikálnímu relativismu.",
+    "source": "argument sebevyvrácení relativismu, sahající k Platónovi",
+    "seedElo": 1750
+  },
+  {
+    "id": "epi-17",
+    "type": "F",
+    "category": "epistemologie",
+    "text": "Co znamená takzvaná „krize reprodukovatelnosti“ ve vědě?",
+    "options": [
+      "Že vědci již přestali své výsledky vůbec publikovat",
+      "Že experimenty jsou příliš drahé na to, aby se vůbec opakovaly",
+      "Že nová zjištění musí být přijata bez jakéhokoli ověřování",
+      "Že se velká část výsledků při opakování nepotvrdila"
+    ],
+    "correct": 3,
+    "explanation": "Zejména v části psychologie a biomedicíny se ukázalo, že mnoho původně publikovaných efektů zmizí nebo výrazně zeslábne, pokud stejný experiment zopakuje jiný tým. To posílilo důraz na předregistraci studií a otevřená data jako nástroje spolehlivější vědy.",
+    "source": "Open Science Collaboration, Estimating the Reproducibility of Psychological Science (2015)",
+    "seedElo": 1780
+  },
+  {
+    "id": "epi-18",
+    "type": "F",
+    "category": "epistemologie",
+    "text": "Co Kuhn míní „nesouměřitelností“ (incommensurability) paradigmat během vědecké revoluce?",
+    "options": [
+      "Že staré a nové paradigma lze vždy přesně přeložit jedno do druhého",
+      "Že zastánci odlišných paradigmat chápou tytéž pojmy jinak",
+      "Že vědecké revoluce probíhají výhradně formálním hlasováním komise",
+      "Že nové paradigma je vždy prokazatelně horší, než bylo to staré"
+    ],
+    "correct": 1,
+    "explanation": "Nesouměřitelnost neznamená, že mezi paradigmaty nelze vůbec rozhodnout, ale že sdílená měřítka srovnání jsou omezená – klíčové pojmy (třeba „hmotnost“ před a po Einsteinovi) mohou nést odlišný význam, takže přechod mezi paradigmaty připomíná spíše změnu perspektivy než prostý logický krok.",
+    "source": "Thomas Kuhn, Struktura vědeckých revolucí (1962)",
+    "seedElo": 1810
+  },
+  {
+    "id": "epi-19",
+    "type": "F",
+    "category": "epistemologie",
+    "text": "Proč lidé při hodnocení pravděpodobnosti výsledku testu na vzácnou nemoc často chybují, i když znají udávanou přesnost testu?",
+    "options": [
+      "Protože testy na nemoci jsou vždy zcela nespolehlivé",
+      "Protože se přesnost testu v čase nepředvídatelně mění",
+      "Protože podceňují výchozí míru výskytu jevu v populaci",
+      "Protože lékaři úmyslně a záměrně uvádějí zavádějící čísla"
+    ],
+    "correct": 2,
+    "explanation": "I test se stodesetiprocentní přesností dá u vzácné nemoci hodně falešně pozitivních výsledků, pokud je nemoc v populaci vzácná – protože zdravých lidí testovaných je mnohem víc než nemocných. Zanedbání této výchozí míry je klasická chyba, kterou bayesovský výpočet odhaluje.",
+    "source": "Daniel Kahneman a Amos Tversky, výzkum base rate fallacy",
+    "seedElo": 1840
+  },
+  {
+    "id": "epi-20",
+    "type": "F",
+    "category": "epistemologie",
+    "text": "Co tvrdí teze o poddeterminovanosti teorie důkazy (underdetermination of theory by evidence)?",
+    "options": [
+      "Že týž soubor dat odpovídá více neslučitelným teoriím",
+      "Že vědecké teorie nikdy nelze nijak testovat ani ověřovat",
+      "Že veškerá naměřená data jsou vždy nutně chybná",
+      "Že daná data může vysvětlit vždy jen jedna jediná teorie"
+    ],
+    "correct": 0,
+    "explanation": "I při naprosto stejných pozorováních mohou v zásadě existovat konkurenční, empiricky rovnocenné teorie, mezi nimiž rozhoduje nakonec i výběr dalších kritérií, jako je jednoduchost nebo soulad s ostatním poznáním, nejen samotná fakta.",
+    "source": "Willard Van Orman Quine; Pierre Duhem, teze o poddeterminovanosti",
+    "seedElo": 1870
+  }
+]

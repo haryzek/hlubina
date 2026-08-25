@@ -1,0 +1,322 @@
+[
+  {
+    "id": "eti-01",
+    "type": "F",
+    "category": "etika",
+    "text": "Podle utilitarismu Jeremyho Benthama je morálně správné to jednání, které...",
+    "options": [
+      "odpovídá vůli Boží zjevené v posvátných textech",
+      "je v souladu s tradičními zvyky dané společnosti",
+      "přináší největší součet štěstí pro největší počet lidí",
+      "vyplývá z racionální povinnosti nezávislé na důsledcích"
+    ],
+    "correct": 2,
+    "explanation": "Bentham založil utilitarismus na principu užitku: měřítkem správnosti činu je součet potěšení a strastí, které způsobí. Čin je tím lepší, čím víc štěstí přinese a čím méně utrpení způsobí, bez ohledu na tradici či autoritu.",
+    "source": "Jeremy Bentham, Úvod do principů morálky a zákonodárství (1789)",
+    "seedElo": 1300
+  },
+  {
+    "id": "eti-02",
+    "type": "F",
+    "category": "etika",
+    "text": "John Stuart Mill oproti Benthamovi tvrdil, že...",
+    "options": [
+      "některá potěšení, hlavně intelektuální, mají vyšší kvalitu, ne jen množství",
+      "veškerá potěšení jsou kvalitativně rovnocenná a liší se jen intenzitou",
+      "štěstí se vůbec nedá poměřovat, a proto je celý utilitarismus neplatný",
+      "je vždy lepší žít jako spokojené zvíře než jako nespokojený člověk"
+    ],
+    "correct": 0,
+    "explanation": "Mill rozlišil vyšší (intelektuální, umělecké) a nižší (tělesné) slasti a tvrdil, že vyšší mají větší hodnotu i při menší intenzitě. Odtud jeho slavný výrok, že je lepší být nespokojeným člověkem než spokojeným hlupákem.",
+    "source": "John Stuart Mill, Utilitarismus (1863)",
+    "seedElo": 1330
+  },
+  {
+    "id": "eti-03",
+    "type": "K",
+    "category": "etika",
+    "text": "Lhaní by v jednotlivém případě přineslo víc štěstí než pravda. Stoupenec pravidlového (rule) utilitarismu jednání typicky posuzuje jinak než stoupenec činového (act) utilitarismu, protože...",
+    "options": [
+      "považuje lhaní za hřích samo o sobě, bez ohledu na důsledky",
+      "hodnotí jen okamžitý užitek tohoto konkrétního činu, ne obecné pravidlo",
+      "věří, že lidé mají od přírody dané právo slyšet vždy pravdu",
+      "ptá se, zda by dodržování pravidla „nelži“ přineslo víc užitku"
+    ],
+    "correct": 3,
+    "explanation": "Rule-utilitarista se neptá, co v tomto jednom případě maximalizuje štěstí, ale zda by dodržování daného pravidla jako obecné normy vedlo dlouhodobě k lepším výsledkům než jeho porušování. Proto může odmítnout lhaní, i když by v daném okamžiku prospělo.",
+    "source": "R. M. Hare, princip pravidlového utilitarismu",
+    "seedElo": 1360
+  },
+  {
+    "id": "eti-04",
+    "type": "F",
+    "category": "etika",
+    "text": "Pro Immanuela Kanta je mravní hodnota jednání dána především...",
+    "options": [
+      "příjemnými důsledky, které jednání přináší tomu, kdo jedná",
+      "dobrou vůlí a tím, že jednáme z povinnosti, ne kvůli výsledku",
+      "souhlasem většiny společnosti s daným konkrétním činem",
+      "mírou celkového štěstí, kterou jednání vyvolá u ostatních lidí"
+    ],
+    "correct": 1,
+    "explanation": "Kant tvrdí, že jediná bezvýhradně dobrá věc na světě je dobrá vůle. Čin má mravní hodnotu, jen když je konán z úcty k povinnosti, ne kvůli sklonu nebo očekávanému prospěchu — na rozdíl od utilitarismu tu nerozhodují důsledky.",
+    "source": "Immanuel Kant, Základy metafyziky mravů (1785)",
+    "seedElo": 1390
+  },
+  {
+    "id": "eti-05",
+    "type": "K",
+    "category": "etika",
+    "text": "Chcete si vypůjčit peníze se slibem je vrátit, ačkoli víte, že slib nedodržíte. Podle Kantova kategorického imperativu je takové jednání nepřípustné především proto, že...",
+    "options": [
+      "vám to přinese krátkodobý prospěch na úkor věřitele",
+      "porušuje konkrétní zákon daného státu o půjčkách",
+      "maxima „slibuj křivě“ nejde univerzalizovat jako zákon",
+      "věřitel by s tímto jednáním po zjištění pravdy nesouhlasil"
+    ],
+    "correct": 2,
+    "explanation": "Kategorický imperativ žádá, aby maxima jednání byla univerzalizovatelná. Kdyby křivé sliby dávali všichni, institut slibu by se sám zhroutil — nikdo by slibům nevěřil. Maxima tedy vede k logickému rozporu, a proto je zakázaná.",
+    "source": "Immanuel Kant, Základy metafyziky mravů (1785)",
+    "seedElo": 1420
+  },
+  {
+    "id": "eti-06",
+    "type": "F",
+    "category": "etika",
+    "text": "Aristotelés chápe ctnost, například odvahu, jako...",
+    "options": [
+      "střední cestu mezi krajními vadami, mezi zbabělostí a smělostí",
+      "přísné dodržování univerzálních mravních zákonů bez výjimky",
+      "kalkulaci, jež má maximalizovat celkové štěstí ve společnosti",
+      "poslušnost vůči autoritě, jež je vždy moudřejší než jednotlivec"
+    ],
+    "correct": 0,
+    "explanation": "Aristotelova nauka o „zlaté střední cestě“ říká, že ctnost leží mezi krajnostmi nedostatku a přebytku. Odvaha je tak středem mezi zbabělostí (nedostatkem) a lehkomyslnou smělostí (přebytkem), a najít tuto míru vyžaduje praktickou moudrost.",
+    "source": "Aristotelés, Etika Níkomachova",
+    "seedElo": 1450
+  },
+  {
+    "id": "eti-07",
+    "type": "K",
+    "category": "etika",
+    "text": "Klasický trolley problém, kdy přehozením výhybky zabijete jednoho člověka místo pěti, slouží filosofům především k tomu, aby...",
+    "options": [
+      "jednou provždy dokázal, že utilitarismus je jedinou obhajitelnou etikou",
+      "ukázal, že lidé jsou v krizových situacích neschopni jakkoli jednat",
+      "otestoval, jak dobře respondenti znají trestněprávní předpisy své země",
+      "prozkoumal rozdíl mezi újmou přímo způsobenou a pouze dopuštěnou"
+    ],
+    "correct": 3,
+    "explanation": "Trolley problém slouží jako nástroj k odhalování a testování mravních intuicí, nikoli k dokazování jedné teorie. Ukazuje mimo jiné, jak silně rozlišujeme mezi tím, když újmu aktivně způsobíme, a tím, když ji jen dopustíme.",
+    "source": "Philippa Foot, The Problem of Abortion and the Doctrine of the Double Effect (1967)",
+    "seedElo": 1480
+  },
+  {
+    "id": "eti-08",
+    "type": "K",
+    "category": "etika",
+    "text": "Ve variantě „tlustý muž“ (shodit cizince z mostu, aby zastavil vozík a zachránil pět lidí) mnoho lidí odmítá jednat, i když je zachráněných stejně jako u klasické výhybky. Tento rozdíl v intuicích ukazuje, že...",
+    "options": [
+      "lidé si v této variantě jen spletou počet obětí a udělají chybu",
+      "naše intuice rozlišuje nepřímou smrt od jejího použití jako prostředku",
+      "utilitarismus je v obou variantách jednoznačně a všemi stejně odmítán",
+      "trolley problémy nemají v etice žádný praktický ani teoretický význam"
+    ],
+    "correct": 1,
+    "explanation": "U výhybky je smrt vedlejším účinkem záchrany, u tlustého muže je jeho smrt přímým prostředkem k zastavení vozíku. Tento rozdíl souvisí s tzv. doktrínou dvojího účinku a vysvětluje, proč lidé hodnotí formálně stejný počet obětí odlišně.",
+    "source": "Judith Jarvis Thomson, The Trolley Problem (1985)",
+    "seedElo": 1510
+  },
+  {
+    "id": "eti-09",
+    "type": "F",
+    "category": "etika",
+    "text": "Morální realista na rozdíl od antirealisty tvrdí, že...",
+    "options": [
+      "morální soudy jsou vždy jen výrazem osobního vkusu mluvčího",
+      "etika je čistě záležitostí kulturní konvence bez jakékoli opory",
+      "existují objektivní morální fakta, pravdivá nezávisle na názoru",
+      "o morálních otázkách nemá smysl vůbec racionálně diskutovat"
+    ],
+    "correct": 2,
+    "explanation": "Morální realismus tvrdí, že morální výroky mohou být objektivně pravdivé nebo nepravdivé, podobně jako výroky o fyzickém světě. Antirealisté naopak tvrdí, že morální soudy vyjadřují postoje, city nebo konvence, ne fakta nezávislá na lidech.",
+    "source": "Přehled metaetiky, David Enoch, Taking Morality Seriously (2011)",
+    "seedElo": 1540
+  },
+  {
+    "id": "eti-10",
+    "type": "F",
+    "category": "etika",
+    "text": "Humova gilotina upozorňuje na logickou chybu, kdy někdo...",
+    "options": [
+      "odvozuje, co by mělo být, jen z popisu toho, jak věci jsou",
+      "popírá, že by fakta o okolním světě vůbec mohla existovat",
+      "zaměňuje příčinu jednání za jeho pozdější následek",
+      "tvrdí, že rozum a city jsou vždy nutně ve vzájemném souladu"
+    ],
+    "correct": 0,
+    "explanation": "David Hume si všiml, že autoři nenápadně přecházejí od popisných vět („je“) k předpisujícím větám („mělo by být“) bez vysvětlení, jak k tomuto přechodu došlo. Tento skok je logicky problematický a bývá nazýván naturalistickým klamem.",
+    "source": "David Hume, Pojednání o lidské přirozenosti (1739)",
+    "seedElo": 1570
+  },
+  {
+    "id": "eti-11",
+    "type": "F",
+    "category": "etika",
+    "text": "Podle Thomase Hobbese lidé v „přirozeném stavu“ bez státu žijí ve „válce všech proti všem“, a proto...",
+    "options": [
+      "odmítají jakoukoli formu vlády jako zbytečnou a nepřirozenou",
+      "spoléhají na vrozenou dobrotu, jež konflikty sama od sebe vyřeší",
+      "vytvářejí přímou demokracii založenou na rovném hlasování všech",
+      "souhlasí odevzdat část svobody suverénovi výměnou za bezpečí"
+    ],
+    "correct": 3,
+    "explanation": "Hobbes popisuje přirozený stav jako nesnesitelně nebezpečný, kde je život „osamělý, chudý, ošklivý, brutální a krátký“. Racionálním řešením je společenská smlouva, jíž se lidé vzdají části svobody ve prospěch silné suverénní moci výměnou za mír a bezpečí.",
+    "source": "Thomas Hobbes, Leviathan (1651)",
+    "seedElo": 1600
+  },
+  {
+    "id": "eti-12",
+    "type": "F",
+    "category": "etika",
+    "text": "Rawlsův myšlenkový experiment se „závojem nevědomosti“ má lidem navrhujícím pravidla společnosti zabránit v tom, aby...",
+    "options": [
+      "vůbec znali samotný pojem spravedlnosti a mohli o něm uvažovat",
+      "zvýhodnili pravidla podle postavení, neznaje svou pozici",
+      "hlasovali o pravidlech tajně místo veřejně a transparentně",
+      "se při tvorbě všech zákonů řídili náboženskými zásadami"
+    ],
+    "correct": 1,
+    "explanation": "Za „závojem nevědomosti“ lidé neznají svou budoucí pozici — nevědí, zda budou bohatí, chudí, zdraví nebo nemocní. Rawls tvrdí, že v takové nejistotě by racionálně zvolili spravedlivá pravidla, protože nemohou zvýhodnit sami sebe.",
+    "source": "John Rawls, Teorie spravedlnosti (1971)",
+    "seedElo": 1630
+  },
+  {
+    "id": "eti-13",
+    "type": "F",
+    "category": "etika",
+    "text": "Etika péče (care ethics), spojovaná mimo jiné s Carol Gilligan, klade oproti abstraktním principům důraz na...",
+    "options": [
+      "přísné univerzální zákony platné beze změny pro všechny lidi",
+      "matematickou kalkulaci celkového užitku uplatněnou ve společnosti",
+      "konkrétní vztahy, závislost a odpovědnost lidí jednoho vůči druhému",
+      "individuální svobodu jednotlivce chápanou nezávisle na druhých"
+    ],
+    "correct": 2,
+    "explanation": "Etika péče vychází z toho, že lidé jsou od narození vzájemně závislí a morálka se rodí ve vztazích péče, důvěry a odpovědnosti, ne z abstraktních principů odtržených od konkrétních osob a jejich situace.",
+    "source": "Carol Gilligan, In a Different Voice (1982)",
+    "seedElo": 1660
+  },
+  {
+    "id": "eti-14",
+    "type": "K",
+    "category": "etika",
+    "text": "Dva stejně opilí řidiči jedou stejně nebezpečně, jeden ale srazí chodce, druhý dojede bez nehody. Pojem „morální štěstí“ (moral luck) poukazuje na to, že...",
+    "options": [
+      "naše mravní hodnocení se mění dle výsledku, ač jednání bylo stejné",
+      "pouze ten, kdo způsobil nehodu, jednal ve skutečnosti opile",
+      "trest by měl být u obou řidičů stejný, zákon náhodu vůbec nezná",
+      "štěstí a smůla jsou v etickém uvažování zcela irelevantní pojmy"
+    ],
+    "correct": 0,
+    "explanation": "Přestože oba řidiči jednali stejně riskantně, obvykle hodnotíme viníka nehody přísněji než toho, komu se nic nestalo — jen kvůli náhodnému výsledku mimo jejich kontrolu. To je jádro problému morálního štěstí.",
+    "source": "Thomas Nagel, Moral Luck (1979)",
+    "seedElo": 1690
+  },
+  {
+    "id": "eti-15",
+    "type": "F",
+    "category": "etika",
+    "text": "Zastánci efektivního altruismu doporučují dárcům, aby...",
+    "options": [
+      "darovali výhradně na projekty a organizace ve své vlastní zemi",
+      "vybírali organizaci hlavně podle toho, která má nejdojemnější kampaň",
+      "rozdělili svůj dar rovnoměrně mezi co nejvíce neziskových organizací",
+      "pomocí dat zjišťovali, která intervence zachrání nejvíc životů na dolar"
+    ],
+    "correct": 3,
+    "explanation": "Efektivní altruismus vychází z myšlenky, že máme-li omezené prostředky, měli bychom je racionálně směřovat tam, kde prokazatelně přinesou nejvíce dobra na jednotku vynaložených peněz, bez ohledu na blízkost nebo emoční apel.",
+    "source": "Peter Singer, The Life You Can Save (2009); William MacAskill, Doing Good Better (2015)",
+    "seedElo": 1720
+  },
+  {
+    "id": "eti-16",
+    "type": "F",
+    "category": "etika",
+    "text": "Kritici efektivního altruismu namítají, že přílišný důraz na měřitelnou efektivitu může...",
+    "options": [
+      "vést k tomu, že lidé kvůli tomu přestanou darovat úplně",
+      "podceňovat hodnotu blízkých vztahů a těžko měřitelných forem dobra",
+      "jednoznačně dokázat, že žádná forma charitativní pomoci nemá smysl",
+      "být zcela totéž jako klasický utilitarismus bez jakéhokoli rozdílu"
+    ],
+    "correct": 1,
+    "explanation": "Kritici upozorňují, že ne všechno dobro je snadno měřitelné čísly — třeba podpora místní komunity, kulturní projekty nebo osobní vztahy péče. Přílišné soustředění na měřitelnou efektivitu tyto hodnoty riskuje přehlížet.",
+    "source": "Diskuse okolo efektivního altruismu, např. Amia Srinivasan, Stop the Robot Apocalypse (2015)",
+    "seedElo": 1750
+  },
+  {
+    "id": "eti-17",
+    "type": "K",
+    "category": "etika",
+    "text": "Terminálně nemocný pacient trpící bolestmi žádá o asistovanou smrt. Z hlediska striktní kantovské deontologie, která zdůrazňuje bezvýjimečnou povinnost nezabíjet nevinného, je takové jednání...",
+    "options": [
+      "přípustné, pokud si to pacient sám racionálně přeje a dá jasný souhlas",
+      "posuzováno výhradně podle toho, kolik utrpení jednáním celkově ubude",
+      "nepřípustné, protože porušuje povinnost nezabíjet bez ohledu na souhlas",
+      "závislé jen na tom, co v dané zemi zrovna stanoví platný zákon"
+    ],
+    "correct": 2,
+    "explanation": "Přísný kantovský přístup staví lidský život a povinnost nezabíjet jako bezvýjimečné pravidlo, které nelze ospravedlnit ani soucitem, ani souhlasem oběti. Utilitarista by naopak zvažoval, zda ukončení utrpení celkově sníží míru bolesti.",
+    "source": "Diskuse o eutanazii v kantovské etice, srov. Immanuel Kant, Metafyzika mravů (1797)",
+    "seedElo": 1780
+  },
+  {
+    "id": "eti-18",
+    "type": "K",
+    "category": "etika",
+    "text": "Přítel se ošklivě ostříhal a ptá se, zda se mu to líbí. Lhaní „je to skvělé“ by mu udělalo radost. Z hlediska Kantovy etiky je takové lhaní problematické, i kdyby bylo z hlediska utilitarismu prospěšné, protože...",
+    "options": [
+      "Kant považuje lhaní za porušení povinnosti mluvit pravdu",
+      "utilitarismus lhaní vždy zcela zakazuje úplně stejně přísně jako Kant",
+      "přítel by pravdu o svém novém účesu stejně brzy sám uhodl",
+      "Kant se ve svých spisech otázkou lhaní vůbec nikdy nezabýval"
+    ],
+    "correct": 0,
+    "explanation": "Kant chápe pravdivost jako bezvýjimečnou povinnost odvozenou z kategorického imperativu, nezávislou na příjemných či nepříjemných důsledcích. Utilitarista naopak lhaní z laskavosti může za určitých okolností schválit, pokud přinese víc štěstí než pravda.",
+    "source": "Immanuel Kant, O domnělém právu lhát z lidumilnosti (1797)",
+    "seedElo": 1810
+  },
+  {
+    "id": "eti-19",
+    "type": "F",
+    "category": "etika",
+    "text": "Psycholog Jonathan Haidt na základě výzkumu tvrdí, že mravní úsudky u lidí obvykle vznikají...",
+    "options": [
+      "výhradně logickou dedukcí z etických principů promyšlených předem",
+      "zcela náhodně a bez jakékoli souvislosti s lidskými emocemi",
+      "pouze na základě náboženské výchovy, jinak vůbec nevznikají",
+      "jako rychlá intuitivní reakce, kterou rozum zdůvodní až později"
+    ],
+    "correct": 3,
+    "explanation": "Haidtův model „sociálního intuicionismu“ tvrdí, že mravní hodnocení přichází rychle a automaticky jako emocionální reakce, zatímco vědomé rozumové zdůvodnění přichází až následně a slouží spíš k obhajobě už učiněného úsudku.",
+    "source": "Jonathan Haidt, The Righteous Mind (2012)",
+    "seedElo": 1840
+  },
+  {
+    "id": "eti-20",
+    "type": "K",
+    "category": "etika",
+    "text": "Firma může buď investovat do bezpečnějších, ale dražších strojů, které zachrání pár životů za vysokou cenu na hlavu, nebo tytéž peníze věnovat na prevenci nemocí v chudých zemích, kde zachrání mnohem víc životů za stejnou cenu. Striktní utilitarista by z hlediska maximalizace celkového užitku doporučil druhou možnost, zatímco zastánce etiky ctností by mohl namítnout, že...",
+    "options": [
+      "obě možnosti jsou eticky zcela rovnocenné a na volbě vůbec nezáleží",
+      "čistě číselná kalkulace přehlíží charakter lidí a jejich odpovědnost",
+      "firma nemá vůbec žádnou morální povinnost cokoli v této věci řešit",
+      "jedině dodržení litery zákona je v této situaci eticky relevantní"
+    ],
+    "correct": 1,
+    "explanation": "Zastánce etiky ctností by se neptal jen na výsledný počet zachráněných životů, ale i na to, jaký charakter a jaké postoje takové rozhodování vyjadřuje — například zda firma neopomíjí bezprostřední odpovědnost vůči lidem, s nimiž je ve vztahu.",
+    "source": "Diskuse o vztahu utilitarismu a etiky ctností v aplikované etice",
+    "seedElo": 1870
+  }
+]

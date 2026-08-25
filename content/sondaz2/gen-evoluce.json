@@ -1,0 +1,322 @@
+[
+ {
+  "id": "evo-01",
+  "type": "F",
+  "category": "evoluce",
+  "text": "Co je jádrem darwinovské teorie přirozeného výběru?",
+  "options": [
+   "Jedinci s výhodnějšími dědičnými vlastnostmi mají v průměru více přeživších potomků",
+   "Organismy si během života osvojují nové vlastnosti a ty pak předávají potomkům",
+   "Příroda postupně vybírá druhy, které jsou nejsložitěji stavěné a nejdokonalejší",
+   "Prostředí náhodně mění geny jedinců tak, aby se lépe hodili k danému podnebí"
+  ],
+  "correct": 0,
+  "explanation": "Přirozený výběr funguje jednoduše: existuje variabilita mezi jedinci, část této variability je dědičná a některé varianty vedou v daném prostředí k vyššímu počtu přeživších a rozmnožených potomků. Tím se jejich frekvence v populaci postupně zvyšuje. Nejde o vůli přírody ani o dokonalost, ale o statistický rozdíl v reprodukčním úspěchu.",
+  "source": "Darwin, Ch.: O původu druhů (1859); Dawkins, R.: Sobecký gen (1976)",
+  "seedElo": 1300
+ },
+ {
+  "id": "evo-02",
+  "type": "F",
+  "category": "evoluce",
+  "text": "Proč je tvrzení 'evoluce směřuje k dokonalosti a stále vylepšuje organismy' zavádějící?",
+  "options": [
+   "Evoluce dokonalosti sice směřuje, ale jen u živočichů, ne u rostlin a mikroorganismů",
+   "Evoluce nemá cíl ani směr — jen zachovává to, co v daném prostředí a čase přežije a rozmnoží se",
+   "Dokonalost je správný pojem, jen se dosahuje mnohem pomaleji, než si lidé obvykle myslí",
+   "Evoluce dokonalost skutečně vytváří, ale výhradně prostřednictvím pohlavního výběru, ne jinými mechanismy"
+  ],
+  "correct": 1,
+  "explanation": "Přirozený výběr nehodnotí 'dokonalost' v obecném slova smyslu, jen relativní úspěšnost v konkrétních, měnících se podmínkách. Vlastnost výhodná dnes může být zítra nevýhodná, pokud se prostředí změní. Proto existují i evoluční 'zpátečnická' řešení a mnoho nedokonalých kompromisů — třeba slepá skvrna v lidském oku.",
+  "source": "Zrzavý, J. a kol.: Fylogeneze (2013); Coyne, J.: Proč je evoluce pravdivá (2009)",
+  "seedElo": 1330
+ },
+ {
+  "id": "evo-03",
+  "type": "F",
+  "category": "evoluce",
+  "text": "Co je genetický drift (genetický posun)?",
+  "options": [
+   "Postupné přesouvání celých genů z jednoho druhu na druhý přes prostředí",
+   "Cílené hromadění mutací, které organismu zajišťují lepší přizpůsobení podmínkám",
+   "Náhodná změna frekvence variant genů v populaci, silnější zejména v malých populacích",
+   "Proces, kterým se geny v průběhu jednoho života jedince fyzicky přemisťují mezi buňkami"
+  ],
+  "correct": 2,
+  "explanation": "Genetický drift je čistě náhodná fluktuace frekvence alel mezi generacemi, nezávislá na tom, zda je varianta výhodná či nevýhodná. Jeho vliv je tím silnější, čím menší je populace — v malé skupině může i neutrální nebo mírně nevýhodná varianta náhodou převládnout nebo úplně vymizet, zatímco ve velké populaci se takové výkyvy většinou vyprůměrují.",
+  "source": "Kimura, M.: The Neutral Theory of Molecular Evolution (1983); Flegr, J.: Evoluční biologie (2005)",
+  "seedElo": 1360
+ },
+ {
+  "id": "evo-04",
+  "type": "F",
+  "category": "evoluce",
+  "text": "Co přesně je mutace v biologickém smyslu?",
+  "options": [
+   "Vlastnost, kterou si jedinec vypěstuje tréninkem a poté ji předá svým dětem",
+   "Jakákoli viditelná odlišnost jedince od průměru jeho druhu či populace",
+   "Cílená oprava chyby v genetickém kódu, kterou provádí buňka během dělení",
+   "Náhodná změna v sekvenci DNA, která vzniká například chybou při kopírování"
+  ],
+  "correct": 3,
+  "explanation": "Mutace je nahodilá změna v pořadí nukleotidů DNA, způsobená například chybou replikace, zářením nebo chemickými látkami. Mutace samy o sobě nejsou 'záměrné' ani cílené k lepšímu přizpůsobení — teprve následný přirozený výběr rozhoduje, zda se daná varianta v populaci rozšíří, nebo vymizí.",
+  "source": "Alberts, B. a kol.: Molecular Biology of the Cell (2014); Flegr, J.: Evoluční biologie (2005)",
+  "seedElo": 1390
+ },
+ {
+  "id": "evo-05",
+  "type": "K",
+  "category": "evoluce",
+  "text": "DNA nese dědičnou informaci. Co přesně se dědí z rodiče na potomka?",
+  "options": [
+   "Sekvence nukleotidů v DNA, která určuje, jaké bílkoviny se v těle budou vyrábět",
+   "Přesná kopie všech tělesných orgánů rodiče zmenšená do velikosti zárodečné buňky",
+   "Pouze vzhledové znaky viditelné pouhým okem, jako barva očí nebo výška postavy",
+   "Soubor návyků a naučených dovedností, které si rodič osvojil během svého života"
+  ],
+  "correct": 0,
+  "explanation": "DNA je molekula nesoucí zápis v podobě sekvence čtyř bází, který buňka 'čte' a podle něj vyrábí bílkoviny řídící stavbu a fungování organismu. Dědí se právě tato sekvence, ne naučené dovednosti ani hotové tělesné struktury — ty se u každého jedince znovu vyvíjejí podle genetického návodu a podmínek prostředí.",
+  "source": "Alberts, B. a kol.: Molecular Biology of the Cell (2014)",
+  "seedElo": 1420
+ },
+ {
+  "id": "evo-06",
+  "type": "F",
+  "category": "evoluce",
+  "text": "Co je to speciace (vznik nového druhu)?",
+  "options": [
+   "Okamžik, kdy se u jednoho jedince objeví natolik nápadná mutace, že tím rovnou založí zcela nový druh",
+   "Proces, kdy se z jedné populace oddělí dvě, jež se přestanou křížit a vyvíjejí se dál odděleně",
+   "Situace, kdy se dva již existující druhy zkříží a vznikne z nich zcela nový, samostatný třetí druh",
+   "Proces, při kterém starý druh vymře a na jeho místo v ekosystému nastoupí druh úplně nesouvisející"
+  ],
+  "correct": 1,
+  "explanation": "Nejčastější cestou ke vzniku nového druhu je geografická izolace: populace se oddělí (například horou, mořem, řekou), po mnoho generací se vyvíjí nezávisle a hromadí odlišnosti, až se jedinci z obou částí přestanou být schopni úspěšně křížit. Nejde o jednorázový skok jednoho jedince, ale o postupný proces v celé populaci.",
+  "source": "Coyne, J., Orr, A.: Speciation (2004); Zrzavý, J. a kol.: Fylogeneze (2013)",
+  "seedElo": 1450
+ },
+ {
+  "id": "evo-07",
+  "type": "F",
+  "category": "evoluce",
+  "text": "Co znamená tvrzení, že lidé a šimpanzi mají 'společného předka'?",
+  "options": [
+   "Dnešní šimpanzi jsou přímými předky dnešních lidí a lidé se z nich v historii vyvinuli",
+   "Lidé se ze šimpanzů biologicky vyvinuli přibližně před sto tisíci lety na africkém kontinentě",
+   "Existoval druh, z něhož se postupně oddělily dvě linie vedoucí jedna k lidem, druhá k šimpanzům",
+   "Lidé a šimpanzi vznikli zcela nezávisle, ale později se náhodou stali si podobní vzhledem"
+  ],
+  "correct": 2,
+  "explanation": "Společný předek není žádný z dnešních druhů, ale vymřelý druh, z jehož populace se před přibližně 6-7 miliony let oddělily dvě evoluční větve — jedna vedoucí k dnešním lidem, druhá k dnešním šimpanzům. Šimpanzi tedy nejsou 'naši předci', jsou to naši nejbližší žijící příbuzní, kteří prošli vlastním, paralelním vývojem.",
+  "source": "Zrzavý, J. a kol.: Fylogeneze (2013); Diamond, J.: Třetí šimpanz (1991)",
+  "seedElo": 1480
+ },
+ {
+  "id": "evo-08",
+  "type": "K",
+  "category": "evoluce",
+  "text": "Jakou roli hrají fosilie jako doklad evoluce?",
+  "options": [
+   "Dokazují hlavně to, že se druhy v minulosti neměnily a zůstávaly po miliony let identické",
+   "Slouží především k určení přesného stáří Země, s evolucí druhů přímo nijak nesouvisí",
+   "Jsou zajímavé esteticky, ale vědecky jsou jako důkaz evoluce dnes už považovány za překonané",
+   "Ukazují postupné změny stavby organismů v čase a existenci přechodných forem mezi skupinami"
+  ],
+  "correct": 3,
+  "explanation": "Fosilní záznam dokládá, jak se v čase měnila stavba těl organismů, a obsahuje přechodné formy spojující dnes odlišné skupiny — například ryboobojživelníky typu Tiktaalik nebo opeřené dinosaury blízké ptákům. Spolu s dalšími nezávislými zdroji (genetika, srovnávací anatomie) tvoří jeden z pilířů důkazů pro evoluci.",
+  "source": "Shubin, N.: Vaše nitřní ryba (2008); Prothero, D.: Evolution: What the Fossils Say (2007)",
+  "seedElo": 1510
+ },
+ {
+  "id": "evo-09",
+  "type": "F",
+  "category": "evoluce",
+  "text": "Delfíni (savci) a žraloci (ryby) mají nápadně podobný tvar těla, ačkoli jsou evolučně velmi vzdálení. Jak se tento jev nazývá?",
+  "options": [
+   "Konvergentní evoluce — nepříbuzné druhy vyvinou podobné řešení pro podobné podmínky prostředí",
+   "Homologie — obě skupiny zdědily stejný tvar těla od jednoho společného vodního předka",
+   "Hybridizace — dochází ke vzácnému mezidruhovému křížení mezi liniemi savců a ryb v mořském prostředí",
+   "Genetický drift — čirá náhoda způsobila, že se u obou skupin prosadily stejné mutace tvaru těla"
+  ],
+  "correct": 0,
+  "explanation": "Konvergentní evoluce nastává, když nepříbuzné organismy pod tlakem podobného prostředí (zde: pohyb ve vodě) nezávisle na sobě vyvinou podobná řešení — proudnicový tvar těla, ploutve. Nejde o společný původ (to by byla homologie), ale o podobný funkční 'tlak' výběru působící na odlišný výchozí materiál.",
+  "source": "Conway Morris, S.: Life's Solution (2003); Zrzavý, J. a kol.: Fylogeneze (2013)",
+  "seedElo": 1540
+ },
+ {
+  "id": "evo-10",
+  "type": "F",
+  "category": "evoluce",
+  "text": "Paví ocas je nápadně velký a nákladný na údržbu, přesto se v evoluci prosadil. Který mechanismus to nejlépe vysvětluje?",
+  "options": [
+   "Přirozený výběr prostředím — velký ocas pomáhá pávovi lépe unikat před predátory",
+   "Pohlavní výběr — samice preferují nápadné samce, takže se geny pro takový znak šíří dál",
+   "Genetický drift — znak se v populaci rozšířil čistě náhodou, bez jakéhokoli vlivu výběru prostředím",
+   "Epigenetika — velikost ocasu se u každého jedince mění podle množství potravy v mládí"
+  ],
+  "correct": 1,
+  "explanation": "Pohlavní výběr je forma výběru, kde o úspěchu znaku nerozhoduje přežití, ale úspěch při získávání partnerů. Pokud samice dlouhodobě preferují nápadné ocasy (třeba jako signál kvality genů), pak se geny pro takový ocas šíří i navzdory tomu, že znak sám o sobě snižuje šance na přežití před predátory.",
+  "source": "Darwin, Ch.: O původu člověka a pohlavní výběr (1871); Zahavi, A.: The Handicap Principle (1997)",
+  "seedElo": 1570
+ },
+ {
+  "id": "evo-11",
+  "type": "K",
+  "category": "evoluce",
+  "text": "Dělnice u sociálního hmyzu (např. včely) se samy nerozmnožují, ale pomáhají odchovat sourozence královny. Jak evoluční biologie vysvětluje takové chování?",
+  "options": [
+   "Skupinový instinkt — hmyz jedná pro dobro celého druhu, protože si to jako druh 'uvědomuje'",
+   "Naučené chování — dělnice se altruismu naučí pozorováním starších dělnic v úlu",
+   "Příbuzenský výběr — pomáhání příbuzným šíří geny sdílené s pomáhajícím jedincem bez rozmnožování",
+   "Náhoda — sterilita dělnic je vedlejší produkt mutace nesouvisející s pomáháním sourozencům"
+  ],
+  "correct": 2,
+  "explanation": "Příbuzenský výběr (kin selection) vysvětluje altruismus tím, že pomáháním blízkým příbuzným jedinec nepřímo šíří geny, které s nimi sdílí. U mnoha sociálních blanokřídlých je navíc genetická příbuznost mezi sestrami nezvykle vysoká, což altruistickou pomoc sourozencům z hlediska šíření genů ještě zvýhodňuje.",
+  "source": "Hamilton, W. D.: The Genetical Evolution of Social Behaviour (1964); Dawkins, R.: Sobecký gen (1976)",
+  "seedElo": 1600
+ },
+ {
+  "id": "evo-12",
+  "type": "F",
+  "category": "evoluce",
+  "text": "Richard Dawkins zavedl metaforu 'sobeckého genu'. Co tato metafora ve skutečnosti tvrdí?",
+  "options": [
+   "Geny jsou prý doslova vědomé a sobecky se rozhodují, kterému jedinci pomohou přežít",
+   "Sobectví je vlastnost, kterou geny předávají organismům, takže lidé jsou nutně sobečtí",
+   "Každý gen v těle neustále soutěží s ostatními geny stejného jedince o to, kdo se dostane do potomka",
+   "Přirozený výběr lze pochopit z pohledu genu, který 'jedná', jako by usiloval o vlastní rozšíření"
+  ],
+  "correct": 3,
+  "explanation": "'Sobecký gen' je záměrně provokativní metafora pro pohled, že jednotkou, jejíž přežívání v čase přirozený výběr sleduje, je gen (respektive jeho kopie), nikoli jedinec či druh. Nejde o tvrzení, že geny mají vůli nebo že diktují sobecké chování lidí — sama metafora naopak dobře vysvětluje, jak z 'sobeckých' genů může vzejít i altruistické chování jedince.",
+  "source": "Dawkins, R.: Sobecký gen (1976)",
+  "seedElo": 1630
+ },
+ {
+  "id": "evo-13",
+  "type": "F",
+  "category": "evoluce",
+  "text": "Proč u lidí evolučně vznikla schopnost trávit laktózu (mléčný cukr) i v dospělosti jen u některých populací, typicky tam, kde se dlouho chovala dobytčata?",
+  "options": [
+   "V populacích chovajících dobytek byla mutace umožňující trávení mléka v dospělosti výhodná, a rozšířila se",
+   "Trávení mléka v dospělosti je zcela univerzální lidská vlastnost, rozdíly mezi populacemi jsou jen kulturní zvyk",
+   "Schopnost trávit mléko v dospělosti se u jedince rozvine, pokud ho pravidelně pije, bez ohledu na geny",
+   "Jde o čistě náhodný genetický drift, který s chovem dobytka a pitím mléka vůbec nijak nesouvisí"
+  ],
+  "correct": 0,
+  "explanation": "Perzistence laktázy v dospělosti je jedním z nejlépe zdokumentovaných příkladů nedávné lidské evoluce: v populacích, kde chov dobytka poskytoval spolehlivý zdroj mléka, byla mutace udržující produkci laktázy i po odstavení výhodná, a proto se v nich za pár tisíc let výrazně rozšířila — na rozdíl od populací bez tradice chovu mléčného skotu.",
+  "source": "Gerbault, P. a kol.: Evolution of lactase persistence (2011); Cochran, G., Harpending, H.: The 10,000 Year Explosion (2009)",
+  "seedElo": 1660
+ },
+ {
+  "id": "evo-14",
+  "type": "K",
+  "category": "evoluce",
+  "text": "Kukačka klade vejce do hnízd jiných ptačích druhů a ti pak její mládě vychovávají. Hostitelský druh naopak vyvíjí schopnost kukaččí vejce rozpoznat a vyhazovat. Jak se tomuto vzájemnému 'závodu ve zbrojení' dvou druhů říká?",
+  "options": [
+   "Symbióza — oba druhy si vzájemně prospívají a bez sebe by nemohly dlouhodobě přežít",
+   "Koevoluce — vlastnosti jednoho druhu vyvíjejí selekční tlak na druhý druh a naopak",
+   "Hybridizace — dochází ke genetickému míšení mezi kukačkou a hostitelským druhem ptáka",
+   "Neutralismus — vztah obou druhů nemá na jejich evoluci žádný měřitelný vliv"
+  ],
+  "correct": 1,
+  "explanation": "Koevoluce popisuje situaci, kdy evoluční změna u jednoho druhu (dokonalejší napodobení vajec) vytváří selekční tlak na druhý druh (lepší rozpoznávání podvrhů) a naopak, takže oba druhy se vyvíjejí ve vzájemné odpovědi. Nejde o prospěšný vztah pro obě strany jako u symbiózy — vztah kukačky a hostitele je naopak antagonistický.",
+  "source": "Davies, N. B.: Cuckoo: Cheating by Nature (2015); Dawkins, R.: Sobecký gen (1976)",
+  "seedElo": 1690
+ },
+ {
+  "id": "evo-15",
+  "type": "F",
+  "category": "evoluce",
+  "text": "Epigenetické značky (např. methylace DNA) mohou ovlivnit aktivitu genů a v některých případech se přenášejí i na potomky. Co z toho lze rozumně vyvodit?",
+  "options": [
+   "Epigenetika prý zcela nahrazuje darwinovský přirozený výběr jako hlavní hybatel evoluce všech druhů",
+   "Epigenetické změny získané během života se vždy trvale a bezezbytku dědí na všechny další generace",
+   "Jde o doplňkový mechanismus regulace genů, jehož dosah je mnohem skromnější, než naznačuje popularizace",
+   "Epigenetika prokazatelně dokazuje, že získané vlastnosti se dědí stejně spolehlivě jako mendelovské geny"
+  ],
+  "correct": 2,
+  "explanation": "Epigenetické mechanismy skutečně existují a mohou ovlivnit, které geny se čtou, aniž by se měnila sekvence DNA; u některých organismů se dokonce prokázal přenos přes několik generací. Nejde ale o náhradu darwinovské evoluce ani o spolehlivé zděděné 'učení se' — většina epigenetických značek se mezi generacemi vlivem přeprogramování zárodečných buněk vymaže, a přehnané závěry o dědění získaných vlastností popularizace často zkreslují.",
+  "source": "Heard, E., Martienssen, R. A.: Transgenerational Epigenetic Inheritance (2014); Flegr, J.: Evoluční biologie (2005)",
+  "seedElo": 1720
+ },
+ {
+  "id": "evo-16",
+  "type": "F",
+  "category": "evoluce",
+  "text": "Srpkovitá anémie je závažné dědičné onemocnění krve, ale přenašeči jedné kopie mutovaného genu jsou v oblastech s malárií evolučně zvýhodněni. Jak se tento typ jevu v evoluční biologii nazývá?",
+  "options": [
+   "Genetický drift — frekvence mutace v populaci kolísá zcela náhodně bez souvislosti s malárií",
+   "Zpětná mutace — vlivem malárie se mutovaný gen postupně vrací zpět ke své zdravé podobě",
+   "Epigenetická adaptace — vystavení malárii přímo přeprogramuje DNA, aby chránila proti nákaze",
+   "Vyvážený polymorfismus — heterozygot má vyšší zdatnost než oba homozygoti, obě alely se proto udrží"
+  ],
+  "correct": 3,
+  "explanation": "Jde o učebnicový příklad vyváženého polymorfismu: kdo zdědí jednu kopii mutace, má částečnou ochranu proti malárii bez vážných příznaků nemoci, kdo zdědí dvě kopie, trpí srpkovitou anémií, a kdo nemá žádnou, je zranitelnější vůči malárii. Protože heterozygotní kombinace je v malarických oblastech nejvýhodnější, obě alely se v populaci udržují v rovnováze místo toho, aby jedna zcela vytlačila druhou.",
+  "source": "Allison, A. C.: Protection Afforded by Sickle-cell Trait (1954); Ridley, M.: Evolution (2004)",
+  "seedElo": 1750
+ },
+ {
+  "id": "evo-17",
+  "type": "K",
+  "category": "evoluce",
+  "text": "Evoluční medicína se ptá, proč nás evoluce 'nezbavila' nemocí. Jak vysvětluje přetrvávání horečky jako reakce na infekci?",
+  "options": [
+   "Mírně zvýšená teplota může bránit množení patogenů, takže horečka je často adaptivní obranná reakce, ne porucha",
+   "Horečka je čistě škodlivý evoluční pozůstatek bez jakékoli funkce, který přirozený výběr dosud nestihl odstranit",
+   "Horečka vznikla výhradně jako vedlejší, nefunkční produkt vysoké tělesné aktivity imunitních buněk",
+   "Horečka je výsledek nedávné kulturní změny stravy a s evolucí imunitního systému nesouvisí"
+  ],
+  "correct": 0,
+  "explanation": "Evoluční medicína rozlišuje mezi poruchou a adaptivní reakcí: horečka zvyšuje tělesnou teplotu do rozmezí, které řadě patogenů ztěžuje množení, a zároveň posiluje některé imunitní procesy. Proto ji organismus 'zapíná' záměrně jako součást obranné strategie, a plošné potlačování horečky léky proto není vždy jednoznačně prospěšné.",
+  "source": "Nesse, R., Williams, G.: Proč onemocníme (1994); Kluger, M. J.: Fever (1979)",
+  "seedElo": 1780
+ },
+ {
+  "id": "evo-18",
+  "type": "F",
+  "category": "evoluce",
+  "text": "Proč evoluční medicína považuje mnoho civilizačních chorob (obezita, cukrovka 2. typu) za důsledek 'nesouladu' (mismatch) mezi naší evoluční minulostí a dnešním prostředím?",
+  "options": [
+   "Lidský genom se za posledních zhruba sto let natolik změnil, že už vůbec neodpovídá organismu z doby lovců a sběračů",
+   "Naše fyziologie se vyvíjela v podmínkách nedostatku a byla uzpůsobena jinému prostředí, než v jakém dnes žijeme",
+   "Civilizační choroby vznikají výhradně kvůli genetickým mutacím způsobeným moderním znečištěným prostředím",
+   "Mismatch teorie tvrdí, že se lidské tělo vůbec nevyvíjelo výběrem a jeho současný stav je čistě náhodný jev"
+  ],
+  "correct": 1,
+  "explanation": "Mnohé fyziologické mechanismy (např. sklon ukládat tuk při příležitosti) se vyvíjely po statisíce let v prostředí, kde byla potrava nejistá a fyzická aktivita nutná k přežití. Rychlá kulturní změna prostředí (dostupnost kalorické stravy, sedavý způsob života) proběhla za pár generací — příliš rychle na to, aby se jí genom stihl evolučně přizpůsobit, odtud pojem nesoulad (mismatch).",
+  "source": "Nesse, R., Williams, G.: Proč onemocníme (1994); Lieberman, D.: The Story of the Human Body (2013)",
+  "seedElo": 1810
+ },
+ {
+  "id": "evo-19",
+  "type": "K",
+  "category": "evoluce",
+  "text": "Endosymbiotická teorie tvrdí, že mitochondrie v našich buňkách jsou potomky kdysi samostatných bakterií. Který z níže uvedených dokladů tuto teorii nejsilněji podporuje?",
+  "options": [
+   "Mitochondrie mají stejný tvar jako většina bakterií a nacházejí se ve všech typech živých buněk",
+   "Mitochondrie produkují energii ve formě ATP, což žádná jiná buněčná struktura nedokáže",
+   "Mitochondrie mají vlastní kruhovou DNA a dělí se nezávisle na dělení celé buňky, podobně jako bakterie",
+   "Mitochondrie jsou obklopeny dvojitou membránou, kterou mají i všechny ostatní organely v buňce"
+  ],
+  "correct": 2,
+  "explanation": "Vlastní kruhová DNA nezávislá na jaderném genomu a samostatné binární dělení jsou přesně ty znaky, které mitochondrie sdílejí s bakteriemi a které jiné buněčné organely nemají. Spolu s dvojitou membránou (vnitřní pravděpodobně z původní bakterie, vnější z pohlcující buňky) tvoří silný soubor důkazů, že mitochondrie vznikly pohlcením volně žijící bakterie predkem eukaryotické buňky.",
+  "source": "Margulis, L.: Origin of Eukaryotic Cells (1970); Lane, N.: Power, Sex, Suicide: Mitochondria and the Meaning of Life (2005)",
+  "seedElo": 1840
+ },
+ {
+  "id": "evo-20",
+  "type": "K",
+  "category": "evoluce",
+  "text": "Proti klasickému 'sobeckému genu' bývá stavěna otázka mnohoúrovňového výběru (multilevel selection) — myšlenka, že výběr může působit i na úrovni skupin, ne jen genů a jedinců. Jak dnešní hlavní proud evoluční biologie tento spor obvykle hodnotí?",
+  "options": [
+   "Mnohoúrovňový výběr byl vědeckou obcí jednoznačně a zcela zavržen ve prospěch genocentrického pohledu na evoluci",
+   "Genocentrický pohled byl mnohoúrovňovým výběrem zcela nahrazen jako platnější popis evoluce skupin",
+   "Oba přístupy popisují zcela odlišné a navzájem neslučitelné mechanismy fungující v rámci výběru druhů",
+   "Matematicky je mnohoúrovňový výběr často přeformulováním příbuzenského výběru — spor je hlavně o formalismu"
+  ],
+  "correct": 3,
+  "explanation": "Formální analýzy (např. práce W. D. Hamiltona a pozdější rozpracování) ukazují, že za určitých podmínek jsou modely skupinového výběru a příbuzenského (genocentrického) výběru matematicky ekvivalentní — jde o dva jazyky popisující stejnou dynamiku, nikoli o soupeřící vysvětlení s odlišnými předpověďmi. Spor je proto v současné evoluční biologii chápán spíše jako otázka vhodnosti popisu než jako otevřená empirická bitva o to, 'co je pravda'.",
+  "source": "West, S. A., Gardner, A.: Adaptation and Inclusive Fitness (2013); Dawkins, R.: Sobecký gen, doslov k vydání 1989",
+  "seedElo": 1870
+ }
+]

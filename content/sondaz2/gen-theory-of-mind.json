@@ -1,0 +1,322 @@
+[
+ {
+  "id": "tom-01",
+  "type": "F",
+  "category": "theory-of-mind",
+  "text": "Co přesně znamená pojem \"theory of mind\" (teorie mysli) v kognitivní vědě?",
+  "options": [
+   "Schopnost připisovat druhým i sobě mentální stavy k předvídání chování",
+   "Filozofická teorie o tom, z čeho je mysl fyzicky složená a jak souvisí s mozkem",
+   "Schopnost přesně popsat vlastní emoce slovy v terapeutickém rozhovoru",
+   "Soubor pravidel logiky, podle kterých mysl zpracovává abstraktní pojmy"
+  ],
+  "correct": 0,
+  "explanation": "Theory of mind je schopnost připisovat sobě i druhým mentální stavy — přesvědčení, přání, záměry, emoce — a na jejich základě vysvětlovat a předvídat chování. Termín zavedli Premack a Woodruff v roce 1978 v souvislosti s výzkumem šimpanzů. Nejde o filozofickou teorii mysli ani o introspekci vlastních pocitů.",
+  "source": "Premack, D., Woodruff, G.: Does the chimpanzee have a theory of mind?, 1978",
+  "seedElo": 1300
+ },
+ {
+  "id": "tom-02",
+  "type": "F",
+  "category": "theory-of-mind",
+  "text": "Co konkrétně testuje klasický Sally-Anne test u dětí?",
+  "options": [
+   "Jestli si dítě dokáže zapamatovat, kam bylo schováno více předmětů najednou",
+   "Jestli dítě pochopí, že jiná osoba může mít mylné přesvědčení",
+   "Jestli dítě umí správně pojmenovat emoce na obličejích panenek",
+   "Jestli dítě dokáže odhadnout, co si druhá osoba myslí o něm samotném"
+  ],
+  "correct": 1,
+  "explanation": "Sally-Anne test zjišťuje, zda dítě chápe, že Sally bude hledat míček tam, kam ho sama dala — i když dítě ví, že ho Anne mezitím přemístila. Testuje se tak schopnost přisoudit druhé osobě mylné přesvědčení (false belief) odlišné od reality, kterou zná pozorovatel. Nejde o paměť ani o rozpoznávání emocí.",
+  "source": "Baron-Cohen, S., Leslie, A. M., Frith, U.: Does the autistic child have a theory of mind?, 1985",
+  "seedElo": 1330
+ },
+ {
+  "id": "tom-03",
+  "type": "F",
+  "category": "theory-of-mind",
+  "text": "Kolem kterého věku typicky vývojově zdravé děti poprvé spolehlivě projdou standardním verbálním testem falešného přesvědčení?",
+  "options": [
+   "Kolem 4 let věku",
+   "Kolem 9 měsíců věku",
+   "Kolem 8 let věku",
+   "Kolem 18 měsíců věku"
+  ],
+  "correct": 0,
+  "explanation": "Meta-analýzy desítek studií ukazují, že úspěšnost ve verbálních testech falešného přesvědčení prudce stoupá mezi třetím a pátým rokem, s mediánem kolem čtyř let. Před tímto věkem děti typicky odpovídají podle skutečného stavu věcí, ne podle přesvědčení postavy. Devět měsíců a osmnáct měsíců patří spíše k ranějším implicitním ukazatelům, osm let je už za typickým obdobím zvládnutí.",
+  "source": "Wellman, H. M., Cross, D., Watson, J.: Meta-analysis of theory-of-mind development, 2001",
+  "seedElo": 1360
+ },
+ {
+  "id": "tom-04",
+  "type": "K",
+  "category": "theory-of-mind",
+  "text": "Co ukazují studie s metodou porušeného očekávání (violation-of-expectation) u kojenců mladších dvou let ohledně falešného přesvědčení?",
+  "options": [
+   "Kojenci dívají se déle na scény, kde postava jedná proti svému přesvědčení",
+   "Kojenci nereagují na scény s falešným přesvědčením žádným rozdílem v pohledu",
+   "Kojenci se dívají déle výhradně na scény se skutečným, nikoli mylným stavem věcí",
+   "Kojenci projevují reakci jen tehdy, když postavou ve scéně je jejich vlastní matka"
+  ],
+  "correct": 0,
+  "explanation": "V paradigmatu porušeného očekávání se měří délka pohledu jako ukazatel překvapení. Kojenci se dívají déle, když postava jedná způsobem neslučitelným s jejím (mylným) přesvědčením, což naznačuje jakousi ranou, implicitní citlivost na cizí mentální stavy — dříve, než děti zvládnou explicitní verbální test. Interpretace těchto nálezů je ale v oboru stále diskutovaná.",
+  "source": "Onishi, K. H., Baillargeon, R.: Do 15-month-old infants understand false beliefs?, 2005",
+  "seedElo": 1390
+ },
+ {
+  "id": "tom-05",
+  "type": "F",
+  "category": "theory-of-mind",
+  "text": "Jaký byl hlavní závěr původního experimentu Premacka a Woodruffa (1978) se šimpanzicí Sarah?",
+  "options": [
+   "Sarah vybírala řešení naznačující připisování záměrů, což vyvolalo debatu",
+   "Sarah prokázala pochopení falešného přesvědčení jako pětileté dítě",
+   "Sarah nedokázala rozlišit žádné situace na videu a volila možnosti náhodně",
+   "Sarah se naučila používat znakový jazyk k popisu toho, co si druzí myslí"
+  ],
+  "correct": 0,
+  "explanation": "Sarah dostávala videa herce s problémem (např. zamčené dveře) a vybírala z fotografií řešení. Její volby odpovídaly logickému řešení problému, což autoři interpretovali jako náznak připisování záměrů. Přesná míra, nakolik šlo o skutečné mentalizování a nakolik o naučené asociace, zůstává předmětem sporu dodnes. Test se netýkal falešného přesvědčení ani znakového jazyka.",
+  "source": "Premack, D., Woodruff, G.: Does the chimpanzee have a theory of mind?, 1978",
+  "seedElo": 1420
+ },
+ {
+  "id": "tom-06",
+  "type": "K",
+  "category": "theory-of-mind",
+  "text": "Co ukázaly experimenty s kompetitivním přístupem k jídlu (Hare, Call, Tomasello) o schopnostech šimpanzů?",
+  "options": [
+   "Podřízený šimpanz preferoval jídlo, které dominantní jedinec neviděl, ne to viděné oběma",
+   "Šimpanzi v kompetitivní situaci volili jídlo vždy náhodně bez ohledu na to, kdo ho viděl",
+   "Dominantní i podřízený šimpanz sahali vždy jen po jídle, které bylo blíž jejich vlastní pozici",
+   "Šimpanzi dokázali kompetitivní situaci vyřešit pouze tehdy, když jim experimentátor jídlo přímo ukázal"
+  ],
+  "correct": 0,
+  "explanation": "Podřízení šimpanzi systematicky sahali spíš po jídle, které dominantní soupeř neviděl, než po jídle, které viděli oba. To naznačuje, že šimpanzi berou v úvahu, co druhý jedinec vidí (perceptuální přístup), tedy jistou formu sociálního porozumění, aniž by to nutně znamenalo plnou reprezentaci přesvědčení jako u lidí.",
+  "source": "Hare, B., Call, J., Tomasello, M.: Chimpanzees know what conspecifics do and do not see, 2000",
+  "seedElo": 1450
+ },
+ {
+  "id": "tom-07",
+  "type": "F",
+  "category": "theory-of-mind",
+  "text": "Co je klíčovým poznatkem výzkumu krkavcovitých ptáků (vrány, sojky, krkavci) ohledně schopnosti odhadovat pozorovatele?",
+  "options": [
+   "Ptáci si nikdy neschovávají potravu, pokud jsou v okolí jiní jedinci",
+   "Krkavcovití přeschovávají potravu častěji, když je viděl jiný jedinec",
+   "Krkavcovití reagují na pozorovatele jen v laboratoři, ne v přírodě",
+   "Schopnost přeschovávat potravu podle pozorovatele mají pouze samice krkavcovitých"
+  ],
+  "correct": 1,
+  "explanation": "Krkavcovití, kteří sami v minulosti kradli cizí zásoby, si po odchodu pozorovatele s vyšší pravděpodobností přeschovají potravu na nové místo, pokud je někdo při schování viděl. To ukazuje na citlivost k tomu, co druhý viděl, a schopnost podle toho měnit strategii — jev sledovaný jak v laboratoři, tak v terénních pozorováních volně žijících ptáků.",
+  "source": "Emery, N. J., Clayton, N. S.: Effects of experience and social context on prospective caching, 2001",
+  "seedElo": 1480
+ },
+ {
+  "id": "tom-08",
+  "type": "K",
+  "category": "theory-of-mind",
+  "text": "Čím se liší schopnost psů rozumět lidským ukazovacím gestům od schopnosti šimpanzů v témže typu úlohy?",
+  "options": [
+   "Psi v testech s ukazováním na skryté jídlo obvykle uspívají snáz než šimpanzi",
+   "Šimpanzi rozumí lidskému ukazování od narození, psi se to musí učit",
+   "Ani psi, ani šimpanzi nedokážou lidské ukazovací gesto využít k nalezení jídla",
+   "Psi rozumí ukazování jen od jiných psů, lidská gesta zcela ignorují"
+  ],
+  "correct": 0,
+  "explanation": "V úlohách, kde experimentátor ukáže na jednu ze dvou nádob se skrytým jídlem, psi typicky uspívají spontánně a spolehlivěji než naši nejbližší primátí příbuzní. Vysvětluje se to domestikací a dlouhým soužitím s lidmi, které selektovalo na citlivost ke komunikačním signálům člověka, i když jde spíš o naučenou senzitivitu ke gestu než o plnohodnotnou teorii mysli.",
+  "source": "Hare, B., Tomasello, M.: Domestic dogs use human and conspecific social cues, 1999",
+  "seedElo": 1510
+ },
+ {
+  "id": "tom-09",
+  "type": "F",
+  "category": "theory-of-mind",
+  "text": "Co přesně zjišťuje zrcadlový test (mark test) sebeuvědomění a jak souvisí s theory of mind?",
+  "options": [
+   "Testuje, jestli zvíře rozpozná značku na vlastním těle ve zrcadle jako svou",
+   "Testuje přímo schopnost zvířete odhadnout, co si o něm myslí jiný jedinec téhož druhu",
+   "Testuje, zda zvíře dokáže napodobit pohyby jiného jedince pozorovaného v zrcadle",
+   "Testuje schopnost zvířete rozeznat mezi vlastním a cizím hlasem v nahrávce"
+  ],
+  "correct": 0,
+  "explanation": "Zrcadlový test zjišťuje, zda zvíře, kterému je nenápadně nanesena barevná značka na tělo, sáhne po značce při pohledu do zrcadla — což naznačuje rozpoznání odrazu jako sebe sama. Jde o ukazatel sebeuvědomění, nikoli přímý test schopnosti odhadovat mentální stavy druhých, i když jsou obě schopnosti teoreticky spojovány.",
+  "source": "Gallup, G. G.: Chimpanzees: Self-recognition, 1970",
+  "seedElo": 1540
+ },
+ {
+  "id": "tom-10",
+  "type": "K",
+  "category": "theory-of-mind",
+  "text": "Jaká je hlavní kritika zrcadlového testu jako univerzálního měřítka sebeuvědomění napříč druhy?",
+  "options": [
+   "Test závisí na zrakové orientaci, druhy spoléhající na čich mohou neprojít",
+   "Test je kritizován, že ho zvládne každý obratlovec, takže nic neodliší",
+   "Test byl zcela opuštěn, protože se ukázalo, že měří jen barvoslepost zvířat",
+   "Test funguje jen u zvířat v zajetí, u volně žijících je nepoužitelný"
+  ],
+  "correct": 0,
+  "explanation": "Zrcadlový test předpokládá, že druh přirozeně věnuje pozornost svému vzhledu a reaguje na zrakové podněty — to sedí třeba na lidoopy, ale méně na druhy orientované čichem nebo echolokací (psi, sloni v některých studiích, kytovci s omezeními). Neúspěch v testu proto nemusí znamenat chybějící sebeuvědomění, jen jiný smyslový důraz, což je hlavní bod kritiky.",
+  "source": "de Waal, F. B. M.: The thief in the mirror, 2008",
+  "seedElo": 1570
+ },
+ {
+  "id": "tom-11",
+  "type": "F",
+  "category": "theory-of-mind",
+  "text": "Jaký vztah se v longitudinálních studiích typicky ukazuje mezi jazykovými schopnostmi dítěte a úspěšností v testech falešného přesvědčení?",
+  "options": [
+   "Bohatší jazykové schopnosti predikují dřívější úspěch v testech",
+   "Mezi jazykem a testy falešného přesvědčení nebyla nalezena souvislost",
+   "Děti s opožděným vývojem řeči prochází testy dříve než vrstevníci",
+   "Souvislost existuje jen u dvojjazyčných dětí, u ostatních chybí"
+  ],
+  "correct": 0,
+  "explanation": "Opakovaně se ukazuje, že raná jazyková vyspělost — zvlášť zvládnutí vět s mentálními slovesy a komplexních vět s vedlejší větou (\"myslí si, že...\") — předchází a predikuje úspěch v testech falešného přesvědčení. Směr souvislosti napovídá, že jazyk poskytuje reprezentační nástroje potřebné k uvažování o cizích přesvědčeních, byť úplná kauzalita je stále zkoumána.",
+  "source": "Astington, J. W., Jenkins, J. M.: A longitudinal study of the relation between language and theory-of-mind development, 1999",
+  "seedElo": 1600
+ },
+ {
+  "id": "tom-12",
+  "type": "F",
+  "category": "theory-of-mind",
+  "text": "Co je hlavním korektním faktografickým bodem, který je dnes třeba zdůraznit ohledně vztahu autismu a theory of mind, oproti zjednodušenému klišé z 80. let?",
+  "options": [
+   "Ne všichni autisté mají obtíže v testech falešného přesvědčení",
+   "Bylo prokázáno, že autističtí lidé mají teorii mysli vždy zcela nedotčenou",
+   "Testy falešného přesvědčení se s autismem už vůbec nepoužívají",
+   "Obtíže v teorii mysli se týkají jen dětí s autismem, u dospělých mizí"
+  ],
+  "correct": 0,
+  "explanation": "Raná studie Baron-Cohena a kol. (1985) ukázala, že řada autistických dětí testem falešného přesvědčení neprojde o něco hůř než děti s Downovým syndromem či bez diagnózy. Pozdější výzkum tento obraz zjemnil: výsledky silně kolísají podle verbální úrovně, věku a konkrétní formy úlohy, a řada autistických lidí testy zvládá — nejde tedy o univerzální ani neměnný deficit.",
+  "source": "Baron-Cohen, S., Leslie, A. M., Frith, U.: Does the autistic child have a theory of mind?, 1985",
+  "seedElo": 1630
+ },
+ {
+  "id": "tom-13",
+  "type": "K",
+  "category": "theory-of-mind",
+  "text": "V čem se zásadně liší \"teorie teorie\" (theory-theory) od simulační teorie jako dva konkurenční modely toho, jak lidé mentalizují?",
+  "options": [
+   "Teorie teorie usuzuje z naučených zákonitostí, simulace napodobuje vlastní myslí",
+   "Obě teorie tvrdí prakticky totéž, jen používají jiné slovo pro stejný proces zpracování",
+   "Teorie teorie se týká pouze dětí, simulační teorie se týká výhradně dospělých",
+   "Simulační teorie tvrdí, že mentalizace vůbec neexistuje a jde jen o iluzi pozorovatele"
+  ],
+  "correct": 0,
+  "explanation": "Podle teorie teorie disponujeme naivní, implicitní teorií o tom, jak fungují mysli druhých (podobně jako vědecká teorie predikuje jevy), a na jejím základě usuzujeme na jejich stavy. Simulační teorie naopak tvrdí, že stav druhého odhadujeme tak, že jej v mysli sami \"nasimulujeme\" — použijeme vlastní kognitivní aparát jako model a výsledek přisoudíme druhému. Obě mají v kognitivní vědě zastánce i empirickou podporu z různých úhlů.",
+  "source": "Gordon, R. M.: Folk psychology as simulation, 1986; Gopnik, A., Wellman, H. M.: Why the child's theory of mind really is a theory, 1992",
+  "seedElo": 1660
+ },
+ {
+  "id": "tom-14",
+  "type": "F",
+  "category": "theory-of-mind",
+  "text": "Co je to \"curse of knowledge\" (prokletí vědění) v kognitivní vědě komunikace?",
+  "options": [
+   "Tendence podceňovat, jak těžké je pro druhého fakt pochopit",
+   "Neschopnost si zapamatovat informaci poté, co byla jednou zapomenuta",
+   "Sklon věřit, že vědomosti se ztrácejí rychleji, čím jsou složitější",
+   "Tendence nadhodnocovat, jak málo ví někdo jiný oproti realitě"
+  ],
+  "correct": 0,
+  "explanation": "Prokletí vědění popisuje, jak lidem, kteří už informaci znají, je nesnadné odhadnout, jaké to je informaci neznat — systematicky podceňují obtížnost úkolu nebo nejasnost sdělení pro někoho bez jejich znalosti. Jev souvisí s mentalizací, protože jde o selhání v přesném odhadu mentálního stavu (neznalosti) druhého člověka, a promítá se třeba do neefektivního vysvětlování nebo psaní návodů.",
+  "source": "Camerer, C., Loewenstein, G., Weber, M.: The curse of knowledge in economic settings, 1989",
+  "seedElo": 1690
+ },
+ {
+  "id": "tom-15",
+  "type": "K",
+  "category": "theory-of-mind",
+  "text": "Co znamená v Griceově pojetí komunikace rozdíl mezi tím, co je \"řečeno\", a tím, co je \"implikováno\" (conversational implicature)?",
+  "options": [
+   "„Implikováno“ je smysl, který posluchač dovodí, i když mluvčí zdánlivě poruší zásady",
+   "„Implikováno“ znamená totéž co doslovný, gramaticky přímý význam vyřčené věty",
+   "Rozdíl je čistě formální a v praktické komunikaci nemá žádný dopad na porozumění",
+   "Implikatura vzniká výhradně u ironie a u žádného jiného typu výroku se nevyskytuje"
+  ],
+  "correct": 0,
+  "explanation": "Podle Griceovy teorie mluvčí dodržují (nebo zdánlivě porušují) kooperativní zásady konverzace — např. říkat pravdu, být relevantní, být informativně přiměřený. Když mluvčí zjevně poruší některou zásadu (třeba odpoví zdánlivě mimo téma), posluchač za předpokladu, že mluvčí je stále kooperativní, dovodí dodatečný, nevyřčený význam — implikaturu. Jde přímo o mentalizaci: posluchač musí odhadnout záměr mluvčího za slovy.",
+  "source": "Grice, H. P.: Logic and conversation, 1975",
+  "seedElo": 1720
+ },
+ {
+  "id": "tom-16",
+  "type": "K",
+  "category": "theory-of-mind",
+  "text": "Kolem kterého věku děti v testech typicky zvládají tzv. testy falešného přesvědčení druhého řádu (\"já vím, že on si myslí, že ona si myslí...\")?",
+  "options": [
+   "Kolem 6 až 7 let, zřetelně později než přesvědčení prvního řádu",
+   "Přibližně ve stejném věku jako přesvědčení prvního řádu, kolem 4 let",
+   "Už kolem 18 měsíců věku, mnohem dříve než přesvědčení prvního řádu",
+   "Testy druhého řádu zvládá naprostá většina dětí až v dospívání po 15. roce"
+  ],
+  "correct": 0,
+  "explanation": "Zatímco falešné přesvědčení prvního řádu (\"on si myslí, že...\") zvládá většina dětí kolem čtyř let, rekurzivní mentalizace druhého řádu (\"on si myslí, že ona si myslí...\") vyžaduje vyšší kognitivní kapacitu a objevuje se typicky až kolem šesti až sedmi let věku, souběžně se zráním výkonných funkcí.",
+  "source": "Perner, J., Wimmer, H.: John thinks that Mary thinks that…, 1985",
+  "seedElo": 1750
+ },
+ {
+  "id": "tom-17",
+  "type": "F",
+  "category": "theory-of-mind",
+  "text": "Co v roce 2023 skutečně ukázala hojně citovaná studie Michala Kosinského o velkých jazykových modelech (LLM) a testech falešného přesvědčení?",
+  "options": [
+   "Některé GPT modely dosahovaly vysoké úspěšnosti, což vyvolalo debatu o interpretaci",
+   "Studie prokázala, že žádný jazykový model nikdy nedokáže vyřešit ani jeden test falešného přesvědčení",
+   "Studie se týkala výhradně lidských dětí a jazykové modely v ní vůbec nefigurovaly",
+   "Studie ukázala, že jazykové modely mají biologicky ověřitelné vědomí srovnatelné s lidským"
+  ],
+  "correct": 0,
+  "explanation": "Kosinského studie testovala tehdejší GPT modely na textových adaptacích klasických úloh falešného přesvědčení a hlásila vysokou úspěšnost u novějších modelů. Vyvolala to ale intenzivní odbornou debatu — kritici upozorňovali, že vysoký výkon může odrážet naučené vzorce z tréninkových dat a citlivost na formu úlohy, nikoli nutně stejný mechanismus mentalizace jako u lidí. Otázka zůstává otevřená a metodologicky sporná.",
+  "source": "Kosinski, M.: Theory of mind may have spontaneously emerged in large language models, 2023 (preprint, diskutováno a zpochybňováno)",
+  "seedElo": 1780
+ },
+ {
+  "id": "tom-18",
+  "type": "K",
+  "category": "theory-of-mind",
+  "text": "Jaký je hlavní metodologický problém s tvrzením, že vysoký výkon LLM na testech falešného přesvědčení dokazuje skutečnou teorii mysli?",
+  "options": [
+   "Drobné přeformulování úlohy dokáže výkon modelu prudce snížit",
+   "Problém neexistuje, výkon modelů je naprosto stabilní napříč zadáními",
+   "Testy falešného přesvědčení nelze vůbec převést na psaný text",
+   "Jazykové modely úlohu odmítnou zpracovat kvůli bezpečnostním filtrům"
+  ],
+  "correct": 0,
+  "explanation": "Následné studie a kritické rozbory ukázaly, že mírné úpravy zadání — jiná jména, přidané irelevantní věty, mírně jiná struktura úlohy — dokážou úspěšnost modelů výrazně srazit, zatímco lidé v takových variacích zůstávají stabilní. To je silný argument pro to, že model může spoléhat na naučené povrchové vzorce z tréninkových dat, ne na obecný mechanismus usuzování o mentálních stavech.",
+  "source": "Ullman, T.: Large language models fail on trivial alterations to theory-of-mind tasks, 2023",
+  "seedElo": 1810
+ },
+ {
+  "id": "tom-19",
+  "type": "K",
+  "category": "theory-of-mind",
+  "text": "Proč je srovnávání \"teorie mysli\" u LLM s teorií mysli u lidí nebo zvířat pojmově problematické už na úrovni definice?",
+  "options": [
+   "U lidí je teorie mysli spjata s reálnou predikcí chování, u LLM jde jen o text",
+   "Protože zvířata a lidé teorii mysli vůbec nemají, srovnání je nesmyslné",
+   "Protože LLM jsou definičně naprogramovány tak, aby teorii mysli měly zaručeně na 100 %",
+   "Protože se teorie mysli testuje pomocí EEG, které LLM nemají k dispozici"
+  ],
+  "correct": 0,
+  "explanation": "U lidí a zvířat je teorie mysli funkčně zakotvena v reálném sociálním jednání — predikci pohybu, podvodu, kooperace s dopadem na přežití a vztahy. U LLM se měří schopnost správně dokončit text popisující scénář, bez tělesného jednání, motivace či průběžné interakce se skutečnou myslí druhého. Proto řada kognitivních vědců argumentuje, že jde přinejmenším o odlišný jev, i když si výstupy mohou být v testech povrchně podobné.",
+  "source": "Shanahan, M.: Talking About Large Language Models, 2024",
+  "seedElo": 1840
+ },
+ {
+  "id": "tom-20",
+  "type": "K",
+  "category": "theory-of-mind",
+  "text": "Co znamená rozlišení mezi \"kompetencí\" a \"performancí\" v diskusi o tom, kdy přesně dítě (nebo jiný systém) teorii mysli \"má\"?",
+  "options": [
+   "Jde o otázku, zda selhání ukazuje chybějící schopnost, nebo jen nároky testu",
+   "Kompetence označuje výkon v laboratoři, performance výkon doma, a obě spolu nijak nesouvisí",
+   "Rozlišení se týká pouze rozdílu mezi verbálním a písemným testováním dětí",
+   "Kompetence je totéž co inteligenční kvocient a performance totéž co školní známky"
+  ],
+  "correct": 0,
+  "explanation": "Diskuse o kompetenci versus performanci se ptá, zda dítě (či zvíře, či model) skutečně danou schopnost postrádá, nebo zda ji má, ale test na ni klade dodatečné nároky (pracovní paměť, potlačení automatické odpovědi, porozumění formulaci), které skutečný výkon zamaskují. Právě proto zjednodušené testy falešného přesvědčení někdy podhodnocují rané kompetence odhalené citlivějšími metodami, jako je porušené očekávání u kojenců.",
+  "source": "Bloom, P., German, T. P.: Two reasons to abandon the false belief task as a test of theory of mind, 2000",
+  "seedElo": 1870
+ }
+]

@@ -1,0 +1,322 @@
+[
+ {
+  "id": "ziv-01",
+  "type": "F",
+  "category": "zivocichove",
+  "text": "Proč je chobotnice považována za jednoho z nejinteligentnějších bezobratlých?",
+  "options": [
+   "Dokáže se učit řešit hádanky, otevírat zavíčkované nádoby a rozpoznávat jednotlivé lidi",
+   "Má mozek stejně velký jako savci srovnatelné tělesné hmotnosti a stejný poměr mozku k tělu jako člověk",
+   "Žije v trvalých rodinných skupinách, kde si mláďata předávají nástroje z generace na generaci",
+   "Dorozumívá se se svými druhy pomocí naučeného systému zvukových signálů podobného lidské řeči"
+  ],
+  "correct": 0,
+  "explanation": "Chobotnice v laboratorních testech otevírají uzavřené sklenice, aby se dostaly k potravě, učí se pozorováním jiné chobotnice a v akváriích jsou popsané případy, kdy si zapamatují a odlišně reagují na konkrétní ošetřovatele. Nežijí ale ve skupinách ani si nepředávají nástroje mezi generacemi — jsou převážně samotářské a krátkověké.",
+  "source": "Hochner, B. (2012). An embodied view of octopus neurobiology. Current Biology, 22(20); Mather, J. A. (2008). Cephalopod consciousness. Consciousness and Cognition, 17(1).",
+  "seedElo": 1300
+ },
+ {
+  "id": "ziv-02",
+  "type": "F",
+  "category": "zivocichove",
+  "text": "Co dělá vrána novokaledonská, díky čemu patří k nejzručnějším uživatelům nástrojů v říši zvířat?",
+  "options": [
+   "Vyrábí si háčky z větviček a listů pandánu, aby vytáhla larvy z děr v kůře stromů",
+   "Staví si hnízda z kamínků, které nosí po jednom v zobáku i přes několik kilometrů",
+   "Používá kousky kůry jako destičky, na kterých rozbíjí ulity ulovených plžů",
+   "Otevírá ořechy tak, že je upouští z výšky přesně na kamenné podložky, které si sama vybírá"
+  ],
+  "correct": 0,
+  "explanation": "Vrány novokaledonské ohýbají větvičky do háčků a vyštipávají zoubkované destičky z listů pandánu, aby jimi vylovily larvy hmyzu z dutin ve dřevě — jde o jeden z mála zdokumentovaných případů výroby složených nástrojů mimo primáty. Schopnost se zdá být částečně kulturně předávaná mezi jedinci.",
+  "source": "Hunt, G. R. (1996). Manufacture and use of hook-tools by New Caledonian crows. Nature, 379(6562).",
+  "seedElo": 1330
+ },
+ {
+  "id": "ziv-03",
+  "type": "F",
+  "category": "zivocichove",
+  "text": "Co bylo pozorováno u sloních matek a příbuzných samic, když v tlupě uhyne mládě nebo dospělý jedinec?",
+  "options": [
+   "Skupina okamžitě opustí místo úhynu a další měsíce se mu širokým obloukem vyhýbá",
+   "Ostatní sloni tělo dlouho obcházejí, dotýkají se ho chobotem, někdy zůstávají dny",
+   "Matka mrtvé mládě ihned zahrabe do hlíny a poté se vrací ke zbytku stáda beze změny chování",
+   "Sloni reagují jen tehdy, pokud zemřelý patřil k vedoucí samici stáda, na ostatní úmrtí nereagují"
+  ],
+  "correct": 1,
+  "explanation": "Sloni opakovaně projevují chování, které etologové označují jako projevy zájmu o mrtvé: dotýkají se těla chobotem, stojí kolem něj v tichu, někdy je i po dnech znovu navštěvují a zkoumají kosti. Nejde jen o reakci na smrt matriarchy — pozorováno je to i u nepříbuzných jedinců.",
+  "source": "Douglas-Hamilton, I., et al. (2006). Behavioural reactions of elephants towards a dying and deceased matriarch. Applied Animal Behaviour Science, 100(1-2).",
+  "seedElo": 1360
+ },
+ {
+  "id": "ziv-04",
+  "type": "F",
+  "category": "zivocichove",
+  "text": "Jak orky (kosatky dravé) používají echolokaci a proč se různé populace v jídelníčku výrazně liší?",
+  "options": [
+   "Echolokaci využívají jen k navigaci, výběr kořisti je čistě náhodný podle toho, co je zrovna nablízku",
+   "Vysílají zvukové klapání, lovecké techniky a preference kořisti se dědí v rodinách",
+   "Echolokace slouží výhradně ke komunikaci mezi skupinami, k lovu ji orky vůbec nepoužívají",
+   "Každá orka si echolokační vzorce vyvíjí zcela nezávisle a mezi jedinci stejné populace se výrazně liší"
+  ],
+  "correct": 1,
+  "explanation": "Orky vysílají série klapavých zvuků a z návratu ozvěny určují polohu kořisti. Odlišné populace ale loví jinak — některé se specializují na tuleně, jiné na ryby nebo žraloky — a tyto lovecké strategie i dialekty volání se učí uvnitř rodinných skupin a předávají mezi generacemi, což se považuje za formu kultury u zvířat.",
+  "source": "Ford, J. K. B., et al. (1998). Dietary specialization in two sympatric populations of killer whales. Canadian Journal of Zoology, 76(8); Whitehead, H., & Rendell, L. (2015). The Cultural Lives of Whales and Dolphins.",
+  "seedElo": 1390
+ },
+ {
+  "id": "ziv-05",
+  "type": "F",
+  "category": "zivocichove",
+  "text": "Co ukázal Frans de Waal na svém pozorování šimpanzů, pokud jde o smíření po konfliktu?",
+  "options": [
+   "Šimpanzi se po rvačce většinou natrvalo vyhýbají soupeři a kontakt neobnoví",
+   "Bojující zvířata jsou po konfliktu vždy odděleni dominantním samcem řídícím usmíření",
+   "Soupeři se po potyčce často brzy sblíží, objímají se a vzájemně čistí srst",
+   "Smíření probíhá výhradně mezi příbuznými jedinci, mezi nepříbuznými se agrese nikdy neurovná"
+  ],
+  "correct": 2,
+  "explanation": "De Waal ve svých pozorováních v zoo Arnhem popsal, že šimpanzi po hádkách vyhledávají tělesný kontakt — objetí, dotyky, vzájemné vybírání srsti — a tím obnovují vztah a snižují napětí ve skupině. Tento vzorec smíření nazval „reconciliation“ a našel jej i u dalších primátů, nejen mezi příbuznými.",
+  "source": "de Waal, F., & van Roosmalen, A. (1979). Reconciliation and consolation among chimpanzees. Behavioral Ecology and Sociobiology, 5(1); de Waal, F. (1989). Peacemaking Among Primates.",
+  "seedElo": 1420
+ },
+ {
+  "id": "ziv-06",
+  "type": "F",
+  "category": "zivocichove",
+  "text": "Jak funguje dělba práce u eusociálního hmyzu, jako jsou včely medonosné?",
+  "options": [
+   "Každá včela dělnice si po celý život udržuje jednu pevně danou úlohu, kterou nikdy nemění",
+   "Úkoly si dělnice losují náhodně každé ráno bez ohledu na věk nebo předchozí zkušenost",
+   "Úlohy dělnic se mění s věkem — mladší pracují uvnitř úlu, starší se stávají létajícími sběračkami",
+   "Dělbu práce určuje výhradně královna, která každé dělnici individuálně přiděluje úkol feromonem"
+  ],
+  "correct": 2,
+  "explanation": "U včely medonosné platí takzvaná věková polyetismus: mladé dělnice nejprve čistí buňky a krmí larvy, později stavějí plástve a hlídkují u vchodu, a teprve nejstarší se stávají létajícími sběračkami nektaru a pylu. Přechody mezi úlohami reagují i na potřeby kolonie, nejsou tedy zcela neměnné.",
+  "source": "Seeley, T. D. (1982). Adaptive significance of age polyethism schedules in honeybee colonies. Behavioral Ecology and Sociobiology, 11(4).",
+  "seedElo": 1450
+ },
+ {
+  "id": "ziv-07",
+  "type": "K",
+  "category": "zivocichove",
+  "text": "Krkavci a další krkavcovití patří mezi ptáky se srovnatelnou kognitivní úrovní jako lidoopi.",
+  "options": [
+   "Ano, mají srovnatelnou kognitivní úroveň s lidoopy",
+   "Ne, nemají srovnatelnou kognitivní úroveň s lidoopy",
+   "Platí to jen pro papoušky, krkavcovití jsou slabší",
+   "Testy inteligence ptáků a savců prý nejsou srovnatelné"
+  ],
+  "correct": 0,
+  "explanation": "Krkavci a kavky v testech plánování, používání nástrojů a chápání příčiny a následku dosahují výsledků srovnatelných s lidoopy, přestože jejich mozek má odlišnou stavbu (chybí jim vrstevnatá kůra savců). To ukazuje, že vysoká inteligence se v evoluci vyvinula nezávisle víckrát.",
+  "source": "Emery, N. J., & Clayton, N. S. (2004). The mentality of crows: convergent evolution of intelligence in corvids and apes. Science, 306(5703).",
+  "seedElo": 1480
+ },
+ {
+  "id": "ziv-08",
+  "type": "F",
+  "category": "zivocichove",
+  "text": "Jak medvídci vodní (želvušky) přežívají extrémní vysušení, mráz i vakuum vesmíru?",
+  "options": [
+   "Ve svém tvrdém krunýři udrží po celou dobu strádání malou zásobu tekuté vody",
+   "V metabolicky téměř zastaveném stavu (kryptobióza) nahradí vodu ochrannými cukry",
+   "Před nepříznivými podmínkami se stěhují na hlubší vlhčí místa, kam extrém nedosáhne",
+   "Zpomalí srdeční tep a dýchání natolik, že přežijí i bez jakékoli buněčné ochrany"
+  ],
+  "correct": 1,
+  "explanation": "V krajně nepříznivých podmínkách se tělo želvušky téměř úplně vysuší a přejde do stavu zvaného tun, při kterém metabolismus prakticky ustane. Buňky si přitom chrání molekuly cukrem trehalózou a specifickými ochrannými bílkovinami, což jim umožňuje přežít desítky let vyschnutí, extrémní chlad i krátkodobé vystavení vakuu.",
+  "source": "Watanabe, M. (2006). Anhydrobiosis in invertebrates. Applied Entomology and Zoology, 41(1); Jönsson, K. I., et al. (2008). Tardigrades survive exposure to space in low Earth orbit. Current Biology, 18(17).",
+  "seedElo": 1510
+ },
+ {
+  "id": "ziv-09",
+  "type": "F",
+  "category": "zivocichove",
+  "text": "Jaký je hlavní biologický účel bioluminiscence u hlubokomořských živočichů, jako je ďasovec mořský?",
+  "options": [
+   "Slouží výhradně k regulaci tělesné teploty v chladné hlubinné vodě kolem těla",
+   "Světlo pomáhá trávit potravu tím, že urychluje chemické reakce v žaludku",
+   "Používá se k lákání kořisti, komunikaci mezi jedinci nebo zmatení predátora",
+   "Je to čistě vedlejší produkt metabolismu bez jakékoli užitečné funkce"
+  ],
+  "correct": 2,
+  "explanation": "Bioluminiscence v hlubokém moři plní několik funkcí najednou: ďasovci svítící návnadou lákají kořist, jiné druhy světlem komunikují s partnery nebo naopak matou predátory náhlým zábleskem či clonou svítícího hlenu. Vzniká chemickou reakcí luciferinu s enzymem luciferázou, často za pomoci symbiotických bakterií.",
+  "source": "Haddock, S. H. D., et al. (2010). Bioluminescence in the Sea. Annual Review of Marine Science, 2.",
+  "seedElo": 1540
+ },
+ {
+  "id": "ziv-10",
+  "type": "F",
+  "category": "zivocichove",
+  "text": "Jaký je zásadní rozdíl mezi tím, když je živočich „jedovatý“ (poisonous) a když je „jedující“ (venomous)?",
+  "options": [
+   "Jedovatý živočich ohrožuje jen jiná zvířata, jedující dokáže otrávit i člověka",
+   "Jedovatý živočich škodí při dotyku nebo pozření, jedující jed vstřikuje kousnutím",
+   "Rozdíl je čistě terminologický a v biologii se tyto pojmy používají zcela zaměnitelně",
+   "Jedující živočichové mají jed vždy smrtelnější než jedovatí, protože ho vstřikují přímo do krve"
+  ],
+  "correct": 1,
+  "explanation": "Jedovatost (poisonous) znamená, že je organismus toxický při snědení nebo dotyku — příkladem je pralesnička s jedem v kůži. Jedující (venomous) živočich naopak jed aktivně vstřikuje pomocí žahadla, zubů nebo trnů, jako had nebo škorpion. Některé druhy, třeba mlok blue-ringed octopus, splňují obě kategorie zároveň.",
+  "source": "Cassini, A., & Vonk, F. J. (2018). Venom and poison: a functional distinction. Toxins review literature (obecně přijímaná biologická klasifikace); Nelsen, D. R., et al. (2014). Poisons, toxungens, and venoms. Biological Reviews, 89(2).",
+  "seedElo": 1570
+ },
+ {
+  "id": "ziv-11",
+  "type": "F",
+  "category": "zivocichove",
+  "text": "Jak funguje batesovská mimikry, kterou proslavil například pestrokřídlec vidlochvost napodobující jedovatého otakárka?",
+  "options": [
+   "Neškodný druh napodobuje vzhled jedovatého druhu, aniž má jeho obranné vlastnosti",
+   "Dva nebezpečné druhy si navzájem podobným vzhledem posilují varovný signál pro predátory",
+   "Kořist mění barvu podle prostředí, aby splynula s pozadím a predátor ji vůbec nezaznamenal",
+   "Predátor napodobuje vzhled své kořisti, aby se k ní mohl nepozorovaně přiblížit"
+  ],
+  "correct": 0,
+  "explanation": "Batesovská mimikry je pojmenovaná po Henrym Batesovi, který si všiml, že neškodní motýli napodobují zbarvení jedovatých či nechutných druhů a těží tak z toho, že se je predátoři naučili obcházet. Liší se od müllerovské mimikry, kde jsou nebezpečné oba podobné druhy a signál si vzájemně posilují.",
+  "source": "Bates, H. W. (1862). Contributions to an insect fauna of the Amazon valley. Transactions of the Linnean Society of London, 23(3).",
+  "seedElo": 1600
+ },
+ {
+  "id": "ziv-12",
+  "type": "F",
+  "category": "zivocichove",
+  "text": "Jak se stěhovaví ptáci a další migrující živočichové orientují pomocí magnetorecepce?",
+  "options": [
+   "Vnímají sklon a intenzitu magnetického pole díky světlocitlivým bílkovinám v oku",
+   "Magnetické pole nevyužívají vůbec, orientují se výhradně podle postavení hvězd a slunce",
+   "Magnetorecepci mají pouze mořští živočichové, u ptáků nebyla nikdy spolehlivě prokázána",
+   "Vnímají magnetismus přes zobák, ve kterém mají malé kousky kovového železa fungující jako kompas"
+  ],
+  "correct": 0,
+  "explanation": "U ptáků se předpokládají dva mechanismy: světlocitlivé bílkoviny kryptochromy v sítnici, které reagují na magnetické pole kvantovým jevem, a případně magnetitové částice využívané spíš jako doplňkový smysl. Kombinace s vnitřními hodinami a orientací podle hvězd a slunce jim umožňuje přesnou navigaci na tisíce kilometrů.",
+  "source": "Wiltschko, R., & Wiltschko, W. (2019). Magnetoreception in birds. Journal of the Royal Society Interface, 16(158); Mouritsen, H. (2018). Long-distance navigation and magnetoreception in migratory animals. Nature, 558(7708).",
+  "seedElo": 1630
+ },
+ {
+  "id": "ziv-13",
+  "type": "F",
+  "category": "zivocichove",
+  "text": "Jak spí delfíni a další kytovci, když musí pravidelně vyplouvat k hladině dýchat vzduch?",
+  "options": [
+   "Přestávají zcela dýchat na několik hodin a spánek prodělávají jen jednou za několik dní",
+   "Spí jednohemisférickým spánkem, jedna polokoule odpočívá, druhá bdí a řídí dýchání",
+   "Spánek nahrazují krátkými mikrospánky trvajícími jen zlomek vteřiny během plavání",
+   "Vystoupí na souš nebo se opřou o hladinu a spí oběma polokoulemi najednou"
+  ],
+  "correct": 1,
+  "explanation": "Delfíni a další kytovci střídavě uspávají jen jednu mozkovou polokouli, zatímco druhá zůstává aktivní a zajišťuje dýchání i základní pohyb — poznat to lze i podle toho, že často plavou se zavřeným jen jedním okem. Tento jednohemisférický spánek řeší problém, že dýchání u nich není automatické jako u lidí.",
+  "source": "Mukhametov, L. M. (1987). Unihemispheric slow-wave sleep in the amazonian dolphin and beluga whale. Sleep Research; Lyamin, O., et al. (2008). Cetacean sleep: an unusual form of mammalian sleep. Neuroscience & Biobehavioral Reviews, 32(8).",
+  "seedElo": 1660
+ },
+ {
+  "id": "ziv-14",
+  "type": "F",
+  "category": "zivocichove",
+  "text": "Jak parazit Toxoplasma gondii ovlivňuje chování infikovaných hlodavců?",
+  "options": [
+   "Hlodavce zcela ochromí, takže se stanou pro predátory snadnou kořistí",
+   "Snižuje přirozenou averzi ke kočičí moči, čímž zvyšuje šanci na ulovení kočkou",
+   "Zvyšuje jejich plodnost, takže infikovaná populace hlodavců rychle roste",
+   "Nutí hlodavce vyhledávat vodu a topit se, jako někteří hostitelé hlístic"
+  ],
+  "correct": 1,
+  "explanation": "Toxoplasma gondii potřebuje ke svému pohlavnímu rozmnožování kočkovitou šelmu, a tak u nakažených hlodavců mění chování tak, aby se zvýšila pravděpodobnost jejich ulovení — konkrétně tlumí vrozený strach z pachu kočičí moči, místy jej dokonce mění v mírnou přitažlivost. Jde o klasický příklad parazitické manipulace chováním hostitele.",
+  "source": "Berdoy, M., Webster, J. P., & Macdonald, D. W. (2000). Fatal attraction in rats infected with Toxoplasma gondii. Proceedings of the Royal Society B, 267(1452).",
+  "seedElo": 1690
+ },
+ {
+  "id": "ziv-15",
+  "type": "F",
+  "category": "zivocichove",
+  "text": "Co dělá houba rodu Ophiocordyceps nakaženému mravenci, než z jeho těla vyroste plodnice?",
+  "options": [
+   "Mravenec zůstává v mraveništi a houba se šíří na ostatní dělníky přímým kontaktem v hnízdě",
+   "Houba mravence donutí vyšplhat na list ve vhodné výšce, zakousnout se a uhynout",
+   "Nakažený mravenec se stáhne hluboko pod zem, kde houba vyklíčí chráněná před vysycháním",
+   "Houba ovládne let mravence, který posléze v letu shazuje spory na okolní kolonii"
+  ],
+  "correct": 1,
+  "explanation": "Ophiocordyceps unilateralis přiměje nakaženého mravence opustit kolonii, vylézt na spodní stranu listu v přesně dané výšce a vlhkosti a zakousnout se do listové žilky v takzvaném „úchopu smrti“. Mravenec tam uhyne a z jeho hlavy později vyroste plodnice, která rozprašuje spory na mravence procházející pod listem.",
+  "source": "Andersen, S. B., et al. (2009). The life of a dead ant: the expression of an adaptive extended phenotype. The American Naturalist, 174(3); Hughes, D. P., et al. (2011). Behavioral mechanisms and morphological symptoms of zombie ants dying from fungal infection. BMC Ecology, 11.",
+  "seedElo": 1720
+ },
+ {
+  "id": "ziv-16",
+  "type": "F",
+  "category": "zivocichove",
+  "text": "Jaký smysl mají krysy, netopýři a někteří další savci a ptáci díky Jacobsonovu (vomeronazálnímu) orgánu, který člověku funkčně chybí?",
+  "options": [
+   "Schopnost vnímat ultrafialové světlo sítnicí, jako někteří ptáci a hmyz",
+   "Detekci feromonů a chemických signálů jiných jedinců, nezávisle na čichu",
+   "Přímé vnímání elektrických polí generovaných svaly kořisti, podobně jako u paryb",
+   "Echolokaci pomocí nízkofrekvenčních zvuků šířených přímo kostmi lebky"
+  ],
+  "correct": 1,
+  "explanation": "Vomeronazální orgán je samostatný chemoreceptorový systém v nosní dutině, který u mnoha savců (hlodavci, kočkovité šelmy) i některých plazů zachycuje feromony a předává informace do odlišné části mozku než běžný čich. U dospělého člověka je orgán rudimentární a funkčně prakticky neaktivní, což je u savců spíš výjimka.",
+  "source": "Halpern, M., & Martínez-Marcos, A. (2003). Structure and function of the vomeronasal system. Progress in Neurobiology, 70(3).",
+  "seedElo": 1750
+ },
+ {
+  "id": "ziv-17",
+  "type": "K",
+  "category": "zivocichove",
+  "text": "Někteří žraloci a rejnoci dokážou pomocí elektroreceptorů zvaných Lorenziniho ampule detekovat i slabá elektrická pole vytvářená svaly ukryté kořisti.",
+  "options": [
+   "Ano, dokážou takto spolehlivě detekovat kořist",
+   "Ne, nedokážou takto spolehlivě detekovat kořist",
+   "Platí to jen pro sladkovodní paryby, ne pro mořské",
+   "Lorenziniho ampule regulují jen tělesnou teplotu"
+  ],
+  "correct": 0,
+  "explanation": "Lorenziniho ampule jsou gelem vyplněné kanálky v čenichu žraloků a rejnoců, které zachycují nepatrná elektrická pole vznikající při svalové činnosti živočichů — díky tomu žralok najde i kořist zahrabanou v písku, kterou nevidí ani neucítí. Tento smysl mají paryby jak mořské, tak sladkovodní.",
+  "source": "Kalmijn, A. J. (1971). The electric sense of sharks and rays. Journal of Experimental Biology, 55(2).",
+  "seedElo": 1780
+ },
+ {
+  "id": "ziv-18",
+  "type": "F",
+  "category": "zivocichove",
+  "text": "Který živočich je podle dosavadních měření považován za nejrychlejší tvor na světě, uvážíme-li konkrétně rychlost pohybu vůči vlastní tělesné délce za sekundu?",
+  "options": [
+   "Gepard štíhlý při plném sprintu na otevřené africké savaně",
+   "Sokol stěhovavý při rychlém střemhlavém letu na kořist",
+   "Drobný roztoč Paratarsotomus, rychlejší poměrně k velikosti",
+   "Delfín skákavý při rychlém plavání v otevřeném oceánu"
+  ],
+  "correct": 2,
+  "explanation": "V absolutní rychlosti vede sokol stěhovavý (přes 300 km/h ve střemhlavém letu) a mezi suchozemskými savci gepard. Ale měřeno v tělesných délkách za sekundu drží rekord drobný roztoč rodu Paratarsotomus, který dosahuje přes 300 délek těla za sekundu — v přepočtu na lidskou velikost by to odpovídalo stovkám kilometrů za hodinu.",
+  "source": "Rubin, S., et al. (2016). Exceptional running and turning performance in a mite. Journal of Experimental Biology, 219(5).",
+  "seedElo": 1810
+ },
+ {
+  "id": "ziv-19",
+  "type": "F",
+  "category": "zivocichove",
+  "text": "Proč je krevetka kudlankovitá (Odontodactylus) zoologicky pozoruhodná jak úderem klepeta, tak zrakem?",
+  "options": [
+   "Jejím zrakovým orgánem je jediné oko na temeni hlavy, zatímco úder klepeta se používá pouze při páření",
+   "Klepetem udeří tak rychle, že vznikají kavitační bubliny, a oči vnímají i polarizované světlo",
+   "Nemá klepeta ani viditelné oči, orientuje se výhradně echolokací podobně jako netopýři",
+   "Její údery jsou pomalé, ale extrémně silné, srovnatelné se stiskem čelistí velkých žraloků"
+  ],
+  "correct": 1,
+  "explanation": "Krevetka kudlankovitá udeří klepetem tak rychle, že za ním vznikají kavitační bubliny, jejichž zánik uvolní teplo a tlakovou vlnu, která často kořist omráčí ještě před samotným dotykem. Její oči mají až šestnáct typů fotoreceptorů (člověk tři) a dokážou vnímat i polarizované světlo, ačkoli barevné rozlišování mozku je paradoxně hrubší, než by počet receptorů naznačoval.",
+  "source": "Patek, S. N., & Caldwell, R. L. (2005). Extreme impact and cavitation forces of a biological hammer. Journal of Experimental Biology, 208(19); Thoen, H. H., et al. (2014). A different form of color vision in mantis shrimp. Science, 343(6169).",
+  "seedElo": 1840
+ },
+ {
+  "id": "ziv-20",
+  "type": "F",
+  "category": "zivocichove",
+  "text": "Proč je grónská žralok polární (Somniosus microcephalus) unikátní z hlediska stárnutí obratlovců?",
+  "options": [
+   "Je jediným obratlovcem, který se fyziologicky vůbec nestárne",
+   "Datování čočky ukázalo věk stovek let, zralost kolem 150 let",
+   "Jeho stárnutí je extrémně rychlé, dožívá se jen několika let",
+   "Věk se u něj neurčuje biologicky, ale jen podle velikosti těla"
+  ],
+  "correct": 1,
+  "explanation": "Radiokarbonové datování bílkovinných vrstev v oční čočce (které se po narození dál nemění) u grónských žraloků odhalilo odhadovaný věk kolem 272 až 512 let u největších samic, což z nich dělá pravděpodobně nejdéle žijící obratlovce vůbec. Pohlavní dospělosti dosahují až kolem 150 let věku.",
+  "source": "Nielsen, J., et al. (2016). Eye lens radiocarbon reveals centuries of longevity in the Greenland shark. Science, 353(6300).",
+  "seedElo": 1870
+ }
+]

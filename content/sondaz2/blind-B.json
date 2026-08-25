@@ -1,0 +1,1002 @@
+[
+ {
+  "id": "dfi-01",
+  "text": "Řecký filosof Hérakleitos je proslulý výrokem, že do stejné řeky nevstoupíš dvakrát. Co tím chtěl hlavně vyjádřit?",
+  "options": [
+   "Že řeky jsou nebezpečné a člověk se má vyhýbat riziku",
+   "Že veškerá skutečnost je v neustálém plynutí a proměně",
+   "Že lidská paměť je nespolehlivá a klame nás",
+   "Že příroda se řídí přesnými matematickými zákony"
+  ]
+ },
+ {
+  "id": "dfi-02",
+  "text": "Sokratova metoda vedení rozhovoru, kdy kladenými otázkami pomáhal druhému 'porodit' vlastní poznání, se nazývá:",
+  "options": [
+   "Dialektika",
+   "Maieutika",
+   "Sofistika",
+   "Skepse"
+  ]
+ },
+ {
+  "id": "dfi-03",
+  "text": "V Platónově podobenství o jeskyni jsou spoutaní lidé, kteří vidí jen stíny na stěně. Co tyto stíny v podobenství symbolizují?",
+  "options": [
+   "Smyslově vnímaný svět, který považujeme mylně za plnou realitu",
+   "Sny, které nás matou a odvádějí od rozumu",
+   "Lži, které šíří politici k udržení moci",
+   "Umělecká díla, jež jsou jen napodobeninou skutečnosti"
+  ]
+ },
+ {
+  "id": "dfi-04",
+  "text": "Co jsou podle Platóna 'ideje'?",
+  "options": [
+   "Nápady a myšlenky, které si člověk vytváří ve fantazii",
+   "Dokonalé a neměnné vzory, jejichž nedokonalými odrazy jsou věci kolem nás",
+   "Matematické vzorce popisující pohyb těles",
+   "Boží přikázání zjevená prorokům"
+  ]
+ },
+ {
+  "id": "dfi-05",
+  "text": "Aristotelés na rozdíl od svého učitele Platóna tvrdil, že obecné formy (esence) věcí:",
+  "options": [
+   "Neexistují vůbec, jsou to jen slova",
+   "Existují jen v mysli boha, ne ve věcech",
+   "Existují vtělené v samotných jednotlivých věcech, ne v oddělené říši",
+   "Existují pouze v matematice a geometrii"
+  ]
+ },
+ {
+  "id": "dfi-06",
+  "text": "Stoikové i epikurejci hledali klid duše (ataraxii), ale radili k tomu odlišnou cestu. Jak se jejich přístupy zásadně lišily?",
+  "options": [
+   "Stoikové doporučovali smíření s osudem a ctnost, epikurejci střídmé, rozumné hledání slasti",
+   "Stoikové byli ateisté, epikurejci horliví věřící v bohy jednající ve světě",
+   "Stoikové odmítali veřejný život úplně, epikurejci naopak vyzývali k politické kariéře",
+   "Stoikové věřili v posmrtný život duše, epikurejci hlásali věčné převtělování"
+  ]
+ },
+ {
+  "id": "dfi-07",
+  "text": "Svatý Augustin se ve svých Vyznáních potýkal s otázkou, jak sladit svobodnou vůli člověka s existencí zla ve světě, který stvořil dobrý Bůh. K jakému řešení dospěl?",
+  "options": [
+   "Zlo je samostatná síla stejně mocná jako dobro a bojuje s ním o vládu nad světem",
+   "Zlo je jen nedostatek či absence dobra, ne samostatně existující věc",
+   "Bůh zlo záměrně stvořil, aby lidi zkoušel a trestal",
+   "Zlo neexistuje, je to pouze lidský omyl ve vnímání"
+  ]
+ },
+ {
+  "id": "dfi-08",
+  "text": "Tomáš Akvinský se pokusil o velké sloučení křesťanské teologie s filosofií jednoho starověkého myslitele. O koho šlo?",
+  "options": [
+   "Platóna",
+   "Aristotela",
+   "Epikúra",
+   "Pyrrhóna ze Élidy"
+  ]
+ },
+ {
+  "id": "dfi-09",
+  "text": "Descartova metoda radikální pochybnosti měla najít jistý, nezpochybnitelný základ poznání. K jakému závěru díky ní dospěl ve slavném výroku 'cogito, ergo sum'?",
+  "options": [
+   "Že jediná jistota je existence hmotného světa kolem nás",
+   "Že samotný akt pochybování dokazuje, že existuje myslící já, které pochybuje",
+   "Že Bůh je jediná bytost, o jejíž existenci nelze pochybovat",
+   "Že smysly nás nikdy neklamou, pokud jsme dostatečně pozorní"
+  ]
+ },
+ {
+  "id": "dfi-10",
+  "text": "Descartův dualismus tvrdí, že člověk se skládá ze dvou zásadně odlišných substancí. O jaké dvě substance jde?",
+  "options": [
+   "Dobro a zlo",
+   "Rozum a cit",
+   "Rozprostraněná věc (tělo) a myslící věc (mysl)",
+   "Vědomí a nevědomí"
+  ]
+ },
+ {
+  "id": "dfi-11",
+  "text": "Empirismus a racionalismus se v novověké filosofii rozcházely v základní otázce zdroje poznání. V čem spočíval jejich hlavní spor?",
+  "options": [
+   "Empirici věřili jen smyslům, racionalisté hledali poznání výhradně v rozumu a vrozených idejích",
+   "Empirici byli nábožensky založení, racionalisté byli přesvědčení ateisté",
+   "Empirici zkoumali přírodu, racionalisté se věnovali pouze etice a politice",
+   "Empirici odmítali matematiku, racionalisté ji považovali za jediný vzor vědy"
+  ]
+ },
+ {
+  "id": "dfi-12",
+  "text": "David Hume svou analýzou příčinnosti zpochybnil, že bychom mohli logicky dokázat, že jedna věc skutečně způsobuje druhou. Co podle něj ve skutečnosti pozorujeme, když mluvíme o příčině a následku?",
+  "options": [
+   "Skryté logické nutnosti mezi jevy, které lze matematicky odvodit",
+   "Boží vůli, jež propojuje jednotlivé události ve světě",
+   "Pouze pravidelné a opakované sledování dvou jevů za sebou, z čehož si mysl vytváří návyk",
+   "Fyzikální síly popsané přesnými vzorci, které jsou nezpochybnitelné"
+  ]
+ },
+ {
+  "id": "dfi-13",
+  "text": "Immanuel Kant se pokusil vyřešit spor mezi racionalismem a empirismem tvrzením, že naše poznání je utvářeno oběma zdroji zároveň. Jak to formuloval?",
+  "options": [
+   "Pojmy bez názorů jsou prázdné, názory bez pojmů jsou slepé",
+   "Rozum je nadřazen smyslům ve všech ohledech poznání",
+   "Smysly jsou jediným možným zdrojem veškerého poznání",
+   "Poznání je iluze, kterou si mysl vytváří sama pro sebe"
+  ]
+ },
+ {
+  "id": "dfi-14",
+  "text": "Kantův kategorický imperativ žádá, abychom jednali jen podle takové zásady, o níž si zároveň přejeme, aby se stala:",
+  "options": [
+   "Základem osobního štěstí za každou cenu",
+   "Zákonem uznávaným pouze naší vlastní kulturou",
+   "Obecným zákonem platným pro všechny",
+   "Tajemstvím, které si necháme jen pro sebe"
+  ]
+ },
+ {
+  "id": "dfi-15",
+  "text": "Kant zavedl pojem 'věc o sobě' (Ding an sich). Co tím měl na mysli?",
+  "options": [
+   "Věci, které si pouze vymýšlíme a fyzicky vůbec neexistují",
+   "Skutečnost tak, jak existuje nezávisle na našem vnímání a nikdy ji nepoznáme přímo",
+   "Předměty umělecké tvorby, které mají hodnotu samy o sobě",
+   "Boha jako jedinou skutečně existující bytost"
+  ]
+ },
+ {
+  "id": "dfi-16",
+  "text": "Hegelova dialektika popisuje vývoj myšlení a dějin jako proces, kdy se protikladné pozice postupně spojují ve vyšší celek. Jak se tento třídílný pohyb obvykle laicky označuje?",
+  "options": [
+   "Teze, antiteze, syntéza",
+   "Analýza, syntéza, kritika",
+   "Bytí, nicota, stávání",
+   "Příčina, důsledek, náhoda"
+  ]
+ },
+ {
+  "id": "dfi-17",
+  "text": "O Nietzschově filosofii koluje řada zjednodušení. Který výrok nejlépe odpovídá tomu, co Nietzsche skutečně tvrdil, na rozdíl od pozdější dezinterpretace jeho myšlenek?",
+  "options": [
+   "Prohlašoval, že silnější má právo fyzicky likvidovat slabší jedince i národy",
+   "Výrokem 'Bůh je mrtev' popisoval úpadek autority tradičních hodnot v moderní evropské kultuře, ne fyzickou smrt božstva",
+   "Byl horlivým zastáncem německého nacionalismu a rasové nadřazenosti",
+   "Zcela odmítal jakoukoli hodnotu umění a tvořivosti pro lidský život"
+  ]
+ },
+ {
+  "id": "dfi-18",
+  "text": "Kierkegaard bývá označován za předchůdce existencialismu. Čím se jeho důraz na 'skok víry' liší od racionálního zdůvodňování náboženské víry, jaké nabízel třeba Tomáš Akvinský?",
+  "options": [
+   "Kierkegaard považoval víru za rozumově zdůvodnitelnou stejně jako matematickou větu",
+   "Kierkegaard tvrdil, že opravdová víra vyžaduje osobní, vášnivé rozhodnutí přesahující meze rozumových důkazů",
+   "Kierkegaard víru zcela odmítal jako iracionální přežitek",
+   "Kierkegaard chápal víru jako společenskou konvenci bez osobního rozměru"
+  ]
+ },
+ {
+  "id": "dfi-19",
+  "text": "Sartrovo heslo, že 'existence předchází esenci', a Camusova myšlenka absurdna se oba řadí k existencialismu, ale kladou důraz jinam. V čem je hlavní rozdíl mezi jejich pozicemi?",
+  "options": [
+   "Sartre zdůrazňoval radikální svobodu a odpovědnost člověka za vlastní volby, Camus se soustředil na to, jak čelit absurdní nesmyslnosti světa bez sebevraždy či falešné útěchy",
+   "Sartre byl hluboce věřící katolík, Camus horlivý marxista",
+   "Sartre odmítal veškerou politickou angažovanost, Camus byl aktivním komunistickým politikem",
+   "Sartre tvrdil, že člověk se rodí s pevně danou podstatou, Camus to popíral"
+  ]
+ },
+ {
+  "id": "dfi-20",
+  "text": "Wittgenstein je klíčovou postavou analytické filosofie, jež se od kontinentální tradice liší mimo jiné důrazem na jazyk. Jak se zásadně proměnil jeho vlastní pohled na jazyk mezi ranou a pozdní fází jeho myšlení?",
+  "options": [
+   "Nejprve viděl jazyk jako přesný obraz logické struktury světa, později jej chápal jako soubor mnoha 'jazykových her' zakotvených v praktickém užívání",
+   "Nejprve odmítal, že by jazyk mohl vůbec cokoli vyjádřit, později tvrdil opak",
+   "Nejprve zastával, že jazyk je čistě individuální záležitostí, později že vůbec neexistuje soukromý jazyk jednotlivce",
+   "Nejprve se věnoval etice jazyka, později výhradně matematické logice"
+  ]
+ },
+ {
+  "id": "epi-01",
+  "text": "Klasická definice poznání říká, že poznání je pravdivé a zdůvodněné přesvědčení. Co přesně tato definice vyžaduje?",
+  "options": [
+   "Pravdivé přesvědčení, které je navíc zdůvodněné",
+   "Silné přesvědčení, kterému věříme bez pochyb",
+   "Cokoliv, co většina lidí považuje za fakt",
+   "Přesvědčení podložené jedním spolehlivým svědkem"
+  ]
+ },
+ {
+  "id": "epi-02",
+  "text": "Proč Gettierovy protipříklady z roku 1963 zpochybnily definici poznání jako pravdivé zdůvodněné přesvědčení?",
+  "options": [
+   "Ukázaly, že žádné zdůvodnění nemůže být nikdy zcela úplné",
+   "Ukázaly případy pravdivé, zdůvodněné víry, která je ale jen náhoda",
+   "Dokázaly, že objektivní pravda ve skutečnosti neexistuje",
+   "Prokázaly, že zdůvodnění je důležitější než samotná pravdivost"
+  ]
+ },
+ {
+  "id": "epi-03",
+  "text": "Co ukazuje myšlenkový experiment „mozek v kádi“ (napojený na simulaci, která mu předstírá běžný svět)?",
+  "options": [
+   "Že veškeré vědění pochází výhradně ze smyslů",
+   "Že mozek bez těla nedokáže vůbec myslet",
+   "Že klamný smyslový svět nelze s naprostou jistotou vyloučit, přestože se tím běžně nezabýváme",
+   "Že věda tuto možnost už jednou provždy vyvrátila"
+  ]
+ },
+ {
+  "id": "epi-04",
+  "text": "Co je induktivní usuzování v nejběžnějším smyslu?",
+  "options": [
+   "Odvození jednotlivého závěru z jedné obecné premisy",
+   "Vyvrácení teorie jediným protipříkladem",
+   "Přijetí závěru na základě autority mluvčího",
+   "Odvození obecného závěru z opakovaných jednotlivých pozorování"
+  ]
+ },
+ {
+  "id": "epi-05",
+  "text": "V čem přesně spočívá Humův „problém indukce“?",
+  "options": [
+   "V tom, že minulé opakování jevu logicky nezaručuje jeho opakování v budoucnu",
+   "V tom, že indukce funguje jen v matematice, ne v přírodních vědách",
+   "V tom, že Hume odmítal jakékoli pozorování jako zdroj vědění",
+   "V tom, že indukce vyžaduje přesnou znalost latinské terminologie"
+  ]
+ },
+ {
+  "id": "epi-06",
+  "text": "Co podle Karla Poppera odlišuje vědeckou teorii od nevědecké?",
+  "options": [
+   "Vědecká teorie musí být potvrzena velkým počtem pozorování",
+   "Vědecká teorie musí být v principu falzifikovatelná, tedy testovatelná tak, aby ji šlo vyvrátit",
+   "Vědecká teorie musí pocházet od uznávané akademické instituce",
+   "Vědecká teorie nesmí být nikdy zpochybněna novými daty"
+  ]
+ },
+ {
+  "id": "epi-07",
+  "text": "Jaké je časté omezení Popperovy falzifikace, na které poukázali pozdější filozofové vědy?",
+  "options": [
+   "Nedokáže rozlišit matematiku od přírodních věd",
+   "Zakazuje vědcům formulovat jakékoli nové hypotézy",
+   "Při neúspěšném experimentu není vždy jasné, zda selhala teorie, nebo jen pomocný předpoklad či měření",
+   "Vyžaduje okamžité zavržení teorie po prvním záporném výsledku"
+  ]
+ },
+ {
+  "id": "epi-08",
+  "text": "Co je hlavním problémem tzv. demarkace mezi vědou a pseudovědou?",
+  "options": [
+   "Věda je prý vždy definována množstvím peněz vložených do výzkumu",
+   "Pseudověda prý nikdy nepoužívá odbornou terminologii",
+   "Vědecké teorie se prý nikdy nesmí měnit",
+   "Přesnou ostrou hranici je těžké stanovit; užitečná jsou spíš vodítka jako testovatelnost a ochota teorii revidovat"
+  ]
+ },
+ {
+  "id": "epi-09",
+  "text": "Co Thomas Kuhn míní pojmem „paradigma“ ve vědě?",
+  "options": [
+   "Jednotlivý matematický vzorec užívaný ve fyzice",
+   "Sdílený rámec pojmů, metod a vzorových příkladů, v němž komunita vědců v dané době pracuje",
+   "Oficiální dokument popisující etiku výzkumu",
+   "Soubor experimentů, které jednou provždy potvrdily teorii"
+  ]
+ },
+ {
+  "id": "epi-10",
+  "text": "Co tvrdí korespondenční teorie pravdy?",
+  "options": [
+   "Že výrok je pravdivý, pokud zapadá do širšího systému jiných přesvědčení",
+   "Že pravda je věcí konsenzu odborné komunity",
+   "Že pravda je to, co je právě prakticky užitečné",
+   "Že výrok je pravdivý, pokud odpovídá skutečnému stavu věcí ve světě"
+  ]
+ },
+ {
+  "id": "epi-11",
+  "text": "Čím se koherenční teorie pravdy liší od korespondenční?",
+  "options": [
+   "Pravdivost výroku posuzuje podle jeho souladu s ostatními přesvědčeními v systému, ne podle přímé shody se světem",
+   "Tvrdí, že pravda vůbec neexistuje",
+   "Vyžaduje experimentální ověření úplně každého výroku",
+   "Ztotožňuje pravdu s tím, co tvrdí většina lidí"
+  ]
+ },
+ {
+  "id": "epi-12",
+  "text": "Co Occamova břitva doopravdy říká, přesněji než lidová verze „nejjednodušší vysvětlení je vždy správné“?",
+  "options": [
+   "Že jednodušší teorie je vždy automaticky ta pravdivá",
+   "Že vysvětlení s méně slovy je lepší bez ohledu na jeho obsah",
+   "Že mezi teoriemi se stejnou vysvětlovací silou dáváme přednost té s méně předpoklady",
+   "Že složité jevy nikdy nemají jednoduché příčiny"
+  ]
+ },
+ {
+  "id": "epi-13",
+  "text": "Jak bayesovské myšlení popisuje racionální reakci na nový důkaz?",
+  "options": [
+   "Nový důkaz by měl vždy zcela nahradit veškerá předchozí přesvědčení",
+   "Míru přesvědčení upravujeme postupně podle síly důkazu i podle toho, jak pravděpodobný byl závěr už předtím",
+   "Nové důkazy je třeba ignorovat, pokud odporují zavedené teorii",
+   "Přesvědčení se má měnit jen tehdy, když to nařídí uznávaná autorita"
+  ]
+ },
+ {
+  "id": "epi-14",
+  "text": "Co je konfirmační zkreslení (confirmation bias) a proč je z epistemologického hlediska nebezpečné?",
+  "options": [
+   "Tendence věřit pouze vědeckým časopisům s vysokým impakt faktorem",
+   "Sklon zapomínat úplně všechny informace bez ohledu na jejich obsah",
+   "Preference starších teorií před novějšími",
+   "Sklon vyhledávat a lépe si pamatovat informace, které potvrzují to, čemu už věříme, a přehlížet ty, jež tomu odporují"
+  ]
+ },
+ {
+  "id": "epi-15",
+  "text": "Podle čeho je rozumné posuzovat, zda věřit tvrzení experta?",
+  "options": [
+   "Podle shody napříč nezávislými odborníky v oboru a toho, zda jde skutečně o jejich úzkou specializaci",
+   "Podle toho, jak sebejistě expert mluví",
+   "Podle počtu sledujících na sociálních sítích",
+   "Podle toho, zda se tvrzení shoduje s naším dosavadním názorem"
+  ]
+ },
+ {
+  "id": "epi-16",
+  "text": "V čem je vnitřní problém silného epistemického relativismu, tedy tvrzení, že „všechny názory na pravdu jsou stejně platné“?",
+  "options": [
+   "Nedá se prý vůbec formulovat žádným jazykem",
+   "Odporuje logice jen v matematice, jinde funguje bez problémů",
+   "Sama tato teze si nárokuje obecnou, nikoli jen relativní platnost, čímž si protiřečí",
+   "Byl už jednou provždy vyvrácen jediným laboratorním experimentem"
+  ]
+ },
+ {
+  "id": "epi-17",
+  "text": "Co znamená takzvaná „krize reprodukovatelnosti“ ve vědě?",
+  "options": [
+   "Že vědci přestali své výsledky publikovat",
+   "Že experimenty jsou příliš drahé na to, aby se vůbec opakovaly",
+   "Že nová zjištění musí být okamžitě přijata bez jakéhokoli ověřování",
+   "Že značná část publikovaných výsledků se při nezávislém opakování experimentu nepodařila potvrdit"
+  ]
+ },
+ {
+  "id": "epi-18",
+  "text": "Co Kuhn míní „nesouměřitelností“ (incommensurability) paradigmat během vědecké revoluce?",
+  "options": [
+   "Že staré a nové paradigma lze vždy přesně a beze zbytku přeložit jedno do druhého",
+   "Že zastánci odlišných paradigmat mohou částečně jinak chápat i tytéž pojmy a data, takže přímé srovnání „kdo má pravdu“ není jednoduché",
+   "Že vědecké revoluce probíhají výhradně formálním hlasováním komise",
+   "Že nové paradigma je vždy prokazatelně horší než to staré"
+  ]
+ },
+ {
+  "id": "epi-19",
+  "text": "Proč lidé při hodnocení pravděpodobnosti výsledku testu na vzácnou nemoc často chybují, i když znají udávanou přesnost testu?",
+  "options": [
+   "Protože testy na nemoci jsou vždy zcela nespolehlivé",
+   "Protože se přesnost testu v čase nepředvídatelně mění",
+   "Protože podceňují nebo ignorují výchozí míru výskytu jevu v populaci, tzv. base rate fallacy",
+   "Protože lékaři záměrně uvádějí zavádějící čísla"
+  ]
+ },
+ {
+  "id": "epi-20",
+  "text": "Co tvrdí teze o poddeterminovanosti teorie důkazy (underdetermination of theory by evidence)?",
+  "options": [
+   "Že týž soubor pozorovacích dat může v principu odpovídat více vzájemně neslučitelným teoriím, takže data sama o sobě mezi nimi jednoznačně nerozhodnou",
+   "Že vědecké teorie nikdy nelze nijak testovat",
+   "Že veškerá naměřená data jsou vždy chybná",
+   "Že v dané chvíli může daná data vysvětlit jen jedna jediná teorie"
+  ]
+ },
+ {
+  "id": "eti-01",
+  "text": "Podle utilitarismu Jeremyho Benthama je morálně správné to jednání, které...",
+  "options": [
+   "odpovídá vůli Boží zjevené v posvátných textech",
+   "je v souladu s tradičními zvyky dané společnosti",
+   "přináší největší součet štěstí pro největší počet lidí",
+   "vyplývá z racionální povinnosti nezávislé na důsledcích"
+  ]
+ },
+ {
+  "id": "eti-02",
+  "text": "John Stuart Mill oproti Benthamovi tvrdil, že...",
+  "options": [
+   "některá potěšení, například intelektuální a duchovní, mají vyšší kvalitu než jiná, nejen větší množství",
+   "veškerá potěšení jsou kvalitativně naprosto rovnocenná a liší se pouze intenzitou",
+   "štěstí se vůbec nedá poměřovat, a proto je celý utilitarismus neplatný",
+   "je vždy lepší žít jako spokojené zvíře než jako nespokojený člověk"
+  ]
+ },
+ {
+  "id": "eti-03",
+  "text": "Lhaní by v jednotlivém případě přineslo víc štěstí než pravda. Stoupenec pravidlového (rule) utilitarismu jednání typicky posuzuje jinak než stoupenec činového (act) utilitarismu, protože...",
+  "options": [
+   "považuje lhaní za hřích samo o sobě, bez ohledu na jakékoli důsledky",
+   "hodnotí jen okamžitý užitek tohoto konkrétního činu, nikoli obecné pravidlo",
+   "věří, že lidé mají od přírody dané právo slyšet vždy pravdu",
+   "ptá se, zda by obecné dodržování pravidla „nelži“ přineslo víc užitku než jeho časté porušování"
+  ]
+ },
+ {
+  "id": "eti-04",
+  "text": "Pro Immanuela Kanta je mravní hodnota jednání dána především...",
+  "options": [
+   "příjemnými důsledky, které jednání přináší tomu, kdo jedná",
+   "dobrou vůlí a tím, že jednáme z povinnosti, nikoli kvůli výsledku",
+   "souhlasem většiny společnosti s daným konkrétním činem",
+   "mírou celkového štěstí, kterou jednání vyvolá u ostatních lidí"
+  ]
+ },
+ {
+  "id": "eti-05",
+  "text": "Chcete si vypůjčit peníze se slibem je vrátit, ačkoli víte, že slib nedodržíte. Podle Kantova kategorického imperativu je takové jednání nepřípustné především proto, že...",
+  "options": [
+   "vám přinese krátkodobý prospěch na úkor věřitele",
+   "porušuje konkrétní zákon daného státu o půjčkách",
+   "maxima „slibuj křivě, kdykoli se ti to hodí“ nemůže být bez rozporu univerzalizována jako obecný zákon",
+   "věřitel by s tímto jednáním po zjištění pravdy jistě nesouhlasil"
+  ]
+ },
+ {
+  "id": "eti-06",
+  "text": "Aristotelés chápe ctnost, například odvahu, jako...",
+  "options": [
+   "střední cestu mezi dvěma krajními vadami, tedy mezi zbabělostí a bezhlavou smělostí",
+   "přísné dodržování univerzálních mravních zákonů platných bez výjimky",
+   "kalkulaci, která má maximalizovat celkové štěstí ve společnosti",
+   "poslušnost vůči autoritě, jež je vždy moudřejší než jednotlivec"
+  ]
+ },
+ {
+  "id": "eti-07",
+  "text": "Klasický trolley problém, kdy přehozením výhybky zabijete jednoho člověka místo pěti, slouží filosofům především k tomu, aby...",
+  "options": [
+   "jednou provždy dokázal, že utilitarismus je jedinou racionálně obhajitelnou etickou teorií",
+   "ukázal, že lidé jsou v krizových situacích prakticky neschopni jakkoli jednat",
+   "otestoval, jak dobře respondenti znají trestněprávní předpisy své země",
+   "prozkoumal rozdíl mezi mravní intuicí o přímém způsobení újmy a pouhém dopuštění újmy"
+  ]
+ },
+ {
+  "id": "eti-08",
+  "text": "Ve variantě „tlustý muž“ (shodit cizince z mostu, aby zastavil vozík a zachránil pět lidí) mnoho lidí odmítá jednat, i když je zachráněných stejně jako u klasické výhybky. Tento rozdíl v intuicích ukazuje, že...",
+  "options": [
+   "lidé si v této variantě prostě spletou počet obětí a udělají matematickou chybu",
+   "naše intuice rozlišuje mezi nepřímým způsobením smrti a jejím použitím jako přímého prostředku k záchraně",
+   "utilitarismus je v obou variantách jednoznačně a všemi stejně odmítán",
+   "trolley problémy nemají v etice žádný praktický ani teoretický význam"
+  ]
+ },
+ {
+  "id": "eti-09",
+  "text": "Morální realista na rozdíl od antirealisty tvrdí, že...",
+  "options": [
+   "morální soudy jsou vždy jen výrazem osobního vkusu mluvčího",
+   "etika je čistě záležitostí kulturní konvence bez jakékoli další opory",
+   "existují objektivní morální fakta, pravdivá nezávisle na tom, co si kdo myslí",
+   "o morálních otázkách nemá smysl vůbec racionálně diskutovat"
+  ]
+ },
+ {
+  "id": "eti-10",
+  "text": "Humova gilotina upozorňuje na logickou chybu, kdy někdo...",
+  "options": [
+   "odvozuje, co by mělo být (ought), pouze z popisu toho, jak věci jsou (is), bez dalšího zdůvodnění",
+   "popírá, že by fakta o okolním světě vůbec mohla existovat",
+   "zaměňuje příčinu jednání za jeho pozdější následek",
+   "tvrdí, že rozum a city jsou vždy nutně ve vzájemném souladu"
+  ]
+ },
+ {
+  "id": "eti-11",
+  "text": "Podle Thomase Hobbese lidé v „přirozeném stavu“ bez státu žijí ve „válce všech proti všem“, a proto...",
+  "options": [
+   "odmítají jakoukoli formu vlády jako zbytečnou a nepřirozenou",
+   "spoléhají na vrozenou dobrotu, která konflikty sama od sebe vyřeší",
+   "vytvářejí přímou demokracii založenou na rovném hlasování všech",
+   "racionálně souhlasí odevzdat část svobody silnému suverénovi výměnou za bezpečí"
+  ]
+ },
+ {
+  "id": "eti-12",
+  "text": "Rawlsův myšlenkový experiment se „závojem nevědomosti“ má lidem navrhujícím pravidla společnosti zabránit v tom, aby...",
+  "options": [
+   "vůbec znali samotný pojem spravedlnosti a mohli o něm uvažovat",
+   "zvýhodnili pravidla podle svého budoucího postavení, protože neznají svou pozici ve společnosti",
+   "hlasovali o pravidlech tajně místo veřejně a transparentně",
+   "se při tvorbě zákonů řídili náboženskými zásadami"
+  ]
+ },
+ {
+  "id": "eti-13",
+  "text": "Etika péče (care ethics), spojovaná mimo jiné s Carol Gilligan, klade oproti abstraktním principům důraz na...",
+  "options": [
+   "přísné univerzální zákony platné beze změny a bez výjimky pro všechny lidi",
+   "matematickou kalkulaci celkového užitku, kterou lze uplatnit ve společnosti",
+   "konkrétní vztahy, závislost a odpovědnost, které lidé mají jeden vůči druhému",
+   "individuální svobodu jednotlivce chápanou nezávisle na druhých lidech"
+  ]
+ },
+ {
+  "id": "eti-14",
+  "text": "Dva stejně opilí řidiči jedou stejně nebezpečně, jeden ale srazí chodce, druhý dojede bez nehody. Pojem „morální štěstí“ (moral luck) poukazuje na to, že...",
+  "options": [
+   "naše mravní hodnocení činu se mění podle náhodného výsledku, i když samotné jednání bylo stejné",
+   "pouze ten, kdo způsobil nehodu, jednal ve skutečnosti opile",
+   "trest by měl být u obou řidičů úplně stejný, protože zákon náhodu vůbec nezná",
+   "štěstí a smůla jsou v etickém uvažování zcela irelevantní pojmy"
+  ]
+ },
+ {
+  "id": "eti-15",
+  "text": "Zastánci efektivního altruismu doporučují dárcům, aby...",
+  "options": [
+   "darovali výhradně na projekty a organizace ve své vlastní zemi",
+   "vybírali organizaci hlavně podle toho, která má nejdojemnější reklamní kampaň",
+   "rozdělili svůj dar rovnoměrně mezi co nejvíce různých neziskových organizací",
+   "pomocí dat a důkazů zjišťovali, která intervence zachrání nejvíce životů či zmírní nejvíce utrpení na vydaný dolar"
+  ]
+ },
+ {
+  "id": "eti-16",
+  "text": "Kritici efektivního altruismu namítají, že přílišný důraz na měřitelnou efektivitu může...",
+  "options": [
+   "vést k tomu, že lidé kvůli tomu přestanou darovat úplně",
+   "podceňovat hodnotu blízkých vztahů, lokální angažovanosti a těžko měřitelných forem dobra",
+   "jednoznačně dokázat, že žádná forma charitativní pomoci nemá smysl",
+   "být zcela totéž jako klasický utilitarismus, bez jakéhokoli rozdílu mezi nimi"
+  ]
+ },
+ {
+  "id": "eti-17",
+  "text": "Terminálně nemocný pacient trpící bolestmi žádá o asistovanou smrt. Z hlediska striktní kantovské deontologie, která zdůrazňuje bezvýjimečnou povinnost nezabíjet nevinného, je takové jednání...",
+  "options": [
+   "přípustné, pokud si to pacient sám racionálně přeje a dá k tomu jasný souhlas",
+   "posuzováno výhradně podle toho, kolik utrpení tímto jednáním celkově ubude",
+   "nepřípustné, protože porušuje bezvýjimečnou povinnost nezabíjet, bez ohledu na motiv či souhlas",
+   "závislé jen na tom, co v dané zemi zrovna stanoví platný zákon"
+  ]
+ },
+ {
+  "id": "eti-18",
+  "text": "Přítel se ošklivě ostříhal a ptá se, zda se mu to líbí. Lhaní „je to skvělé“ by mu udělalo radost. Z hlediska Kantovy etiky je takové lhaní problematické, i kdyby bylo z hlediska utilitarismu prospěšné, protože...",
+  "options": [
+   "Kant považuje lhaní za porušení povinnosti k pravdivosti, kterou nelze univerzalizovat bez rozporu, ať jsou důsledky jakékoli",
+   "utilitarismus lhaní vždy zcela zakazuje úplně stejně přísně jako Kant",
+   "přítel by pravdu o svém účesu stejně brzy sám uhodl",
+   "Kant se ve svých spisech otázkou lhaní vůbec nikdy nezabýval"
+  ]
+ },
+ {
+  "id": "eti-19",
+  "text": "Psycholog Jonathan Haidt na základě výzkumu tvrdí, že mravní úsudky u lidí obvykle vznikají...",
+  "options": [
+   "výhradně logickou dedukcí z etických principů, které si člověk předem promyslel",
+   "zcela náhodně a bez jakékoli souvislosti s emocemi",
+   "pouze na základě náboženské výchovy, jinak vůbec nevznikají",
+   "nejprve jako rychlá intuitivní a emocionální reakce, kterou si rozum až následně racionalizuje zdůvodněním"
+  ]
+ },
+ {
+  "id": "eti-20",
+  "text": "Firma může buď investovat do bezpečnějších, ale dražších strojů, které zachrání pár životů za vysokou cenu na hlavu, nebo tytéž peníze věnovat na prevenci nemocí v chudých zemích, kde zachrání mnohem víc životů za stejnou cenu. Striktní utilitarista by z hlediska maximalizace celkového užitku doporučil druhou možnost, zatímco zastánce etiky ctností by mohl namítnout, že...",
+  "options": [
+   "obě možnosti jsou eticky zcela rovnocenné a na volbě vůbec nezáleží",
+   "čistě číselná kalkulace přehlíží otázku charakteru rozhodujících lidí a jejich odpovědnosti vůči vlastním zaměstnancům",
+   "firma nemá vůbec žádnou morální povinnost cokoli v této věci řešit",
+   "jedině dodržení litery zákona je v této situaci eticky relevantní"
+  ]
+ },
+ {
+  "id": "log-01",
+  "text": "Všechny kočky jsou savci. Whiskers je kočka. Co z toho logicky plyne?",
+  "options": [
+   "Whiskers je savec.",
+   "Whiskers je pes.",
+   "Whiskers není savec.",
+   "Nelze nic usoudit."
+  ]
+ },
+ {
+  "id": "log-02",
+  "text": "Žádný plaz není teplokrevný živočich. Někteří hadi jsou plazi. Co z toho logicky plyne?",
+  "options": [
+   "Všichni hadi jsou teplokrevní.",
+   "Někteří hadi nejsou teplokrevní.",
+   "Žádný had není plaz.",
+   "Nelze nic usoudit o hadech."
+  ]
+ },
+ {
+  "id": "log-03",
+  "text": "Petr je vyšší než Jana. Jana je vyšší než Karel. Kdo je ze tří jmenovaných nejnižší?",
+  "options": [
+   "Petr.",
+   "Karel.",
+   "Jana.",
+   "Nelze určit."
+  ]
+ },
+ {
+  "id": "log-04",
+  "text": "Otec má pět synů a každý ze synů má přesně jednu sestru (tutéž pro všechny syny). Kolik dětí má otec celkem?",
+  "options": [
+   "5 dětí.",
+   "10 dětí.",
+   "6 dětí.",
+   "4 děti."
+  ]
+ },
+ {
+  "id": "log-05",
+  "text": "Na ostrově žijí jen rytíři, kteří vždy mluví pravdu, a lháři, kteří vždy lžou. Potkáte dva obyvatele, A a B. A řekne: 'Alespoň jeden z nás dvou je lhář.' Kým jsou A a B?",
+  "options": [
+   "Oba jsou rytíři.",
+   "Oba jsou lháři.",
+   "A je lhář, B je rytíř.",
+   "A je rytíř, B je lhář."
+  ]
+ },
+ {
+  "id": "log-06",
+  "text": "V jedné vesnici žije holič, muž z téže vesnice, který holí právě ty muže vesnice, kteří se neholí sami - a jen ty. Kdo holí holiče?",
+  "options": [
+   "Holič holí sám sebe, protože se neholí sám.",
+   "Holič se holí u souseda.",
+   "Taková situace vede ke sporu - holič podle zadání nemůže existovat.",
+   "Holič si holí vousy podle dne v týdnu."
+  ]
+ },
+ {
+  "id": "log-07",
+  "text": "Máte 3 vzhledově identické mince, jedna je falešná a lehčí než ostatní dvě (které váží stejně). Kolik nejméně vážení na rovnoramenných vahách stačí, abyste falešnou minci najisto našli?",
+  "options": [
+   "0 vážení.",
+   "1 vážení.",
+   "2 vážení.",
+   "3 vážení."
+  ]
+ },
+ {
+  "id": "log-08",
+  "text": "Stojíte na rozcestí dvou cest - jedna vede do bezpečného města, druhá do nebezpečné bažiny. Potkáte domorodce, o kterém víte jen to, že buď vždy mluví pravdu, nebo vždy lže (nevíte který typ to je). Smíte mu položit jedinou otázku s odpovědí ano/ne. Jak se zeptat, abyste se s jistotou dozvěděli, která cesta vede do města?",
+  "options": [
+   "Zeptáte se: 'Je tahle cesta bezpečná?' a uvěříte odpovědi.",
+   "Zeptáte se: 'Jsi rytíř?' a podle odpovědi poznáte cestu.",
+   "Zeptáte se: 'Vedla by mě tahle cesta do města, kdybych se zeptal opačného typu obyvatele?' a půjdete opačným směrem, než odpoví.",
+   "Zeptáte se: 'Miluješ pravdu?' a podle tónu hlasu poznáte cestu."
+  ]
+ },
+ {
+  "id": "log-09",
+  "text": "Máte 8 vzhledově identických mincí, jedna je falešná a lehčí, ostatní váží stejně. Kolik nejméně vážení na rovnoramenných vahách je potřeba, abyste falešnou minci najisto našli?",
+  "options": [
+   "4 vážení.",
+   "3 vážení.",
+   "1 vážení.",
+   "2 vážení."
+  ]
+ },
+ {
+  "id": "log-10",
+  "text": "Alice, Bob a Karel mají na hlavě klobouk - buď červený, nebo modrý. Každý vidí klobouky obou ostatních, ale ne svůj vlastní. Je oznámeno, že dohromady jsou přesně dva červené klobouky a jeden modrý. Alice vidí, že Bob má červený klobouk a Karel má modrý klobouk. Jakou barvu má klobouk Alice?",
+  "options": [
+   "Červený.",
+   "Modrý.",
+   "Nelze určit.",
+   "Nemá žádnou barvu."
+  ]
+ },
+ {
+  "id": "log-11",
+  "text": "V Zénonově paradoxu Achilles nikdy nedostihne pomalejší želvu, protože než doběhne tam, kde želva byla, ona mezitím popoleze o kousek dál - a to se opakuje do nekonečna. V čem spočívá standardní matematické rozuzlení tohoto paradoxu?",
+  "options": [
+   "Achilles ve skutečnosti želvu nikdy nedostihne, paradox je pravdivý.",
+   "Nekonečná řada čím dál kratších časových úseků má konečný součet, takže Achilles želvu dostihne v konečném čase.",
+   "Prostor je nespojitý, takže se Achilles a želva nikdy nepotkají v jednom bodě.",
+   "Paradox platí jen pro nekonečně rychlé želvy, což je fyzikálně nemožné."
+  ]
+ },
+ {
+  "id": "log-12",
+  "text": "Uvažte výrok: 'Tento výrok je nepravdivý.' V čem spočívá jádro paradoxu lháře, který tento výrok představuje?",
+  "options": [
+   "Výrok je jednoznačně pravdivý, protože sám sebe potvrzuje.",
+   "Výrok je nesmyslný, a proto nemá logickou hodnotu, což problém zcela odstraňuje.",
+   "Výrok je jednoznačně nepravdivý, protože mluví sám o sobě.",
+   "Výrok nelze konzistentně označit ani za pravdivý, ani za nepravdivý - obě možnosti vedou ke sporu."
+  ]
+ },
+ {
+  "id": "log-13",
+  "text": "Tři lidé, A, B a C, jsou buď rytíři (mluví vždy pravdu), nebo lháři (vždy lžou). A řekne: 'B je lhář.' B řekne: 'A a C jsou stejného typu (oba rytíři, nebo oba lháři).' Kým je C?",
+  "options": [
+   "C je rytíř.",
+   "C může být oboje, nelze určit.",
+   "C je lhář.",
+   "C je stejného typu jako B."
+  ]
+ },
+ {
+  "id": "log-14",
+  "text": "Loď Theseova: postupně se vymění úplně všechna prkna lodi za nová, jedno po druhém, až žádné z původních prken nezůstane. V čem spočívá jádro tohoto paradoxu?",
+  "options": [
+   "Ukazuje, že objekt fyzicky nikdy nemůže být vyměněn, aniž by zanikl.",
+   "Zpochybňuje, podle jakého kritéria usuzujeme, že je něco 'touž' věcí v čase navzdory kompletní výměně hmoty.",
+   "Dokazuje, že žádná loď ve skutečnosti nikdy neexistuje jako jeden celek.",
+   "Řeší se tím, že prkna se prostě nesmí vyměňovat, jinak jde vždy o jinou loď."
+  ]
+ },
+ {
+  "id": "log-15",
+  "text": "Máte 9 vzhledově identických mincí, jedna je falešná a lehčí, ostatní váží stejně. Kolik nejméně vážení na rovnoramenných vahách stačí, abyste falešnou minci najisto našli?",
+  "options": [
+   "2 vážení.",
+   "4 vážení.",
+   "3 vážení.",
+   "1 vážení."
+  ]
+ },
+ {
+  "id": "log-16",
+  "text": "Ve skladu je celkem 5 klobouků: 3 černé a 2 bílé. Dozorce nasadí každému ze tří vězňů A, B, C jeden klobouk a zbylé dva schová, aniž by je kdokoli viděl. Každý vězeň vidí klobouky obou ostatních, ale ne svůj vlastní, a všichni znají složení skladu (3 černé, 2 bílé). Vězeň A řekne: 'Nevím, jakou mám barvu.' Vězeň B pak řekne: 'Já taky nevím.' Co z toho může logicky usoudit vězeň C o barvě svého klobouku?",
+  "options": [
+   "C nemůže usoudit vůbec nic o vlastní barvě.",
+   "C usoudí, že jeho klobouk je bílý.",
+   "C usoudí, že jeho klobouk je černý.",
+   "C usoudí, že A a B mají stejnou barvu jako on."
+  ]
+ },
+ {
+  "id": "log-17",
+  "text": "V televizní hře jsou tři zavřené dveře, za jedněmi je auto, za dalšíma dvěma kozy. Vyberete dveře č. 1. Moderátor, který vždy ví, kde je auto, a vždy otevře jiné dveře s kozou (nikdy vaše dveře, nikdy dveře s autem), otevře dveře č. 3 a odhalí kozu. Poté vám nabídne možnost změnit volbu na dveře č. 2. Je výhodnější zůstat u dveří č. 1, přejít na dveře č. 2, nebo je to jedno?",
+  "options": [
+   "Přejít na dveře č. 2 - pravděpodobnost výhry se přechodem zvýší na 2/3.",
+   "Zůstat u dveří č. 1 - pravděpodobnost výhry je stejná jako u přechodu.",
+   "Je to jedno, obě volby mají pravděpodobnost 1/2.",
+   "Zůstat u dveří č. 1 - má vyšší pravděpodobnost výhry než přechod."
+  ]
+ },
+ {
+  "id": "log-18",
+  "text": "A, B a C jsou buď rytíři (mluví vždy pravdu), nebo lháři (vždy lžou). A řekne: 'Všichni tři jsme lháři.' B řekne: 'Přesně jeden z nás je rytíř.' Kým jsou A, B a C?",
+  "options": [
+   "A rytíř, B lhář, C rytíř.",
+   "Všichni tři jsou lháři.",
+   "A lhář, B lhář, C rytíř.",
+   "A lhář, B rytíř, C lhář."
+  ]
+ },
+ {
+  "id": "log-19",
+  "text": "Přídavné jméno nazveme 'heterologické', pokud samo sebe nepopisuje (např. slovo 'dlouhé' je heterologické, protože ono samo dlouhé není; slovo 'české' je autologické, protože je to skutečně české slovo). Je slovo 'heterologické' samo heterologické?",
+  "options": [
+   "Ani jedna odpověď nejde přiřadit konzistentně - obě vedou ke sporu, stejně jako u paradoxu lháře.",
+   "Ano, jednoznačně je heterologické.",
+   "Ne, jednoznačně je autologické.",
+   "Otázka je nesmyslná, protože přídavná jména nemohou popisovat sama sebe."
+  ]
+ },
+ {
+  "id": "log-20",
+  "text": "Máte 12 vzhledově identických mincí. Přesně jedna je falešná a liší se váhou od ostatních, ale nevíte, jestli je lehčí, nebo těžší. Kolik nejméně vážení na rovnoramenných vahách je potřeba, abyste s jistotou našli falešnou minci (nemusíte určit, zda je lehčí, nebo těžší)?",
+  "options": [
+   "2 vážení.",
+   "4 vážení.",
+   "5 vážení.",
+   "3 vážení."
+  ]
+ },
+ {
+  "id": "ai-01",
+  "text": "Kde a kdy padl termín „umělá inteligence“ jako název oboru?",
+  "options": [
+   "Na konferenci v Curychu roku 1961",
+   "Na konferenci v Dartmouthu roku 1956",
+   "V Turingově článku z roku 1950",
+   "Na semináři v Kjótu roku 1962"
+  ]
+ },
+ {
+  "id": "ai-02",
+  "text": "Co Alan Turing ve svém slavném testu z roku 1950 doopravdy navrhl?",
+  "options": [
+   "Změřit rychlost výpočtu proti mozku",
+   "Zjistit, zda se stroj pozná v zrcadle",
+   "Porovnat skóre stroje a člověka v IQ testu",
+   "Hru, kde tazatel rozezná stroj od člověka"
+  ]
+ },
+ {
+  "id": "ai-03",
+  "text": "V roce 1997 prohrál v šachovém zápase se strojem tehdejší mistr světa. Jak se program jmenoval?",
+  "options": [
+   "Program Deep Blue vyvinutý firmou IBM",
+   "Program Stockfish od vývojářské komunity",
+   "Program AlphaZero od firmy DeepMind",
+   "Program Fritz od firmy ChessBase"
+  ]
+ },
+ {
+  "id": "ai-04",
+  "text": "Co se označuje jako „AI zima“?",
+  "options": [
+   "Roční období tréninku silných modelů",
+   "Soutěž amerických a japonských laboratoří",
+   "Útlum zájmu o AI po nesplněných slibech",
+   "Snížení parametru teploty u modelu"
+  ]
+ },
+ {
+  "id": "ai-05",
+  "text": "Proč se tah č. 37 AlphaGo ve druhé partii proti Lee Sedolovi (2016) stal slavným?",
+  "options": [
+   "Byl to první tah, který stroj v go zahrál",
+   "Byl to tah, co lidé pokládali za chybu",
+   "Stroj ho zahrál náhodně kvůli chybě v kódu",
+   "Byl to tah, kterým soupeř partii vyhrál"
+  ]
+ },
+ {
+  "id": "ai-06",
+  "text": "Co je to „váha“ (weight) v neuronové síti?",
+  "options": [
+   "Velikost souboru s uloženým modelem",
+   "Počet vrstev mezi vstupem a výstupem",
+   "Míra jistoty, se kterou model odpovídá",
+   "Síla, s jakou jeden neuron ovlivní druhý"
+  ]
+ },
+ {
+  "id": "ai-07",
+  "text": "Co laicky dělá algoritmus gradientního sestupu při trénování sítě?",
+  "options": [
+   "Mění váhy směrem, který snižuje chybu",
+   "Náhodně prohazuje vrstvy sítě dokola",
+   "Přidává nové neurony, dokud chyba neklesne",
+   "Kopíruje váhy z jiného, hotového modelu"
+  ]
+ },
+ {
+  "id": "ai-08",
+  "text": "Jak jazykový model (LLM) v zásadě generuje text?",
+  "options": [
+   "Vyhledává hotové věty v databázi textů",
+   "Převádí zadání na logická pravidla",
+   "Odhaduje pravděpodobnost dalšího tokenu",
+   "Kopíruje nejbližší dokument z internetu"
+  ]
+ },
+ {
+  "id": "ai-09",
+  "text": "Proč jazykové modely „halucinují“, tedy sebejistě tvrdí nepravdivé věci?",
+  "options": [
+   "Modely mívají poruchu paměti jako člověk",
+   "Vždy volí nejpravděpodobnější pokračování",
+   "Vývojáři do nich nepravdy vkládají schválně",
+   "Chyba se týká jen velmi malých modelů"
+  ]
+ },
+ {
+  "id": "ai-10",
+  "text": "Jaký je hlavní rozdíl mezi trénováním a inferencí u jazykového modelu?",
+  "options": [
+   "Trénink běží na telefonu, inference v cloudu",
+   "Inference je starší technika než trénink",
+   "Trénink se týká textu, inference obrázků",
+   "Trénink upraví váhy, inference je jen použije"
+  ]
+ },
+ {
+  "id": "ai-11",
+  "text": "Co je to embedding (vektorová reprezentace)?",
+  "options": [
+   "Vektor, kde podobné významy jsou si blízké",
+   "Šifrovací klíč pro ochranu trénovacích dat",
+   "Postup pro škálování modelu na více karet",
+   "Šablona, do které se vkládá dotaz uživatele"
+  ]
+ },
+ {
+  "id": "ai-12",
+  "text": "Co laicky dělá mechanismus attention (pozornost) v transformeru?",
+  "options": [
+   "Vybere jedno slovo a zbytek věty zahodí",
+   "Zrychlí trénink tím, že čte text odzadu",
+   "Spočítá důležitost každého slova pro dané",
+   "Zkontroluje gramatiku výstupu před odesláním"
+  ]
+ },
+ {
+  "id": "ai-13",
+  "text": "Co znamená zkratka RLHF, používaná při doladění chatovacích modelů?",
+  "options": [
+   "Rychlé učení s vysokou frekvencí úprav",
+   "Posilované učení z preferencí lidí",
+   "Redukce modelu hardwarovou optimalizací",
+   "Kontrola faktů proti externí databázi"
+  ]
+ },
+ {
+  "id": "ai-14",
+  "text": "Čím je průlomový systém AlphaFold od DeepMind?",
+  "options": [
+   "Skládá hudbu ve stylu daného skladatele",
+   "Předpovídá počasí přesněji než meteorologie",
+   "Navrhuje nové sloučeniny pro baterie",
+   "Předpovídá 3D tvar bílkovin ze sekvence"
+  ]
+ },
+ {
+  "id": "ai-15",
+  "text": "Jaký systém a rok se považují za milník, který odstartoval boom hlubokého učení v počítačovém vidění?",
+  "options": [
+   "AlexNet, vítěz soutěže ImageNet z roku 2012",
+   "Klasifikátor MNIST pro číslice z roku 1998",
+   "Systém Viola-Jones pro detekci tváří z 2001",
+   "Model CLIP propojující obrázky s textem z 2021"
+  ]
+ },
+ {
+  "id": "ai-16",
+  "text": "Co přesně znamená pojem „alignment problem“ (problém sladění) u pokročilé AI?",
+  "options": [
+   "Seřadit trénovací data podle kvality",
+   "Doladit rychlost odpovědi podle uživatele",
+   "Zajistit, aby systém sledoval záměry lidí",
+   "Sesouhlasit verze modelu mezi zařízeními"
+  ]
+ },
+ {
+  "id": "ai-17",
+  "text": "Co je typickým příkladem přehnaně optimistické predikce z rané historie AI?",
+  "options": [
+   "Simon čekal, že stroje zvládnou práci do 20 let",
+   "Turing prý dopředu čekal, že AI nepředčí člověka",
+   "McCarthy prý tvrdil, že AI je technicky nemožná",
+   "Minsky prý čekal, že AI bude trvat dvě stě let"
+  ]
+ },
+ {
+  "id": "ai-18",
+  "text": "Jak myšlenkový experiment „čínský pokoj“ Johna Searla souvisí s dnešními jazykovými modely?",
+  "options": [
+   "Popisuje chybu v architektuře, kterou už opravili",
+   "Je to název prvního čínského týmu pro LLM",
+   "Dokazuje, že program nezvládne čínský jazyk",
+   "Ukazuje, že symboly bez pochopení lze zpracovat"
+  ]
+ },
+ {
+  "id": "ai-19",
+  "text": "Proč dnešní LLM často chybují v úlohách typu „kolik písmen X je ve slově Y“?",
+  "options": [
+   "Model vidí text jako tokeny, ne jako písmena",
+   "Model úlohu odmítá kvůli bezpečnostním filtrům",
+   "Chyba se týká jen starých modelů před 2020",
+   "Model jazyk úlohy neměl v trénovacích datech"
+  ]
+ },
+ {
+  "id": "ai-20",
+  "text": "Co znamená pojem „emergentní schopnost“ u velkých jazykových modelů?",
+  "options": [
+   "Funkci, kterou vývojáři přidají ručně jako doplněk",
+   "Schopnost učit se natrvalo z každé konverzace",
+   "Vlastnost jen open-source modelů, ne uzavřených",
+   "Schopnost, co se objeví až nad určitou velikostí"
+  ]
+ }
+]

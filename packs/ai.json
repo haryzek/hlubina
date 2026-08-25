@@ -1,0 +1,322 @@
+[
+ {
+  "id": "ai-01",
+  "type": "F",
+  "category": "ai",
+  "text": "Kde a kdy padl termín „umělá inteligence“ jako název oboru?",
+  "options": [
+   "Na konferenci v Dartmouthu roku 1956",
+   "Na semináři v Kjótu roku 1962",
+   "V Turingově článku z roku 1950",
+   "Na konferenci v Curychu roku 1961"
+  ],
+  "correct": 0,
+  "explanation": "Termín navrhl John McCarthy pro letní workshop v Dartmouthu v roce 1956, kam pozval i Marvina Minského, Nathaniela Rochestera a Clauda Shannona. Účastníci tehdy věřili, že klíčové problémy inteligence půjde vyřešit během jednoho léta.",
+  "source": "McCarthy, Minsky, Rochester, Shannon (1955): A Proposal for the Dartmouth Summer Research Project on Artificial Intelligence",
+  "seedElo": 1300
+ },
+ {
+  "id": "ai-02",
+  "type": "F",
+  "category": "ai",
+  "text": "Co Alan Turing ve svém slavném testu z roku 1950 doopravdy navrhl?",
+  "options": [
+   "Porovnat skóre stroje a člověka v IQ testu",
+   "Změřit rychlost výpočtu proti mozku",
+   "Hru, kde tazatel rozezná stroj od člověka",
+   "Zjistit, zda se stroj pozná v zrcadle"
+  ],
+  "correct": 2,
+  "explanation": "Turing navrhl tzv. imitation game: tazatel si přes textovou komunikaci povídá se dvěma partnery, jedním člověkem a jedním strojem, a snaží se poznat, kdo je kdo. Nešlo mu o definici „myšlení“, ale o operační náhradu za tuto otázku.",
+  "source": "Turing, A. (1950). Computing Machinery and Intelligence. Mind, 59(236).",
+  "seedElo": 1330
+ },
+ {
+  "id": "ai-03",
+  "type": "F",
+  "category": "ai",
+  "text": "V roce 1997 prohrál v šachovém zápase se strojem tehdejší mistr světa. Jak se program jmenoval?",
+  "options": [
+   "Program AlphaZero od firmy DeepMind",
+   "Program Deep Blue vyvinutý firmou IBM",
+   "Program Fritz od firmy ChessBase",
+   "Program Stockfish od vývojářské komunity"
+  ],
+  "correct": 1,
+  "explanation": "Deep Blue porazil Garriho Kasparova v revanšovém zápase v roce 1997. Šlo o stroj s ručně napsanými šachovými pravidly a obrovským prohledáváním pozic, ne o učení se ze zkušenosti jako dnešní systémy.",
+  "source": "IBM Research: Deep Blue (1997), historický archiv IBM",
+  "seedElo": 1360
+ },
+ {
+  "id": "ai-04",
+  "type": "F",
+  "category": "ai",
+  "text": "Co se označuje jako „AI zima“?",
+  "options": [
+   "Útlum zájmu o AI po nesplněných slibech",
+   "Soutěž amerických a japonských laboratoří",
+   "Snížení parametru teploty u modelu",
+   "Roční období tréninku silných modelů"
+  ],
+  "correct": 0,
+  "explanation": "AI zimy (přelom 70. let a konec 80. let) nastaly, když přehnaná očekávání z předchozích let narazila na skutečné limity tehdejších metod, granty se škrtaly a výzkum na čas utlumil. Historicky proběhly minimálně dvě výrazné vlny.",
+  "source": "Russell & Norvig: Artificial Intelligence: A Modern Approach, kapitola o historii oboru",
+  "seedElo": 1390
+ },
+ {
+  "id": "ai-05",
+  "type": "F",
+  "category": "ai",
+  "text": "Proč se tah č. 37 AlphaGo ve druhé partii proti Lee Sedolovi (2016) stal slavným?",
+  "options": [
+   "Byl to tah, co lidé pokládali za chybu",
+   "Byl to první tah, který stroj v go zahrál",
+   "Byl to tah, kterým soupeř partii vyhrál",
+   "Stroj ho zahrál náhodně kvůli chybě v kódu"
+  ],
+  "correct": 0,
+  "explanation": "Tah na páté řadě šel proti staletým lidským konvencím, ale AlphaGo mu přiřazovalo jen asi 1/10000 pravděpodobnost, že by ho zahrál člověk — a přesto se ukázal jako klíčový pro výhru. Stal se symbolem toho, že systém trénovaný posilovaným učením může objevit strategie mimo lidskou intuici.",
+  "source": "Silver et al. (2016), Nature: Mastering the game of Go with deep neural networks and tree search",
+  "seedElo": 1420
+ },
+ {
+  "id": "ai-06",
+  "type": "F",
+  "category": "ai",
+  "text": "Co je to „váha“ (weight) v neuronové síti?",
+  "options": [
+   "Síla, s jakou jeden neuron ovlivní druhý",
+   "Počet vrstev mezi vstupem a výstupem",
+   "Velikost souboru s uloženým modelem",
+   "Míra jistoty, se kterou model odpovídá"
+  ],
+  "correct": 0,
+  "explanation": "Váhy jsou parametry, které síť během trénování upravuje tak, aby na daný vstup dávala co nejpřesnější výstup. Trénování je v podstatě hledání takových hodnot vah, při kterých síť dělá co nejméně chyb na trénovacích datech.",
+  "source": "Goodfellow, Bengio, Courville: Deep Learning (2016), kap. 6",
+  "seedElo": 1450
+ },
+ {
+  "id": "ai-07",
+  "type": "F",
+  "category": "ai",
+  "text": "Co laicky dělá algoritmus gradientního sestupu při trénování sítě?",
+  "options": [
+   "Přidává nové neurony, dokud chyba neklesne",
+   "Kopíruje váhy z jiného, hotového modelu",
+   "Mění váhy směrem, který snižuje chybu",
+   "Náhodně prohazuje vrstvy sítě dokola"
+  ],
+  "correct": 2,
+  "explanation": "Gradient říká, kterým směrem a jak moc změnit každou váhu, aby se chyba (loss) zmenšila. Model dělá po tomto směru malé krůčky, opakovaně, dokud se chyba dál výrazně nesnižuje. Je to systematické ladění, ne náhoda.",
+  "source": "Goodfellow, Bengio, Courville: Deep Learning (2016), kap. 4 a 8",
+  "seedElo": 1480
+ },
+ {
+  "id": "ai-08",
+  "type": "F",
+  "category": "ai",
+  "text": "Jak jazykový model (LLM) v zásadě generuje text?",
+  "options": [
+   "Odhaduje pravděpodobnost dalšího tokenu",
+   "Kopíruje nejbližší dokument z internetu",
+   "Převádí zadání na logická pravidla",
+   "Vyhledává hotové věty v databázi textů"
+  ],
+  "correct": 0,
+  "explanation": "Text se dělí na tokeny (zhruba části slov) a model se učí předpovídat pravděpodobnost dalšího tokenu na základě předchozích. Generování je pak opakované vybírání dalšího tokenu podle těchto pravděpodobností, dokud odpověď nevznikne celá.",
+  "source": "Radford et al. (2019): Language Models are Unsupervised Multitask Learners (GPT-2), OpenAI",
+  "seedElo": 1510
+ },
+ {
+  "id": "ai-09",
+  "type": "F",
+  "category": "ai",
+  "text": "Proč jazykové modely „halucinují“, tedy sebejistě tvrdí nepravdivé věci?",
+  "options": [
+   "Chyba se týká jen velmi malých modelů",
+   "Vždy volí nejpravděpodobnější pokračování",
+   "Modely mívají poruchu paměti jako člověk",
+   "Vývojáři do nich nepravdy vkládají schválně"
+  ],
+  "correct": 1,
+  "explanation": "Model nemá vestavěný mechanismus, který by rozlišoval „vím to jistě“ od „tohle zní podobně jako pravda“. Když si není jistý, přesto dokončí větu nejpravděpodobnějším způsobem, což se navenek jeví jako sebevědomé tvrzení nepravdy.",
+  "source": "Ji et al. (2023): Survey of Hallucination in Natural Language Generation, ACM Computing Surveys",
+  "seedElo": 1540
+ },
+ {
+  "id": "ai-10",
+  "type": "F",
+  "category": "ai",
+  "text": "Jaký je hlavní rozdíl mezi trénováním a inferencí u jazykového modelu?",
+  "options": [
+   "Trénink běží na telefonu, inference v cloudu",
+   "Trénink se týká textu, inference obrázků",
+   "Inference je starší technika než trénink",
+   "Trénink upraví váhy, inference je jen použije"
+  ],
+  "correct": 3,
+  "explanation": "Trénování je nákladná fáze, ve které se z dat postupně dolaďují miliardy vah modelu. Inference je následné použití — model s už zafixovanými váhami jen počítá odpověď na konkrétní dotaz, což je výpočetně mnohem levnější.",
+  "source": "Sevilla et al. (2022): Compute Trends Across Three Eras of Machine Learning, Epoch AI",
+  "seedElo": 1570
+ },
+ {
+  "id": "ai-11",
+  "type": "F",
+  "category": "ai",
+  "text": "Co je to embedding (vektorová reprezentace)?",
+  "options": [
+   "Postup pro škálování modelu na více karet",
+   "Šablona, do které se vkládá dotaz uživatele",
+   "Šifrovací klíč pro ochranu trénovacích dat",
+   "Vektor, kde podobné významy jsou si blízké"
+  ],
+  "correct": 3,
+  "explanation": "Embedding převádí slovo, větu nebo dokument na řadu čísel v mnoharozměrném prostoru tak, aby si sémanticky blízké věci byly v tomto prostoru blízké i geometricky. Díky tomu lze počítat podobnost textů nebo stavět vyhledávání podle významu, ne jen podle shody slov.",
+  "source": "Mikolov et al. (2013): Efficient Estimation of Word Representations in Vector Space (word2vec)",
+  "seedElo": 1600
+ },
+ {
+  "id": "ai-12",
+  "type": "F",
+  "category": "ai",
+  "text": "Co laicky dělá mechanismus attention (pozornost) v transformeru?",
+  "options": [
+   "Zrychlí trénink tím, že čte text odzadu",
+   "Spočítá důležitost každého slova pro dané",
+   "Vybere jedno slovo a zbytek věty zahodí",
+   "Zkontroluje gramatiku výstupu před odesláním"
+  ],
+  "correct": 1,
+  "explanation": "Attention umožňuje modelu při zpracování jednoho slova „nahlédnout“ do celé věty a přiřadit různou váhu důležitosti ostatním slovům podle kontextu — třeba u slova „ho“ zjistit, na koho odkazuje. Právě tento mechanismus umožnil zpracovávat dlouhé texty efektivněji než starší rekurentní sítě.",
+  "source": "Vaswani et al. (2017): Attention Is All You Need, NeurIPS",
+  "seedElo": 1630
+ },
+ {
+  "id": "ai-13",
+  "type": "F",
+  "category": "ai",
+  "text": "Co znamená zkratka RLHF, používaná při doladění chatovacích modelů?",
+  "options": [
+   "Rychlé učení s vysokou frekvencí úprav",
+   "Kontrola faktů proti externí databázi",
+   "Redukce modelu hardwarovou optimalizací",
+   "Posilované učení z preferencí lidí"
+  ],
+  "correct": 3,
+  "explanation": "RLHF (Reinforcement Learning from Human Feedback) trénuje model tak, že lidé hodnotí, která z několika vygenerovaných odpovědí je lepší, z těchto hodnocení vznikne odměňovací model a ten pak dolaďuje chování jazykového modelu. Díky tomu se model chová vstřícněji a bezpečněji, i když to nezaručuje faktickou přesnost.",
+  "source": "Ouyang et al. (2022): Training language models to follow instructions with human feedback (InstructGPT), OpenAI",
+  "seedElo": 1660
+ },
+ {
+  "id": "ai-14",
+  "type": "F",
+  "category": "ai",
+  "text": "Čím je průlomový systém AlphaFold od DeepMind?",
+  "options": [
+   "Skládá hudbu ve stylu daného skladatele",
+   "Předpovídá počasí přesněji než meteorologie",
+   "Předpovídá 3D tvar bílkovin ze sekvence",
+   "Navrhuje nové sloučeniny pro baterie"
+  ],
+  "correct": 2,
+  "explanation": "AlphaFold řeší desítky let starý problém předpovědi, jak se řetězec aminokyselin sbalí do funkčního 3D tvaru bílkoviny. Jeho přesnost v soutěži CASP v roce 2020 byla natolik vysoká, že se považuje za jeden z prvních velkých vědeckých přínosů moderní AI, a autoři za něj v roce 2024 dostali Nobelovu cenu za chemii.",
+  "source": "Jumper et al. (2021): Highly accurate protein structure prediction with AlphaFold, Nature",
+  "seedElo": 1690
+ },
+ {
+  "id": "ai-15",
+  "type": "F",
+  "category": "ai",
+  "text": "Jaký systém a rok se považují za milník, který odstartoval boom hlubokého učení v počítačovém vidění?",
+  "options": [
+   "Systém Viola-Jones pro detekci tváří z 2001",
+   "Klasifikátor MNIST pro číslice z roku 1998",
+   "Model CLIP propojující obrázky s textem z 2021",
+   "AlexNet, vítěz soutěže ImageNet z roku 2012"
+  ],
+  "correct": 3,
+  "explanation": "AlexNet výrazně snížil chybovost v soutěži ImageNet oproti dosavadním metodám díky kombinaci hluboké konvoluční sítě a trénování na grafických kartách. Tento úspěch přesvědčil velkou část výzkumné komunity, že hluboké učení je cesta vpřed, a odstartoval prudký nárůst zájmu o obor.",
+  "source": "Krizhevsky, Sutskever, Hinton (2012): ImageNet Classification with Deep Convolutional Neural Networks, NeurIPS",
+  "seedElo": 1720
+ },
+ {
+  "id": "ai-16",
+  "type": "F",
+  "category": "ai",
+  "text": "Co přesně znamená pojem „alignment problem“ (problém sladění) u pokročilé AI?",
+  "options": [
+   "Seřadit trénovací data podle kvality",
+   "Doladit rychlost odpovědi podle uživatele",
+   "Sesouhlasit verze modelu mezi zařízeními",
+   "Zajistit, aby systém sledoval záměry lidí"
+  ],
+  "correct": 3,
+  "explanation": "Alignment problem se týká rizika, že systém optimalizovaný na zjednodušený nebo špatně formulovaný cíl najde způsob, jak ho splnit způsobem, který si tvůrci nepřáli — tzv. specification gaming. Čím je systém schopnější, tím větší škody může takové nesladění napáchat.",
+  "source": "Amodei et al. (2016): Concrete Problems in AI Safety, arXiv",
+  "seedElo": 1750
+ },
+ {
+  "id": "ai-17",
+  "type": "F",
+  "category": "ai",
+  "text": "Co je typickým příkladem přehnaně optimistické predikce z rané historie AI?",
+  "options": [
+   "Turing prý dopředu čekal, že AI nepředčí člověka",
+   "Minsky prý čekal, že AI bude trvat dvě stě let",
+   "McCarthy prý tvrdil, že AI je technicky nemožná",
+   "Simon čekal, že stroje zvládnou práci do 20 let"
+  ],
+  "correct": 3,
+  "explanation": "Simonova a podobná dobová prohlášení (např. Minského odhad, že klíčové problémy umělé inteligence budou vyřešeny „během jedné generace“) se ukázala jako výrazně přestřelená — reálný pokrok v mnoha oblastech přišel až o desítky let později a jinými metodami, než tehdy čekali.",
+  "source": "Simon, H. (1965): The Shape of Automation for Men and Management",
+  "seedElo": 1780
+ },
+ {
+  "id": "ai-18",
+  "type": "F",
+  "category": "ai",
+  "text": "Jak myšlenkový experiment „čínský pokoj“ Johna Searla souvisí s dnešními jazykovými modely?",
+  "options": [
+   "Dokazuje, že program nezvládne čínský jazyk",
+   "Popisuje chybu v architektuře, kterou už opravili",
+   "Je to název prvního čínského týmu pro LLM",
+   "Ukazuje, že symboly bez pochopení lze zpracovat"
+  ],
+  "correct": 3,
+  "explanation": "Searle si představoval člověka v místnosti, který podle knihy pravidel mechanicky převádí čínské znaky na jiné znaky, aniž by čínsky rozuměl — a tvrdil, že takto to dělá i počítač. Debata, zda je tento argument aplikovatelný na dnešní LLM (a co vlastně znamená „rozumět“), zůstává otevřená i mezi odborníky.",
+  "source": "Searle, J. (1980): Minds, Brains, and Programs, Behavioral and Brain Sciences",
+  "seedElo": 1810
+ },
+ {
+  "id": "ai-19",
+  "type": "F",
+  "category": "ai",
+  "text": "Proč dnešní LLM často chybují v úlohách typu „kolik písmen X je ve slově Y“?",
+  "options": [
+   "Model vidí text jako tokeny, ne jako písmena",
+   "Model úlohu odmítá kvůli bezpečnostním filtrům",
+   "Model jazyk úlohy neměl v trénovacích datech",
+   "Chyba se týká jen starých modelů před 2020"
+  ],
+  "correct": 0,
+  "explanation": "Text se před zpracováním rozdělí na tokeny, což jsou často celé slabiky nebo části slov, ne jednotlivá písmena. Model tak s vnitřní reprezentací slova jako řetězcem písmen vůbec přímo nepracuje, a proto úlohy vyžadující počítání znaků zůstávají překvapivě náchylné k chybám i u jinak velmi schopných modelů.",
+  "source": "OpenAI: Tokenizer documentation a diskuse o limitech BPE tokenizace",
+  "seedElo": 1840
+ },
+ {
+  "id": "ai-20",
+  "type": "F",
+  "category": "ai",
+  "text": "Co znamená pojem „emergentní schopnost“ u velkých jazykových modelů?",
+  "options": [
+   "Vlastnost jen open-source modelů, ne uzavřených",
+   "Funkci, kterou vývojáři přidají ručně jako doplněk",
+   "Schopnost učit se natrvalo z každé konverzace",
+   "Schopnost, co se objeví až nad určitou velikostí"
+  ],
+  "correct": 3,
+  "explanation": "U některých úloh (např. víceúkolové aritmetice nebo řetězení kroků uvažování) výkon malých modelů dlouho stagnuje kolem náhodné úrovně a až po překročení určitého počtu parametrů nebo trénovacích dat prudce vzroste. Odborná debata navíc řeší, nakolik jde o skutečně skokový jev a nakolik o artefakt způsobu měření výkonu.",
+  "source": "Wei et al. (2022): Emergent Abilities of Large Language Models, TMLR; Schaeffer et al. (2023): Are Emergent Abilities a Mirage?, NeurIPS",
+  "seedElo": 1870
+ }
+]

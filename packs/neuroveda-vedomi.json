@@ -1,0 +1,322 @@
+[
+ {
+  "id": "nve-01",
+  "type": "F",
+  "category": "neuroveda-vedomi",
+  "text": "Co znamená pojem 'neurální koreláty vědomí' (NCC), který zpopularizovali Francis Crick a Christof Koch?",
+  "options": [
+   "Soubor genů, které se aktivují pouze během bdělého vědomí",
+   "Oblast mozku, která je jediným sídlem veškerého vědomí",
+   "Minimální mozkový proces postačující pro daný vědomý zážitek",
+   "Matematická konstanta popisující množství vědomí v systému"
+  ],
+  "correct": 2,
+  "explanation": "NCC jsou definovány jako minimální neuronální mechanismy společně postačující pro vznik konkrétního vědomého obsahu či stavu. Nejde o jedno mozkové centrum ani o gen, ale o hledání toho, co v mozku musí nastat, aby doprovodně vznikl daný zážitek. Koncept posunul výzkum vědomí od filozofické spekulace k empiricky testovatelným hypotézám.",
+  "source": "Crick, F., Koch, C.: Towards a neurobiological theory of consciousness (1990)",
+  "seedElo": 1300
+ },
+ {
+  "id": "nve-02",
+  "type": "F",
+  "category": "neuroveda-vedomi",
+  "text": "Co je to binokulární rivalita, často používaná ve výzkumu vědomí?",
+  "options": [
+   "Soutěž dvou mozkových hemisfér o kontrolu nad pohybem očí",
+   "Porucha vidění, při níž jedno oko vidí ostře a druhé rozmazaně trvale",
+   "Efekt, kdy mozek při únavě vidí dvojité obrazy jednoho podnětu",
+   "Jev, kdy oba oči vidí odlišný obraz a vnímání mezi nimi přeskakuje"
+  ],
+  "correct": 3,
+  "explanation": "Při binokulární rivalitě se každému oku promítá jiný obrázek; fyzický vstup se nemění, ale vědomé vnímání se samo přepíná mezi oběma obrazy po sekundách až desítkách sekund. Protože se stimul nemění a mění se jen prožitek, je to ceněný nástroj pro hledání toho, co v mozku odpovídá přímo vědomému obsahu, ne jen podnětu samotnému.",
+  "source": "Logothetis, N. K.: Vision: a window on consciousness (1999)",
+  "seedElo": 1330
+ },
+ {
+  "id": "nve-03",
+  "type": "F",
+  "category": "neuroveda-vedomi",
+  "text": "Co je hlavní myšlenkou teorie globálního pracoviště (global workspace theory) Bernarda Baarse?",
+  "options": [
+   "Vědomé je to, co se stane dostupným a 'vysílá se' napříč mozkem",
+   "Vědomí sídlí výhradně v jednom centrálním neuronu zvaném 'buňka babičky'",
+   "Každá mozková oblast má svoje vlastní nezávislé, oddělené vědomí",
+   "Vědomí vzniká jen tehdy, když mozek zpracovává informace pomaleji než obvykle"
+  ],
+  "correct": 0,
+  "explanation": "Podle Baarsovy teorie funguje mozek jako soubor mnoha nevědomých, specializovaných procesorů. Informace, která se dostane do 'globálního pracoviště' (metaforicky jako jeviště osvětlené reflektorem), se stává široce dostupnou ostatním procesům najednou a tím se stává vědomou. Nevědomé zpracování naproti tomu zůstává lokální a izolované.",
+  "source": "Baars, B. J.: A Cognitive Theory of Consciousness (1988)",
+  "seedElo": 1360
+ },
+ {
+  "id": "nve-04",
+  "type": "K",
+  "category": "neuroveda-vedomi",
+  "text": "Jak Stanislas Dehaene rozvinul Baarsovu teorii globálního pracoviště do neuronální podoby?",
+  "options": [
+   "Ukázal, že globální pracoviště je jedna konkrétní molekula",
+   "Tvrdil, že vědomí vzniká výhradně v mozečku, nezávisle na kůře",
+   "Prokázal, že vědomí je totožné s elektrickou aktivitou mozku",
+   "Navrhl, že vědomí je náhlá rozsáhlá aktivace sítě neuronů v kůře"
+  ],
+  "correct": 3,
+  "explanation": "Dehaenova 'neuronální teorie globálního pracoviště' popisuje, jak informace zpracovaná lokálně může projít prahem a spustit náhlé, rozsáhlé a vzájemně propojené vzplanutí aktivity ('ignition') v síti pyramidových neuronů s dlouhými axony, zejména v prefrontální a parietální kůře. Tento skokový přechod od lokálního k rozšířenému zpracování je podle něj neuronálním podpisem vědomého uvědomění.",
+  "source": "Dehaene, S., Changeux, J.-P.: Experimental and theoretical approaches to conscious processing (2011)",
+  "seedElo": 1390
+ },
+ {
+  "id": "nve-05",
+  "type": "F",
+  "category": "neuroveda-vedomi",
+  "text": "Co je to blindsight (slepý zrak)?",
+  "options": [
+   "Schopnost reagovat na zrakové podněty, které pacient vědomě 'nevidí'",
+   "Schopnost některých lidí vidět se zavřenýma očima díky intuici",
+   "Dočasná slepota vyvolaná extrémním náhlým leknutím nebo stresem",
+   "Halucinace vizuálních tvarů u lidí, kteří jsou od narození plně nevidomí"
+  ],
+  "correct": 0,
+  "explanation": "Blindsight se objevuje u pacientů s poškozením primární zrakové kůry (V1): ve zrakovém poli, kde subjektivně tvrdí, že nic nevidí, dokážou nad úrovní náhody 'hádat' polohu nebo pohyb objektů, případně na ně reagovat úhybným pohybem. Ukazuje to, že zrakové zpracování a vědomé vidění lze oddělit — informace do mozku doputuje, ale bez doprovodného vědomého zážitku.",
+  "source": "Weiskrantz, L.: Blindsight: A Case Study and Implications (1986)",
+  "seedElo": 1420
+ },
+ {
+  "id": "nve-06",
+  "type": "F",
+  "category": "neuroveda-vedomi",
+  "text": "Jaký je hlavní princip prediktivního zpracování (predictive processing), jak jej popularizuje Anil Seth pojmem 'řízená halucinace'?",
+  "options": [
+   "Mozek generuje predikce o příčinách vjemů, průběžně opravované chybou",
+   "Mozek jen pasivně zaznamenává smyslová data bez jakéhokoli předchozího očekávání",
+   "Predikce mozku se týkají pouze budoucích pohybů těla, nikoli vnímání okolního světa",
+   "Halucinace vznikají jen u lidí s poškozeným mozkem, se zdravím nesouvisí"
+  ],
+  "correct": 0,
+  "explanation": "Podle prediktivního zpracování mozek aktivně predikuje, co by mělo způsobovat jeho smyslové vstupy, a smyslová data slouží hlavně k opravě (chybě predikce) těchto odhadů. Seth proto říká, že běžné vnímání je 'řízená halucinace' — konstruovaný model světa, jen běžně dostatečně ukotvený smyslovými daty, aby se shodoval s realitou. Klasická halucinace je pak model, který se od dat příliš odpoutal.",
+  "source": "Seth, A. K.: Being You: A New Science of Consciousness (2021); Friston, K.: The free-energy principle (2010)",
+  "seedElo": 1450
+ },
+ {
+  "id": "nve-07",
+  "type": "F",
+  "category": "neuroveda-vedomi",
+  "text": "Co ukazují slavné split-brain experimenty (Sperry, Gazzaniga) u pacientů s přerušeným corpus callosum?",
+  "options": [
+   "Že po přerušení corpus callosum lidé zcela ztrácejí schopnost mluvit",
+   "Že informace daná jen jednomu zornému poli zpracuje jen ta hemisféra",
+   "Že obě hemisféry mají po operaci naprosto identické schopnosti ve všech ohledech",
+   "Že vědomí sídlí výhradně v pravé hemisféře a levá je jen 'tichý' pomocník"
+  ],
+  "correct": 1,
+  "explanation": "U pacientů, jimž bylo z lékařských důvodů přerušeno corpus callosum (spojující obě hemisféry), lze podnět promítnout jen do jednoho zorného pole tak, že jej zpracuje jen odpovídající hemisféra. Levá hemisféra (obvykle řečové centrum) o informaci vidí-li ji jen pravá hemisféra neví a naopak. Experimenty však bývají v populární kultuře přeháněny do zjednodušené představy 'dvou oddělených vědomí' — realita je subtilnější a závisí na míře přerušení a typu úlohy.",
+  "source": "Gazzaniga, M. S.: Forty-five years of split-brain research (2005)",
+  "seedElo": 1480
+ },
+ {
+  "id": "nve-08",
+  "type": "F",
+  "category": "neuroveda-vedomi",
+  "text": "Co zjistil Adrian Owen a kolegové u části pacientů diagnostikovaných jako ve vegetativním stavu (nyní nazývaném stav bdělé nereaktivity)?",
+  "options": [
+   "Že diagnóza vegetativního stavu je vždy stoprocentně přesná a omyl není možný",
+   "Že žádný pacient ve vegetativním stavu nikdy nevykazuje žádnou mozkovou aktivitu",
+   "Že dokázali pomocí fMRI plnit úlohy podle instrukcí a komunikovat ano/ne",
+   "Že vegetativní stav je vždy plně reverzibilní během několika dní bez léčby"
+  ],
+  "correct": 2,
+  "explanation": "Owenův tým požádal pacienty, aby si při skenování fMRI představovali buď hraní tenisu, nebo procházení po domě — úlohy s odlišitelnou mozkovou aktivací. U části pacientů s klinickou diagnózou vegetativního stavu se objevila stejná aktivace jako u zdravých dobrovolníků, a dokonce šlo tímto způsobem kódovat odpovědi ano/ne. To ukázalo, že aspoň někteří klinicky 'nereaktivní' pacienti mají zachované vědomé porozumění.",
+  "source": "Owen, A. M. a kol.: Detecting Awareness in the Vegetative State (2006)",
+  "seedElo": 1510
+ },
+ {
+  "id": "nve-09",
+  "type": "K",
+  "category": "neuroveda-vedomi",
+  "text": "Čím se locked-in syndrom liší od vegetativního stavu (stavu bdělé nereaktivity)?",
+  "options": [
+   "Oba pojmy popisují tentýž klinický stav, jen jiným jménem podle země",
+   "Locked-in syndrom postihuje pouze zrak, vegetativní stav pouze sluch",
+   "U locked-in je vědomí zachováno, chybí pohyb; u vegetativu chybí prožívání",
+   "Locked-in znamená úplnou ztrátu vědomí, vegetativní stav jeho zachování"
+  ],
+  "correct": 2,
+  "explanation": "U locked-in syndromu (typicky po poškození mozkového kmene) je pacient plně při vědomí a kognitivně funkční, ale téměř kompletně ochrnutý — komunikuje často jen pohyby očí. Naproti tomu u vegetativního stavu je zachována bdělost (střídání spánku a bdění, otevřené oči) bez zjevných známek vědomého obsahu či uvědomění si sebe a okolí. Rozlišení má zásadní etické důsledky pro péči a komunikaci.",
+  "source": "Laureys, S. a kol.: The locked-in syndrome (2005)",
+  "seedElo": 1540
+ },
+ {
+  "id": "nve-10",
+  "type": "F",
+  "category": "neuroveda-vedomi",
+  "text": "Co v klasickém experimentu měřil Benjamin Libet, když se ptal po 'vůli k pohybu'?",
+  "options": [
+   "Rozdíl v reakčním čase mezi levou a pravou rukou",
+   "Rychlost, jakou nervový vzruch putuje z mozku do svalu ruky",
+   "Vztah mezi mozkovým potenciálem a pocitem rozhodnutí",
+   "Množství svalové síly potřebné k volnímu stisknutí tlačítka"
+  ],
+  "correct": 2,
+  "explanation": "Libet nechal účastníky spontánně hýbat rukou a sledovat pohybující se bod na hodinách, aby určili okamžik, kdy si uvědomili záměr pohnout se. Zjistil, že měřitelný pohotovostní potenciál (readiness potential) v mozku začíná stovky milisekund před tímto uvědomělým záměrem, který sám o něco předchází pohyb. Experiment se stal výchozím bodem debat o svobodné vůli.",
+  "source": "Libet, B. a kol.: Time of conscious intention to act (1983)",
+  "seedElo": 1570
+ },
+ {
+  "id": "nve-11",
+  "type": "K",
+  "category": "neuroveda-vedomi",
+  "text": "Jaká je jedna z hlavních kritik, kterou dnešní neurovědci vznášejí vůči Libetově interpretaci jeho experimentu jako důkazu, že 'mozek rozhoduje dřív než my'?",
+  "options": [
+   "Pohotovostní potenciál může být jen obecné kolísání aktivity, ne příkaz k pohybu",
+   "Pohotovostní potenciál byl prokázán jako artefakt vadného EEG přístroje",
+   "Libetův experiment byl zcela zfalšován a žádná data ve skutečnosti neexistují",
+   "Kritika tvrdí, že lidé v experimentu ve skutečnosti vůbec nehýbali rukou"
+  ],
+  "correct": 0,
+  "explanation": "Novější práce (např. Schurgerova skupina) ukazují, že podobný signál lze naměřit i před zcela náhodným, nerozhodnutým momentem — může jde o náhodné kolísání neuronální aktivity, které až zpětně 'vyústí' v pohyb, spíše než o skrytý příkaz k akci. Navíc introspektivní odhad okamžiku záměru pomocí hodin je metodologicky křehký. Závěr, že vědomá vůle je jen iluzorní epifenomén, je proto dnes považován za silně nadinterpretovaný.",
+  "source": "Schurger, A., Sitt, J. D., Dehaene, S.: An accumulator model for spontaneous neural activity (2012)",
+  "seedElo": 1600
+ },
+ {
+  "id": "nve-12",
+  "type": "F",
+  "category": "neuroveda-vedomi",
+  "text": "Co se děje s mozkovou aktivitou během REM spánku, ve kterém se odehrává většina živých snů?",
+  "options": [
+   "REM spánek je jediná fáze spánku, kdy člověk nikdy vůbec nesní",
+   "Během REM spánku je aktivní jen mozeček, zbytek mozku je vypnutý",
+   "Mozek je aktivní jako v bdělém stavu, svalstvo je ochromené",
+   "Mozková aktivita během REM téměř ustává, jako při anestezii"
+  ],
+  "correct": 2,
+  "explanation": "REM (rapid eye movement) spánek se označuje jako 'paradoxní spánek', protože EEG aktivita se podobá bdělému stavu, přestože člověk spí. Zároveň dochází k atonii kosterního svalstva, která brání tělu fyzicky provádět pohyby ze snu. Právě v této fázi bývají sny nejživější a nejvíce narativní, ačkoli sny se v menší míře objevují i v jiných fázích spánku.",
+  "source": "Hobson, J. A.: REM sleep and dreaming (2009)",
+  "seedElo": 1630
+ },
+ {
+  "id": "nve-13",
+  "type": "F",
+  "category": "neuroveda-vedomi",
+  "text": "Co je interocepce v kontextu vědomí a sebeuvědomění?",
+  "options": [
+   "Vnímání polohy těla v prostoru pomocí vnitřního ucha a očí",
+   "Proces, kterým mozek zpracovává jen zvukové podněty zvenčí",
+   "Vnímání vnitřních stavů těla a jejich role v pocitu 'já'",
+   "Schopnost přesně vidět předměty ve tmě bez použití zraku"
+  ],
+  "correct": 2,
+  "explanation": "Interocepce označuje vnímání signálů z vlastního těla — tepu srdce, dechu, hladu, bolesti a dalších viscerálních stavů. Podle vlivných teorií (např. Setha) je interocepce klíčová nejen pro emoce, ale i pro samotný pocit bytí vtěleným 'já' — vědomí sebe sama je tak podle nich hluboce ukotveno v neustálé predikci a monitorování stavu vlastního těla, nejen ve vnějším vnímání světa.",
+  "source": "Seth, A. K.: Interoceptive inference, emotion, and the embodied self (2013)",
+  "seedElo": 1660
+ },
+ {
+  "id": "nve-14",
+  "type": "K",
+  "category": "neuroveda-vedomi",
+  "text": "Co konkrétně měří 'perturbační komplexnostní index' (PCI), nástroj vyvinutý týmem Marcella Massimini a používaný mimo jiné k odhadu vědomí u pacientů s poruchami vědomí?",
+  "options": [
+   "Přesný počet neuronů elektricky aktivních v celém mozku",
+   "Poměr mezi hmotností mozku a hmotností těla u daného pacienta",
+   "Rychlost, jakou krev proudí přes celý mozek za jednu minutu",
+   "Složitost EEG odezvy kůry po 'zabrnknutí' pomocí TMS"
+  ],
+  "correct": 3,
+  "explanation": "PCI kombinuje transkraniální magnetickou stimulaci (TMS), která kůru krátce 'zabrnkne', s EEG, které zaznamená výslednou vlnu odezvy. Odezva se pak komprimuje algoritmem podobným kompresi souborů: čím je prostorově-časový vzorec odezvy bohatší a méně předvídatelný (hůř stlačitelný), tím vyšší index a tím pravděpodobněji je subjekt při vědomí. Metoda dobře odlišuje bdělost, sny, hluboký spánek bez snů, anestezii i některé poruchy vědomí.",
+  "source": "Casali, A. G., Massimini, M. a kol.: A theoretically based index of consciousness (2013)",
+  "seedElo": 1690
+ },
+ {
+  "id": "nve-15",
+  "type": "F",
+  "category": "neuroveda-vedomi",
+  "text": "Co je klíčovou myšlenkou teorie integrované informace (IIT) Giulia Tononiho ohledně toho, co dělá systém vědomým?",
+  "options": [
+   "Míra vědomí (fí) odpovídá tomu, kolik informace systém integruje",
+   "Fí je metrika, jež měří pouze objem mozkové tkáně v cm³",
+   "Vědomí vzniká jen v systémech na bázi uhlíkových sloučenin",
+   "Vědomí je jen tam, kde je elektrická aktivita rychlejší než 100 Hz"
+  ],
+  "correct": 0,
+  "explanation": "IIT tvrdí, že vědomí je totožné s určitým druhem integrované informace: systém je vědomý do té míry, do jaké tvoří jeden celek, jehož kauzální struktura přesahuje pouhý součet nezávislých částí — matematicky vyjádřený jako fí (Φ). Teorie z toho odvozuje kontroverzní důsledky, například že i jednoduché nebiologické systémy s vhodnou strukturou by mohly mít nenulové fí, zatímco velmi komplexní, ale 'feed-forward' systémy (bez zpětných smyček) vysoké fí mít nemusí.",
+  "source": "Tononi, G.: Integrated information theory of consciousness (2004; 2016)",
+  "seedElo": 1720
+ },
+ {
+  "id": "nve-16",
+  "type": "K",
+  "category": "neuroveda-vedomi",
+  "text": "V čem spočívá jedna z hlavních kontroverzí kolem teorie integrované informace (IIT), která v roce 2023 vedla přes sto vědců k otevřenému dopisu?",
+  "options": [
+   "IIT byla experimentálně stoprocentně vyvrácena jediným měřením fí u lidí",
+   "IIT je obtížně testovatelná a připouští vysoké fí i u jednoduchých systémů",
+   "Kritici tvrdí, že IIT nikdy nebyla publikována v žádném vědeckém časopise",
+   "IIT tvrdí, že vědomí vůbec neexistuje a je jen sociálním konstruktem"
+  ],
+  "correct": 1,
+  "explanation": "Otevřený dopis z roku 2023 (v reakci na studii testující IIT proti globální pracovní teorii) IIT neoznačil za vyvrácenou, ale za problematickou v tom smyslu, že její predikce jsou prakticky těžko testovatelné a že teorie panpsychisticky připouští vědomí i u jednoduchých struktur bez neuronů, což řada autorů považuje za filozoficky problematické, nikoli za empiricky prokázané. Šlo o spor o vědeckou metodologii a testovatelnost, ne o jednoznačnou vyvrácenost dat.",
+  "source": "Open letter: 'Consciousness research risks stagnation, hundreds of researchers warn' (Nature, 2023); Fleming, J. a kol.",
+  "seedElo": 1750
+ },
+ {
+  "id": "nve-17",
+  "type": "F",
+  "category": "neuroveda-vedomi",
+  "text": "Co je hlavní myšlenkou teorie schématu pozornosti (attention schema theory) Michaela Grazziana?",
+  "options": [
+   "Pozornost a vědomí jsou dvě zcela nezávislé věci, které spolu nikdy nesouvisejí",
+   "Vědomí je jen jiné jméno pro krátkodobou paměť a s pozorností nemá nic společného",
+   "Teorie tvrdí, že pozornost je řízena výhradně mozečkem, nikoli kůrou",
+   "Mozek modeluje vlastní pozornost, a vědomí je právě tímto modelem"
+  ],
+  "correct": 3,
+  "explanation": "Graziano navrhuje, že mozek si pro účely řízení a predikce vlastní pozornosti vytváří zjednodušený, nutně nepřesný model toho, co pozornost dělá — 'schéma pozornosti'. Subjektivní pocit, že 'mám vědomí' o něčem, je podle teorie právě výstupem tohoto vnitřního modelu, obdobně jako mozek modeluje třeba i polohu vlastního těla. Teorie se tak snaží vysvětlit, proč o sobě tvrdíme, že máme vědomí, jako důsledek konkrétního výpočetního mechanismu.",
+  "source": "Graziano, M. S. A.: Consciousness and the Social Brain (2013)",
+  "seedElo": 1780
+ },
+ {
+  "id": "nve-18",
+  "type": "F",
+  "category": "neuroveda-vedomi",
+  "text": "Jak celková anestezie podle současného výzkumu nejspíše ruší vědomí, i když mozek zůstává elektricky aktivní?",
+  "options": [
+   "Anestezie zcela a nevratně zastavuje elektrickou aktivitu mozku",
+   "Anestetika fungují tak, že dočasně zničí neurony v celé mozkové kůře",
+   "Vědomí mizí proto, že anestezie zcela zablokuje sluchový nerv",
+   "Narušuje schopnost mozkových oblastí efektivně komunikovat mezi sebou"
+  ],
+  "correct": 3,
+  "explanation": "EEG i zobrazovací studie ukazují, že během celkové anestezie mozek nadále vykazuje elektrickou aktivitu, ale klesá schopnost různých oblastí kůry (zejména předo-zadní propojení) efektivně a komplexně komunikovat a integrovat informace — což koresponduje s poklesem měřítek typu PCI. Vědomí tak podle této perspektivy nemizí kvůli 'vypnutí' mozku, ale kvůli rozpadu integrované komunikace mezi jeho částmi.",
+  "source": "Mashour, G. A., Hudetz, A. G.: Neural correlates of unconsciousness in large-scale brain networks (2018)",
+  "seedElo": 1810
+ },
+ {
+  "id": "nve-19",
+  "type": "K",
+  "category": "neuroveda-vedomi",
+  "text": "Co znamená hypotéza 'entropického mozku' (entropic brain hypothesis), spojovaná s výzkumem psychedelik u Robina Carhart-Harrise?",
+  "options": [
+   "Hypotéza tvrdí, že psychedelika zcela a nevratně zvyšují množství neuronů v mozku",
+   "Psychedelika zvyšují neuronální entropii a oslabují dominanci defaultní sítě",
+   "Podle hypotézy psychedelika snižují mozkovou aktivitu téměř k nule",
+   "Entropie mozku je podle hypotézy konstantní, psychedelika ji neovlivňují"
+  ],
+  "correct": 1,
+  "explanation": "Carhart-Harris a kolegové navrhli, že normální bdělé vědomí je udržováno v relativně 'nízkoentropickém', hierarchicky uspořádaném stavu (s výraznou rolí sítí jako defaultní síť), zatímco psychedelika toto uspořádání narušují a zvyšují entropii — rozmanitost a nepředvídatelnost mozkových vzorců. To koreluje se subjektivně hlášeným rozšířeným, méně ohraničeným prožíváním, a hypotéza se používá i k vysvětlení možného terapeutického potenciálu psychedelik u rigidních stavů jako deprese.",
+  "source": "Carhart-Harris, R. L. a kol.: The entropic brain (2014)",
+  "seedElo": 1840
+ },
+ {
+  "id": "nve-20",
+  "type": "K",
+  "category": "neuroveda-vedomi",
+  "text": "Co je podstatou tzv. 'těžkého problému vědomí' (hard problem), jak jej formuloval filosof David Chalmers, a proč jej neurovědecké teorie jako GWT či IIT podle kritiků plně neřeší?",
+  "options": [
+   "Jde o technický problém sestrojit počítač simulující lidský mozek",
+   "Proč fyzikální procesy v mozku doprovází kvalitativní prožitek",
+   "Jde o otázku, proč má lidský mozek vysokou spotřebu energie",
+   "Jde o čistě etickou otázku, zda je přípustné provádět pokusy na zvířatech"
+  ],
+  "correct": 1,
+  "explanation": "Chalmers odlišil 'snadné problémy' (vysvětlit funkce jako pozornost, paměť či rozlišování podnětů) od 'těžkého problému' — proč tyto funkce vůbec doprovází subjektivní zážitek, místo aby proběhly 'potmě' bez jakéhokoli prožívání. Teorie jako globální pracoviště nebo IIT úspěšně identifikují korelace či mechanismy spojené s vědomými stavy, ale kritici namítají, že samotné vysvětlení, PROČ tyto mechanismy generují subjektivní kvalitu prožitku (qualia), zatím chybí — což zůstává otevřenou a spornou otázkou i uvnitř samotné neurovědy.",
+  "source": "Chalmers, D.: Facing Up to the Problem of Consciousness (1995)",
+  "seedElo": 1870
+ }
+]

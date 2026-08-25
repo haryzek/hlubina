@@ -1,0 +1,802 @@
+[
+ {
+  "id": "fmy-01",
+  "text": "Fyzikalismus v otázce mysli a těla tvrdí, že:",
+  "options": [
+   "vše duševní je nakonec fyzické, nebo je fyzičnem plně určeno",
+   "mysl je nehmotná substance, která na těle vůbec nezávisí",
+   "mysl a tělo jsou dvě oddělené substance, co spolu nekomunikují",
+   "vědomí je jen iluze, kterou náš mozek dokonale předstírá"
+  ]
+ },
+ {
+  "id": "fmy-02",
+  "text": "Co jsou v filosofii mysli tzv. qualia?",
+  "options": [
+   "obecný název pro schopnost mozku zpracovávat informace",
+   "subjektivní kvalita prožitku, jaké to je danou věc zakoušet",
+   "měřitelné fyzikální vlastnosti neuronů a jejich výbojů",
+   "logické chyby, které lidé dělají při úvahách o mysli"
+  ]
+ },
+ {
+  "id": "fmy-03",
+  "text": "David Chalmers rozlišuje „lehké“ a „těžké“ problémy vědomí. V čem přesně spočívá ten těžký?",
+  "options": [
+   "v tom, že dosud neznáme přesnou anatomii mozkové kůry",
+   "v tom, že vysvětlit funkce jako pozornost je technicky obtížné",
+   "ve vysvětlení, proč zpracování informací doprovází prožitek",
+   "v tom, že lidé popisují své prožitky odlišnými slovy"
+  ]
+ },
+ {
+  "id": "fmy-04",
+  "text": "Myšlenkový experiment s filosofickým zombiem (bytostí fyzicky identickou s člověkem, ale bez vědomí) má primárně ukázat, že:",
+  "options": [
+   "umělá inteligence nikdy nebude fungovat jako lidský mozek",
+   "chování samo o sobě je nespolehlivým důkazem inteligence",
+   "lze simulovat lidské chování bez fyzické struktury mozku",
+   "fyzický popis člověka nevynucuje existenci vědomí"
+  ]
+ },
+ {
+  "id": "fmy-05",
+  "text": "V myšlenkovém experimentu Franka Jacksona zná vědkyně Mary od narození jen černobílý pokoj, ale ovládá kompletní fyzikální vědu o barvách. Co se má stát, když poprvé uvidí červenou barvu?",
+  "options": [
+   "zdá se, že se dozví něco nového, jaké to je vidět",
+   "zjistí, že fyzikální popis barev byl celou dobu chybný",
+   "nic nového se nedozví, protože vše podstatné znala",
+   "přestane věřit ve fyzikalismus a přijme rovnou dualismus"
+  ]
+ },
+ {
+  "id": "fmy-06",
+  "text": "V Searlově myšlenkovém experimentu „čínský pokoj“ člověk v místnosti manipuluje čínskými znaky podle pravidel, aniž by čínsky rozuměl, a přesto zvenčí vypadá, že rozumí. Co má tento experiment dokládat?",
+  "options": [
+   "že žádný počítačový program nezpracuje přirozený jazyk",
+   "že formální manipulace symboly sama nezakládá porozumění",
+   "že porozumění jazyku vyžaduje znalost gramatiky, ne slov",
+   "že lidé se naučí cizí jazyk i bez pravidel gramatiky"
+  ]
+ },
+ {
+  "id": "fmy-07",
+  "text": "Čím se funkcionalismus liší od teorie identity (identity theory) mysli a mozku?",
+  "options": [
+   "funkcionalismus je forma dualismu, teorie identity je forma fyzikalismu",
+   "funkcionalismus popírá existenci duševních stavů, teorie identity je potvrzuje",
+   "funkcionalismus definuje stav příčinnou rolí, identity ho ztotožní s mozkem",
+   "funkcionalismus tvrdí, že mysl je nehmotná, teorie identity tvrdí pravý opak"
+  ]
+ },
+ {
+  "id": "fmy-08",
+  "text": "Thomas Nagel se ve slavné eseji ptá, jaké to je být netopýrem. Jaký je hlavní bod jeho argumentu?",
+  "options": [
+   "netopýři jsou tak odlišní, že o nich věda nezjistí vůbec nic",
+   "echolokace je smysl, který lidé technicky nikdy nezreplikují",
+   "zvířata podle vědy nemají žádné vědomí srovnatelné s lidským",
+   "subjektivní prožitek je vázán na perspektivu, věda ho míjí"
+  ]
+ },
+ {
+  "id": "fmy-09",
+  "text": "Co v filosofii mysli znamená pojem intencionalita?",
+  "options": [
+   "vlastnost mentálních stavů být zaměřena na předmět",
+   "vědomé úmysly a plány, které si člověk předsevzal splnit",
+   "schopnost jednat záměrně namísto čistě reflexivně",
+   "morální odpovědnost člověka za vlastní myšlenky"
+  ]
+ },
+ {
+  "id": "fmy-10",
+  "text": "Čím se eliminativní materialismus manželů Churchlandových liší od běžného redukcionismu (např. teorie identity)?",
+  "options": [
+   "eliminativismus je vlastně jen jiné jméno pro dualismus vlastností mysli",
+   "redukcionismus ztotožní „víru“ s mozkem, eliminativismus ji z vědy vypouští",
+   "redukcionismus popírá existenci mozku, eliminativismus ji naopak potvrzuje",
+   "eliminativismus tvrdí, že naše laická psychologie je zcela správná a přesná"
+  ]
+ },
+ {
+  "id": "fmy-11",
+  "text": "Jak lze laicky shrnout panpsychismus jako řešení problému vědomí?",
+  "options": [
+   "vědomí je pouze chemická reakce probíhající uvnitř savčího mozku",
+   "vědomí vzniká výhradně u bytostí, které disponují jazykem a řečí",
+   "prožívání je základní vlastnost hmoty, vědomí je jen jejím tvarem",
+   "vědomí podle této pozice vůbec neexistuje, je to jen jazyková iluze"
+  ]
+ },
+ {
+  "id": "fmy-12",
+  "text": "V čem se zásadně liší pozice Daniela Dennetta a Davida Chalmerse k vědomí?",
+  "options": [
+   "Dennett je přesvědčený dualista, zatímco Chalmers je čistý fyzikalista",
+   "Dennett věří, že qualia jsou nehmotná substance, Chalmers je odmítá",
+   "oba nakonec zastávají v podstatě totožnou pozici, liší se jen slovy",
+   "Dennett odmítá hard problém, Chalmers trvá, že zbývá prožitek"
+  ]
+ },
+ {
+  "id": "fmy-13",
+  "text": "Podle Johna Locka spočívá osobní identita v čase především na:",
+  "options": [
+   "psychologické kontinuitě, na řetězci vzpomínek",
+   "kontinuitě jedné a téže nehmotné duše v čase",
+   "totožnosti fyzického těla a mozku od narození",
+   "sociálním uznání ostatních, že jde o tutéž osobu"
+  ]
+ },
+ {
+  "id": "fmy-14",
+  "text": "Myšlenkový experiment s teleportací (tělo je na Zemi rozloženo a přesná kopie sestavena na Marsu) se ve filosofii mysli používá především k tomu, aby:",
+  "options": [
+   "dokázal, že teleportace je technicky zcela nemožná",
+   "otestoval, co znamená, že jde stále o tutéž osobu",
+   "ukázal, že vědomí sídlí výhradně v míše, ne v mozku",
+   "prokázal, že duše při přenosu cestuje spolu s tělem"
+  ]
+ },
+ {
+  "id": "fmy-15",
+  "text": "Jaký je hlavní rozdíl mezi libertarianismem (v otázce svobodné vůle) a kompatibilismem?",
+  "options": [
+   "libertarianismus svobodnou vůli zcela popírá, kompatibilismus ji naopak plně potvrzuje",
+   "kompatibilismus je čistě politický pojem, s filosofií mysli vůbec nesouvisí",
+   "libertarianismus žádá neplatnost determinismu, kompatibilismus to nepovažuje za nutné",
+   "libertarianismus a kompatibilismus jsou vlastně dva odlišné názvy pro jednu pozici"
+  ]
+ },
+ {
+  "id": "fmy-16",
+  "text": "Jak kompatibilista laicky vysvětlí, že máme svobodnou vůli, i když svět je (třeba) plně kauzálně determinovaný?",
+  "options": [
+   "svoboda znamená, že jednání není způsobené ani vlastními přáními",
+   "svobodná vůle je iluze, kterou kompatibilismus rovněž popírá",
+   "svoboda vyžaduje, aby v mozku vznikala čistá kvantová náhoda",
+   "svoboda je jednání podle vlastních přání a bez vnějšího donucení"
+  ]
+ },
+ {
+  "id": "fmy-17",
+  "text": "Kritici argumentu s filosofickým zombiem často namítají, že i kdyby byl zombie logicky (pojmově) myslitelný, neznamená to ještě, že je:",
+  "options": [
+   "přírodně možný, slučitelný s reálnými přírodními zákony",
+   "vůbec formulovatelný jako smysluplný myšlenkový experiment",
+   "relevantní pro současnou debatu o umělé inteligenci",
+   "zajímavým podnětem pro kognitivní vědu a psychologii mysli"
+  ]
+ },
+ {
+  "id": "fmy-18",
+  "text": "Jednou z fyzikalistických odpovědí na argument s Mary v černobílém pokoji je tzv. „hypotéza schopnosti“ (ability hypothesis). Co tvrdí?",
+  "options": [
+   "Mary ve skutečnosti nikdy nezačne vidět, protože v pokoji dávno oslepla",
+   "Mary nezíská nový fakt, jen novou schopnost barvu poznat a představit si ji",
+   "fyzika o barvách, kterou Mary znala, byla už od počátku neúplná a chybná",
+   "prožitek barvy je z definice úplně totéž co znalost vlnové délky"
+  ]
+ },
+ {
+  "id": "fmy-19",
+  "text": "Argument z obráceného spektra (inverted qualia) je namířen především proti které pozici?",
+  "options": [
+   "proti substančnímu dualismu duše a těla podle Descarta",
+   "proti panpsychismu jako celkovému řešení hard problému",
+   "proti funkcionalismu, protože role jde s odlišnými qualii",
+   "proti eliminativnímu materialismu manželů Churchlandových"
+  ]
+ },
+ {
+  "id": "fmy-20",
+  "text": "Na Searlův čínský pokoj reaguje tzv. „systémová odpověď“ (systems reply) tvrzením, že:",
+  "options": [
+   "čínský pokoj dokazuje, že počítač nikdy nebude rozumět jazyku",
+   "člověk v místnosti čínsky rozumí, jen si to neuvědomuje",
+   "experiment je nesmyslný, protože pokoj nejde fyzicky sestavit",
+   "porozumění je vlastností celého systému, nejen člověka uvnitř"
+  ]
+ },
+ {
+  "id": "tom-01",
+  "text": "Co přesně znamená pojem \"theory of mind\" (teorie mysli) v kognitivní vědě?",
+  "options": [
+   "Schopnost připisovat druhým (i sobě) mentální stavy jako přesvědčení, přání a záměry a používat je k předvídání chování",
+   "Filozofická teorie o tom, z čeho je mysl fyzicky složená a jak souvisí s mozkem",
+   "Schopnost přesně popsat vlastní emoce slovy v terapeutickém rozhovoru",
+   "Soubor pravidel logiky, podle kterých mysl zpracovává abstraktní pojmy"
+  ]
+ },
+ {
+  "id": "tom-02",
+  "text": "Co konkrétně testuje klasický Sally-Anne test u dětí?",
+  "options": [
+   "Jestli si dítě dokáže zapamatovat, kam bylo schováno více předmětů najednou",
+   "Jestli dítě pochopí, že jiná osoba může mít mylné přesvědčení odlišné od skutečnosti",
+   "Jestli dítě umí správně pojmenovat emoce na obličejích panenek",
+   "Jestli dítě dokáže odhadnout, co si druhá osoba myslí o něm samotném"
+  ]
+ },
+ {
+  "id": "tom-03",
+  "text": "Kolem kterého věku typicky vývojově zdravé děti poprvé spolehlivě projdou standardním verbálním testem falešného přesvědčení?",
+  "options": [
+   "Kolem 4 let věku",
+   "Kolem 9 měsíců věku",
+   "Kolem 8 let věku",
+   "Kolem 18 měsíců věku"
+  ]
+ },
+ {
+  "id": "tom-04",
+  "text": "Co ukazují studie s metodou porušeného očekávání (violation-of-expectation) u kojenců mladších dvou let ohledně falešného přesvědčení?",
+  "options": [
+   "Kojenci dívají se déle na scény, kde postava jedná v rozporu s tím, co by čekala podle svého mylného přesvědčení",
+   "Kojenci nereagují na scény s falešným přesvědčením žádným měřitelným rozdílem v délce pohledu",
+   "Kojenci se dívají déle výhradně na scény se skutečným, nikoli mylným stavem věcí",
+   "Kojenci projevují reakci jen tehdy, když postavou ve scéně je jejich vlastní matka"
+  ]
+ },
+ {
+  "id": "tom-05",
+  "text": "Jaký byl hlavní závěr původního experimentu Premacka a Woodruffa (1978) se šimpanzicí Sarah?",
+  "options": [
+   "Sarah vybírala řešení problémů herce ve videu způsobem naznačujícím připisování záměrů, což vyvolalo desítky let trvající debatu o interpretaci",
+   "Sarah prokázala jednoznačné pochopení falešného přesvědčení srovnatelné s pětiletým dítětem",
+   "Sarah nedokázala rozlišit žádné situace na videu a volila možnosti náhodně",
+   "Sarah se naučila používat znakový jazyk k popisu toho, co si druzí myslí"
+  ]
+ },
+ {
+  "id": "tom-06",
+  "text": "Co ukázaly experimenty s kompetitivním přístupem k jídlu (Hare, Call, Tomasello) o schopnostech šimpanzů?",
+  "options": [
+   "Podřízený šimpanz preferoval jídlo, které dominantní jedinec neviděl, na rozdíl od jídla, které viděl oba",
+   "Šimpanzi v kompetitivní situaci volili jídlo vždy náhodně bez ohledu na to, kdo ho viděl",
+   "Dominantní i podřízený šimpanz sahali vždy jen po jídle, které bylo blíž jejich vlastní pozici",
+   "Šimpanzi dokázali kompetitivní situaci vyřešit pouze tehdy, když jim experimentátor jídlo přímo ukázal"
+  ]
+ },
+ {
+  "id": "tom-07",
+  "text": "Co je klíčovým poznatkem výzkumu krkavcovitých ptáků (vrány, sojky, krkavci) ohledně schopnosti odhadovat pozorovatele?",
+  "options": [
+   "Ptáci si nikdy neschovávají potravu, pokud jsou v okolí jiní jedinci, bez ohledu na okolnosti",
+   "Krkavcovití si přeschovávají skrýše potravy častěji, pokud je při prvním schování pozoroval jiný jedinec",
+   "Krkavcovití reagují na přítomnost pozorovatele jen v laboratoři, nikdy ne ve volné přírodě",
+   "Schopnost přeschovávat potravu podle pozorovatele mají pouze samice krkavcovitých"
+  ]
+ },
+ {
+  "id": "tom-08",
+  "text": "Čím se liší schopnost psů rozumět lidským ukazovacím gestům od schopnosti šimpanzů v témže typu úlohy?",
+  "options": [
+   "Psi v testech s ukazováním na skryté jídlo obvykle uspívají snáz a spolehlivěji než šimpanzi",
+   "Šimpanzi rozumí lidskému ukazování bezchybně už od narození, psi se to musí dlouho učit",
+   "Ani psi, ani šimpanzi nedokážou lidské ukazovací gesto využít k nalezení jídla",
+   "Psi rozumí ukazování jen od jiných psů, lidská gesta zcela ignorují"
+  ]
+ },
+ {
+  "id": "tom-09",
+  "text": "Co přesně zjišťuje zrcadlový test (mark test) sebeuvědomění a jak souvisí s theory of mind?",
+  "options": [
+   "Testuje, jestli zvíře rozpozná neobvyklou značku na vlastním těle ve zrcadle jako patřící sobě — jde o sebeuvědomění, nikoli přímo o chápání mysli druhých",
+   "Testuje přímo schopnost zvířete odhadnout, co si o něm myslí jiný jedinec téhož druhu",
+   "Testuje, zda zvíře dokáže napodobit pohyby jiného jedince pozorovaného v zrcadle",
+   "Testuje schopnost zvířete rozeznat mezi vlastním a cizím hlasem v nahrávce"
+  ]
+ },
+ {
+  "id": "tom-10",
+  "text": "Jaká je hlavní kritika zrcadlového testu jako univerzálního měřítka sebeuvědomění napříč druhy?",
+  "options": [
+   "Test závisí na zrakové orientaci a péči o vlastní vzhled, takže druhy spoléhající na čich nebo hmat mohou test neprojít, přestože jsou jinak sebeuvědomělé",
+   "Test je kritizován za to, že ho zvládne úplně každý obratlovec bez výjimky, takže nic neodliší",
+   "Test byl zcela opuštěn, protože se ukázalo, že měří jen barvoslepost zvířat",
+   "Test funguje pouze u zvířat chovaných v zajetí a u volně žijících jedinců je nepoužitelný z etických důvodů"
+  ]
+ },
+ {
+  "id": "tom-11",
+  "text": "Jaký vztah se v longitudinálních studiích typicky ukazuje mezi jazykovými schopnostmi dítěte a úspěšností v testech falešného přesvědčení?",
+  "options": [
+   "Dřívější a bohatší jazykové schopnosti, zejména porozumění větám se slovesy typu \"myslet si\" a vedlejšími větami, predikují dřívější úspěch v testech falešného přesvědčení",
+   "Mezi jazykem a testy falešného přesvědčení se v žádné studii nepodařilo najít žádnou souvislost",
+   "Děti s výrazně opožděným vývojem řeči prochází testy falešného přesvědčení dříve než jejich vrstevníci",
+   "Souvislost existuje pouze u dvojjazyčných dětí, u jednojazyčných se neprojevuje vůbec"
+  ]
+ },
+ {
+  "id": "tom-12",
+  "text": "Co je hlavním korektním faktografickým bodem, který je dnes třeba zdůraznit ohledně vztahu autismu a theory of mind, oproti zjednodušenému klišé z 80. let?",
+  "options": [
+   "Ne všichni autističtí lidé mají obtíže v testech falešného přesvědčení a výkon silně závisí na verbálních schopnostech a formě testu; jde o statistickou tendenci, ne univerzální rys",
+   "Bylo prokázáno, že autističtí lidé mají teorii mysli vždy zcela nedotčenou a raná hypotéza byla úplně vyvrácena",
+   "Testy falešného přesvědčení už se v souvislosti s autismem vůbec nepoužívají a byly nahrazeny jen genetickými testy",
+   "Obtíže v teorii mysli se týkají výhradně dětí s autismem a u dospělých autistických lidí prý zcela mizí"
+  ]
+ },
+ {
+  "id": "tom-13",
+  "text": "V čem se zásadně liší \"teorie teorie\" (theory-theory) od simulační teorie jako dva konkurenční modely toho, jak lidé mentalizují?",
+  "options": [
+   "Teorie teorie tvrdí, že druhé chápeme pomocí naučené sítě naivních zákonitostí o chování mysli, zatímco simulační teorie tvrdí, že si stav druhého sami vnitřně napodobíme a použijeme vlastní mysl jako model",
+   "Obě teorie tvrdí prakticky totéž, jen používají jiné slovo pro stejný proces zpracování",
+   "Teorie teorie se týká pouze dětí, simulační teorie se týká výhradně dospělých",
+   "Simulační teorie tvrdí, že mentalizace vůbec neexistuje a jde jen o iluzi pozorovatele"
+  ]
+ },
+ {
+  "id": "tom-14",
+  "text": "Co je to \"curse of knowledge\" (prokletí vědění) v kognitivní vědě komunikace?",
+  "options": [
+   "Tendence člověka, který už fakt zná, podceňovat, jak těžké je pro druhého, jenž fakt nezná, si ho odvodit nebo pochopit",
+   "Neschopnost si zapamatovat informaci poté, co byla jednou zapomenuta",
+   "Sklon věřit, že vědomosti se ztrácejí rychleji, čím jsou složitější",
+   "Tendence nadhodnocovat, jak málo toho ví někdo jiný ve srovnání s realitou"
+  ]
+ },
+ {
+  "id": "tom-15",
+  "text": "Co znamená v Griceově pojetí komunikace rozdíl mezi tím, co je \"řečeno\", a tím, co je \"implikováno\" (conversational implicature)?",
+  "options": [
+   "\"Implikováno\" je smysl, který posluchač dovodí z toho, že mluvčí zdánlivě porušuje konverzační zásady, ačkoli předpokládá, že mluvčí je stále kooperativní",
+   "\"Implikováno\" znamená totéž co doslovný, gramaticky přímý význam vyřčené věty",
+   "Rozdíl je čistě formální a v praktické komunikaci nemá žádný dopad na porozumění",
+   "Implikatura vzniká výhradně u ironie a u žádného jiného typu výroku se nevyskytuje"
+  ]
+ },
+ {
+  "id": "tom-16",
+  "text": "Kolem kterého věku děti v testech typicky zvládají tzv. testy falešného přesvědčení druhého řádu (\"já vím, že on si myslí, že ona si myslí...\")?",
+  "options": [
+   "Kolem 6 až 7 let, tedy zřetelně později než jednoduché falešné přesvědčení prvního řádu",
+   "Přibližně ve stejném věku jako falešné přesvědčení prvního řádu, kolem 4 let",
+   "Už kolem 18 měsíců, dříve než přesvědčení prvního řádu",
+   "Testy druhého řádu zvládá naprostá většina dětí až v dospívání po 15. roce"
+  ]
+ },
+ {
+  "id": "tom-17",
+  "text": "Co v roce 2023 skutečně ukázala hojně citovaná studie Michala Kosinského o velkých jazykových modelech (LLM) a testech falešného přesvědčení?",
+  "options": [
+   "Některé tehdejší GPT modely dosahovaly na standardizovaných textových verzích testů falešného přesvědčení vysoké úspěšnosti, což vyvolalo debatu, zda jde o skutečné porozumění mentálním stavům, nebo o statistický vzorec z trénovacích dat",
+   "Studie prokázala, že žádný jazykový model nikdy nedokáže vyřešit ani jeden test falešného přesvědčení",
+   "Studie se týkala výhradně lidských dětí a jazykové modely v ní vůbec nefigurovaly",
+   "Studie ukázala, že jazykové modely mají biologicky ověřitelné vědomí srovnatelné s lidským"
+  ]
+ },
+ {
+  "id": "tom-18",
+  "text": "Jaký je hlavní metodologický problém s tvrzením, že vysoký výkon LLM na testech falešného přesvědčení dokazuje skutečnou teorii mysli?",
+  "options": [
+   "Drobné přeformulování úlohy nebo úloha mimo naučené šablony dokáže výkon modelu prudce snížit, což naznačuje spoléhání na povrchové vzorce místo obecné schopnosti",
+   "Problém neexistuje, protože výkon modelů je already naprosto stabilní napříč jakýmkoli přeformulováním úlohy",
+   "Testy falešného přesvědčení nelze na text vůbec převést, takže se u LLM v principu nedají zadávat",
+   "Jazykové modely úlohu vždy odmítnou zpracovat kvůli bezpečnostním filtrům"
+  ]
+ },
+ {
+  "id": "tom-19",
+  "text": "Proč je srovnávání \"teorie mysli\" u LLM s teorií mysli u lidí nebo zvířat pojmově problematické už na úrovni definice?",
+  "options": [
+   "Protože u lidí a zvířat je teorie mysli spojena s cílenou predikcí chování v reálném sociálním kontextu, zatímco u LLM jde o úspěšnost v textové úloze bez tělesnosti, záměrů či skutečné interakce s druhými myslemi",
+   "Protože zvířata a lidé teorii mysli vůbec nemají, takže srovnání je od základu nesmyslné z opačného důvodu",
+   "Protože LLM jsou definičně naprogramovány tak, aby teorii mysli měly zaručeně na 100 %",
+   "Protože se pojem theory of mind u zvířat i lidí testuje výhradně pomocí elektroencefalografie, kterou LLM nemají k dispozici"
+  ]
+ },
+ {
+  "id": "tom-20",
+  "text": "Co znamená rozlišení mezi \"kompetencí\" a \"performancí\" v diskusi o tom, kdy přesně dítě (nebo jiný systém) teorii mysli \"má\"?",
+  "options": [
+   "Jde o otázku, zda selhání v testu ukazuje chybějící podkladovou schopnost, nebo jen to, že ji zakrývají vedlejší nároky testu jako paměť, jazyk či potlačení impulzu odpovědět podle skutečnosti",
+   "Kompetence označuje výkon v laboratoři, performance výkon doma, a obě spolu nijak nesouvisí",
+   "Rozlišení se týká pouze rozdílu mezi verbálním a písemným testováním dětí",
+   "Kompetence je totéž co inteligenční kvocient a performance totéž co školní známky"
+  ]
+ },
+ {
+  "id": "nve-01",
+  "text": "Co znamená pojem 'neurální koreláty vědomí' (NCC), který zpopularizovali Francis Crick a Christof Koch?",
+  "options": [
+   "Minimální soubor mozkových procesů, který postačuje pro daný vědomý zážitek",
+   "Oblast mozku, která je jediným sídlem veškerého vědomí",
+   "Matematická konstanta popisující množství vědomí v systému",
+   "Soubor genů, které se aktivují pouze během bdělého vědomí"
+  ]
+ },
+ {
+  "id": "nve-02",
+  "text": "Co je to binokulární rivalita, často používaná ve výzkumu vědomí?",
+  "options": [
+   "Jev, kdy oba oči dostávají odlišný obraz a vědomé vnímání mezi nimi spontánně přeskakuje",
+   "Porucha vidění, při níž jedno oko vidí ostře a druhé rozmazaně trvale",
+   "Soutěž dvou mozkových hemisfér o kontrolu nad pohybem očí",
+   "Efekt, kdy mozek při únavě vidí dvojité obrazy jednoho podnětu"
+  ]
+ },
+ {
+  "id": "nve-03",
+  "text": "Co je hlavní myšlenkou teorie globálního pracoviště (global workspace theory) Bernarda Baarse?",
+  "options": [
+   "Vědomé je to, co se stane dostupným a 'vysílá se' napříč mnoha specializovanými mozkovými procesy",
+   "Vědomí sídlí výhradně v jednom centrálním neuronu zvaném 'buňka babičky'",
+   "Vědomí vzniká jen tehdy, když mozek zpracovává informace pomaleji než obvykle",
+   "Každá mozková oblast má svoje vlastní nezávislé, oddělené vědomí"
+  ]
+ },
+ {
+  "id": "nve-04",
+  "text": "Jak Stanislas Dehaene rozvinul Baarsovu teorii globálního pracoviště do neuronální podoby?",
+  "options": [
+   "Navrhl, že vědomí odpovídá náhlé, rozsáhlé aktivaci sítě neuronů s dlouhými axony, hlavně v prefrontální a parietální kůře",
+   "Tvrdil, že vědomí vzniká výhradně v mozečku, nezávisle na kůře",
+   "Prokázal, že vědomí je totožné s elektrickou aktivitou celého mozku bez rozdílu",
+   "Ukázal, že globální pracoviště odpovídá jedné konkrétní molekule neurotransmiteru"
+  ]
+ },
+ {
+  "id": "nve-05",
+  "text": "Co je to blindsight (slepý zrak)?",
+  "options": [
+   "Schopnost pacientů s poškozením zrakové kůry reagovat na zrakové podněty, které vědomě 'nevidí'",
+   "Dočasná slepota vyvolaná extrémním leknutím nebo stresem",
+   "Halucinace vizuálních tvarů u lidí, kteří jsou od narození plně nevidomí",
+   "Schopnost některých lidí vidět i se zavřenýma očima díky vycvičené intuici"
+  ]
+ },
+ {
+  "id": "nve-06",
+  "text": "Jaký je hlavní princip prediktivního zpracování (predictive processing), jak jej popularizuje Anil Seth pojmem 'řízená halucinace'?",
+  "options": [
+   "Mozek neustále generuje predikce o příčinách svých smyslových vstupů a vjem je nejlepší dostupný odhad, průběžně opravovaný chybou predikce",
+   "Mozek jen pasivně zaznamenává smyslová data bez jakéhokoli předchozího očekávání",
+   "Halucinace vznikají výhradně u lidí s poškozeným mozkem a se zdravým vnímáním nesouvisí",
+   "Predikce mozku se týkají pouze budoucích pohybů těla, nikoli vnímání okolního světa"
+  ]
+ },
+ {
+  "id": "nve-07",
+  "text": "Co ukazují slavné split-brain experimenty (Sperry, Gazzaniga) u pacientů s přerušeným corpus callosum?",
+  "options": [
+   "Že informace předložená jen levému nebo jen pravému zornému poli je zpracována danou hemisférou, aniž ji ta druhá 'vidí'",
+   "Že po přerušení corpus callosum lidé zcela ztrácejí schopnost mluvit",
+   "Že obě hemisféry mají po operaci naprosto identické schopnosti ve všech ohledech",
+   "Že vědomí sídlí výhradně v pravé hemisféře a levá je jen 'tichý' pomocník"
+  ]
+ },
+ {
+  "id": "nve-08",
+  "text": "Co zjistil Adrian Owen a kolegové u části pacientů diagnostikovaných jako ve vegetativním stavu (nyní nazývaném stav bdělé nereaktivity)?",
+  "options": [
+   "Že si někteří z nich dokázali pomocí fMRI představovat úlohy podle instrukcí, a tak s výzkumníky komunikovat ano/ne",
+   "Že vegetativní stav je vždy plně reverzibilní během několika dní bez léčby",
+   "Že žádný pacient ve vegetativním stavu nikdy nevykazuje žádnou mozkovou aktivitu",
+   "Že diagnóza vegetativního stavu je vždy stoprocentně přesná a omyl není možný"
+  ]
+ },
+ {
+  "id": "nve-09",
+  "text": "Čím se locked-in syndrom liší od vegetativního stavu (stavu bdělé nereaktivity)?",
+  "options": [
+   "U locked-in syndromu je vědomí plně zachováno, jen chybí schopnost hýbat tělem a mluvit (často zůstávají pohyby očí); u vegetativního stavu chybí zjevné vědomé prožívání",
+   "Locked-in syndrom znamená úplnou ztrátu vědomí, zatímco vegetativní stav znamená jeho plné zachování",
+   "Oba pojmy popisují tentýž klinický stav, jen jiným jménem podle země",
+   "Locked-in syndrom postihuje pouze zrak, vegetativní stav pouze sluch"
+  ]
+ },
+ {
+  "id": "nve-10",
+  "text": "Co v klasickém experimentu měřil Benjamin Libet, když se ptal po 'vůli k pohybu'?",
+  "options": [
+   "Časový vztah mezi 'pohotovostním potenciálem' (RP) v mozku, vědomým pocitem rozhodnutí a samotným pohybem ruky",
+   "Rychlost, jakou nervový vzruch putuje z mozku do svalu ruky",
+   "Množství svalové síly potřebné k volnímu stisknutí tlačítka",
+   "Rozdíl v reakčním čase mezi levou a pravou rukou"
+  ]
+ },
+ {
+  "id": "nve-11",
+  "text": "Jaká je jedna z hlavních kritik, kterou dnešní neurovědci vznášejí vůči Libetově interpretaci jeho experimentu jako důkazu, že 'mozek rozhoduje dřív než my'?",
+  "options": [
+   "Pohotovostní potenciál může odrážet spíše obecné kolísání neuronální aktivity v době rozhodování než konkrétní příkaz k pohybu, a subjektivní časování záměru je navíc nepřesně měřitelné",
+   "Libetův experiment byl zcela zfalšován a žádná data ve skutečnosti neexistují",
+   "Pohotovostní potenciál byl později prokázán jako artefakt vadného EEG přístroje používaného pouze v 80. letech",
+   "Kritika tvrdí, že lidé v experimentu ve skutečnosti vůbec nehýbali rukou"
+  ]
+ },
+ {
+  "id": "nve-12",
+  "text": "Co se děje s mozkovou aktivitou během REM spánku, ve kterém se odehrává většina živých snů?",
+  "options": [
+   "Mozek je paradoxně velmi aktivní, podobně jako v bdělém stavu, zatímco kosterní svalstvo je z velké části ochromené",
+   "Mozková aktivita během REM spánku téměř úplně ustává, podobně jako při celkové anestezii",
+   "REM spánek je jediná fáze spánku, kdy člověk nikdy nesní",
+   "Během REM spánku je aktivní pouze mozeček, zatímco zbytek mozku je zcela vypnutý"
+  ]
+ },
+ {
+  "id": "nve-13",
+  "text": "Co je interocepce v kontextu vědomí a sebeuvědomění?",
+  "options": [
+   "Vnímání vnitřních tělesných stavů, jako je srdeční tep, dech nebo hlad, a jejich role při utváření pocitu 'já' a emocí",
+   "Schopnost přesně vidět předměty ve tmě bez použití zraku",
+   "Vnímání polohy těla v prostoru pomocí vnitřního ucha",
+   "Proces, kterým mozek zpracovává pouze zvukové podněty přicházející zvenčí"
+  ]
+ },
+ {
+  "id": "nve-14",
+  "text": "Co konkrétně měří 'perturbační komplexnostní index' (PCI), nástroj vyvinutý týmem Marcella Massimini a používaný mimo jiné k odhadu vědomí u pacientů s poruchami vědomí?",
+  "options": [
+   "Složitost odezvy mozkové elektrické aktivity (EEG) po magnetickém 'zabrnknutí' kůry pomocí TMS — čím složitější a méně stlačitelná odezva, tím vyšší odhadované vědomí",
+   "Přesný počet neuronů, které jsou v danou chvíli elektricky aktivní v celém mozku",
+   "Rychlost, jakou krev proudí přes celý mozek za jednu minutu",
+   "Poměr mezi hmotností mozku a hmotností těla u daného pacienta"
+  ]
+ },
+ {
+  "id": "nve-15",
+  "text": "Co je klíčovou myšlenkou teorie integrované informace (IIT) Giulia Tononiho ohledně toho, co dělá systém vědomým?",
+  "options": [
+   "Míra vědomí (fí, Φ) odpovídá tomu, kolik informace systém integruje nad rámec pouhého součtu svých částí",
+   "Vědomí je přítomno pouze tam, kde probíhá elektrická aktivita rychlejší než 100 Hz",
+   "Vědomí vzniká výhradně v systémech postavených na uhlíkových sloučeninách, nikdy jinde",
+   "Fí je metrika, která měří pouze objem mozkové tkáně v kubických centimetrech"
+  ]
+ },
+ {
+  "id": "nve-16",
+  "text": "V čem spočívá jedna z hlavních kontroverzí kolem teorie integrované informace (IIT), která v roce 2023 vedla přes sto vědců k otevřenému dopisu?",
+  "options": [
+   "IIT je podle kritiků obtížně testovatelná a připouští, že i velmi jednoduché nebiologické systémy s vhodným zapojením by mohly mít vysoké fí, což někteří označili za 'nevědeckou' vlastnost teorie",
+   "IIT tvrdí, že vědomí vůbec neexistuje a je jen sociálním konstruktem",
+   "IIT byla experimentálně stoprocentně vyvrácena jediným měřením fí u lidí",
+   "Kritici tvrdí, že IIT nikdy nebyla publikována v žádném vědeckém časopise"
+  ]
+ },
+ {
+  "id": "nve-17",
+  "text": "Co je hlavní myšlenkou teorie schématu pozornosti (attention schema theory) Michaela Grazziana?",
+  "options": [
+   "Mozek si vytváří zjednodušený vnitřní model vlastní pozornosti, a subjektivní pocit vědomí je podle teorie právě tímto modelem",
+   "Pozornost a vědomí jsou dvě zcela nezávislé věci, které spolu nikdy nesouvisejí",
+   "Vědomí je jen jiné jméno pro krátkodobou paměť a s pozorností nemá nic společného",
+   "Teorie tvrdí, že pozornost je řízena výhradně mozečkem, nikoli kůrou"
+  ]
+ },
+ {
+  "id": "nve-18",
+  "text": "Jak celková anestezie podle současného výzkumu nejspíše ruší vědomí, i když mozek zůstává elektricky aktivní?",
+  "options": [
+   "Narušuje schopnost mozkových oblastí efektivně a integrovaně komunikovat mezi sebou, i když lokální aktivita jednotlivých oblastí přetrvává",
+   "Anestezie zcela zastavuje veškerou elektrickou aktivitu mozku, podobně jako smrt mozku",
+   "Anestetika fungují tak, že dočasně zničí neurony v celé mozkové kůře",
+   "Vědomí mizí proto, že anestezie zablokuje pouze sluchový nerv"
+  ]
+ },
+ {
+  "id": "nve-19",
+  "text": "Co znamená hypotéza 'entropického mozku' (entropic brain hypothesis), spojovaná s výzkumem psychedelik u Robina Carhart-Harrise?",
+  "options": [
+   "Psychedelika podle ní zvyšují neuronální entropii (nepředvídatelnost a rozmanitost mozkové aktivity) a zároveň oslabují dominanci sítí jako defaultní síť, což koreluje s méně strukturovaným, více 'plastickým' stavem vědomí",
+   "Hypotéza tvrdí, že psychedelika zcela a nevratně zvyšují množství neuronů v mozku",
+   "Podle hypotézy psychedelika snižují veškerou mozkovou aktivitu téměř k nule, podobně jako hluboká anestezie",
+   "Entropie mozku je podle hypotézy vždy konstantní a psychedelika ji nijak neovlivňují"
+  ]
+ },
+ {
+  "id": "nve-20",
+  "text": "Co je podstatou tzv. 'těžkého problému vědomí' (hard problem), jak jej formuloval filosof David Chalmers, a proč jej neurovědecké teorie jako GWT či IIT podle kritiků plně neřeší?",
+  "options": [
+   "Jde o otázku, proč a jak vůbec fyzikální procesy v mozku doprovází subjektivní kvalitativní prožitek ('jaké to je' něco cítit) — zatímco funkční teorie typně popisují jen to, KTERÉ procesy s vědomím korelují nebo jakou funkci plní",
+   "Jde o technický problém, jak sestrojit dostatečně výkonný počítač pro simulaci celého lidského mozku",
+   "Jde o otázku, proč má lidský mozek tak vysokou spotřebu energie ve srovnání s ostatními orgány",
+   "Jde o čistě etickou otázku, zda je přípustné provádět pokusy na zvířatech"
+  ]
+ },
+ {
+  "id": "cra-01",
+  "text": "Kleopatra žila blíž době, kdy vzlétl první iPhone, než době postavení Velké pyramidy v Gíze. Jak je to možné?",
+  "options": [
+   "Egyptologové nedávno posunuli datování pyramid o tisíc let dopředu",
+   "Kleopatra ve skutečnosti žila o mnoho staletí později, než se dříve myslelo",
+   "Mezi stavbou pyramid a Kleopatřinou vládou uplynulo přes 2500 let, zatímco od ní k dnešku je to jen asi 2050 let",
+   "Jde jen o oblíbený internetový mýtus, časově to vůbec nesedí"
+  ]
+ },
+ {
+  "id": "cra-02",
+  "text": "Žraloci existují na Zemi déle než stromy. O kolik zhruba jsou žraloci starší?",
+  "options": [
+   "O desítky milionů let – první žraloci se objevili dřív než první stromovité rostliny",
+   "Žraloci jsou naopak o desítky milionů let mladší než první stromy",
+   "Jsou stejně staří, oba se objevili téměř současně",
+   "Žraloci jsou starší jen o pár milionů let, rozdíl je zanedbatelný"
+  ]
+ },
+ {
+  "id": "cra-03",
+  "text": "Archeologové našli ve starověkých egyptských hrobkách nádoby s medem starým tisíce let. Co se při rozboru zjistilo?",
+  "options": [
+   "Med byl už dávno zkažený a zcela nepoživatelný",
+   "Med byl stále chemicky stabilní a v zásadě poživatelný",
+   "Med se proměnil v beztvarou krystalickou hmotu bez jakýchkoliv vlastností medu",
+   "Med během tisíciletí zfermentoval na alkoholický nápoj"
+  ]
+ },
+ {
+  "id": "cra-04",
+  "text": "Vikingové s rohatými přilbami jsou ikonickým obrazem z filmů a komiksů. Co na to říkají archeologické nálezy z vikingské doby?",
+  "options": [
+   "Rohaté přilby prý nosili jen náčelníci při slavnostních obřadech",
+   "Archeologové našli desítky rohatých přileb přímo v hrobech bojovníků",
+   "Rohy se údajně používaly v boji k zastrašení protivníka",
+   "Žádná archeologicky doložená vikingská bojová přilba rohy neměla – jde o výmysl z 19. století"
+  ]
+ },
+ {
+  "id": "cra-05",
+  "text": "Napoleon je proslulý jako podivně malý muž, odtud i pojem „napoleonský komplex“. Jak to bylo doopravdy s jeho výškou?",
+  "options": [
+   "Měřil jen asi 150 cm, tedy skutečně výrazně méně než průměr",
+   "Jeho výška se z dochovaných záznamů nikdy spolehlivě nezjistila",
+   "Měřil kolem 168–170 cm, tedy zhruba průměrnou výšku na svou dobu",
+   "Byl naopak nadprůměrně vysoký, přes 185 cm"
+  ]
+ },
+ {
+  "id": "cra-06",
+  "text": "Podle populárního tvrzení má zlatá rybka paměť dlouhou jen asi tři sekundy. Co ukazují skutečné studie chování ryb?",
+  "options": [
+   "Zlaté rybky si dokážou naučené věci pamatovat týdny až měsíce",
+   "Paměť zlatých rybek je přesně tak krátká, jak tvrdí pověst",
+   "Rybky si údajně pamatují jen barvy, nikdy ne tvary ani zvuky",
+   "Paměť rybek závisí na teplotě vody a nikdy nepřesáhne jednu minutu"
+  ]
+ },
+ {
+  "id": "cra-07",
+  "text": "Rozšířené tvrzení říká, že lidé využívají jen 10 % mozku. Co ukazují moderní zobrazovací metody jako fMRI?",
+  "options": [
+   "Je to pravda, zbylých 90 % mozku je trvale nečinných",
+   "Během dne je postupně aktivní prakticky celý mozek, jen ne všechny oblasti najednou",
+   "Využíváme přesně 50 % mozku, zbytek slouží jako záložní kapacita",
+   "Aktivních je jen 10 % neuronů, zbytek tvoří čistě podpůrná tkáň"
+  ]
+ },
+ {
+  "id": "cra-08",
+  "text": "Kolik srdcí má chobotnice?",
+  "options": [
+   "Jedno, stejně jako většina ostatních živočichů",
+   "Dvě srdce, jedno hlavní a jedno záložní pro nouzové situace",
+   "Čtyři srdce, po jednom pro každý pár chapadel",
+   "Tři srdce – dvě pumpují krev do žaber, jedno do zbytku těla"
+  ]
+ },
+ {
+  "id": "cra-09",
+  "text": "Z botanického hlediska je banán bobule, zatímco jahoda ne. Proč je tomu tak?",
+  "options": [
+   "Protože banán roste na stromě, zatímco jahoda na nízkém keři",
+   "Protože jahoda má semínka schovaná uvnitř dužiny a banán ne",
+   "Bobule vzniká z jednoho pestíku a má dužinu se semeny uvnitř – to splňuje banán, jahoda je botanicky nepravý plod",
+   "Protože banán obsahuje výrazně víc cukru než jahoda"
+  ]
+ },
+ {
+  "id": "cra-10",
+  "text": "Velká čínská zeď je prý jediná lidská stavba viditelná ze samotného vesmíru pouhým okem. Co k tomu skutečně říkají astronauti?",
+  "options": [
+   "Volným okem z oběžné dráhy ji za normálních podmínek rozeznat nelze, je moc úzká",
+   "Je vidět, ale jen za soumraku díky dlouhým stínům podél zdi",
+   "Je vidět jedině z Měsíce, ne z nízké oběžné dráhy Země",
+   "Je vidět stejně dobře jako všechna velká města dohromady"
+  ]
+ },
+ {
+  "id": "cra-11",
+  "text": "Traduje se, že Albert Einstein jako školák propadal z matematiky. Jak to bylo doopravdy?",
+  "options": [
+   "Opravdu opakovaně neuspěl u zkoušek z matematiky",
+   "V matematice naopak od malička vynikal, jen neuspěl u přijímací zkoušky kvůli jiným předmětům",
+   "Matematiku nikdy formálně nestudoval, byl v ní čistý samouk",
+   "Měl výborné známky ze všech předmětů kromě fyziky"
+  ]
+ },
+ {
+  "id": "cra-12",
+  "text": "Co vzniklo dřív – výuka na Oxfordské univerzitě, nebo Aztécká říše?",
+  "options": [
+   "Obojí vzniklo přibližně ve stejném století",
+   "Aztécká říše vznikla o více než sto let dřív než Oxford",
+   "Nelze to srovnávat, protože Aztécká říše nemá žádné přesné datum založení",
+   "Výuka v Oxfordu probíhala už kolem roku 1096, zatímco aztécký Trojspolek vznikl až roku 1428"
+  ]
+ },
+ {
+  "id": "cra-13",
+  "text": "Na Venuši trvá jedna otočka kolem vlastní osy déle než jeden venušský rok. Jak je to možné?",
+  "options": [
+   "Je to nesmysl, den nemůže být na žádné planetě delší než rok",
+   "Venuše prakticky nerotuje, „den“ se u ní počítá úplně jinak",
+   "Venuše rotuje kolem osy extrémně pomalu (243 pozemských dní), zatímco kolem Slunce oběhne už za 225 dní",
+   "Je to dané tím, že Venuše obíhá Slunce opačným směrem, než rotuje"
+  ]
+ },
+ {
+  "id": "cra-14",
+  "text": "Kolik procent DNA sdílí člověk zhruba s banánovníkem?",
+  "options": [
+   "Asi 50 % – mnoho základních buněčných genů je podobných napříč živými organismy",
+   "Prakticky 0 %, rostliny a živočichové nemají žádné společné geny",
+   "Přes 90 %, protože obě jsou eukaryotické organismy",
+   "Jen asi 10 %, a to výhradně geny týkající se růstu"
+  ]
+ },
+ {
+  "id": "cra-15",
+  "text": "Který konflikt je v Guinnessově knize rekordů zapsaný jako nejkratší válka v historii?",
+  "options": [
+   "Šestidenní válka mezi Izraelem a arabskými státy roku 1967",
+   "Britsko-zanzibarská válka roku 1896, trvající asi 38 minut",
+   "Falklandská válka roku 1982, ukončená za necelý týden",
+   "Fotbalová válka mezi Salvadorem a Hondurasem roku 1969, trvající několik hodin"
+  ]
+ },
+ {
+  "id": "cra-16",
+  "text": "Který živočich je oficiálním národním zvířetem Skotska?",
+  "options": [
+   "Skotský vysokohorský jelen",
+   "Lev, symbol skotské královské koruny",
+   "Skotský teriér",
+   "Jednorožec – heraldický symbol používaný už od středověku"
+  ]
+ },
+ {
+  "id": "cra-17",
+  "text": "Vombat je jediné zvíře, jehož trus má nezvyklý geometrický tvar. Jaký?",
+  "options": [
+   "Trojúhelníkový, s ostrými hranami",
+   "Ve tvaru pěticípé hvězdy",
+   "Přibližně krychlový, s téměř plochými hranatými stranami",
+   "Šroubovicově zatočený jako vývrtka"
+  ]
+ },
+ {
+  "id": "cra-18",
+  "text": "Eiffelova věž je v létě měřitelně vyšší než v zimě. Čím to je způsobeno?",
+  "options": [
+   "Ocelová konstrukce se teplem roztahuje, věž tak naroste o zhruba 15 cm",
+   "V létě se na vrchol montuje dočasná sezónní anténa",
+   "Jde jen o optický klam způsobený tepelným oparem nad věží",
+   "V létě se věž víc naklání, takže opticky vypadá vyšší"
+  ]
+ },
+ {
+  "id": "cra-19",
+  "text": "Everest je nejvyšší hora světa měřeno od hladiny moře. Která hora je ale vyšší, počítáme-li od jejího úplného úpatí, i pod hladinou oceánu?",
+  "options": [
+   "K2 v pákistánském Karákóramu",
+   "Mauna Kea na Havaji, sopka sahající hluboko pod mořskou hladinu",
+   "Denali na Aljašce",
+   "Kilimandžáro v Tanzanii"
+  ]
+ },
+ {
+  "id": "cra-20",
+  "text": "Počet možných odlišných partií šachu, takzvané Shannonovo číslo (řádově 10^120), je ve srovnání s odhadovaným počtem atomů v pozorovatelném vesmíru (řádově 10^80)…",
+  "options": [
+   "Zhruba stejně velký, oba řády se prakticky shodují",
+   "Menší – atomů ve vesmíru je podle odhadů podstatně víc",
+   "Nelze srovnávat, jde o veličiny zcela jiného druhu",
+   "O mnoho řádů větší – možných partií je nepředstavitelně víc než atomů v celém pozorovatelném vesmíru"
+  ]
+ }
+]

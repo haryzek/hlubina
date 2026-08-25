@@ -1,0 +1,322 @@
+[
+ {
+  "id": "kos-01",
+  "type": "F",
+  "category": "kosmologie",
+  "text": "Světelný rok je jednotka, kterou astronomové používají k měření vzdáleností ve vesmíru. Co přesně vyjadřuje?",
+  "options": [
+   "Čas jednoho oběhu hvězdy kolem středu galaxie",
+   "Vzdálenost, kterou světlo urazí za jeden rok",
+   "Celkové množství světla vyzářené hvězdou za rok",
+   "Vzdálenost Země od Slunce vynásobenou počtem dní v roce"
+  ],
+  "correct": 1,
+  "explanation": "Světelný rok je vzdálenost, ne čas - světlo ve vakuu urazí za jeden rok přibližně 9,46 bilionu kilometrů. Používá se, protože vzdálenosti mezi hvězdami a galaxiemi jsou v kilometrech nepředstavitelně velká čísla.",
+  "source": "NASA/ESA popularizace; Jim Kaler, \"Stars\"",
+  "seedElo": 1300
+ },
+ {
+  "id": "kos-02",
+  "type": "F",
+  "category": "kosmologie",
+  "text": "Co hvězdu jako Slunce udržuje po miliardy let stabilní, aby se nezhroutila vlastní gravitací?",
+  "options": [
+   "Magnetické pole hvězdy, které odpuzuje okolní plyn",
+   "Rotace hvězdy kolem vlastní osy odstředivou silou",
+   "Tlak slunečního větru, který uniká z povrchu hvězdy",
+   "Rovnováha mezi gravitací a tlakem záření z jaderné fúze"
+  ],
+  "correct": 3,
+  "explanation": "Hvězda je v tzv. hydrostatické rovnováze: gravitace ji stlačuje dovnitř, zatímco tlak vznikající jadernou fúzí vodíku na helium v jádru ji tlačí ven. Když palivo dojde, rovnováha se poruší a hvězda se vyvíjí dál - podle hmotnosti do bílého trpaslíka, neutronové hvězdy nebo černé díry.",
+  "source": "Kippenhahn & Weigert, \"Stellar Structure and Evolution\"",
+  "seedElo": 1330
+ },
+ {
+  "id": "kos-03",
+  "type": "F",
+  "category": "kosmologie",
+  "text": "Odkud pochází většina uhlíku, kyslíku a železa, ze kterých je složeno lidské tělo i Země?",
+  "options": [
+   "Vznikly jadernou fúzí a výbuchy hvězd, jež je rozptýlily",
+   "Byly přítomny už při velkém třesku ve stejném množství jako dnes",
+   "Přinesly je na Zemi komety během posledních miliard let",
+   "Vznikají rozpadem temné hmoty v mezihvězdném prostoru"
+  ],
+  "correct": 0,
+  "explanation": "Velký třesk vytvořil hlavně vodík a helium; těžší prvky jako uhlík, kyslík nebo železo vznikají jadernou fúzí uvnitř hvězd a do vesmíru se dostávají při jejich smrti, například při výbuchu supernovy. Proto se říká, že jsme doslova \"hvězdný prach\".",
+  "source": "Carl Sagan, \"Cosmos\"; NASA nucleosynthesis overview",
+  "seedElo": 1360
+ },
+ {
+  "id": "kos-04",
+  "type": "F",
+  "category": "kosmologie",
+  "text": "Edwin Hubble v roce 1929 zjistil, že vzdálené galaxie se od nás vzdalují. Jaký vztah mezi vzdáleností a rychlostí ústupu galaxií pozoroval?",
+  "options": [
+   "Rychlost ústupu galaxií nezávisí na jejich vzdálenosti od nás",
+   "Vzdálenější galaxie se naopak vzdalují pomaleji než blízké",
+   "Čím je galaxie vzdálenější, tím rychleji se od nás vzdaluje",
+   "Galaxie se vzdalují jen v jednom směru na obloze, v ostatních přibližují"
+  ],
+  "correct": 2,
+  "explanation": "Hubbleův zákon říká, že rychlost vzdalování galaxie je přímo úměrná její vzdálenosti - to je přímý důkaz, že se prostor mezi galaxiemi rozpíná rovnoměrně všemi směry, a ne že bychom byli ve zvláštním středu vesmíru.",
+  "source": "Hubble, E.: \"A Relation between Distance and Radial Velocity\" (1929)",
+  "seedElo": 1390
+ },
+ {
+  "id": "kos-05",
+  "type": "F",
+  "category": "kosmologie",
+  "text": "Proč se světlo vzdalujících se galaxií jeví posunuté směrem k červené barvě spektra (tzv. rudý posuv)?",
+  "options": [
+   "Vzdálené galaxie obsahují méně horkých modrých hvězd než blízké",
+   "Rozpínající se prostor natahuje vlnovou délku světla na cestě k nám",
+   "Mezihvězdný prach pohlcuje modré světlo víc než to červené",
+   "Vzdálené galaxie mají nižší teplotu, a proto září jen do červena"
+  ],
+  "correct": 1,
+  "explanation": "Rudý posuv u vzdálených galaxií je kosmologický - vzniká tím, že se prostor mezi zdrojem a pozorovatelem během letu světla rozpíná, takže se s ním natahuje i vlnová délka fotonů směrem k červenému konci spektra. Není to totéž jako zčervenání způsobené prachem, které je lokální a nesouvisí se vzdáleností stejným způsobem.",
+  "source": "Wright, E. L.: \"A Cosmology Calculator\"; Liddle, A.: \"An Introduction to Modern Cosmology\"",
+  "seedElo": 1420
+ },
+ {
+  "id": "kos-06",
+  "type": "F",
+  "category": "kosmologie",
+  "text": "Co je reliktní (mikrovlnné) záření, které v roce 1965 náhodou objevili Penzias a Wilson?",
+  "options": [
+   "Záření vysílané centrální černou dírou v jádru Mléčné dráhy",
+   "Odražené světlo Slunce rozptýlené na mezihvězdném prachu",
+   "Signál pozůstalý po výbuchu první generace hvězd ve vesmíru",
+   "Zbytkové záření z doby, kdy se vesmír stal průhledným"
+  ],
+  "correct": 3,
+  "explanation": "Reliktní záření (CMB) je nejstarší světlo, které můžeme pozorovat - vzniklo, když se vesmír po velkém třesku dostatečně ochladil na to, aby se elektrony spojily s jádry v atomy a foton mohl volně letět prostorem. Dnes je vlivem rozpínání vesmíru ochlazené na pouhé asi 2,7 kelvinu.",
+  "source": "Penzias & Wilson (1965); Peebles, P. J. E.: \"Principles of Physical Cosmology\"",
+  "seedElo": 1450
+ },
+ {
+  "id": "kos-07",
+  "type": "F",
+  "category": "kosmologie",
+  "text": "Co je horizont událostí černé díry?",
+  "options": [
+   "Pomyslná hranice, za kterou už ani světlo nemá šanci uniknout ven",
+   "Fyzický pevný povrch, na který dopadající hmota černé díry naráží",
+   "Oblast, kde se hmota mění na antihmotu při pádu do černé díry",
+   "Vzdálenost, ve které gravitace černé díry přestává na okolí působit"
+  ],
+  "correct": 0,
+  "explanation": "Horizont událostí není hmotný povrch, ale matematicky definovaná hranice v prostoročasu: uvnitř ní je úniková rychlost vyšší než rychlost světla, takže žádný signál se odtud k vzdálenému pozorovateli nedostane. Za horizontem hmota dál padá dovnitř, teprve ve středu se podle obecné relativity nachází singularita.",
+  "source": "Thorne, K.: \"Black Holes and Time Warps\"; Hawking, S.: \"A Brief History of Time\"",
+  "seedElo": 1480
+ },
+ {
+  "id": "kos-08",
+  "type": "F",
+  "category": "kosmologie",
+  "text": "Proč musí satelity systému GPS neustále korigovat svoje palubní hodiny, aby systém fungoval přesně?",
+  "options": [
+   "Ve vesmíru chybí atmosféra, která by hodiny na Zemi zpomalovala třením",
+   "Sluneční vítr statickou elektřinou ruší přesnost atomových hodin",
+   "Rychlost a slabší gravitace ve výšce mění tempo jejich času",
+   "Satelity musí kompenzovat jen zpoždění signálu k přijímači"
+  ],
+  "correct": 2,
+  "explanation": "Podle speciální relativity satelitu, který se pohybuje rychle vůči Zemi, plyne čas pomaleji; podle obecné relativity naopak ve slabší gravitaci ve výšce plyne čas rychleji. Oba efekty se v případě GPS nekompenzují, výsledný rozdíl je asi 38 mikrosekund denně, a bez korekce by se chyba polohy hromadila v kilometrech za den.",
+  "source": "Ashby, N.: \"Relativity in the Global Positioning System\" (2003)",
+  "seedElo": 1510
+ },
+ {
+  "id": "kos-09",
+  "type": "F",
+  "category": "kosmologie",
+  "text": "Co detekovala observatoř LIGO v roce 2015 poprvé přímo?",
+  "options": [
+   "Elektromagnetický záblesk vzniklý srážkou dvou neutronových hvězd",
+   "Zvlnění samotného prostoročasu způsobené splynutím dvou černých děr",
+   "Částice temné hmoty procházející detektorem v podzemní laboratoři",
+   "Neutrina vzniklá při výbuchu blízké supernovy v naší galaxii"
+  ],
+  "correct": 1,
+  "explanation": "LIGO poprvé přímo zaznamenalo gravitační vlny - zvlnění prostoročasu předpovězené Einsteinem už roku 1916 - jak dorazily od splynutí dvou černých děr přibližně 1,3 miliardy světelných let daleko. Na rozdíl od elektromagnetického záření nejsou gravitační vlny světlo, ale drobné periodické protahování a smršťování prostoru samotného.",
+  "source": "Abbott et al. (LIGO/Virgo Collaboration): \"Observation of Gravitational Waves...\" (2016)",
+  "seedElo": 1540
+ },
+ {
+  "id": "kos-10",
+  "type": "K",
+  "category": "kosmologie",
+  "text": "Temná hmota a temná energie jsou dva různé záhadné jevy, které se v popularizaci často pletou. V čem je jejich hlavní rozdíl?",
+  "options": [
+   "Temná hmota je forma energie vyplňující prázdný prostor, temná energie je neviditelná forma běžné hmoty",
+   "Temná hmota byla přímo naměřena v laboratoři, temná energie je zatím jen teoretická domněnka",
+   "Obě jsou jen dvě různá jména pro totéž - přebytečnou gravitaci pozorovanou u galaxií",
+   "Temná hmota přitažlivě drží galaxie pohromadě, temná energie naopak zrychluje rozpínání celého vesmíru"
+  ],
+  "correct": 3,
+  "explanation": "Temná hmota se projevuje gravitačně - drží pohromadě galaxie a kupy galaxií, jejichž viditelná hmota by na to sama nestačila. Temná energie je odlišný jev spojovaný se zrychlujícím se rozpínáním vesmíru jako celku, tedy působí spíš proti gravitaci ve velkém měřítku. Ani jedna nebyla dosud přímo zachycena v laboratoři, obě jsou odvozeny z gravitačních a kosmologických pozorování.",
+  "source": "Rubin, V.: pozorování rotačních křivek galaxií (70. léta); Perlmutter, S. & Riess, A.: pozorování supernov Ia (1998)",
+  "seedElo": 1570
+ },
+ {
+  "id": "kos-11",
+  "type": "K",
+  "category": "kosmologie",
+  "text": "Populární představa \"velkého třesku\" jako výbuchu, který se odehrál na nějakém místě v prázdném prostoru, je zavádějící. Co teorie velkého třesku ve skutečnosti popisuje?",
+  "options": [
+   "Rozpínání a ochlazování prostoru samotného ze žhavého hustého raného stavu, bez jediného středu",
+   "Výbuch obrovské hvězdy, jehož trosky dodnes létají prázdným vesmírem od jednoho bodu",
+   "Okamžik, kdy se hmota poprvé objevila uvnitř již existujícího nekonečného prázdného prostoru",
+   "Sérii postupných menších výbuchů, které vytvořily jednotlivé galaxie na různých místech"
+  ],
+  "correct": 0,
+  "explanation": "Velký třesk nebyl exploze ve stávajícím prostoru s jasným středem, ale popisuje to, jak se prostor sám rozpínal a ochlazoval z extrémně horkého a hustého raného stavu - k rozpínání dochází všude současně, takže žádné konkrétní místo není \"středem\" vesmíru. Teorie navíc nepopisuje, co (pokud vůbec něco) předcházelo, ani co je příčinou samotného počátku.",
+  "source": "Guth, A.: \"The Inflationary Universe\"; Krauss, L.: veřejné přednášky o mylných představách o Velkém třesku",
+  "seedElo": 1600
+ },
+ {
+  "id": "kos-12",
+  "type": "K",
+  "category": "kosmologie",
+  "text": "Einsteinova obecná teorie relativity vysvětluje gravitaci jinak než Newtonova fyzika. Jak?",
+  "options": [
+   "Gravitace je elektromagnetická síla působící mezi tělesy s opačným nábojem hmoty",
+   "Gravitace vzniká výměnou fotonů mezi tělesy podobně jako u elektromagnetické síly",
+   "Gravitace je projev zakřivení prostoročasu hmotou, ne síla na dálku",
+   "Gravitace je pouze zdánlivý jev způsobený rozpínáním vesmíru mezi tělesy"
+  ],
+  "correct": 2,
+  "explanation": "Podle obecné relativity hmota a energie zakřivují prostoročas kolem sebe a tělesa se pak pohybují po nejpřímějších možných drahách (geodetikách) v tomto zakřiveném prostoru - to my vnímáme jako gravitační přitažlivost. Newtonova fyzika popisuje gravitaci jako sílu působící na dálku, což funguje jako výborná aproximace, ale selhává v extrémních podmínkách, například u černých děr nebo přesných korekcí GPS.",
+  "source": "Einstein, A.: \"Die Grundlage der allgemeinen Relativitätstheorie\" (1916); Wheeler, J. A.: \"Gravitation\"",
+  "seedElo": 1630
+ },
+ {
+  "id": "kos-13",
+  "type": "F",
+  "category": "kosmologie",
+  "text": "Většinu z tisíců dosud objevených exoplanet astronomové nikdy přímo nespatřili. Jak nejčastěji planetu u vzdálené hvězdy odhalí?",
+  "options": [
+   "Zachytí rádiový signál vysílaný atmosférou planety k Zemi",
+   "Zaznamenají pravidelný pokles jasu hvězdy při přechodu planety",
+   "Změří teplotu povrchu hvězdy a z odchylky usoudí na planetu",
+   "Vyfotografují planetu přímo obyčejným pozemním dalekohledem"
+  ],
+  "correct": 1,
+  "explanation": "Tranzitní metoda sleduje, jak jasnost hvězdy pravidelně mírně klesne pokaždé, když planeta při svém oběhu přejde mezi hvězdou a pozorovatelem - z hloubky a periody poklesu lze odhadnout velikost planety i délku jejího roku. Přímé vyfotografování planety je kvůli oslnivé záři blízké hvězdy extrémně vzácné a technicky náročné.",
+  "source": "Kepler mise (NASA); Perryman, M.: \"The Exoplanet Handbook\"",
+  "seedElo": 1660
+ },
+ {
+  "id": "kos-14",
+  "type": "F",
+  "category": "kosmologie",
+  "text": "Fyzikální zákony samy o sobě většinou fungují stejně dopředu i pozpátku v čase. Co tedy dává vesmíru pozorovanou \"šipku času\", tedy jasný směr od minulosti k budoucnosti?",
+  "options": [
+   "Rozpínání vesmíru fyzicky roztahuje samotný tok času jedním směrem",
+   "Konečná rychlost světla vynucuje časový směr na všechny procesy",
+   "Gravitace je jediná síla, která rozlišuje minulost od budoucnosti",
+   "Entropie izolovaných soustav podle druhého zákona termodynamiky roste"
+  ],
+  "correct": 3,
+  "explanation": "Druhý termodynamický zákon říká, že entropie izolované soustavy v čase neklesá - vesmír zjevně začal ve stavu extrémně nízké entropie a od té doby neuspořádanost narůstá, což je zdrojem pozorované asymetrie mezi minulostí a budoucností. Proč byl počáteční stav vesmíru zrovna tak nízkoentropický, je dodnes otevřená otázka kosmologie.",
+  "source": "Boltzmann, L.; Penrose, R.: \"The Road to Reality\", kap. o šipce času",
+  "seedElo": 1690
+ },
+ {
+  "id": "kos-15",
+  "type": "F",
+  "category": "kosmologie",
+  "text": "Standardní model částicové fyziky popisuje, z čeho je hmota kolem nás poskládaná. Které dvě skupiny elementárních částic tvoří běžnou hmotu, jako jsou atomy?",
+  "options": [
+   "Kvarky (tvoří protony a neutrony) a leptony (například elektron)",
+   "Fotony a gluony, které dohromady vytvářejí jádra atomů",
+   "Neutrina a bosony Higgsova pole, ze kterých vznikají atomová jádra",
+   "Protony a neutrony jako elementární, dále nedělitelné částice"
+  ],
+  "correct": 0,
+  "explanation": "Kvarky se v trojicích spojují do protonů a neutronů tvořících atomové jádro, zatímco leptony (nejznámější je elektron) obíhají jádro a spolu s ním dávají dohromady atom. Fotony a gluony jsou naopak částice přenášející síly (elektromagnetickou a silnou jadernou), ne stavební kameny hmoty, a protony s neutrony dnes víme, že elementární nejsou - skládají se právě z kvarků.",
+  "source": "CERN: \"The Standard Model\" (veřejné vzdělávací materiály); Griffiths, D.: \"Introduction to Elementary Particles\"",
+  "seedElo": 1720
+ },
+ {
+  "id": "kos-16",
+  "type": "F",
+  "category": "kosmologie",
+  "text": "Stephen Hawking teoreticky ukázal, že černé díry nejsou úplně černé, ale pomalu \"vypařují\" energii. Na čem je toto Hawkingovo záření založeno?",
+  "options": [
+   "Na tření padající hmoty, které rozžhaví okolní disk plynu",
+   "Na odrazu kosmického záření od horizontu zpátky do vesmíru",
+   "Na kvantových jevech u horizontu, kde pár částic o jednu přijde",
+   "Na rozpadu singularity uvnitř díry, jenž uvolňuje záření ven"
+  ],
+  "correct": 2,
+  "explanation": "Podle Hawkingova výpočtu z roku 1974 kvantové vakuum těsně u horizontu událostí neustále vytváří páry virtuálních částic; občas jedna z dvojice spadne do černé díry a druhá unikne jako reálné záření, což díru pomalu připravuje o hmotnost a energii. Tento proces je odlišný od zahřátého akrečního disku, který je klasickým, nikoli kvantovým jevem.",
+  "source": "Hawking, S. W.: \"Black hole explosions?\" (1974)",
+  "seedElo": 1750
+ },
+ {
+  "id": "kos-17",
+  "type": "K",
+  "category": "kosmologie",
+  "text": "Mapy reliktního záření (například z družice Planck) nejsou úplně stejnoměrné, ale obsahují nepatrné teplotní nerovnosti. Proč jsou pro kosmology tak důležité?",
+  "options": [
+   "Jsou to poruchy detektorů bez skutečného kosmologického významu",
+   "Odpovídají hustotním nerovnostem raného vesmíru, základu galaxií",
+   "Ukazují na neobjevené hvězdy, které záření po cestě k nám zahřívaly",
+   "Dokazují, že se vesmír různými směry rozpíná různou rychlostí"
+  ],
+  "correct": 1,
+  "explanation": "Nepatrné teplotní odchylky v reliktním záření (řádově setiny milikelvinu) odrážejí drobné výkyvy hustoty hmoty v raném vesmíru asi 380 000 let po velkém třesku. Právě tato místa s o něco vyšší hustotou se pak působením gravitace postupně zhušťovala a daly vzniknout dnešním galaxiím a jejich kupám - mapa CMB je tak vlastně \"sémě\", ze kterého vyrostla velkoškálová struktura vesmíru.",
+  "source": "Planck Collaboration: \"Planck 2018 results\"; Smoot, G.: Nobelova přednáška (2006)",
+  "seedElo": 1780
+ },
+ {
+  "id": "kos-18",
+  "type": "K",
+  "category": "kosmologie",
+  "text": "Podle kosmologických modelů se dostatečně vzdálené galaxie od nás vzdalují rychlostí větší, než je rychlost světla. Jak to lze srovnat s Einsteinovým pravidlem, že nic se nemůže pohybovat rychleji než světlo?",
+  "options": [
+   "Ve skutečnosti se žádné galaxie nadsvětelnou rychlostí nevzdalují, jde jen o chybu měření vzdálených teleskopů",
+   "Rychlost světla byla v raném vesmíru výrazně vyšší a teprve postupně se zpomalila na dnešní hodnotu",
+   "Galaxie se pohybují nadsvětelnou rychlostí jen dočasně, díky setrvačnosti z období velkého třesku",
+   "Einsteinův limit platí pro pohyb těles prostorem, ne pro rychlost, jakou se rozpíná samotný prostor mezi nimi"
+  ],
+  "correct": 3,
+  "explanation": "Einsteinovo omezení rychlosti světla platí pro pohyb objektů vůči lokálnímu prostoru kolem nich, nikoli pro rychlost, jakou přibývá prostoru mezi dvěma vzdálenými body díky kosmologickému rozpínání. Galaxie samy vůči svému bezprostřednímu okolí zůstávají prakticky v klidu, ale kumulovaná expanze velkého množství prostoru mezi námi a jimi může způsobit, že se od nás vzdalují efektivně nadsvětelnou rychlostí.",
+  "source": "Davis, T. M. & Lineweaver, C. H.: \"Expanding Confusion\" (2004)",
+  "seedElo": 1810
+ },
+ {
+  "id": "kos-19",
+  "type": "K",
+  "category": "kosmologie",
+  "text": "V roce 1998 dva nezávislé týmy zkoumající vzdálené supernovy typu Ia zjistily něco, co odporovalo tehdejšímu očekávání. Co objevily?",
+  "options": [
+   "Rozpínání vesmíru se v posledních miliardách let zrychluje, místo aby se gravitací zpomalovalo",
+   "Vesmír se přestal rozpínat úplně a nyní setrvává v konstantní, neměnné velikosti",
+   "Supernovy typu Ia mají v různých částech vesmíru výrazně odlišnou skutečnou svítivost",
+   "Rozpínání vesmíru se naopak zrychlovalo jen krátce po velkém třesku a od té doby se zpomaluje"
+  ],
+  "correct": 0,
+  "explanation": "Očekávalo se, že gravitace hmoty ve vesmíru bude rozpínání postupně brzdit, avšak měření vzdáleností pomocí standardních svící - supernov typu Ia - ukázala, že vzdálenější (tedy starší) supernovy jsou slabší, než se čekalo, což znamená, že se rozpínání v posledních přibližně 5 miliardách let zrychluje. Tento neočekávaný výsledek vedl k zavedení pojmu temná energie a byl v roce 2011 oceněn Nobelovou cenou za fyziku.",
+  "source": "Perlmutter, S., Riess, A., Schmidt, B.: Nobelova cena za fyziku 2011; Riess et al. (1998), Perlmutter et al. (1999)",
+  "seedElo": 1840
+ },
+ {
+  "id": "kos-20",
+  "type": "K",
+  "category": "kosmologie",
+  "text": "Obecná relativita, promítnutá zpět v čase, předpovídá na počátku vesmíru singularitu - bod nekonečné hustoty a teploty. Jak k tomuto výsledku dnes přistupuje většina kosmologů?",
+  "options": [
+   "Berou ho jako přesně změřený fakt, který nelze zpochybnit",
+   "Považují ho za důkaz věčného smršťování vesmíru stálým tempem",
+   "Berou ho jako signál, že relativita v extrému přestává platit",
+   "Odmítají ho jako chybu a nahrazují modelem věčně statického vesmíru"
+  ],
+  "correct": 2,
+  "explanation": "Nekonečná hustota a teplota jsou typickým signálem, že se teorie dostala za hranice své platnosti, ne že popisuje skutečnou fyzikální realitu - podobně selhává obecná relativita i uvnitř černých děr. Kosmologové proto singularitu velkého třesku obvykle chápou jako místo, kde by musela nastoupit dosud nedokončená kvantová teorie gravitace, a o skutečném \"prvním okamžiku\" vesmíru tak nemáme uzavřenou odpověď.",
+  "source": "Hawking, S. & Penrose, R.: teorémy o singularitách (1970); Rovelli, C.: \"Realita není, jak se zdá\"",
+  "seedElo": 1870
+ }
+]

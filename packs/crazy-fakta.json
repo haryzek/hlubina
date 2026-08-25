@@ -1,0 +1,322 @@
+[
+ {
+  "id": "cra-01",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Kleopatra žila blíž době, kdy vzlétl první iPhone, než době postavení Velké pyramidy v Gíze. Jak je to možné?",
+  "options": [
+   "Egyptologové prý nedávno posunuli datování pyramid o tisíce let dopředu",
+   "Kleopatra ve skutečnosti žila o mnoho staletí později, než se dříve myslelo",
+   "Od pyramid ke Kleopatře uplynulo přes 2500 let, od ní k nám jen 2050",
+   "Jde jen o oblíbený internetový mýtus, časové údaje tu vůbec nesedí"
+  ],
+  "correct": 2,
+  "explanation": "Velká pyramida v Gíze byla dokončena kolem roku 2560 př. n. l., zatímco Kleopatra vládla kolem roku 30 př. n. l. — mezi nimi leží přes 2500 let. Od Kleopatřiny smrti do vzniku iPhonu (2007) uplynulo naopak jen asi 2037 let. Nejde o mýtus, ale o ověřitelný chronologický fakt.",
+  "source": "historická chronologie (datování stavby pyramid a Kleopatřiny vlády)",
+  "seedElo": 1300
+ },
+ {
+  "id": "cra-02",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Žraloci existují na Zemi déle než stromy. O kolik zhruba jsou žraloci starší?",
+  "options": [
+   "O desítky milionů let dřív se objevili žraloci než první stromovité rostliny",
+   "Jsou prakticky stejně staří, oba se objevili téměř ve stejné geologické době",
+   "Žraloci jsou starší jen o pár milionů let, takový rozdíl je zanedbatelný",
+   "Žraloci jsou naopak o desítky milionů let mladší než první stromy na Zemi"
+  ],
+  "correct": 0,
+  "explanation": "Nejstarší žraloci se objevují ve fosilním záznamu už asi před 400 miliony let, zatímco první stromovité rostliny (rod Archaeopteris) se vyvinuly asi před 350 miliony let. Žraloci tak byli na Zemi dřív, než vůbec vznikly první lesy.",
+  "source": "paleontologické datování (fosilie Archaeopteris; nejstarší žraločí šupiny a zuby)",
+  "seedElo": 1330
+ },
+ {
+  "id": "cra-03",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Archeologové našli ve starověkých egyptských hrobkách nádoby s medem starým tisíce let. Co se při rozboru zjistilo?",
+  "options": [
+   "Med během tisíciletí zfermentoval na alkoholický nápoj",
+   "Med byl už dávno zkažený a úplně zcela nepoživatelný",
+   "Med byl stále chemicky stabilní a v zásadě poživatelný",
+   "Med se proměnil v beztvarou krystalickou hmotu bez vůně medu"
+  ],
+  "correct": 2,
+  "explanation": "Díky nízkému obsahu vody, vysoké kyselosti a přirozeným antibakteriálním látkám se med prakticky nekazí. Vzorky staré tisíce let, nalezené třeba v egyptských hrobkách, byly chemicky téměř nezměněné, případně stačilo jen zahřátím vrátit zkrystalizovaný med do tekuté podoby.",
+  "source": "chemické rozbory archeologických nálezů medu (např. z egyptských hrobek)",
+  "seedElo": 1360
+ },
+ {
+  "id": "cra-04",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Vikingové s rohatými přilbami jsou ikonickým obrazem z filmů a komiksů. Co na to říkají archeologické nálezy z vikingské doby?",
+  "options": [
+   "Rohy se údajně používaly výhradně v boji k zastrašení a oslnění protivníka",
+   "Archeologové našli desítky rohatých přileb přímo v hrobech vikingských bojovníků",
+   "Žádná doložená vikingská přilba rohy neměla, jde o výmysl kostymérů z 19. století",
+   "Rohaté přilby prý nosili jen náčelníci při slavnostních obřadech a rituálech"
+  ],
+  "correct": 2,
+  "explanation": "Představu rohatých přileb popularizovali až kostýmní výtvarníci v 19. století, mimo jiné pro Wagnerovu operu. Ze skutečných vikingských hrobů pochází pouze přilby bez rohů – rohy by navíc v boji byly nebezpečnou přítěží, za kterou by protivník mohl přilbu snadno strhnout.",
+  "source": "archeologie vikingské doby; dějiny divadelního a operního kostýmu 19. století",
+  "seedElo": 1390
+ },
+ {
+  "id": "cra-05",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Napoleon je proslulý jako podivně malý muž, odtud i pojem „napoleonský komplex“. Jak to bylo doopravdy s jeho výškou?",
+  "options": [
+   "Měřil jen asi 150 cm, tedy skutečně výrazně méně, než byl tehdejší průměr",
+   "Jeho výška se z dochovaných záznamů nikdy spolehlivě nezjistila ani neurčila",
+   "Měřil kolem 168–170 cm, tedy zhruba průměrnou výšku mužů své doby",
+   "Byl naopak nadprůměrně vysoký, měřil přes 185 cm podle dobových svědků"
+  ],
+  "correct": 2,
+  "explanation": "Napoleonova výška byla po smrti zapsána ve francouzských palcích, které jsou o něco delší než anglické – při chybném převodu vyšla zavádějící hodnota 5'2\". Ve skutečnosti měřil asi 168–170 cm, což bylo na přelomu 18. a 19. století zcela běžné.",
+  "source": "záznamy z pitvy (1821); rozbory rozdílu francouzského a anglického palce",
+  "seedElo": 1420
+ },
+ {
+  "id": "cra-06",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Podle populárního tvrzení má zlatá rybka paměť dlouhou jen asi tři sekundy. Co ukazují skutečné studie chování ryb?",
+  "options": [
+   "Paměť rybek závisí na teplotě vody a nikdy nepřesáhne jednu minutu",
+   "Zlaté rybky si dokážou naučené věci pamatovat týdny až měsíce",
+   "Paměť zlatých rybek je přesně tak krátká, jak tvrdí stará pověst",
+   "Rybky si údajně pamatují jen barvy, nikdy ne tvary ani zvuky okolí"
+  ],
+  "correct": 1,
+  "explanation": "Experimenty, kdy byly rybky trénovány reagovat na zvuk nebo barvu za odměnu v podobě krmení, opakovaně prokázaly, že si zlaté rybky pamatují naučené vzorce klidně několik měsíců. Mýtus o třísekundové paměti nemá v datech žádnou oporu.",
+  "source": "etologické studie paměti ryb (experimenty s trénováním na zvukový/barevný podnět)",
+  "seedElo": 1450
+ },
+ {
+  "id": "cra-07",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Rozšířené tvrzení říká, že lidé využívají jen 10 % mozku. Co ukazují moderní zobrazovací metody jako fMRI?",
+  "options": [
+   "Využíváme přesně 50 % mozku, zbytek slouží jako záložní kapacita",
+   "Je to pravda, zbylých 90 % mozku je trvale a doživotně nečinných",
+   "Během dne je postupně aktivní prakticky celý mozek, jen ne naráz",
+   "Aktivních je jen 10 % neuronů, zbytek tvoří čistě podpůrná tkáň"
+  ],
+  "correct": 2,
+  "explanation": "Zobrazovací studie mozkové aktivity ukazují, že v průběhu dne se postupně zapojí téměř všechny oblasti mozku, byť ne všechny naráz. Poškození i malé části mozku obvykle vede k citelným funkčním potížím, což by při „90% rezervě“ nedávalo smysl.",
+  "source": "neurovědecké přehledy založené na fMRI a PET studiích mozkové aktivity",
+  "seedElo": 1480
+ },
+ {
+  "id": "cra-08",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Kolik srdcí má chobotnice?",
+  "options": [
+   "Tři srdce – dvě pumpují krev do žaber, jedno do zbytku",
+   "Jedno srdce, stejně jako má většina ostatních vyšších živočichů",
+   "Čtyři srdce, po jednom pro každý pár chapadel na těle",
+   "Dvě srdce, jedno hlavní a jedno záložní pro nouzové situace"
+  ],
+  "correct": 0,
+  "explanation": "Chobotnice mají dvě žaberní srdce, která okysličují krev v žábrách, a jedno systémové srdce, jež pohání krev zbytkem těla. Při plavání se systémové srdce dočasně zastavuje, proto se chobotnice raději pohybují plazením po dně.",
+  "source": "zoologie hlavonožců (fyziologie oběhové soustavy chobotnic)",
+  "seedElo": 1510
+ },
+ {
+  "id": "cra-09",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Z botanického hlediska je banán bobule, zatímco jahoda ne. Proč je tomu tak?",
+  "options": [
+   "Protože banán obsahuje výrazně víc přírodního cukru než jahoda",
+   "Protože jahoda má semínka schovaná uvnitř dužiny a banán je nemá",
+   "Protože banán roste na vysokém stromě, zatímco jahoda na nízkém keři",
+   "Bobule vzniká z pestíku, banán to splňuje, jahoda je nepravý plod"
+  ],
+  "correct": 3,
+  "explanation": "Botanická bobule vzniká z jednoho květu s jedním pestíkem a má měkkou dužinu se semeny uvnitř – banán tuto definici splňuje. Jahoda je naopak takzvaný nepravý plod: to, co jíme, je zdužnatělé květní lůžko, a skutečnými plody jsou ony drobné tečky na povrchu.",
+  "source": "botanická klasifikace plodů (morfologie plodenství)",
+  "seedElo": 1540
+ },
+ {
+  "id": "cra-10",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Velká čínská zeď je prý jediná lidská stavba viditelná ze samotného vesmíru pouhým okem. Co k tomu skutečně říkají astronauti?",
+  "options": [
+   "Je prý vidět jedině z Měsíce, ne však z nízké oběžné dráhy Země",
+   "Volným okem z oběžné dráhy ji za normálních podmínek rozeznat nelze",
+   "Je vidět, ale jen za soumraku díky dlouhým stínům podél celé zdi",
+   "Je vidět stejně dobře jako všechna velká města dohromady najednou"
+  ],
+  "correct": 1,
+  "explanation": "Velká zeď je sice extrémně dlouhá, ale jen několik metrů široká, takže z běžné výšky oběžné dráhy (300–400 km) splývá s okolní krajinou. Řada astronautů, včetně čínských, potvrdila, že ji pouhým okem nedokázali rozeznat.",
+  "source": "výpovědi astronautů (NASA, CNSA); optika rozlišovací schopnosti lidského oka z orbity",
+  "seedElo": 1570
+ },
+ {
+  "id": "cra-11",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Traduje se, že Albert Einstein jako školák propadal z matematiky. Jak to bylo doopravdy?",
+  "options": [
+   "Opravdu opakovaně neuspěl u školních zkoušek z matematiky",
+   "Matematiku nikdy formálně nestudoval, byl v ní čistý samouk",
+   "Měl výborné známky ze všech předmětů kromě fyziky a chemie",
+   "V matematice vynikal, jen neuspěl u přijímačky kvůli jazyku"
+  ],
+  "correct": 3,
+  "explanation": "Dochovaná vysvědčení ukazují, že Einstein měl z matematiky a fyziky nejlepší možné známky už na střední škole. Mýtus mohl vzniknout záměnou švýcarského známkovacího systému s opačnou stupnicí, nebo z toho, že neuspěl u přijímací zkoušky na polytechniku kvůli slabším výsledkům z jazyků a botaniky.",
+  "source": "dochovaná školní vysvědčení (Albert Einstein Archives)",
+  "seedElo": 1600
+ },
+ {
+  "id": "cra-12",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Co vzniklo dřív – výuka na Oxfordské univerzitě, nebo Aztécká říše?",
+  "options": [
+   "Obojí vzniklo přibližně ve stejném století, jen o pár let od sebe",
+   "Aztécká říše vznikla o více než sto let dřív než Oxford, ještě před rokem 1000",
+   "Oxford učil už kolem roku 1096, aztécký Trojspolek vznikl až roku 1428",
+   "Nelze to srovnávat, protože Aztécká říše nemá žádné přesné datum založení"
+  ],
+  "correct": 2,
+  "explanation": "Doklady o výuce v Oxfordu sahají do roku 1096, tedy více než 300 let před založením aztéckého Trojspolku v roce 1428. Univerzita tak byla starou institucí ještě dřív, než aztécká civilizace vůbec vznikla jako říše.",
+  "source": "historie Oxfordské univerzity; mezoamerická historiografie (založení Trojspolku 1428)",
+  "seedElo": 1630
+ },
+ {
+  "id": "cra-13",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Na Venuši trvá jedna otočka kolem vlastní osy déle než jeden venušský rok. Jak je to možné?",
+  "options": [
+   "Venuše prakticky nerotuje vůbec, „den“ se u ní počítá úplně jinak",
+   "Venuše rotuje extrémně pomalu (243 dní), Slunce oběhne za 225 dní",
+   "Je to dané tím, že Venuše obíhá Slunce opačným směrem, než sama rotuje",
+   "Je to nesmysl, den nemůže být na žádné planetě delší než celý její rok"
+  ],
+  "correct": 1,
+  "explanation": "Venuše se otočí kolem vlastní osy jednou za 243 pozemských dnů, ale kolem Slunce oběhne už za 225 pozemských dnů. Venušský den je tedy delší než venušský rok. Venuše navíc rotuje opačným směrem než většina planet, to je ale samostatný jev.",
+  "source": "planetární data NASA/ESA (rotační a oběžná perioda Venuše)",
+  "seedElo": 1660
+ },
+ {
+  "id": "cra-14",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Kolik procent DNA sdílí člověk zhruba s banánovníkem?",
+  "options": [
+   "Přes 90 %, protože obě jsou eukaryotické organismy s jádrem",
+   "Prakticky 0 %, rostliny a živočichové nemají žádné společné geny",
+   "Asi 50 %, mnoho základních buněčných genů je podobných napříč druhy",
+   "Jen asi 10 %, a to výhradně geny týkající se rychlosti růstu"
+  ],
+  "correct": 2,
+  "explanation": "Ačkoli jsou si člověk a banánovník evolučně velmi vzdálení, sdílejí společné předky spred více než miliardy let a řadu základních genů pro fungování buňky, například pro dělení nebo metabolismus. Odhady genetické podobnosti se pohybují kolem 50 %.",
+  "source": "srovnávací genomika (odhady sdílených genů mezi člověkem a rostlinami)",
+  "seedElo": 1690
+ },
+ {
+  "id": "cra-15",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Který konflikt je v Guinnessově knize rekordů zapsaný jako nejkratší válka v historii?",
+  "options": [
+   "Britsko-zanzibarská válka roku 1896, trvající asi 38 minut",
+   "Fotbalová válka Salvadoru s Hondurasem roku 1969, trvající pár hodin",
+   "Šestidenní válka mezi Izraelem a arabskými státy roku 1967",
+   "Falklandská válka roku 1982, ukončená za necelý týden bojů"
+  ],
+  "correct": 0,
+  "explanation": "Britsko-zanzibarská válka 27. srpna 1896 vypukla kvůli sporu o nástupnictví na zanzibarském trůnu a skončila britským bombardováním sultánova paláce po pouhých 38 minutách kapitulací.",
+  "source": "Guinnessova kniha rekordů; historické záznamy britské admirality",
+  "seedElo": 1720
+ },
+ {
+  "id": "cra-16",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Který živočich je oficiálním národním zvířetem Skotska?",
+  "options": [
+   "Lev, dávný symbol skotské královské koruny a erbu",
+   "Skotský vysokohorský jelen, symbol tamní vrchoviny",
+   "Jednorožec, heraldický symbol používaný od středověku",
+   "Skotský teriér, oblíbené národní plemeno psa v zemi"
+  ],
+  "correct": 2,
+  "explanation": "Jednorožec se objevuje ve skotském královském erbu už od 12. a 13. století jako symbol čistoty a nezkrotnosti a je oficiálně uznáván jako národní zvíře Skotska, přestože jde o mytické stvoření.",
+  "source": "heraldika skotské královské rodiny; oficiální turistické a státní symboly Skotska",
+  "seedElo": 1750
+ },
+ {
+  "id": "cra-17",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Vombat je jediné zvíře, jehož trus má nezvyklý geometrický tvar. Jaký?",
+  "options": [
+   "Trojúhelníkový tvar, s nápadně ostrými hranami po stranách",
+   "Má tvar pěticípé hvězdy s ostrými výběžky na koncích",
+   "Šroubovicově zatočený tvar, podobný malé dřevěné vývrtce",
+   "Přibližně krychlový, s téměř plochými hranatými stranami"
+  ],
+  "correct": 3,
+  "explanation": "Vombati produkují trus tvarovaný do kostek díky nerovnoměrné pružnosti stěn poslední části střeva. Kostkový tvar jim pomáhá, aby se trus nekutálel a zůstával na místě, kde jím značkují teritorium. Výzkum tohoto mechanismu získal v roce 2019 Ig Nobelovu cenu.",
+  "source": "biomechanický výzkum trávicího traktu vombatů (Ig Nobel Prize 2019)",
+  "seedElo": 1780
+ },
+ {
+  "id": "cra-18",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Eiffelova věž je v létě měřitelně vyšší než v zimě. Čím to je způsobeno?",
+  "options": [
+   "Jde jen o optický klam způsobený tepelným oparem nad celou věží",
+   "Ocelová konstrukce se teplem roztahuje, věž naroste o zhruba 15 cm",
+   "V létě se věž víc naklání ke slunci, takže opticky vypadá vyšší",
+   "V létě se na vrchol montuje dočasná sezónní televizní anténa"
+  ],
+  "correct": 1,
+  "explanation": "Ocelová konstrukce věže se při vyšších teplotách tepelně roztahuje, což může zvýšit její výšku o zhruba 10–15 cm oproti chladným zimním dnům. Teplo zároveň způsobuje i mírný náklon věže na opačnou stranu, než na kterou právě svítí slunce.",
+  "source": "technická dokumentace Eiffelovy věže (provozovatel SETE)",
+  "seedElo": 1810
+ },
+ {
+  "id": "cra-19",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Everest je nejvyšší hora světa měřeno od hladiny moře. Která hora je ale vyšší, počítáme-li od jejího úplného úpatí, i pod hladinou oceánu?",
+  "options": [
+   "Kilimandžáro v Tanzanii, nejvyšší hora celého afrického kontinentu",
+   "K2 v pákistánském pohoří Karákóram, druhá nejvyšší hora světa",
+   "Mauna Kea na Havaji, sopka sahající hluboko pod mořskou hladinu",
+   "Denali na Aljašce, nejvyšší vrchol celé Severní Ameriky"
+  ],
+  "correct": 2,
+  "explanation": "Mauna Kea měří od svého skutečného úpatí na dně Tichého oceánu po vrchol přibližně 10 200 metrů, tedy víc než Everest s necelými 8850 metry nad mořem. Většina této výšky je ale skrytá pod vodou, proto Mauna Kea nad hladinou vypadá jako jen další havajská sopka.",
+  "source": "geologická měření (US Geological Survey; oceánografické profily havajského souostroví)",
+  "seedElo": 1840
+ },
+ {
+  "id": "cra-20",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Počet možných odlišných partií šachu, takzvané Shannonovo číslo (řádově 10^120), je ve srovnání s odhadovaným počtem atomů v pozorovatelném vesmíru (řádově 10^80)…",
+  "options": [
+   "Zhruba stejně velký, oba řády se v odhadech prakticky shodují",
+   "Nelze to vůbec srovnávat, jde o veličiny zcela jiného druhu",
+   "O mnoho řádů větší, partií je nepředstavitelně víc než atomů",
+   "Menší, atomů ve vesmíru je podle odhadů podstatně víc než partií"
+  ],
+  "correct": 2,
+  "explanation": "Claude Shannon v roce 1950 odhadl počet možných smysluplných šachových partií na přibližně 10^120, zatímco počet atomů v pozorovatelném vesmíru se odhaduje na „jen“ kolem 10^80. Šachových partií je tak o desítky řádů víc, než kolik existuje atomů v celém známém vesmíru.",
+  "source": "Claude Shannon, \"Programming a Computer for Playing Chess\" (1950); kosmologické odhady počtu atomů ve vesmíru",
+  "seedElo": 1870
+ }
+]

@@ -1,0 +1,1002 @@
+[
+ {
+  "id": "kva-01",
+  "text": "Co znamená fyzikům výrok, že energie světla je „kvantovaná“?",
+  "options": [
+   "Světlo předává energii jen po nedělitelných dávkách zvaných fotony, ne plynule.",
+   "Světlo se šíří výhradně jako vlna a energii nikdy nepředává po částech.",
+   "Světlo mění barvu podle toho, jak rychle se k němu pozorovatel pohybuje.",
+   "Světlo má vždy stejnou energii bez ohledu na svou barvu či frekvenci."
+  ]
+ },
+ {
+  "id": "kva-02",
+  "text": "Co přesně znamená, že je částice ve „superpozici“ dvou stavů?",
+  "options": [
+   "Částice se velmi rychle střídavě přesouvá mezi oběma stavy tam a zpět.",
+   "Kvantový stav částice je matematickým součtem obou možností najednou.",
+   "Fyzici jen nevědí, ve kterém ze dvou stavů se částice skutečně nachází.",
+   "Částice se fyzicky rozdělí na dvě poloviny, každou v jednom stavu."
+  ]
+ },
+ {
+  "id": "kva-03",
+  "text": "Co se stane, když elektrony posíláme jeden po druhém na dvě štěrbiny a chytáme je na stínítku za nimi?",
+  "options": [
+   "Na stínítku vznikne přesně jedna skvrna naproti otevřené štěrbině.",
+   "Elektrony proletí náhodně a na stínítku vznikne rovnoměrná šeď.",
+   "I po jedné částici postupně vznikne pruhovaný interferenční vzor.",
+   "Každý elektron zanechá stopu jen přesně naproti jedné ze štěrbin."
+  ]
+ },
+ {
+  "id": "kva-04",
+  "text": "Co se v kvantové mechanice myslí „kolapsem“ při měření?",
+  "options": [
+   "Měřicí přístroj se při kontaktu s částicí fyzicky poškodí a rozpadne.",
+   "Částice se v okamžiku měření promění v úplně jiný typ částice.",
+   "Výsledek měření se dodatečně upraví tak, aby odpovídal teorii.",
+   "Superpozice více možností se změní na jediný, konkrétně naměřený výsledek."
+  ]
+ },
+ {
+  "id": "kva-05",
+  "text": "Co ve skutečnosti tvrdí Heisenbergův princip neurčitosti?",
+  "options": [
+   "Polohu a hybnost částice nelze současně znát s libovolně velkou přesností.",
+   "Vědci zatím nemají dost přesné přístroje na změření polohy částic.",
+   "Částice mění svou polohu tak rychle, že ji nelze vůbec sledovat.",
+   "Poloha částice je vždy přesně daná, jen nám ji příroda tajně skrývá."
+  ]
+ },
+ {
+  "id": "kva-06",
+  "text": "Co je kvantové tunelování?",
+  "options": [
+   "Částice si prokope skutečný fyzický tunel skrz pevnou překážku.",
+   "Částice projde bariérou, na jejíž překonání by klasicky neměla energii.",
+   "Částice obletí překážku po zakřivené dráze mimo svůj původní směr.",
+   "Částice se dočasně zastaví před bariérou a pak se vrátí zpět."
+  ]
+ },
+ {
+  "id": "kva-07",
+  "text": "Co znamená, že jsou dvě částice kvantově provázané?",
+  "options": [
+   "Částice jsou spojeny neviditelným vláknem, které je fyzicky drží u sebe.",
+   "Obě částice mají od začátku tajně danou, jen skrytou hodnotu vlastnosti.",
+   "Jejich stavy popisuje jedna společná vlnová funkce, kterou nelze rozdělit.",
+   "Částice si mezi sebou neustále posílají rychlé signály o svém stavu."
+  ]
+ },
+ {
+  "id": "kva-08",
+  "text": "Čím se kvantová superpozice liší od klasické situace, kdy hodíme mincí a schováme výsledek pod dlaní?",
+  "options": [
+   "Ničím podstatným, obojí popisuje jen naši dočasnou neznalost výsledku.",
+   "Superpozice trvá déle než klasická skrytá mince, ale princip je stejný.",
+   "Klasická mince má navíc přesně danou hmotnost, kvantový stav ji nemá.",
+   "Superpozice umožňuje interferenci možností, skrytá mince nikdy ne."
+  ]
+ },
+ {
+  "id": "kva-09",
+  "text": "Co měl Schrödingerův myšlenkový experiment s kočkou původně ukázat?",
+  "options": [
+   "Absurdnost představy, že by makroskopický předmět mohl být v superpozici.",
+   "Že kočky vnímají kvantové jevy jinak a citlivěji než lidé.",
+   "Že měření životně nebezpečných systémů je eticky nepřípustné.",
+   "Že vědomí pozorovatele je nutné k tomu, aby kočka vůbec zemřela."
+  ]
+ },
+ {
+  "id": "kva-10",
+  "text": "Slovo „pozorovatel“ se v populárních textech o kvantové mechanice často plete s vědomou myslí. Jak to vidí dnešní fyzika?",
+  "options": [
+   "Fyzika to potvrzuje: bez vědomého pozorovatele ke kolapsu nedochází.",
+   "„Pozorovatel“ znamená jakoukoli interakci se systémem, vědomí netřeba.",
+   "Jde o otevřenou otázku, kterou žádný experiment zatím neřešil.",
+   "Platí to jen pro lidi, zvířata prý superpozici svým pohledem nemění."
+  ]
+ },
+ {
+  "id": "kva-11",
+  "text": "Co se stane s interferenčním vzorem ve dvouštěrbinovém pokusu, pokud u štěrbin zjistíme, kterou z nich částice prošla?",
+  "options": [
+   "Vzor zůstane úplně stejný, informace o dráze ho nijak neovlivní.",
+   "Vzor se jen mírně rozmaže, ale pruhy zůstanou dobře patrné.",
+   "Interference zmizí a na stínítku vznikne prostý součet dvou pruhů.",
+   "Vzor se zdvojnásobí, protože přibude nová informace o dráze."
+  ]
+ },
+ {
+  "id": "kva-12",
+  "text": "Co v kvantové mechanice rozlišuje kodaňskou interpretaci od mnohosvětové?",
+  "options": [
+   "Kodaňská odmítá superpozici, mnohosvětová ji naopak zavádí jako první.",
+   "Mnohosvětová platí jen pro fotony, kodaňská pro veškerou hmotu.",
+   "Kodaňská má experimentální potvrzení, mnohosvětová zatím žádné nemá.",
+   "Kodaňská mluví o kolapsu při měření, mnohosvětová o větvení vesmírů."
+  ]
+ },
+ {
+  "id": "kva-13",
+  "text": "Co fyzikům vysvětluje jev zvaný dekoherence?",
+  "options": [
+   "Proč se kvantové superpozice v praxi u velkých objektů nepozorují.",
+   "Proč se fotony ve vakuu pohybují rychlostí světla, ne pomaleji.",
+   "Proč mají elektrony přesně definovaný elektrický náboj a spin.",
+   "Proč kvantové počítače potřebují extrémně nízké teploty k provozu."
+  ]
+ },
+ {
+  "id": "kva-14",
+  "text": "Čím se kvantový bit, qubit, principiálně liší od klasického bitu?",
+  "options": [
+   "Qubit umí uchovat mnohem větší číslo než klasický bit, třeba do milionu.",
+   "Qubit může být v superpozici 0 a 1, klasický bit je vždy jen jedno z nich.",
+   "Qubit se dá kopírovat stejně snadno jako klasický bit v paměti počítače.",
+   "Qubit funguje jen při pokojové teplotě, klasický bit potřebuje chlazení."
+  ]
+ },
+ {
+  "id": "kva-15",
+  "text": "Ve kterém typu úlohy dnes kvantové počítače slibují reálnou výhodu oproti klasickým?",
+  "options": [
+   "V běžném prohlížení internetu a psaní textových dokumentů rychleji.",
+   "Ve všech výpočtech vůbec, protože jsou obecně rychlejší v každé úloze.",
+   "V simulaci chování jiných kvantových systémů, třeba molekul a materiálů.",
+   "V ukládání běžných souborů a fotografií s vyšší datovou hustotou."
+  ]
+ },
+ {
+  "id": "kva-16",
+  "text": "Který výrok o kvantových počítačích je laický omyl, ne fakt?",
+  "options": [
+   "Nefungují jako univerzální náhrada za všechny klasické počítače.",
+   "Nezrychlují automaticky každý existující výpočetní problém.",
+   "Vyžadují extrémní chlazení a jsou dnes stále náchylné k chybám.",
+   "Díky superpozici umí prohledat všechny možnosti úlohy naráz zdarma."
+  ]
+ },
+ {
+  "id": "kva-17",
+  "text": "Co se experimentálně testuje pomocí Bellových nerovností?",
+  "options": [
+   "Zda výsledky provázaných měření lze vysvětlit skrytými lokálními vlastnostmi.",
+   "Zda mají fotony ve vakuu nenulovou klidovou hmotnost, nebo ne.",
+   "Zda je rychlost světla ve všech směrech vesmíru naprosto stejná.",
+   "Zda gravitace ohýbá dráhu fotonů kolem hmotných těles stejně."
+  ]
+ },
+ {
+  "id": "kva-18",
+  "text": "V čem se přesně liší předpověď „lokálního realismu“ od předpovědi kvantové mechaniky pro provázané částice?",
+  "options": [
+   "Lokální realismus předpovídá rychlejší přenos informace než světlo.",
+   "Lokální realismus předpovídá slabší korelace, než jaké QM skutečně dává.",
+   "Kvantová mechanika předpovídá naprosto žádnou korelaci mezi částicemi.",
+   "Obě teorie dávají identické předpovědi, liší se jen ve slovním výkladu."
+  ]
+ },
+ {
+  "id": "kva-19",
+  "text": "Proč nelze kvantovou provázanost použít k posílání zpráv rychleji než světlo?",
+  "options": [
+   "Protože provázané částice se rozpadnou dřív, než dorazí zpráva.",
+   "Protože provázanost funguje jen na vzdálenost kratší než jeden metr.",
+   "Protože výsledek měření je náhodný a bez druhé strany nedává zprávu.",
+   "Protože rychlost přenosu informace závisí na hmotnosti částic."
+  ]
+ },
+ {
+  "id": "kva-20",
+  "text": "V čem přesně spočívá takzvaný „problém měření“, který kvantová mechanika dodnes plně neřeší?",
+  "options": [
+   "V tom, že přístroje pro měření kvantových jevů jsou drahé a vzácné.",
+   "V tom, že jednotlivá měření nelze kvůli šumu nikdy zopakovat dvakrát.",
+   "V tom, že rovnice kvantové mechaniky neplatí pro fotony a světlo.",
+   "V tom, že teorie neříká, kdy a jak přesně superpozice přejde v jeden výsledek."
+  ]
+ },
+ {
+  "id": "evo-01",
+  "text": "Co je jádrem darwinovské teorie přirozeného výběru?",
+  "options": [
+   "Jedinci s výhodnějšími dědičnými vlastnostmi mají v průměru více přeživších potomků",
+   "Organismy si během života osvojují nové vlastnosti a ty pak předávají potomkům",
+   "Příroda postupně vybírá druhy, které jsou nejsložitěji stavěné a nejdokonalejší",
+   "Prostředí náhodně mění geny jedinců tak, aby se lépe hodili k danému podnebí"
+  ]
+ },
+ {
+  "id": "evo-02",
+  "text": "Proč je tvrzení 'evoluce směřuje k dokonalosti a stále vylepšuje organismy' zavádějící?",
+  "options": [
+   "Evoluce dokonalosti sice směřuje, ale jen u živočichů, ne u rostlin a mikroorganismů",
+   "Evoluce nemá cíl ani směr — jen zachovává to, co v daném prostředí a čase přežije a rozmnoží se",
+   "Dokonalost je správný pojem, jen se dosahuje mnohem pomaleji, než si lidé obvykle myslí",
+   "Evoluce dokonalost skutečně vytváří, ale výhradně prostřednictvím pohlavního výběru, ne jinými mechanismy"
+  ]
+ },
+ {
+  "id": "evo-03",
+  "text": "Co je genetický drift (genetický posun)?",
+  "options": [
+   "Postupné přesouvání celých genů z jednoho druhu na druhý přes prostředí",
+   "Cílené hromadění mutací, které organismu zajišťují lepší přizpůsobení podmínkám",
+   "Náhodná změna frekvence variant genů v populaci, silnější zejména v malých populacích",
+   "Proces, kterým se geny v průběhu jednoho života jedince fyzicky přemisťují mezi buňkami"
+  ]
+ },
+ {
+  "id": "evo-04",
+  "text": "Co přesně je mutace v biologickém smyslu?",
+  "options": [
+   "Vlastnost, kterou si jedinec vypěstuje tréninkem a poté ji předá svým dětem",
+   "Jakákoli viditelná odlišnost jedince od průměru jeho druhu či populace",
+   "Cílená oprava chyby v genetickém kódu, kterou provádí buňka během dělení",
+   "Náhodná změna v sekvenci DNA, která vzniká například chybou při kopírování"
+  ]
+ },
+ {
+  "id": "evo-05",
+  "text": "DNA nese dědičnou informaci. Co přesně se dědí z rodiče na potomka?",
+  "options": [
+   "Sekvence nukleotidů v DNA, která určuje, jaké bílkoviny se v těle budou vyrábět",
+   "Přesná kopie všech tělesných orgánů rodiče zmenšená do velikosti zárodečné buňky",
+   "Pouze vzhledové znaky viditelné pouhým okem, jako barva očí nebo výška postavy",
+   "Soubor návyků a naučených dovedností, které si rodič osvojil během svého života"
+  ]
+ },
+ {
+  "id": "evo-06",
+  "text": "Co je to speciace (vznik nového druhu)?",
+  "options": [
+   "Okamžik, kdy se u jednoho jedince objeví natolik nápadná mutace, že tím rovnou založí zcela nový druh",
+   "Proces, kdy se z jedné populace oddělí dvě, jež se přestanou křížit a vyvíjejí se dál odděleně",
+   "Situace, kdy se dva již existující druhy zkříží a vznikne z nich zcela nový, samostatný třetí druh",
+   "Proces, při kterém starý druh vymře a na jeho místo v ekosystému nastoupí druh úplně nesouvisející"
+  ]
+ },
+ {
+  "id": "evo-07",
+  "text": "Co znamená tvrzení, že lidé a šimpanzi mají 'společného předka'?",
+  "options": [
+   "Dnešní šimpanzi jsou přímými předky dnešních lidí a lidé se z nich v historii vyvinuli",
+   "Lidé se ze šimpanzů biologicky vyvinuli přibližně před sto tisíci lety na africkém kontinentě",
+   "Existoval druh, z něhož se postupně oddělily dvě linie vedoucí jedna k lidem, druhá k šimpanzům",
+   "Lidé a šimpanzi vznikli zcela nezávisle, ale později se náhodou stali si podobní vzhledem"
+  ]
+ },
+ {
+  "id": "evo-08",
+  "text": "Jakou roli hrají fosilie jako doklad evoluce?",
+  "options": [
+   "Dokazují hlavně to, že se druhy v minulosti neměnily a zůstávaly po miliony let identické",
+   "Slouží především k určení přesného stáří Země, s evolucí druhů přímo nijak nesouvisí",
+   "Jsou zajímavé esteticky, ale vědecky jsou jako důkaz evoluce dnes už považovány za překonané",
+   "Ukazují postupné změny stavby organismů v čase a existenci přechodných forem mezi skupinami"
+  ]
+ },
+ {
+  "id": "evo-09",
+  "text": "Delfíni (savci) a žraloci (ryby) mají nápadně podobný tvar těla, ačkoli jsou evolučně velmi vzdálení. Jak se tento jev nazývá?",
+  "options": [
+   "Konvergentní evoluce — nepříbuzné druhy vyvinou podobné řešení pro podobné podmínky prostředí",
+   "Homologie — obě skupiny zdědily stejný tvar těla od jednoho společného vodního předka",
+   "Hybridizace — dochází ke vzácnému mezidruhovému křížení mezi liniemi savců a ryb v mořském prostředí",
+   "Genetický drift — čirá náhoda způsobila, že se u obou skupin prosadily stejné mutace tvaru těla"
+  ]
+ },
+ {
+  "id": "evo-10",
+  "text": "Paví ocas je nápadně velký a nákladný na údržbu, přesto se v evoluci prosadil. Který mechanismus to nejlépe vysvětluje?",
+  "options": [
+   "Přirozený výběr prostředím — velký ocas pomáhá pávovi lépe unikat před predátory",
+   "Pohlavní výběr — samice preferují nápadné samce, takže se geny pro takový znak šíří dál",
+   "Genetický drift — znak se v populaci rozšířil čistě náhodou, bez jakéhokoli vlivu výběru prostředím",
+   "Epigenetika — velikost ocasu se u každého jedince mění podle množství potravy v mládí"
+  ]
+ },
+ {
+  "id": "evo-11",
+  "text": "Dělnice u sociálního hmyzu (např. včely) se samy nerozmnožují, ale pomáhají odchovat sourozence královny. Jak evoluční biologie vysvětluje takové chování?",
+  "options": [
+   "Skupinový instinkt — hmyz jedná pro dobro celého druhu, protože si to jako druh 'uvědomuje'",
+   "Naučené chování — dělnice se altruismu naučí pozorováním starších dělnic v úlu",
+   "Příbuzenský výběr — pomáhání příbuzným šíří geny sdílené s pomáhajícím jedincem bez rozmnožování",
+   "Náhoda — sterilita dělnic je vedlejší produkt mutace nesouvisející s pomáháním sourozencům"
+  ]
+ },
+ {
+  "id": "evo-12",
+  "text": "Richard Dawkins zavedl metaforu 'sobeckého genu'. Co tato metafora ve skutečnosti tvrdí?",
+  "options": [
+   "Geny jsou prý doslova vědomé a sobecky se rozhodují, kterému jedinci pomohou přežít",
+   "Sobectví je vlastnost, kterou geny předávají organismům, takže lidé jsou nutně sobečtí",
+   "Každý gen v těle neustále soutěží s ostatními geny stejného jedince o to, kdo se dostane do potomka",
+   "Přirozený výběr lze pochopit z pohledu genu, který 'jedná', jako by usiloval o vlastní rozšíření"
+  ]
+ },
+ {
+  "id": "evo-13",
+  "text": "Proč u lidí evolučně vznikla schopnost trávit laktózu (mléčný cukr) i v dospělosti jen u některých populací, typicky tam, kde se dlouho chovala dobytčata?",
+  "options": [
+   "V populacích chovajících dobytek byla mutace umožňující trávení mléka v dospělosti výhodná, a rozšířila se",
+   "Trávení mléka v dospělosti je zcela univerzální lidská vlastnost, rozdíly mezi populacemi jsou jen kulturní zvyk",
+   "Schopnost trávit mléko v dospělosti se u jedince rozvine, pokud ho pravidelně pije, bez ohledu na geny",
+   "Jde o čistě náhodný genetický drift, který s chovem dobytka a pitím mléka vůbec nijak nesouvisí"
+  ]
+ },
+ {
+  "id": "evo-14",
+  "text": "Kukačka klade vejce do hnízd jiných ptačích druhů a ti pak její mládě vychovávají. Hostitelský druh naopak vyvíjí schopnost kukaččí vejce rozpoznat a vyhazovat. Jak se tomuto vzájemnému 'závodu ve zbrojení' dvou druhů říká?",
+  "options": [
+   "Symbióza — oba druhy si vzájemně prospívají a bez sebe by nemohly dlouhodobě přežít",
+   "Koevoluce — vlastnosti jednoho druhu vyvíjejí selekční tlak na druhý druh a naopak",
+   "Hybridizace — dochází ke genetickému míšení mezi kukačkou a hostitelským druhem ptáka",
+   "Neutralismus — vztah obou druhů nemá na jejich evoluci žádný měřitelný vliv"
+  ]
+ },
+ {
+  "id": "evo-15",
+  "text": "Epigenetické značky (např. methylace DNA) mohou ovlivnit aktivitu genů a v některých případech se přenášejí i na potomky. Co z toho lze rozumně vyvodit?",
+  "options": [
+   "Epigenetika prý zcela nahrazuje darwinovský přirozený výběr jako hlavní hybatel evoluce všech druhů",
+   "Epigenetické změny získané během života se vždy trvale a bezezbytku dědí na všechny další generace",
+   "Jde o doplňkový mechanismus regulace genů, jehož dosah je mnohem skromnější, než naznačuje popularizace",
+   "Epigenetika prokazatelně dokazuje, že získané vlastnosti se dědí stejně spolehlivě jako mendelovské geny"
+  ]
+ },
+ {
+  "id": "evo-16",
+  "text": "Srpkovitá anémie je závažné dědičné onemocnění krve, ale přenašeči jedné kopie mutovaného genu jsou v oblastech s malárií evolučně zvýhodněni. Jak se tento typ jevu v evoluční biologii nazývá?",
+  "options": [
+   "Genetický drift — frekvence mutace v populaci kolísá zcela náhodně bez souvislosti s malárií",
+   "Zpětná mutace — vlivem malárie se mutovaný gen postupně vrací zpět ke své zdravé podobě",
+   "Epigenetická adaptace — vystavení malárii přímo přeprogramuje DNA, aby chránila proti nákaze",
+   "Vyvážený polymorfismus — heterozygot má vyšší zdatnost než oba homozygoti, obě alely se proto udrží"
+  ]
+ },
+ {
+  "id": "evo-17",
+  "text": "Evoluční medicína se ptá, proč nás evoluce 'nezbavila' nemocí. Jak vysvětluje přetrvávání horečky jako reakce na infekci?",
+  "options": [
+   "Mírně zvýšená teplota může bránit množení patogenů, takže horečka je často adaptivní obranná reakce, ne porucha",
+   "Horečka je čistě škodlivý evoluční pozůstatek bez jakékoli funkce, který přirozený výběr dosud nestihl odstranit",
+   "Horečka vznikla výhradně jako vedlejší, nefunkční produkt vysoké tělesné aktivity imunitních buněk",
+   "Horečka je výsledek nedávné kulturní změny stravy a s evolucí imunitního systému nesouvisí"
+  ]
+ },
+ {
+  "id": "evo-18",
+  "text": "Proč evoluční medicína považuje mnoho civilizačních chorob (obezita, cukrovka 2. typu) za důsledek 'nesouladu' (mismatch) mezi naší evoluční minulostí a dnešním prostředím?",
+  "options": [
+   "Lidský genom se za posledních zhruba sto let natolik změnil, že už vůbec neodpovídá organismu z doby lovců a sběračů",
+   "Naše fyziologie se vyvíjela v podmínkách nedostatku a byla uzpůsobena jinému prostředí, než v jakém dnes žijeme",
+   "Civilizační choroby vznikají výhradně kvůli genetickým mutacím způsobeným moderním znečištěným prostředím",
+   "Mismatch teorie tvrdí, že se lidské tělo vůbec nevyvíjelo výběrem a jeho současný stav je čistě náhodný jev"
+  ]
+ },
+ {
+  "id": "evo-19",
+  "text": "Endosymbiotická teorie tvrdí, že mitochondrie v našich buňkách jsou potomky kdysi samostatných bakterií. Který z níže uvedených dokladů tuto teorii nejsilněji podporuje?",
+  "options": [
+   "Mitochondrie mají stejný tvar jako většina bakterií a nacházejí se ve všech typech živých buněk",
+   "Mitochondrie produkují energii ve formě ATP, což žádná jiná buněčná struktura nedokáže",
+   "Mitochondrie mají vlastní kruhovou DNA a dělí se nezávisle na dělení celé buňky, podobně jako bakterie",
+   "Mitochondrie jsou obklopeny dvojitou membránou, kterou mají i všechny ostatní organely v buňce"
+  ]
+ },
+ {
+  "id": "evo-20",
+  "text": "Proti klasickému 'sobeckému genu' bývá stavěna otázka mnohoúrovňového výběru (multilevel selection) — myšlenka, že výběr může působit i na úrovni skupin, ne jen genů a jedinců. Jak dnešní hlavní proud evoluční biologie tento spor obvykle hodnotí?",
+  "options": [
+   "Mnohoúrovňový výběr byl vědeckou obcí jednoznačně a zcela zavržen ve prospěch genocentrického pohledu na evoluci",
+   "Genocentrický pohled byl mnohoúrovňovým výběrem zcela nahrazen jako platnější popis evoluce skupin",
+   "Oba přístupy popisují zcela odlišné a navzájem neslučitelné mechanismy fungující v rámci výběru druhů",
+   "Matematicky je mnohoúrovňový výběr často přeformulováním příbuzenského výběru — spor je hlavně o formalismu"
+  ]
+ },
+ {
+  "id": "kos-01",
+  "text": "Světelný rok je jednotka, kterou astronomové používají k měření vzdáleností ve vesmíru. Co přesně vyjadřuje?",
+  "options": [
+   "Čas jednoho oběhu hvězdy kolem středu galaxie",
+   "Vzdálenost, kterou světlo urazí za jeden rok",
+   "Celkové množství světla vyzářené hvězdou za rok",
+   "Vzdálenost Země od Slunce vynásobenou počtem dní v roce"
+  ]
+ },
+ {
+  "id": "kos-02",
+  "text": "Co hvězdu jako Slunce udržuje po miliardy let stabilní, aby se nezhroutila vlastní gravitací?",
+  "options": [
+   "Magnetické pole hvězdy, které odpuzuje okolní plyn",
+   "Rotace hvězdy kolem vlastní osy odstředivou silou",
+   "Tlak slunečního větru, který uniká z povrchu hvězdy",
+   "Rovnováha mezi gravitací a tlakem záření z jaderné fúze"
+  ]
+ },
+ {
+  "id": "kos-03",
+  "text": "Odkud pochází většina uhlíku, kyslíku a železa, ze kterých je složeno lidské tělo i Země?",
+  "options": [
+   "Vznikly jadernou fúzí a výbuchy hvězd, co je rozptýlily po vesmíru",
+   "Byly přítomny už při velkém třesku ve stejném množství jako dnes",
+   "Přinesly je na Zemi komety během posledních miliard let",
+   "Vznikají rozpadem temné hmoty v mezihvězdném prostoru"
+  ]
+ },
+ {
+  "id": "kos-04",
+  "text": "Edwin Hubble v roce 1929 zjistil, že vzdálené galaxie se od nás vzdalují. Jaký vztah mezi vzdáleností a rychlostí ústupu galaxií pozoroval?",
+  "options": [
+   "Rychlost ústupu galaxií nezávisí na jejich vzdálenosti od nás",
+   "Vzdálenější galaxie se naopak vzdalují pomaleji než blízké",
+   "Čím je galaxie vzdálenější, tím rychleji se od nás vzdaluje",
+   "Galaxie se vzdalují jen v jednom směru na obloze, v ostatních přibližují"
+  ]
+ },
+ {
+  "id": "kos-05",
+  "text": "Proč se světlo vzdalujících se galaxií jeví posunuté směrem k červené barvě spektra (tzv. rudý posuv)?",
+  "options": [
+   "Vzdálené galaxie obsahují méně horkých modrých hvězd než blízké",
+   "Rozpínající se prostor natahuje vlnovou délku světla na cestě k nám",
+   "Mezihvězdný prach pohlcuje modré světlo víc než to červené",
+   "Vzdálené galaxie mají nižší teplotu, a proto září jen do červena"
+  ]
+ },
+ {
+  "id": "kos-06",
+  "text": "Co je reliktní (mikrovlnné) záření, které v roce 1965 náhodou objevili Penzias a Wilson?",
+  "options": [
+   "Záření vysílané centrální černou dírou v jádru Mléčné dráhy",
+   "Odražené světlo Slunce rozptýlené na mezihvězdném prachu",
+   "Signál pozůstalý po výbuchu první generace hvězd ve vesmíru",
+   "Zbytkové záření z doby, kdy se vesmír stal průhledným"
+  ]
+ },
+ {
+  "id": "kos-07",
+  "text": "Co je horizont událostí černé díry?",
+  "options": [
+   "Pomyslná hranice, za kterou už ani světlo nemá dost rychlosti na únik ven",
+   "Fyzický pevný povrch, na který dopadající hmota černé díry naráží",
+   "Oblast, kde se hmota mění na antihmotu při pádu do černé díry",
+   "Vzdálenost, ve které gravitace černé díry přestává na okolí působit"
+  ]
+ },
+ {
+  "id": "kos-08",
+  "text": "Proč musí satelity systému GPS neustále korigovat svoje palubní hodiny, aby systém fungoval přesně?",
+  "options": [
+   "Ve vesmíru chybí atmosféra, která by hodiny na Zemi zpomalovala třením",
+   "Sluneční vítr statickou elektřinou ruší přesnost atomových hodin",
+   "Rychlost a slabší gravitace ve výšce mění tempo jejich času oproti Zemi",
+   "Satelity musí kompenzovat jen zpoždění signálu k přijímači"
+  ]
+ },
+ {
+  "id": "kos-09",
+  "text": "Co detekovala observatoř LIGO v roce 2015 poprvé přímo?",
+  "options": [
+   "Elektromagnetický záblesk vzniklý srážkou dvou neutronových hvězd",
+   "Zvlnění samotného prostoročasu způsobené splynutím dvou černých děr",
+   "Částice temné hmoty procházející detektorem v podzemní laboratoři",
+   "Neutrina vzniklá při výbuchu blízké supernovy v naší galaxii"
+  ]
+ },
+ {
+  "id": "kos-10",
+  "text": "Temná hmota a temná energie jsou dva různé záhadné jevy, které se v popularizaci často pletou. V čem je jejich hlavní rozdíl?",
+  "options": [
+   "Temná hmota je forma energie vyplňující prázdný prostor, temná energie je neviditelná forma běžné hmoty",
+   "Temná hmota byla přímo naměřena v laboratoři, temná energie je zatím jen teoretická domněnka",
+   "Obě jsou jen dvě různá jména pro totéž - přebytečnou gravitaci pozorovanou u galaxií",
+   "Temná hmota přitažlivě drží galaxie pohromadě, temná energie naopak zrychluje rozpínání celého vesmíru"
+  ]
+ },
+ {
+  "id": "kos-11",
+  "text": "Populární představa \"velkého třesku\" jako výbuchu, který se odehrál na nějakém místě v prázdném prostoru, je zavádějící. Co teorie velkého třesku ve skutečnosti popisuje?",
+  "options": [
+   "Rozpínání a ochlazování prostoru samotného ze žhavého hustého raného stavu, bez jediného středu",
+   "Výbuch obrovské hvězdy, jehož trosky dodnes létají prázdným vesmírem od jednoho bodu",
+   "Okamžik, kdy se hmota poprvé objevila uvnitř již existujícího nekonečného prázdného prostoru",
+   "Sérii postupných menších výbuchů, které vytvořily jednotlivé galaxie na různých místech"
+  ]
+ },
+ {
+  "id": "kos-12",
+  "text": "Einsteinova obecná teorie relativity vysvětluje gravitaci jinak než Newtonova fyzika. Jak?",
+  "options": [
+   "Gravitace je elektromagnetická síla působící mezi tělesy s opačným nábojem hmoty",
+   "Gravitace vzniká výměnou fotonů mezi tělesy podobně jako u elektromagnetické síly",
+   "Gravitace je projev zakřivení prostoročasu hmotou a energií, ne přitažlivá síla na dálku",
+   "Gravitace je pouze zdánlivý jev způsobený rozpínáním vesmíru mezi tělesy"
+  ]
+ },
+ {
+  "id": "kos-13",
+  "text": "Většinu z tisíců dosud objevených exoplanet astronomové nikdy přímo nespatřili. Jak nejčastěji planetu u vzdálené hvězdy odhalí?",
+  "options": [
+   "Zachytí rádiový signál vysílaný atmosférou planety k Zemi",
+   "Zaznamenají pravidelný pokles jasu hvězdy při přechodu planety",
+   "Změří teplotu povrchu hvězdy a z odchylky usoudí na planetu",
+   "Vyfotografují planetu přímo obyčejným pozemním dalekohledem"
+  ]
+ },
+ {
+  "id": "kos-14",
+  "text": "Fyzikální zákony samy o sobě většinou fungují stejně dopředu i pozpátku v čase. Co tedy dává vesmíru pozorovanou \"šipku času\", tedy jasný směr od minulosti k budoucnosti?",
+  "options": [
+   "Rozpínání vesmíru fyzicky roztahuje samotný tok času jedním směrem",
+   "Konečná rychlost světla vynucuje časový směr na všechny procesy",
+   "Gravitace je jediná síla, která rozlišuje minulost od budoucnosti",
+   "Entropie izolovaných soustav podle druhého zákona termodynamiky roste"
+  ]
+ },
+ {
+  "id": "kos-15",
+  "text": "Standardní model částicové fyziky popisuje, z čeho je hmota kolem nás poskládaná. Které dvě skupiny elementárních částic tvoří běžnou hmotu, jako jsou atomy?",
+  "options": [
+   "Kvarky (tvoří protony a neutrony) a leptony (například elektron)",
+   "Fotony a gluony, které dohromady vytvářejí jádra atomů",
+   "Neutrina a bosony Higgsova pole, ze kterých vznikají atomová jádra",
+   "Protony a neutrony jako elementární, dále nedělitelné částice"
+  ]
+ },
+ {
+  "id": "kos-16",
+  "text": "Stephen Hawking teoreticky ukázal, že černé díry nejsou úplně černé, ale pomalu \"vypařují\" energii. Na čem je toto Hawkingovo záření založeno?",
+  "options": [
+   "Na tření padající hmoty, které rozžhaví okolní disk plynu",
+   "Na odrazu kosmického záření od horizontu zpátky do vesmíru",
+   "Na kvantových jevech u horizontu, kde vzniklý pár částic o jednu přijde",
+   "Na rozpadu singularity uvnitř díry, jenž uvolňuje záření ven"
+  ]
+ },
+ {
+  "id": "kos-17",
+  "text": "Mapy reliktního záření (například z družice Planck) nejsou úplně stejnoměrné, ale obsahují nepatrné teplotní nerovnosti. Proč jsou pro kosmology tak důležité?",
+  "options": [
+   "Jsou to poruchy detektorů bez skutečného kosmologického významu",
+   "Odpovídají hustotním nerovnostem raného vesmíru, ze kterých vznikly galaxie",
+   "Ukazují na neobjevené hvězdy, které záření po cestě k nám zahřívaly",
+   "Dokazují, že se vesmír různými směry rozpíná různou rychlostí"
+  ]
+ },
+ {
+  "id": "kos-18",
+  "text": "Podle kosmologických modelů se dostatečně vzdálené galaxie od nás vzdalují rychlostí větší, než je rychlost světla. Jak to lze srovnat s Einsteinovým pravidlem, že nic se nemůže pohybovat rychleji než světlo?",
+  "options": [
+   "Ve skutečnosti se žádné galaxie nadsvětelnou rychlostí nevzdalují, jde jen o chybu měření vzdálených teleskopů",
+   "Rychlost světla byla v raném vesmíru výrazně vyšší a teprve postupně se zpomalila na dnešní hodnotu",
+   "Galaxie se pohybují nadsvětelnou rychlostí jen dočasně, díky setrvačnosti z období velkého třesku",
+   "Einsteinův limit platí pro pohyb těles prostorem, ne pro rychlost, jakou se rozpíná samotný prostor mezi nimi"
+  ]
+ },
+ {
+  "id": "kos-19",
+  "text": "V roce 1998 dva nezávislé týmy zkoumající vzdálené supernovy typu Ia zjistily něco, co odporovalo tehdejšímu očekávání. Co objevily?",
+  "options": [
+   "Rozpínání vesmíru se v posledních miliardách let zrychluje, místo aby se gravitací zpomalovalo",
+   "Vesmír se přestal rozpínat úplně a nyní setrvává v konstantní, neměnné velikosti",
+   "Supernovy typu Ia mají v různých částech vesmíru výrazně odlišnou skutečnou svítivost",
+   "Rozpínání vesmíru se naopak zrychlovalo jen krátce po velkém třesku a od té doby se zpomaluje"
+  ]
+ },
+ {
+  "id": "kos-20",
+  "text": "Obecná relativita, promítnutá zpět v čase, předpovídá na počátku vesmíru singularitu - bod nekonečné hustoty a teploty. Jak k tomuto výsledku dnes přistupuje většina kosmologů?",
+  "options": [
+   "Berou ho jako přesně změřený fakt, který nelze zpochybnit",
+   "Považují ho za důkaz věčného smršťování vesmíru stálým tempem",
+   "Berou ho jako signál, že obecná relativita v extrému přestává platit",
+   "Odmítají ho jako chybu a nahrazují modelem věčně statického vesmíru"
+  ]
+ },
+ {
+  "id": "ziv-01",
+  "text": "Proč je chobotnice považována za jednoho z nejinteligentnějších bezobratlých?",
+  "options": [
+   "Dokáže se učit řešit hádanky, otevírat zavíčkované nádoby a rozpoznávat jednotlivé lidi",
+   "Má mozek stejně velký jako savci srovnatelné tělesné hmotnosti a stejný poměr mozku k tělu jako člověk",
+   "Žije v trvalých rodinných skupinách, kde si mláďata předávají nástroje z generace na generaci",
+   "Dorozumívá se se svými druhy pomocí naučeného systému zvukových signálů podobného lidské řeči"
+  ]
+ },
+ {
+  "id": "ziv-02",
+  "text": "Co dělá vrána novokaledonská, díky čemu patří k nejzručnějším uživatelům nástrojů v říši zvířat?",
+  "options": [
+   "Vyrábí si háčky z větviček a listů pandánu, aby vytáhla larvy z děr v kůře stromů",
+   "Staví si hnízda z kamínků, které nosí po jednom v zobáku i přes několik kilometrů",
+   "Používá kousky kůry jako destičky, na kterých rozbíjí ulity ulovených plžů",
+   "Otevírá ořechy tak, že je upouští z výšky přesně na kamenné podložky, které si sama vybírá"
+  ]
+ },
+ {
+  "id": "ziv-03",
+  "text": "Co bylo pozorováno u sloních matek a příbuzných samic, když v tlupě uhyne mládě nebo dospělý jedinec?",
+  "options": [
+   "Skupina okamžitě opustí místo úhynu a další měsíce se mu širokým obloukem vyhýbá",
+   "Ostatní sloni tělo dlouho obcházejí, dotýkají se ho chobotem a někdy zůstávají u něj i několik dní",
+   "Matka mrtvé mládě ihned zahrabe do hlíny a poté se vrací ke zbytku stáda beze změny chování",
+   "Sloni reagují jen tehdy, pokud zemřelý patřil k vedoucí samici stáda, na ostatní úmrtí nereagují"
+  ]
+ },
+ {
+  "id": "ziv-04",
+  "text": "Jak orky (kosatky dravé) používají echolokaci a proč se různé populace v jídelníčku výrazně liší?",
+  "options": [
+   "Echolokaci využívají jen k navigaci, výběr kořisti je čistě náhodný podle toho, co je zrovna nablízku",
+   "Vysílají zvukové klapání a naslouchají ozvěně, přičemž konkrétní lovecké techniky a preference kořisti se předávají v rodinách jako kulturní tradice",
+   "Echolokace slouží výhradně ke komunikaci mezi skupinami, k lovu ji orky vůbec nepoužívají",
+   "Každá orka si echolokační vzorce vyvíjí zcela nezávisle a mezi jedinci stejné populace se výrazně liší"
+  ]
+ },
+ {
+  "id": "ziv-05",
+  "text": "Co ukázal Frans de Waal na svém pozorování šimpanzů, pokud jde o smíření po konfliktu?",
+  "options": [
+   "Šimpanzi se po rvačce v naprosté většině případů natrvalo vyhýbají soupeři a kontakt už neobnoví",
+   "Bojující zvířata jsou po konfliktu automaticky odděleni dominantním samcem, který sám usmiřování řídí",
+   "Soupeři se po potyčce často brzy sblíží — objímají se, dotýkají nebo si vzájemně čistí srst, což tlumí napětí ve skupině",
+   "Smíření probíhá výhradně mezi příbuznými jedinci, mezi nepříbuznými se agrese nikdy neurovná"
+  ]
+ },
+ {
+  "id": "ziv-06",
+  "text": "Jak funguje dělba práce u eusociálního hmyzu, jako jsou včely medonosné?",
+  "options": [
+   "Každá včela dělnice si po celý život udržuje jednu pevně danou úlohu, kterou nikdy nemění",
+   "Úkoly si dělnice losují náhodně každé ráno bez ohledu na věk nebo předchozí zkušenost",
+   "Úlohy dělnic se mění s věkem — mladší pracují uvnitř úlu, starší se stávají létajícími sběračkami",
+   "Dělbu práce určuje výhradně královna, která každé dělnici individuálně přiděluje úkol feromonem"
+  ]
+ },
+ {
+  "id": "ziv-07",
+  "text": "Krkavci a další krkavcovití patří mezi ptáky se srovnatelnou kognitivní úrovní jako lidoopi.",
+  "options": [
+   "Ano",
+   "Ne",
+   "Platí to jen pro papoušky, krkavcovití jsou v testech výrazně slabší",
+   "Testy inteligence u ptáků a savců nejsou vzájemně srovnatelné, tvrzení proto nedává smysl"
+  ]
+ },
+ {
+  "id": "ziv-08",
+  "text": "Jak medvídci vodní (želvušky) přežívají extrémní vysušení, mráz i vakuum vesmíru?",
+  "options": [
+   "Ve svém tvrdém krunýři udrží po celou dobu strádání malou zásobu tekuté vody",
+   "V metabolicky téměř zastaveném stavu zvaném kryptobióza nahradí buněčnou vodu ochrannými cukry a bílkovinami",
+   "Před nepříznivými podmínkami se stěhují na hlubší vlhčí místa, kam extrém nedosáhne",
+   "Zpomalí srdeční tep a dýchání natolik, že přežijí i bez jakékoli buněčné ochrany"
+  ]
+ },
+ {
+  "id": "ziv-09",
+  "text": "Jaký je hlavní biologický účel bioluminiscence u hlubokomořských živočichů, jako je ďasovec mořský?",
+  "options": [
+   "Slouží výhradně k regulaci tělesné teploty v chladné hlubinné vodě",
+   "Světlo pomáhá trávit potravu tím, že urychluje chemické reakce v žaludku",
+   "Používá se hlavně k lákání kořisti, komunikaci mezi jedinci, nebo naopak k oslnění a zmatení predátora",
+   "Je to čistě vedlejší produkt metabolismu bez jakékoli funkce, který se v evoluci neustálil záměrně"
+  ]
+ },
+ {
+  "id": "ziv-10",
+  "text": "Jaký je zásadní rozdíl mezi tím, když je živočich „jedovatý“ (poisonous) a když je „jedující“ (venomous)?",
+  "options": [
+   "Jedovatý živočich ohrožuje jen jiná zvířata, jedující dokáže otrávit i člověka",
+   "Jedovatý živočich je nebezpečný při dotyku nebo pozření, zatímco jedující aktivně vstřikuje jed kousnutím nebo bodnutím",
+   "Rozdíl je čistě terminologický a v biologii se tyto pojmy používají zcela zaměnitelně",
+   "Jedující živočichové mají jed vždy smrtelnější než jedovatí, protože ho vstřikují přímo do krve"
+  ]
+ },
+ {
+  "id": "ziv-11",
+  "text": "Jak funguje batesovská mimikry, kterou proslavil například pestrokřídlec vidlochvost napodobující jedovatého otakárka?",
+  "options": [
+   "Neškodný druh napodobuje vzhled jedovatého či nebezpečného druhu, aniž by sám měl jeho obranné vlastnosti",
+   "Dva nebezpečné druhy si navzájem podobným vzhledem posilují varovný signál pro predátory",
+   "Kořist mění barvu podle prostředí, aby splynula s pozadím a predátor ji vůbec nezaznamenal",
+   "Predátor napodobuje vzhled své kořisti, aby se k ní mohl nepozorovaně přiblížit"
+  ]
+ },
+ {
+  "id": "ziv-12",
+  "text": "Jak se stěhovaví ptáci a další migrující živočichové orientují pomocí magnetorecepce?",
+  "options": [
+   "Vnímají sklon a intenzitu zemského magnetického pole díky specializovaným buňkám nebo světlocitlivým bílkovinám v oku",
+   "Magnetické pole nevyužívají vůbec, orientují se výhradně podle postavení hvězd a slunce",
+   "Magnetorecepci mají pouze mořští živočichové, u ptáků nebyla nikdy spolehlivě prokázána",
+   "Vnímají magnetismus přes zobák, ve kterém mají malé kousky kovového železa fungující jako kompas"
+  ]
+ },
+ {
+  "id": "ziv-13",
+  "text": "Jak spí delfíni a další kytovci, když musí pravidelně vyplouvat k hladině dýchat vzduch?",
+  "options": [
+   "Přestávají zcela dýchat na několik hodin a spánek prodělávají jen jednou za několik dní",
+   "Spí jednohemisférickým spánkem — jedna mozková polokoule odpočívá, zatímco druhá zůstává bdělá a řídí dýchání a plavání",
+   "Spánek nahrazují krátkými mikrospánky trvajícími jen zlomek vteřiny během plavání",
+   "Vystoupí na souš nebo se opřou o hladinu a spí stejně jako suchozemští savci oběma mozkovými polokoulemi najednou"
+  ]
+ },
+ {
+  "id": "ziv-14",
+  "text": "Jak parazit Toxoplasma gondii ovlivňuje chování infikovaných hlodavců?",
+  "options": [
+   "Hlodavce zcela ochromí, takže se stanou pro predátory snadnou kořistí kvůli neschopnosti pohybu",
+   "Snižuje jejich přirozenou averzi ke pachu kočičí moči, čímž zvyšuje šanci, že je kočka uloví a parazit se dostane do svého hlavního hostitele",
+   "Zvyšuje jejich plodnost, takže infikovaná populace hlodavců rychle roste bez ohledu na predaci",
+   "Nutí hlodavce vyhledávat vodu a topit se, podobně jako to dělají někteří hostitelé hlísticovitých červů"
+  ]
+ },
+ {
+  "id": "ziv-15",
+  "text": "Co dělá houba rodu Ophiocordyceps nakaženému mravenci, než z jeho těla vyroste plodnice?",
+  "options": [
+   "Mravenec zůstává v mraveništi a houba se šíří na ostatní dělníky přímým kontaktem v hnízdě",
+   "Houba mravence donutí vyšplhat na spodní stranu listu ve vhodné výšce a vlhkosti, sevřít čelistmi žilku listu a tam uhynout",
+   "Nakažený mravenec se stáhne hluboko pod zem, kde houba vyklíčí chráněná před vysycháním",
+   "Houba ovládne let mravence, který posléze v letu shazuje spory na okolní kolonii"
+  ]
+ },
+ {
+  "id": "ziv-16",
+  "text": "Jaký smysl mají krysy, netopýři a někteří další savci a ptáci díky Jacobsonovu (vomeronazálnímu) orgánu, který člověku funkčně chybí?",
+  "options": [
+   "Schopnost vnímat ultrafialové světlo přímo sítnicí oka, podobně jako někteří ptáci a hmyz",
+   "Detekci feromonů a chemických signálů jiných jedinců, nezávislou na běžném čichovém epitelu",
+   "Přímé vnímání elektrických polí generovaných svaly kořisti, podobně jako u paryb",
+   "Echolokaci pomocí nízkofrekvenčních zvuků šířených kostmi lebky"
+  ]
+ },
+ {
+  "id": "ziv-17",
+  "text": "Někteří žraloci a rejnoci dokážou pomocí elektroreceptorů zvaných Lorenziniho ampule detekovat i slabá elektrická pole vytvářená svaly ukryté kořisti.",
+  "options": [
+   "Ano",
+   "Ne",
+   "Platí to jen pro sladkovodní paryby, mořské tento smysl nemají",
+   "Lorenziniho ampule slouží výhradně k regulaci tělesné teploty, ne k vnímání elektřiny"
+  ]
+ },
+ {
+  "id": "ziv-18",
+  "text": "Který živočich je podle dosavadních měření považován za nejrychlejší tvor na světě, uvážíme-li konkrétně rychlost pohybu vůči vlastní tělesné délce za sekundu?",
+  "options": [
+   "Gepard štíhlý při plném sprintu na otevřené savaně",
+   "Sokol stěhovavý při střemhlavém letu na kořist",
+   "Roztoč rodu Paratarsotomus, který v poměru ke své velikosti překonává gepardy i sokoly",
+   "Delfín skákavý při rychlém plavání v otevřeném oceánu"
+  ]
+ },
+ {
+  "id": "ziv-19",
+  "text": "Proč je krevetka kudlankovitá (Odontodactylus) zoologicky pozoruhodná jak úderem klepeta, tak zrakem?",
+  "options": [
+   "Jejím zrakovým orgánem je jediné oko na temeni hlavy, zatímco úder klepeta se používá pouze při páření",
+   "Klepetem udeří tak rychle, že kolem něj krátkodobě vznikají kavitační bubliny se zábleskem tepla, a její oči mají mimořádný počet typů fotoreceptorů vnímajících i polarizované světlo",
+   "Nemá klepeta ani viditelné oči, orientuje se výhradně echolokací podobně jako netopýři",
+   "Její údery jsou pomalé, ale extrémně silné, srovnatelné se stiskem čelistí velkých žraloků"
+  ]
+ },
+ {
+  "id": "ziv-20",
+  "text": "Proč je grónská žralok polární (Somniosus microcephalus) unikátní z hlediska stárnutí obratlovců?",
+  "options": [
+   "Je jediným známým obratlovcem, který se nikdy fyziologicky nestárne a teoreticky by mohl žít neomezeně dlouho",
+   "Radiokarbonové datování krystalků v oční čočce ukázalo, že se dožívá stovek let a pohlavní dospělosti dosahuje až kolem 150. roku života",
+   "Jeho stárnutí je extrémně rychlé, dožívá se jen několika let, ale kompenzuje to obřím počtem potomků",
+   "Věk se u něj neurčuje biologicky, ale jen podle velikosti těla, protože roste po celý život konstantní rychlostí"
+  ]
+ },
+ {
+  "id": "tec-01",
+  "text": "Co byl ENIAC, dokončený v roce 1945?",
+  "options": [
+   "První elektronkový počítač pro obecné výpočty",
+   "První tranzistorový počítač postavený v Evropě",
+   "První mechanický kalkulátor poháněný párou",
+   "První počítač postavený na křemíkových obvodech"
+  ]
+ },
+ {
+  "id": "tec-02",
+  "text": "Čím se proslavila Ada Lovelace u Babbageova stroje?",
+  "options": [
+   "Sestrojila fyzicky funkční model celého stroje",
+   "Vynalezla systém děrných štítků pro řízení všech strojů",
+   "Napsala k němu algoritmus, dnes brán za první program",
+   "Financovala celý vývoj stroje z vlastního majetku"
+  ]
+ },
+ {
+  "id": "tec-03",
+  "text": "Co formuluje Mooreův zákon o vývoji čipů?",
+  "options": [
+   "Rychlost internetu se každý rok zdvojnásobí",
+   "Cena hotových počítačů klesá výrazně lineárně s časem",
+   "Kapacita disků roste rychleji než procesory",
+   "Počet tranzistorů na čipu se zhruba zdvojnásobí"
+  ]
+ },
+ {
+  "id": "tec-04",
+  "text": "Jaký byl Turingův přínos k dešifrování Enigmy?",
+  "options": [
+   "Navrhl stroj bombe k hledání denních nastavení",
+   "Fyzicky ukradl šifrovací klíč z německé ponorky",
+   "Prolomil šifru čistě matematickým důkazem",
+   "Postavil počítač, který šifru dešifroval sám"
+  ]
+ },
+ {
+  "id": "tec-05",
+  "text": "Jaký byl vztah sítě ARPANET k dnešnímu internetu?",
+  "options": [
+   "Byl to komerční projekt firmy AT&T z 60. let",
+   "Byly to dvě zcela nezávislé sítě bez souvislosti",
+   "Vznikl až po webu jako jeho pozdější nadstavba",
+   "Byla to armádou financovaná síť, základ internetu"
+  ]
+ },
+ {
+  "id": "tec-06",
+  "text": "V čem je rozdíl mezi internetem a webem?",
+  "options": [
+   "Internet je síť počítačů, web jen služba nad ní",
+   "Web je fyzická síť kabelů, internet software nad ní",
+   "Jde o dva synonymní pojmy pro stejnou síť",
+   "Internet vznikl jako nadstavba webu pro e-maily"
+  ]
+ },
+ {
+  "id": "tec-07",
+  "text": "Co znamená, že TCP/IP je základem fungování internetu?",
+  "options": [
+   "Je to bezpečnostní certifikát ověřující weby",
+   "Je to programovací jazyk pro tvorbu prohlížečů",
+   "Je to formát komprese souborů při stahování",
+   "Definuje balení dat do paketů a jejich směrování"
+  ]
+ },
+ {
+  "id": "tec-08",
+  "text": "Proč funguje HTTPS bez předem sdíleného hesla?",
+  "options": [
+   "Prohlížeč důvěřuje serveru dle IP adresy",
+   "Používá se asymetrická kryptografie s párem klíčů",
+   "Server pošle heslo předem obyčejným e-mailem",
+   "Data se posílají nešifrovaná, jen rozdělená"
+  ]
+ },
+ {
+  "id": "tec-09",
+  "text": "Jaký je rozdíl mezi šifrováním a kompresí dat?",
+  "options": [
+   "Komprese data zabezpečuje, šifrování je jen zmenšuje",
+   "Jde jen o dva různé názvy pro úplně tentýž proces",
+   "Šifrování dělá data nečitelná, komprese je jen zmenšuje",
+   "Šifrování soubor zmenší, komprese ho naopak vždy zvětší"
+  ]
+ },
+ {
+  "id": "tec-10",
+  "text": "Proč GPS potřebuje korekce z Einsteinovy relativity?",
+  "options": [
+   "Relativita ovlivňuje jen rychlost rádiových vln",
+   "Satelity používají relativitu k výpočtu hmotnosti",
+   "Korekce se týkají jen vlivu Měsíce na dráhu",
+   "Relativita mění chod hodin na satelitech oproti Zemi"
+  ]
+ },
+ {
+  "id": "tec-11",
+  "text": "Co umožnilo znovupoužitelnost prvního stupně Falconu 9?",
+  "options": [
+   "Stupeň se řízeně vrací a přistává na motorech",
+   "Celý stupeň přistává na padáku přímo do oceánu",
+   "Stupeň tvoří nafukovací moduly, které se poté složí",
+   "Stupeň se po startu katapultuje rovnou zpět na rampu"
+  ]
+ },
+ {
+  "id": "tec-12",
+  "text": "Jak zjednodušeně funguje CRISPR-Cas9 při úpravě genomu?",
+  "options": [
+   "Ozařuje buňku zářením, které náhodně poškozuje geny",
+   "Vloží do buňky virus, který zcela nahradí genom",
+   "Funguje jako barva, co geny zviditelní pod mikroskopem",
+   "Naváděcí RNA dovede Cas9 na místo, kde DNA přestřihne"
+  ]
+ },
+ {
+  "id": "tec-13",
+  "text": "Čím se mRNA vakcíny liší od klasických vakcín s virem?",
+  "options": [
+   "Obsahují celý živý virus, jen ve zmrazené formě",
+   "Dodají instrukci, podle níž si buňky vyrobí protein",
+   "Přímo ničí virus antibiotiky obsaženými ve vakcíně",
+   "Jde o trvalou úpravu lidské DNA přímo v jádru"
+  ]
+ },
+ {
+  "id": "tec-14",
+  "text": "Co je grafen a proč o něj je takový zájem?",
+  "options": [
+   "Slitina titanu a hliníku pro letecký průmysl",
+   "Nový druh skla odolného vůči teplotám",
+   "Syntetický polymer nahrazující plasty z ropy",
+   "Vrstva uhlíku silná jeden atom, pevná a vodivá"
+  ]
+ },
+ {
+  "id": "tec-15",
+  "text": "Jaký je hlavní princip lithium-iontové baterie?",
+  "options": [
+   "Ionty lithia se vratně přesouvají mezi elektrodami",
+   "Baterie spaluje lithium jako palivo na teplo",
+   "Funguje na radioaktivním rozpadu izotopu lithia",
+   "Vyrábí proud reakcí lithia se vzdušným kyslíkem"
+  ]
+ },
+ {
+  "id": "tec-16",
+  "text": "Co je pravda o citátu Billa Gatese o 640 kB?",
+  "options": [
+   "Prokazatelně pochází od Steva Jobse, nikoli Gatese",
+   "Je to věta z oficiální dokumentace IBM PC",
+   "Je doložen dobovým rozhovorem, který Gates potvrdil",
+   "Autorství se mu jen připisuje, sám ho popřel"
+  ]
+ },
+ {
+  "id": "tec-17",
+  "text": "Čím se GNU GPL liší od zveřejnění kódu zdarma?",
+  "options": [
+   "Zaručuje svobody a nutí odvozená díla zůstat pod licencí",
+   "Je to jen marketingové označení bez právní vymahatelnosti",
+   "Umožňuje autorovi kdykoli zpětně zpoplatnit vydaný software",
+   "Zcela zakazuje jakékoli komerční využití daného softwaru"
+  ]
+ },
+ {
+  "id": "tec-18",
+  "text": "Čím se liší kvantová distribuce klíčů od klasického přenosu?",
+  "options": [
+   "Je to jen jiný název pro klasické šifrování AES",
+   "Odposlech kvantového stavu fotonu ho naruší a odhalí",
+   "Data vůbec necestují kanálem, ale okamžitě se teleportují",
+   "Přenáší data rychleji než světlo díky provázání částic"
+  ]
+ },
+ {
+  "id": "tec-19",
+  "text": "Proč je rozklad čísel na prvočinitele klíčový pro RSA?",
+  "options": [
+   "Protože jsou prvočísla vždy tajná a nepublikovaná",
+   "Protože RSA počítá jen a pouze se sudými čísly",
+   "Protože faktoring je stejně rychlý jako násobení",
+   "Násobit prvočísla je snadné, rozklad součinu je obtížný"
+  ]
+ },
+ {
+  "id": "tec-20",
+  "text": "Proč Shorův algoritmus ohrožuje RSA na kvantovém počítači?",
+  "options": [
+   "Umožňuje odposlouchávat optická vlákna bez detekce",
+   "Rozkládá čísla na prvočinitele v podstatně kratším čase",
+   "Jen zrychluje hrubé zkoušení hesel metodou pokus-omyl",
+   "Funguje jen na symetrických šifrách typu AES"
+  ]
+ }
+]

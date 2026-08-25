@@ -1,0 +1,322 @@
+[
+ {
+  "id": "kva-01",
+  "type": "F",
+  "category": "kvantovka",
+  "text": "Co znamená fyzikům výrok, že energie světla je „kvantovaná“?",
+  "options": [
+   "Světlo předává energii jen po nedělitelných dávkách zvaných fotony.",
+   "Světlo se šíří výhradně jako vlna a energii nikdy nepředává po částech.",
+   "Světlo mění barvu podle toho, jak rychle se k němu pozorovatel pohybuje.",
+   "Světlo má vždy stejnou energii bez ohledu na svou barvu či frekvenci."
+  ],
+  "correct": 0,
+  "explanation": "Max Planck a později Einstein ukázali, že energii lze předávat jen v celistvých násobcích kvanta hf, kde h je Planckova konstanta a f frekvence. Tím vysvětlili fotoelektrický jev, za což Einstein dostal Nobelovu cenu. Tento krok od spojitého k „zrnitému“ obrazu dal kvantové fyzice její jméno.",
+  "source": "Albert Einstein, práce o fotoelektrickém jevu (1905); popularizace: Philip Ball, Beyond Weird",
+  "seedElo": 1300
+ },
+ {
+  "id": "kva-02",
+  "type": "F",
+  "category": "kvantovka",
+  "text": "Co přesně znamená, že je částice ve „superpozici“ dvou stavů?",
+  "options": [
+   "Částice se fyzicky rozdělí na dvě poloviny, každou v jednom stavu.",
+   "Fyzici jen nevědí, ve kterém ze dvou stavů se částice skutečně nachází.",
+   "Kvantový stav částice je matematickým součtem obou možností najednou.",
+   "Částice se velmi rychle střídavě přesouvá mezi oběma stavy tam a zpět."
+  ],
+  "correct": 2,
+  "explanation": "Superpozice není nevědomost ani rychlé přeskakování mezi stavy — je to skutečný stav popsaný vlnovou funkcí, která je kombinací obou možností s danými amplitudami. Teprve měření tuto kombinaci promítne na jeden výsledek. Rozdíl od prostého „nevím který“ dokazují interferenční experimenty, kde se obě možnosti navzájem ovlivňují.",
+  "source": "Sean Carroll, Something Deeply Hidden (2019)",
+  "seedElo": 1330
+ },
+ {
+  "id": "kva-03",
+  "type": "F",
+  "category": "kvantovka",
+  "text": "Co se stane, když elektrony posíláme jeden po druhém na dvě štěrbiny a chytáme je na stínítku za nimi?",
+  "options": [
+   "Na stínítku vznikne přesně jedna skvrna naproti otevřené štěrbině.",
+   "Elektrony proletí náhodně a na stínítku vznikne rovnoměrná šeď.",
+   "Každý elektron zanechá stopu jen přesně naproti jedné ze štěrbin.",
+   "I po jedné částici postupně vznikne pruhovaný interferenční vzor."
+  ],
+  "correct": 3,
+  "explanation": "I když částice prochází jedna po druhé, po nasčítání mnoha dopadů se na stínítku objeví typický pruhovaný vzor, jako by částice interferovala sama se sebou přes obě štěrbiny zároveň. To je jeden z nejpřesvědčivějších důkazů vlnové povahy kvantových objektů. Richard Feynman ho nazval jevem, který obsahuje „celé tajemství“ kvantové mechaniky.",
+  "source": "Richard Feynman, Feynmanovy přednášky z fyziky, díl III",
+  "seedElo": 1360
+ },
+ {
+  "id": "kva-04",
+  "type": "F",
+  "category": "kvantovka",
+  "text": "Co se v kvantové mechanice myslí „kolapsem“ při měření?",
+  "options": [
+   "Částice se v okamžiku měření promění v úplně jiný typ částice.",
+   "Měřicí přístroj se při kontaktu s částicí fyzicky poškodí a rozpadne.",
+   "Superpozice více možností se změní na jediný naměřený výsledek.",
+   "Výsledek měření se dodatečně upraví tak, aby odpovídal teorii."
+  ],
+  "correct": 2,
+  "explanation": "Před měřením popisuje vlnová funkce více možných výsledků současně, vážených pravděpodobnostmi. Akt měření podle standardní (kodaňské) formulace tuto směs „zhroutí“ na jeden konkrétní výsledek, který skutečně naměříme. Proč a jak přesně k tomu dochází, je dodnes otevřený takzvaný problém měření.",
+  "source": "David Griffiths, Introduction to Quantum Mechanics",
+  "seedElo": 1390
+ },
+ {
+  "id": "kva-05",
+  "type": "F",
+  "category": "kvantovka",
+  "text": "Co ve skutečnosti tvrdí Heisenbergův princip neurčitosti?",
+  "options": [
+   "Částice mění svou polohu tak rychle, že ji nelze vůbec sledovat.",
+   "Polohu a hybnost částice nelze současně znát s velkou přesností.",
+   "Vědci zatím nemají dost přesné přístroje na změření polohy částic.",
+   "Poloha částice je vždy přesně daná, jen nám ji příroda tajně skrývá."
+  ],
+  "correct": 1,
+  "explanation": "Nejde o technickou nedokonalost přístrojů, ale o fundamentální vlastnost přírody: čím přesněji je definována poloha částice, tím méně přesně je definována její hybnost, a naopak. Tento vztah plyne přímo z vlnové povahy hmoty. Je to jeden z pilířů, na kterých kvantová mechanika stojí.",
+  "source": "Werner Heisenberg (1927); popularizace: Carlo Rovelli, Sedm krátkých přednášek z fyziky",
+  "seedElo": 1420
+ },
+ {
+  "id": "kva-06",
+  "type": "F",
+  "category": "kvantovka",
+  "text": "Co je kvantové tunelování?",
+  "options": [
+   "Částice se dočasně zastaví před bariérou a pak se vrátí zpět.",
+   "Částice si prokope skutečný fyzický tunel skrz pevnou překážku.",
+   "Částice obletí překážku po zakřivené dráze mimo svůj původní směr.",
+   "Částice projde bariérou, na jejíž překonání by neměla dost energie."
+  ],
+  "correct": 3,
+  "explanation": "Protože je částice popsána vlnovou funkcí, která nekončí ostře na okraji bariéry, existuje nenulová pravděpodobnost, že se objeví na druhé straně, i když by jí klasicky chyběla energie na překonání bariéry. Tento jev umožňuje třeba jaderný rozpad alfa nebo funguje ve skenovacím tunelovacím mikroskopu. Není to fyzický průchod dírou, ale statistický důsledek vlnové povahy hmoty.",
+  "source": "George Gamow, teorie alfa rozpadu (1928)",
+  "seedElo": 1450
+ },
+ {
+  "id": "kva-07",
+  "type": "F",
+  "category": "kvantovka",
+  "text": "Co znamená, že jsou dvě částice kvantově provázané?",
+  "options": [
+   "Částice si mezi sebou neustále posílají rychlé signály o svém stavu.",
+   "Obě částice mají od začátku tajně danou, jen skrytou hodnotu vlastnosti.",
+   "Jejich stavy popisuje jedna společná vlnová funkce, kterou nelze rozdělit.",
+   "Částice jsou spojeny neviditelným vláknem, které je fyzicky drží u sebe."
+  ],
+  "correct": 2,
+  "explanation": "U provázaných částic nelze stav každé z nich popsat zvlášť — existuje jen jeden společný kvantový popis obou dohromady. Změření jedné částice okamžitě určí, jaký výsledek dá měření druhé, ať jsou od sebe jakkoli daleko. Einstein tomu říkal „strašidelné působení na dálku“, ale experimenty potvrdily, že jde o reálný jev, ne o skryté předem dané hodnoty.",
+  "source": "Erwin Schrödinger (1935); Anton Zeilinger, Nobelova přednáška (2022)",
+  "seedElo": 1480
+ },
+ {
+  "id": "kva-08",
+  "type": "K",
+  "category": "kvantovka",
+  "text": "Čím se kvantová superpozice liší od klasické situace, kdy hodíme mincí a schováme výsledek pod dlaní?",
+  "options": [
+   "Superpozice umožňuje interferenci možností, skrytá mince nikdy ne.",
+   "Klasická mince má navíc přesně danou hmotnost, kvantový stav ji nemá.",
+   "Superpozice trvá déle než klasická skrytá mince, ale princip je stejný.",
+   "Ničím podstatným, obojí popisuje jen naši dočasnou neznalost výsledku."
+  ],
+  "correct": 0,
+  "explanation": "U skryté mince má výsledek už teď určenou hodnotu, jen ji neznáme — jde o takzvanou epistemickou neurčitost. U kvantové superpozice obě možnosti reálně koexistují a mohou spolu interferovat, což se dá experimentálně prokázat, například dvouštěrbinovým pokusem. Klasická neznalost žádnou interferenci nikdy nevytvoří.",
+  "source": "Sean Carroll, Something Deeply Hidden (2019)",
+  "seedElo": 1510
+ },
+ {
+  "id": "kva-09",
+  "type": "F",
+  "category": "kvantovka",
+  "text": "Co měl Schrödingerův myšlenkový experiment s kočkou původně ukázat?",
+  "options": [
+   "Že měření životně nebezpečných systémů je eticky nepřípustné.",
+   "Absurdnost představy, že předmět může být v superpozici.",
+   "Že kočky vnímají kvantové jevy jinak a citlivěji než lidé.",
+   "Že vědomí pozorovatele je nutné k tomu, aby kočka vůbec zemřela."
+  ],
+  "correct": 1,
+  "explanation": "Schrödinger navrhl myšlenkový pokus jako kritiku, ne jako důkaz — chtěl ukázat, jak absurdně zní, když se pravidla platná pro atomy (superpozice) doslovně přenesou na makroskopický svět, kde je kočka „napůl živá, napůl mrtvá“. Dnes se ví, že za mizení superpozice u velkých objektů může dekoherence, ne vědomí pozorovatele. Experiment nikdy fyzicky neproběhl.",
+  "source": "Erwin Schrödinger, Die Naturwissenschaften (1935)",
+  "seedElo": 1540
+ },
+ {
+  "id": "kva-10",
+  "type": "F",
+  "category": "kvantovka",
+  "text": "Slovo „pozorovatel“ se v populárních textech o kvantové mechanice často plete s vědomou myslí. Jak to vidí dnešní fyzika?",
+  "options": [
+   "Jde o otevřenou otázku, kterou žádný experiment zatím neřešil.",
+   "Platí to jen pro lidi, zvířata prý superpozici svým pohledem nemění.",
+   "Fyzika to potvrzuje: bez vědomého pozorovatele ke kolapsu nedochází.",
+   "„Pozorovatel“ znamená jakoukoli interakci se systémem, vědomí netřeba."
+  ],
+  "correct": 3,
+  "explanation": "V odborném smyslu „měření“ nebo „pozorování“ znamená jakoukoli interakci kvantového systému s okolím, která zanechá stopu — třeba srážku s molekulou vzduchu, ne pohled vědomé bytosti. Tento laický omyl vznikl nešťastným výběrem slov v raných textech o kvantové mechanice. Dekoherence funguje stejně, ať se na výsledek někdo dívá, nebo ne.",
+  "source": "Sean Carroll, blog Preposterous Universe; Philip Ball, Beyond Weird",
+  "seedElo": 1570
+ },
+ {
+  "id": "kva-11",
+  "type": "F",
+  "category": "kvantovka",
+  "text": "Co se stane s interferenčním vzorem ve dvouštěrbinovém pokusu, pokud u štěrbin zjistíme, kterou z nich částice prošla?",
+  "options": [
+   "Interference zmizí a na stínítku vznikne prostý součet dvou pruhů.",
+   "Vzor zůstane úplně stejný, informace o dráze ho nijak neovlivní.",
+   "Vzor se jen mírně rozmaže, ale pruhy zůstanou dobře patrné.",
+   "Vzor se zdvojnásobí, protože přibude nová informace o dráze."
+  ],
+  "correct": 0,
+  "explanation": "Jakmile máme informaci o tom, kterou štěrbinou částice prošla, třeba díky detektoru u štěrbiny, interferenční vzor zmizí a zůstane jen klasický obraz dvou překrývajících se pruhů, jako by šlo o kuličky, ne vlny. Rozhodující není vědomí pozorovatele, ale to, že interakce s detektorem nevratně naruší koherenci mezi oběma cestami. Tento experiment se dnes dělá i s jednotlivými fotony.",
+  "source": "Marlan Scully a Kai Drühl, experimenty typu „quantum eraser“ (1982)",
+  "seedElo": 1600
+ },
+ {
+  "id": "kva-12",
+  "type": "K",
+  "category": "kvantovka",
+  "text": "Co v kvantové mechanice rozlišuje kodaňskou interpretaci od mnohosvětové?",
+  "options": [
+   "Kodaňská má experimentální potvrzení, mnohosvětová zatím žádné nemá.",
+   "Mnohosvětová platí jen pro fotony, kodaňská pro veškerou hmotu.",
+   "Kodaňská odmítá superpozici, mnohosvětová ji naopak zavádí jako první.",
+   "Kodaňská mluví o kolapsu při měření, mnohosvětová o větvení vesmírů."
+  ],
+  "correct": 3,
+  "explanation": "Kodaňská interpretace popisuje měření jako skutečný kolaps superpozice na jeden výsledek. Mnohosvětová interpretace naopak tvrdí, že žádný kolaps neexistuje — při měření se vesmír „rozvětví“ a všechny možné výsledky se realizují, každý ve své vlastní větvi. Obě dávají stejné předpovědi pro experimenty, liší se jen v tom, co se „doopravdy“ děje.",
+  "source": "Hugh Everett III (1957); Sean Carroll, Something Deeply Hidden",
+  "seedElo": 1630
+ },
+ {
+  "id": "kva-13",
+  "type": "F",
+  "category": "kvantovka",
+  "text": "Co fyzikům vysvětluje jev zvaný dekoherence?",
+  "options": [
+   "Proč mají elektrony přesně definovaný elektrický náboj a spin.",
+   "Proč se fotony ve vakuu pohybují rychlostí světla, ne pomaleji.",
+   "Proč se kvantové superpozice v praxi u velkých objektů nepozorují.",
+   "Proč kvantové počítače potřebují extrémně nízké teploty k provozu."
+  ],
+  "correct": 2,
+  "explanation": "Dekoherence popisuje, jak interakce kvantového systému s okolím, jako je vzduch, fotony či tepelný šum, velmi rychle rozptýlí jemné fázové vztahy potřebné pro superpozici a interferenci. U makroskopických objektů, jako je kočka nebo mince, k tomu dochází prakticky okamžitě, proto je v běžném světě nepozorujeme. Nejde o kolaps kvůli vědomí, ale o fyzikální proces měřitelný a popsatelný rovnicemi.",
+  "source": "Wojciech Zurek, Reviews of Modern Physics (2003)",
+  "seedElo": 1660
+ },
+ {
+  "id": "kva-14",
+  "type": "F",
+  "category": "kvantovka",
+  "text": "Čím se kvantový bit, qubit, principiálně liší od klasického bitu?",
+  "options": [
+   "Qubit funguje jen při pokojové teplotě, klasický bit potřebuje chlazení.",
+   "Qubit umí uchovat mnohem větší číslo než klasický bit, třeba do milionu.",
+   "Qubit může být v superpozici 0 a 1, klasický bit je vždy jen jedno z nich.",
+   "Qubit se dá kopírovat stejně snadno jako klasický bit v paměti počítače."
+  ],
+  "correct": 2,
+  "explanation": "Klasický bit má vždy hodnotu 0 nebo 1. Qubit může být v superpozici obou hodnot současně, s danou pravděpodobností pro každý výsledek při měření. Navíc díky provázanosti mohou qubity mezi sebou nést korelace, které klasické bity napodobit nedokážou. Naopak qubity obecně nelze věrně zkopírovat, podle takzvané věty o nemožnosti klonování, a vyžadují extrémně nízké teploty.",
+  "source": "Michael Nielsen a Isaac Chuang, Quantum Computation and Quantum Information",
+  "seedElo": 1690
+ },
+ {
+  "id": "kva-15",
+  "type": "F",
+  "category": "kvantovka",
+  "text": "Ve kterém typu úlohy dnes kvantové počítače slibují reálnou výhodu oproti klasickým?",
+  "options": [
+   "V ukládání běžných souborů a fotografií s vyšší datovou hustotou.",
+   "Ve všech výpočtech vůbec, protože jsou obecně rychlejší v každé úloze.",
+   "V simulaci chování jiných kvantových systémů, třeba molekul a materiálů.",
+   "V běžném prohlížení internetu a psaní textových dokumentů rychleji."
+  ],
+  "correct": 2,
+  "explanation": "Protože kvantový počítač sám funguje na kvantových principech, je přirozeně vhodný k simulaci jiných kvantových systémů, jako jsou molekuly, katalyzátory nebo nové materiály, což je pro klasické počítače extrémně náročné. Právě tuto myšlenku navrhl už Richard Feynman v roce 1981. Naopak pro běžné úlohy jako prohlížení textu žádnou výhodu kvantový počítač nepřináší.",
+  "source": "Richard Feynman, přednáška „Simulating Physics with Computers“ (1981)",
+  "seedElo": 1720
+ },
+ {
+  "id": "kva-16",
+  "type": "F",
+  "category": "kvantovka",
+  "text": "Který výrok o kvantových počítačích je laický omyl, ne fakt?",
+  "options": [
+   "Vyžadují extrémní chlazení a jsou dnes stále náchylné k chybám.",
+   "Nefungují jako univerzální náhrada za všechny klasické počítače.",
+   "Díky superpozici umí prohledat všechny možnosti úlohy naráz zdarma.",
+   "Nezrychlují automaticky každý existující výpočetní problém."
+  ],
+  "correct": 2,
+  "explanation": "Rozšířený mýtus tvrdí, že superpozice umožňuje „vyzkoušet všechny odpovědi najednou“ a hned je znát. Ve skutečnosti měření vrátí jen jeden náhodný výsledek ze superpozice, takže užitečné kvantové algoritmy musí chytře poskládat interferenci tak, aby se špatné odpovědi vyrušily a správná zesílila. To funguje jen pro konkrétní typy úloh, ne univerzálně a rozhodně ne zdarma.",
+  "source": "Scott Aaronson, Quantum Computing Since Democritus",
+  "seedElo": 1750
+ },
+ {
+  "id": "kva-17",
+  "type": "F",
+  "category": "kvantovka",
+  "text": "Co se experimentálně testuje pomocí Bellových nerovností?",
+  "options": [
+   "Zda gravitace ohýbá dráhu fotonů kolem hmotných těles stejně.",
+   "Zda je rychlost světla ve všech směrech vesmíru naprosto stejná.",
+   "Zda výsledky provázaných měření lze vysvětlit skrytými vlastnostmi.",
+   "Zda mají fotony ve vakuu nenulovou klidovou hmotnost, nebo ne."
+  ],
+  "correct": 2,
+  "explanation": "John Bell v roce 1964 odvodil nerovnost, kterou by musely splňovat výsledky měření, pokud by částice měly předem dané, jen skryté, takzvaně lokálně reálné vlastnosti nezávislé na vzdáleném měření. Experimenty opakovaně ukázaly, že tato nerovnost je porušena a výsledky odpovídají předpovědím kvantové mechaniky. Za experimentální potvrzení dostali Clauser, Aspect a Zeilinger Nobelovu cenu za fyziku 2022.",
+  "source": "John Bell, Physics (1964); Nobelova cena za fyziku 2022",
+  "seedElo": 1780
+ },
+ {
+  "id": "kva-18",
+  "type": "K",
+  "category": "kvantovka",
+  "text": "V čem se přesně liší předpověď „lokálního realismu“ od předpovědi kvantové mechaniky pro provázané částice?",
+  "options": [
+   "Lokální realismus předpovídá rychlejší přenos informace než světlo.",
+   "Kvantová mechanika předpovídá naprosto žádnou korelaci mezi částicemi.",
+   "Lokální realismus předpovídá slabší korelace, než jaké QM skutečně dává.",
+   "Obě teorie dávají identické předpovědi, liší se jen ve slovním výkladu."
+  ],
+  "correct": 2,
+  "explanation": "Lokální realismus předpokládá, že vlastnosti částic jsou dané předem a měření na jedné částici neovlivní vzdálenou druhou rychleji než světlo. Z toho plyne horní hranice síly korelací mezi výsledky měření, daná Bellovou nerovností. Kvantová mechanika ale předpovídá a experimenty potvrzují silnější korelace, než tato hranice dovoluje, proto lokální realismus jako celek neplatí.",
+  "source": "Alain Aspect, experimenty s provázanými fotony (1982); Nobelova cena za fyziku 2022",
+  "seedElo": 1810
+ },
+ {
+  "id": "kva-19",
+  "type": "F",
+  "category": "kvantovka",
+  "text": "Proč nelze kvantovou provázanost použít k posílání zpráv rychleji než světlo?",
+  "options": [
+   "Protože výsledek měření je náhodný a bez druhé strany nedává zprávu.",
+   "Protože rychlost přenosu informace závisí na hmotnosti částic.",
+   "Protože provázané částice se rozpadnou dřív, než dorazí zpráva.",
+   "Protože provázanost funguje jen na vzdálenost kratší než jeden metr."
+  ],
+  "correct": 0,
+  "explanation": "Když změříte svou provázanou částici, dostanete čistě náhodný výsledek, 0 nebo 1 s určitou pravděpodobností, který sami neovlivníte. Teprve porovnáním svého výsledku s výsledkem druhé strany, a to porovnání musí proběhnout klasickým, ne rychlejším než světelným kanálem, se ukáže korelace. Bez tohoto klasického přenosu nese samotné měření nulovou využitelnou informaci, proto se tomu říká takzvaný no-signaling teorém.",
+  "source": "No-signaling teorém; popularizace: Philip Ball, Beyond Weird",
+  "seedElo": 1840
+ },
+ {
+  "id": "kva-20",
+  "type": "F",
+  "category": "kvantovka",
+  "text": "V čem přesně spočívá takzvaný „problém měření“, který kvantová mechanika dodnes plně neřeší?",
+  "options": [
+   "V tom, že jednotlivá měření nelze kvůli šumu nikdy zopakovat dvakrát.",
+   "V tom, že rovnice kvantové mechaniky neplatí pro fotony a světlo.",
+   "V tom, že teorie neříká, kdy přesně superpozice přejde v jeden výsledek.",
+   "V tom, že přístroje pro měření kvantových jevů jsou drahé a vzácné."
+  ],
+  "correct": 2,
+  "explanation": "Schrödingerova rovnice popisuje hladký, deterministický vývoj vlnové funkce v superpozici. Nikde v samotné teorii ale není zabudováno pravidlo, které by řeklo, přesně kdy a jak k „výběru“ jednoho výsledku při měření dochází — to se do teorie jen přidává jako dodatečný postulát. Různé interpretace, kodaňská, mnohosvětová, de Broglie-Bohmova a další, se snaží tuto mezeru vyplnit odlišnými způsoby, ale shoda mezi fyziky zatím neexistuje.",
+  "source": "Sean Carroll, Something Deeply Hidden; Maximilian Schlosshauer, Decoherence and the Quantum-to-Classical Transition",
+  "seedElo": 1870
+ }
+]

@@ -5,7 +5,7 @@
   "title": "Obrany",
   "count": 48,
   "version": 1,
-  "obor": "psychoterapie"
+  "obor": "psychoanalyza"
  },
  {
   "id": "prenos",
@@ -13,7 +13,7 @@
   "title": "Přenos a technika",
   "count": 50,
   "version": 1,
-  "obor": "psychoterapie"
+  "obor": "psychoanalyza"
  },
  {
   "id": "skoly",
@@ -21,7 +21,7 @@
   "title": "Školy a autoři",
   "count": 50,
   "version": 1,
-  "obor": "psychoterapie"
+  "obor": "psychoanalyza"
  },
  {
   "id": "smery",
@@ -29,7 +29,7 @@
   "title": "Směry a mosty",
   "count": 45,
   "version": 1,
-  "obor": "psychoterapie"
+  "obor": "psychoanalyza"
  },
  {
   "id": "struktura",
@@ -37,7 +37,7 @@
   "title": "Struktura a diagnostika",
   "count": 45,
   "version": 1,
-  "obor": "psychoterapie"
+  "obor": "psychoanalyza"
  },
  {
   "id": "vyvoj",
@@ -45,7 +45,7 @@
   "title": "Vývojové teorie",
   "count": 45,
   "version": 1,
-  "obor": "psychoterapie"
+  "obor": "psychoanalyza"
  },
  {
   "id": "vyzkum",
@@ -53,7 +53,7 @@
   "title": "Výzkum, etika, dějiny",
   "count": 47,
   "version": 1,
-  "obor": "psychoterapie"
+  "obor": "psychoanalyza"
  },
  {
   "id": "sondaz",
@@ -61,7 +61,7 @@
   "title": "Sondáž — žebřík",
   "count": 77,
   "version": 1,
-  "obor": "psychoterapie"
+  "obor": "psychoanalyza"
  },
  {
   "id": "kernberg-2018",
@@ -69,7 +69,119 @@
   "title": "Kernberg 2018: TFP-E (kap. 2)",
   "count": 36,
   "version": 1,
-  "obor": "psychoterapie",
+  "obor": "psychoanalyza",
   "parent": "struktura"
+ },
+ {
+  "id": "kvantovka",
+  "file": "kvantovka.json",
+  "title": "Kvantovka",
+  "count": 20,
+  "version": 1,
+  "obor": "prirodni-vedy"
+ },
+ {
+  "id": "evoluce",
+  "file": "evoluce.json",
+  "title": "Evoluce a biologie",
+  "count": 20,
+  "version": 1,
+  "obor": "prirodni-vedy"
+ },
+ {
+  "id": "kosmologie",
+  "file": "kosmologie.json",
+  "title": "Kosmologie a fyzika",
+  "count": 20,
+  "version": 1,
+  "obor": "prirodni-vedy"
+ },
+ {
+  "id": "zivocichove",
+  "file": "zivocichove.json",
+  "title": "Živočichové",
+  "count": 20,
+  "version": 1,
+  "obor": "prirodni-vedy"
+ },
+ {
+  "id": "dejiny-filosofie",
+  "file": "dejiny-filosofie.json",
+  "title": "Dějiny filosofie",
+  "count": 20,
+  "version": 1,
+  "obor": "filosofie"
+ },
+ {
+  "id": "epistemologie",
+  "file": "epistemologie.json",
+  "title": "Epistemologie",
+  "count": 20,
+  "version": 1,
+  "obor": "filosofie"
+ },
+ {
+  "id": "etika",
+  "file": "etika.json",
+  "title": "Etika",
+  "count": 20,
+  "version": 1,
+  "obor": "filosofie"
+ },
+ {
+  "id": "logika",
+  "file": "logika.json",
+  "title": "Logika a paradoxy",
+  "count": 20,
+  "version": 1,
+  "obor": "filosofie"
+ },
+ {
+  "id": "filosofie-mysli",
+  "file": "filosofie-mysli.json",
+  "title": "Filosofie mysli",
+  "count": 20,
+  "version": 1,
+  "obor": "vedomi"
+ },
+ {
+  "id": "theory-of-mind",
+  "file": "theory-of-mind.json",
+  "title": "Theory of mind",
+  "count": 20,
+  "version": 1,
+  "obor": "vedomi"
+ },
+ {
+  "id": "neuroveda-vedomi",
+  "file": "neuroveda-vedomi.json",
+  "title": "Neurověda vědomí",
+  "count": 20,
+  "version": 1,
+  "obor": "vedomi"
+ },
+ {
+  "id": "technologie",
+  "file": "technologie.json",
+  "title": "Technologie",
+  "count": 20,
+  "version": 1,
+  "obor": "general"
+ },
+ {
+  "id": "ai",
+  "file": "ai.json",
+  "title": "AI",
+  "count": 20,
+  "version": 1,
+  "obor": "general"
+ },
+ {
+  "id": "crazy-fakta",
+  "file": "crazy-fakta.json",
+  "title": "Crazy fakta",
+  "count": 20,
+  "version": 1,
+  "obor": "general"
  }
 ]

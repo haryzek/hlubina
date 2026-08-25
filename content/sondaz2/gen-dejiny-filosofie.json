@@ -1,0 +1,322 @@
+[
+  {
+    "id": "dfi-01",
+    "type": "F",
+    "category": "dejiny-filosofie",
+    "text": "Řecký filosof Hérakleitos je proslulý výrokem, že do stejné řeky nevstoupíš dvakrát. Co tím chtěl hlavně vyjádřit?",
+    "options": [
+      "Že řeky jsou nebezpečné a člověk se má vyhýbat riziku",
+      "Že veškerá skutečnost je v neustálém plynutí a proměně",
+      "Že lidská paměť je nespolehlivá a soustavně nás klame",
+      "Že se příroda vždy řídí přesnými matematickými zákony"
+    ],
+    "correct": 1,
+    "explanation": "Hérakleitos považoval změnu a plynutí (řecky panta rhei, vše plyne) za základní rys skutečnosti. Svět není souborem stálých věcí, ale procesem, v němž se vše neustále mění, i když se nám to na první pohled nemusí zdát.",
+    "source": "Hérakleitos, zlomky",
+    "seedElo": 1300
+  },
+  {
+    "id": "dfi-02",
+    "type": "F",
+    "category": "dejiny-filosofie",
+    "text": "Sokratova metoda vedení rozhovoru, kdy kladenými otázkami pomáhal druhému 'porodit' vlastní poznání, se nazývá:",
+    "options": [
+      "Dialektika",
+      "Maieutika",
+      "Sofistika",
+      "Rétorika"
+    ],
+    "correct": 1,
+    "explanation": "Maieutika, doslova 'porodnické umění', je pojmenování odkazující na to, že Sokratova matka byla porodní bába. Sokrates netvrdil, že učí pravdě, ale že pomáhá druhým, aby si sami uvědomili, co už v sobě nosí.",
+    "source": "Platón, Theaitétos",
+    "seedElo": 1330
+  },
+  {
+    "id": "dfi-03",
+    "type": "F",
+    "category": "dejiny-filosofie",
+    "text": "V Platónově podobenství o jeskyni jsou spoutaní lidé, kteří vidí jen stíny na stěně. Co tyto stíny v podobenství symbolizují?",
+    "options": [
+      "Svět jevů, který mylně považujeme za plnou realitu",
+      "Sny, jež nás matou a odvádějí pryč od rozumu",
+      "Lži, které šíří politici, aby udrželi svou moc",
+      "Umělecká díla, jsoucí jen napodobeninou skutečna"
+    ],
+    "correct": 0,
+    "explanation": "Stíny na stěně jeskyně představují svět jevů, který vnímáme smysly. Skutečné poznání podle Platóna vyžaduje obrátit se od stínů ke světlu, tedy od smyslového světa k říši idejí, které jsou pravou a neměnnou skutečností.",
+    "source": "Platón, Ústava, kniha VII",
+    "seedElo": 1360
+  },
+  {
+    "id": "dfi-04",
+    "type": "F",
+    "category": "dejiny-filosofie",
+    "text": "Co jsou podle Platóna 'ideje'?",
+    "options": [
+      "Nápady a myšlenky, které si člověk sám vytváří ve fantazii",
+      "Dokonalé a neměnné vzory, jejichž odrazy jsou věci kolem nás",
+      "Matematické vzorce, které přesně popisují pohyb těles",
+      "Boží přikázání, jež byla zjevena starozákonním prorokům"
+    ],
+    "correct": 1,
+    "explanation": "Pro Platóna jsou ideje objektivně existující, věčné a neměnné vzory věcí, například idea krásy nebo spravedlnosti. Konkrétní krásné věci na světě jsou jen nedokonalými odlesky těchto dokonalých vzorů.",
+    "source": "Platón, Ústava",
+    "seedElo": 1390
+  },
+  {
+    "id": "dfi-05",
+    "type": "F",
+    "category": "dejiny-filosofie",
+    "text": "Aristotelés na rozdíl od svého učitele Platóna tvrdil, že obecné formy (esence) věcí:",
+    "options": [
+      "Neexistují vůbec, jsou to jen prázdná slova bez obsahu",
+      "Existují jen v mysli boha, ne přímo ve věcech samých",
+      "Existují vtělené v jednotlivých věcech, ne v jiné říši",
+      "Existují pouze v matematice a geometrických útvarech"
+    ],
+    "correct": 2,
+    "explanation": "Zatímco Platón umísťoval ideje do oddělené, nadsmyslové říše, Aristotelés tvrdil, že forma každé věci je neoddělitelně spjata s její látkou a existuje v ní samotné. Poznání proto začíná zkoumáním konkrétních věcí, ne odvracením se od nich.",
+    "source": "Aristotelés, Metafyzika",
+    "seedElo": 1420
+  },
+  {
+    "id": "dfi-06",
+    "type": "K",
+    "category": "dejiny-filosofie",
+    "text": "Stoikové i epikurejci hledali klid duše (ataraxii), ale radili k tomu odlišnou cestu. Jak se jejich přístupy zásadně lišily?",
+    "options": [
+      "Stoikové doporučovali smíření s osudem, epikurejci střídmé hledání slasti",
+      "Stoikové byli přesvědčení ateisté, epikurejci horliví věřící v aktivní bohy",
+      "Stoikové odmítali veřejný život úplně, epikurejci naopak vybízeli k politické kariéře",
+      "Stoikové věřili v posmrtný život duše, epikurejci hlásali věčné převtělování duší"
+    ],
+    "correct": 0,
+    "explanation": "Stoikové učili, že klid přináší přijetí toho, co nemůžeme ovlivnit, a život ve shodě s rozumem a ctností. Epikurejci naopak radili rozumně vybírat slasti tak, aby nevedly k utrpení, přičemž ideálem byla skromnost, přátelství a odstranění strachu ze smrti a bohů.",
+    "source": "Diogenés Laertios, Životy filosofů",
+    "seedElo": 1450
+  },
+  {
+    "id": "dfi-07",
+    "type": "F",
+    "category": "dejiny-filosofie",
+    "text": "Svatý Augustin se ve svých Vyznáních potýkal s otázkou, jak sladit svobodnou vůli člověka s existencí zla ve světě, který stvořil dobrý Bůh. K jakému řešení dospěl?",
+    "options": [
+      "Zlo je samostatná síla stejně mocná jako dobro a bojuje s ním o vládu",
+      "Zlo je jen nedostatek dobra, ne samostatně existující věc",
+      "Bůh zlo záměrně stvořil, aby lidi zkoušel a trestal za hříchy",
+      "Zlo vůbec neexistuje, je to pouze lidský omyl ve vnímání"
+    ],
+    "correct": 1,
+    "explanation": "Augustin převzal myšlenku, že zlo (privatio boni) není žádnou pozitivní substancí, kterou by Bůh musel stvořit, ale nedostatkem dobra, podobně jako je tma nepřítomností světla. Zlo ve světě pak pramení ze zneužití svobodné vůle stvořených bytostí.",
+    "source": "Augustin, Vyznání",
+    "seedElo": 1480
+  },
+  {
+    "id": "dfi-08",
+    "type": "F",
+    "category": "dejiny-filosofie",
+    "text": "Tomáš Akvinský se pokusil o velké sloučení křesťanské teologie s filosofií jednoho starověkého myslitele. O koho šlo?",
+    "options": [
+      "Platóna, zakladatele athénské Akademie",
+      "Aristotela, žáka Platónova a učitele Alexandra",
+      "Epikúra, zakladatele zahradní filosofické školy",
+      "Pyrrhóna ze Élidy, zakladatele antické skepse"
+    ],
+    "correct": 1,
+    "explanation": "Akvinský ve 13. století propojil aristotelskou filosofii, tehdy nově dostupnou evropským myslitelům díky arabským překladům, s křesťanskou teologií. Věřil, že rozum a víra si neodporují, ale vzájemně se doplňují na cestě k pravdě.",
+    "source": "Tomáš Akvinský, Summa theologiae",
+    "seedElo": 1510
+  },
+  {
+    "id": "dfi-09",
+    "type": "F",
+    "category": "dejiny-filosofie",
+    "text": "Descartova metoda radikální pochybnosti měla najít jistý, nezpochybnitelný základ poznání. K jakému závěru díky ní dospěl ve slavném výroku 'cogito, ergo sum'?",
+    "options": [
+      "Že jediná jistota je existence hmotného světa okolo nás",
+      "Že akt pochybování dokazuje existenci myslícího já",
+      "Že Bůh je jediná bytost, o jejíž existenci nelze pochybovat",
+      "Že nás smysly nikdy neklamou, pokud jsme dostatečně pozorní"
+    ],
+    "correct": 1,
+    "explanation": "Descartes mohl zpochybnit existenci vnějšího světa, těla i smyslů, ale nemohl zpochybnit, že v okamžiku pochybování myslí. Z toho vyvodil jistotu 'myslím, tedy jsem', na níž chtěl vystavět celou stavbu spolehlivého poznání.",
+    "source": "René Descartes, Rozprava o metodě",
+    "seedElo": 1540
+  },
+  {
+    "id": "dfi-10",
+    "type": "F",
+    "category": "dejiny-filosofie",
+    "text": "Descartův dualismus tvrdí, že člověk se skládá ze dvou zásadně odlišných substancí. O jaké dvě substance jde?",
+    "options": [
+      "Dobro a zlo, boj protikladných principů v člověku",
+      "Rozum a cit, jež spolu v duši věčně soupeří",
+      "Rozprostraněná věc (tělo) a myslící věc (mysl)",
+      "Vědomí a nevědomí, dvě vrstvy jedné lidské duše"
+    ],
+    "correct": 2,
+    "explanation": "Descartes rozlišoval res extensa, hmotnou rozprostraněnou substanci, kam patří tělo a fyzický svět, a res cogitans, nehmotnou myslící substanci, kterou je duše či mysl. Otázka, jak spolu tyto dvě zcela odlišné substance interagují, se stala jedním z velkých problémů novověké filosofie.",
+    "source": "René Descartes, Meditace o první filosofii",
+    "seedElo": 1570
+  },
+  {
+    "id": "dfi-11",
+    "type": "K",
+    "category": "dejiny-filosofie",
+    "text": "Empirismus a racionalismus se v novověké filosofii rozcházely v základní otázce zdroje poznání. V čem spočíval jejich hlavní spor?",
+    "options": [
+      "Empirici věřili jen smyslům, racionalisté hledali poznání v rozumu",
+      "Empirici byli nábožensky založení, racionalisté byli přesvědčení ateisté",
+      "Empirici zkoumali přírodu, racionalisté se věnovali jen etice a politice",
+      "Empirici odmítali matematiku, racionalisté ji brali za jediný vzor vědy"
+    ],
+    "correct": 0,
+    "explanation": "Empirikové jako Locke tvrdili, že mysl je při narození nepopsaným listem (tabula rasa) a veškeré poznání pochází ze smyslové zkušenosti. Racionalisté naopak zastávali existenci vrozených idejí a pokládali rozumové poznání za spolehlivější a přednější než smysly.",
+    "source": "John Locke, Esej o lidském rozumu",
+    "seedElo": 1600
+  },
+  {
+    "id": "dfi-12",
+    "type": "F",
+    "category": "dejiny-filosofie",
+    "text": "David Hume svou analýzou příčinnosti zpochybnil, že bychom mohli logicky dokázat, že jedna věc skutečně způsobuje druhou. Co podle něj ve skutečnosti pozorujeme, když mluvíme o příčině a následku?",
+    "options": [
+      "Skryté logické nutnosti mezi jevy, odvoditelné matematicky",
+      "Boží vůli, jež tajně propojuje jednotlivé události ve světě",
+      "Jen opakované sledování dvou jevů po sobě, z čehož vzniká návyk",
+      "Fyzikální síly popsané přesnými, zcela nezpochybnitelnými vzorci"
+    ],
+    "correct": 2,
+    "explanation": "Hume tvrdil, že nikdy nevnímáme samotnou nutnou vazbu mezi příčinou a následkem, jen jejich opakované následování po sobě. Naše přesvědčení o kauzalitě je podle něj výsledkem zvyku mysli, nikoli logicky nezpochybnitelným poznatkem o světě.",
+    "source": "David Hume, Zkoumání o lidském rozumu",
+    "seedElo": 1630
+  },
+  {
+    "id": "dfi-13",
+    "type": "F",
+    "category": "dejiny-filosofie",
+    "text": "Immanuel Kant se pokusil vyřešit spor mezi racionalismem a empirismem tvrzením, že naše poznání je utvářeno oběma zdroji zároveň. Jak to formuloval?",
+    "options": [
+      "Pojmy bez názorů jsou prázdné, názory bez pojmů jsou slepé",
+      "Rozum je nadřazen smyslům ve všech ohledech lidského poznání",
+      "Smysly jsou jediným možným zdrojem veškerého poznání světa",
+      "Poznání je jen iluze, kterou si mysl vytváří sama pro sebe"
+    ],
+    "correct": 0,
+    "explanation": "Kant tvrdil, že poznání vzniká spojením smyslových dat (názorů) s pojmovými strukturami rozumu, které tato data uspořádávají. Bez smyslového obsahu jsou pojmy prázdné, bez pojmového uspořádání jsou smyslové vjemy chaotické a neužitečné.",
+    "source": "Immanuel Kant, Kritika čistého rozumu",
+    "seedElo": 1660
+  },
+  {
+    "id": "dfi-14",
+    "type": "F",
+    "category": "dejiny-filosofie",
+    "text": "Kantův kategorický imperativ žádá, abychom jednali jen podle takové zásady, o níž si zároveň přejeme, aby se stala:",
+    "options": [
+      "Základem osobního štěstí za každou cenu",
+      "Zákonem uznávaným pouze naší vlastní kulturou",
+      "Obecným zákonem platným úplně pro všechny",
+      "Tajemstvím, které si necháme jen pro sebe"
+    ],
+    "correct": 2,
+    "explanation": "Kategorický imperativ je bezpodmínečný mravní příkaz nezávislý na následcích. Jednání je mravné, pokud jeho pravidlo (maximu) můžeme chtít jako obecně platný zákon pro každého člověka, nejen jako výjimku pro sebe.",
+    "source": "Immanuel Kant, Základy metafyziky mravů",
+    "seedElo": 1690
+  },
+  {
+    "id": "dfi-15",
+    "type": "F",
+    "category": "dejiny-filosofie",
+    "text": "Kant zavedl pojem 'věc o sobě' (Ding an sich). Co tím měl na mysli?",
+    "options": [
+      "Věci, které si pouze vymýšlíme a fyzicky vůbec neexistují",
+      "Skutečnost, jak existuje nezávisle na vnímání, nepoznatelná",
+      "Předměty umělecké tvorby, které mají hodnotu samy o sobě",
+      "Boha jako jedinou skutečně a nezpochybnitelně existující bytost"
+    ],
+    "correct": 1,
+    "explanation": "Podle Kanta nikdy nepoznáváme realitu takovou, jaká je sama o sobě, ale jen jak se nám jeví, zprostředkovaně skrze naše smyslové a rozumové struktury. Věc o sobě zůstává navždy za hranicí možné lidské zkušenosti.",
+    "source": "Immanuel Kant, Kritika čistého rozumu",
+    "seedElo": 1720
+  },
+  {
+    "id": "dfi-16",
+    "type": "F",
+    "category": "dejiny-filosofie",
+    "text": "Hegelova dialektika popisuje vývoj myšlení a dějin jako proces, kdy se protikladné pozice postupně spojují ve vyšší celek. Jak se tento třídílný pohyb obvykle laicky označuje?",
+    "options": [
+      "Teze, antiteze, syntéza, tak jak to popsal sám Hegel",
+      "Analýza, syntéza, kritika jako tři kroky poznání",
+      "Bytí, nicota, stávání jako tři základní kategorie",
+      "Příčina, důsledek, náhoda coby zákon dějinného vývoje"
+    ],
+    "correct": 0,
+    "explanation": "Ačkoli sám Hegel tento přesný termín nepoužíval systematicky, jeho popularizovaná verze říká, že výchozí stav (teze) naráží na svůj protiklad (antiteze) a z jejich napětí vzniká vyšší sjednocení (syntéza), které se stává novou tezí v dalším kole vývoje.",
+    "source": "G. W. F. Hegel, Fenomenologie ducha",
+    "seedElo": 1750
+  },
+  {
+    "id": "dfi-17",
+    "type": "K",
+    "category": "dejiny-filosofie",
+    "text": "O Nietzschově filosofii koluje řada zjednodušení. Který výrok nejlépe odpovídá tomu, co Nietzsche skutečně tvrdil, na rozdíl od pozdější dezinterpretace jeho myšlenek?",
+    "options": [
+      "Prohlašoval, že silnější má právo fyzicky likvidovat slabší jedince i národy",
+      "Výrokem 'Bůh je mrtev' popisoval úpadek autority tradičních hodnot v Evropě",
+      "Byl horlivým zastáncem německého nacionalismu a rasové nadřazenosti",
+      "Zcela odmítal jakoukoli hodnotu umění a tvořivosti pro lidský život"
+    ],
+    "correct": 1,
+    "explanation": "Nietzscheho výrok o smrti Boha byl diagnózou kulturní situace, kdy křesťanská metafyzika a s ní spjaté hodnoty ztrácely v moderní době svou samozřejmou závaznost, nikoli teologickým tvrzením. Pozdější zneužití jeho myšlenek nacismem, k němuž přispěla i jeho sestra editující jeho dílo, stojí v příkrém rozporu s jeho vlastními texty i pohrdáním antisemitismem a nacionalismem.",
+    "source": "Friedrich Nietzsche, Radostná věda",
+    "seedElo": 1780
+  },
+  {
+    "id": "dfi-18",
+    "type": "K",
+    "category": "dejiny-filosofie",
+    "text": "Kierkegaard bývá označován za předchůdce existencialismu. Čím se jeho důraz na 'skok víry' liší od racionálního zdůvodňování náboženské víry, jaké nabízel třeba Tomáš Akvinský?",
+    "options": [
+      "Kierkegaard považoval víru za zdůvodnitelnou stejně jako matematickou větu",
+      "Kierkegaard tvrdil, že víra vyžaduje vášnivé rozhodnutí přesahující rozum",
+      "Kierkegaard víru zcela odmítal jako iracionální přežitek doby",
+      "Kierkegaard chápal víru jako společenskou konvenci bez osobního rozměru"
+    ],
+    "correct": 1,
+    "explanation": "Zatímco Akvinský se snažil racionálně dokázat některé pravdy víry, Kierkegaard zdůrazňoval, že opravdová víra je paradoxní, subjektivní a nelze ji odvodit z logických důkazů. Vyžaduje osobní existenciální skok, riziko a vášnivé odevzdání se, jež rozum sám nedokáže zajistit.",
+    "source": "Søren Kierkegaard, Bázeň a chvění",
+    "seedElo": 1810
+  },
+  {
+    "id": "dfi-19",
+    "type": "K",
+    "category": "dejiny-filosofie",
+    "text": "Sartrovo heslo, že 'existence předchází esenci', a Camusova myšlenka absurdna se oba řadí k existencialismu, ale kladou důraz jinam. V čem je hlavní rozdíl mezi jejich pozicemi?",
+    "options": [
+      "Sartre zdůrazňoval svobodu a odpovědnost za volby, Camus hledal cestu k absurdnu",
+      "Sartre byl hluboce věřící katolík, zatímco Camus zase horlivý marxista",
+      "Sartre odmítal politickou angažovanost, Camus byl aktivní komunistický politik",
+      "Sartre tvrdil, že člověk se rodí s pevně danou podstatou, Camus to popíral"
+    ],
+    "correct": 0,
+    "explanation": "Sartre tvrdil, že člověk nemá předem danou podstatu (esenci), ale sám sebe utváří svými svobodnými volbami, což s sebou nese tíhu odpovědnosti. Camus se soustředil na absurdní rozpor mezi lidskou touhou po smyslu a mlčenlivým, lhostejným vesmírem, a hledal, jak v této situaci čestně žít dál.",
+    "source": "Albert Camus, Mýtus o Sisyfovi",
+    "seedElo": 1840
+  },
+  {
+    "id": "dfi-20",
+    "type": "K",
+    "category": "dejiny-filosofie",
+    "text": "Wittgenstein je klíčovou postavou analytické filosofie, jež se od kontinentální tradice liší mimo jiné důrazem na jazyk. Jak se zásadně proměnil jeho vlastní pohled na jazyk mezi ranou a pozdní fází jeho myšlení?",
+    "options": [
+      "Nejprve viděl jazyk jako obraz logické struktury, později jako 'jazykové hry'",
+      "Nejprve odmítal, že by jazyk mohl vůbec cokoli vyjádřit, později tvrdil pravý opak",
+      "Nejprve zastával, že jazyk je čistě individuální, později že soukromý jazyk neexistuje",
+      "Nejprve se věnoval etice jazyka, později výhradně jen matematické logice"
+    ],
+    "correct": 0,
+    "explanation": "V raném Traktátu logicko-filosofickém Wittgenstein pojímal jazyk jako logický obraz faktů světa s jasnou, ostrou strukturou. V pozdějších Filosofických zkoumáních tento názor opustil a jazyk popsal jako pestrou rozmanitost praktických 'jazykových her', jejichž význam vyplývá z konkrétního způsobu užití v životní praxi.",
+    "source": "Ludwig Wittgenstein, Filosofická zkoumání",
+    "seedElo": 1870
+  }
+]

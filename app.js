@@ -1,10 +1,11 @@
 /* HLUBINA — engine v jednom souboru. Vanilla JS, žádné dependencies. */
 
-const APP_VERSION = '1.1.0';
-const SCHEMA_VERSION = 2;
+const APP_VERSION = '1.2.0';
+const SCHEMA_VERSION = 3;
 
 const OBOR_LABELS = {
-  'psychoterapie': 'Psychoterapie',
+  'psychoanalyza': 'Psychoanalýza',
+  'psychoterapie': 'Psychoterapie (směry)',
   'filosofie': 'Filosofie',
   'vedomi': 'Vědomí a mysl',
   'prirodni-vedy': 'Přírodní vědy',
@@ -51,6 +52,18 @@ function loadState() {
     player.answeredByObor = { psychoterapie: player.answered || 0 };
     delete player.elo;
     player.v = 2;
+  }
+  // migrace v2 → v3: obor psychoterapie se přejmenoval na psychoanalyza (svátost stranou)
+  if (player.elos && player.elos.psychoterapie !== undefined && player.elos.psychoanalyza === undefined) {
+    player.elos.psychoanalyza = player.elos.psychoterapie;
+    delete player.elos.psychoterapie;
+    if (player.answeredByObor.psychoterapie !== undefined) {
+      player.answeredByObor.psychoanalyza = player.answeredByObor.psychoterapie;
+      delete player.answeredByObor.psychoterapie;
+    }
+    if (player.obor === 'psychoterapie') player.obor = 'psychoanalyza';
+    for (const a of answers) if (a.o === 'psychoterapie') a.o = 'psychoanalyza';
+    player.v = 3;
   }
   if (!player.elos) player.elos = {};
   if (!player.answeredByObor) player.answeredByObor = {};
