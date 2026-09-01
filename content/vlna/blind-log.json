@@ -1,0 +1,962 @@
+[
+ {
+  "id": "log-A01",
+  "text": "Platí: „Jestliže je Petr v Brně, je v Česku.“ Který výrok říká přesně totéž, tedy je s ním logicky ekvivalentní?",
+  "options": [
+   "Jestliže Petr není v Česku, není v Brně.",
+   "Jestliže Petr není v Brně, není v Česku.",
+   "Jestliže je Petr v Česku, je v Brně.",
+   "Petr je v Brně právě tehdy, když je v Česku."
+  ]
+ },
+ {
+  "id": "log-A02",
+  "text": "Někdo tvrdí: „Všichni v naší kanceláři pijí kávu.“ Co přesně musí platit, aby byl tento výrok nepravdivý?",
+  "options": [
+   "Nikdo v celé té kanceláři kávu nepije.",
+   "Aspoň jeden člověk v kanceláři kávu nepije.",
+   "Většina lidí v té kanceláři kávu nepije.",
+   "Někteří lidé v té kanceláři kávu pijí."
+  ]
+ },
+ {
+  "id": "log-A03",
+  "text": "Platí pravidlo: „Kdo složí zkoušku, postoupí do druhého kola.“ Jan zkoušku nesložil. Co z toho logicky plyne?",
+  "options": [
+   "Jan do druhého kola určitě nepostoupil.",
+   "Jan do druhého kola postoupil jinou cestou.",
+   "Ze zadání o Janově postupu neplyne vůbec nic.",
+   "Jan zkoušku složit mohl, ale nechtěl postoupit."
+  ]
+ },
+ {
+  "id": "log-A04",
+  "text": "„Aby ses dostal na koncert, musíš mít vstupenku.“ Co tento výrok o vstupence tvrdí?",
+  "options": [
+   "Vstupenka je postačující podmínka vstupu na koncert.",
+   "Vstupenka je nutná i postačující podmínka vstupu.",
+   "Vstupenka není ke vstupu na koncert vůbec potřeba.",
+   "Vstupenka je nutná podmínka vstupu na koncert."
+  ]
+ },
+ {
+  "id": "log-A05",
+  "text": "Šéf řekl: „Není pravda, že Anna přišla včas a zároveň odevzdala report.“ Co z toho plyne o Anně?",
+  "options": [
+   "Buď nepřišla včas, nebo neodevzdala report (či obojí).",
+   "Anna nepřišla včas a report vůbec neodevzdala.",
+   "Anna přišla pozdě, ale report přesto odevzdala.",
+   "Anna přišla včas, jenže ten report neodevzdala."
+  ]
+ },
+ {
+  "id": "log-A06",
+  "text": "Na stole leží čtyři karty; každá má na jedné straně číslo a na druhé barvu. Vidíte: 3, 8, červenou, hnědou. Pravidlo zní: „Má-li karta na jedné straně sudé číslo, je na druhé straně červená.“ Které karty musíte otočit, abyste pravidlo ověřili?",
+  "options": [
+   "Kartu 8 a kartu červenou.",
+   "Kartu 8 a kartu hnědou.",
+   "Kartu 3 a kartu hnědou.",
+   "Kartu 8, červenou i hnědou."
+  ]
+ },
+ {
+  "id": "log-A07",
+  "text": "Detektiv usoudil: „Kdyby byl vrahem zahradník, měl by na botách hlínu. Podezřelý má na botách hlínu, tedy je vrahem zahradník.“ Kde je v úvaze chyba?",
+  "options": [
+   "Je to platná dedukce, chyba v ní žádná není.",
+   "Chybně popírá antecedent místo jeho potvrzení.",
+   "Chybně potvrzuje konsekvent a usuzuje na antecedent.",
+   "Chybně zaměnil nutnou podmínku za jedinou možnou."
+  ]
+ },
+ {
+  "id": "log-A08",
+  "text": "Na ostrově žijí rytíři (vždy mluví pravdu), lháři (vždy lžou) a normálové (mohou mluvit pravdu i lhát, jak se jim zachce). Obyvatel A prohlásí: „Jsem lhář.“ Co je A zač?",
+  "options": [
+   "A je rytíř, protože jen ten může takto mluvit.",
+   "A je lhář, jeho výrok je tudíž nepravdivý.",
+   "Zadání je rozporné, takový obyvatel neexistuje.",
+   "A je normál — jediná bezrozporná možnost."
+  ]
+ },
+ {
+  "id": "log-A09",
+  "text": "Před vámi jsou dvoje dveře, jedny vedou ke svobodě. Hlídá je jediný strážce, o kterém víte jen to, že buď vždy mluví pravdu, nebo vždy lže. Strážce zná správné dveře a vy smíte položit jedinou otázku s odpovědí ano/ne. Která otázka vám spolehlivě odhalí správné dveře?",
+  "options": [
+   "„Kdybych se zeptal, zda levé vedou ke svobodě, řekl bys ano?“",
+   "„Vedou levé dveře přímo ke svobodě?“ — ano znamená levé.",
+   "„Jsi ty pravdomluvný strážce?“ — ano znamená levé dveře.",
+   "„Víš dobře, které dveře vedou ke svobodě?“ — ano je levé."
+  ]
+ },
+ {
+  "id": "log-A10",
+  "text": "K výroku „Každý harmonikář je hudebník“ utvořte obměnu (kontrapozici). Která možnost to je?",
+  "options": [
+   "Kdo je hudebník, je také harmonikář.",
+   "Kdo není hudebník, není harmonikář.",
+   "Kdo není harmonikář, není hudebník.",
+   "Někteří hudebníci nejsou harmonikáři."
+  ]
+ },
+ {
+  "id": "log-A11",
+  "text": "Víme dvě věci: „Všichni členové spolku platí příspěvky“ a „Někteří studenti platí příspěvky“. Co z toho plyne o vztahu studentů a spolku?",
+  "options": [
+   "Někteří studenti jsou členy spolku.",
+   "Žádný student není členem spolku.",
+   "O vztahu studentů a spolku neplyne nic.",
+   "Všichni studenti jsou členy spolku."
+  ]
+ },
+ {
+  "id": "log-A12",
+  "text": "Novinář napsal: „Někteří poslanci nehlasovali.“ Který výrok je přesnou negací této věty?",
+  "options": [
+   "Někteří poslanci hlasovali.",
+   "Žádný poslanec nehlasoval.",
+   "Ne všichni poslanci hlasovali.",
+   "Všichni poslanci hlasovali."
+  ]
+ },
+ {
+  "id": "log-A13",
+  "text": "Na ostrově rytířů (vždy pravda) a lhářů (vždy lež) potkáte tři obyvatele. A říká: „Všichni tři jsme lháři.“ B říká: „Právě jeden z nás tří je rytíř.“ Kdo je kdo?",
+  "options": [
+   "A je lhář, B rytíř a C lhář.",
+   "A je lhář, B lhář a C rytíř.",
+   "A je lhář, B rytíř a C rytíř.",
+   "Situace nemá jednoznačné řešení."
+  ]
+ },
+ {
+  "id": "log-A14",
+  "text": "Je ve výrokové logice pravdivý výrok „Jestliže je Praha v Asii, pak je Měsíc ze sýra“?",
+  "options": [
+   "Ne, je nepravdivá, protože Měsíc ze sýra rozhodně není.",
+   "Ano, ve výrokové logice je pravdivá, protože antecedent neplatí.",
+   "Ne, nelze o ní rozhodnout, obě části jsou nepravdivé.",
+   "Ano, ale pouze kdyby obě části výroku byly pravdivé."
+  ]
+ },
+ {
+  "id": "log-A15",
+  "text": "Matka řekne: „Půjdeš ven, jen když uklidíš pokoj.“ Co tím logicky tvrdí?",
+  "options": [
+   "Když uklidíš pokoj, půjdeš zaručeně ven.",
+   "Uklizení pokoje je postačující podmínkou vycházky.",
+   "Když půjdeš ven, znamená to, že jsi uklidil.",
+   "Když pokoj neuklidíš, stejně můžeš jít ven."
+  ]
+ },
+ {
+  "id": "log-A16",
+  "text": "Na ostrově rytířů (vždy pravda) a lhářů (vždy lež) říká A: „B je rytíř.“ B na to říká: „Já a A jsme každý jiného typu.“ Co jsou zač?",
+  "options": [
+   "A je rytíř a B je rovněž rytíř.",
+   "A je rytíř a B je naopak lhář.",
+   "A je lhář a B je naopak rytíř.",
+   "A je lhář a B je rovněž lhář."
+  ]
+ },
+ {
+  "id": "log-A17",
+  "text": "Vyučující prohlásil: „Není pravda, že každý student, který přišel, dostal zápočet.“ Co z toho plyne?",
+  "options": [
+   "Existuje student, který přišel a zápočet nedostal.",
+   "Žádný student, který přišel, zápočet nedostal.",
+   "Existuje student, který nepřišel a zápočet dostal.",
+   "Každý student, který přišel, zápočet nedostal."
+  ]
+ },
+ {
+  "id": "log-A18",
+  "text": "V klubu platí tři pravidla: (1) Kdo chodí na trénink, hraje zápas. (2) Kdo hraje zápas, dostane dres. (3) Karel dres nedostal. Co jistě platí?",
+  "options": [
+   "Karel nechodí na trénink, ale zápas hrát může.",
+   "Karel nechodí na trénink ani nehraje zápas.",
+   "Karel hraje zápas, jen mu zapomněli dát dres.",
+   "Karel chodí na trénink, ale zápas nikdy nehraje."
+  ]
+ },
+ {
+  "id": "log-A19",
+  "text": "Na ostrově rytířů (vždy pravda) a lhářů (vždy lež) prohlásí A: „Jsem lhář, nebo je B rytíř.“ (Spojka „nebo“ je nevylučovací.) Co jsou A a B zač?",
+  "options": [
+   "A je lhář a zároveň B je rytíř.",
+   "A je rytíř a zároveň B je lhář.",
+   "A je rytíř a B je rovněž rytíř.",
+   "A je lhář a B je rovněž lhář."
+  ]
+ },
+ {
+  "id": "log-A20",
+  "text": "Pravidlo zní: „Kdo pije alkohol, musí být starší osmnácti let.“ U stolu sedí čtyři lidé. O prvním víte jen to, že pije pivo, o druhém že pije limonádu, o třetím že je mu šestnáct a o čtvrtém že je mu dvacet pět. U koho je nutné zjistit chybějící údaj, aby se ověřilo dodržení pravidla?",
+  "options": [
+   "U toho s pivem a u toho, komu je dvacet pět let.",
+   "U toho s limonádou a u toho, komu je šestnáct.",
+   "Jen u toho, kdo pije pivo — ostatní jsou v pořádku.",
+   "U toho s pivem a u toho, komu je šestnáct let."
+  ]
+ },
+ {
+  "id": "log-A21",
+  "text": "Víme: „Žádný podvodník není důvěryhodný“ a „Někteří obchodníci nejsou podvodníci“. Co z toho plyne o obchodnících?",
+  "options": [
+   "Nic z toho o obchodnících neplyne.",
+   "Někteří obchodníci jsou důvěryhodní.",
+   "Někteří obchodníci nejsou důvěryhodní.",
+   "Žádný obchodník není důvěryhodný."
+  ]
+ },
+ {
+  "id": "log-A22",
+  "text": "Na ostrově rytířů (vždy pravda) a lhářů (vždy lež) potkáte A, B a C. A říká: „B a C jsou stejného typu.“ C říká: „Já a A jsme každý jiného typu.“ Co lze o nich s jistotou určit?",
+  "options": [
+   "A je lhář, B je lhář a C je rytíř.",
+   "A je lhář; typ B a C určit nelze.",
+   "A je rytíř; B a C jsou oba lháři.",
+   "A je rytíř, B je lhář a C je rytíř."
+  ]
+ },
+ {
+  "id": "log-A23",
+  "text": "Na rozcestí na ostrově rytířů (vždy pravda) a lhářů (vždy lež) potkáte obyvatele. Chcete zjistit, zda cesta doleva vede do města, ale nevíte, jakého je typu, a smíte položit jedinou otázku s odpovědí ano/ne. Po které otázce znamená „ano“ spolehlivě to, že cesta doleva do města vede?",
+  "options": [
+   "„Jsi rytíř a vede zároveň cesta doleva do města?“",
+   "„Vede tahle cesta doleva opravdu přímo do města?“",
+   "„Jsi rytíř právě tehdy, když cesta doleva vede do města?“",
+   "„Jsi lhář, anebo vede cesta doleva rovnou do města?“"
+  ]
+ },
+ {
+  "id": "log-A24",
+  "text": "Porovnejte dva výroky. Výrok A: „Každý zaměstnanec má nějakého nadřízeného.“ Výrok B: „Existuje někdo, kdo je nadřízeným každého zaměstnance.“ Jaký je mezi nimi logický vztah?",
+  "options": [
+   "Z výroku A plyne výrok B, obráceně to neplatí.",
+   "Oba výroky jsou logicky navzájem ekvivalentní.",
+   "Mezi výroky není žádný logický vztah, jsou nezávislé.",
+   "Z výroku B plyne výrok A, obráceně to neplatí."
+  ]
+ },
+ {
+  "id": "log-A25",
+  "text": "Na ostrově žijí rytíři (vždy pravda), lháři (vždy lež) a normálové (mohou mluvit pravdu i lhát). Potkáte A, B a C a víte, že mezi nimi je právě jeden rytíř, právě jeden lhář a právě jeden normál. A říká: „Jsem normál.“ B říká: „A mluví pravdu.“ C říká: „Já normál nejsem.“ Kdo je kdo?",
+  "options": [
+   "A je lhář, B je normál a C je rytíř.",
+   "A je normál, B je rytíř a C je lhář.",
+   "A je rytíř, B je lhář a C je normál.",
+   "A je normál, B je lhář a C je rytíř."
+  ]
+ },
+ {
+  "id": "log-A26",
+  "text": "O výrocích P a Q víte jedinou věc: výrok „jestliže P, pak Q“ je nepravdivý. Co jistě platí o výroku „jestliže Q, pak P“?",
+  "options": [
+   "Je nepravdivý, protože obrací původní implikaci.",
+   "Je pravdivý, protože Q neplatí a P platí.",
+   "Je pravdivý pouze tehdy, je-li Q pravdivé.",
+   "Nelze rozhodnout, chybí informace o P a Q."
+  ]
+ },
+ {
+  "id": "log-A27",
+  "text": "Na ostrově rytířů (vždy pravda) a lhářů (vždy lež) prohlásí obyvatel A: „Jestliže jsem rytíř, pak je můj bratr rytíř.“ Co z toho plyne?",
+  "options": [
+   "A je lhář a jeho bratr je také lhář.",
+   "A je rytíř, ale o bratrovi nelze nic říct.",
+   "A je rytíř a jeho bratr je také rytíř.",
+   "A je lhář, jeho bratr je naopak rytíř."
+  ]
+ },
+ {
+  "id": "log-A28",
+  "text": "Na ostrově rytířů (vždy pravda) a lhářů (vždy lež) potkáte čtveřici A, B, C, D. A říká: „Přesně jeden z nás čtyř je rytíř.“ B říká: „Přesně dva z nás čtyř jsou rytíři.“ C říká: „Přesně tři z nás čtyř jsou rytíři.“ D říká: „Nikdo z nás čtyř není rytíř.“ Kolik je mezi nimi rytířů a kdo jimi je?",
+  "options": [
+   "Rytíři jsou právě dva, konkrétně A a B.",
+   "Rytíři jsou tři, lhář je pouze obyvatel D.",
+   "Rytíř není žádný, všichni čtyři jsou lháři.",
+   "Rytíř je právě jeden, konkrétně obyvatel A."
+  ]
+ },
+ {
+  "id": "log-A29",
+  "text": "U soudu platí: (1) Je-li obžalovaný vinen, měl komplice. (2) Měl-li komplice, sám na místě činu nebyl. (3) Není-li obžalovaný vinen, lhal o svém alibi. Navíc je prokázáno, že obžalovaný na místě činu byl. Co z toho plyne?",
+  "options": [
+   "Obžalovaný není vinen, ale o alibi lhal.",
+   "Obžalovaný je vinen a o alibi navíc lhal.",
+   "Obžalovaný není vinen a o alibi nelhal.",
+   "Obžalovaný měl komplice a o alibi nelhal."
+  ]
+ },
+ {
+  "id": "log-A30",
+  "text": "Na ostrově rytířů (vždy pravda) a lhářů (vždy lež) prohlásí A: „Jsem lhář právě tehdy, když je B lhář.“ Co z toho plyne?",
+  "options": [
+   "A i B jsou rytíři, jiná možnost není.",
+   "B je rytíř, o typu A rozhodnout nelze.",
+   "A je lhář a B je rovněž lhář, nutně.",
+   "Nelze rozhodnout ani o A, ani o B."
+  ]
+ },
+ {
+  "id": "log-A31",
+  "text": "Trenér varuje: „Stačí jediná chyba a přijdeš o titul.“ Který výrok tomu logicky odpovídá?",
+  "options": [
+   "Chyba je nutnou podmínkou ztráty titulu.",
+   "Bez chyby titul rozhodně neztratíš, nikdy.",
+   "Chyba je postačující podmínkou ztráty titulu.",
+   "Titul ztratíš právě tehdy, uděláš-li chybu."
+  ]
+ },
+ {
+  "id": "log-A32",
+  "text": "Recepční řekla: „Nemáme volný pokoj ani parkovací místo.“ Který výrok je s tím logicky ekvivalentní?",
+  "options": [
+   "Není pravda, že mají volný pokoj a zároveň místo.",
+   "Mají buď volný pokoj, anebo parkovací místo.",
+   "Nemají volný pokoj, ale parkovací místo mají.",
+   "Není pravda, že mají volný pokoj nebo místo."
+  ]
+ },
+ {
+  "id": "log-B01",
+  "text": "Petrovi je 34 let, vystudoval fyziku, ve volném čase hraje šachy a čte sci-fi. Které z následujících tvrzení o Petrovi musí mít nejvyšší pravděpodobnost, ať už je Petr ve skutečnosti kdokoli?",
+  "options": [
+   "Petr pracuje jako úředník ve státní správě",
+   "Petr je úředník a hraje v šachovém klubu",
+   "Petr je úředník a pravidelně čte sci-fi",
+   "Petr je úředník, šachista i čtenář sci-fi"
+  ]
+ },
+ {
+  "id": "log-B02",
+  "text": "V zásuvce máte deset černých a deset modrých ponožek, náhodně promíchaných. Ve tmě je vytahujete po jedné a barvu nevidíte. Kolik nejméně ponožek musíte vytáhnout, abyste měli jistotu, že mezi nimi je pár stejné barvy?",
+  "options": [
+   "Stačí dvě ponožky",
+   "Je potřeba jedenáct",
+   "Stačí tři ponožky",
+   "Je potřeba dvanáct"
+  ]
+ },
+ {
+  "id": "log-B03",
+  "text": "Pět hasičů losuje, kdo půjde na noční službu. V ruce drží pět stébel, jedno z nich krátké; každý postupně vytáhne jedno stéblo a hned ho ukáže ostatním. Kdo vytáhne krátké, jde sloužit. Je z hlediska pravděpodobnosti výhodné táhnout jako první?",
+  "options": [
+   "Ano, první má nejmenší šanci vytáhnout krátké stéblo",
+   "Ne, všichni mají shodnou šanci 1/5 bez ohledu na pořadí",
+   "Ne, výhodné je táhnout až jako poslední z pěti hasičů",
+   "Ano, ale jen když se tažená stébla ostatním neukazují"
+  ]
+ },
+ {
+  "id": "log-B04",
+  "text": "Nemoc má jedno procento populace. Test ji odhalí u každého nemocného (senzitivita sto procent), ale u pěti procent zdravých vyjde falešně pozitivní. Náhodně vybranému člověku z populace, o kterém nic dalšího nevíte, vyjde test pozitivně. Jaká je pravděpodobnost, že je opravdu nemocný?",
+  "options": [
+   "Přibližně 95 procent",
+   "Přibližně 50 procent",
+   "Přibližně 5 procent",
+   "Přibližně 17 procent"
+  ]
+ },
+ {
+  "id": "log-B05",
+  "text": "Kolik různých pořadí písmen (včetně původního) lze vytvořit přeskládáním všech pěti písmen slova KOKOS?",
+  "options": [
+   "30 pořadí",
+   "60 pořadí",
+   "120 pořadí",
+   "20 pořadí"
+  ]
+ },
+ {
+  "id": "log-B06",
+  "text": "Trenér chválí sportovce po jejich nejlepších výkonech a kárá je po nejhorších. Dlouhodobě pozoruje, že po chvále výkon zpravidla klesne a po kritice zpravidla stoupne. Jaké je nejstřízlivější vysvětlení tohoto pozorování?",
+  "options": [
+   "Chvála otupuje motivaci, kritika naopak sportovce nabudí",
+   "Extrémní výkony obsahují náhodu, další se vrací k průměru",
+   "Sportovci se po pochvale spoléhají na dosaženou pověst",
+   "Trenér měří výkony metodou, která systematicky nadhodnocuje"
+  ]
+ },
+ {
+  "id": "log-B07",
+  "text": "V zemi se třemi tisíci okresy sledují výskyt vzácného nádoru. V žebříčku okresů s nejvyšším výskytem i v žebříčku s nejnižším výskytem se na předních místech objevují převážně okresy s malým počtem obyvatel. Co je nejpravděpodobnější příčinou?",
+  "options": [
+   "Malé okresy leží na venkově, kde je jiná skladba rizik",
+   "Ve velkých městech se nemoc diagnostikuje spolehlivěji",
+   "V malých okresech se nádory soustavně chybně vykazují",
+   "Malý vzorek kolísá víc, a tak obsadí oba konce žebříčku"
+  ]
+ },
+ {
+  "id": "log-B08",
+  "text": "Ve třídě je třicet žáků. Fotbal hraje osmnáct z nich, basketbal patnáct a přesně pět žáků nehraje ani jeden z těchto dvou sportů. Kolik žáků hraje oba sporty?",
+  "options": [
+   "Tři žáci",
+   "Pět žáků",
+   "Osm žáků",
+   "Deset žáků"
+  ]
+ },
+ {
+  "id": "log-B09",
+  "text": "Předpokládejme, že žádný člověk nemá víc než 150 000 vlasů, ale počet může být jakýkoli od nuly až po tuto hranici. Kolik nejméně lidí musíte shromáždit, abyste měli jistotu, že aspoň dva z nich mají přesně stejný počet vlasů?",
+  "options": [
+   "150 000 lidí",
+   "150 002 lidí",
+   "150 001 lidí",
+   "300 000 lidí"
+  ]
+ },
+ {
+  "id": "log-B10",
+  "text": "Hodím dvěma rozlišitelnými kostkami tak, že výsledek nevidíte. Předem je domluveno, že vám sdělím jedinou informaci: zda padla aspoň jedna šestka. Sdělím vám pravdivě, že aspoň jedna šestka padla. Jaká je pravděpodobnost, že padly šestky obě?",
+  "options": [
+   "Pravděpodobnost 1/11",
+   "Pravděpodobnost 1/6",
+   "Pravděpodobnost 1/12",
+   "Pravděpodobnost 1/36"
+  ]
+ },
+ {
+  "id": "log-B11",
+  "text": "Na stole leží 21 kamínků. Hráči se střídají a každý si v tahu vezme jeden, dva nebo tři kamínky. Vyhrává ten, kdo vezme poslední kamínek. Kdo vyhraje při optimální hře obou hráčů?",
+  "options": [
+   "Druhý hráč; stačí mu dorovnávat soupeře do čtyř",
+   "První hráč, ale jen když začne třemi kamínky",
+   "První hráč; vezme jeden a pak dorovnává do čtyř",
+   "Nikdo; při optimální hře skončí partie nerozhodně"
+  ]
+ },
+ {
+  "id": "log-B12",
+  "text": "V teorii her se říká, že jedna z hráčových strategií je striktně dominantní. Co přesně to znamená?",
+  "options": [
+   "Vede k nejlepšímu možnému výsledku ze všech dvojic tahů",
+   "Je nejlepší odpovědí na tah, který soupeř nejspíš zvolí",
+   "Zaručuje hráči aspoň takový zisk, jaký si odnese soupeř",
+   "Je lepší než každá jiná jeho strategie, ať soupeř udělá cokoli"
+  ]
+ },
+ {
+  "id": "log-B13",
+  "text": "Paní Nováková má právě dvě děti; předpokládejme, že každé je nezávisle chlapec nebo dívka s pravděpodobností jedna polovina. Potkáte ji na ulici s jedním z jejích dětí a je to chlapec. Které dítě si toho dne vzala s sebou, rozhodla ryze náhodně hodem mincí. Jaká je pravděpodobnost, že obě její děti jsou chlapci?",
+  "options": [
+   "Šance je jedna třetina",
+   "Šance je jedna polovina",
+   "Šance jsou dvě třetiny",
+   "Šance je jedna čtvrtina"
+  ]
+ },
+ {
+  "id": "log-B14",
+  "text": "Paní Svobodová má právě dvě děti, každé nezávisle chlapec nebo dívka s pravděpodobností jedna polovina. Zeptáte se jí: „Je aspoň jedno z vašich dvou dětí chlapec?\" Odpoví pravdivě ano. Jaká je pravděpodobnost, že jsou obě děti chlapci?",
+  "options": [
+   "Šance je jedna třetina",
+   "Šance je jedna polovina",
+   "Šance je jedna čtvrtina",
+   "Šance jsou dvě třetiny"
+  ]
+ },
+ {
+  "id": "log-B15",
+  "text": "Ve městě je 85 procent taxíků zelených a 15 procent modrých. Svědek noční nehody označí barvu taxíku správně v osmdesáti procentech případů a ve dvaceti se splete, a to v obou směrech stejně. Svědek tvrdí, že vinný taxík byl modrý. Jaká je pravděpodobnost, že byl skutečně modrý?",
+  "options": [
+   "Zhruba 80 %",
+   "Zhruba 15 %",
+   "Zhruba 41 %",
+   "Zhruba 12 %"
+  ]
+ },
+ {
+  "id": "log-B16",
+  "text": "Předpokládejme pro jednoduchost, že narození připadá na každý z dvanácti měsíců se stejnou pravděpodobností a lidé jsou navzájem nezávislí. Kolik nejméně lidí musí být ve skupině, aby pravděpodobnost, že aspoň dva z nich mají narozeniny ve stejném měsíci, přesáhla jednu polovinu?",
+  "options": [
+   "Čtyři lidé",
+   "Šest lidí",
+   "Sedm lidí",
+   "Pět lidí"
+  ]
+ },
+ {
+  "id": "log-B17",
+  "text": "Uvažujme rok o 365 dnech a nezávislé lidi s rovnoměrně rozdělenými narozeninami. Kolik nejméně náhodně oslovených lidí potřebujete, aby pravděpodobnost, že aspoň jeden z nich má narozeniny přesně ve stejný den jako vy, přesáhla jednu polovinu?",
+  "options": [
+   "183 lidí",
+   "253 lidí",
+   "23 lidí",
+   "365 lidí"
+  ]
+ },
+ {
+  "id": "log-B18",
+  "text": "Ze šachovnice 8×8 odřízneme dvě protilehlá rohová políčka, například a1 a h8, takže zbude 62 polí. Lze je beze zbytku pokrýt 31 kostkami domina, z nichž každá zakryje právě dvě políčka sousedící stranou?",
+  "options": [
+   "Ne, oba odříznuté rohy mají stejnou barvu a bilance nesedí",
+   "Ano, pokrytí existuje, ale je nutné začít od středu desky",
+   "Ano, počet políček je sudý, takže pokrytí vždy existuje",
+   "Ne, protože 62 není beze zbytku dělitelné dvěma a pole zbyde"
+  ]
+ },
+ {
+  "id": "log-B19",
+  "text": "Kdy je dvojice zvolených strategií ve hře dvou hráčů Nashovou rovnováhou?",
+  "options": [
+   "Když je součet výplat obou hráčů co největší možný",
+   "Když si oba hráči odnesou stejně velkou výplatu ze hry",
+   "Když si žádný z nich nepolepší, změní-li strategii sám",
+   "Když je výsledek pro oba hráče lepší než všechny ostatní"
+  ]
+ },
+ {
+  "id": "log-B20",
+  "text": "Máte minci, o níž víte jen to, že líc na ní padá s neznámou pravděpodobností p někde mezi nulou a jedničkou, a že jednotlivé hody jsou nezávislé. Jak s ní vyrobit dokonale férové rozhodnutí mezi dvěma lidmi?",
+  "options": [
+   "Hodit stokrát a rozhodnout podle toho, čeho padlo víc",
+   "Hodit jednou; při neznámém p je každý výsledek stejně možný",
+   "Střídat hráče v hodech, dokud jeden z nich nehodí líc jako první",
+   "Házet po dvojicích: líc-rub určí A, rub-líc B, shodu opakovat"
+  ]
+ },
+ {
+  "id": "log-B21",
+  "text": "Na tabuli je napsáno deset jedniček a patnáct dvojek. V každém kroku smažete libovolná dvě čísla a napíšete místo nich absolutní hodnotu jejich rozdílu. Po dvaceti čtyřech krocích zbude na tabuli jediné číslo. Co o něm platí?",
+  "options": [
+   "Je vždy sudé, bez ohledu na to, jaká čísla jste mazali",
+   "Je vždy liché, bez ohledu na pořadí provedených kroků",
+   "Je to vždy nula, protože rozdíly se postupně vyrovnají",
+   "Může být sudé i liché, záleží na zvoleném pořadí mazání"
+  ]
+ },
+ {
+  "id": "log-B22",
+  "text": "Dva lidé si dělí koláč metodou „jeden krájí, druhý si vybírá\". Každý z nich má vlastní představu o tom, které kusy jsou cennější, a tyto představy se mohou lišit. Co přesně tato metoda zaručuje?",
+  "options": [
+   "Že oba kusy budou objektivně stejně velké a stejně hodnotné",
+   "Že každý dostane díl, který sám hodnotí aspoň na polovinu",
+   "Že krájející je v nevýhodě a vybírající vždy získá víc než on",
+   "Že oba budou s výsledkem stejně spokojení a nikdo nezávidí"
+  ]
+ },
+ {
+  "id": "log-B23",
+  "text": "Tři neoznačené krabice obsahují po dvou mincích: první dvě zlaté, druhá zlatou a stříbrnou, třetí dvě stříbrné. Náhodně si vyberete krabici, náhodně z ní vytáhnete jednu minci a ta je zlatá. Jaká je pravděpodobnost, že i druhá mince v téže krabici je zlatá?",
+  "options": [
+   "Šance je jedna polovina",
+   "Šance je jedna třetina",
+   "Šance jsou dvě třetiny",
+   "Šance jsou tři čtvrtiny"
+  ]
+ },
+ {
+  "id": "log-B24",
+  "text": "Z čísel 1 až 10 vyberete libovolných šest různých. Které z následujících tvrzení platí nutně vždy, ať vyberete kteroukoli šestici?",
+  "options": [
+   "Mezi vybranými jsou tři čísla jdoucí bezprostředně po sobě",
+   "Mezi vybranými jsou dvě čísla, jejichž součet je právě deset",
+   "Mezi vybranými jsou aspoň dvě sudá a zároveň aspoň dvě lichá",
+   "Mezi vybranými jsou dvě čísla, jejichž součet je právě jedenáct"
+  ]
+ },
+ {
+  "id": "log-B25",
+  "text": "Firma přijímala do dvou divizí. V divizi A se hlásilo 100 mužů (přijato 80) a 20 žen (přijato 18). V divizi B se hlásilo 20 mužů (přijato 4) a 100 žen (přijato 30). Ženy tedy měly v obou divizích vyšší míru přijetí než muži, ale v součtu byly přijaty jen ze 40 procent oproti 70 procentům u mužů. Čím to je?",
+  "options": [
+   "Ženy se převážně hlásily do divize, kde se přijímá málo lidí",
+   "V souhrnných číslech musela vzniknout aritmetická chyba",
+   "Firma znevýhodňovala ženy skrytě až v posledním kole výběru",
+   "Poměry z různě velkých skupin se prostě nesmějí porovnávat"
+  ]
+ },
+ {
+  "id": "log-B26",
+  "text": "Kolika způsoby lze rozdělit deset navzájem nerozlišitelných bonbonů mezi čtyři děti, jestliže některé dítě může zůstat i zcela bez bonbonu a na tom, které dítě je které, záleží?",
+  "options": [
+   "220 způsobů",
+   "286 způsobů",
+   "84 způsobů",
+   "715 způsobů"
+  ]
+ },
+ {
+  "id": "log-B27",
+  "text": "Postupně přijímáte n uchazečů v náhodném pořadí, každého umíte porovnat s dosud viděnými, ale rozhodnout se musíte ihned a odmítnutí je nevratné. Optimální strategie odmítne prvních zhruba n/e uchazečů a pak vezme prvního, kdo je lepší než všichni předchozí. S jakou pravděpodobností tak pro velká n získáte opravdu nejlepšího uchazeče?",
+  "options": [
+   "Asi 50 %",
+   "Asi 25 %",
+   "Asi 37 %",
+   "Řádově 1/n"
+  ]
+ },
+ {
+  "id": "log-B28",
+  "text": "V řadě leží sudý počet mincí o různých, všem viditelných hodnotách. Hráči se střídají a každý si v tahu vezme minci z některého konce řady. Vyhrává ten, kdo nasbírá vyšší celkovou hodnotu. Co si může první hráč zaručit?",
+  "options": [
+   "Vždy vyhraje, když bude brát vždy tu cennější z krajních mincí",
+   "Nemá žádnou výhodu, o výsledku rozhoduje rozestavení hodnot",
+   "Vyhraje jen tehdy, když je součet všech hodnot v řadě lichý",
+   "Umí si zajistit aspoň remízu, ať jsou hodnoty rozdělené jakkoli"
+  ]
+ },
+ {
+  "id": "log-B29",
+  "text": "Tři hromádky mají 3, 5 a 7 sirek. Hráči se střídají a každý v tahu odebere libovolný počet sirek z jediné hromádky, nejméně však jednu. Vyhrává ten, kdo vezme poslední sirku. Kdo vyhraje při optimální hře a jak?",
+  "options": [
+   "Druhý hráč, protože všechny tři hromádky mají lichý počet",
+   "První hráč; vezme jednu sirku ze sedmi a hraje na nulový XOR",
+   "První hráč; sebere celou tříprvkovou hromádku a pak zrcadlí",
+   "Druhý hráč; ať první udělá cokoli, stačí mu tah zrcadlit"
+  ]
+ },
+ {
+  "id": "log-B30",
+  "text": "Na tabuli jsou napsána všechna čísla od 1 do 100. V každém kroku smažete libovolná dvě čísla a a b a napíšete místo nich číslo a + b + 1. Po devadesáti devíti krocích zbude na tabuli jediné číslo. Jaké to bude?",
+  "options": [
+   "Vždy vyjde 5050",
+   "Vždy vyjde 5150",
+   "Vždy vyjde 5149",
+   "Záleží na pořadí"
+  ]
+ },
+ {
+  "id": "log-B31",
+  "text": "V myšlenkovém experimentu Šípková Růženka se v neděli hodí férovou mincí. Padne-li líc, probudí Růženku jen v pondělí; padne-li rub, probudí ji v pondělí i v úterý, přičemž po pondělním probuzení jí na ně vymažou paměť. Růženka pravidla zná. Co tvrdí takzvaná třetinová (thirder) pozice?",
+  "options": [
+   "Že Růženka má při probuzení přiřadit líci pravděpodobnost 1/3",
+   "Že Růženka má při probuzení přiřadit líci pravděpodobnost 1/2",
+   "Že otázka nemá smysl, protože Růženka neví, který je den",
+   "Že mince v tomto uspořádání přestává být férová a klopí k rubu"
+  ]
+ },
+ {
+  "id": "log-B32",
+  "text": "Nemoc má jeden člověk z deseti tisíc. Test odhalí devadesát devět procent nemocných a mýlí se u jednoho procenta zdravých. Testuje se plošně celá populace bez ohledu na příznaky. Jaká je pravděpodobnost, že náhodný člověk s pozitivním testem je skutečně nemocný?",
+  "options": [
+   "Asi 99 %",
+   "Asi 50 %",
+   "Asi 9 %",
+   "Asi 1 %"
+  ]
+ },
+ {
+  "id": "log-C01",
+  "text": "Russellův paradox vzniká, když se zeptáme, zda:",
+  "options": [
+   "množina všech množin, které nejsou prvkem sebe sama, je prvkem sebe sama",
+   "existuje množina, která má stejnou mohutnost jako její potenční množina",
+   "množina všech přirozených čísel je prvkem množiny všech reálných čísel",
+   "prázdná množina je podmnožinou úplně každé množiny, tedy i sebe samé"
+  ]
+ },
+ {
+  "id": "log-C02",
+  "text": "Co Cantor dokázal svou diagonální metodou?",
+  "options": [
+   "Že množina všech racionálních čísel je nespočetná, tedy větší než N",
+   "Že reálná čísla nelze spárovat s přirozenými, je jich tedy více",
+   "Že mezi každými dvěma reálnými čísly leží nekonečně mnoho dalších",
+   "Že přirozených, celých i racionálních čísel je přesně stejně mnoho"
+  ]
+ },
+ {
+  "id": "log-C03",
+  "text": "Turingův výsledek o problému zastavení říká, že:",
+  "options": [
+   "žádný program se nedokáže sám ukončit bez zásahu operačního systému",
+   "existují programy, u nichž nikdy nezjistíme, zda se zastaví, ani pokusem",
+   "neexistuje algoritmus, který o každém programu a vstupu rozhodne zastavení",
+   "každý dostatečně dlouhý program se dříve či později zacyklí donekonečna"
+  ]
+ },
+ {
+  "id": "log-C04",
+  "text": "První Gödelova věta o neúplnosti tvrdí, že v každé bezesporné, rekurzivně axiomatizované teorii dostatečně silné pro aritmetiku:",
+  "options": [
+   "je alespoň jedno z jejích axiomatických tvrzení nutně nepravdivé",
+   "nelze dokázat vůbec žádné netriviální tvrzení o přirozených číslech",
+   "je vždy možné najít spor, stačí v ní hledat dostatečně dlouhou dobu",
+   "existuje tvrzení, které v ní nelze ani dokázat, ani vyvrátit"
+  ]
+ },
+ {
+  "id": "log-C05",
+  "text": "Jádrem paradoxu hromady (sorites) je:",
+  "options": [
+   "že hromadu nelze definovat, protože zrna nemají pevný tvar ani hmotnost",
+   "že každé jednotlivé odebrání zrna vypadá neškodně, jejich součet ne",
+   "že hromada zrn není fyzikální objekt, nýbrž pouhá jazyková zkratka",
+   "že různí lidé odhadují počet zrn v téže hromadě dost odlišně"
+  ]
+ },
+ {
+  "id": "log-C06",
+  "text": "Berryho paradox pracuje s výrazem „nejmenší číslo, které nelze popsat méně než třinácti slovy“. Kde je potíž?",
+  "options": [
+   "Takových čísel je nekonečně mnoho, výraz proto neurčuje ani jedno",
+   "Slova jako „popsat“ nemají v matematice žádnou pevnou definici",
+   "Číslo vyjde tak velké, že je nelze zapsat konečným počtem znaků",
+   "Sám ten výraz je kratším popisem, než jaký tomu číslu přisuzuje"
+  ]
+ },
+ {
+  "id": "log-C07",
+  "text": "Grellingův paradox se ptá, zda je slovo „heterologické“ (= nepopisující samo sebe) heterologické. Výsledek:",
+  "options": [
+   "Je heterologické právě tehdy, když heterologické není — antinomie",
+   "Je autologické, protože každé české slovo popisuje samo sebe",
+   "Otázka nedává smysl, jelikož slova sama nemají vůbec žádné vlastnosti",
+   "Je heterologické, ovšem pouze v jazycích, které píší latinkou"
+  ]
+ },
+ {
+  "id": "log-C08",
+  "text": "Za „paradoxy materiální implikace“ se označuje fakt, že:",
+  "options": [
+   "implikace je nepravdivá vždy, když spolu obě její části nijak nesouvisí",
+   "implikace mění pravdivost podle toho, v jakém pořadí ji přečteme",
+   "z nepravdivého předpokladu plyne cokoli a pravdivý závěr plyne odkudkoli",
+   "implikaci nelze zapsat pravdivostní tabulkou, na rozdíl od spojky „a“"
+  ]
+ },
+ {
+  "id": "log-C09",
+  "text": "Jaký je status hypotézy kontinua vůči axiomům ZFC?",
+  "options": [
+   "Byla dokázána Cantorem, jeho důkaz byl však dlouho přehlížen a ztracen",
+   "Byla vyvrácena, mezi N a R skutečně existuje mezilehlá mohutnost",
+   "Je nezávislá: Gödel ukázal bezespornost, Cohen nedokazatelnost",
+   "Zůstává otevřeným problémem, na jehož vyřešení je vypsána odměna"
+  ]
+ },
+ {
+  "id": "log-C10",
+  "text": "Moorův paradox se týká vět typu „Prší, ale já tomu nevěřím.“ Taková věta:",
+  "options": [
+   "může být pravdivá, přesto ji nelze smysluplně upřímně vyslovit",
+   "je logicky sporná, protože tvrdí i popírá jednu a tutéž věc",
+   "je vždy nepravdivá, neboť mluvčí zná počasí ze své vlastní zkušenosti",
+   "je pravdivá jen tehdy, pokud mluvčí zároveň lže o svém stavu"
+  ]
+ },
+ {
+  "id": "log-C11",
+  "text": "Jaký je rozdíl mezi zápisy A ⊢ B a A ⊨ B?",
+  "options": [
+   "První je zápis v jazyce teorie, druhý zápis v metajazyce o ní",
+   "První platí jen pro konečné množiny A, druhý i pro nekonečné",
+   "První se týká pravdivosti, druhý odvoditelnosti podle pravidel",
+   "První značí odvoditelnost důkazem, druhý platnost ve všech modelech"
+  ]
+ },
+ {
+  "id": "log-C12",
+  "text": "Co znamená, že je logický kalkul korektní (sound) a úplný (complete)?",
+  "options": [
+   "Korektní = dokáže vše platné; úplný = nedokáže nic neplatného",
+   "Korektní = nedokáže nic neplatného; úplný = dokáže vše platné",
+   "Korektní = má konečně mnoho axiomů; úplný = rozhodne každou formuli",
+   "Korektní = je bezesporný; úplný = obsahuje všechny možné jazyky"
+  ]
+ },
+ {
+  "id": "log-C13",
+  "text": "Jak standardní teorie množin ZF blokuje Russellův paradox?",
+  "options": [
+   "Zakazuje množinám mít nekonečně mnoho prvků, spor tak nevznikne",
+   "Prohlašuje spornou množinu za pravdivou i nepravdivou zároveň",
+   "Zavádí třetí pravdivostní hodnotu pro tvrzení o sebepříslušnosti",
+   "Připouští vydělovat podmnožiny jen z už existující množiny"
+  ]
+ },
+ {
+  "id": "log-C14",
+  "text": "V čem se liší Zenónův Achilles se želvou od argumentu dichotomie?",
+  "options": [
+   "Achilles řeší nekonečné dělení času, dichotomie dělení prostoru",
+   "Achilles je o pohybu dvou těles, dichotomie o klidu jednoho tělesa",
+   "Dichotomie nemá první krok, Achilles ano — dělení jde opačně",
+   "Achilles předpokládá konečnou rychlost, dichotomie nekonečnou"
+  ]
+ },
+ {
+  "id": "log-C15",
+  "text": "Newcombův problém staví do sporu dva principy rozhodování. Které?",
+  "options": [
+   "Princip maximální užitečnosti proti principu minimální lítosti",
+   "Kauzální rozhodování proti evidenčnímu — dominance proti korelaci",
+   "Bayesovskou aktualizaci proti frekventistickému odhadu četností",
+   "Individuální racionalitu proti kolektivní, jako u sdílení zdrojů"
+  ]
+ },
+ {
+  "id": "log-C16",
+  "text": "Curryho paradox je pozoruhodný tím, že:",
+  "options": [
+   "z věty „je-li tato věta pravdivá, pak platí X“ odvodí libovolné X",
+   "ukazuje spor jen v logikách, které mají zákon vyloučeného třetího",
+   "vzniká teprve tehdy, když k jazyku přidáme pojem nutnosti a možnosti",
+   "dokazuje, že žádná věta o sobě samé nemůže být nikdy pravdivá"
+  ]
+ },
+ {
+  "id": "log-C17",
+  "text": "Komu Russell roku 1902 poslal dopis s paradoxem a jaké dílo tím zasáhl?",
+  "options": [
+   "Gottlobu Fregemu, právě tisknutý druhý díl Základních zákonů aritmetiky",
+   "Davidu Hilbertovi, jeho program úplné formalizace veškeré matematiky",
+   "Georgu Cantorovi, jeho teorii transfinitních ordinálních čísel",
+   "Giuseppe Peanovi, jeho axiomatiku aritmetiky přirozených čísel"
+  ]
+ },
+ {
+  "id": "log-C18",
+  "text": "Čím je Yablova posloupnost vět zajímavá pro debatu o paradoxu lháře?",
+  "options": [
+   "Ukazuje, že lhář zmizí, pokud připustíme třetí pravdivostní hodnotu",
+   "Vytváří paradox z nekonečné řady vět, z nichž žádná nemluví o sobě",
+   "Dokazuje, že lhář je pouze gramatická chyba přirozeného jazyka",
+   "Převádí paradox lháře na Russellův paradox v teorii množin"
+  ]
+ },
+ {
+  "id": "log-C19",
+  "text": "Druhá Gödelova věta o neúplnosti říká, že dostatečně silná bezesporná teorie:",
+  "options": [
+   "nedokáže vyjmenovat všechny své vlastní axiomy ani jejich důsledky",
+   "dokáže svou bezespornost, avšak jen za cenu nekonečně mnoha axiomů",
+   "nedokáže vlastní bezespornost, byť ji umí vyslovit jako tvrzení",
+   "je bezesporná právě tehdy, když je zároveň úplná a rozhodnutelná"
+  ]
+ },
+ {
+  "id": "log-C20",
+  "text": "Tarského věta o nedefinovatelnosti pravdy tvrdí, že:",
+  "options": [
+   "pravdivost je pojem psychologický, a proto se vzpírá formalizaci",
+   "pravdu lze definovat pouze pro jazyky s konečně mnoha větami",
+   "žádná věta jazyka aritmetiky nemůže být pravdivá ani nepravdivá",
+   "pravdu pro daný jazyk nelze definovat uvnitř téhož jazyka"
+  ]
+ },
+ {
+  "id": "log-C21",
+  "text": "Skolemův paradox spočívá v tom, že:",
+  "options": [
+   "spočetná teorie množin má vždy i model s nespočetně mnoha vlastními axiomy",
+   "teorie množin má spočetný model, přestože v něm dokazuje nespočetnost",
+   "každá bezesporná teorie má právě jeden model až na izomorfismus",
+   "reálná čísla jsou v některých modelech spočetná a v jiných konečná"
+  ]
+ },
+ {
+  "id": "log-C22",
+  "text": "Goodmanův predikát „grue“ (zelený do roku t, poté modrý) ukazuje, že:",
+  "options": [
+   "indukce selhává vždy, když pozorujeme vzorek menší než sto kusů",
+   "barvy nejsou objektivní vlastnosti věcí, nýbrž jen naše vjemy",
+   "každá empirická teorie se dá vyvrátit vhodně zvoleným pokusem",
+   "táž data stejně dobře potvrzují dvě neslučitelné předpovědi"
+  ]
+ },
+ {
+  "id": "log-C23",
+  "text": "Russellova teorie typů řeší paradox tím, že:",
+  "options": [
+   "zakazuje výrok „x je prvkem x“ jako nesmyslný, ne jen nepravdivý",
+   "omezuje počet prvků každé množiny na nejvýše spočetně mnoho",
+   "rozděluje důkazy na konečné a nekonečné, ty druhé pak zcela zakazuje",
+   "nahrazuje množiny funkcemi, u nichž sebereference nevzniká"
+  ]
+ },
+ {
+  "id": "log-C24",
+  "text": "Které tvrzení o Gödelových větách je nejčastější dezinterpretací?",
+  "options": [
+   "Že se týkají teorií schopných vyjádřit aritmetiku přirozených čísel",
+   "Že nerozhodnutelná věta je pravdivá ve standardním modelu aritmetiky",
+   "Že dokazují převahu lidské intuice nad každým možným strojem",
+   "Že se v jejich důkazu tvrzení kódují jako přirozená čísla"
+  ]
+ },
+ {
+  "id": "log-C25",
+  "text": "Paradox neočekávaného věšení: soudce slíbí popravu příští týden v den, který bude překvapením. Standardní rozbor říká, že:",
+  "options": [
+   "vězeň má pravdu, popravu skutečně nelze v žádný den vykonat",
+   "soudcův slib je sám o sobě tvrzení nepravdivé, tedy neplatné",
+   "vězeň vyloučí dny zpětnou indukcí, přesto ho poprava překvapí",
+   "paradox mizí, jakmile soudce upřesní pravděpodobnost každého dne"
+  ]
+ },
+ {
+  "id": "log-C26",
+  "text": "Cantorova věta o potenční množině vede k tzv. Cantorovu paradoxu tím, že:",
+  "options": [
+   "množina všech množin by musela mít mohutnost menší než její potenční",
+   "potenční množina konečné množiny má vždy sudý počet svých prvků",
+   "mezi mohutností N a mohutností R by nemohla ležet žádná další mohutnost",
+   "sjednocení spočetně mnoha spočetných množin může být nespočetné"
+  ]
+ },
+ {
+  "id": "log-C27",
+  "text": "Gödel roku 1929 dokázal také větu o úplnosti. Není to spor s neúplností, protože:",
+  "options": [
+   "věta o úplnosti platí jen pro výrokovou logiku, nikoli pro predikátovou",
+   "větu o úplnosti Cohen později vyvrátil a matematici ji dnes opustili",
+   "obě věty mluví o týchž teoriích, jen jedna z nich užívá jiné axiomy",
+   "úplnost se týká logického vyplývání, neúplnost síly konkrétní teorie"
+  ]
+ },
+ {
+  "id": "log-C28",
+  "text": "Proč se Gödelovy věty nevztahují na Presburgerovu aritmetiku (sčítání bez násobení)?",
+  "options": [
+   "Protože její model je konečný, a lze ji tedy prověřit vyčerpáním",
+   "Není dost silná, chybí jí násobení; je úplná i rozhodnutelná",
+   "Protože nemá rekurzivně vyčíslitelnou množinu vlastních axiomů",
+   "Protože v ní nelze vyjádřit pojem přirozeného čísla ani nuly"
+  ]
+ },
+ {
+  "id": "log-C29",
+  "text": "Čím Rosser roku 1936 zesílil první Gödelovu větu?",
+  "options": [
+   "Rozšířil ji i na teorie s nespočetně mnoha axiomy a symboly",
+   "Nahradil v ní pojem důkazu pojmem algoritmického výpočtu",
+   "Ukázal, že nerozhodnutelnou větu lze zapsat bez sebereference",
+   "Nahradil předpoklad ω-bezespornosti pouhou bezesporností teorie"
+  ]
+ },
+ {
+  "id": "log-C30",
+  "text": "Löbova věta říká, že pokud teorie dokáže „je-li A dokazatelné, pak A“, pak:",
+  "options": [
+   "je teorie sporná, protože si tím přisvojuje svůj vlastní metajazyk",
+   "platí to jen pro A, která neobsahují žádný kvantifikátor",
+   "dokáže rovnou i samotné A — důvěra ve vlastní důkazy nestačí",
+   "dokáže také svou bezespornost, což vyvrací druhou větu"
+  ]
+ },
+ {
+  "id": "log-C31",
+  "text": "Co Cohenova metoda forcingu prakticky umožnila?",
+  "options": [
+   "Dokázat, že axiom výběru plyne ze zbývajících axiomů teorie ZF",
+   "Stavět modely ZF na míru, a tak ukazovat nedokazatelnost tvrzení",
+   "Rozhodnout hypotézu kontinua kladně pomocí nových silných axiomů",
+   "Nahradit teorii množin teorií kategorií jakožto základem matematiky"
+  ]
+ },
+ {
+  "id": "log-C32",
+  "text": "Goodsteinova věta a Parisova–Harringtonova věta jsou významné tím, že:",
+  "options": [
+   "jde o přirozená tvrzení o číslech, nedokazatelná v Peanově aritmetice",
+   "jde o první tvrzení, u nichž byla prokázána jejich úplná nesmyslnost",
+   "byly nalezeny počítačem, a proto je nelze ověřit lidským důkazem",
+   "ukazují, že Peanova aritmetika je sporná, jak to Gödel předpověděl"
+  ]
+ }
+]

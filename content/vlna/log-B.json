@@ -1,0 +1,514 @@
+[
+  {
+    "id": "log-B01",
+    "type": "F",
+    "category": "logika",
+    "text": "Petrovi je 34 let, vystudoval fyziku, ve volném čase hraje šachy a čte sci-fi. Které z následujících tvrzení o Petrovi musí mít nejvyšší pravděpodobnost, ať už je Petr ve skutečnosti kdokoli?",
+    "options": [
+      "Petr pracuje jako úředník ve státní správě",
+      "Petr je úředník a hraje v šachovém klubu",
+      "Petr je úředník a pravidelně čte sci-fi",
+      "Petr je úředník, šachista i čtenář sci-fi"
+    ],
+    "correct": 0,
+    "explanation": "Zbylá tři tvrzení jsou konjunkce, které první tvrzení obsahují jako svou součást. Průnik jevů nikdy nemůže být pravděpodobnější než kterýkoli z nich samostatně. Podrobnější a „uvěřitelnější\" popis proto musí být vždy méně pravděpodobný — právě to je sdružený klam.",
+    "source": "sdružený klam (Tversky a Kahneman)",
+    "seedElo": 1450
+  },
+  {
+    "id": "log-B02",
+    "type": "F",
+    "category": "logika",
+    "text": "V zásuvce máte deset černých a deset modrých ponožek, náhodně promíchaných. Ve tmě je vytahujete po jedné a barvu nevidíte. Kolik nejméně ponožek musíte vytáhnout, abyste měli jistotu, že mezi nimi je pár stejné barvy?",
+    "options": [
+      "Stačí dvě ponožky",
+      "Je potřeba jedenáct",
+      "Stačí tři ponožky",
+      "Je potřeba dvanáct"
+    ],
+    "correct": 2,
+    "explanation": "Barvy jsou jen dvě, takže tvoří dvě přihrádky. Dvě ponožky ještě mohou být každá jiná, ale třetí ponožka už podle holubníkového principu musí padnout do některé z obsazených přihrádek. Počet ponožek v zásuvce přitom vůbec nehraje roli.",
+    "source": "holubníkový princip",
+    "seedElo": 1450
+  },
+  {
+    "id": "log-B03",
+    "type": "F",
+    "category": "logika",
+    "text": "Pět hasičů losuje, kdo půjde na noční službu. V ruce drží pět stébel, jedno z nich krátké; každý postupně vytáhne jedno stéblo a hned ho ukáže ostatním. Kdo vytáhne krátké, jde sloužit. Je z hlediska pravděpodobnosti výhodné táhnout jako první?",
+    "options": [
+      "Ano, první má nejmenší šanci vytáhnout krátké stéblo",
+      "Ne, všichni mají shodnou šanci 1/5 bez ohledu na pořadí",
+      "Ne, výhodné je táhnout až jako poslední z pěti hasičů",
+      "Ano, ale jen když se tažená stébla ostatním neukazují"
+    ],
+    "correct": 1,
+    "explanation": "Losování odpovídá náhodné permutaci pěti stébel a krátké stéblo je stejně pravděpodobně na kterékoli z pěti pozic. Před začátkem tedy každý hasič nese pravděpodobnost 1/5. Ukazování už tažených stébel mění jen průběžné podmíněné šance těch, kdo ještě netáhli, nikoli výchozí férovost losu.",
+    "source": "férové losování / symetrie permutací",
+    "seedElo": 1500
+  },
+  {
+    "id": "log-B04",
+    "type": "F",
+    "category": "logika",
+    "text": "Nemoc má jedno procento populace. Test ji odhalí u každého nemocného (senzitivita sto procent), ale u pěti procent zdravých vyjde falešně pozitivní. Náhodně vybranému člověku z populace, o kterém nic dalšího nevíte, vyjde test pozitivně. Jaká je pravděpodobnost, že je opravdu nemocný?",
+    "options": [
+      "Přibližně 95 procent",
+      "Přibližně 50 procent",
+      "Přibližně 5 procent",
+      "Přibližně 17 procent"
+    ],
+    "correct": 3,
+    "explanation": "Z deseti tisíc lidí je sto nemocných a všichni vyjdou pozitivně. Ze zbylých 9 900 zdravých vyjde falešně pozitivně 495 lidí. Pozitivních je tedy 595 a skutečně nemocných mezi nimi 100, což je 100/595 ≈ 16,8 procenta.",
+    "source": "Bayesova věta / falešná pozitivita",
+    "seedElo": 1550
+  },
+  {
+    "id": "log-B05",
+    "type": "F",
+    "category": "logika",
+    "text": "Kolik různých pořadí písmen (včetně původního) lze vytvořit přeskládáním všech pěti písmen slova KOKOS?",
+    "options": [
+      "30 pořadí",
+      "60 pořadí",
+      "120 pořadí",
+      "20 pořadí"
+    ],
+    "correct": 0,
+    "explanation": "Pět rozlišitelných písmen by dalo 5! = 120 pořadí. Dvě K jsou ale navzájem nerozlišitelná a dvě O rovněž, takže každé skutečné pořadí je v těchto 120 započítáno 2!·2! = 4krát. Výsledek je 120/4 = 30.",
+    "source": "permutace s opakováním",
+    "seedElo": 1550
+  },
+  {
+    "id": "log-B06",
+    "type": "F",
+    "category": "logika",
+    "text": "Trenér chválí sportovce po jejich nejlepších výkonech a kárá je po nejhorších. Dlouhodobě pozoruje, že po chvále výkon zpravidla klesne a po kritice zpravidla stoupne. Jaké je nejstřízlivější vysvětlení tohoto pozorování?",
+    "options": [
+      "Chvála otupuje motivaci, kritika naopak sportovce nabudí",
+      "Extrémní výkony obsahují náhodu, další se vrací k průměru",
+      "Sportovci se po pochvale spoléhají na dosaženou pověst",
+      "Trenér měří výkony metodou, která systematicky nadhodnocuje"
+    ],
+    "correct": 1,
+    "explanation": "Každý výkon je součtem stabilní schopnosti a náhodného kolísání. Mimořádně dobrý výkon je obvykle provázen příznivou náhodou, která se příště neopakuje, takže následující výkon leží blíž průměru — a symetricky po nejhorším výkonu. Regrese k průměru se objeví i tehdy, kdyby trenérovy reakce neměly vůbec žádný účinek.",
+    "source": "regrese k průměru",
+    "seedElo": 1600
+  },
+  {
+    "id": "log-B07",
+    "type": "F",
+    "category": "logika",
+    "text": "V zemi se třemi tisíci okresy sledují výskyt vzácného nádoru. V žebříčku okresů s nejvyšším výskytem i v žebříčku s nejnižším výskytem se na předních místech objevují převážně okresy s malým počtem obyvatel. Co je nejpravděpodobnější příčinou?",
+    "options": [
+      "Malé okresy leží na venkově, kde je jiná skladba rizik",
+      "Ve velkých městech se nemoc diagnostikuje spolehlivěji",
+      "V malých okresech se nádory soustavně chybně vykazují",
+      "Malý vzorek kolísá víc, a tak obsadí oba konce žebříčku"
+    ],
+    "correct": 3,
+    "explanation": "Míra výskytu spočítaná z malého počtu lidí má velký rozptyl — jediný případ navíc s ní výrazně pohne. Extrémy žebříčku proto obsazují malé okresy na obou koncích současně, a to je podpis náhody, ne příčiny. Kdyby šlo o skutečný rizikový faktor venkova, převažovaly by malé okresy jen na jednom konci.",
+    "source": "zákon malých čísel / náhodné shluky",
+    "seedElo": 1650
+  },
+  {
+    "id": "log-B08",
+    "type": "F",
+    "category": "logika",
+    "text": "Ve třídě je třicet žáků. Fotbal hraje osmnáct z nich, basketbal patnáct a přesně pět žáků nehraje ani jeden z těchto dvou sportů. Kolik žáků hraje oba sporty?",
+    "options": [
+      "Tři žáci",
+      "Pět žáků",
+      "Osm žáků",
+      "Deset žáků"
+    ],
+    "correct": 2,
+    "explanation": "Aspoň jeden sport hraje 30 − 5 = 25 žáků. Podle principu inkluze a exkluze platí 18 + 15 − |oba| = 25, tedy |oba| = 8. Odpověď „tři\" vzniká typickou chybou: zapomene se na pětici nehrajících a odečte se rovnou třicet.",
+    "source": "princip inkluze a exkluze",
+    "seedElo": 1600
+  },
+  {
+    "id": "log-B09",
+    "type": "F",
+    "category": "logika",
+    "text": "Předpokládejme, že žádný člověk nemá víc než 150 000 vlasů, ale počet může být jakýkoli od nuly až po tuto hranici. Kolik nejméně lidí musíte shromáždit, abyste měli jistotu, že aspoň dva z nich mají přesně stejný počet vlasů?",
+    "options": [
+      "150 000 lidí",
+      "150 002 lidí",
+      "150 001 lidí",
+      "300 000 lidí"
+    ],
+    "correct": 1,
+    "explanation": "Možných hodnot počtu vlasů je 150 001, protože se počítá i nula. Se 150 001 lidmi je ještě představitelné, že má každý jinou hodnotu. Až 150 002. člověk musí podle holubníkového principu nutně s někým počet sdílet.",
+    "source": "holubníkový princip",
+    "seedElo": 1600
+  },
+  {
+    "id": "log-B10",
+    "type": "F",
+    "category": "logika",
+    "text": "Hodím dvěma rozlišitelnými kostkami tak, že výsledek nevidíte. Předem je domluveno, že vám sdělím jedinou informaci: zda padla aspoň jedna šestka. Sdělím vám pravdivě, že aspoň jedna šestka padla. Jaká je pravděpodobnost, že padly šestky obě?",
+    "options": [
+      "Pravděpodobnost 1/11",
+      "Pravděpodobnost 1/6",
+      "Pravděpodobnost 1/12",
+      "Pravděpodobnost 1/36"
+    ],
+    "correct": 0,
+    "explanation": "Z 36 stejně pravděpodobných výsledků obsahuje aspoň jednu šestku jedenáct z nich (6 + 6 − 1). Dvojnásobná šestka je mezi nimi jediná, takže podmíněná pravděpodobnost je 1/11. Odpověď 1/6 by platila jen tehdy, kdyby bylo řečeno, že šestku ukazuje jedna předem určená kostka.",
+    "source": "podmíněná pravděpodobnost",
+    "seedElo": 1600
+  },
+  {
+    "id": "log-B11",
+    "type": "F",
+    "category": "logika",
+    "text": "Na stole leží 21 kamínků. Hráči se střídají a každý si v tahu vezme jeden, dva nebo tři kamínky. Vyhrává ten, kdo vezme poslední kamínek. Kdo vyhraje při optimální hře obou hráčů?",
+    "options": [
+      "Druhý hráč; stačí mu dorovnávat soupeře do čtyř",
+      "První hráč, ale jen když začne třemi kamínky",
+      "První hráč; vezme jeden a pak dorovnává do čtyř",
+      "Nikdo; při optimální hře skončí partie nerozhodně"
+    ],
+    "correct": 2,
+    "explanation": "Prohrávající jsou právě ty pozice, kde je na tahu hráč a zbývá násobek čtyř. Protože 21 = 4·5 + 1, vezme první hráč jeden kamínek, nechá dvacet a poté vždy doplní soupeřův tah do čtyř. Soupeř tak dostává 16, 12, 8, 4 a nakonec nulu.",
+    "source": "hra Nim s omezeným odběrem",
+    "seedElo": 1650
+  },
+  {
+    "id": "log-B12",
+    "type": "F",
+    "category": "logika",
+    "text": "V teorii her se říká, že jedna z hráčových strategií je striktně dominantní. Co přesně to znamená?",
+    "options": [
+      "Vede k nejlepšímu možnému výsledku ze všech dvojic tahů",
+      "Je nejlepší odpovědí na tah, který soupeř nejspíš zvolí",
+      "Zaručuje hráči aspoň takový zisk, jaký si odnese soupeř",
+      "Je lepší než každá jiná jeho strategie, ať soupeř udělá cokoli"
+    ],
+    "correct": 3,
+    "explanation": "Striktní dominance se posuzuje po sloupcích: pro každou možnou volbu soupeře přináší tato strategie hráči striktně vyšší výplatu než kterákoli jeho alternativa. Nevyžaduje tedy žádný odhad soupeřova chování. Zároveň ale nezaručuje globálně nejlepší výsledek — v dilematech vede dominantní hra obou stran ke společně horšímu konci.",
+    "source": "teorie her / dominantní strategie",
+    "seedElo": 1650
+  },
+  {
+    "id": "log-B13",
+    "type": "F",
+    "category": "logika",
+    "text": "Paní Nováková má právě dvě děti; předpokládejme, že každé je nezávisle chlapec nebo dívka s pravděpodobností jedna polovina. Potkáte ji na ulici s jedním z jejích dětí a je to chlapec. Které dítě si toho dne vzala s sebou, rozhodla ryze náhodně hodem mincí. Jaká je pravděpodobnost, že obě její děti jsou chlapci?",
+    "options": [
+      "Šance je jedna třetina",
+      "Šance je jedna polovina",
+      "Šance jsou dvě třetiny",
+      "Šance je jedna čtvrtina"
+    ],
+    "correct": 1,
+    "explanation": "Čtyři stejně pravděpodobné rodiny CC, CD, DC a DD vedou k chlapci na ulici s pravděpodobnostmi 1, 1/2, 1/2 a 0. Po vydělení jejich součtem, který je 2, vychází pro CC podíl 1/(1 + ½ + ½) = 1/2. Klíčové je, že dítě bylo vybráno náhodně, a ne cíleně proto, že je to chlapec.",
+    "source": "problém dvou dětí (náhodný výběr dítěte)",
+    "seedElo": 1700
+  },
+  {
+    "id": "log-B14",
+    "type": "F",
+    "category": "logika",
+    "text": "Paní Svobodová má právě dvě děti, každé nezávisle chlapec nebo dívka s pravděpodobností jedna polovina. Zeptáte se jí: „Je aspoň jedno z vašich dvou dětí chlapec?\" Odpoví pravdivě ano. Jaká je pravděpodobnost, že jsou obě děti chlapci?",
+    "options": [
+      "Šance je jedna třetina",
+      "Šance je jedna polovina",
+      "Šance je jedna čtvrtina",
+      "Šance jsou dvě třetiny"
+    ],
+    "correct": 0,
+    "explanation": "Odpověď ano vyloučí jedinou ze čtyř stejně pravděpodobných možností CC, CD, DC a DD, totiž DD. Zbylé tři zůstávají stejně pravděpodobné a jen v jedné z nich jsou dva chlapci, takže výsledek je 1/3. Rozdíl oproti náhodnému setkání s chlapcem je v tom, že tady otázka mířila cíleně na existenci chlapce.",
+    "source": "problém dvou dětí (cílený dotaz)",
+    "seedElo": 1750
+  },
+  {
+    "id": "log-B15",
+    "type": "F",
+    "category": "logika",
+    "text": "Ve městě je 85 procent taxíků zelených a 15 procent modrých. Svědek noční nehody označí barvu taxíku správně v osmdesáti procentech případů a ve dvaceti se splete, a to v obou směrech stejně. Svědek tvrdí, že vinný taxík byl modrý. Jaká je pravděpodobnost, že byl skutečně modrý?",
+    "options": [
+      "Zhruba 80 %",
+      "Zhruba 15 %",
+      "Zhruba 41 %",
+      "Zhruba 12 %"
+    ],
+    "correct": 2,
+    "explanation": "Ze sta taxíků označí svědek jako modrých 15·0,8 = 12 skutečně modrých a 85·0,2 = 17 zelených. Modrých je tedy mezi označenými 12 z 29, což je asi 41 procent. Odpověď osmdesát procent ignoruje základní míru výskytu a bere v úvahu jen spolehlivost svědka.",
+    "source": "base rate neglect / úloha o taxících",
+    "seedElo": 1700
+  },
+  {
+    "id": "log-B16",
+    "type": "F",
+    "category": "logika",
+    "text": "Předpokládejme pro jednoduchost, že narození připadá na každý z dvanácti měsíců se stejnou pravděpodobností a lidé jsou navzájem nezávislí. Kolik nejméně lidí musí být ve skupině, aby pravděpodobnost, že aspoň dva z nich mají narozeniny ve stejném měsíci, přesáhla jednu polovinu?",
+    "options": [
+      "Čtyři lidé",
+      "Šest lidí",
+      "Sedm lidí",
+      "Pět lidí"
+    ],
+    "correct": 3,
+    "explanation": "Pro čtyři lidi je pravděpodobnost samých různých měsíců (12·11·10·9)/12⁴ ≈ 0,573, takže shoda nastane jen ve zhruba 43 procentech případů. U pěti lidí klesne pravděpodobnost různých měsíců na ≈ 0,382 a shoda má tedy asi 62 procent. Hranice jedné poloviny se překročí právě u pěti lidí.",
+    "source": "narozeninová úloha (varianta s měsíci)",
+    "seedElo": 1700
+  },
+  {
+    "id": "log-B17",
+    "type": "F",
+    "category": "logika",
+    "text": "Uvažujme rok o 365 dnech a nezávislé lidi s rovnoměrně rozdělenými narozeninami. Kolik nejméně náhodně oslovených lidí potřebujete, aby pravděpodobnost, že aspoň jeden z nich má narozeniny přesně ve stejný den jako vy, přesáhla jednu polovinu?",
+    "options": [
+      "183 lidí",
+      "253 lidí",
+      "23 lidí",
+      "365 lidí"
+    ],
+    "correct": 1,
+    "explanation": "Pravděpodobnost, že se s vaším dnem netrefí nikdo z n lidí, je (364/365)ⁿ. Hledáme nejmenší n, pro které je tato hodnota pod jednou polovinou, tedy n > ln(0,5)/ln(364/365) ≈ 252,65. Odpověď je 253; číslo 23 platí pro shodu libovolné dvojice ve skupině, nikoli pro shodu s vámi.",
+    "source": "narozeninová úloha (shoda s konkrétním dnem)",
+    "seedElo": 1750
+  },
+  {
+    "id": "log-B18",
+    "type": "F",
+    "category": "logika",
+    "text": "Ze šachovnice 8×8 odřízneme dvě protilehlá rohová políčka, například a1 a h8, takže zbude 62 polí. Lze je beze zbytku pokrýt 31 kostkami domina, z nichž každá zakryje právě dvě políčka sousedící stranou?",
+    "options": [
+      "Ne, oba odříznuté rohy mají stejnou barvu a bilance nesedí",
+      "Ano, pokrytí existuje, ale je nutné začít od středu desky",
+      "Ano, počet políček je sudý, takže pokrytí vždy existuje",
+      "Ne, protože 62 není beze zbytku dělitelné dvěma a pole zbyde"
+    ],
+    "correct": 0,
+    "explanation": "Každá kostka domina zakryje vždy jedno bílé a jedno černé políčko, takže 31 kostek potřebuje přesně 31 bílých a 31 černých polí. Protilehlé rohy šachovnice ale mají stejnou barvu, a po jejich odříznutí zbyde 32 polí jedné barvy a 30 druhé. Barevná parita je invariant, který pokrytí vylučuje.",
+    "source": "invariant / okleštěná šachovnice",
+    "seedElo": 1750
+  },
+  {
+    "id": "log-B19",
+    "type": "F",
+    "category": "logika",
+    "text": "Kdy je dvojice zvolených strategií ve hře dvou hráčů Nashovou rovnováhou?",
+    "options": [
+      "Když je součet výplat obou hráčů co největší možný",
+      "Když si oba hráči odnesou stejně velkou výplatu ze hry",
+      "Když si žádný z nich nepolepší, změní-li strategii sám",
+      "Když je výsledek pro oba hráče lepší než všechny ostatní"
+    ],
+    "correct": 2,
+    "explanation": "Rovnováha je test jednostranné odchylky: každý hráč se ptá, zda by při nezměněné volbě soupeře získal jinou strategií víc. Pokud je odpověď u obou ne, je dvojice v rovnováze. S efektivitou to nemá nic společného — rovnovážný výsledek může být pro oba horší než jiná dosažitelná dvojice.",
+    "source": "teorie her / Nashova rovnováha",
+    "seedElo": 1750
+  },
+  {
+    "id": "log-B20",
+    "type": "F",
+    "category": "logika",
+    "text": "Máte minci, o níž víte jen to, že líc na ní padá s neznámou pravděpodobností p někde mezi nulou a jedničkou, a že jednotlivé hody jsou nezávislé. Jak s ní vyrobit dokonale férové rozhodnutí mezi dvěma lidmi?",
+    "options": [
+      "Hodit stokrát a rozhodnout podle toho, čeho padlo víc",
+      "Hodit jednou; při neznámém p je každý výsledek stejně možný",
+      "Střídat hráče v hodech, dokud jeden z nich nehodí líc jako první",
+      "Házet po dvojicích: líc-rub určí A, rub-líc B, shodu opakovat"
+    ],
+    "correct": 3,
+    "explanation": "Dvojice hodů líc-rub a rub-líc mají obě pravděpodobnost p(1 − p), tedy přesně stejnou, ať je p jakékoli. Když padne shoda, tedy líc-líc nebo rub-rub, dvojici zahodíme a házíme znovu. Procedura skončí s pravděpodobností jedna a je férová pro každé p kromě krajních hodnot nula a jedna.",
+    "source": "von Neumannovo férování mince",
+    "seedElo": 1750
+  },
+  {
+    "id": "log-B21",
+    "type": "F",
+    "category": "logika",
+    "text": "Na tabuli je napsáno deset jedniček a patnáct dvojek. V každém kroku smažete libovolná dvě čísla a napíšete místo nich absolutní hodnotu jejich rozdílu. Po dvaceti čtyřech krocích zbude na tabuli jediné číslo. Co o něm platí?",
+    "options": [
+      "Je vždy sudé, bez ohledu na to, jaká čísla jste mazali",
+      "Je vždy liché, bez ohledu na pořadí provedených kroků",
+      "Je to vždy nula, protože rozdíly se postupně vyrovnají",
+      "Může být sudé i liché, záleží na zvoleném pořadí mazání"
+    ],
+    "correct": 0,
+    "explanation": "Čísla a, b mají stejnou paritu součtu jako jejich rozdíl, protože a + b a a − b se liší o sudé 2b. Parita součtu všech čísel na tabuli je proto invariant celého procesu. Počáteční součet je 10·1 + 15·2 = 40, tedy sudý, a poslední zbylé číslo tak musí být sudé.",
+    "source": "invariant parity",
+    "seedElo": 1800
+  },
+  {
+    "id": "log-B22",
+    "type": "F",
+    "category": "logika",
+    "text": "Dva lidé si dělí koláč metodou „jeden krájí, druhý si vybírá\". Každý z nich má vlastní představu o tom, které kusy jsou cennější, a tyto představy se mohou lišit. Co přesně tato metoda zaručuje?",
+    "options": [
+      "Že oba kusy budou objektivně stejně velké a stejně hodnotné",
+      "Že každý dostane díl, který sám hodnotí aspoň na polovinu",
+      "Že krájející je v nevýhodě a vybírající vždy získá víc než on",
+      "Že oba budou s výsledkem stejně spokojení a nikdo nezávidí"
+    ],
+    "correct": 1,
+    "explanation": "Krájející rozdělí koláč tak, aby mu byly oba kusy podle jeho vlastního měřítka rovnocenné, takže ať mu zbude kterýkoli, má pro něj hodnotu poloviny. Vybírající si vezme ten, který je aspoň poloviční podle jeho měřítka. Metoda tedy garantuje proporcionalitu vzhledem k subjektivním hodnocením, nikoli objektivní rovnost ani stejnou míru spokojenosti.",
+    "source": "férové dělení / divide and choose",
+    "seedElo": 1800
+  },
+  {
+    "id": "log-B23",
+    "type": "F",
+    "category": "logika",
+    "text": "Tři neoznačené krabice obsahují po dvou mincích: první dvě zlaté, druhá zlatou a stříbrnou, třetí dvě stříbrné. Náhodně si vyberete krabici, náhodně z ní vytáhnete jednu minci a ta je zlatá. Jaká je pravděpodobnost, že i druhá mince v téže krabici je zlatá?",
+    "options": [
+      "Šance je jedna polovina",
+      "Šance je jedna třetina",
+      "Šance jsou dvě třetiny",
+      "Šance jsou tři čtvrtiny"
+    ],
+    "correct": 2,
+    "explanation": "Zlaté mince jsou celkem tři a při popsaném postupu měla každá z nich stejnou šanci být vytažena. Dvě z těchto tří leží v krabici se dvěma zlatými, kde je druhá mince rovněž zlatá. Pravděpodobnost je proto 2/3; chyba vzniká, když se počítají krabice místo jednotlivých mincí.",
+    "source": "Bertrandův paradox krabic",
+    "seedElo": 1800
+  },
+  {
+    "id": "log-B24",
+    "type": "F",
+    "category": "logika",
+    "text": "Z čísel 1 až 10 vyberete libovolných šest různých. Které z následujících tvrzení platí nutně vždy, ať vyberete kteroukoli šestici?",
+    "options": [
+      "Mezi vybranými jsou tři čísla jdoucí bezprostředně po sobě",
+      "Mezi vybranými jsou dvě čísla, jejichž součet je právě deset",
+      "Mezi vybranými jsou aspoň dvě sudá a zároveň aspoň dvě lichá",
+      "Mezi vybranými jsou dvě čísla, jejichž součet je právě jedenáct"
+    ],
+    "correct": 3,
+    "explanation": "Čísla 1 až 10 se rozpadají na pět dvojic se součtem jedenáct: (1,10), (2,9), (3,8), (4,7) a (5,6). Šest čísel se do pěti dvojic nevejde, takže aspoň jedna dvojice musí být vybraná celá. Ostatní tvrzení padnou na protipříkladech: šestice 1, 2, 4, 6, 8, 10 nemá tři po sobě jdoucí čísla ani dvě lichá, a šestice 1, 2, 3, 4, 5, 10 nemá žádnou dvojici se součtem deset.",
+    "source": "holubníkový princip (párování)",
+    "seedElo": 1850
+  },
+  {
+    "id": "log-B25",
+    "type": "F",
+    "category": "logika",
+    "text": "Firma přijímala do dvou divizí. V divizi A se hlásilo 100 mužů (přijato 80) a 20 žen (přijato 18). V divizi B se hlásilo 20 mužů (přijato 4) a 100 žen (přijato 30). Ženy tedy měly v obou divizích vyšší míru přijetí než muži, ale v součtu byly přijaty jen ze 40 procent oproti 70 procentům u mužů. Čím to je?",
+    "options": [
+      "Ženy se převážně hlásily do divize, kde se přijímá málo lidí",
+      "V souhrnných číslech musela vzniknout aritmetická chyba",
+      "Firma znevýhodňovala ženy skrytě až v posledním kole výběru",
+      "Poměry z různě velkých skupin se prostě nesmějí porovnávat"
+    ],
+    "correct": 0,
+    "explanation": "Divize B přijímá jen malý zlomek uchazečů a hlásí se do ní 100 žen proti 20 mužům, zatímco ve štědré divizi A je poměr obrácený. Souhrnná míra je váženým průměrem obou divizí a váhy jsou u obou pohlaví zcela jiné. Jde o Simpsonův paradox: obrácení směru vztahu po sloučení skupin s odlišným složením.",
+    "source": "Simpsonův paradox (výběrové řízení)",
+    "seedElo": 1850
+  },
+  {
+    "id": "log-B26",
+    "type": "F",
+    "category": "logika",
+    "text": "Kolika způsoby lze rozdělit deset navzájem nerozlišitelných bonbonů mezi čtyři děti, jestliže některé dítě může zůstat i zcela bez bonbonu a na tom, které dítě je které, záleží?",
+    "options": [
+      "220 způsobů",
+      "286 způsobů",
+      "84 způsobů",
+      "715 způsobů"
+    ],
+    "correct": 1,
+    "explanation": "Úloha odpovídá rozestavení tří přepážek mezi deset shodných objektů, tedy výběru tří pozic přepážek z celkem 10 + 3 = 13 míst. Počet je kombinační číslo C(13,3) = 286. Hodnota 84 = C(9,3) by platila v případě, že by každé dítě muselo dostat aspoň jeden bonbon.",
+    "source": "kombinatorika / hvězdičky a přepážky",
+    "seedElo": 1850
+  },
+  {
+    "id": "log-B27",
+    "type": "F",
+    "category": "logika",
+    "text": "Postupně přijímáte n uchazečů v náhodném pořadí, každého umíte porovnat s dosud viděnými, ale rozhodnout se musíte ihned a odmítnutí je nevratné. Optimální strategie odmítne prvních zhruba n/e uchazečů a pak vezme prvního, kdo je lepší než všichni předchozí. S jakou pravděpodobností tak pro velká n získáte opravdu nejlepšího uchazeče?",
+    "options": [
+      "Asi 50 %",
+      "Asi 25 %",
+      "Asi 37 %",
+      "Řádově 1/n"
+    ],
+    "correct": 2,
+    "explanation": "Pravděpodobnost úspěchu při vynechání podílu r uchazečů je přibližně −r·ln r a tato funkce nabývá maxima pro r = 1/e. Dosazením vyjde hodnota 1/e ≈ 0,368, tedy zhruba 37 procent. Pozoruhodné je, že šance s rostoucím n neklesá k nule, ale ustálí se.",
+    "source": "problém sekretářky / optimální zastavení",
+    "seedElo": 1950
+  },
+  {
+    "id": "log-B28",
+    "type": "F",
+    "category": "logika",
+    "text": "V řadě leží sudý počet mincí o různých, všem viditelných hodnotách. Hráči se střídají a každý si v tahu vezme minci z některého konce řady. Vyhrává ten, kdo nasbírá vyšší celkovou hodnotu. Co si může první hráč zaručit?",
+    "options": [
+      "Vždy vyhraje, když bude brát vždy tu cennější z krajních mincí",
+      "Nemá žádnou výhodu, o výsledku rozhoduje rozestavení hodnot",
+      "Vyhraje jen tehdy, když je součet všech hodnot v řadě lichý",
+      "Umí si zajistit aspoň remízu, ať jsou hodnoty rozdělené jakkoli"
+    ],
+    "correct": 3,
+    "explanation": "První hráč si očísluje pozice, rozdělí mince na skupinu na lichých a na sudých pozicích a spočítá, která skupina má vyšší součet. Protože je mincí sudý počet, jsou krajní pozice vždy různé parity, takže si může vzít minci ze zvolené skupiny; soupeř mu pak nutně nabídne další minci téže skupiny. Tím posbírá celou vybranou skupinu, a ta je aspoň poloviční.",
+    "source": "strategická hra s paritou pozic",
+    "seedElo": 1900
+  },
+  {
+    "id": "log-B29",
+    "type": "F",
+    "category": "logika",
+    "text": "Tři hromádky mají 3, 5 a 7 sirek. Hráči se střídají a každý v tahu odebere libovolný počet sirek z jediné hromádky, nejméně však jednu. Vyhrává ten, kdo vezme poslední sirku. Kdo vyhraje při optimální hře a jak?",
+    "options": [
+      "Druhý hráč, protože všechny tři hromádky mají lichý počet",
+      "První hráč; vezme jednu sirku ze sedmi a hraje na nulový XOR",
+      "První hráč; sebere celou tříprvkovou hromádku a pak zrcadlí",
+      "Druhý hráč; ať první udělá cokoli, stačí mu tah zrcadlit"
+    ],
+    "correct": 1,
+    "explanation": "V klasickém Nimu prohrává hráč na tahu právě tehdy, je-li XOR všech hromádek nulový, tedy jejich součet ve dvojkové soustavě bez přenosů. Zde je 3 XOR 5 XOR 7 = 1, tedy nenulový, a vyhrává první hráč. Musí tah zvolit tak, aby XOR vynuloval: protože 3 XOR 5 = 6, sníží sedmičku na šestku, tedy odebere jednu sirku.",
+    "source": "Nim / Bouton",
+    "seedElo": 1950
+  },
+  {
+    "id": "log-B30",
+    "type": "F",
+    "category": "logika",
+    "text": "Na tabuli jsou napsána všechna čísla od 1 do 100. V každém kroku smažete libovolná dvě čísla a a b a napíšete místo nich číslo a + b + 1. Po devadesáti devíti krocích zbude na tabuli jediné číslo. Jaké to bude?",
+    "options": [
+      "Vždy vyjde 5050",
+      "Vždy vyjde 5150",
+      "Vždy vyjde 5149",
+      "Záleží na pořadí"
+    ],
+    "correct": 2,
+    "explanation": "Každý krok sníží počet čísel o jedno a zvýší jejich celkový součet přesně o jedničku, protože a + b + 1 je o jedna víc než a + b. Počáteční součet je 1 + 2 + … + 100 = 5050 a kroků je devadesát devět. Konečný součet, a tím i poslední zbylé číslo, je tedy 5050 + 99 = 5149, nezávisle na pořadí mazání.",
+    "source": "monovariant / řízená změna součtu",
+    "seedElo": 1950
+  },
+  {
+    "id": "log-B31",
+    "type": "F",
+    "category": "logika",
+    "text": "V myšlenkovém experimentu Šípková Růženka se v neděli hodí férovou mincí. Padne-li líc, probudí Růženku jen v pondělí; padne-li rub, probudí ji v pondělí i v úterý, přičemž po pondělním probuzení jí na ně vymažou paměť. Růženka pravidla zná. Co tvrdí takzvaná třetinová (thirder) pozice?",
+    "options": [
+      "Že Růženka má při probuzení přiřadit líci pravděpodobnost 1/3",
+      "Že Růženka má při probuzení přiřadit líci pravděpodobnost 1/2",
+      "Že otázka nemá smysl, protože Růženka neví, který je den",
+      "Že mince v tomto uspořádání přestává být férová a klopí k rubu"
+    ],
+    "correct": 0,
+    "explanation": "Thirder argumentuje tím, že možná probuzení jsou tři — líc-pondělí, rub-pondělí a rub-úterý — a Růženka je při probuzení nedokáže od sebe odlišit, takže jim přiřadí stejnou váhu. Líci pak odpovídá jediné ze tří, tedy 1/3. Halfer naopak trvá na tom, že probuzení nepřináší žádnou novou informaci, a drží se 1/2; spor není dodnes rozhodnut.",
+    "source": "Sleeping Beauty (Elga vs. Lewis)",
+    "seedElo": 1950
+  },
+  {
+    "id": "log-B32",
+    "type": "F",
+    "category": "logika",
+    "text": "Nemoc má jeden člověk z deseti tisíc. Test odhalí devadesát devět procent nemocných a mýlí se u jednoho procenta zdravých. Testuje se plošně celá populace bez ohledu na příznaky. Jaká je pravděpodobnost, že náhodný člověk s pozitivním testem je skutečně nemocný?",
+    "options": [
+      "Asi 99 %",
+      "Asi 50 %",
+      "Asi 9 %",
+      "Asi 1 %"
+    ],
+    "correct": 3,
+    "explanation": "Z milionu lidí je nemocných sto a pozitivně z nich vyjde devadesát devět. Zdravých je 999 900 a falešně pozitivních mezi nimi zhruba 9 999. Skuteční nemocní tak tvoří 99 z celkových asi 10 098 pozitivních, tedy necelé jedno procento — u velmi vzácné nemoci falešné poplachy drtivě převáží.",
+    "source": "Bayesova věta / plošný screening",
+    "seedElo": 1950
+  }
+]

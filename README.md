@@ -242,6 +242,11 @@ sondáž je zákon.
 
 ## Nápadník (Bobova přání, zatím nepostavená)
 
+- **Oprava překliku**: možnost vzít odpověď zpět těsně po tapu (krátké
+  okno „vzít zpět", nebo potvrzení u typů, kde se přemýšlí dlouho).
+  Bob 2026-09-01: u logických úloh je překlik trestán stejně jako
+  neznalost, což zkresluje Elo. Nesmí zdržovat běžný flow.
+
 - **Studijní scroll („učebnice")**: prolistovat všechny otázky balíčku
   jako opáčko — spíš scroll ODPOVĚĎMI (otázka + správná odpověď +
   explanation + deepDive pod sebou) než kvízem. Bob 2026-08-23.

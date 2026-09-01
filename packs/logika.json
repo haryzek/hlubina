@@ -96,6 +96,70 @@
   "seedElo": 1450
  },
  {
+  "id": "log-A02",
+  "type": "F",
+  "category": "logika",
+  "text": "Někdo tvrdí: „Všichni v naší kanceláři pijí kávu.“ Co přesně musí platit, aby byl tento výrok nepravdivý?",
+  "options": [
+   "Nikdo v celé té kanceláři kávu nepije.",
+   "Aspoň jeden člověk v kanceláři kávu nepije.",
+   "Většina lidí v té kanceláři kávu nepije.",
+   "Někteří lidé v té kanceláři kávu pijí."
+  ],
+  "correct": 1,
+  "explanation": "Negací obecného výroku „všichni jsou P“ je existenční výrok „aspoň jeden není P“, nikoli obecné popření „nikdo není P“. Ke zbourání tvrzení o všech stačí jediný protipříklad. Silnější varianty (nikdo, většina) sice výrok také vyvrátí, ale nejsou jeho negací — nejsou nutné.",
+  "source": "negace kvantifikátoru",
+  "seedElo": 1450
+ },
+ {
+  "id": "log-B01",
+  "type": "F",
+  "category": "logika",
+  "text": "Petrovi je 34 let, vystudoval fyziku, ve volném čase hraje šachy a čte sci-fi. Které z následujících tvrzení o Petrovi musí mít nejvyšší pravděpodobnost, ať už je Petr ve skutečnosti kdokoli?",
+  "options": [
+   "Petr pracuje jako úředník ve státní správě",
+   "Petr je úředník a hraje v šachovém klubu",
+   "Petr je úředník a pravidelně čte sci-fi",
+   "Petr je úředník, šachista i čtenář sci-fi"
+  ],
+  "correct": 0,
+  "explanation": "Zbylá tři tvrzení jsou konjunkce, které první tvrzení obsahují jako svou součást. Průnik jevů nikdy nemůže být pravděpodobnější než kterýkoli z nich samostatně. Podrobnější a „uvěřitelnější\" popis proto musí být vždy méně pravděpodobný — právě to je sdružený klam.",
+  "source": "sdružený klam (Tversky a Kahneman)",
+  "seedElo": 1450
+ },
+ {
+  "id": "log-B02",
+  "type": "F",
+  "category": "logika",
+  "text": "V zásuvce máte deset černých a deset modrých ponožek, náhodně promíchaných. Ve tmě je vytahujete po jedné a barvu nevidíte. Kolik nejméně ponožek musíte vytáhnout, abyste měli jistotu, že mezi nimi je pár stejné barvy?",
+  "options": [
+   "Stačí dvě ponožky",
+   "Je potřeba jedenáct",
+   "Stačí tři ponožky",
+   "Je potřeba dvanáct"
+  ],
+  "correct": 2,
+  "explanation": "Barvy jsou jen dvě, takže tvoří dvě přihrádky. Dvě ponožky ještě mohou být každá jiná, ale třetí ponožka už podle holubníkového principu musí padnout do některé z obsazených přihrádek. Počet ponožek v zásuvce přitom vůbec nehraje roli.",
+  "source": "holubníkový princip",
+  "seedElo": 1450
+ },
+ {
+  "id": "log-C01",
+  "type": "F",
+  "category": "logika",
+  "text": "Russellův paradox vzniká, když se zeptáme, zda:",
+  "options": [
+   "množina všech množin, které nejsou prvkem sebe sama, je prvkem sebe sama",
+   "existuje množina, která má stejnou mohutnost jako její potenční množina",
+   "množina všech přirozených čísel je prvkem množiny všech reálných čísel",
+   "prázdná množina je podmnožinou úplně každé množiny, tedy i sebe samé"
+  ],
+  "correct": 0,
+  "explanation": "Označme R množinu všech množin, které nejsou svým vlastním prvkem. Je-li R prvkem R, pak podle definice být nesmí; není-li, pak podle definice být musí. Paradox ukazuje, že naivní představa „ke každé vlastnosti existuje množina všech objektů s ní“ je sporná.",
+  "source": "Bertrand Russell (1901–1902)",
+  "seedElo": 1450
+ },
+ {
   "id": "log-07",
   "type": "F",
   "category": "logika",
@@ -110,6 +174,70 @@
   "explanation": "Položíte jednu minci proti druhé a třetí necháte stranou. Pokud se váhy vychýlí, lehčí strana je falešná; pokud jsou v rovnováze, falešná je ta odložená. Stačí tedy jediné vážení.",
   "source": "klasická úloha o vážení mincí",
   "seedElo": 1480
+ },
+ {
+  "id": "log-C02",
+  "type": "F",
+  "category": "logika",
+  "text": "Co Cantor dokázal svou diagonální metodou?",
+  "options": [
+   "Že množina všech racionálních čísel je nespočetná, tedy větší než N",
+   "Že reálná čísla nelze spárovat s přirozenými, je jich tedy více",
+   "Že mezi každými dvěma reálnými čísly leží nekonečně mnoho dalších",
+   "Že přirozených, celých i racionálních čísel je přesně stejně mnoho"
+  ],
+  "correct": 1,
+  "explanation": "Předpokládejme, že máme seznam všech reálných čísel z intervalu (0,1). Sestrojíme číslo, které se od n-tého čísla seznamu liší na n-té desetinné pozici — v seznamu tedy být nemůže. Nekonečna se tak liší velikostí: reálných čísel je víc než přirozených.",
+  "source": "Georg Cantor (1891)",
+  "seedElo": 1480
+ },
+ {
+  "id": "log-A01",
+  "type": "F",
+  "category": "logika",
+  "text": "Platí: „Jestliže je Petr v Brně, je v Česku.“ Který výrok říká přesně totéž, tedy je s ním logicky ekvivalentní?",
+  "options": [
+   "Jestliže Petr není v Česku, není v Brně.",
+   "Jestliže Petr není v Brně, není v Česku.",
+   "Jestliže je Petr v Česku, je v Brně.",
+   "Petr je v Brně právě tehdy, když je v Česku."
+  ],
+  "correct": 0,
+  "explanation": "Implikace „jestliže P, pak Q“ je ekvivalentní jen se svou obměnou (kontrapozicí) „jestliže ne-Q, pak ne-P“. Prohození stran (obrácení) i pouhé znegování obou stran (inverze) dávají výroky, které z původního neplynou. Ekvivalence by navíc tvrdila i opačný směr, který zjevně neplatí.",
+  "source": "klasická úloha na kontrapozici",
+  "seedElo": 1500
+ },
+ {
+  "id": "log-B03",
+  "type": "F",
+  "category": "logika",
+  "text": "Pět hasičů losuje, kdo půjde na noční službu. V ruce drží pět stébel, jedno z nich krátké; každý postupně vytáhne jedno stéblo a hned ho ukáže ostatním. Kdo vytáhne krátké, jde sloužit. Je z hlediska pravděpodobnosti výhodné táhnout jako první?",
+  "options": [
+   "Ano, první má nejmenší šanci vytáhnout krátké stéblo",
+   "Ne, všichni mají shodnou šanci 1/5 bez ohledu na pořadí",
+   "Ne, výhodné je táhnout až jako poslední z pěti hasičů",
+   "Ano, ale jen když se tažená stébla ostatním neukazují"
+  ],
+  "correct": 1,
+  "explanation": "Losování odpovídá náhodné permutaci pěti stébel a krátké stéblo je stejně pravděpodobně na kterékoli z pěti pozic. Před začátkem tedy každý hasič nese pravděpodobnost 1/5. Ukazování už tažených stébel mění jen průběžné podmíněné šance těch, kdo ještě netáhli, nikoli výchozí férovost losu.",
+  "source": "férové losování / symetrie permutací",
+  "seedElo": 1500
+ },
+ {
+  "id": "log-C03",
+  "type": "F",
+  "category": "logika",
+  "text": "Turingův výsledek o problému zastavení říká, že:",
+  "options": [
+   "žádný program se nedokáže sám ukončit bez zásahu operačního systému",
+   "existují programy, u nichž nikdy nezjistíme, zda se zastaví, ani pokusem",
+   "neexistuje algoritmus, který o každém programu a vstupu rozhodne zastavení",
+   "každý dostatečně dlouhý program se dříve či později zacyklí donekonečna"
+  ],
+  "correct": 2,
+  "explanation": "Důkaz je diagonální: kdyby univerzální rozhodovač H existoval, sestrojíme program, který se zeptá H na sebe sama a udělá pravý opak. U mnoha konkrétních programů zastavení rozhodnout umíme; nemožná je jen obecná metoda fungující na všechny případy.",
+  "source": "Alan Turing, On Computable Numbers (1936)",
+  "seedElo": 1500
  },
  {
   "id": "log-08",
@@ -128,6 +256,22 @@
   "seedElo": 1510
  },
  {
+  "id": "log-C04",
+  "type": "F",
+  "category": "logika",
+  "text": "První Gödelova věta o neúplnosti tvrdí, že v každé bezesporné, rekurzivně axiomatizované teorii dostatečně silné pro aritmetiku:",
+  "options": [
+   "je alespoň jedno z jejích axiomatických tvrzení nutně nepravdivé",
+   "nelze dokázat vůbec žádné netriviální tvrzení o přirozených číslech",
+   "je vždy možné najít spor, stačí v ní hledat dostatečně dlouhou dobu",
+   "existuje tvrzení, které v ní nelze ani dokázat, ani vyvrátit"
+  ],
+  "correct": 3,
+  "explanation": "Věta mluví o formálních systémech, ne o poznání obecně: pro každý takový systém existuje věta nerozhodnutelná právě v něm. Předpoklady jsou podstatné — bezespornost, rekurzivně vyčíslitelná množina axiomů a dostatečná aritmetická síla. Nerozhodnutelnou větu lze zpravidla dokázat v silnější teorii.",
+  "source": "Kurt Gödel, Über formal unentscheidbare Sätze (1931)",
+  "seedElo": 1530
+ },
+ {
   "id": "log-09",
   "type": "F",
   "category": "logika",
@@ -142,6 +286,70 @@
   "explanation": "Mince rozdělíte na tři skupiny (3, 3, 2) a porovnáte dvě trojice. Podle výsledku zúžíte podezřelou skupinu na nejvýše 3 mince a druhým vážením mezi nimi najdete tu falešnou. Jedno vážení by stačilo jen na maximálně 3 mince, proto jsou potřeba dvě.",
   "source": "klasická úloha o vážení mincí",
   "seedElo": 1540
+ },
+ {
+  "id": "log-A03",
+  "type": "F",
+  "category": "logika",
+  "text": "Platí pravidlo: „Kdo složí zkoušku, postoupí do druhého kola.“ Jan zkoušku nesložil. Co z toho logicky plyne?",
+  "options": [
+   "Jan do druhého kola určitě nepostoupil.",
+   "Jan do druhého kola postoupil jinou cestou.",
+   "Ze zadání o Janově postupu neplyne vůbec nic.",
+   "Jan zkoušku složit mohl, ale nechtěl postoupit."
+  ],
+  "correct": 2,
+  "explanation": "Pravidlo říká jen to, že složení zkoušky postup zaručuje; neříká, že je jeho jedinou cestou. Usuzovat z popřeného antecedentu na popřený konsekvent je klasický klam (popření antecedentu). Jan tedy mohl postoupit i jinak, nebo taky nemusel — zadání to nerozhoduje.",
+  "source": "logický klam: popření antecedentu",
+  "seedElo": 1550
+ },
+ {
+  "id": "log-A32",
+  "type": "F",
+  "category": "logika",
+  "text": "Recepční řekla: „Nemáme volný pokoj ani parkovací místo.“ Který výrok je s tím logicky ekvivalentní?",
+  "options": [
+   "Není pravda, že mají volný pokoj a zároveň místo.",
+   "Mají buď volný pokoj, anebo parkovací místo.",
+   "Nemají volný pokoj, ale parkovací místo mají.",
+   "Není pravda, že mají volný pokoj nebo místo."
+  ],
+  "correct": 3,
+  "explanation": "Vazba „ani — ani“ je konjunkce dvou negací, tedy nemají pokoj a zároveň nemají místo. De Morganův zákon říká, že to je totéž jako negace disjunkce: není pravda, že mají to nebo ono. Negace konjunkce je naopak slabší tvrzení — připouštěla by, že jednu z obou věcí mají.",
+  "source": "De Morganovy zákony",
+  "seedElo": 1550
+ },
+ {
+  "id": "log-B04",
+  "type": "F",
+  "category": "logika",
+  "text": "Nemoc má jedno procento populace. Test ji odhalí u každého nemocného (senzitivita sto procent), ale u pěti procent zdravých vyjde falešně pozitivní. Náhodně vybranému člověku z populace, o kterém nic dalšího nevíte, vyjde test pozitivně. Jaká je pravděpodobnost, že je opravdu nemocný?",
+  "options": [
+   "Přibližně 95 procent",
+   "Přibližně 50 procent",
+   "Přibližně 5 procent",
+   "Přibližně 17 procent"
+  ],
+  "correct": 3,
+  "explanation": "Z deseti tisíc lidí je sto nemocných a všichni vyjdou pozitivně. Ze zbylých 9 900 zdravých vyjde falešně pozitivně 495 lidí. Pozitivních je tedy 595 a skutečně nemocných mezi nimi 100, což je 100/595 ≈ 16,8 procenta.",
+  "source": "Bayesova věta / falešná pozitivita",
+  "seedElo": 1550
+ },
+ {
+  "id": "log-C05",
+  "type": "F",
+  "category": "logika",
+  "text": "Jádrem paradoxu hromady (sorites) je:",
+  "options": [
+   "že hromadu nelze definovat, protože zrna nemají pevný tvar ani hmotnost",
+   "že každé jednotlivé odebrání zrna vypadá neškodně, jejich součet ne",
+   "že hromada zrn není fyzikální objekt, nýbrž pouhá jazyková zkratka",
+   "že různí lidé odhadují počet zrn v téže hromadě dost odlišně"
+  ],
+  "correct": 1,
+  "explanation": "Z pravdivé premisy „milion zrn je hromada“ a zdánlivě nevinného kroku „odebrání jednoho zrna hromadu nezruší“ dojdeme k závěru, že hromadou je i jedno zrno. Vinu nese vágnost predikátu: buď existuje ostrá, ale nepoznatelná hranice (epistemicismus), nebo krokové pravidlo neplatí přesně.",
+  "source": "Eubúlidés z Milétu; moderní diskuse Timothy Williamson",
+  "seedElo": 1550
  },
  {
   "id": "log-10",
@@ -176,6 +384,134 @@
   "seedElo": 1600
  },
  {
+  "id": "log-A05",
+  "type": "F",
+  "category": "logika",
+  "text": "Šéf řekl: „Není pravda, že Anna přišla včas a zároveň odevzdala report.“ Co z toho plyne o Anně?",
+  "options": [
+   "Buď nepřišla včas, nebo neodevzdala report (či obojí).",
+   "Anna nepřišla včas a report vůbec neodevzdala.",
+   "Anna přišla pozdě, ale report přesto odevzdala.",
+   "Anna přišla včas, jenže ten report neodevzdala."
+  ],
+  "correct": 0,
+  "explanation": "Podle De Morganova zákona se negace konjunkce mění na disjunkci negací: ne(P a Q) je totéž co (ne-P nebo ne-Q). Selhat tedy musela aspoň v jedné věci, ale zadání neurčuje ve které. Typickou chybou je znegovat obě části a spojku „a“ přitom ponechat.",
+  "source": "De Morganovy zákony",
+  "seedElo": 1600
+ },
+ {
+  "id": "log-A06",
+  "type": "F",
+  "category": "logika",
+  "text": "Na stole leží čtyři karty; každá má na jedné straně číslo a na druhé barvu. Vidíte: 3, 8, červenou, hnědou. Pravidlo zní: „Má-li karta na jedné straně sudé číslo, je na druhé straně červená.“ Které karty musíte otočit, abyste pravidlo ověřili?",
+  "options": [
+   "Kartu 8 a kartu červenou.",
+   "Kartu 8 a kartu hnědou.",
+   "Kartu 3 a kartu hnědou.",
+   "Kartu 8, červenou i hnědou."
+  ],
+  "correct": 1,
+  "explanation": "Pravidlo je implikace „sudé, tedy červené“ a vyvrátí ji jedině karta sudá a nečervená. Osmičku je nutné otočit (mohla by být nečervená) a hnědou také (mohla by mít sudé číslo — to je test kontrapozice). Trojka je lichá, takže pravidlo neomezuje, a červená karta ho nemůže porušit ať má na rubu cokoli.",
+  "source": "Wasonova selekční úloha",
+  "seedElo": 1600
+ },
+ {
+  "id": "log-A31",
+  "type": "F",
+  "category": "logika",
+  "text": "Trenér varuje: „Stačí jediná chyba a přijdeš o titul.“ Který výrok tomu logicky odpovídá?",
+  "options": [
+   "Chyba je nutnou podmínkou ztráty titulu.",
+   "Bez chyby titul rozhodně neztratíš, nikdy.",
+   "Chyba je postačující podmínkou ztráty titulu.",
+   "Titul ztratíš právě tehdy, uděláš-li chybu."
+  ],
+  "correct": 2,
+  "explanation": "Slovo „stačí“ zavádí postačující podmínku: chyba implikuje ztrátu titulu. Neříká se ale, že je to jediná cesta ke ztrátě — o titul můžeš přijít i bez chyby, třeba diskvalifikací. Číst větu jako nutnou podmínku nebo rovnou jako ekvivalenci znamená přidat si informaci, která v zadání není.",
+  "source": "nutná vs. postačující podmínka",
+  "seedElo": 1600
+ },
+ {
+  "id": "log-B06",
+  "type": "F",
+  "category": "logika",
+  "text": "Trenér chválí sportovce po jejich nejlepších výkonech a kárá je po nejhorších. Dlouhodobě pozoruje, že po chvále výkon zpravidla klesne a po kritice zpravidla stoupne. Jaké je nejstřízlivější vysvětlení tohoto pozorování?",
+  "options": [
+   "Chvála otupuje motivaci, kritika naopak sportovce nabudí",
+   "Extrémní výkony obsahují náhodu, další se vrací k průměru",
+   "Sportovci se po pochvale spoléhají na dosaženou pověst",
+   "Trenér měří výkony metodou, která systematicky nadhodnocuje"
+  ],
+  "correct": 1,
+  "explanation": "Každý výkon je součtem stabilní schopnosti a náhodného kolísání. Mimořádně dobrý výkon je obvykle provázen příznivou náhodou, která se příště neopakuje, takže následující výkon leží blíž průměru — a symetricky po nejhorším výkonu. Regrese k průměru se objeví i tehdy, kdyby trenérovy reakce neměly vůbec žádný účinek.",
+  "source": "regrese k průměru",
+  "seedElo": 1600
+ },
+ {
+  "id": "log-B08",
+  "type": "F",
+  "category": "logika",
+  "text": "Ve třídě je třicet žáků. Fotbal hraje osmnáct z nich, basketbal patnáct a přesně pět žáků nehraje ani jeden z těchto dvou sportů. Kolik žáků hraje oba sporty?",
+  "options": [
+   "Tři žáci",
+   "Pět žáků",
+   "Osm žáků",
+   "Deset žáků"
+  ],
+  "correct": 2,
+  "explanation": "Aspoň jeden sport hraje 30 − 5 = 25 žáků. Podle principu inkluze a exkluze platí 18 + 15 − |oba| = 25, tedy |oba| = 8. Odpověď „tři\" vzniká typickou chybou: zapomene se na pětici nehrajících a odečte se rovnou třicet.",
+  "source": "princip inkluze a exkluze",
+  "seedElo": 1600
+ },
+ {
+  "id": "log-B10",
+  "type": "F",
+  "category": "logika",
+  "text": "Hodím dvěma rozlišitelnými kostkami tak, že výsledek nevidíte. Předem je domluveno, že vám sdělím jedinou informaci: zda padla aspoň jedna šestka. Sdělím vám pravdivě, že aspoň jedna šestka padla. Jaká je pravděpodobnost, že padly šestky obě?",
+  "options": [
+   "Pravděpodobnost 1/11",
+   "Pravděpodobnost 1/6",
+   "Pravděpodobnost 1/12",
+   "Pravděpodobnost 1/36"
+  ],
+  "correct": 0,
+  "explanation": "Z 36 stejně pravděpodobných výsledků obsahuje aspoň jednu šestku jedenáct z nich (6 + 6 − 1). Dvojnásobná šestka je mezi nimi jediná, takže podmíněná pravděpodobnost je 1/11. Odpověď 1/6 by platila jen tehdy, kdyby bylo řečeno, že šestku ukazuje jedna předem určená kostka.",
+  "source": "podmíněná pravděpodobnost",
+  "seedElo": 1600
+ },
+ {
+  "id": "log-C06",
+  "type": "F",
+  "category": "logika",
+  "text": "Berryho paradox pracuje s výrazem „nejmenší číslo, které nelze popsat méně než třinácti slovy“. Kde je potíž?",
+  "options": [
+   "Takových čísel je nekonečně mnoho, výraz proto neurčuje ani jedno",
+   "Slova jako „popsat“ nemají v matematice žádnou pevnou definici",
+   "Číslo vyjde tak velké, že je nelze zapsat konečným počtem znaků",
+   "Sám ten výraz je kratším popisem, než jaký tomu číslu přisuzuje"
+  ],
+  "correct": 3,
+  "explanation": "Popisů kratších než třináct slov je konečně mnoho, takové číslo tedy existuje — jenže samotný citovaný výraz je popis kratší, takže číslo popisuje i nepopisuje zároveň. Standardní rozuzlení: pojem „popsatelnost v jazyce“ nelze definovat uvnitř téhož jazyka. Chaitin z téhož jádra vytěžil důkaz o mezích Kolmogorovské složitosti.",
+  "source": "G. G. Berry, publikoval Russell (1908)",
+  "seedElo": 1600
+ },
+ {
+  "id": "log-C07",
+  "type": "F",
+  "category": "logika",
+  "text": "Grellingův paradox se ptá, zda je slovo „heterologické“ (= nepopisující samo sebe) heterologické. Výsledek:",
+  "options": [
+   "Je heterologické právě tehdy, když heterologické není — antinomie",
+   "Je autologické, protože každé české slovo popisuje samo sebe",
+   "Otázka nedává smysl, jelikož slova sama nemají vůbec žádné vlastnosti",
+   "Je heterologické, ovšem pouze v jazycích, které píší latinkou"
+  ],
+  "correct": 0,
+  "explanation": "„Krátké“ je krátké slovo, tedy autologické; „dlouhé“ dlouhé není, je heterologické. U samotného slova „heterologické“ obě odpovědi vedou k opaku sebe sama. Jde o sémantickou antinomii téhož typu jako lhář — řeší se rozlišením jazyka a metajazyka, ne opravou slovníku.",
+  "source": "Kurt Grelling a Leonard Nelson (1908)",
+  "seedElo": 1620
+ },
+ {
   "id": "log-12",
   "type": "F",
   "category": "logika",
@@ -190,6 +526,118 @@
   "explanation": "Pokud je výrok pravdivý, pak podle svého vlastního obsahu je nepravdivý - spor. Pokud je nepravdivý, pak to, co tvrdí (že je nepravdivý), platí, takže je pravdivý - opět spor. Sebeodkazování výrok uzamyká mimo obvyklé kategorie pravda/nepravda.",
   "source": "paradox lháře",
   "seedElo": 1630
+ },
+ {
+  "id": "log-C08",
+  "type": "F",
+  "category": "logika",
+  "text": "Za „paradoxy materiální implikace“ se označuje fakt, že:",
+  "options": [
+   "implikace je nepravdivá vždy, když spolu obě její části nijak nesouvisí",
+   "implikace mění pravdivost podle toho, v jakém pořadí ji přečteme",
+   "z nepravdivého předpokladu plyne cokoli a pravdivý závěr plyne odkudkoli",
+   "implikaci nelze zapsat pravdivostní tabulkou, na rozdíl od spojky „a“"
+  ],
+  "correct": 2,
+  "explanation": "Podmínka A → B je v klasické logice definována jen pravdivostními hodnotami, takže „je-li Měsíc ze sýra, pak 2+2=4“ vychází pravdivě. Odporuje to běžnému chápání podmínky jako souvislosti mezi obsahy. Relevantní a striktní implikace jsou pokusy tuto souvislost do logiky vrátit.",
+  "source": "C. I. Lewis, kritika Principia Mathematica",
+  "seedElo": 1640
+ },
+ {
+  "id": "log-A07",
+  "type": "F",
+  "category": "logika",
+  "text": "Detektiv usoudil: „Kdyby byl vrahem zahradník, měl by na botách hlínu. Podezřelý má na botách hlínu, tedy je vrahem zahradník.“ Kde je v úvaze chyba?",
+  "options": [
+   "Je to platná dedukce, chyba v ní žádná není.",
+   "Chybně popírá antecedent místo jeho potvrzení.",
+   "Chybně potvrzuje konsekvent a usuzuje na antecedent.",
+   "Chybně zaměnil nutnou podmínku za jedinou možnou."
+  ],
+  "correct": 2,
+  "explanation": "Z „P implikuje Q“ a z platnosti Q nelze usoudit na P — hlína na botách má spoustu jiných zdrojů. Jde o klam aserce (potvrzení) konsekventu, tedy o nedovolené obrácení implikace. Platné jsou jen modus ponens (z P na Q) a modus tollens (z ne-Q na ne-P).",
+  "source": "logický klam: aserce konsekventu",
+  "seedElo": 1650
+ },
+ {
+  "id": "log-A10",
+  "type": "F",
+  "category": "logika",
+  "text": "K výroku „Každý harmonikář je hudebník“ utvořte obměnu (kontrapozici). Která možnost to je?",
+  "options": [
+   "Kdo je hudebník, je také harmonikář.",
+   "Kdo není hudebník, není harmonikář.",
+   "Kdo není harmonikář, není hudebník.",
+   "Někteří hudebníci nejsou harmonikáři."
+  ],
+  "correct": 1,
+  "explanation": "Obměna vzniká prohozením obou částí a současným znegováním obou: z „každé P je Q“ dostaneme „každé ne-Q je ne-P“, a ta je s původním výrokem ekvivalentní. Pouhé obrácení (prohození bez negace) ani pouhá inverze (negace bez prohození) ekvivalenci nedávají. Poslední možnost je sice pravděpodobná, ze zadání ale neplyne.",
+  "source": "obměna vs. obrácení",
+  "seedElo": 1650
+ },
+ {
+  "id": "log-B07",
+  "type": "F",
+  "category": "logika",
+  "text": "V zemi se třemi tisíci okresy sledují výskyt vzácného nádoru. V žebříčku okresů s nejvyšším výskytem i v žebříčku s nejnižším výskytem se na předních místech objevují převážně okresy s malým počtem obyvatel. Co je nejpravděpodobnější příčinou?",
+  "options": [
+   "Malé okresy leží na venkově, kde je jiná skladba rizik",
+   "Ve velkých městech se nemoc diagnostikuje spolehlivěji",
+   "V malých okresech se nádory soustavně chybně vykazují",
+   "Malý vzorek kolísá víc, a tak obsadí oba konce žebříčku"
+  ],
+  "correct": 3,
+  "explanation": "Míra výskytu spočítaná z malého počtu lidí má velký rozptyl — jediný případ navíc s ní výrazně pohne. Extrémy žebříčku proto obsazují malé okresy na obou koncích současně, a to je podpis náhody, ne příčiny. Kdyby šlo o skutečný rizikový faktor venkova, převažovaly by malé okresy jen na jednom konci.",
+  "source": "zákon malých čísel / náhodné shluky",
+  "seedElo": 1650
+ },
+ {
+  "id": "log-B11",
+  "type": "F",
+  "category": "logika",
+  "text": "Na stole leží 21 kamínků. Hráči se střídají a každý si v tahu vezme jeden, dva nebo tři kamínky. Vyhrává ten, kdo vezme poslední kamínek. Kdo vyhraje při optimální hře obou hráčů?",
+  "options": [
+   "Druhý hráč; stačí mu dorovnávat soupeře do čtyř",
+   "První hráč, ale jen když začne třemi kamínky",
+   "První hráč; vezme jeden a pak dorovnává do čtyř",
+   "Nikdo; při optimální hře skončí partie nerozhodně"
+  ],
+  "correct": 2,
+  "explanation": "Prohrávající jsou právě ty pozice, kde je na tahu hráč a zbývá násobek čtyř. Protože 21 = 4·5 + 1, vezme první hráč jeden kamínek, nechá dvacet a poté vždy doplní soupeřův tah do čtyř. Soupeř tak dostává 16, 12, 8, 4 a nakonec nulu.",
+  "source": "hra Nim s omezeným odběrem",
+  "seedElo": 1650
+ },
+ {
+  "id": "log-B12",
+  "type": "F",
+  "category": "logika",
+  "text": "V teorii her se říká, že jedna z hráčových strategií je striktně dominantní. Co přesně to znamená?",
+  "options": [
+   "Vede k nejlepšímu možnému výsledku ze všech dvojic tahů",
+   "Je nejlepší odpovědí na tah, který soupeř nejspíš zvolí",
+   "Zaručuje hráči aspoň takový zisk, jaký si odnese soupeř",
+   "Je lepší než každá jiná jeho strategie, ať soupeř udělá cokoli"
+  ],
+  "correct": 3,
+  "explanation": "Striktní dominance se posuzuje po sloupcích: pro každou možnou volbu soupeře přináší tato strategie hráči striktně vyšší výplatu než kterákoli jeho alternativa. Nevyžaduje tedy žádný odhad soupeřova chování. Zároveň ale nezaručuje globálně nejlepší výsledek — v dilematech vede dominantní hra obou stran ke společně horšímu konci.",
+  "source": "teorie her / dominantní strategie",
+  "seedElo": 1650
+ },
+ {
+  "id": "log-C09",
+  "type": "F",
+  "category": "logika",
+  "text": "Jaký je status hypotézy kontinua vůči axiomům ZFC?",
+  "options": [
+   "Byla dokázána Cantorem, jeho důkaz byl však dlouho přehlížen a ztracen",
+   "Byla vyvrácena, mezi N a R skutečně existuje mezilehlá mohutnost",
+   "Je nezávislá: Gödel ukázal bezespornost, Cohen nedokazatelnost",
+   "Zůstává otevřeným problémem, na jehož vyřešení je vypsána odměna"
+  ],
+  "correct": 2,
+  "explanation": "Gödel roku 1940 ukázal, že hypotézu kontinua nelze z ZFC vyvrátit, Cohen roku 1963 metodou forcingu, že ji nelze dokázat. ZFC tedy otázku „existuje mohutnost mezi N a R?“ nerozhoduje. Zda je tím věc uzavřena, nebo je třeba hledat nové axiomy, je dodnes filosofický spor.",
+  "source": "Kurt Gödel (1940), Paul Cohen (1963)",
+  "seedElo": 1650
  },
  {
   "id": "log-13",
@@ -208,6 +656,38 @@
   "seedElo": 1660
  },
  {
+  "id": "log-C10",
+  "type": "F",
+  "category": "logika",
+  "text": "Moorův paradox se týká vět typu „Prší, ale já tomu nevěřím.“ Taková věta:",
+  "options": [
+   "může být pravdivá, přesto ji nelze smysluplně upřímně vyslovit",
+   "je logicky sporná, protože tvrdí i popírá jednu a tutéž věc",
+   "je vždy nepravdivá, neboť mluvčí zná počasí ze své vlastní zkušenosti",
+   "je pravdivá jen tehdy, pokud mluvčí zároveň lže o svém stavu"
+  ],
+  "correct": 0,
+  "explanation": "Nejde o logický spor: klidně může pršet a já tomu nevěřit, o třetí osobě to řekneme bez potíží. Rozpor je pragmatický — tvrzením se zavazuji k víře v to, co tvrdím, a druhá půlka věty tento závazek popírá. Wittgenstein v tom viděl Moorův nejzajímavější objev.",
+  "source": "G. E. Moore (1942)",
+  "seedElo": 1660
+ },
+ {
+  "id": "log-C12",
+  "type": "F",
+  "category": "logika",
+  "text": "Co znamená, že je logický kalkul korektní (sound) a úplný (complete)?",
+  "options": [
+   "Korektní = dokáže vše platné; úplný = nedokáže nic neplatného",
+   "Korektní = nedokáže nic neplatného; úplný = dokáže vše platné",
+   "Korektní = má konečně mnoho axiomů; úplný = rozhodne každou formuli",
+   "Korektní = je bezesporný; úplný = obsahuje všechny možné jazyky"
+  ],
+  "correct": 1,
+  "explanation": "Korektnost je bezpečnost: co odvodíš, to opravdu sémanticky platí (⊢ implikuje ⊨). Úplnost je síla: co platí ve všech modelech, to jde i odvodit (⊨ implikuje ⊢). Pozor na záměnu s úplností teorie, tedy s tím, že teorie rozhoduje každou větu svého jazyka — to je jiný pojem.",
+  "source": "standardní metalogika",
+  "seedElo": 1680
+ },
+ {
   "id": "log-14",
   "type": "F",
   "category": "logika",
@@ -222,6 +702,150 @@
   "explanation": "Paradox neřeší fyzikální otázku, ale pojmovou: co vlastně činí objekt 'týmž' objektem v čase - kontinuita tvaru a funkce, nebo totožnost hmoty. Různá kritéria identity vedou k různým, stejně obhajitelným odpovědím, a proto zde neexistuje jedna nesporná pravda, jen volba kritéria.",
   "source": "loď Theseova",
   "seedElo": 1690
+ },
+ {
+  "id": "log-C13",
+  "type": "F",
+  "category": "logika",
+  "text": "Jak standardní teorie množin ZF blokuje Russellův paradox?",
+  "options": [
+   "Zakazuje množinám mít nekonečně mnoho prvků, spor tak nevznikne",
+   "Prohlašuje spornou množinu za pravdivou i nepravdivou zároveň",
+   "Zavádí třetí pravdivostní hodnotu pro tvrzení o sebepříslušnosti",
+   "Připouští vydělovat podmnožiny jen z už existující množiny"
+  ],
+  "correct": 3,
+  "explanation": "Axiom vydělení (separace) nahrazuje naivní princip „ke každé vlastnosti existuje množina“: vlastností lze pouze prořezávat množinu, kterou už máme. Russellova konstrukce pak z libovolné množiny M vyrobí objekt, jenž do M nepatří — místo sporu dostaneme důkaz, že univerzum množinou není.",
+  "source": "Ernst Zermelo (1908), Abraham Fraenkel",
+  "seedElo": 1690
+ },
+ {
+  "id": "log-A09",
+  "type": "F",
+  "category": "logika",
+  "text": "Před vámi jsou dvoje dveře, jedny vedou ke svobodě. Hlídá je jediný strážce, o kterém víte jen to, že buď vždy mluví pravdu, nebo vždy lže. Strážce zná správné dveře a vy smíte položit jedinou otázku s odpovědí ano/ne. Která otázka vám spolehlivě odhalí správné dveře?",
+  "options": [
+   "„Kdybych se zeptal, zda levé vedou ke svobodě, řekl bys ano?“",
+   "„Vedou levé dveře přímo ke svobodě?“ — ano znamená levé.",
+   "„Jsi ty pravdomluvný strážce?“ — ano znamená levé dveře.",
+   "„Víš dobře, které dveře vedou ke svobodě?“ — ano je levé."
+  ],
+  "correct": 0,
+  "explanation": "Vnořená otázka nutí strážce lhát dvakrát, a dvě lži se navzájem vyruší. Pravdomluvný odpoví „ano“ právě když levé dveře vedou ke svobodě; lhář by na přímou otázku odpověděl „ne“, ale o téhle své odpovědi zase zalže a řekne „ano“. Obě role tedy dávají stejnou odpověď a „ano“ znamená levé dveře.",
+  "source": "klasická úloha o strážci",
+  "seedElo": 1700
+ },
+ {
+  "id": "log-A11",
+  "type": "F",
+  "category": "logika",
+  "text": "Víme dvě věci: „Všichni členové spolku platí příspěvky“ a „Někteří studenti platí příspěvky“. Co z toho plyne o vztahu studentů a spolku?",
+  "options": [
+   "Někteří studenti jsou členy spolku.",
+   "Žádný student není členem spolku.",
+   "O vztahu studentů a spolku neplyne nic.",
+   "Všichni studenti jsou členy spolku."
+  ],
+  "correct": 2,
+  "explanation": "Střední pojem „platí příspěvky“ není ani v jedné premise vzat v celém rozsahu, takže sylogismus je neplatný (klam nerozloženého středu). Příspěvky mohou platit i lidé mimo spolek, a právě mezi ně mohou spadat všichni ti studenti. Stejně dobře ale mohou být členy — zadání to nerozhodne ani jedním směrem.",
+  "source": "klamný sylogismus: nerozložený střed",
+  "seedElo": 1700
+ },
+ {
+  "id": "log-A12",
+  "type": "F",
+  "category": "logika",
+  "text": "Novinář napsal: „Někteří poslanci nehlasovali.“ Který výrok je přesnou negací této věty?",
+  "options": [
+   "Někteří poslanci hlasovali.",
+   "Žádný poslanec nehlasoval.",
+   "Ne všichni poslanci hlasovali.",
+   "Všichni poslanci hlasovali."
+  ],
+  "correct": 3,
+  "explanation": "Věta tvrdí, že existuje aspoň jeden poslanec, který nehlasoval. Její negace popírá tuto existenci, tedy tvrdí, že žádný takový není — a to znamená, že hlasovali všichni. Výroky o „některých, kteří hlasovali“ mohou platit současně s původní větou, takže jejími negacemi být nemohou.",
+  "source": "negace existenčního kvantifikátoru",
+  "seedElo": 1700
+ },
+ {
+  "id": "log-A14",
+  "type": "F",
+  "category": "logika",
+  "text": "Je ve výrokové logice pravdivý výrok „Jestliže je Praha v Asii, pak je Měsíc ze sýra“?",
+  "options": [
+   "Ne, je nepravdivá, protože Měsíc ze sýra rozhodně není.",
+   "Ano, ve výrokové logice je pravdivá, protože antecedent neplatí.",
+   "Ne, nelze o ní rozhodnout, obě části jsou nepravdivé.",
+   "Ano, ale pouze kdyby obě části výroku byly pravdivé."
+  ],
+  "correct": 1,
+  "explanation": "Materiální implikace je nepravdivá v jediném případě: když antecedent platí a konsekvent ne. Praha v Asii není, antecedent je tedy nepravdivý a implikace vychází pravdivá bez ohledu na Měsíc. Odtud rčení, že z nepravdy plyne cokoli — což je vlastnost logické spojky, ne tvrzení o věcné souvislosti.",
+  "source": "materiální implikace, tabulka pravdivosti",
+  "seedElo": 1700
+ },
+ {
+  "id": "log-B15",
+  "type": "F",
+  "category": "logika",
+  "text": "Ve městě je 85 procent taxíků zelených a 15 procent modrých. Svědek noční nehody označí barvu taxíku správně v osmdesáti procentech případů a ve dvaceti se splete, a to v obou směrech stejně. Svědek tvrdí, že vinný taxík byl modrý. Jaká je pravděpodobnost, že byl skutečně modrý?",
+  "options": [
+   "Zhruba 80 %",
+   "Zhruba 15 %",
+   "Zhruba 41 %",
+   "Zhruba 12 %"
+  ],
+  "correct": 2,
+  "explanation": "Ze sta taxíků označí svědek jako modrých 15·0,8 = 12 skutečně modrých a 85·0,2 = 17 zelených. Modrých je tedy mezi označenými 12 z 29, což je asi 41 procent. Odpověď osmdesát procent ignoruje základní míru výskytu a bere v úvahu jen spolehlivost svědka.",
+  "source": "base rate neglect / úloha o taxících",
+  "seedElo": 1700
+ },
+ {
+  "id": "log-B16",
+  "type": "F",
+  "category": "logika",
+  "text": "Předpokládejme pro jednoduchost, že narození připadá na každý z dvanácti měsíců se stejnou pravděpodobností a lidé jsou navzájem nezávislí. Kolik nejméně lidí musí být ve skupině, aby pravděpodobnost, že aspoň dva z nich mají narozeniny ve stejném měsíci, přesáhla jednu polovinu?",
+  "options": [
+   "Čtyři lidé",
+   "Šest lidí",
+   "Sedm lidí",
+   "Pět lidí"
+  ],
+  "correct": 3,
+  "explanation": "Pro čtyři lidi je pravděpodobnost samých různých měsíců (12·11·10·9)/12⁴ ≈ 0,573, takže shoda nastane jen ve zhruba 43 procentech případů. U pěti lidí klesne pravděpodobnost různých měsíců na ≈ 0,382 a shoda má tedy asi 62 procent. Hranice jedné poloviny se překročí právě u pěti lidí.",
+  "source": "narozeninová úloha (varianta s měsíci)",
+  "seedElo": 1700
+ },
+ {
+  "id": "log-C14",
+  "type": "F",
+  "category": "logika",
+  "text": "V čem se liší Zenónův Achilles se želvou od argumentu dichotomie?",
+  "options": [
+   "Achilles řeší nekonečné dělení času, dichotomie dělení prostoru",
+   "Achilles je o pohybu dvou těles, dichotomie o klidu jednoho tělesa",
+   "Dichotomie nemá první krok, Achilles ano — dělení jde opačně",
+   "Achilles předpokládá konečnou rychlost, dichotomie nekonečnou"
+  ],
+  "correct": 2,
+  "explanation": "Achilles má jasný první úsek (doběhnout tam, kde želva byla), ale žádný poslední — posloupnost se hromadí ke konci. Dichotomie v regresivní podobě naopak nemá žádný první úsek, protože před polovinou je čtvrtina a tak dál; potíž je se začátkem pohybu, ne s jeho dokončením.",
+  "source": "Zenón z Eleje, podle Aristotelovy Fyziky",
+  "seedElo": 1700
+ },
+ {
+  "id": "log-C15",
+  "type": "F",
+  "category": "logika",
+  "text": "Newcombův problém staví do sporu dva principy rozhodování. Které?",
+  "options": [
+   "Princip maximální užitečnosti proti principu minimální lítosti",
+   "Kauzální rozhodování proti evidenčnímu — dominance proti korelaci",
+   "Bayesovskou aktualizaci proti frekventistickému odhadu četností",
+   "Individuální racionalitu proti kolektivní, jako u sdílení zdrojů"
+  ],
+  "correct": 1,
+  "explanation": "Dominance říká: obsah krabic je už daný, vzít obě je za všech okolností o tisíc lepší. Evidenční úvaha říká: volba jedné krabice je silnou známkou toho, že v ní milion je. Spor je o to, zda má rozhodování sledovat kauzální vliv volby, nebo jen její vypovídací hodnotu.",
+  "source": "William Newcomb; publikoval Robert Nozick (1969)",
+  "seedElo": 1700
  },
  {
   "id": "log-15",
@@ -256,6 +880,134 @@
   "seedElo": 1750
  },
  {
+  "id": "log-A13",
+  "type": "F",
+  "category": "logika",
+  "text": "Na ostrově rytířů (vždy pravda) a lhářů (vždy lež) potkáte tři obyvatele. A říká: „Všichni tři jsme lháři.“ B říká: „Právě jeden z nás tří je rytíř.“ Kdo je kdo?",
+  "options": [
+   "A je lhář, B rytíř a C lhář.",
+   "A je lhář, B lhář a C rytíř.",
+   "A je lhář, B rytíř a C rytíř.",
+   "Situace nemá jednoznačné řešení."
+  ],
+  "correct": 0,
+  "explanation": "A nemůže být rytíř, protože by tvrdil, že sám je lhář; A je tedy lhář a jeho výrok je nepravdivý, takže aspoň jeden z B a C je rytíř. Kdyby byl B lhář, byl by rytířem jedině C, jenže pak by B tvrdil pravdu — spor. B je tedy rytíř, jeho výrok platí, a protože rytíř je právě jeden, musí být C lhář.",
+  "source": "Smullyan, rytíři a lháři",
+  "seedElo": 1750
+ },
+ {
+  "id": "log-A17",
+  "type": "F",
+  "category": "logika",
+  "text": "Vyučující prohlásil: „Není pravda, že každý student, který přišel, dostal zápočet.“ Co z toho plyne?",
+  "options": [
+   "Existuje student, který přišel a zápočet nedostal.",
+   "Žádný student, který přišel, zápočet nedostal.",
+   "Existuje student, který nepřišel a zápočet dostal.",
+   "Každý student, který přišel, zápočet nedostal."
+  ],
+  "correct": 0,
+  "explanation": "Původní věta je obecný výrok o implikaci, a jeho negace je existenční výrok, v němž se implikace rozpadne na konjunkci: existuje někdo, kdo splnil předpoklad a nesplnil závěr. Stačí tedy jediný student, který přišel a zápočet nemá. Silná tvrzení o všech příchozích jsou mnohem víc, než negace vyžaduje.",
+  "source": "negace obecného výroku s implikací",
+  "seedElo": 1750
+ },
+ {
+  "id": "log-B14",
+  "type": "F",
+  "category": "logika",
+  "text": "Paní Svobodová má právě dvě děti, každé nezávisle chlapec nebo dívka s pravděpodobností jedna polovina. Zeptáte se jí: „Je aspoň jedno z vašich dvou dětí chlapec?\" Odpoví pravdivě ano. Jaká je pravděpodobnost, že jsou obě děti chlapci?",
+  "options": [
+   "Šance je jedna třetina",
+   "Šance je jedna polovina",
+   "Šance je jedna čtvrtina",
+   "Šance jsou dvě třetiny"
+  ],
+  "correct": 0,
+  "explanation": "Odpověď ano vyloučí jedinou ze čtyř stejně pravděpodobných možností CC, CD, DC a DD, totiž DD. Zbylé tři zůstávají stejně pravděpodobné a jen v jedné z nich jsou dva chlapci, takže výsledek je 1/3. Rozdíl oproti náhodnému setkání s chlapcem je v tom, že tady otázka mířila cíleně na existenci chlapce.",
+  "source": "problém dvou dětí (cílený dotaz)",
+  "seedElo": 1750
+ },
+ {
+  "id": "log-B17",
+  "type": "F",
+  "category": "logika",
+  "text": "Uvažujme rok o 365 dnech a nezávislé lidi s rovnoměrně rozdělenými narozeninami. Kolik nejméně náhodně oslovených lidí potřebujete, aby pravděpodobnost, že aspoň jeden z nich má narozeniny přesně ve stejný den jako vy, přesáhla jednu polovinu?",
+  "options": [
+   "183 lidí",
+   "253 lidí",
+   "23 lidí",
+   "365 lidí"
+  ],
+  "correct": 1,
+  "explanation": "Pravděpodobnost, že se s vaším dnem netrefí nikdo z n lidí, je (364/365)ⁿ. Hledáme nejmenší n, pro které je tato hodnota pod jednou polovinou, tedy n > ln(0,5)/ln(364/365) ≈ 252,65. Odpověď je 253; číslo 23 platí pro shodu libovolné dvojice ve skupině, nikoli pro shodu s vámi.",
+  "source": "narozeninová úloha (shoda s konkrétním dnem)",
+  "seedElo": 1750
+ },
+ {
+  "id": "log-B18",
+  "type": "F",
+  "category": "logika",
+  "text": "Ze šachovnice 8×8 odřízneme dvě protilehlá rohová políčka, například a1 a h8, takže zbude 62 polí. Lze je beze zbytku pokrýt 31 kostkami domina, z nichž každá zakryje právě dvě políčka sousedící stranou?",
+  "options": [
+   "Ne, oba odříznuté rohy mají stejnou barvu a bilance nesedí",
+   "Ano, pokrytí existuje, ale je nutné začít od středu desky",
+   "Ano, počet políček je sudý, takže pokrytí vždy existuje",
+   "Ne, protože 62 není beze zbytku dělitelné dvěma a pole zbyde"
+  ],
+  "correct": 0,
+  "explanation": "Každá kostka domina zakryje vždy jedno bílé a jedno černé políčko, takže 31 kostek potřebuje přesně 31 bílých a 31 černých polí. Protilehlé rohy šachovnice ale mají stejnou barvu, a po jejich odříznutí zbyde 32 polí jedné barvy a 30 druhé. Barevná parita je invariant, který pokrytí vylučuje.",
+  "source": "invariant / okleštěná šachovnice",
+  "seedElo": 1750
+ },
+ {
+  "id": "log-B19",
+  "type": "F",
+  "category": "logika",
+  "text": "Kdy je dvojice zvolených strategií ve hře dvou hráčů Nashovou rovnováhou?",
+  "options": [
+   "Když je součet výplat obou hráčů co největší možný",
+   "Když si oba hráči odnesou stejně velkou výplatu ze hry",
+   "Když si žádný z nich nepolepší, změní-li strategii sám",
+   "Když je výsledek pro oba hráče lepší než všechny ostatní"
+  ],
+  "correct": 2,
+  "explanation": "Rovnováha je test jednostranné odchylky: každý hráč se ptá, zda by při nezměněné volbě soupeře získal jinou strategií víc. Pokud je odpověď u obou ne, je dvojice v rovnováze. S efektivitou to nemá nic společného — rovnovážný výsledek může být pro oba horší než jiná dosažitelná dvojice.",
+  "source": "teorie her / Nashova rovnováha",
+  "seedElo": 1750
+ },
+ {
+  "id": "log-B20",
+  "type": "F",
+  "category": "logika",
+  "text": "Máte minci, o níž víte jen to, že líc na ní padá s neznámou pravděpodobností p někde mezi nulou a jedničkou, a že jednotlivé hody jsou nezávislé. Jak s ní vyrobit dokonale férové rozhodnutí mezi dvěma lidmi?",
+  "options": [
+   "Hodit stokrát a rozhodnout podle toho, čeho padlo víc",
+   "Hodit jednou; při neznámém p je každý výsledek stejně možný",
+   "Střídat hráče v hodech, dokud jeden z nich nehodí líc jako první",
+   "Házet po dvojicích: líc-rub určí A, rub-líc B, shodu opakovat"
+  ],
+  "correct": 3,
+  "explanation": "Dvojice hodů líc-rub a rub-líc mají obě pravděpodobnost p(1 − p), tedy přesně stejnou, ať je p jakékoli. Když padne shoda, tedy líc-líc nebo rub-rub, dvojici zahodíme a házíme znovu. Procedura skončí s pravděpodobností jedna a je férová pro každé p kromě krajních hodnot nula a jedna.",
+  "source": "von Neumannovo férování mince",
+  "seedElo": 1750
+ },
+ {
+  "id": "log-C17",
+  "type": "F",
+  "category": "logika",
+  "text": "Komu Russell roku 1902 poslal dopis s paradoxem a jaké dílo tím zasáhl?",
+  "options": [
+   "Gottlobu Fregemu, právě tisknutý druhý díl Základních zákonů aritmetiky",
+   "Davidu Hilbertovi, jeho program úplné formalizace veškeré matematiky",
+   "Georgu Cantorovi, jeho teorii transfinitních ordinálních čísel",
+   "Giuseppe Peanovi, jeho axiomatiku aritmetiky přirozených čísel"
+  ],
+  "correct": 0,
+  "explanation": "Frege v doslovu přiznal, že se mu pod rukama zhroutil základní kámen stavby — jeho Zákon V dovoloval právě neomezené tvoření množin. Russell později reagoval teorií typů, Zermelo axiomatickou teorií množin. Šlo o jeden z klíčových momentů takzvané krize základů matematiky.",
+  "source": "Gottlob Frege, Grundgesetze der Arithmetik II (1903)",
+  "seedElo": 1760
+ },
+ {
   "id": "log-17",
   "type": "F",
   "category": "logika",
@@ -270,6 +1022,118 @@
   "explanation": "Původní volba měla šanci 1/3 na auto a zbylé dveře dohromady 2/3. Moderátor cíleně otevřel kozu z té dvojice, takže celá pravděpodobnost 2/3 se přesune na jediné zbývající zavřené dveře - dveře č. 2. Přechod tedy zdvojnásobí šanci na výhru.",
   "source": "Monty Hall problém",
   "seedElo": 1780
+ },
+ {
+  "id": "log-C18",
+  "type": "F",
+  "category": "logika",
+  "text": "Čím je Yablova posloupnost vět zajímavá pro debatu o paradoxu lháře?",
+  "options": [
+   "Ukazuje, že lhář zmizí, pokud připustíme třetí pravdivostní hodnotu",
+   "Vytváří paradox z nekonečné řady vět, z nichž žádná nemluví o sobě",
+   "Dokazuje, že lhář je pouze gramatická chyba přirozeného jazyka",
+   "Převádí paradox lháře na Russellův paradox v teorii množin"
+  ],
+  "correct": 1,
+  "explanation": "Věta S(n) zní „všechny věty S(k) pro k větší než n jsou nepravdivé“. Žádná z nich nemluví sama o sobě ani necykluje, přesto z celé posloupnosti plyne spor. Tím se zpochybňuje běžný předpoklad, že za sémantickými paradoxy stojí nutně sebereference.",
+  "source": "Stephen Yablo (1993)",
+  "seedElo": 1780
+ },
+ {
+  "id": "log-C19",
+  "type": "F",
+  "category": "logika",
+  "text": "Druhá Gödelova věta o neúplnosti říká, že dostatečně silná bezesporná teorie:",
+  "options": [
+   "nedokáže vyjmenovat všechny své vlastní axiomy ani jejich důsledky",
+   "dokáže svou bezespornost, avšak jen za cenu nekonečně mnoha axiomů",
+   "nedokáže vlastní bezespornost, byť ji umí vyslovit jako tvrzení",
+   "je bezesporná právě tehdy, když je zároveň úplná a rozhodnutelná"
+  ],
+  "correct": 2,
+  "explanation": "Formalizované tvrzení „já jsem bezesporná“ je v takové teorii nedokazatelné — a kdyby ho dokázala, byla by právě proto sporná. Neznamená to, že bezespornost aritmetiky nelze dokázat vůbec: Gentzen ji roku 1936 dokázal prostředky, které Peanova aritmetika nemá. Rána mířila na Hilbertův program, ne na matematiku samu.",
+  "source": "Kurt Gödel (1931); Gerhard Gentzen (1936)",
+  "seedElo": 1790
+ },
+ {
+  "id": "log-A16",
+  "type": "F",
+  "category": "logika",
+  "text": "Na ostrově rytířů (vždy pravda) a lhářů (vždy lež) říká A: „B je rytíř.“ B na to říká: „Já a A jsme každý jiného typu.“ Co jsou zač?",
+  "options": [
+   "A je rytíř a B je rovněž rytíř.",
+   "A je rytíř a B je naopak lhář.",
+   "A je lhář a B je naopak rytíř.",
+   "A je lhář a B je rovněž lhář."
+  ],
+  "correct": 3,
+  "explanation": "Kdyby byl A rytíř, byl by rytíř i B, jenže pak by B pravdivě tvrdil, že jsou různého typu — spor, protože by byli stejní. A je tedy lhář a jeho výrok je nepravdivý, takže B je také lhář. To sedí: B lže, když tvrdí odlišnost, a oba jsou opravdu stejného typu.",
+  "source": "Smullyan, rytíři a lháři",
+  "seedElo": 1800
+ },
+ {
+  "id": "log-A18",
+  "type": "F",
+  "category": "logika",
+  "text": "V klubu platí tři pravidla: (1) Kdo chodí na trénink, hraje zápas. (2) Kdo hraje zápas, dostane dres. (3) Karel dres nedostal. Co jistě platí?",
+  "options": [
+   "Karel nechodí na trénink, ale zápas hrát může.",
+   "Karel nechodí na trénink ani nehraje zápas.",
+   "Karel hraje zápas, jen mu zapomněli dát dres.",
+   "Karel chodí na trénink, ale zápas nikdy nehraje."
+  ],
+  "correct": 1,
+  "explanation": "Z pravidla (2) a faktu (3) plyne obměnou, že Karel zápas nehraje. Z pravidla (1) pak stejným krokem plyne, že nechodí ani na trénink. Řetězec obměn tak popírá obě dřívější části najednou; kdo popře jen jednu, zůstal v půli cesty.",
+  "source": "řetězec implikací a obměna",
+  "seedElo": 1800
+ },
+ {
+  "id": "log-A20",
+  "type": "F",
+  "category": "logika",
+  "text": "Pravidlo zní: „Kdo pije alkohol, musí být starší osmnácti let.“ U stolu sedí čtyři lidé. O prvním víte jen to, že pije pivo, o druhém že pije limonádu, o třetím že je mu šestnáct a o čtvrtém že je mu dvacet pět. U koho je nutné zjistit chybějící údaj, aby se ověřilo dodržení pravidla?",
+  "options": [
+   "U toho s pivem a u toho, komu je dvacet pět let.",
+   "U toho s limonádou a u toho, komu je šestnáct.",
+   "Jen u toho, kdo pije pivo — ostatní jsou v pořádku.",
+   "U toho s pivem a u toho, komu je šestnáct let."
+  ],
+  "correct": 3,
+  "explanation": "Pravidlo poruší jedině člověk, který pije alkohol a je mladší osmnácti. U pivaře je tedy nutné zjistit věk a u šestnáctiletého nápoj — to je test kontrapozice. Limonáda ani věk dvacet pět let porušení umožnit nemohou, takže tam kontrola nic nepřinese.",
+  "source": "Wasonova úloha, kontextová varianta",
+  "seedElo": 1800
+ },
+ {
+  "id": "log-B22",
+  "type": "F",
+  "category": "logika",
+  "text": "Dva lidé si dělí koláč metodou „jeden krájí, druhý si vybírá\". Každý z nich má vlastní představu o tom, které kusy jsou cennější, a tyto představy se mohou lišit. Co přesně tato metoda zaručuje?",
+  "options": [
+   "Že oba kusy budou objektivně stejně velké a stejně hodnotné",
+   "Že každý dostane díl, který sám hodnotí aspoň na polovinu",
+   "Že krájející je v nevýhodě a vybírající vždy získá víc než on",
+   "Že oba budou s výsledkem stejně spokojení a nikdo nezávidí"
+  ],
+  "correct": 1,
+  "explanation": "Krájející rozdělí koláč tak, aby mu byly oba kusy podle jeho vlastního měřítka rovnocenné, takže ať mu zbude kterýkoli, má pro něj hodnotu poloviny. Vybírající si vezme ten, který je aspoň poloviční podle jeho měřítka. Metoda tedy garantuje proporcionalitu vzhledem k subjektivním hodnocením, nikoli objektivní rovnost ani stejnou míru spokojenosti.",
+  "source": "férové dělení / divide and choose",
+  "seedElo": 1800
+ },
+ {
+  "id": "log-B23",
+  "type": "F",
+  "category": "logika",
+  "text": "Tři neoznačené krabice obsahují po dvou mincích: první dvě zlaté, druhá zlatou a stříbrnou, třetí dvě stříbrné. Náhodně si vyberete krabici, náhodně z ní vytáhnete jednu minci a ta je zlatá. Jaká je pravděpodobnost, že i druhá mince v téže krabici je zlatá?",
+  "options": [
+   "Šance je jedna polovina",
+   "Šance je jedna třetina",
+   "Šance jsou dvě třetiny",
+   "Šance jsou tři čtvrtiny"
+  ],
+  "correct": 2,
+  "explanation": "Zlaté mince jsou celkem tři a při popsaném postupu měla každá z nich stejnou šanci být vytažena. Dvě z těchto tří leží v krabici se dvěma zlatými, kde je druhá mince rovněž zlatá. Pravděpodobnost je proto 2/3; chyba vzniká, když se počítají krabice místo jednotlivých mincí.",
+  "source": "Bertrandův paradox krabic",
+  "seedElo": 1800
  },
  {
   "id": "log-18",
@@ -288,6 +1152,54 @@
   "seedElo": 1810
  },
  {
+  "id": "log-C20",
+  "type": "F",
+  "category": "logika",
+  "text": "Tarského věta o nedefinovatelnosti pravdy tvrdí, že:",
+  "options": [
+   "pravdivost je pojem psychologický, a proto se vzpírá formalizaci",
+   "pravdu lze definovat pouze pro jazyky s konečně mnoha větami",
+   "žádná věta jazyka aritmetiky nemůže být pravdivá ani nepravdivá",
+   "pravdu pro daný jazyk nelze definovat uvnitř téhož jazyka"
+  ],
+  "correct": 3,
+  "explanation": "Kdyby aritmetika obsahovala predikát „je pravdivá“ splňující schéma T, dalo by se diagonalizací sestrojit sebeodkazující lhář a odvodit spor. Pravdu pro jazyk L lze definovat až v bohatším metajazyce. Gödelova věta je příbuzná, ale slabší tvrzení: dokazatelnost definovatelná je, pravda nikoli.",
+  "source": "Alfred Tarski (1933/1936)",
+  "seedElo": 1810
+ },
+ {
+  "id": "log-C21",
+  "type": "F",
+  "category": "logika",
+  "text": "Skolemův paradox spočívá v tom, že:",
+  "options": [
+   "spočetná teorie množin má vždy i model s nespočetně mnoha vlastními axiomy",
+   "teorie množin má spočetný model, přestože v něm dokazuje nespočetnost",
+   "každá bezesporná teorie má právě jeden model až na izomorfismus",
+   "reálná čísla jsou v některých modelech spočetná a v jiných konečná"
+  ],
+  "correct": 1,
+  "explanation": "Podle Löwenheimovy–Skolemovy věty má každá bezesporná spočetná teorie prvního řádu spočetný model — tedy i ZFC, které dokazuje existenci nespočetných množin. Rozpor je zdánlivý: „nespočetná“ znamená, že v modelu neexistuje příslušná bijekce; zvenčí model spočetný být klidně může. Mohutnost je relativní k modelu.",
+  "source": "Thoralf Skolem (1922)",
+  "seedElo": 1820
+ },
+ {
+  "id": "log-C22",
+  "type": "F",
+  "category": "logika",
+  "text": "Goodmanův predikát „grue“ (zelený do roku t, poté modrý) ukazuje, že:",
+  "options": [
+   "indukce selhává vždy, když pozorujeme vzorek menší než sto kusů",
+   "barvy nejsou objektivní vlastnosti věcí, nýbrž jen naše vjemy",
+   "každá empirická teorie se dá vyvrátit vhodně zvoleným pokusem",
+   "táž data stejně dobře potvrzují dvě neslučitelné předpovědi"
+  ],
+  "correct": 3,
+  "explanation": "Všechny dosud viděné smaragdy jsou zelené — a tím pádem i grue. Stejná evidence tedy stejně dobře podpírá „příští bude zelený“ i „příští bude modrý“. Nová hádanka indukce zní: co dělá některé predikáty vhodnými k projekci? Goodman odpovídal odkazem na „zakotvenost“ v dosavadní praxi.",
+  "source": "Nelson Goodman, Fact, Fiction, and Forecast (1955)",
+  "seedElo": 1830
+ },
+ {
   "id": "log-19",
   "type": "F",
   "category": "logika",
@@ -304,6 +1216,102 @@
   "seedElo": 1840
  },
  {
+  "id": "log-C23",
+  "type": "F",
+  "category": "logika",
+  "text": "Russellova teorie typů řeší paradox tím, že:",
+  "options": [
+   "zakazuje výrok „x je prvkem x“ jako nesmyslný, ne jen nepravdivý",
+   "omezuje počet prvků každé množiny na nejvýše spočetně mnoho",
+   "rozděluje důkazy na konečné a nekonečné, ty druhé pak zcela zakazuje",
+   "nahrazuje množiny funkcemi, u nichž sebereference nevzniká"
+  ],
+  "correct": 0,
+  "explanation": "Objekty se rozvrství do typů a příslušnost dává smysl jen mezi sousedními patry, takže sebepříslušnost není nepravdivá, nýbrž gramaticky nepřípustná. Cena je vysoká: ramifikace si vyžádala pomocný axiom reducibility, který mnozí považovali za ad hoc. ZF proto v matematice převládlo, typy uspěly hlavně v informatice.",
+  "source": "Russell a Whitehead, Principia Mathematica (1910)",
+  "seedElo": 1840
+ },
+ {
+  "id": "log-A21",
+  "type": "F",
+  "category": "logika",
+  "text": "Víme: „Žádný podvodník není důvěryhodný“ a „Někteří obchodníci nejsou podvodníci“. Co z toho plyne o obchodnících?",
+  "options": [
+   "Nic z toho o obchodnících neplyne.",
+   "Někteří obchodníci jsou důvěryhodní.",
+   "Někteří obchodníci nejsou důvěryhodní.",
+   "Žádný obchodník není důvěryhodný."
+  ],
+  "correct": 0,
+  "explanation": "První premisa říká něco jen o podvodnících, druhá mluví o obchodnících, kteří podvodníky nejsou — a o těch první premisa mlčí. Nepodvodník může být důvěryhodný i nedůvěryhodný, sylogismus tedy nedává žádný závěr (obě premisy jsou fakticky negativní vůči střednímu pojmu). Lákavý závěr o důvěryhodných obchodnících je klamem popřeného středního pojmu.",
+  "source": "klamný sylogismus se dvěma negativními premisami",
+  "seedElo": 1850
+ },
+ {
+  "id": "log-B24",
+  "type": "F",
+  "category": "logika",
+  "text": "Z čísel 1 až 10 vyberete libovolných šest různých. Které z následujících tvrzení platí nutně vždy, ať vyberete kteroukoli šestici?",
+  "options": [
+   "Mezi vybranými jsou tři čísla jdoucí bezprostředně po sobě",
+   "Mezi vybranými jsou dvě čísla, jejichž součet je právě deset",
+   "Mezi vybranými jsou aspoň dvě sudá a zároveň aspoň dvě lichá",
+   "Mezi vybranými jsou dvě čísla, jejichž součet je právě jedenáct"
+  ],
+  "correct": 3,
+  "explanation": "Čísla 1 až 10 se rozpadají na pět dvojic se součtem jedenáct: (1,10), (2,9), (3,8), (4,7) a (5,6). Šest čísel se do pěti dvojic nevejde, takže aspoň jedna dvojice musí být vybraná celá. Ostatní tvrzení padnou na protipříkladech: šestice 1, 2, 4, 6, 8, 10 nemá tři po sobě jdoucí čísla ani dvě lichá, a šestice 1, 2, 3, 4, 5, 10 nemá žádnou dvojici se součtem deset.",
+  "source": "holubníkový princip (párování)",
+  "seedElo": 1850
+ },
+ {
+  "id": "log-B25",
+  "type": "F",
+  "category": "logika",
+  "text": "Firma přijímala do dvou divizí. V divizi A se hlásilo 100 mužů (přijato 80) a 20 žen (přijato 18). V divizi B se hlásilo 20 mužů (přijato 4) a 100 žen (přijato 30). Ženy tedy měly v obou divizích vyšší míru přijetí než muži, ale v součtu byly přijaty jen ze 40 procent oproti 70 procentům u mužů. Čím to je?",
+  "options": [
+   "Ženy se převážně hlásily do divize, kde se přijímá málo lidí",
+   "V souhrnných číslech musela vzniknout aritmetická chyba",
+   "Firma znevýhodňovala ženy skrytě až v posledním kole výběru",
+   "Poměry z různě velkých skupin se prostě nesmějí porovnávat"
+  ],
+  "correct": 0,
+  "explanation": "Divize B přijímá jen malý zlomek uchazečů a hlásí se do ní 100 žen proti 20 mužům, zatímco ve štědré divizi A je poměr obrácený. Souhrnná míra je váženým průměrem obou divizí a váhy jsou u obou pohlaví zcela jiné. Jde o Simpsonův paradox: obrácení směru vztahu po sloučení skupin s odlišným složením.",
+  "source": "Simpsonův paradox (výběrové řízení)",
+  "seedElo": 1850
+ },
+ {
+  "id": "log-B26",
+  "type": "F",
+  "category": "logika",
+  "text": "Kolika způsoby lze rozdělit deset navzájem nerozlišitelných bonbonů mezi čtyři děti, jestliže některé dítě může zůstat i zcela bez bonbonu a na tom, které dítě je které, záleží?",
+  "options": [
+   "220 způsobů",
+   "286 způsobů",
+   "84 způsobů",
+   "715 způsobů"
+  ],
+  "correct": 1,
+  "explanation": "Úloha odpovídá rozestavení tří přepážek mezi deset shodných objektů, tedy výběru tří pozic přepážek z celkem 10 + 3 = 13 míst. Počet je kombinační číslo C(13,3) = 286. Hodnota 84 = C(9,3) by platila v případě, že by každé dítě muselo dostat aspoň jeden bonbon.",
+  "source": "kombinatorika / hvězdičky a přepážky",
+  "seedElo": 1850
+ },
+ {
+  "id": "log-C24",
+  "type": "F",
+  "category": "logika",
+  "text": "Které tvrzení o Gödelových větách je nejčastější dezinterpretací?",
+  "options": [
+   "Že se týkají teorií schopných vyjádřit aritmetiku přirozených čísel",
+   "Že nerozhodnutelná věta je pravdivá ve standardním modelu aritmetiky",
+   "Že dokazují převahu lidské intuice nad každým možným strojem",
+   "Že se v jejich důkazu tvrzení kódují jako přirozená čísla"
+  ],
+  "correct": 2,
+  "explanation": "Lucasův a Penroseův argument naráží na to, že člověk umí nerozhodnutelnou větu „vidět“ jen za předpokladu, že daný systém je bezesporný — a týž krok smí udělat i stroj. Věty nemluví o lidech ani o poznání vůbec, nýbrž o formálních systémech. Ostatní tři možnosti jsou korektní popisy.",
+  "source": "Torkel Franzén, Gödel's Theorem: An Incomplete Guide (2005)",
+  "seedElo": 1850
+ },
+ {
   "id": "log-20",
   "type": "F",
   "category": "logika",
@@ -318,5 +1326,277 @@
   "explanation": "Každé vážení má tři možné výsledky (rovnováha, doleva, doprava), takže n vážení rozliší nejvýše 3^n případů. Pro 12 mincí a neznámý směr odchylky je 2·12=24 možných stavů, a 3^2=9 nestačí, zatímco 3^3=27 ano - proto jsou potřeba právě 3 vážení, dosažitelná chytrým rozdělením mincí do trojic po skupinách.",
   "source": "klasická úloha o 12 mincích",
   "seedElo": 1870
+ },
+ {
+  "id": "log-C26",
+  "type": "F",
+  "category": "logika",
+  "text": "Cantorova věta o potenční množině vede k tzv. Cantorovu paradoxu tím, že:",
+  "options": [
+   "množina všech množin by musela mít mohutnost menší než její potenční",
+   "potenční množina konečné množiny má vždy sudý počet svých prvků",
+   "mezi mohutností N a mohutností R by nemohla ležet žádná další mohutnost",
+   "sjednocení spočetně mnoha spočetných množin může být nespočetné"
+  ],
+  "correct": 0,
+  "explanation": "Cantorova věta říká, že potenční množina je vždy ostře větší než množina sama. Kdyby existovala množina všech množin, byla by její potenční množina zároveň její podmnožinou, tedy menší i větší — spor. Řešení je v ZF stejné jako u Russella: univerzum množinou není, je to vlastní třída.",
+  "source": "Georg Cantor (1899, dopisy Dedekindovi)",
+  "seedElo": 1870
+ },
+ {
+  "id": "log-C27",
+  "type": "F",
+  "category": "logika",
+  "text": "Gödel roku 1929 dokázal také větu o úplnosti. Není to spor s neúplností, protože:",
+  "options": [
+   "věta o úplnosti platí jen pro výrokovou logiku, nikoli pro predikátovou",
+   "větu o úplnosti Cohen později vyvrátil a matematici ji dnes opustili",
+   "obě věty mluví o týchž teoriích, jen jedna z nich užívá jiné axiomy",
+   "úplnost se týká logického vyplývání, neúplnost síly konkrétní teorie"
+  ],
+  "correct": 3,
+  "explanation": "Věta o úplnosti říká, že kalkul predikátové logiky odvodí vše, co plyne ze všech modelů. Věta o neúplnosti říká, že axiomy aritmetiky nestačí rozhodnout každou větu o číslech. Nerozhodnutelná věta prostě neplatí ve všech modelech aritmetiky — v nestandardních modelech platí její negace, takže odvodit ji nelze a nic si neodporuje.",
+  "source": "Kurt Gödel, disertace (1929)",
+  "seedElo": 1890
+ },
+ {
+  "id": "log-A22",
+  "type": "F",
+  "category": "logika",
+  "text": "Na ostrově rytířů (vždy pravda) a lhářů (vždy lež) potkáte A, B a C. A říká: „B a C jsou stejného typu.“ C říká: „Já a A jsme každý jiného typu.“ Co lze o nich s jistotou určit?",
+  "options": [
+   "A je lhář, B je lhář a C je rytíř.",
+   "A je lhář; typ B a C určit nelze.",
+   "A je rytíř; B a C jsou oba lháři.",
+   "A je rytíř, B je lhář a C je rytíř."
+  ],
+  "correct": 1,
+  "explanation": "Kdyby byl A rytíř, byli by B a C stejného typu, a C by pak tvrdil odlišnost od A: jsou-li oba rytíři, C by lhal, jsou-li oba lháři, C by mluvil pravdu — obojí je spor. A je tedy lhář. Zbývají dvě bezrozporné možnosti: (A lhář, B lhář, C rytíř) i (A lhář, B rytíř, C lhář) sedí na obě výpovědi, takže o B a C rozhodnout nelze.",
+  "source": "Smullyan, úloha s nejednoznačným řešením",
+  "seedElo": 1900
+ },
+ {
+  "id": "log-A23",
+  "type": "F",
+  "category": "logika",
+  "text": "Na rozcestí na ostrově rytířů (vždy pravda) a lhářů (vždy lež) potkáte obyvatele. Chcete zjistit, zda cesta doleva vede do města, ale nevíte, jakého je typu, a smíte položit jedinou otázku s odpovědí ano/ne. Po které otázce znamená „ano“ spolehlivě to, že cesta doleva do města vede?",
+  "options": [
+   "„Jsi rytíř a vede zároveň cesta doleva do města?“",
+   "„Vede tahle cesta doleva opravdu přímo do města?“",
+   "„Jsi rytíř právě tehdy, když cesta doleva vede do města?“",
+   "„Jsi lhář, anebo vede cesta doleva rovnou do města?“"
+  ],
+  "correct": 2,
+  "explanation": "U rytíře je část „jsi rytíř“ pravdivá, takže hodnota celé ekvivalence se rovná tomu, zda cesta vede do města, a rytíř to řekne pravdivě. U lháře je tato část nepravdivá, takže ekvivalence má opačnou hodnotu než skutečnost — jenže lhář ještě jednou převrátí, a odpoví stejně jako rytíř. Ostatní varianty selžou: přímá otázka rozliší jen typ, konjunkce vynutí u lháře vždy „ano“ a disjunkce s „jsi lhář“ dá u obou typů opačné odpovědi.",
+  "source": "Smullyan, otázka s vnořenou ekvivalencí",
+  "seedElo": 1900
+ },
+ {
+  "id": "log-A24",
+  "type": "F",
+  "category": "logika",
+  "text": "Porovnejte dva výroky. Výrok A: „Každý zaměstnanec má nějakého nadřízeného.“ Výrok B: „Existuje někdo, kdo je nadřízeným každého zaměstnance.“ Jaký je mezi nimi logický vztah?",
+  "options": [
+   "Z výroku A plyne výrok B, obráceně to neplatí.",
+   "Oba výroky jsou logicky navzájem ekvivalentní.",
+   "Mezi výroky není žádný logický vztah, jsou nezávislé.",
+   "Z výroku B plyne výrok A, obráceně to neplatí."
+  ],
+  "correct": 3,
+  "explanation": "Ve výroku B je existenční kvantifikátor vnější, takže jde o jediného nadřízeného společného všem; v A je vnitřní, takže každý může mít nadřízeného jiného. Existuje-li jeden šéf všech, má nadřízeného opravdu každý, takže z B plyne A. Opačně to selže: firma s několika nezávislými odděleními splňuje A a nesplňuje B.",
+  "source": "pořadí kvantifikátorů",
+  "seedElo": 1900
+ },
+ {
+  "id": "log-B28",
+  "type": "F",
+  "category": "logika",
+  "text": "V řadě leží sudý počet mincí o různých, všem viditelných hodnotách. Hráči se střídají a každý si v tahu vezme minci z některého konce řady. Vyhrává ten, kdo nasbírá vyšší celkovou hodnotu. Co si může první hráč zaručit?",
+  "options": [
+   "Vždy vyhraje, když bude brát vždy tu cennější z krajních mincí",
+   "Nemá žádnou výhodu, o výsledku rozhoduje rozestavení hodnot",
+   "Vyhraje jen tehdy, když je součet všech hodnot v řadě lichý",
+   "Umí si zajistit aspoň remízu, ať jsou hodnoty rozdělené jakkoli"
+  ],
+  "correct": 3,
+  "explanation": "První hráč si očísluje pozice, rozdělí mince na skupinu na lichých a na sudých pozicích a spočítá, která skupina má vyšší součet. Protože je mincí sudý počet, jsou krajní pozice vždy různé parity, takže si může vzít minci ze zvolené skupiny; soupeř mu pak nutně nabídne další minci téže skupiny. Tím posbírá celou vybranou skupinu, a ta je aspoň poloviční.",
+  "source": "strategická hra s paritou pozic",
+  "seedElo": 1900
+ },
+ {
+  "id": "log-A26",
+  "type": "F",
+  "category": "logika",
+  "text": "O výrocích P a Q víte jedinou věc: výrok „jestliže P, pak Q“ je nepravdivý. Co jistě platí o výroku „jestliže Q, pak P“?",
+  "options": [
+   "Je nepravdivý, protože obrací původní implikaci.",
+   "Je pravdivý, protože Q neplatí a P platí.",
+   "Je pravdivý pouze tehdy, je-li Q pravdivé.",
+   "Nelze rozhodnout, chybí informace o P a Q."
+  ],
+  "correct": 1,
+  "explanation": "Implikace je nepravdivá v jediném případě, takže z nepravdivosti „P, tedy Q“ plyne, že P je pravdivé a Q nepravdivé. Obrácená implikace má pak nepravdivý antecedent, a je tudíž pravdivá. Nepravdivá implikace tedy jednoznačně určuje pravdivostní hodnoty obou svých částí — a to je klíč k celé úloze.",
+  "source": "tabulka pravdivosti implikace",
+  "seedElo": 1950
+ },
+ {
+  "id": "log-A29",
+  "type": "F",
+  "category": "logika",
+  "text": "U soudu platí: (1) Je-li obžalovaný vinen, měl komplice. (2) Měl-li komplice, sám na místě činu nebyl. (3) Není-li obžalovaný vinen, lhal o svém alibi. Navíc je prokázáno, že obžalovaný na místě činu byl. Co z toho plyne?",
+  "options": [
+   "Obžalovaný není vinen, ale o alibi lhal.",
+   "Obžalovaný je vinen a o alibi navíc lhal.",
+   "Obžalovaný není vinen a o alibi nelhal.",
+   "Obžalovaný měl komplice a o alibi nelhal."
+  ],
+  "correct": 0,
+  "explanation": "Z faktu, že na místě činu byl, plyne obměnou pravidla (2), že komplice neměl. Obměnou pravidla (1) pak plyne, že vinen není. Modus ponens na pravidlo (3) nakonec dává, že o alibi lhal — nevina a lež o alibi tedy platí současně.",
+  "source": "řetězec obměn a modus ponens",
+  "seedElo": 1950
+ },
+ {
+  "id": "log-B27",
+  "type": "F",
+  "category": "logika",
+  "text": "Postupně přijímáte n uchazečů v náhodném pořadí, každého umíte porovnat s dosud viděnými, ale rozhodnout se musíte ihned a odmítnutí je nevratné. Optimální strategie odmítne prvních zhruba n/e uchazečů a pak vezme prvního, kdo je lepší než všichni předchozí. S jakou pravděpodobností tak pro velká n získáte opravdu nejlepšího uchazeče?",
+  "options": [
+   "Asi 50 %",
+   "Asi 25 %",
+   "Asi 37 %",
+   "Řádově 1/n"
+  ],
+  "correct": 2,
+  "explanation": "Pravděpodobnost úspěchu při vynechání podílu r uchazečů je přibližně −r·ln r a tato funkce nabývá maxima pro r = 1/e. Dosazením vyjde hodnota 1/e ≈ 0,368, tedy zhruba 37 procent. Pozoruhodné je, že šance s rostoucím n neklesá k nule, ale ustálí se.",
+  "source": "problém sekretářky / optimální zastavení",
+  "seedElo": 1950
+ },
+ {
+  "id": "log-B29",
+  "type": "F",
+  "category": "logika",
+  "text": "Tři hromádky mají 3, 5 a 7 sirek. Hráči se střídají a každý v tahu odebere libovolný počet sirek z jediné hromádky, nejméně však jednu. Vyhrává ten, kdo vezme poslední sirku. Kdo vyhraje při optimální hře a jak?",
+  "options": [
+   "Druhý hráč, protože všechny tři hromádky mají lichý počet",
+   "První hráč; vezme jednu sirku ze sedmi a hraje na nulový XOR",
+   "První hráč; sebere celou tříprvkovou hromádku a pak zrcadlí",
+   "Druhý hráč; ať první udělá cokoli, stačí mu tah zrcadlit"
+  ],
+  "correct": 1,
+  "explanation": "V klasickém Nimu prohrává hráč na tahu právě tehdy, je-li XOR všech hromádek nulový, tedy jejich součet ve dvojkové soustavě bez přenosů. Zde je 3 XOR 5 XOR 7 = 1, tedy nenulový, a vyhrává první hráč. Musí tah zvolit tak, aby XOR vynuloval: protože 3 XOR 5 = 6, sníží sedmičku na šestku, tedy odebere jednu sirku.",
+  "source": "Nim / Bouton",
+  "seedElo": 1950
+ },
+ {
+  "id": "log-B30",
+  "type": "F",
+  "category": "logika",
+  "text": "Na tabuli jsou napsána všechna čísla od 1 do 100. V každém kroku smažete libovolná dvě čísla a a b a napíšete místo nich číslo a + b + 1. Po devadesáti devíti krocích zbude na tabuli jediné číslo. Jaké to bude?",
+  "options": [
+   "Vždy vyjde 5050",
+   "Vždy vyjde 5150",
+   "Vždy vyjde 5149",
+   "Záleží na pořadí"
+  ],
+  "correct": 2,
+  "explanation": "Každý krok sníží počet čísel o jedno a zvýší jejich celkový součet přesně o jedničku, protože a + b + 1 je o jedna víc než a + b. Počáteční součet je 1 + 2 + … + 100 = 5050 a kroků je devadesát devět. Konečný součet, a tím i poslední zbylé číslo, je tedy 5050 + 99 = 5149, nezávisle na pořadí mazání.",
+  "source": "monovariant / řízená změna součtu",
+  "seedElo": 1950
+ },
+ {
+  "id": "log-B31",
+  "type": "F",
+  "category": "logika",
+  "text": "V myšlenkovém experimentu Šípková Růženka se v neděli hodí férovou mincí. Padne-li líc, probudí Růženku jen v pondělí; padne-li rub, probudí ji v pondělí i v úterý, přičemž po pondělním probuzení jí na ně vymažou paměť. Růženka pravidla zná. Co tvrdí takzvaná třetinová (thirder) pozice?",
+  "options": [
+   "Že Růženka má při probuzení přiřadit líci pravděpodobnost 1/3",
+   "Že Růženka má při probuzení přiřadit líci pravděpodobnost 1/2",
+   "Že otázka nemá smysl, protože Růženka neví, který je den",
+   "Že mince v tomto uspořádání přestává být férová a klopí k rubu"
+  ],
+  "correct": 0,
+  "explanation": "Thirder argumentuje tím, že možná probuzení jsou tři — líc-pondělí, rub-pondělí a rub-úterý — a Růženka je při probuzení nedokáže od sebe odlišit, takže jim přiřadí stejnou váhu. Líci pak odpovídá jediné ze tří, tedy 1/3. Halfer naopak trvá na tom, že probuzení nepřináší žádnou novou informaci, a drží se 1/2; spor není dodnes rozhodnut.",
+  "source": "Sleeping Beauty (Elga vs. Lewis)",
+  "seedElo": 1950
+ },
+ {
+  "id": "log-C28",
+  "type": "F",
+  "category": "logika",
+  "text": "Proč se Gödelovy věty nevztahují na Presburgerovu aritmetiku (sčítání bez násobení)?",
+  "options": [
+   "Protože její model je konečný, a lze ji tedy prověřit vyčerpáním",
+   "Není dost silná, chybí jí násobení; je úplná i rozhodnutelná",
+   "Protože nemá rekurzivně vyčíslitelnou množinu vlastních axiomů",
+   "Protože v ní nelze vyjádřit pojem přirozeného čísla ani nuly"
+  ],
+  "correct": 1,
+  "explanation": "Bez násobení nelze zakódovat syntaxi a sebereferenci, takže Gödelova konstrukce neprojde. Presburger roku 1929 dokázal, že tato teorie je úplná a rozhodnutelná — každé tvrzení v ní lze algoritmicky rozhodnout, byť velmi draze. Ukazuje to, že předpoklad „dostatečné síly“ ve větách o neúplnosti není formalita.",
+  "source": "Mojżesz Presburger (1929)",
+  "seedElo": 1950
+ },
+ {
+  "id": "log-C29",
+  "type": "F",
+  "category": "logika",
+  "text": "Čím Rosser roku 1936 zesílil první Gödelovu větu?",
+  "options": [
+   "Rozšířil ji i na teorie s nespočetně mnoha axiomy a symboly",
+   "Nahradil v ní pojem důkazu pojmem algoritmického výpočtu",
+   "Ukázal, že nerozhodnutelnou větu lze zapsat bez sebereference",
+   "Nahradil předpoklad ω-bezespornosti pouhou bezesporností teorie"
+  ],
+  "correct": 3,
+  "explanation": "Gödel potřeboval silnější předpoklad zvaný ω-bezespornost. Rosser změnil konstruovanou větu na tvar „ke každému důkazu mě existuje kratší důkaz mé negace“, čímž stačí prostá bezespornost. Proto se dnes první věta obvykle uvádí v Gödelově–Rosserově podobě.",
+  "source": "J. Barkley Rosser (1936)",
+  "seedElo": 1960
+ },
+ {
+  "id": "log-C30",
+  "type": "F",
+  "category": "logika",
+  "text": "Löbova věta říká, že pokud teorie dokáže „je-li A dokazatelné, pak A“, pak:",
+  "options": [
+   "je teorie sporná, protože si tím přisvojuje svůj vlastní metajazyk",
+   "platí to jen pro A, která neobsahují žádný kvantifikátor",
+   "dokáže rovnou i samotné A — důvěra ve vlastní důkazy nestačí",
+   "dokáže také svou bezespornost, což vyvrací druhou větu"
+  ],
+  "correct": 2,
+  "explanation": "Teorie tedy nemůže obecně tvrdit vlastní spolehlivost, aniž by to rovnou znamenalo dokazatelnost dotyčné věty. Dosadíme-li za A spor, dostaneme jako speciální případ druhou Gödelovu větu. Konstrukce je Curryho paradox přenesený do aritmetiky, kde místo pravdy vystupuje dokazatelnost.",
+  "source": "Martin Hugo Löb (1955)",
+  "seedElo": 1970
+ },
+ {
+  "id": "log-C31",
+  "type": "F",
+  "category": "logika",
+  "text": "Co Cohenova metoda forcingu prakticky umožnila?",
+  "options": [
+   "Dokázat, že axiom výběru plyne ze zbývajících axiomů teorie ZF",
+   "Stavět modely ZF na míru, a tak ukazovat nedokazatelnost tvrzení",
+   "Rozhodnout hypotézu kontinua kladně pomocí nových silných axiomů",
+   "Nahradit teorii množin teorií kategorií jakožto základem matematiky"
+  ],
+  "correct": 1,
+  "explanation": "Forcing rozšiřuje daný model o pečlivě zvolené nové objekty tak, že se dá dopředu řídit, co v rozšíření bude platit. Cohen tím vyrobil model ZFC, kde hypotéza kontinua neplatí, a spolu s Gödelovým výsledkem prokázal její nezávislost. Metoda se stala hlavním nástrojem důkazů nezávislosti v teorii množin.",
+  "source": "Paul Cohen (1963), Fieldsova medaile 1966",
+  "seedElo": 1985
+ },
+ {
+  "id": "log-A28",
+  "type": "F",
+  "category": "logika",
+  "text": "Na ostrově rytířů (vždy pravda) a lhářů (vždy lež) potkáte čtveřici A, B, C, D. A říká: „Přesně jeden z nás čtyř je rytíř.“ B říká: „Přesně dva z nás čtyř jsou rytíři.“ C říká: „Přesně tři z nás čtyř jsou rytíři.“ D říká: „Nikdo z nás čtyř není rytíř.“ Kolik je mezi nimi rytířů a kdo jimi je?",
+  "options": [
+   "Rytíři jsou právě dva, konkrétně A a B.",
+   "Rytíři jsou tři, lhář je pouze obyvatel D.",
+   "Rytíř není žádný, všichni čtyři jsou lháři.",
+   "Rytíř je právě jeden, konkrétně obyvatel A."
+  ],
+  "correct": 3,
+  "explanation": "Čtyři výroky uvádějí čtyři různé počty, takže pravdivý může být nejvýš jeden — a tedy mezi nimi může být nejvýš jeden rytíř. D rytíř být nemůže (popíral by sám sebe), takže jeho výrok je nepravdivý a aspoň jeden rytíř existuje. Rytíř je tedy přesně jeden, čímž se stává pravdivým výrok A; a protože lhář pravdu říct nesmí, je tím rytířem právě A, zatímco B, C i D lžou.",
+  "source": "Smullyan, výroky o počtu rytířů",
+  "seedElo": 2000
  }
 ]

@@ -1,0 +1,514 @@
+[
+  {
+    "id": "log-A01",
+    "type": "F",
+    "category": "logika",
+    "text": "Platí: „Jestliže je Petr v Brně, je v Česku.“ Který výrok říká přesně totéž, tedy je s ním logicky ekvivalentní?",
+    "options": [
+      "Jestliže Petr není v Česku, není v Brně.",
+      "Jestliže Petr není v Brně, není v Česku.",
+      "Jestliže je Petr v Česku, je v Brně.",
+      "Petr je v Brně právě tehdy, když je v Česku."
+    ],
+    "correct": 0,
+    "explanation": "Implikace „jestliže P, pak Q“ je ekvivalentní jen se svou obměnou (kontrapozicí) „jestliže ne-Q, pak ne-P“. Prohození stran (obrácení) i pouhé znegování obou stran (inverze) dávají výroky, které z původního neplynou. Ekvivalence by navíc tvrdila i opačný směr, který zjevně neplatí.",
+    "source": "klasická úloha na kontrapozici",
+    "seedElo": 1500
+  },
+  {
+    "id": "log-A02",
+    "type": "F",
+    "category": "logika",
+    "text": "Někdo tvrdí: „Všichni v naší kanceláři pijí kávu.“ Co přesně musí platit, aby byl tento výrok nepravdivý?",
+    "options": [
+      "Nikdo v celé té kanceláři kávu nepije.",
+      "Aspoň jeden člověk v kanceláři kávu nepije.",
+      "Většina lidí v té kanceláři kávu nepije.",
+      "Někteří lidé v té kanceláři kávu pijí."
+    ],
+    "correct": 1,
+    "explanation": "Negací obecného výroku „všichni jsou P“ je existenční výrok „aspoň jeden není P“, nikoli obecné popření „nikdo není P“. Ke zbourání tvrzení o všech stačí jediný protipříklad. Silnější varianty (nikdo, většina) sice výrok také vyvrátí, ale nejsou jeho negací — nejsou nutné.",
+    "source": "negace kvantifikátoru",
+    "seedElo": 1450
+  },
+  {
+    "id": "log-A03",
+    "type": "F",
+    "category": "logika",
+    "text": "Platí pravidlo: „Kdo složí zkoušku, postoupí do druhého kola.“ Jan zkoušku nesložil. Co z toho logicky plyne?",
+    "options": [
+      "Jan do druhého kola určitě nepostoupil.",
+      "Jan do druhého kola postoupil jinou cestou.",
+      "Ze zadání o Janově postupu neplyne vůbec nic.",
+      "Jan zkoušku složit mohl, ale nechtěl postoupit."
+    ],
+    "correct": 2,
+    "explanation": "Pravidlo říká jen to, že složení zkoušky postup zaručuje; neříká, že je jeho jedinou cestou. Usuzovat z popřeného antecedentu na popřený konsekvent je klasický klam (popření antecedentu). Jan tedy mohl postoupit i jinak, nebo taky nemusel — zadání to nerozhoduje.",
+    "source": "logický klam: popření antecedentu",
+    "seedElo": 1550
+  },
+  {
+    "id": "log-A04",
+    "type": "F",
+    "category": "logika",
+    "text": "„Aby ses dostal na koncert, musíš mít vstupenku.“ Co tento výrok o vstupence tvrdí?",
+    "options": [
+      "Vstupenka je postačující podmínka vstupu na koncert.",
+      "Vstupenka je nutná i postačující podmínka vstupu.",
+      "Vstupenka není ke vstupu na koncert vůbec potřeba.",
+      "Vstupenka je nutná podmínka vstupu na koncert."
+    ],
+    "correct": 3,
+    "explanation": "Slovo „musíš“ zavádí nutnou podmínku: bez vstupenky se dovnitř nedostaneš, tedy vstup implikuje vstupenku. Neříká se ale, že vstupenka vstup zaručuje — může tě zastavit ostraha nebo vyprodaný sál. Nutná a postačující podmínka jsou různé věci a splynou až u ekvivalence.",
+    "source": "nutná vs. postačující podmínka",
+    "seedElo": 1500
+  },
+  {
+    "id": "log-A05",
+    "type": "F",
+    "category": "logika",
+    "text": "Šéf řekl: „Není pravda, že Anna přišla včas a zároveň odevzdala report.“ Co z toho plyne o Anně?",
+    "options": [
+      "Buď nepřišla včas, nebo neodevzdala report (či obojí).",
+      "Anna nepřišla včas a report vůbec neodevzdala.",
+      "Anna přišla pozdě, ale report přesto odevzdala.",
+      "Anna přišla včas, jenže ten report neodevzdala."
+    ],
+    "correct": 0,
+    "explanation": "Podle De Morganova zákona se negace konjunkce mění na disjunkci negací: ne(P a Q) je totéž co (ne-P nebo ne-Q). Selhat tedy musela aspoň v jedné věci, ale zadání neurčuje ve které. Typickou chybou je znegovat obě části a spojku „a“ přitom ponechat.",
+    "source": "De Morganovy zákony",
+    "seedElo": 1600
+  },
+  {
+    "id": "log-A06",
+    "type": "F",
+    "category": "logika",
+    "text": "Na stole leží čtyři karty; každá má na jedné straně číslo a na druhé barvu. Vidíte: 3, 8, červenou, hnědou. Pravidlo zní: „Má-li karta na jedné straně sudé číslo, je na druhé straně červená.“ Které karty musíte otočit, abyste pravidlo ověřili?",
+    "options": [
+      "Kartu 8 a kartu červenou.",
+      "Kartu 8 a kartu hnědou.",
+      "Kartu 3 a kartu hnědou.",
+      "Kartu 8, červenou i hnědou."
+    ],
+    "correct": 1,
+    "explanation": "Pravidlo je implikace „sudé, tedy červené“ a vyvrátí ji jedině karta sudá a nečervená. Osmičku je nutné otočit (mohla by být nečervená) a hnědou také (mohla by mít sudé číslo — to je test kontrapozice). Trojka je lichá, takže pravidlo neomezuje, a červená karta ho nemůže porušit ať má na rubu cokoli.",
+    "source": "Wasonova selekční úloha",
+    "seedElo": 1600
+  },
+  {
+    "id": "log-A07",
+    "type": "F",
+    "category": "logika",
+    "text": "Detektiv usoudil: „Kdyby byl vrahem zahradník, měl by na botách hlínu. Podezřelý má na botách hlínu, tedy je vrahem zahradník.“ Kde je v úvaze chyba?",
+    "options": [
+      "Je to platná dedukce, chyba v ní žádná není.",
+      "Chybně popírá antecedent místo jeho potvrzení.",
+      "Chybně potvrzuje konsekvent a usuzuje na antecedent.",
+      "Chybně zaměnil nutnou podmínku za jedinou možnou."
+    ],
+    "correct": 2,
+    "explanation": "Z „P implikuje Q“ a z platnosti Q nelze usoudit na P — hlína na botách má spoustu jiných zdrojů. Jde o klam aserce (potvrzení) konsekventu, tedy o nedovolené obrácení implikace. Platné jsou jen modus ponens (z P na Q) a modus tollens (z ne-Q na ne-P).",
+    "source": "logický klam: aserce konsekventu",
+    "seedElo": 1650
+  },
+  {
+    "id": "log-A08",
+    "type": "F",
+    "category": "logika",
+    "text": "Na ostrově žijí rytíři (vždy mluví pravdu), lháři (vždy lžou) a normálové (mohou mluvit pravdu i lhát, jak se jim zachce). Obyvatel A prohlásí: „Jsem lhář.“ Co je A zač?",
+    "options": [
+      "A je rytíř, protože jen ten může takto mluvit.",
+      "A je lhář, jeho výrok je tudíž nepravdivý.",
+      "Zadání je rozporné, takový obyvatel neexistuje.",
+      "A je normál — jediná bezrozporná možnost."
+    ],
+    "correct": 3,
+    "explanation": "Kdyby byl A rytíř, byl by jeho výrok pravdivý, a A by byl lhář — spor. Kdyby byl A lhář, musel by výrok být nepravdivý, tedy by A lhář nebyl — opět spor. Zbývá normál: ten není lhář, jeho výrok je tedy nepravdivý, a normál lhát smí.",
+    "source": "Smullyan, ostrov s normály",
+    "seedElo": 1650
+  },
+  {
+    "id": "log-A09",
+    "type": "F",
+    "category": "logika",
+    "text": "Před vámi jsou dvoje dveře, jedny vedou ke svobodě. Hlídá je jediný strážce, o kterém víte jen to, že buď vždy mluví pravdu, nebo vždy lže. Strážce zná správné dveře a vy smíte položit jedinou otázku s odpovědí ano/ne. Která otázka vám spolehlivě odhalí správné dveře?",
+    "options": [
+      "„Kdybych se zeptal, zda levé vedou ke svobodě, řekl bys ano?“",
+      "„Vedou levé dveře přímo ke svobodě?“ — ano znamená levé.",
+      "„Jsi ty pravdomluvný strážce?“ — ano znamená levé dveře.",
+      "„Víš dobře, které dveře vedou ke svobodě?“ — ano je levé."
+    ],
+    "correct": 0,
+    "explanation": "Vnořená otázka nutí strážce lhát dvakrát, a dvě lži se navzájem vyruší. Pravdomluvný odpoví „ano“ právě když levé dveře vedou ke svobodě; lhář by na přímou otázku odpověděl „ne“, ale o téhle své odpovědi zase zalže a řekne „ano“. Obě role tedy dávají stejnou odpověď a „ano“ znamená levé dveře.",
+    "source": "klasická úloha o strážci",
+    "seedElo": 1700
+  },
+  {
+    "id": "log-A10",
+    "type": "F",
+    "category": "logika",
+    "text": "K výroku „Každý harmonikář je hudebník“ utvořte obměnu (kontrapozici). Která možnost to je?",
+    "options": [
+      "Kdo je hudebník, je také harmonikář.",
+      "Kdo není hudebník, není harmonikář.",
+      "Kdo není harmonikář, není hudebník.",
+      "Někteří hudebníci nejsou harmonikáři."
+    ],
+    "correct": 1,
+    "explanation": "Obměna vzniká prohozením obou částí a současným znegováním obou: z „každé P je Q“ dostaneme „každé ne-Q je ne-P“, a ta je s původním výrokem ekvivalentní. Pouhé obrácení (prohození bez negace) ani pouhá inverze (negace bez prohození) ekvivalenci nedávají. Poslední možnost je sice pravděpodobná, ze zadání ale neplyne.",
+    "source": "obměna vs. obrácení",
+    "seedElo": 1650
+  },
+  {
+    "id": "log-A11",
+    "type": "F",
+    "category": "logika",
+    "text": "Víme dvě věci: „Všichni členové spolku platí příspěvky“ a „Někteří studenti platí příspěvky“. Co z toho plyne o vztahu studentů a spolku?",
+    "options": [
+      "Někteří studenti jsou členy spolku.",
+      "Žádný student není členem spolku.",
+      "O vztahu studentů a spolku neplyne nic.",
+      "Všichni studenti jsou členy spolku."
+    ],
+    "correct": 2,
+    "explanation": "Střední pojem „platí příspěvky“ není ani v jedné premise vzat v celém rozsahu, takže sylogismus je neplatný (klam nerozloženého středu). Příspěvky mohou platit i lidé mimo spolek, a právě mezi ně mohou spadat všichni ti studenti. Stejně dobře ale mohou být členy — zadání to nerozhodne ani jedním směrem.",
+    "source": "klamný sylogismus: nerozložený střed",
+    "seedElo": 1700
+  },
+  {
+    "id": "log-A12",
+    "type": "F",
+    "category": "logika",
+    "text": "Novinář napsal: „Někteří poslanci nehlasovali.“ Který výrok je přesnou negací této věty?",
+    "options": [
+      "Někteří poslanci hlasovali.",
+      "Žádný poslanec nehlasoval.",
+      "Ne všichni poslanci hlasovali.",
+      "Všichni poslanci hlasovali."
+    ],
+    "correct": 3,
+    "explanation": "Věta tvrdí, že existuje aspoň jeden poslanec, který nehlasoval. Její negace popírá tuto existenci, tedy tvrdí, že žádný takový není — a to znamená, že hlasovali všichni. Výroky o „některých, kteří hlasovali“ mohou platit současně s původní větou, takže jejími negacemi být nemohou.",
+    "source": "negace existenčního kvantifikátoru",
+    "seedElo": 1700
+  },
+  {
+    "id": "log-A13",
+    "type": "F",
+    "category": "logika",
+    "text": "Na ostrově rytířů (vždy pravda) a lhářů (vždy lež) potkáte tři obyvatele. A říká: „Všichni tři jsme lháři.“ B říká: „Právě jeden z nás tří je rytíř.“ Kdo je kdo?",
+    "options": [
+      "A je lhář, B rytíř a C lhář.",
+      "A je lhář, B lhář a C rytíř.",
+      "A je lhář, B rytíř a C rytíř.",
+      "Situace nemá jednoznačné řešení."
+    ],
+    "correct": 0,
+    "explanation": "A nemůže být rytíř, protože by tvrdil, že sám je lhář; A je tedy lhář a jeho výrok je nepravdivý, takže aspoň jeden z B a C je rytíř. Kdyby byl B lhář, byl by rytířem jedině C, jenže pak by B tvrdil pravdu — spor. B je tedy rytíř, jeho výrok platí, a protože rytíř je právě jeden, musí být C lhář.",
+    "source": "Smullyan, rytíři a lháři",
+    "seedElo": 1750
+  },
+  {
+    "id": "log-A14",
+    "type": "F",
+    "category": "logika",
+    "text": "Je ve výrokové logice pravdivý výrok „Jestliže je Praha v Asii, pak je Měsíc ze sýra“?",
+    "options": [
+      "Ne, je nepravdivá, protože Měsíc ze sýra rozhodně není.",
+      "Ano, ve výrokové logice je pravdivá, protože antecedent neplatí.",
+      "Ne, nelze o ní rozhodnout, obě části jsou nepravdivé.",
+      "Ano, ale pouze kdyby obě části výroku byly pravdivé."
+    ],
+    "correct": 1,
+    "explanation": "Materiální implikace je nepravdivá v jediném případě: když antecedent platí a konsekvent ne. Praha v Asii není, antecedent je tedy nepravdivý a implikace vychází pravdivá bez ohledu na Měsíc. Odtud rčení, že z nepravdy plyne cokoli — což je vlastnost logické spojky, ne tvrzení o věcné souvislosti.",
+    "source": "materiální implikace, tabulka pravdivosti",
+    "seedElo": 1700
+  },
+  {
+    "id": "log-A15",
+    "type": "F",
+    "category": "logika",
+    "text": "Matka řekne: „Půjdeš ven, jen když uklidíš pokoj.“ Co tím logicky tvrdí?",
+    "options": [
+      "Když uklidíš pokoj, půjdeš zaručeně ven.",
+      "Uklizení pokoje je postačující podmínkou vycházky.",
+      "Když půjdeš ven, znamená to, že jsi uklidil.",
+      "Když pokoj neuklidíš, stejně můžeš jít ven."
+    ],
+    "correct": 2,
+    "explanation": "Spojení „jen když“ zavádí nutnou podmínku, takže platí implikace od vycházky k úklidu, nikoli obráceně. Uklizený pokoj tedy vycházku nezaručuje — matka může říct ne z jiného důvodu. Běžný omyl je číst „jen když“ jako „když“, tedy zaměnit nutnost za postačitelnost.",
+    "source": "podmíněné výroky v přirozeném jazyce",
+    "seedElo": 1750
+  },
+  {
+    "id": "log-A16",
+    "type": "F",
+    "category": "logika",
+    "text": "Na ostrově rytířů (vždy pravda) a lhářů (vždy lež) říká A: „B je rytíř.“ B na to říká: „Já a A jsme každý jiného typu.“ Co jsou zač?",
+    "options": [
+      "A je rytíř a B je rovněž rytíř.",
+      "A je rytíř a B je naopak lhář.",
+      "A je lhář a B je naopak rytíř.",
+      "A je lhář a B je rovněž lhář."
+    ],
+    "correct": 3,
+    "explanation": "Kdyby byl A rytíř, byl by rytíř i B, jenže pak by B pravdivě tvrdil, že jsou různého typu — spor, protože by byli stejní. A je tedy lhář a jeho výrok je nepravdivý, takže B je také lhář. To sedí: B lže, když tvrdí odlišnost, a oba jsou opravdu stejného typu.",
+    "source": "Smullyan, rytíři a lháři",
+    "seedElo": 1800
+  },
+  {
+    "id": "log-A17",
+    "type": "F",
+    "category": "logika",
+    "text": "Vyučující prohlásil: „Není pravda, že každý student, který přišel, dostal zápočet.“ Co z toho plyne?",
+    "options": [
+      "Existuje student, který přišel a zápočet nedostal.",
+      "Žádný student, který přišel, zápočet nedostal.",
+      "Existuje student, který nepřišel a zápočet dostal.",
+      "Každý student, který přišel, zápočet nedostal."
+    ],
+    "correct": 0,
+    "explanation": "Původní věta je obecný výrok o implikaci, a jeho negace je existenční výrok, v němž se implikace rozpadne na konjunkci: existuje někdo, kdo splnil předpoklad a nesplnil závěr. Stačí tedy jediný student, který přišel a zápočet nemá. Silná tvrzení o všech příchozích jsou mnohem víc, než negace vyžaduje.",
+    "source": "negace obecného výroku s implikací",
+    "seedElo": 1750
+  },
+  {
+    "id": "log-A18",
+    "type": "F",
+    "category": "logika",
+    "text": "V klubu platí tři pravidla: (1) Kdo chodí na trénink, hraje zápas. (2) Kdo hraje zápas, dostane dres. (3) Karel dres nedostal. Co jistě platí?",
+    "options": [
+      "Karel nechodí na trénink, ale zápas hrát může.",
+      "Karel nechodí na trénink ani nehraje zápas.",
+      "Karel hraje zápas, jen mu zapomněli dát dres.",
+      "Karel chodí na trénink, ale zápas nikdy nehraje."
+    ],
+    "correct": 1,
+    "explanation": "Z pravidla (2) a faktu (3) plyne obměnou, že Karel zápas nehraje. Z pravidla (1) pak stejným krokem plyne, že nechodí ani na trénink. Řetězec obměn tak popírá obě dřívější části najednou; kdo popře jen jednu, zůstal v půli cesty.",
+    "source": "řetězec implikací a obměna",
+    "seedElo": 1800
+  },
+  {
+    "id": "log-A19",
+    "type": "F",
+    "category": "logika",
+    "text": "Na ostrově rytířů (vždy pravda) a lhářů (vždy lež) prohlásí A: „Jsem lhář, nebo je B rytíř.“ (Spojka „nebo“ je nevylučovací.) Co jsou A a B zač?",
+    "options": [
+      "A je lhář a zároveň B je rytíř.",
+      "A je rytíř a zároveň B je lhář.",
+      "A je rytíř a B je rovněž rytíř.",
+      "A je lhář a B je rovněž lhář."
+    ],
+    "correct": 2,
+    "explanation": "Kdyby byl A lhář, musela by být celá disjunkce nepravdivá, tedy nepravdivá i její první část — jenže ta by v tom případě platila, spor. A je tedy rytíř a jeho výrok je pravdivý. První část je nepravdivá (rytíř není lhář), takže pravdu musí nést druhá: B je rytíř.",
+    "source": "Smullyan, sebereferenční disjunkce",
+    "seedElo": 1850
+  },
+  {
+    "id": "log-A20",
+    "type": "F",
+    "category": "logika",
+    "text": "Pravidlo zní: „Kdo pije alkohol, musí být starší osmnácti let.“ U stolu sedí čtyři lidé. O prvním víte jen to, že pije pivo, o druhém že pije limonádu, o třetím že je mu šestnáct a o čtvrtém že je mu dvacet pět. U koho je nutné zjistit chybějící údaj, aby se ověřilo dodržení pravidla?",
+    "options": [
+      "U toho s pivem a u toho, komu je dvacet pět let.",
+      "U toho s limonádou a u toho, komu je šestnáct.",
+      "Jen u toho, kdo pije pivo — ostatní jsou v pořádku.",
+      "U toho s pivem a u toho, komu je šestnáct let."
+    ],
+    "correct": 3,
+    "explanation": "Pravidlo poruší jedině člověk, který pije alkohol a je mladší osmnácti. U pivaře je tedy nutné zjistit věk a u šestnáctiletého nápoj — to je test kontrapozice. Limonáda ani věk dvacet pět let porušení umožnit nemohou, takže tam kontrola nic nepřinese.",
+    "source": "Wasonova úloha, kontextová varianta",
+    "seedElo": 1800
+  },
+  {
+    "id": "log-A21",
+    "type": "F",
+    "category": "logika",
+    "text": "Víme: „Žádný podvodník není důvěryhodný“ a „Někteří obchodníci nejsou podvodníci“. Co z toho plyne o obchodnících?",
+    "options": [
+      "Nic z toho o obchodnících neplyne.",
+      "Někteří obchodníci jsou důvěryhodní.",
+      "Někteří obchodníci nejsou důvěryhodní.",
+      "Žádný obchodník není důvěryhodný."
+    ],
+    "correct": 0,
+    "explanation": "První premisa říká něco jen o podvodnících, druhá mluví o obchodnících, kteří podvodníky nejsou — a o těch první premisa mlčí. Nepodvodník může být důvěryhodný i nedůvěryhodný, sylogismus tedy nedává žádný závěr (obě premisy jsou fakticky negativní vůči střednímu pojmu). Lákavý závěr o důvěryhodných obchodnících je klamem popřeného středního pojmu.",
+    "source": "klamný sylogismus se dvěma negativními premisami",
+    "seedElo": 1850
+  },
+  {
+    "id": "log-A22",
+    "type": "F",
+    "category": "logika",
+    "text": "Na ostrově rytířů (vždy pravda) a lhářů (vždy lež) potkáte A, B a C. A říká: „B a C jsou stejného typu.“ C říká: „Já a A jsme každý jiného typu.“ Co lze o nich s jistotou určit?",
+    "options": [
+      "A je lhář, B je lhář a C je rytíř.",
+      "A je lhář; typ B a C určit nelze.",
+      "A je rytíř; B a C jsou oba lháři.",
+      "A je rytíř, B je lhář a C je rytíř."
+    ],
+    "correct": 1,
+    "explanation": "Kdyby byl A rytíř, byli by B a C stejného typu, a C by pak tvrdil odlišnost od A: jsou-li oba rytíři, C by lhal, jsou-li oba lháři, C by mluvil pravdu — obojí je spor. A je tedy lhář. Zbývají dvě bezrozporné možnosti: (A lhář, B lhář, C rytíř) i (A lhář, B rytíř, C lhář) sedí na obě výpovědi, takže o B a C rozhodnout nelze.",
+    "source": "Smullyan, úloha s nejednoznačným řešením",
+    "seedElo": 1900
+  },
+  {
+    "id": "log-A23",
+    "type": "F",
+    "category": "logika",
+    "text": "Na rozcestí na ostrově rytířů (vždy pravda) a lhářů (vždy lež) potkáte obyvatele. Chcete zjistit, zda cesta doleva vede do města, ale nevíte, jakého je typu, a smíte položit jedinou otázku s odpovědí ano/ne. Po které otázce znamená „ano“ spolehlivě to, že cesta doleva do města vede?",
+    "options": [
+      "„Jsi rytíř a vede zároveň cesta doleva do města?“",
+      "„Vede tahle cesta doleva opravdu přímo do města?“",
+      "„Jsi rytíř právě tehdy, když cesta doleva vede do města?“",
+      "„Jsi lhář, anebo vede cesta doleva rovnou do města?“"
+    ],
+    "correct": 2,
+    "explanation": "U rytíře je část „jsi rytíř“ pravdivá, takže hodnota celé ekvivalence se rovná tomu, zda cesta vede do města, a rytíř to řekne pravdivě. U lháře je tato část nepravdivá, takže ekvivalence má opačnou hodnotu než skutečnost — jenže lhář ještě jednou převrátí, a odpoví stejně jako rytíř. Ostatní varianty selžou: přímá otázka rozliší jen typ, konjunkce vynutí u lháře vždy „ano“ a disjunkce s „jsi lhář“ dá u obou typů opačné odpovědi.",
+    "source": "Smullyan, otázka s vnořenou ekvivalencí",
+    "seedElo": 1900
+  },
+  {
+    "id": "log-A24",
+    "type": "F",
+    "category": "logika",
+    "text": "Porovnejte dva výroky. Výrok A: „Každý zaměstnanec má nějakého nadřízeného.“ Výrok B: „Existuje někdo, kdo je nadřízeným každého zaměstnance.“ Jaký je mezi nimi logický vztah?",
+    "options": [
+      "Z výroku A plyne výrok B, obráceně to neplatí.",
+      "Oba výroky jsou logicky navzájem ekvivalentní.",
+      "Mezi výroky není žádný logický vztah, jsou nezávislé.",
+      "Z výroku B plyne výrok A, obráceně to neplatí."
+    ],
+    "correct": 3,
+    "explanation": "Ve výroku B je existenční kvantifikátor vnější, takže jde o jediného nadřízeného společného všem; v A je vnitřní, takže každý může mít nadřízeného jiného. Existuje-li jeden šéf všech, má nadřízeného opravdu každý, takže z B plyne A. Opačně to selže: firma s několika nezávislými odděleními splňuje A a nesplňuje B.",
+    "source": "pořadí kvantifikátorů",
+    "seedElo": 1900
+  },
+  {
+    "id": "log-A25",
+    "type": "F",
+    "category": "logika",
+    "text": "Na ostrově žijí rytíři (vždy pravda), lháři (vždy lež) a normálové (mohou mluvit pravdu i lhát). Potkáte A, B a C a víte, že mezi nimi je právě jeden rytíř, právě jeden lhář a právě jeden normál. A říká: „Jsem normál.“ B říká: „A mluví pravdu.“ C říká: „Já normál nejsem.“ Kdo je kdo?",
+    "options": [
+      "A je lhář, B je normál a C je rytíř.",
+      "A je normál, B je rytíř a C je lhář.",
+      "A je rytíř, B je lhář a C je normál.",
+      "A je normál, B je lhář a C je rytíř."
+    ],
+    "correct": 0,
+    "explanation": "A nemůže být rytíř, protože by pravdivě tvrdil, že rytíř není. Kdyby byl A normál, byl by výrok B pravdivý, takže B by musel být rytíř a C lhář — jenže C by pak nepravdivě popíral, že je normál, což je ale pravda, a lhář pravdu říct nesmí; spor. Zbývá A lhář: pak je výrok B nepravdivý, takže B není rytíř a musí být normál, C je rytíř a jeho pravdivé „nejsem normál“ sedí.",
+    "source": "Smullyan, rytíř, lhář a normál",
+    "seedElo": 1950
+  },
+  {
+    "id": "log-A26",
+    "type": "F",
+    "category": "logika",
+    "text": "O výrocích P a Q víte jedinou věc: výrok „jestliže P, pak Q“ je nepravdivý. Co jistě platí o výroku „jestliže Q, pak P“?",
+    "options": [
+      "Je nepravdivý, protože obrací původní implikaci.",
+      "Je pravdivý, protože Q neplatí a P platí.",
+      "Je pravdivý pouze tehdy, je-li Q pravdivé.",
+      "Nelze rozhodnout, chybí informace o P a Q."
+    ],
+    "correct": 1,
+    "explanation": "Implikace je nepravdivá v jediném případě, takže z nepravdivosti „P, tedy Q“ plyne, že P je pravdivé a Q nepravdivé. Obrácená implikace má pak nepravdivý antecedent, a je tudíž pravdivá. Nepravdivá implikace tedy jednoznačně určuje pravdivostní hodnoty obou svých částí — a to je klíč k celé úloze.",
+    "source": "tabulka pravdivosti implikace",
+    "seedElo": 1950
+  },
+  {
+    "id": "log-A27",
+    "type": "F",
+    "category": "logika",
+    "text": "Na ostrově rytířů (vždy pravda) a lhářů (vždy lež) prohlásí obyvatel A: „Jestliže jsem rytíř, pak je můj bratr rytíř.“ Co z toho plyne?",
+    "options": [
+      "A je lhář a jeho bratr je také lhář.",
+      "A je rytíř, ale o bratrovi nelze nic říct.",
+      "A je rytíř a jeho bratr je také rytíř.",
+      "A je lhář, jeho bratr je naopak rytíř."
+    ],
+    "correct": 2,
+    "explanation": "Kdyby byl A lhář, byl by předpoklad jeho implikace nepravdivý, a celá implikace by tím byla pravdivá — jenže lhář pravdivý výrok vyslovit nesmí, spor. A je tedy rytíř a jeho výrok platí. Protože předpoklad „jsem rytíř“ je teď splněn, plyne modem ponens, že bratr je rovněž rytíř.",
+    "source": "Smullyan, sebereferenční implikace",
+    "seedElo": 1900
+  },
+  {
+    "id": "log-A28",
+    "type": "F",
+    "category": "logika",
+    "text": "Na ostrově rytířů (vždy pravda) a lhářů (vždy lež) potkáte čtveřici A, B, C, D. A říká: „Přesně jeden z nás čtyř je rytíř.“ B říká: „Přesně dva z nás čtyř jsou rytíři.“ C říká: „Přesně tři z nás čtyř jsou rytíři.“ D říká: „Nikdo z nás čtyř není rytíř.“ Kolik je mezi nimi rytířů a kdo jimi je?",
+    "options": [
+      "Rytíři jsou právě dva, konkrétně A a B.",
+      "Rytíři jsou tři, lhář je pouze obyvatel D.",
+      "Rytíř není žádný, všichni čtyři jsou lháři.",
+      "Rytíř je právě jeden, konkrétně obyvatel A."
+    ],
+    "correct": 3,
+    "explanation": "Čtyři výroky uvádějí čtyři různé počty, takže pravdivý může být nejvýš jeden — a tedy mezi nimi může být nejvýš jeden rytíř. D rytíř být nemůže (popíral by sám sebe), takže jeho výrok je nepravdivý a aspoň jeden rytíř existuje. Rytíř je tedy přesně jeden, čímž se stává pravdivým výrok A; a protože lhář pravdu říct nesmí, je tím rytířem právě A, zatímco B, C i D lžou.",
+    "source": "Smullyan, výroky o počtu rytířů",
+    "seedElo": 2000
+  },
+  {
+    "id": "log-A29",
+    "type": "F",
+    "category": "logika",
+    "text": "U soudu platí: (1) Je-li obžalovaný vinen, měl komplice. (2) Měl-li komplice, sám na místě činu nebyl. (3) Není-li obžalovaný vinen, lhal o svém alibi. Navíc je prokázáno, že obžalovaný na místě činu byl. Co z toho plyne?",
+    "options": [
+      "Obžalovaný není vinen, ale o alibi lhal.",
+      "Obžalovaný je vinen a o alibi navíc lhal.",
+      "Obžalovaný není vinen a o alibi nelhal.",
+      "Obžalovaný měl komplice a o alibi nelhal."
+    ],
+    "correct": 0,
+    "explanation": "Z faktu, že na místě činu byl, plyne obměnou pravidla (2), že komplice neměl. Obměnou pravidla (1) pak plyne, že vinen není. Modus ponens na pravidlo (3) nakonec dává, že o alibi lhal — nevina a lež o alibi tedy platí současně.",
+    "source": "řetězec obměn a modus ponens",
+    "seedElo": 1950
+  },
+  {
+    "id": "log-A30",
+    "type": "F",
+    "category": "logika",
+    "text": "Na ostrově rytířů (vždy pravda) a lhářů (vždy lež) prohlásí A: „Jsem lhář právě tehdy, když je B lhář.“ Co z toho plyne?",
+    "options": [
+      "A i B jsou rytíři, jiná možnost není.",
+      "B je rytíř, o typu A rozhodnout nelze.",
+      "A je lhář a B je rovněž lhář, nutně.",
+      "Nelze rozhodnout ani o A, ani o B."
+    ],
+    "correct": 1,
+    "explanation": "Ekvivalence dvou negací má stejnou hodnotu jako ekvivalence původních výroků, takže A vlastně tvrdí „A a B jsou stejného typu“. Je-li A rytíř, musí být toto tvrzení pravdivé, tedy B je rytíř. Je-li A lhář, musí být nepravdivé, tedy jsou různého typu — a B je opět rytíř. Obě větve jsou bezrozporné, takže o B víme jistě, o A nikoli.",
+    "source": "Smullyan, ekvivalence dvou negací",
+    "seedElo": 2000
+  },
+  {
+    "id": "log-A31",
+    "type": "F",
+    "category": "logika",
+    "text": "Trenér varuje: „Stačí jediná chyba a přijdeš o titul.“ Který výrok tomu logicky odpovídá?",
+    "options": [
+      "Chyba je nutnou podmínkou ztráty titulu.",
+      "Bez chyby titul rozhodně neztratíš, nikdy.",
+      "Chyba je postačující podmínkou ztráty titulu.",
+      "Titul ztratíš právě tehdy, uděláš-li chybu."
+    ],
+    "correct": 2,
+    "explanation": "Slovo „stačí“ zavádí postačující podmínku: chyba implikuje ztrátu titulu. Neříká se ale, že je to jediná cesta ke ztrátě — o titul můžeš přijít i bez chyby, třeba diskvalifikací. Číst větu jako nutnou podmínku nebo rovnou jako ekvivalenci znamená přidat si informaci, která v zadání není.",
+    "source": "nutná vs. postačující podmínka",
+    "seedElo": 1600
+  },
+  {
+    "id": "log-A32",
+    "type": "F",
+    "category": "logika",
+    "text": "Recepční řekla: „Nemáme volný pokoj ani parkovací místo.“ Který výrok je s tím logicky ekvivalentní?",
+    "options": [
+      "Není pravda, že mají volný pokoj a zároveň místo.",
+      "Mají buď volný pokoj, anebo parkovací místo.",
+      "Nemají volný pokoj, ale parkovací místo mají.",
+      "Není pravda, že mají volný pokoj nebo místo."
+    ],
+    "correct": 3,
+    "explanation": "Vazba „ani — ani“ je konjunkce dvou negací, tedy nemají pokoj a zároveň nemají místo. De Morganův zákon říká, že to je totéž jako negace disjunkce: není pravda, že mají to nebo ono. Negace konjunkce je naopak slabší tvrzení — připouštěla by, že jednu z obou věcí mají.",
+    "source": "De Morganovy zákony",
+    "seedElo": 1550
+  }
+]

@@ -1,0 +1,514 @@
+[
+  {
+    "id": "log-C01",
+    "type": "F",
+    "category": "logika",
+    "text": "Russellův paradox vzniká, když se zeptáme, zda:",
+    "options": [
+      "množina všech množin, které nejsou prvkem sebe sama, je prvkem sebe sama",
+      "existuje množina, která má stejnou mohutnost jako její potenční množina",
+      "množina všech přirozených čísel je prvkem množiny všech reálných čísel",
+      "prázdná množina je podmnožinou úplně každé množiny, tedy i sebe samé"
+    ],
+    "correct": 0,
+    "explanation": "Označme R množinu všech množin, které nejsou svým vlastním prvkem. Je-li R prvkem R, pak podle definice být nesmí; není-li, pak podle definice být musí. Paradox ukazuje, že naivní představa „ke každé vlastnosti existuje množina všech objektů s ní“ je sporná.",
+    "source": "Bertrand Russell (1901–1902)",
+    "seedElo": 1450
+  },
+  {
+    "id": "log-C02",
+    "type": "F",
+    "category": "logika",
+    "text": "Co Cantor dokázal svou diagonální metodou?",
+    "options": [
+      "Že množina všech racionálních čísel je nespočetná, tedy větší než N",
+      "Že reálná čísla nelze spárovat s přirozenými, je jich tedy více",
+      "Že mezi každými dvěma reálnými čísly leží nekonečně mnoho dalších",
+      "Že přirozených, celých i racionálních čísel je přesně stejně mnoho"
+    ],
+    "correct": 1,
+    "explanation": "Předpokládejme, že máme seznam všech reálných čísel z intervalu (0,1). Sestrojíme číslo, které se od n-tého čísla seznamu liší na n-té desetinné pozici — v seznamu tedy být nemůže. Nekonečna se tak liší velikostí: reálných čísel je víc než přirozených.",
+    "source": "Georg Cantor (1891)",
+    "seedElo": 1480
+  },
+  {
+    "id": "log-C03",
+    "type": "F",
+    "category": "logika",
+    "text": "Turingův výsledek o problému zastavení říká, že:",
+    "options": [
+      "žádný program se nedokáže sám ukončit bez zásahu operačního systému",
+      "existují programy, u nichž nikdy nezjistíme, zda se zastaví, ani pokusem",
+      "neexistuje algoritmus, který o každém programu a vstupu rozhodne zastavení",
+      "každý dostatečně dlouhý program se dříve či později zacyklí donekonečna"
+    ],
+    "correct": 2,
+    "explanation": "Důkaz je diagonální: kdyby univerzální rozhodovač H existoval, sestrojíme program, který se zeptá H na sebe sama a udělá pravý opak. U mnoha konkrétních programů zastavení rozhodnout umíme; nemožná je jen obecná metoda fungující na všechny případy.",
+    "source": "Alan Turing, On Computable Numbers (1936)",
+    "seedElo": 1500
+  },
+  {
+    "id": "log-C04",
+    "type": "F",
+    "category": "logika",
+    "text": "První Gödelova věta o neúplnosti tvrdí, že v každé bezesporné, rekurzivně axiomatizované teorii dostatečně silné pro aritmetiku:",
+    "options": [
+      "je alespoň jedno z jejích axiomatických tvrzení nutně nepravdivé",
+      "nelze dokázat vůbec žádné netriviální tvrzení o přirozených číslech",
+      "je vždy možné najít spor, stačí v ní hledat dostatečně dlouhou dobu",
+      "existuje tvrzení, které v ní nelze ani dokázat, ani vyvrátit"
+    ],
+    "correct": 3,
+    "explanation": "Věta mluví o formálních systémech, ne o poznání obecně: pro každý takový systém existuje věta nerozhodnutelná právě v něm. Předpoklady jsou podstatné — bezespornost, rekurzivně vyčíslitelná množina axiomů a dostatečná aritmetická síla. Nerozhodnutelnou větu lze zpravidla dokázat v silnější teorii.",
+    "source": "Kurt Gödel, Über formal unentscheidbare Sätze (1931)",
+    "seedElo": 1530
+  },
+  {
+    "id": "log-C05",
+    "type": "F",
+    "category": "logika",
+    "text": "Jádrem paradoxu hromady (sorites) je:",
+    "options": [
+      "že hromadu nelze definovat, protože zrna nemají pevný tvar ani hmotnost",
+      "že každé jednotlivé odebrání zrna vypadá neškodně, jejich součet ne",
+      "že hromada zrn není fyzikální objekt, nýbrž pouhá jazyková zkratka",
+      "že různí lidé odhadují počet zrn v téže hromadě dost odlišně"
+    ],
+    "correct": 1,
+    "explanation": "Z pravdivé premisy „milion zrn je hromada“ a zdánlivě nevinného kroku „odebrání jednoho zrna hromadu nezruší“ dojdeme k závěru, že hromadou je i jedno zrno. Vinu nese vágnost predikátu: buď existuje ostrá, ale nepoznatelná hranice (epistemicismus), nebo krokové pravidlo neplatí přesně.",
+    "source": "Eubúlidés z Milétu; moderní diskuse Timothy Williamson",
+    "seedElo": 1550
+  },
+  {
+    "id": "log-C06",
+    "type": "F",
+    "category": "logika",
+    "text": "Berryho paradox pracuje s výrazem „nejmenší číslo, které nelze popsat méně než třinácti slovy“. Kde je potíž?",
+    "options": [
+      "Takových čísel je nekonečně mnoho, výraz proto neurčuje ani jedno",
+      "Slova jako „popsat“ nemají v matematice žádnou pevnou definici",
+      "Číslo vyjde tak velké, že je nelze zapsat konečným počtem znaků",
+      "Sám ten výraz je kratším popisem, než jaký tomu číslu přisuzuje"
+    ],
+    "correct": 3,
+    "explanation": "Popisů kratších než třináct slov je konečně mnoho, takové číslo tedy existuje — jenže samotný citovaný výraz je popis kratší, takže číslo popisuje i nepopisuje zároveň. Standardní rozuzlení: pojem „popsatelnost v jazyce“ nelze definovat uvnitř téhož jazyka. Chaitin z téhož jádra vytěžil důkaz o mezích Kolmogorovské složitosti.",
+    "source": "G. G. Berry, publikoval Russell (1908)",
+    "seedElo": 1600
+  },
+  {
+    "id": "log-C07",
+    "type": "F",
+    "category": "logika",
+    "text": "Grellingův paradox se ptá, zda je slovo „heterologické“ (= nepopisující samo sebe) heterologické. Výsledek:",
+    "options": [
+      "Je heterologické právě tehdy, když heterologické není — antinomie",
+      "Je autologické, protože každé české slovo popisuje samo sebe",
+      "Otázka nedává smysl, jelikož slova sama nemají vůbec žádné vlastnosti",
+      "Je heterologické, ovšem pouze v jazycích, které píší latinkou"
+    ],
+    "correct": 0,
+    "explanation": "„Krátké“ je krátké slovo, tedy autologické; „dlouhé“ dlouhé není, je heterologické. U samotného slova „heterologické“ obě odpovědi vedou k opaku sebe sama. Jde o sémantickou antinomii téhož typu jako lhář — řeší se rozlišením jazyka a metajazyka, ne opravou slovníku.",
+    "source": "Kurt Grelling a Leonard Nelson (1908)",
+    "seedElo": 1620
+  },
+  {
+    "id": "log-C08",
+    "type": "F",
+    "category": "logika",
+    "text": "Za „paradoxy materiální implikace“ se označuje fakt, že:",
+    "options": [
+      "implikace je nepravdivá vždy, když spolu obě její části nijak nesouvisí",
+      "implikace mění pravdivost podle toho, v jakém pořadí ji přečteme",
+      "z nepravdivého předpokladu plyne cokoli a pravdivý závěr plyne odkudkoli",
+      "implikaci nelze zapsat pravdivostní tabulkou, na rozdíl od spojky „a“"
+    ],
+    "correct": 2,
+    "explanation": "Podmínka A → B je v klasické logice definována jen pravdivostními hodnotami, takže „je-li Měsíc ze sýra, pak 2+2=4“ vychází pravdivě. Odporuje to běžnému chápání podmínky jako souvislosti mezi obsahy. Relevantní a striktní implikace jsou pokusy tuto souvislost do logiky vrátit.",
+    "source": "C. I. Lewis, kritika Principia Mathematica",
+    "seedElo": 1640
+  },
+  {
+    "id": "log-C09",
+    "type": "F",
+    "category": "logika",
+    "text": "Jaký je status hypotézy kontinua vůči axiomům ZFC?",
+    "options": [
+      "Byla dokázána Cantorem, jeho důkaz byl však dlouho přehlížen a ztracen",
+      "Byla vyvrácena, mezi N a R skutečně existuje mezilehlá mohutnost",
+      "Je nezávislá: Gödel ukázal bezespornost, Cohen nedokazatelnost",
+      "Zůstává otevřeným problémem, na jehož vyřešení je vypsána odměna"
+    ],
+    "correct": 2,
+    "explanation": "Gödel roku 1940 ukázal, že hypotézu kontinua nelze z ZFC vyvrátit, Cohen roku 1963 metodou forcingu, že ji nelze dokázat. ZFC tedy otázku „existuje mohutnost mezi N a R?“ nerozhoduje. Zda je tím věc uzavřena, nebo je třeba hledat nové axiomy, je dodnes filosofický spor.",
+    "source": "Kurt Gödel (1940), Paul Cohen (1963)",
+    "seedElo": 1650
+  },
+  {
+    "id": "log-C10",
+    "type": "F",
+    "category": "logika",
+    "text": "Moorův paradox se týká vět typu „Prší, ale já tomu nevěřím.“ Taková věta:",
+    "options": [
+      "může být pravdivá, přesto ji nelze smysluplně upřímně vyslovit",
+      "je logicky sporná, protože tvrdí i popírá jednu a tutéž věc",
+      "je vždy nepravdivá, neboť mluvčí zná počasí ze své vlastní zkušenosti",
+      "je pravdivá jen tehdy, pokud mluvčí zároveň lže o svém stavu"
+    ],
+    "correct": 0,
+    "explanation": "Nejde o logický spor: klidně může pršet a já tomu nevěřit, o třetí osobě to řekneme bez potíží. Rozpor je pragmatický — tvrzením se zavazuji k víře v to, co tvrdím, a druhá půlka věty tento závazek popírá. Wittgenstein v tom viděl Moorův nejzajímavější objev.",
+    "source": "G. E. Moore (1942)",
+    "seedElo": 1660
+  },
+  {
+    "id": "log-C11",
+    "type": "F",
+    "category": "logika",
+    "text": "Jaký je rozdíl mezi zápisy A ⊢ B a A ⊨ B?",
+    "options": [
+      "První je zápis v jazyce teorie, druhý zápis v metajazyce o ní",
+      "První platí jen pro konečné množiny A, druhý i pro nekonečné",
+      "První se týká pravdivosti, druhý odvoditelnosti podle pravidel",
+      "První značí odvoditelnost důkazem, druhý platnost ve všech modelech"
+    ],
+    "correct": 3,
+    "explanation": "⊢ je pojem syntaktický: existuje konečná posloupnost kroků podle pravidel kalkulu. ⊨ je pojem sémantický: v každé interpretaci, kde platí A, platí i B. Že tyto dva pojmy pro predikátovou logiku splývají, není samozřejmost, nýbrž obsah vět o korektnosti a úplnosti.",
+    "source": "standardní metalogika",
+    "seedElo": 1670
+  },
+  {
+    "id": "log-C12",
+    "type": "F",
+    "category": "logika",
+    "text": "Co znamená, že je logický kalkul korektní (sound) a úplný (complete)?",
+    "options": [
+      "Korektní = dokáže vše platné; úplný = nedokáže nic neplatného",
+      "Korektní = nedokáže nic neplatného; úplný = dokáže vše platné",
+      "Korektní = má konečně mnoho axiomů; úplný = rozhodne každou formuli",
+      "Korektní = je bezesporný; úplný = obsahuje všechny možné jazyky"
+    ],
+    "correct": 1,
+    "explanation": "Korektnost je bezpečnost: co odvodíš, to opravdu sémanticky platí (⊢ implikuje ⊨). Úplnost je síla: co platí ve všech modelech, to jde i odvodit (⊨ implikuje ⊢). Pozor na záměnu s úplností teorie, tedy s tím, že teorie rozhoduje každou větu svého jazyka — to je jiný pojem.",
+    "source": "standardní metalogika",
+    "seedElo": 1680
+  },
+  {
+    "id": "log-C13",
+    "type": "F",
+    "category": "logika",
+    "text": "Jak standardní teorie množin ZF blokuje Russellův paradox?",
+    "options": [
+      "Zakazuje množinám mít nekonečně mnoho prvků, spor tak nevznikne",
+      "Prohlašuje spornou množinu za pravdivou i nepravdivou zároveň",
+      "Zavádí třetí pravdivostní hodnotu pro tvrzení o sebepříslušnosti",
+      "Připouští vydělovat podmnožiny jen z už existující množiny"
+    ],
+    "correct": 3,
+    "explanation": "Axiom vydělení (separace) nahrazuje naivní princip „ke každé vlastnosti existuje množina“: vlastností lze pouze prořezávat množinu, kterou už máme. Russellova konstrukce pak z libovolné množiny M vyrobí objekt, jenž do M nepatří — místo sporu dostaneme důkaz, že univerzum množinou není.",
+    "source": "Ernst Zermelo (1908), Abraham Fraenkel",
+    "seedElo": 1690
+  },
+  {
+    "id": "log-C14",
+    "type": "F",
+    "category": "logika",
+    "text": "V čem se liší Zenónův Achilles se želvou od argumentu dichotomie?",
+    "options": [
+      "Achilles řeší nekonečné dělení času, dichotomie dělení prostoru",
+      "Achilles je o pohybu dvou těles, dichotomie o klidu jednoho tělesa",
+      "Dichotomie nemá první krok, Achilles ano — dělení jde opačně",
+      "Achilles předpokládá konečnou rychlost, dichotomie nekonečnou"
+    ],
+    "correct": 2,
+    "explanation": "Achilles má jasný první úsek (doběhnout tam, kde želva byla), ale žádný poslední — posloupnost se hromadí ke konci. Dichotomie v regresivní podobě naopak nemá žádný první úsek, protože před polovinou je čtvrtina a tak dál; potíž je se začátkem pohybu, ne s jeho dokončením.",
+    "source": "Zenón z Eleje, podle Aristotelovy Fyziky",
+    "seedElo": 1700
+  },
+  {
+    "id": "log-C15",
+    "type": "F",
+    "category": "logika",
+    "text": "Newcombův problém staví do sporu dva principy rozhodování. Které?",
+    "options": [
+      "Princip maximální užitečnosti proti principu minimální lítosti",
+      "Kauzální rozhodování proti evidenčnímu — dominance proti korelaci",
+      "Bayesovskou aktualizaci proti frekventistickému odhadu četností",
+      "Individuální racionalitu proti kolektivní, jako u sdílení zdrojů"
+    ],
+    "correct": 1,
+    "explanation": "Dominance říká: obsah krabic je už daný, vzít obě je za všech okolností o tisíc lepší. Evidenční úvaha říká: volba jedné krabice je silnou známkou toho, že v ní milion je. Spor je o to, zda má rozhodování sledovat kauzální vliv volby, nebo jen její vypovídací hodnotu.",
+    "source": "William Newcomb; publikoval Robert Nozick (1969)",
+    "seedElo": 1700
+  },
+  {
+    "id": "log-C16",
+    "type": "F",
+    "category": "logika",
+    "text": "Curryho paradox je pozoruhodný tím, že:",
+    "options": [
+      "z věty „je-li tato věta pravdivá, pak platí X“ odvodí libovolné X",
+      "ukazuje spor jen v logikách, které mají zákon vyloučeného třetího",
+      "vzniká teprve tehdy, když k jazyku přidáme pojem nutnosti a možnosti",
+      "dokazuje, že žádná věta o sobě samé nemůže být nikdy pravdivá"
+    ],
+    "correct": 0,
+    "explanation": "Na rozdíl od lháře nepotřebuje Curry vůbec negaci — stačí sebereference, pravidlo pro implikaci a kontrakce. Proto ho nezachrání ani parakonzistentní logiky, které se sporů nebojí: tady nehrozí spor, nýbrž dokazatelnost úplně čehokoli. Bývá to hlavní argument proti naivnímu schématu pravdy.",
+    "source": "Haskell Curry (1942)",
+    "seedElo": 1750
+  },
+  {
+    "id": "log-C17",
+    "type": "F",
+    "category": "logika",
+    "text": "Komu Russell roku 1902 poslal dopis s paradoxem a jaké dílo tím zasáhl?",
+    "options": [
+      "Gottlobu Fregemu, právě tisknutý druhý díl Základních zákonů aritmetiky",
+      "Davidu Hilbertovi, jeho program úplné formalizace veškeré matematiky",
+      "Georgu Cantorovi, jeho teorii transfinitních ordinálních čísel",
+      "Giuseppe Peanovi, jeho axiomatiku aritmetiky přirozených čísel"
+    ],
+    "correct": 0,
+    "explanation": "Frege v doslovu přiznal, že se mu pod rukama zhroutil základní kámen stavby — jeho Zákon V dovoloval právě neomezené tvoření množin. Russell později reagoval teorií typů, Zermelo axiomatickou teorií množin. Šlo o jeden z klíčových momentů takzvané krize základů matematiky.",
+    "source": "Gottlob Frege, Grundgesetze der Arithmetik II (1903)",
+    "seedElo": 1760
+  },
+  {
+    "id": "log-C18",
+    "type": "F",
+    "category": "logika",
+    "text": "Čím je Yablova posloupnost vět zajímavá pro debatu o paradoxu lháře?",
+    "options": [
+      "Ukazuje, že lhář zmizí, pokud připustíme třetí pravdivostní hodnotu",
+      "Vytváří paradox z nekonečné řady vět, z nichž žádná nemluví o sobě",
+      "Dokazuje, že lhář je pouze gramatická chyba přirozeného jazyka",
+      "Převádí paradox lháře na Russellův paradox v teorii množin"
+    ],
+    "correct": 1,
+    "explanation": "Věta S(n) zní „všechny věty S(k) pro k větší než n jsou nepravdivé“. Žádná z nich nemluví sama o sobě ani necykluje, přesto z celé posloupnosti plyne spor. Tím se zpochybňuje běžný předpoklad, že za sémantickými paradoxy stojí nutně sebereference.",
+    "source": "Stephen Yablo (1993)",
+    "seedElo": 1780
+  },
+  {
+    "id": "log-C19",
+    "type": "F",
+    "category": "logika",
+    "text": "Druhá Gödelova věta o neúplnosti říká, že dostatečně silná bezesporná teorie:",
+    "options": [
+      "nedokáže vyjmenovat všechny své vlastní axiomy ani jejich důsledky",
+      "dokáže svou bezespornost, avšak jen za cenu nekonečně mnoha axiomů",
+      "nedokáže vlastní bezespornost, byť ji umí vyslovit jako tvrzení",
+      "je bezesporná právě tehdy, když je zároveň úplná a rozhodnutelná"
+    ],
+    "correct": 2,
+    "explanation": "Formalizované tvrzení „já jsem bezesporná“ je v takové teorii nedokazatelné — a kdyby ho dokázala, byla by právě proto sporná. Neznamená to, že bezespornost aritmetiky nelze dokázat vůbec: Gentzen ji roku 1936 dokázal prostředky, které Peanova aritmetika nemá. Rána mířila na Hilbertův program, ne na matematiku samu.",
+    "source": "Kurt Gödel (1931); Gerhard Gentzen (1936)",
+    "seedElo": 1790
+  },
+  {
+    "id": "log-C20",
+    "type": "F",
+    "category": "logika",
+    "text": "Tarského věta o nedefinovatelnosti pravdy tvrdí, že:",
+    "options": [
+      "pravdivost je pojem psychologický, a proto se vzpírá formalizaci",
+      "pravdu lze definovat pouze pro jazyky s konečně mnoha větami",
+      "žádná věta jazyka aritmetiky nemůže být pravdivá ani nepravdivá",
+      "pravdu pro daný jazyk nelze definovat uvnitř téhož jazyka"
+    ],
+    "correct": 3,
+    "explanation": "Kdyby aritmetika obsahovala predikát „je pravdivá“ splňující schéma T, dalo by se diagonalizací sestrojit sebeodkazující lhář a odvodit spor. Pravdu pro jazyk L lze definovat až v bohatším metajazyce. Gödelova věta je příbuzná, ale slabší tvrzení: dokazatelnost definovatelná je, pravda nikoli.",
+    "source": "Alfred Tarski (1933/1936)",
+    "seedElo": 1810
+  },
+  {
+    "id": "log-C21",
+    "type": "F",
+    "category": "logika",
+    "text": "Skolemův paradox spočívá v tom, že:",
+    "options": [
+      "spočetná teorie množin má vždy i model s nespočetně mnoha vlastními axiomy",
+      "teorie množin má spočetný model, přestože v něm dokazuje nespočetnost",
+      "každá bezesporná teorie má právě jeden model až na izomorfismus",
+      "reálná čísla jsou v některých modelech spočetná a v jiných konečná"
+    ],
+    "correct": 1,
+    "explanation": "Podle Löwenheimovy–Skolemovy věty má každá bezesporná spočetná teorie prvního řádu spočetný model — tedy i ZFC, které dokazuje existenci nespočetných množin. Rozpor je zdánlivý: „nespočetná“ znamená, že v modelu neexistuje příslušná bijekce; zvenčí model spočetný být klidně může. Mohutnost je relativní k modelu.",
+    "source": "Thoralf Skolem (1922)",
+    "seedElo": 1820
+  },
+  {
+    "id": "log-C22",
+    "type": "F",
+    "category": "logika",
+    "text": "Goodmanův predikát „grue“ (zelený do roku t, poté modrý) ukazuje, že:",
+    "options": [
+      "indukce selhává vždy, když pozorujeme vzorek menší než sto kusů",
+      "barvy nejsou objektivní vlastnosti věcí, nýbrž jen naše vjemy",
+      "každá empirická teorie se dá vyvrátit vhodně zvoleným pokusem",
+      "táž data stejně dobře potvrzují dvě neslučitelné předpovědi"
+    ],
+    "correct": 3,
+    "explanation": "Všechny dosud viděné smaragdy jsou zelené — a tím pádem i grue. Stejná evidence tedy stejně dobře podpírá „příští bude zelený“ i „příští bude modrý“. Nová hádanka indukce zní: co dělá některé predikáty vhodnými k projekci? Goodman odpovídal odkazem na „zakotvenost“ v dosavadní praxi.",
+    "source": "Nelson Goodman, Fact, Fiction, and Forecast (1955)",
+    "seedElo": 1830
+  },
+  {
+    "id": "log-C23",
+    "type": "F",
+    "category": "logika",
+    "text": "Russellova teorie typů řeší paradox tím, že:",
+    "options": [
+      "zakazuje výrok „x je prvkem x“ jako nesmyslný, ne jen nepravdivý",
+      "omezuje počet prvků každé množiny na nejvýše spočetně mnoho",
+      "rozděluje důkazy na konečné a nekonečné, ty druhé pak zcela zakazuje",
+      "nahrazuje množiny funkcemi, u nichž sebereference nevzniká"
+    ],
+    "correct": 0,
+    "explanation": "Objekty se rozvrství do typů a příslušnost dává smysl jen mezi sousedními patry, takže sebepříslušnost není nepravdivá, nýbrž gramaticky nepřípustná. Cena je vysoká: ramifikace si vyžádala pomocný axiom reducibility, který mnozí považovali za ad hoc. ZF proto v matematice převládlo, typy uspěly hlavně v informatice.",
+    "source": "Russell a Whitehead, Principia Mathematica (1910)",
+    "seedElo": 1840
+  },
+  {
+    "id": "log-C24",
+    "type": "F",
+    "category": "logika",
+    "text": "Které tvrzení o Gödelových větách je nejčastější dezinterpretací?",
+    "options": [
+      "Že se týkají teorií schopných vyjádřit aritmetiku přirozených čísel",
+      "Že nerozhodnutelná věta je pravdivá ve standardním modelu aritmetiky",
+      "Že dokazují převahu lidské intuice nad každým možným strojem",
+      "Že se v jejich důkazu tvrzení kódují jako přirozená čísla"
+    ],
+    "correct": 2,
+    "explanation": "Lucasův a Penroseův argument naráží na to, že člověk umí nerozhodnutelnou větu „vidět“ jen za předpokladu, že daný systém je bezesporný — a týž krok smí udělat i stroj. Věty nemluví o lidech ani o poznání vůbec, nýbrž o formálních systémech. Ostatní tři možnosti jsou korektní popisy.",
+    "source": "Torkel Franzén, Gödel's Theorem: An Incomplete Guide (2005)",
+    "seedElo": 1850
+  },
+  {
+    "id": "log-C25",
+    "type": "F",
+    "category": "logika",
+    "text": "Paradox neočekávaného věšení: soudce slíbí popravu příští týden v den, který bude překvapením. Standardní rozbor říká, že:",
+    "options": [
+      "vězeň má pravdu, popravu skutečně nelze v žádný den vykonat",
+      "soudcův slib je sám o sobě tvrzení nepravdivé, tedy neplatné",
+      "vězeň vyloučí dny zpětnou indukcí, přesto ho poprava překvapí",
+      "paradox mizí, jakmile soudce upřesní pravděpodobnost každého dne"
+    ],
+    "correct": 2,
+    "explanation": "Vězňova zpětná indukce z pátku dozadu vypadá nezvratně, a přesto ho středeční poprava zaskočí — argument tedy někde selhává. Nejrozšířenější diagnóza je sebeodkazující povaha oznámení: vězeň při své úvaze používá jako premisu tvrzení, jehož platnost jeho vlastní úvaha zpochybňuje. Quine namítal, že vězeň neprávem vylučuje, že by mohl být překvapen i tím, co si dokázal.",
+    "source": "W. V. O. Quine (1953); Timothy Chow, přehledová studie (1998)",
+    "seedElo": 1860
+  },
+  {
+    "id": "log-C26",
+    "type": "F",
+    "category": "logika",
+    "text": "Cantorova věta o potenční množině vede k tzv. Cantorovu paradoxu tím, že:",
+    "options": [
+      "množina všech množin by musela mít mohutnost menší než její potenční",
+      "potenční množina konečné množiny má vždy sudý počet svých prvků",
+      "mezi mohutností N a mohutností R by nemohla ležet žádná další mohutnost",
+      "sjednocení spočetně mnoha spočetných množin může být nespočetné"
+    ],
+    "correct": 0,
+    "explanation": "Cantorova věta říká, že potenční množina je vždy ostře větší než množina sama. Kdyby existovala množina všech množin, byla by její potenční množina zároveň její podmnožinou, tedy menší i větší — spor. Řešení je v ZF stejné jako u Russella: univerzum množinou není, je to vlastní třída.",
+    "source": "Georg Cantor (1899, dopisy Dedekindovi)",
+    "seedElo": 1870
+  },
+  {
+    "id": "log-C27",
+    "type": "F",
+    "category": "logika",
+    "text": "Gödel roku 1929 dokázal také větu o úplnosti. Není to spor s neúplností, protože:",
+    "options": [
+      "věta o úplnosti platí jen pro výrokovou logiku, nikoli pro predikátovou",
+      "větu o úplnosti Cohen později vyvrátil a matematici ji dnes opustili",
+      "obě věty mluví o týchž teoriích, jen jedna z nich užívá jiné axiomy",
+      "úplnost se týká logického vyplývání, neúplnost síly konkrétní teorie"
+    ],
+    "correct": 3,
+    "explanation": "Věta o úplnosti říká, že kalkul predikátové logiky odvodí vše, co plyne ze všech modelů. Věta o neúplnosti říká, že axiomy aritmetiky nestačí rozhodnout každou větu o číslech. Nerozhodnutelná věta prostě neplatí ve všech modelech aritmetiky — v nestandardních modelech platí její negace, takže odvodit ji nelze a nic si neodporuje.",
+    "source": "Kurt Gödel, disertace (1929)",
+    "seedElo": 1890
+  },
+  {
+    "id": "log-C28",
+    "type": "F",
+    "category": "logika",
+    "text": "Proč se Gödelovy věty nevztahují na Presburgerovu aritmetiku (sčítání bez násobení)?",
+    "options": [
+      "Protože její model je konečný, a lze ji tedy prověřit vyčerpáním",
+      "Není dost silná, chybí jí násobení; je úplná i rozhodnutelná",
+      "Protože nemá rekurzivně vyčíslitelnou množinu vlastních axiomů",
+      "Protože v ní nelze vyjádřit pojem přirozeného čísla ani nuly"
+    ],
+    "correct": 1,
+    "explanation": "Bez násobení nelze zakódovat syntaxi a sebereferenci, takže Gödelova konstrukce neprojde. Presburger roku 1929 dokázal, že tato teorie je úplná a rozhodnutelná — každé tvrzení v ní lze algoritmicky rozhodnout, byť velmi draze. Ukazuje to, že předpoklad „dostatečné síly“ ve větách o neúplnosti není formalita.",
+    "source": "Mojżesz Presburger (1929)",
+    "seedElo": 1950
+  },
+  {
+    "id": "log-C29",
+    "type": "F",
+    "category": "logika",
+    "text": "Čím Rosser roku 1936 zesílil první Gödelovu větu?",
+    "options": [
+      "Rozšířil ji i na teorie s nespočetně mnoha axiomy a symboly",
+      "Nahradil v ní pojem důkazu pojmem algoritmického výpočtu",
+      "Ukázal, že nerozhodnutelnou větu lze zapsat bez sebereference",
+      "Nahradil předpoklad ω-bezespornosti pouhou bezesporností teorie"
+    ],
+    "correct": 3,
+    "explanation": "Gödel potřeboval silnější předpoklad zvaný ω-bezespornost. Rosser změnil konstruovanou větu na tvar „ke každému důkazu mě existuje kratší důkaz mé negace“, čímž stačí prostá bezespornost. Proto se dnes první věta obvykle uvádí v Gödelově–Rosserově podobě.",
+    "source": "J. Barkley Rosser (1936)",
+    "seedElo": 1960
+  },
+  {
+    "id": "log-C30",
+    "type": "F",
+    "category": "logika",
+    "text": "Löbova věta říká, že pokud teorie dokáže „je-li A dokazatelné, pak A“, pak:",
+    "options": [
+      "je teorie sporná, protože si tím přisvojuje svůj vlastní metajazyk",
+      "platí to jen pro A, která neobsahují žádný kvantifikátor",
+      "dokáže rovnou i samotné A — důvěra ve vlastní důkazy nestačí",
+      "dokáže také svou bezespornost, což vyvrací druhou větu"
+    ],
+    "correct": 2,
+    "explanation": "Teorie tedy nemůže obecně tvrdit vlastní spolehlivost, aniž by to rovnou znamenalo dokazatelnost dotyčné věty. Dosadíme-li za A spor, dostaneme jako speciální případ druhou Gödelovu větu. Konstrukce je Curryho paradox přenesený do aritmetiky, kde místo pravdy vystupuje dokazatelnost.",
+    "source": "Martin Hugo Löb (1955)",
+    "seedElo": 1970
+  },
+  {
+    "id": "log-C31",
+    "type": "F",
+    "category": "logika",
+    "text": "Co Cohenova metoda forcingu prakticky umožnila?",
+    "options": [
+      "Dokázat, že axiom výběru plyne ze zbývajících axiomů teorie ZF",
+      "Stavět modely ZF na míru, a tak ukazovat nedokazatelnost tvrzení",
+      "Rozhodnout hypotézu kontinua kladně pomocí nových silných axiomů",
+      "Nahradit teorii množin teorií kategorií jakožto základem matematiky"
+    ],
+    "correct": 1,
+    "explanation": "Forcing rozšiřuje daný model o pečlivě zvolené nové objekty tak, že se dá dopředu řídit, co v rozšíření bude platit. Cohen tím vyrobil model ZFC, kde hypotéza kontinua neplatí, a spolu s Gödelovým výsledkem prokázal její nezávislost. Metoda se stala hlavním nástrojem důkazů nezávislosti v teorii množin.",
+    "source": "Paul Cohen (1963), Fieldsova medaile 1966",
+    "seedElo": 1985
+  },
+  {
+    "id": "log-C32",
+    "type": "F",
+    "category": "logika",
+    "text": "Goodsteinova věta a Parisova–Harringtonova věta jsou významné tím, že:",
+    "options": [
+      "jde o přirozená tvrzení o číslech, nedokazatelná v Peanově aritmetice",
+      "jde o první tvrzení, u nichž byla prokázána jejich úplná nesmyslnost",
+      "byly nalezeny počítačem, a proto je nelze ověřit lidským důkazem",
+      "ukazují, že Peanova aritmetika je sporná, jak to Gödel předpověděl"
+    ],
+    "correct": 0,
+    "explanation": "Gödelova nerozhodnutelná věta je uměle zkonstruovaná sebereferenční kuriozita, kdežto tyto dvě jsou běžná kombinatorická tvrzení, jaká by matematik zkoumal i bez logiky — a přesto je Peanova aritmetika nedokazuje. Obě jsou pravdivé a dokazatelné v silnějším rámci, typicky pomocí transfinitní indukce do ordinálu epsilon nula.",
+    "source": "R. L. Goodstein (1944); Paris a Harrington (1977); Kirby a Paris (1982)",
+    "seedElo": 2000
+  }
+]
