@@ -96,6 +96,28 @@ launch config „hlubina".
   `content/books/src/`, `*/epub/`, `*/text.md`. Do repa smí otázky
   s krátkými citacemi s uvedením zdroje.
 
+## Stovkový závazek (běží od 2026-09-01)
+
+Cíl: **každý balíček rovných 100 otázek**. Postup na jeden balíček:
+1. `node -e` výpis existujících otázek → seznam **zakázaných úhlů** do promptů.
+2. 2–3 **Opus** agenti (`model: 'opus'`), každý 32–44 otázek na svém
+   podtématu, s kalibrací dle tabulky níže a anti-tell pravidly.
+   **Opus dodržuje anti-tell sám** (poměry délek 0 porušení, pozice
+   24/24/24/24) — korektor po něm netřeba, na rozdíl od Sonneta.
+3. Zaslepit → slepý řešitel (Fable). U **logiky dva nezávislí řešitelé**
+   (chybný klíč je tam smrtelný), u **crazy faktů dva fact-checkeři**
+   (virální mýtus proklouzne snáz než teze — vyřadili 7/96).
+4. `node tools/dorovnat.mjs <packId> <prefix>` — zahodí neshody/low/
+   duplicity, vybere doplněk rovnoměrně přes Elo pásma, zvedne verzi
+   v manifestu. **Co neprojde, se zahazuje, neopravuje.**
+5. `node tools/validate.mjs` → bump SW → commit → push → ověřit deploy.
+
+Hotovo: kvantovka, živočichové, logika, etika, epistemologie, dějiny
+filosofie, crazy fakta, evoluce, kosmologie (= obory **filosofie**
+a **přírodní vědy** kompletní). Zbývá: filosofie mysli, theory of mind,
+neurověda vědomí, technologie, AI + dorovnání 7 balíčků psychoanalýzy
+(kalibrace 2100, tvrdá vlna) na 100.
+
 ## Kalibrace hlavní generace (z odehraných sondáží, 2026-09-01)
 
 Nástroj: `node tools/profil.mjs <backup.json>` — vypíše úspěšnost per

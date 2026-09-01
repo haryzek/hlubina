@@ -1,0 +1,706 @@
+[
+  {
+    "id": "kos-B01",
+    "type": "F",
+    "category": "kosmologie",
+    "text": "Co vynáší Hertzsprungův–Russellův diagram na svých dvou osách?",
+    "options": [
+      "Hmotnost hvězdy proti jejímu stáří v miliardách let",
+      "Vzdálenost hvězdy proti její zdánlivé jasnosti na obloze",
+      "Zářivý výkon hvězdy proti její povrchové teplotě",
+      "Poloměr hvězdy proti množství vodíku zbylého v jádru"
+    ],
+    "correct": 2,
+    "explanation": "HR diagram staví svítivost (absolutní hvězdnou velikost) proti povrchové teplotě, obvykle vyjádřené spektrální třídou nebo barevným indexem. Teplota se přitom kreslí obráceně — horké modré hvězdy vlevo, chladné červené vpravo. Hvězdy v něm neleží náhodně, ale ve výrazných pásech, což prozrazuje, že jde o různá stadia jednoho vývoje.",
+    "source": "Hertzsprung 1911, Russell 1913",
+    "seedElo": 1700
+  },
+  {
+    "id": "kos-B02",
+    "type": "K",
+    "category": "kosmologie",
+    "text": "Proč hmotné hvězdy hlavní posloupnosti žijí mnohem kratší dobu než Slunce?",
+    "options": [
+      "Svítí zhruba se čtvrtou mocninou hmotnosti, palivo spálí rychle",
+      "Mají v jádru méně vodíku, protože ho odfoukne hvězdný vítr",
+      "Jejich jádra jsou chladnější, takže v nich fúze probíhá pomaleji",
+      "Rychlá rotace jim brání promíchávat palivo z obalu do jádra"
+    ],
+    "correct": 0,
+    "explanation": "Vztah hmotnost–svítivost říká, že zářivý výkon roste přibližně se třetí až čtvrtou mocninou hmotnosti. Zásoba paliva roste jen lineárně s hmotností, takže životnost klesá zhruba s třetí mocninou. Hvězda o deseti Sluncích tak vydrží jen desítky milionů let, zatímco Slunce deset miliard.",
+    "source": "vztah hmotnost–svítivost, stelární astrofyzika",
+    "seedElo": 1850
+  },
+  {
+    "id": "kos-B03",
+    "type": "K",
+    "category": "kosmologie",
+    "text": "Co se děje v nitru hvězdy jako Slunce ve chvíli, kdy se stává červeným obrem?",
+    "options": [
+      "Jádro se rozpíná a chladne, zatímco obal se hroutí dovnitř",
+      "V celém objemu hvězdy se naráz zapálí fúze uhlíku na kyslík",
+      "Jádro se roztočí tak rychle, že hvězdu roztrhá odstředivá síla",
+      "Heliové jádro se smršťuje a vodík hoří ve slupce kolem něj"
+    ],
+    "correct": 3,
+    "explanation": "Po vyčerpání vodíku v jádru zůstane inertní heliové jádro, které se smršťuje a hřeje. Fúze vodíku se přesune do tenké slupky kolem něj, kde je vyšší teplota a hoření je vydatnější. Zvýšený tok energie nafoukne vnější obal, ten se rozpínáním ochladí a hvězda zčervená.",
+    "source": "modely hvězdného vývoje",
+    "seedElo": 1820
+  },
+  {
+    "id": "kos-B04",
+    "type": "F",
+    "category": "kosmologie",
+    "text": "Čím je rozsvícena planetární mlhovina?",
+    "options": [
+      "Odrazem světla okolních hvězd od zrn prachu rozptýlených v mlhovině",
+      "Ultrafialovým zářením horkého obnaženého jádra staré hvězdy",
+      "Rázovou vlnou supernovy, jež plyn zahřeje na miliony stupňů",
+      "Fúzí vodíku, která pokračuje v uzlech odhozeného plynu"
+    ],
+    "correct": 1,
+    "explanation": "Planetární mlhovina je odhozený obal hvězdy střední hmotnosti; uprostřed zbude horké jádro na cestě k bílému trpaslíkovi. Jeho ultrafialové fotony ionizují okolní plyn a ten při rekombinaci svítí v charakteristických čarách vodíku a kyslíku. S planetami nemá nic společného — název vznikl podle kulatého vzhledu v malých dalekohledech 18. století.",
+    "source": "Herschel 1785, fyzika ionizovaných mlhovin",
+    "seedElo": 1880
+  },
+  {
+    "id": "kos-B05",
+    "type": "K",
+    "category": "kosmologie",
+    "text": "Co brání bílému trpaslíkovi v dalším gravitačním hroucení?",
+    "options": [
+      "Tlak záření vznikajícího při fúzi helia v jeho horkém nitru",
+      "Magnetické pole, které svírá plazmu a drží ji v rovnováze",
+      "Tlak degenerovaného elektronového plynu z Pauliho principu",
+      "Rychlá rotace, jejíž odstředivý účinek vyrovná gravitaci"
+    ],
+    "correct": 2,
+    "explanation": "V bílém trpaslíkovi už neprobíhá fúze; drží ho tlak degenerovaného elektronového plynu, plynoucí z Pauliho vylučovacího principu. Ten není teplotní, takže trpaslík může chladnout a přitom se nesmršťovat. Zvláštností je, že hmotnější bílí trpaslíci jsou menší.",
+    "source": "Fowler 1926, kvantová statistika",
+    "seedElo": 1860
+  },
+  {
+    "id": "kos-B06",
+    "type": "F",
+    "category": "kosmologie",
+    "text": "Kolik zhruba činí Chandrasekharova mez, nad níž se bílý trpaslík neudrží?",
+    "options": [
+      "Asi 1,4 hmotnosti Slunce",
+      "Asi 0,5 hmotnosti Slunce",
+      "Asi 3,0 hmotnosti Slunce",
+      "Asi 8,0 hmotnosti Slunce"
+    ],
+    "correct": 0,
+    "explanation": "Chandrasekhar spočítal, že nad zhruba 1,44 hmotnosti Slunce se elektrony pohybují relativisticky a jejich degenerovaný tlak už gravitaci neudrží. Objekt se zhroutí na neutronovou hvězdu, nebo v případě uhlíko-kyslíkového trpaslíka celý termonukleárně vybuchne. Mez závisí mírně na složení, proto se uvádí i hodnota 1,4.",
+    "source": "Chandrasekhar 1931",
+    "seedElo": 1680
+  },
+  {
+    "id": "kos-B07",
+    "type": "K",
+    "category": "kosmologie",
+    "text": "Proč slouží supernovy typu Ia jako standardní svíčky?",
+    "options": [
+      "Protože vybuchují vždy tisíc let po vzniku těsné dvojhvězdy",
+      "Vybuchují při stále stejné kritické hmotnosti, mají podobný výkon",
+      "Protože jejich světlo nezeslabuje s druhou mocninou vzdálenosti od nás",
+      "Jejich spektrum obsahuje vodíkové čáry o pevné vlnové délce"
+    ],
+    "correct": 1,
+    "explanation": "Bílý trpaslík nabírá hmotu od souputníka a vzplane, jakmile se přiblíží Chandrasekharově mezi. Startovní podmínky jsou tedy pokaždé podobné a maximální zářivý výkon také. Zbylý rozptyl se navíc dá odstranit — širší světelná křivka znamená jasnější supernovu.",
+    "source": "Phillipsův vztah 1993",
+    "seedElo": 1980
+  },
+  {
+    "id": "kos-B08",
+    "type": "K",
+    "category": "kosmologie",
+    "text": "Co spustí supernovu typu II u hvězdy nad zhruba osm hmotností Slunce?",
+    "options": [
+      "Srážka dvou obalů, které do sebe narazí při pulzacích hvězdy",
+      "Přetečení hmoty od hvězdného souputníka přes Rocheovu mez",
+      "Náhlé zapálení termonukleární fúze v celém vnějším obalu",
+      "Kolaps železného jádra, které už fúzí energii neuvolní"
+    ],
+    "correct": 3,
+    "explanation": "Fúze v hmotné hvězdě postupuje až k železu, jehož jádro má nejvyšší vazebnou energii na nukleon — další slučování už energii spotřebovává. Jakmile železné jádro překročí kritickou hmotnost, během zlomku sekundy se zhroutí na neutronovou hvězdu. Obal padá dovnitř, odrazí se a je vymrštěn; drtivou většinu energie přitom odnesou neutrina.",
+    "source": "Baade & Zwicky 1934, kolaps jádra",
+    "seedElo": 1960
+  },
+  {
+    "id": "kos-B09",
+    "type": "F",
+    "category": "kosmologie",
+    "text": "Čím se hnědý trpaslík liší od hvězdy hlavní posloupnosti?",
+    "options": [
+      "Vůbec nezáří, veškerou energii vyzáří hned po svém vzniku",
+      "Nemá dost hmoty, aby v jádru trvale zapálil fúzi vodíku",
+      "Vzniká z trosek supernovy, nikoli přímo z oblaku plynu",
+      "Je hmotnější než Slunce, ale jeho jádro tvoří jen helium"
+    ],
+    "correct": 1,
+    "explanation": "Hranice leží kolem 0,08 hmotnosti Slunce, tedy asi 80 hmotností Jupiteru; pod ní se nitro nikdy neohřeje dost na trvalou fúzi obyčejného vodíku. Hnědí trpaslíci nad zhruba 13 hmotnostmi Jupiteru přesto krátce spalují deuterium. Září pak hlavně zbytkovým teplem ze smršťování a postupně chladnou do infračervených tříd L, T a Y.",
+    "source": "Kumar 1963, meze spalování vodíku",
+    "seedElo": 1970
+  },
+  {
+    "id": "kos-B10",
+    "type": "K",
+    "category": "kosmologie",
+    "text": "Co ohřívá protohvězdu dříve, než se v jejím nitru zapálí fúze?",
+    "options": [
+      "Rozpad radioaktivních prvků nasbíraných z okolní mlhoviny",
+      "Tření prachových zrn obíhajících v okolním akrečním disku",
+      "Uvolňovaná gravitační potenciální energie při smršťování",
+      "Pohlcování ultrafialového záření od blízkých hmotných hvězd"
+    ],
+    "correct": 2,
+    "explanation": "Při gravitačním smršťování se polovina uvolněné potenciální energie podle viriálového teorému mění na vnitřní teplo, druhá se vyzáří. Tomuto zdroji se říká Kelvinův–Helmholtzův mechanismus a u Slunce by vystačil jen na desítky milionů let. Zahřívání pokračuje, dokud teplota jádra nedosáhne asi deseti milionů kelvinů a nezačne fúze vodíku.",
+    "source": "Kelvinův–Helmholtzův mechanismus",
+    "seedElo": 2100
+  },
+  {
+    "id": "kos-B11",
+    "type": "F",
+    "category": "kosmologie",
+    "text": "Čím se vyznačují hvězdy populace II oproti populaci I?",
+    "options": [
+      "Jsou staré a chudé na těžší prvky, sídlí v halu Galaxie",
+      "Jsou mladé, bohaté na kovy a drží se v rovině disku",
+      "Jsou to první hvězdy vesmíru, složené jen z vodíku a helia",
+      "Jsou to výhradně hvězdy hmotnější než dvacet Sluncí"
+    ],
+    "correct": 0,
+    "explanation": "Baade rozdělil hvězdy podle stáří a chemického složení: populace I jsou mladé hvězdy disku bohaté na kovy, populace II staré hvězdy hala a kulových hvězdokup s nízkou metalicitou. Hypotetická populace III by byla úplně první generace bez kovů, dosud přímo nepozorovaná. Rozdíl odráží postupné obohacování mezihvězdné hmoty předchozími generacemi.",
+    "source": "Baade 1944",
+    "seedElo": 2000
+  },
+  {
+    "id": "kos-B12",
+    "type": "F",
+    "category": "kosmologie",
+    "text": "Co astronom myslí pojmem metalicita hvězdy?",
+    "options": [
+      "Zastoupení prvků těžších než vodík a helium ve složení",
+      "Podíl kovových zrn v prachu, který hvězdu obklopuje",
+      "Množství železa vzniklého v jádru za poslední milion let",
+      "Odrazivost povrchu hvězdy měřená ve viditelném spektru"
+    ],
+    "correct": 0,
+    "explanation": "V astronomii je kovem každý prvek těžší než helium, tedy i uhlík, kyslík nebo dusík. Metalicita se obvykle udává jako poměr železa k vodíku vztažený ke Slunci, v logaritmické škále [Fe/H]. Slouží jako hrubé měřítko stáří: čím starší hvězda, tím chudší mezihvězdný materiál, z něhož vznikla.",
+    "source": "spektroskopická stelární astronomie",
+    "seedElo": 1800
+  },
+  {
+    "id": "kos-B13",
+    "type": "F",
+    "category": "kosmologie",
+    "text": "Co jsou Fraunhoferovy čáry ve slunečním spektru?",
+    "options": [
+      "Jasné emisní čáry vyzářené chromosférou při erupcích",
+      "Pruhy vzniklé ohybem světla na štěrbině spektrografu",
+      "Stopy plynů zemské atmosféry, mimo Zemi ve spektru chybějí",
+      "Tmavé absorpční čáry prvků ve svrchních vrstvách Slunce"
+    ],
+    "correct": 3,
+    "explanation": "Fraunhofer napočítal ve slunečním spektru stovky tmavých čar a označil nejsilnější písmeny. Vznikají tak, že chladnější plyn nad fotosférou pohltí fotony o přesně těch vlnových délkách, které umí jeho atomy vyzářit. Každý prvek má vlastní otisk, takže z čar lze určit chemické složení vzdálených hvězd.",
+    "source": "Fraunhofer 1814, Kirchhoff & Bunsen 1859",
+    "seedElo": 1950
+  },
+  {
+    "id": "kos-B14",
+    "type": "K",
+    "category": "kosmologie",
+    "text": "Kdy uvidíme ve spektru zdroje jasné emisní čáry na tmavém pozadí?",
+    "options": [
+      "Když se díváme na horký hustý povrch skrz chladnější plyn",
+      "Když světlo hvězdy prochází mezihvězdným prachovým oblakem",
+      "Když pozorujeme řídký horký plyn bez spojitého zdroje za ním",
+      "Když je zdrojem černé těleso zahřáté na několik tisíc kelvinů"
+    ],
+    "correct": 2,
+    "explanation": "Kirchhoffova pravidla rozlišují tři případy: hustý horký zdroj dává spojité spektrum, řídký horký plyn emisní čáry a chladnější plyn před spojitým zdrojem čáry absorpční. Emisní spektrum tedy uvidíme třeba u mlhovin nebo u sluneční koróny při zatmění. Vlnové délky čar jsou v obou případech stejné, liší se jen to, zda energie přibývá, nebo ubývá.",
+    "source": "Kirchhoffova pravidla 1859",
+    "seedElo": 2040
+  },
+  {
+    "id": "kos-B15",
+    "type": "K",
+    "category": "kosmologie",
+    "text": "Podle čeho poznáme spektroskopickou dvojhvězdu, i když ji nerozlišíme?",
+    "options": [
+      "Její spektrální čáry se periodicky posouvají k modré i červené",
+      "Její celková jasnost pravidelně klesá při zákrytech obou složek",
+      "Její poloha na obloze opisuje během roku malou elipsu paralaxy",
+      "Její spektrum obsahuje dvakrát více absorpčních čar než Slunce"
+    ],
+    "correct": 0,
+    "explanation": "Složky obíhají kolem společného těžiště, takže se střídavě přibližují k nám a vzdalují a jejich čáry se Dopplerovým jevem periodicky posouvají. Z amplitudy posuvu a periody lze odvodit hmotnosti složek, byť jen ve spojení se sklonem dráhy. Právě takto se získala většina spolehlivě změřených hvězdných hmotností.",
+    "source": "Dopplerova spektroskopie dvojhvězd",
+    "seedElo": 1990
+  },
+  {
+    "id": "kos-B16",
+    "type": "F",
+    "category": "kosmologie",
+    "text": "Jak je definován parsek?",
+    "options": [
+      "Vzdálenost, kterou světlo urazí za 3,26 roku ve vakuu",
+      "Vzdálenost hvězdy s roční paralaxou jedné obloukové vteřiny",
+      "Vzdálenost, na které by Slunce mělo právě první hvězdnou velikost",
+      "Vzdálenost Země od Slunce vynásobená počtem dní v roce"
+    ],
+    "correct": 1,
+    "explanation": "Parsek je vzdálenost, z níž se poloměr zemské dráhy jeví pod úhlem jedné obloukové vteřiny; číselně jde asi o 3,26 světelného roku. Praktické je, že vzdálenost v parsecích je převrácená hodnota paralaxy v obloukových vteřinách. Ani nejbližší hvězda Proxima Centauri nedosahuje paralaxy jedné vteřiny — má jen 0,77.",
+    "source": "definice IAU, astrometrie",
+    "seedElo": 1830
+  },
+  {
+    "id": "kos-B17",
+    "type": "F",
+    "category": "kosmologie",
+    "text": "Co objevila Henrietta Leavittová u cefeid a proč je to zásadní?",
+    "options": [
+      "Že jejich barva prozradí jejich věk, což datuje hvězdokupy",
+      "Že se jejich perioda rok od roku prodlužuje o měřitelný zlomek",
+      "Že perioda pulzací udává jejich svítivost, tedy i vzdálenost",
+      "Že všechny pulzují se stejnou periodou zhruba deseti dnů"
+    ],
+    "correct": 2,
+    "explanation": "Leavittová studovala cefeidy v Malém Magellanově mračnu, kde jsou všechny v přibližně stejné vzdálenosti, a našla těsný vztah mezi periodou a jasností. Ze změřené periody tak lze odvodit skutečnou svítivost a porovnáním se zdánlivou jasností i vzdálenost. Tím vznikl první spolehlivý příčel žebříku sahající za hranice naší Galaxie.",
+    "source": "Leavitt 1912",
+    "seedElo": 1840
+  },
+  {
+    "id": "kos-B18",
+    "type": "K",
+    "category": "kosmologie",
+    "text": "Proč mluvíme o kosmickém žebříku vzdáleností?",
+    "options": [
+      "Protože se vzdálenosti udávají v žebříčku od nejbližších dál",
+      "Protože každá metoda měří vzdálenost v jiném oboru spektra",
+      "Protože vzdálenosti rostou v pravidelných mocninách deseti",
+      "Každá metoda se kalibruje na tu předchozí, chyby se tak sčítají"
+    ],
+    "correct": 3,
+    "explanation": "Žádná jediná metoda nepokryje celý rozsah od sousedních hvězd po vzdálené galaxie. Paralaxa kalibruje cefeidy, cefeidy kalibrují supernovy Ia a tak dál — každý příčel se opírá o ten pod sebou. Systematická chyba v nižším stupni proto prosákne do všech vyšších, což je jeden z důvodů sporů o přesnou rychlost rozpínání.",
+    "source": "metodika měření kosmických vzdáleností",
+    "seedElo": 2020
+  },
+  {
+    "id": "kos-B19",
+    "type": "F",
+    "category": "kosmologie",
+    "text": "Co tvrdí takzvaný model z Nice o mladé sluneční soustavě?",
+    "options": [
+      "Že se všechny planety utvořily tam, kde je vidíme dnes",
+      "Že obří planety migrovaly a rozmetaly původní pás planetesimál",
+      "Že Slunce zachytilo hotové planety od jiné hvězdy, jež šla kolem",
+      "Že se planety zrodily z materiálu vytrženého ze Slunce"
+    ],
+    "correct": 1,
+    "explanation": "Model z Nice popisuje, jak se dráhy obřích planet po rozptylu planetesimál posunuly a Jupiter s Saturnem prošly dráhovou rezonancí. Následné rozhoupání drah rozptýlilo zbylá tělesa, část poslalo ven do Oortova oblaku a část dovnitř. Vysvětluje se tím i takzvané pozdní těžké bombardování, jehož stopy nese povrch Měsíce.",
+    "source": "Tsiganis, Gomes, Morbidelli & Levison 2005",
+    "seedElo": 1980
+  },
+  {
+    "id": "kos-B20",
+    "type": "F",
+    "category": "kosmologie",
+    "text": "Jak se liší Kuiperův pás od Oortova oblaku?",
+    "options": [
+      "Kuiperův pás je kulový, Oortův oblak leží v rovině ekliptiky",
+      "Kuiperův pás tvoří jen prach, Oortův oblak výhradně balvany železa",
+      "Kuiperův pás je plochý a blízký, Oortův oblak kulový a vzdálený",
+      "Kuiperův pás obíhá kolem Jupitera, Oortův oblak kolem Slunce"
+    ],
+    "correct": 2,
+    "explanation": "Kuiperův pás je zploštělý prstenec ledových těles zhruba 30 až 50 astronomických jednotek od Slunce, kde leží i Pluto. Oortův oblak je naproti tomu kulová obálka sahající desítky tisíc astronomických jednotek daleko. Z Kuiperova pásu pocházejí komety s krátkou periodou, z Oortova oblaku ty dlouhoperiodické přilétající ze všech směrů.",
+    "source": "Oort 1950, Edgeworth–Kuiper",
+    "seedElo": 1870
+  },
+  {
+    "id": "kos-B21",
+    "type": "K",
+    "category": "kosmologie",
+    "text": "Kam míří plynný ohon komety?",
+    "options": [
+      "Vždy zhruba od Slunce, bez ohledu na směr letu komety",
+      "Vždy přesně proti směru pohybu komety po její dráze",
+      "Vždy k Slunci, protože ho jeho gravitace přitahuje dovnitř",
+      "Vždy kolmo k rovině dráhy, tedy k pólu ekliptiky"
+    ],
+    "correct": 0,
+    "explanation": "Ionizovaný plyn unášený slunečním větrem míří téměř přesně od Slunce, takže při odletu komety ohon letí napřed. Prachový ohon je vlivem setrvačnosti zrn zakřivený a mírně zaostává. Právě z odklonu ohonů odvodil Biermann v roce 1951 existenci slunečního větru dřív, než ho změřily sondy.",
+    "source": "Biermann 1951",
+    "seedElo": 1730
+  },
+  {
+    "id": "kos-B22",
+    "type": "F",
+    "category": "kosmologie",
+    "text": "Kterou ze tří podmínek definice IAU Pluto nesplňuje?",
+    "options": [
+      "Obíhá kolem Slunce, nikoli kolem jiné planety",
+      "Má dost hmoty, aby ho gravitace stáhla do koule",
+      "Nezáří vlastním světlem vzniklým jadernou fúzí",
+      "Vyčistilo okolí dráhy od podobně velkých těles"
+    ],
+    "correct": 3,
+    "explanation": "Rezoluce IAU z roku 2006 žádá po planetě tři věci: oběh kolem Slunce, dostatek hmoty pro hydrostatickou rovnováhu a vyčištěné okolí dráhy. Pluto první dvě splňuje, ale sdílí prostor s dalšími tělesy Kuiperova pásu. Spouštěčem přeřazení byl objev Eris, srovnatelně velkého a dokonce hmotnějšího tělesa.",
+    "source": "rezoluce IAU B5, 2006",
+    "seedElo": 1650
+  },
+  {
+    "id": "kos-B23",
+    "type": "K",
+    "category": "kosmologie",
+    "text": "Čím Jupiter způsobil Kirkwoodovy mezery v pásu planetek?",
+    "options": [
+      "Magnetickým polem, které nabité částice vymetá pryč",
+      "Dráhovými rezonancemi, jež z těchto poloh planetky vypudí",
+      "Stínem, v němž se planetky ochlazují a postupně rozpadají",
+      "Slapovými silami, které tam planetky roztrhaly na prach"
+    ],
+    "correct": 1,
+    "explanation": "V místech, kde je oběžná doba planetky v jednoduchém poměru k oběžné době Jupiteru, se gravitační poruchy pravidelně sčítají. Dráha se postupně protáhne, až těleso pás opustí nebo se srazí. Mezery odpovídají rezonancím jako 3:1 nebo 5:2 a objevil je Daniel Kirkwood roku 1866.",
+    "source": "Kirkwood 1866",
+    "seedElo": 2010
+  },
+  {
+    "id": "kos-B24",
+    "type": "F",
+    "category": "kosmologie",
+    "text": "Co je na Titanu z hlediska koloběhu látek pozoruhodné?",
+    "options": [
+      "Má hustou atmosféru z čistého kyslíku a vodní páry",
+      "Jeho povrch pokrývá oceán tekutého kovového vodíku",
+      "Má jezera a déšť z metanu a etanu, tedy vlastní koloběh",
+      "Je jediným měsícem s vlastním prstencem z vodního ledu"
+    ],
+    "correct": 2,
+    "explanation": "Titan má hustou dusíkovou atmosféru a při teplotě kolem minus 180 stupňů Celsia hraje uhlovodíková směs roli, jakou u nás hraje voda. Sonda Cassini v jeho polárních oblastech zmapovala jezera a moře metanu a etanu, největší z nich je Kraken Mare. Voda je tam naopak zmrzlá natvrdo a tvoří skálu.",
+    "source": "Cassini–Huygens, 2004–2017",
+    "seedElo": 1890
+  },
+  {
+    "id": "kos-B25",
+    "type": "K",
+    "category": "kosmologie",
+    "text": "Co nejsilněji svědčí o slaném oceánu pod ledem Europy?",
+    "options": [
+      "Indukované magnetické pole, jaké budí vodivá slaná vrstva",
+      "Vysoká hustota měsíce srovnatelná s hustotou čistého železa",
+      "Přítomnost husté dusíkové atmosféry naměřená sondou Galileo",
+      "Silné sopečné výbuchy pozorované na jejím jižním pólu"
+    ],
+    "correct": 0,
+    "explanation": "Sonda Galileo naměřila u Europy magnetické pole, které se mění podle toho, jak měsíc prochází nakloněnou magnetosférou Jupiteru. Takové indukované pole vyžaduje mělkou vrstvu elektricky vodivého materiálu, čemuž nejlépe odpovídá slaná voda. Podpůrné indicie přidávají mladý povrch s minimem kráterů a soustava prasklin.",
+    "source": "Kivelson a kol. 2000, sonda Galileo",
+    "seedElo": 2030
+  },
+  {
+    "id": "kos-B26",
+    "type": "F",
+    "category": "kosmologie",
+    "text": "Jak dlouhý je magnetický cyklus Slunce, po němž se vrátí i polarita?",
+    "options": [
+      "Zhruba jeden jediný rok",
+      "Zhruba dvaadvacet let",
+      "Zhruba jedenáct let",
+      "Zhruba sto padesát let"
+    ],
+    "correct": 1,
+    "explanation": "Počet slunečních skvrn kolísá s periodou přibližně jedenácti let, ale na konci každého cyklu se obrátí polarita magnetického pole. Původní stav se tedy vrací až po dvou cyklech, tedy asi za dvaadvacet let — jde o takzvaný Haleův cyklus. Pole vzniká dynamem v konvektivní zóně a jeho zkroucení diferenciální rotací vynáší k povrchu smyčky, jež pozorujeme jako skvrny.",
+    "source": "Hale a kol. 1919, Schwabe 1843",
+    "seedElo": 2110
+  },
+  {
+    "id": "kos-B27",
+    "type": "F",
+    "category": "kosmologie",
+    "text": "Čím vzniká typická zelená barva polární záře?",
+    "options": [
+      "Odrazem slunečního světla od ledových krystalků v mezosféře",
+      "Zářením molekul vodní páry vybuzených elektrickým výbojem",
+      "Rozkladem ozonu, při němž se uvolňuje zelené světlo",
+      "Vyzařováním atomů kyslíku vybuzených nabitými částicemi"
+    ],
+    "correct": 3,
+    "explanation": "Částice slunečního větru vedené magnetickým polem k pólům vybudí atomy ve výšce zhruba sto až tři sta kilometrů. Kyslík vyzařuje zakázanou čáru na 557,7 nanometru, což dává známou zelenou; ve větších výškách přechází do červené. Modré a fialové odstíny při spodním okraji patří dusíku.",
+    "source": "fyzika ionosféry, čára [OI] 557,7 nm",
+    "seedElo": 1810
+  },
+  {
+    "id": "kos-B28",
+    "type": "F",
+    "category": "kosmologie",
+    "text": "Které Lagrangeovy body soustavy Slunce–Země jsou stabilní?",
+    "options": [
+      "Body L1 a L2, ležící na spojnici obou těles",
+      "Všech pět, jen v L3 je nutná častější korekce",
+      "Pouze bod L3 na opačné straně dráhy Země",
+      "Body L4 a L5, které předbíhají a následují Zemi"
+    ],
+    "correct": 3,
+    "explanation": "Body L4 a L5 tvoří s oběma tělesy rovnostranný trojúhelník a jsou při dostatečném poměru hmotností stabilní — díky Coriolisově síle se objekt vychýlený z okolí vrací. Právě proto se tam hromadí trojané, například u Jupiteru. Kolineární body L1 až L3 jsou nestabilní a sondy v nich musejí dráhu občas korigovat.",
+    "source": "Lagrange 1772, nebeská mechanika",
+    "seedElo": 2000
+  },
+  {
+    "id": "kos-B29",
+    "type": "K",
+    "category": "kosmologie",
+    "text": "Proč stojí Webbův dalekohled právě v okolí bodu L2?",
+    "options": [
+      "Slunce, Země i Měsíc jsou z jedné strany, štít je zacloní",
+      "Je to jediné místo, kde gravitace Slunce zcela vymizí",
+      "Leží mimo soustavu, takže ho neruší meziplanetární prach",
+      "Obíhá tam pomaleji, takže má více času na dlouhé expozice"
+    ],
+    "correct": 0,
+    "explanation": "V okolí L2 zůstávají Slunce, Země i Měsíc stále v jednom směru, takže je odcloní jediný sluneční štít. Přístroje se pak pasivně ochladí zhruba na 40 kelvinů, což infračervené pozorování vyžaduje. Sonda navíc obíhá Slunce se stejnou periodou jako Země, takže spojení je nepřerušované.",
+    "source": "mise JWST, NASA/ESA",
+    "seedElo": 1900
+  },
+  {
+    "id": "kos-B30",
+    "type": "K",
+    "category": "kosmologie",
+    "text": "Proč se zrcadla a detektory infračervených teleskopů chladí?",
+    "options": [
+      "Chlad zvyšuje odrazivost zrcadla v oboru dlouhých vlnových délek",
+      "Teplý přístroj by sám zářil v infračerveném oboru a přezářil cíl",
+      "Nízká teplota zkracuje vlnovou délku přijímaného záření",
+      "Chlazením se potlačí ohyb světla na okraji hlavního zrcadla"
+    ],
+    "correct": 1,
+    "explanation": "Každé těleso o pokojové teplotě intenzivně vyzařuje ve středním infračerveném oboru, takže by nechlazený přístroj viděl hlavně sám sebe. Wienův zákon říká, že maximum vyzařování se s klesající teplotou posouvá k delším vlnám. Přístroj MIRI na JWST proto pracuje až kolem 7 kelvinů a musí být chlazen aktivně.",
+    "source": "Wienův posunovací zákon, přístroj MIRI",
+    "seedElo": 1960
+  },
+  {
+    "id": "kos-B31",
+    "type": "K",
+    "category": "kosmologie",
+    "text": "K čemu slouží umělá vodicí hvězda vytvořená laserem?",
+    "options": [
+      "Osvětluje pozorovaný objekt, který je pro dalekohled slabý",
+      "Slouží jako etalon barvy pro kalibraci spektrografu",
+      "Dává referenci pro měření neklidu vzduchu a tvar zrcadla",
+      "Zahřívá vrstvu vzduchu nad zrcadlem a tlumí tak chvění"
+    ],
+    "correct": 2,
+    "explanation": "Laser rozsvítí vrstvu sodíku ve výšce kolem 90 kilometrů a vytvoří bodový zdroj se známým tvarem. Z jeho zkreslení systém stokrát za sekundu odečítá, jak atmosféra vlnoplochu deformuje, a deformovatelné zrcadlo ji ohýbá zpět. Bez umělé hvězdy by adaptivní optika fungovala jen v okolí náhodně dostupných jasných hvězd.",
+    "source": "adaptivní optika, sodíkové vodicí hvězdy",
+    "seedElo": 1990
+  },
+  {
+    "id": "kos-B32",
+    "type": "K",
+    "category": "kosmologie",
+    "text": "Co určuje úhlové rozlišení radiového interferometru?",
+    "options": [
+      "Součet sběrných ploch všech zapojených antén dohromady",
+      "Počet hodin, po které soustava daný zdroj sleduje",
+      "Průměr největší jednotlivé antény zapojené do soustavy",
+      "Vzdálenost nejvzdálenější dvojice antén, tedy základna"
+    ],
+    "correct": 3,
+    "explanation": "Rozlišení se řídí poměrem vlnové délky k délce základny, nikoli velikostí jednotlivých misek. Celková plocha rozhoduje o citlivosti, tedy o tom, jak slabý zdroj lze zachytit. Proto dokázala síť antén rozprostřená po celé Zeměkouli zobrazit okolí černé díry v galaxii M87.",
+    "source": "apertura syntéza, Event Horizon Telescope 2019",
+    "seedElo": 2110
+  },
+  {
+    "id": "kos-B33",
+    "type": "K",
+    "category": "kosmologie",
+    "text": "Proč se rozbitý hrnek nikdy sám nesloží, ačkoli to zákony dovolují?",
+    "options": [
+      "Zákony mechaniky jsou nevratné už na úrovni jednotlivých atomů",
+      "Uspořádaných stavů je nesrovnatelně méně než neuspořádaných",
+      "Energie se při rozbití nenávratně ztratí a nelze ji už doplnit",
+      "Gravitace působí jen jedním směrem, a tím udává šipku času"
+    ],
+    "correct": 1,
+    "explanation": "Mikroskopické zákony jsou vratné, ale počet mikrostavů odpovídajících střepům je astronomicky větší než počet těch, které vypadají jako celý hrnek. Entropie měří právě logaritmus tohoto počtu a její růst je statistický, ne absolutní zákaz. Šipka času tak plyne z toho, že vesmír začal ve velmi nepravděpodobném uspořádaném stavu.",
+    "source": "Boltzmann, statistická fyzika",
+    "seedElo": 2020
+  },
+  {
+    "id": "kos-B34",
+    "type": "K",
+    "category": "kosmologie",
+    "text": "Co překvapivého vyplynulo z Maxwellových rovnic elektřiny a magnetismu?",
+    "options": [
+      "Že existuje i osamocený magnetický náboj, jen je vzácný",
+      "Že elektrický proud může téci vždy jen v uzavřené smyčce",
+      "Že z nich plyne vlna běžící rychlostí světla — světlo je vlna",
+      "Že se elektrické a magnetické pole navzájem přesně ruší"
+    ],
+    "correct": 2,
+    "explanation": "Maxwell shrnul elektřinu a magnetismus do soustavy rovnic a zjistil, že z nich plyne vlnění šířící se rychlostí danou dvěma laboratorními konstantami. Vyšlo číslo shodné s naměřenou rychlostí světla, takže optika se stala kapitolou elektromagnetismu. Rovnice zároveň neobsahují žádný vztažný systém, což o generaci později vedlo Einsteina ke speciální relativitě.",
+    "source": "Maxwell 1865",
+    "seedElo": 2120
+  },
+  {
+    "id": "kos-B35",
+    "type": "F",
+    "category": "kosmologie",
+    "text": "Co se mění napříč spektrem od radiových vln ke gama záření?",
+    "options": [
+      "Roste frekvence a energie fotonu, klesá vlnová délka",
+      "Roste rychlost šíření vlny ve vakuu i v hustém prostředí",
+      "Mění se podstata, gama záření už není vlna, ale částice",
+      "Roste amplituda vlny, zatímco frekvence zůstává stejná"
+    ],
+    "correct": 0,
+    "explanation": "Všechny druhy elektromagnetického záření se ve vakuu šíří stejnou rychlostí a liší se jen vlnovou délkou a frekvencí. Energie jednoho fotonu je úměrná frekvenci, takže gama fotony nesou miliardkrát více energie než rádiové. Amplituda určuje intenzitu, tedy počet fotonů, nikoli jejich druh.",
+    "source": "Planckův vztah E = hf",
+    "seedElo": 1700
+  },
+  {
+    "id": "kos-B36",
+    "type": "K",
+    "category": "kosmologie",
+    "text": "Co je podstatou mechanické rezonance?",
+    "options": [
+      "Dvě tělesa si předají energii jen při shodné hmotnosti",
+      "Buzení o frekvenci blízké té vlastní vede k velké výchylce",
+      "Kmitání se samo zesiluje, i když už na ně nic nepůsobí",
+      "Tlumení soustavy roste s druhou mocninou její výchylky"
+    ],
+    "correct": 1,
+    "explanation": "Když se frekvence vnější síly blíží vlastní frekvenci soustavy, energie se z každého cyklu sčítá a amplituda roste, dokud ji neomezí tlumení. Slabá periodická síla tak může rozhoupat i velmi těžkou konstrukci. Rezonance ovšem není jen hrozba pro mosty — stejný princip stojí za laděním rádia i za magnetickou rezonancí.",
+    "source": "teorie nucených kmitů",
+    "seedElo": 1950
+  },
+  {
+    "id": "kos-B37",
+    "type": "K",
+    "category": "kosmologie",
+    "text": "Co znamená, že je systém deterministicky chaotický?",
+    "options": [
+      "Jeho vývoj řídí náhoda, rovnice pro něj vůbec neexistují",
+      "Jeho stav se v čase opakuje, ale s náhodně dlouhou periodou",
+      "Rovnice jsou dané, ale drobná odchylka počátku vše rozhodí",
+      "Jeho energie se nezachovává, a proto ho nelze počítat dopředu"
+    ],
+    "correct": 2,
+    "explanation": "Chaotický systém se řídí přesnými rovnicemi, ale sousední trajektorie se od sebe vzdalují exponenciálně rychle. Přesnost počáteční podmínky se tak vyčerpává a předpověď má konečný horizont, u počasí zhruba dva týdny. Determinismus a předvídatelnost tedy nejsou totéž — objevil to Lorenz na zjednodušeném modelu konvekce.",
+    "source": "Lorenz 1963",
+    "seedElo": 1850
+  },
+  {
+    "id": "kos-B38",
+    "type": "K",
+    "category": "kosmologie",
+    "text": "Proč nemůže existovat mravenec velký jako kůň, i kdyby měl stejný tvar?",
+    "options": [
+      "Jeho krunýř by se zahřál natolik, že by ztratil pevnost",
+      "Vzduch by do jeho průdušnic nepronikl, protože je moc řídký",
+      "Jeho svaly by rostly pomaleji než krunýř a nakonec praskly",
+      "Hmotnost roste s krychlí rozměru, nosnost nohou se čtvercem"
+    ],
+    "correct": 3,
+    "explanation": "Při zvětšení všech rozměrů k-krát roste objem a s ním hmotnost s třetí mocninou, zatímco průřez nohou jen s druhou. Napětí v opoře proto roste úměrně rozměru a konstrukce se v určité velikosti zlomí. Právě proto mají velcí živočichové nepoměrně mohutnější končetiny — jde o zákon čtverce a krychle, který popsal už Galileo.",
+    "source": "Galileo 1638, rozměrová analýza",
+    "seedElo": 2010
+  },
+  {
+    "id": "kos-B39",
+    "type": "K",
+    "category": "kosmologie",
+    "text": "Proč se teplota vroucí vody nezvyšuje, i když pod ní hoří plamen?",
+    "options": [
+      "Dodané teplo se spotřebuje na rozrušení vazeb mezi molekulami",
+      "Plamen ohřívá jen dno nádoby, voda nad ním už teplo nepřijímá",
+      "Tlak páry nad hladinou brání dalšímu pronikání tepla do vody",
+      "Voda má tak velkou tepelnou kapacitu, že se ohřeje neměřitelně"
+    ],
+    "correct": 0,
+    "explanation": "Při fázovém přechodu prvního druhu se dodaná energie mění na skupenské teplo, které trhá vazby mezi molekulami, místo aby zvyšovala jejich střední kinetickou energii. Teplota proto zůstává na bodu varu, dokud se všechna kapalina nepromění v páru. U vody je toto výparné teplo mimořádně velké, přes 2 250 kilojoulů na kilogram.",
+    "source": "termodynamika fázových přechodů",
+    "seedElo": 1970
+  },
+  {
+    "id": "kos-B40",
+    "type": "F",
+    "category": "kosmologie",
+    "text": "Čím se plazma liší od obyčejného plynu?",
+    "options": [
+      "Je vždy hustší než kapalina, proto se chová jako kov",
+      "Obsahuje volné náboje, reaguje proto na magnetická pole",
+      "Skládá se výhradně z neutronů uvolněných z jader atomů",
+      "Vzniká jen při teplotách nad milion kelvinů, jinde nikdy"
+    ],
+    "correct": 1,
+    "explanation": "V plazmatu jsou elektrony odděleny od jader, takže jde o soubor volných nábojů, který jako celek zůstává kvazineutrální. Na rozdíl od neutrálního plynu vede proud, stáčí se podél magnetických siločar a chová se kolektivně na velké vzdálenosti. Vzniká i za nízkých teplot — třeba v zářivce nebo v ionosféře.",
+    "source": "fyzika plazmatu, Langmuir 1928",
+    "seedElo": 1750
+  },
+  {
+    "id": "kos-B41",
+    "type": "F",
+    "category": "kosmologie",
+    "text": "Co dělá kapalné helium ochlazené pod dva kelviny?",
+    "options": [
+      "Ztuhne v krystal i bez zvýšení vnějšího tlaku na nádobu",
+      "Přestane vést teplo a stane se dokonalým izolantem",
+      "Změní barvu na sytě modrou a začne slabě fosforeskovat",
+      "Teče bez tření a vyšplhá po stěnách nádoby přes okraj"
+    ],
+    "correct": 3,
+    "explanation": "Pod lambda bodem asi 2,17 kelvinu přechází helium-4 do supratekutého stavu s nulovou viskozitou. Tvoří tenký Rollinův film, který vyleze po stěně a nádobu vyprázdní, a vede teplo tak dobře, že přestane bublat. Jde o makroskopický kvantový jev související s Boseho–Einsteinovou kondenzací.",
+    "source": "Kapica, Allen & Misener 1938",
+    "seedElo": 2130
+  },
+  {
+    "id": "kos-B42",
+    "type": "K",
+    "category": "kosmologie",
+    "text": "Proč nelze dosáhnout absolutní nuly?",
+    "options": [
+      "Protože teplota se dá měřit jen s omezenou přesností přístroje",
+      "Protože reliktní záření ohřívá vše nejméně na tři kelviny",
+      "Protože při nule by se zastavil čas a měření by nedávalo smysl",
+      "Každý krok chlazení odebere jen část zbylé energie, nikdy vše"
+    ],
+    "correct": 3,
+    "explanation": "Třetí termodynamický zákon říká, že absolutní nuly nelze dosáhnout konečným počtem kroků — každá etapa chlazení odstraní jen zlomek zbývající entropie. Laserové chlazení a odpařovací chlazení se dostávají na miliardtiny kelvinu, ale nikdy na nulu. Ani tam by se ostatně pohyb nezastavil, zůstala by kvantová nulová energie.",
+    "source": "Nernstův teorém, třetí termodynamický zákon",
+    "seedElo": 2140
+  },
+  {
+    "id": "kos-B43",
+    "type": "F",
+    "category": "kosmologie",
+    "text": "Co je Machovo číslo a co se děje, když překročí jedničku?",
+    "options": [
+      "Poměr rychlosti a rychlosti zvuku; vzniká kuželová rázová vlna",
+      "Poměr rychlosti a rychlosti světla; těleso začne zářit modře",
+      "Počet otáček motoru za vteřinu; letoun ztratí vztlak na křídle",
+      "Poměr tlaku a hustoty vzduchu; proudění se stane nestlačitelným"
+    ],
+    "correct": 0,
+    "explanation": "Machovo číslo je poměr rychlosti tělesa k rychlosti zvuku v daném prostředí. Při nadzvukovém letu se tlakové poruchy nestačí šířit dopředu, hromadí se a vytvoří rázovou vlnu ve tvaru kužele. Ten se táhne za letounem po celou dobu letu, takže třesk slyší postupně místa, přes která přeletí.",
+    "source": "Ernst Mach, aerodynamika stlačitelného proudění",
+    "seedElo": 2100
+  },
+  {
+    "id": "kos-B44",
+    "type": "K",
+    "category": "kosmologie",
+    "text": "Jak se z HR diagramu hvězdokupy pozná její stáří?",
+    "options": [
+      "Podle celkového počtu hvězd, kterých s časem ubývá",
+      "Podle barvy nejjasnějšího červeného obra v celé kupě",
+      "Podle bodu odklonu, kde hvězdy opouštějí hlavní posloupnost",
+      "Podle rozptylu hvězd kolem střední svítivosti v celém diagramu"
+    ],
+    "correct": 2,
+    "explanation": "Hvězdy v kupě vznikly zhruba naráz, ale ty nejhmotnější opouštějí hlavní posloupnost nejdřív. Horní konec posloupnosti se proto s časem postupně ukusuje a poloha bodu odklonu přímo udává stáří kupy. Nejstarší kulové hvězdokupy takto vycházejí na zhruba dvanáct až třináct miliard let.",
+    "source": "izochrony hvězdných populací",
+    "seedElo": 2150
+  }
+]

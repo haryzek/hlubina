@@ -84,16 +84,16 @@
   "id": "evoluce",
   "file": "evoluce.json",
   "title": "Evoluce a biologie",
-  "count": 20,
-  "version": 1,
+  "count": 100,
+  "version": 2,
   "obor": "prirodni-vedy"
  },
  {
   "id": "kosmologie",
   "file": "kosmologie.json",
   "title": "Kosmologie a fyzika",
-  "count": 20,
-  "version": 1,
+  "count": 100,
+  "version": 2,
   "obor": "prirodni-vedy"
  },
  {

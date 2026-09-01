@@ -1,0 +1,882 @@
+[
+ {
+  "id": "kos-A01",
+  "text": "Co přesně je „problém horizontu\", který má inflace řešit?",
+  "options": [
+   "Opačné strany reliktní oblohy mají stejnou teplotu, ač spolu nemohly komunikovat",
+   "Hustota vesmíru leží podezřele blízko kritické hodnotě pro plochou geometrii",
+   "Za horizontem událostí černé díry mizí informace o hmotě, která do ní spadla",
+   "Nejvzdálenější pozorované galaxie jsou starší, než dovoluje odhadované stáří vesmíru"
+  ]
+ },
+ {
+  "id": "kos-A02",
+  "text": "V čem spočívá „problém plochosti\" standardního kosmologického modelu?",
+  "options": [
+   "Rozložení galaxií na velkých škálách tvoří převážně ploché stěny a vlákna",
+   "Newtonova gravitace předpovídá dokonale plochý prostor, obecná relativita zakřivený",
+   "Odchylka od kritické hustoty s časem roste, dnešní plochost tedy žádá jemné ladění",
+   "Reliktní záření má plochý spektrální index poruch velmi blízký jedné"
+  ]
+ },
+ {
+  "id": "kos-A03",
+  "text": "Které měřitelné znamení předpovídá inflace pro spektrum prvotních poruch?",
+  "options": [
+   "Přesně škálově invariantní spektrum s indexem rovným jedné bez jakékoli odchylky",
+   "Téměř škálově invariantní spektrum s mírným sklonem, index kolem 0,965",
+   "Spektrum silně rostoucí k malým škálám, s indexem výrazně nad jednotkou",
+   "Spektrum s ostrým vrcholem na škále dnešních kup galaxií a jinde nulové"
+  ]
+ },
+ {
+  "id": "kos-A04",
+  "text": "Jaký je stav hledání prvotních B-módů v polarizaci reliktního záření?",
+  "options": [
+   "B-módy byly potvrzeny Planckem a určily energetickou škálu inflace",
+   "B-módy nelze v principu měřit, protože polarizace CMB je čistě skalární",
+   "Ohlášený signál BICEP2 se ukázal být prachem v Galaxii; platí jen horní meze",
+   "Prvotní B-módy byly vyloučeny, tenzorové poruchy tedy prokazatelně vůbec nevznikly"
+  ]
+ },
+ {
+  "id": "kos-A05",
+  "text": "Čeho se týká takzvané Hubbleovo napětí?",
+  "options": [
+   "Reliktní záření dává H₀ kolem 67, žebřík cefeid kolem 73 km/s/Mpc",
+   "Různé galaxie vykazují různé Hubbleovy konstanty podle svého stáří",
+   "Hubbleova konstanta klesá s časem, což odporuje zrychlenému rozpínání",
+   "Měření H₀ se liší podle toho, zda se použije rudý posuv, nebo modrý"
+  ]
+ },
+ {
+  "id": "kos-A06",
+  "text": "Co k Hubbleovu napětí přinesla měření Jamese Webba po roce 2023?",
+  "options": [
+   "Ukázala, že napětí zmizí po zahrnutí gravitačního čočkování cefeid",
+   "Potvrdila přesnost cefeidových vzdáleností HST, napětí tedy trvá",
+   "Snížila hodnotu z žebříku vzdáleností na úroveň reliktního záření",
+   "Prokázala systematickou chybu v kalibraci mikrovlnných měření Plancku"
+  ]
+ },
+ {
+  "id": "kos-A07",
+  "text": "Co přesně měří interferometr LIGO, když prolétá gravitační vlna?",
+  "options": [
+   "Změnu rychlosti světla v jednom rameni oproti druhému rameni",
+   "Nepatrnou relativní změnu délky ramen, řádu 10⁻²¹ jejich délky",
+   "Odchylku směru laserového svazku způsobenou ohybem prostoru",
+   "Rozdíl chodu atomových hodin umístěných na koncích obou ramen"
+  ]
+ },
+ {
+  "id": "kos-A08",
+  "text": "Od jaké přibližné škály se rozložení hmoty ve vesmíru jeví jako homogenní?",
+  "options": [
+   "Zhruba od jednoho megaparseku, tedy od velikosti Místní skupiny",
+   "Zhruba od stovek megaparseků; pod ní vládne kosmická síť a voidy",
+   "Zhruba od kiloparseku, tedy od průměru typického galaktického disku",
+   "Homogenní je i na nejmenších škálách; struktura je pozorovací klam"
+  ]
+ },
+ {
+  "id": "kos-A09",
+  "text": "V čem tkví „problém kosmologické konstanty\" ve vztahu k energii vakua?",
+  "options": [
+   "Vakuová energie by musela být záporná, jinak by rozpínání vůbec nemohlo začít",
+   "Vakuum podle kvantové teorie žádnou energii nemá, přesto ji měříme",
+   "Kosmologická konstanta se v čase mění, kdežto vakuum je neměnné",
+   "Kvantový odhad vakuové energie převyšuje pozorovanou hodnotu o desítky řádů"
+  ]
+ },
+ {
+  "id": "kos-A10",
+  "text": "Co říká hodnota stavového parametru w = −1 o temné energii?",
+  "options": [
+   "Chová se jako záření, jehož hustota klesá se čtvrtou mocninou škály",
+   "Chová se jako chladná hmota, jejíž hustota ředne s objemem prostoru",
+   "Chová se jako kosmologická konstanta s hustotou neměnnou při rozpínání",
+   "Chová se jako pole, jehož hustota v čase roste nade všechny meze"
+  ]
+ },
+ {
+  "id": "kos-A11",
+  "text": "Jaké je podle modelu ΛCDM zhruba dnešní energetické složení vesmíru?",
+  "options": [
+   "Kolem 5 % běžná hmota, 68 % temná hmota, 27 % temná energie",
+   "Kolem 27 % běžná hmota, 5 % temná hmota, 68 % temná energie",
+   "Kolem 68 % běžná hmota, 27 % temná hmota, 5 % temná energie",
+   "Kolem 5 % běžná hmota, 27 % temná hmota, 68 % temná energie"
+  ]
+ },
+ {
+  "id": "kos-A12",
+  "text": "Proč jsou baryonové akustické oscilace užitečné pro kosmologii?",
+  "options": [
+   "Vtiskly do rozložení galaxií pevnou délku, jež slouží jako standardní měřítko",
+   "Rozkmitávají galaxie tak, že z jejich vlastního pohybu lze odečíst hustotu hmoty",
+   "Vytvářejí v reliktním záření polarizaci, z níž plyne stáří prvních hvězd",
+   "Ohřívají mezigalaktický plyn a tím kalibrují jasnost vzdálených kvasarů"
+  ]
+ },
+ {
+  "id": "kos-A13",
+  "text": "Co fyzikálně vytvořilo baryonové akustické oscilace v raném vesmíru?",
+  "options": [
+   "Gravitační vlny z inflace, jež rozvlnily hustotu plazmatu do prstenců",
+   "Srážky prvotních černých děr, jež do plazmatu vysílaly rázové vlny",
+   "Oscilace pole temné energie, jež periodicky měnily tempo rozpínání",
+   "Zvukové vlny v foton-baryonovém plazmatu, zmrazené při rekombinaci"
+  ]
+ },
+ {
+  "id": "kos-A14",
+  "text": "Čím se v tvorbě struktury liší chladná temná hmota od horké?",
+  "options": [
+   "Chladná i horká dávají stejný výsledek, liší se jen tempem rozpínání",
+   "Horká hmota staví strukturu zdola nahoru, chladná by začínala shora dolů",
+   "Chladná staví strukturu zdola nahoru, horká by nejdřív tvořila obří stěny",
+   "Chladná potlačuje malé struktury, horká je naopak zesiluje na všech škálách"
+  ]
+ },
+ {
+  "id": "kos-A15",
+  "text": "Jak vypadá rozložení hmoty na největších pozorovaných škálách?",
+  "options": [
+   "Rovnoměrný koberec galaxií bez výrazných shluků i bez prázdných míst",
+   "Soustředné slupky galaxií kolem jediného hustotního středu vesmíru",
+   "Náhodně rozptýlené kupy bez jakéhokoli protáhlého propojení mezi nimi",
+   "Síť vláken a stěn protkaná obřími prázdnotami, s kupami v uzlech"
+  ]
+ },
+ {
+  "id": "kos-A16",
+  "text": "Co ukazují měřené rotační křivky spirálních galaxií?",
+  "options": [
+   "Rychlost obíhání klesá se vzdáleností podle keplerovského vztahu",
+   "Rychlost obíhání roste lineárně až k okraji viditelného disku",
+   "Rychlost obíhání zůstává daleko za viditelným diskem téměř stálá",
+   "Rychlost obíhání kolísá v pravidelných vlnách podle spirálních ramen"
+  ]
+ },
+ {
+  "id": "kos-A17",
+  "text": "Co na srážce kup galaxií (Bullet Cluster) svědčí pro temnou hmotu?",
+  "options": [
+   "Těžiště hmoty z čočkování je jinde než horký plyn, který nese většinu baryonů",
+   "Horký plyn i těžiště hmoty z čočkování se v srážce přesně překrývají",
+   "Rentgenové záření plynu mizí přesně tam, kde je čočkování nejsilnější",
+   "Galaxie uvnitř kupy se pohybují pomaleji, než dovoluje veškerá viditelná hmota"
+  ]
+ },
+ {
+  "id": "kos-A18",
+  "text": "Kde má MOND jako náhrada temné hmoty největší potíže?",
+  "options": [
+   "U rotačních křivek spirálních galaxií, které nedokáže vůbec popsat",
+   "U kup galaxií a reliktního záření, kde stejně potřebuje skrytou hmotu",
+   "U drah planet ve Sluneční soustavě, kde předpovídá špatné perihelium",
+   "U pádu těles na Zemi, kde jeho zrychlení neodpovídá měřením v laboratoři"
+  ]
+ },
+ {
+  "id": "kos-A19",
+  "text": "Co je v MONDu charakteristické zrychlení a₀ a proč zaujalo?",
+  "options": [
+   "Práh kolem 10⁻¹⁰ m/s², nápadně blízký zrychlení volného pádu na Měsíci",
+   "Práh kolem 10⁻¹⁰ m/s², odvozený z hmotnosti nejlehčího známého neutrina",
+   "Práh kolem 10⁻¹⁰ m/s², shodný se zrychlením rozpínání Sluneční soustavy",
+   "Práh kolem 10⁻¹⁰ m/s², nápadně blízký součinu c a Hubbleovy konstanty"
+  ]
+ },
+ {
+  "id": "kos-A20",
+  "text": "Co v akustických vrcholech reliktního záření prozrazuje temnou hmotu?",
+  "options": [
+   "Poměr výšek lichých a sudých vrcholů žádá víc hmoty, než je baryonů",
+   "Poloha prvního vrcholu na multipólu 220 přímo udává hustotu baryonů",
+   "Exponenciální útlum vrcholů na malých škálách měří hustotu neutrin",
+   "Dipólová složka anizotropie odpovídá gravitaci temného halo Galaxie"
+  ]
+ },
+ {
+  "id": "kos-A21",
+  "text": "Jaký podíl hmotnosti běžné hmoty připadá na helium z prvotní nukleosyntézy?",
+  "options": [
+   "Zhruba 4 procenta, o málo víc než stopové lithium",
+   "Zhruba 50 procent, tedy skoro na rovni s vodíkem",
+   "Zhruba 24 procent, což pozorování dobře potvrzují",
+   "Zhruba 75 procent, tedy víc než připadá na vodík"
+  ]
+ },
+ {
+  "id": "kos-A22",
+  "text": "Proč je naměřené množství prvotního deuteria pro kosmologii tak cenné?",
+  "options": [
+   "Udává stáří vesmíru nezávisle na Hubbleově konstantě i na modelu",
+   "Je citlivé na hustotu baryonů, a proto ji z něj lze přesně určit",
+   "Prozrazuje teplotu, při níž se z plazmatu oddělilo reliktní záření",
+   "Měří množství temné hmoty, jež se účastnila prvotní nukleosyntézy"
+  ]
+ },
+ {
+  "id": "kos-A23",
+  "text": "Proč k rekombinaci došlo až kolem 3000 K, ač vazebná energie vodíku je 13,6 eV?",
+  "options": [
+   "Fotonů je proti baryonům asi miliarda, takže i řídký chvost je ještě ionizuje",
+   "Vodík se v raném vesmíru vázal až po vzniku helia, jež ho velmi dlouho blokovalo",
+   "Rozpínání ochladilo plazma pomaleji, než stačila proběhnout rekombinace",
+   "Temná hmota fotony rozptylovala, a tím udržovala teplotu plazmatu vyšší"
+  ]
+ },
+ {
+  "id": "kos-A24",
+  "text": "Co znamená, že „povrch posledního rozptylu\" není nekonečně tenký?",
+  "options": [
+   "Fotony k nám letí z různých směrů, takže obraz je rozmazaný v úhlu",
+   "Reliktní fotony vznikaly postupně po celou dobu prvních tří minut",
+   "Odpoutání trvalo jistou dobu, což tlumí anizotropie na malých škálách",
+   "Povrch se s rozpínáním rozšiřuje, takže dnes je tlustší než dříve"
+  ]
+ },
+ {
+  "id": "kos-A25",
+  "text": "Čím je způsobena dipólová anizotropie reliktního záření?",
+  "options": [
+   "Nerovnoměrným rozdělením hmoty krátce po konci inflace",
+   "Pohybem Sluneční soustavy vůči soustavě reliktního záření",
+   "Zbytkovým zářením prachu v rovině naší vlastní Galaxie",
+   "Rotací vesmíru jako celku kolem osy vyznačené dipólem"
+  ]
+ },
+ {
+  "id": "kos-A26",
+  "text": "Co plyne z toho, že první akustický vrchol CMB leží kolem multipólu 220?",
+  "options": [
+   "Že hustota baryonů převyšuje hustotu chladné temné hmoty",
+   "Že vesmír má výrazně kladné zakřivení, tedy uzavřený tvar",
+   "Že reliktní záření se odpoutalo mnohem dřív, než se čekalo",
+   "Že prostorová geometrie vesmíru je v mezích chyby plochá"
+  ]
+ },
+ {
+  "id": "kos-A27",
+  "text": "Co způsobuje integrovaný Sachsův–Wolfeův jev v reliktním záření?",
+  "options": [
+   "Rozptyl fotonů na volných elektronech, které uvolnila reionizace prvními hvězdami",
+   "Rozdíl gravitačního potenciálu v místě, kde se foton naposled rozptýlil",
+   "Měnící se gravitační potenciály, jimiž foton cestou prolétá, mění energii",
+   "Gravitační ohyb dráhy fotonů kolem kup galaxií na cestě k pozorovateli"
+  ]
+ },
+ {
+  "id": "kos-A28",
+  "text": "Na čem závisí, zda vesmír skončí velkým roztržením (Big Rip)?",
+  "options": [
+   "Na tom, zda stavový parametr temné energie klesne pod hodnotu −1",
+   "Na tom, zda průměrná hustota hmoty překročí kritickou hodnotu",
+   "Na tom, zda je prostorová geometrie vesmíru otevřená, či uzavřená",
+   "Na tom, zda protony podléhají rozpadu s konečnou dobou života"
+  ]
+ },
+ {
+  "id": "kos-A29",
+  "text": "Proč dnes většina kosmologů nepovažuje velký křach (Big Crunch) za pravděpodobný?",
+  "options": [
+   "Protože hustota hmoty je vyšší než kritická, což křach vylučuje",
+   "Protože temná energie rozpínání zrychluje, místo aby je brzdila",
+   "Protože vesmír je nekonečný, a nekonečno se nemůže smrštit zpět",
+   "Protože druhý termodynamický zákon zakazuje návrat do hustého stavu"
+  ]
+ },
+ {
+  "id": "kos-A30",
+  "text": "Jaký je rozdíl mezi kosmologickým horizontem částic a horizontem událostí?",
+  "options": [
+   "Horizont částic je vždy menší; oba splývají až v nekonečné budoucnosti",
+   "Jsou to dvě jména pro touž hranici, jen měřená v jiných souřadnicích",
+   "Horizont částic ohraničuje viditelný objem, horizont událostí patří jen černým dírám",
+   "Horizont částic udává, co jsme mohli spatřit, horizont událostí, co kdy spatříme"
+  ]
+ },
+ {
+  "id": "kos-A31",
+  "text": "Které soustavy se s rozpínáním vesmíru samy nerozpínají?",
+  "options": [
+   "Kupy galaxií ano, ale jednotlivé galaxie a hvězdy se rozpínají také",
+   "Žádné; rozpínání zvětšuje stejnou měrou úplně všechny vzdálenosti",
+   "Pouze soustavy držené elektromagneticky, tedy atomy a molekuly",
+   "Gravitačně vázané soustavy — hvězdy, galaxie i kupy galaxií"
+  ]
+ },
+ {
+  "id": "kos-A32",
+  "text": "Může se od nás galaxie vzdalovat rychleji, než je rychlost světla?",
+  "options": [
+   "Ano; rozpínání prostoru není pohyb v prostoru, a limit se na ně nevztahuje",
+   "Ne; speciální relativita zakazuje jakoukoli nadsvětelnou vzájemnou rychlost",
+   "Ano, ale jen uvnitř horizontu událostí, kde neplatí obecná relativita",
+   "Ne; Hubbleův zákon je nastaven tak, aby rychlost světla nikdy nepřekročil"
+  ]
+ },
+ {
+  "id": "kos-A33",
+  "text": "Jak vysvětlí dolet atmosférických mionů pozorovatel sedící na mionu?",
+  "options": [
+   "Vidí svůj čas jako zpomalený, a proto stihne doletět až k povrchu",
+   "Vidí Zemi jako těžší, takže ho gravitace přitáhne k povrchu rychleji",
+   "Vidí tloušťku atmosféry zkrácenou, a proto ji stihne proletět celou",
+   "Vidí svůj rozpad jako pomalejší, protože se rozpad řídí dráhou letu"
+  ]
+ },
+ {
+  "id": "kos-A34",
+  "text": "Co dělá Hafeleův–Keatingův pokus s letadlovými hodinami zajímavým?",
+  "options": [
+   "Ukázal, že hodiny na východ a na západ jdou přesně stejně rychle",
+   "Byl to první přímý důkaz existence gravitačních vln v laboratoři",
+   "Změřil pouze gravitační efekt; kinematický byl na tehdejší hodiny příliš malý",
+   "Sečetl dva opačné vlivy: gravitační zrychlení chodu a kinematické zpomalení"
+  ]
+ },
+ {
+  "id": "kos-A35",
+  "text": "V čem je uložena asymetrie mezi dvojčaty v paradoxu dvojčat?",
+  "options": [
+   "Cestující dvojče mění inerciální soustavu, domácí zůstává v jedné",
+   "Cestující dvojče je rychlejší, a rychlost je absolutní veličinou",
+   "Domácí dvojče je hlouběji v gravitačním poli Země i Slunce",
+   "Cestující dvojče se pohybuje prostorem, domácí pouze časem"
+  ]
+ },
+ {
+  "id": "kos-A36",
+  "text": "Co tvrdí Einsteinův ekvivalenční princip nad rámec slabého principu?",
+  "options": [
+   "Že setrvačná a gravitační hmotnost každého tělesa jsou si rovny",
+   "Že gravitační pole lze v celém prostoru odstranit vhodnou soustavou",
+   "Že v lokálně volném pádu platí veškeré zákony speciální relativity",
+   "Že rychlost světla je stejná pro všechny rovnoměrně letící pozorovatele"
+  ]
+ },
+ {
+  "id": "kos-A37",
+  "text": "Co v obecné relativitě odlišuje skutečné gravitační pole od zrychlené kabiny?",
+  "options": [
+   "Že v gravitačním poli tělesa padají rychleji, než odpovídá zrychlení",
+   "Slapové jevy: sousední geodetiky se v zakřiveném prostoročase sbíhají",
+   "Že gravitační pole působí i na světlo, kdežto zrychlení kabiny nikoli",
+   "Že v poli plyne čas pomaleji, kdežto ve zrychlené kabině stejně"
+  ]
+ },
+ {
+  "id": "kos-A38",
+  "text": "O kolik za století se stáčí perihelium Merkuru navíc oproti newtonovské předpovědi?",
+  "options": [
+   "Asi 5600 úhlových vteřin, což Newton nedokázal vysvětlit vůbec",
+   "Asi 574 úhlových vteřin, celé jako důsledek zakřivení prostoročasu",
+   "Asi 8 úhlových vteřin, na hranici tehdejší pozorovací přesnosti",
+   "Asi 43 úhlových vteřin, přesně tolik dala obecná relativita"
+  ]
+ },
+ {
+  "id": "kos-A39",
+  "text": "Co změřil Poundův–Rebkův pokus ve věži Harvardovy univerzity roku 1960?",
+  "options": [
+   "Posuv frekvence fotonů o 22,5 metru výšky v tíhovém poli Země",
+   "Zpomalení rozpadu mionů letících svisle vzhůru vůči klidovým",
+   "Ohyb světelného paprsku procházejícího podél stěny vysoké věže",
+   "Rozdíl chodu dvou atomových hodin oddělených výškou jednoho metru"
+  ]
+ },
+ {
+  "id": "kos-A40",
+  "text": "Co se uvnitř Schwarzschildova poloměru stane s rolí souřadnic r a t?",
+  "options": [
+   "Obě zcela ztrácejí smysl, neboť uvnitř přestává platit relativita",
+   "Zůstanou beze změny; horizont je jen souřadnicová iluze bez důsledků",
+   "Vymění si povahu: přiblížení k singularitě je nevyhnutelné jako budoucnost",
+   "Čas se tam zastaví úplně, takže padající těleso už singularity nikdy nedosáhne"
+  ]
+ },
+ {
+  "id": "kos-A41",
+  "text": "Čím je u rotující (Kerrovy) černé díry zvláštní ergosféra?",
+  "options": [
+   "Leží uvnitř horizontu, a proto z ní nelze vynést žádnou energii",
+   "Leží vně horizontu, ale nic v ní nemůže zůstat vůči nekonečnu v klidu",
+   "Je to oblast, kde se singularita stává nahou a viditelnou zvenčí",
+   "Je to plocha, na níž se rychlost rotace díry rovná rychlosti světla"
+  ]
+ },
+ {
+  "id": "kos-A42",
+  "text": "Proč akreční disky kvasarů září účinněji než jaderná fúze ve hvězdách?",
+  "options": [
+   "Protože v disku probíhá fúze těžších prvků, která uvolní víc energie",
+   "Protože disk anihiluje hmotu s antihmotou a beze zbytku ji mění v pouhé záření",
+   "Protože černá díra vyzařuje energii vlastního gravitačního zhroucení",
+   "Protože pád do hlubokého potenciálu uvolní řádově desetinu klidové energie"
+  ]
+ },
+ {
+  "id": "kos-A43",
+  "text": "Co vlastně zachytily snímky Event Horizon Telescope z roku 2019?",
+  "options": [
+   "Stín černé díry v M87 obklopený prstencem záření z okolní plazmy",
+   "Přímý obraz povrchu horizontu událostí černé díry ve středu M87",
+   "Snímek singularity uvnitř černé díry pořízený v rentgenovém oboru",
+   "Optický obraz relativistického výtrysku vycházejícího z jádra M87"
+  ]
+ },
+ {
+  "id": "kos-A44",
+  "text": "Co ukázalo splynutí neutronových hvězd GW170817 z roku 2017?",
+  "options": [
+   "Že gravitační vlny se šíří pomaleji než světlo o několik sekund",
+   "Že při kilonově vznikají těžké prvky r-procesem, včetně zlata a platiny",
+   "Že neutronové hvězdy po splynutí vždy zůstávají neutronovou hvězdou",
+   "Že těžší prvky než železo vznikají výhradně v obyčejných supernovách"
+  ]
+ },
+ {
+  "id": "kos-B01",
+  "text": "Co vynáší Hertzsprungův–Russellův diagram na svých dvou osách?",
+  "options": [
+   "Hmotnost hvězdy proti jejímu stáří v miliardách let",
+   "Vzdálenost hvězdy proti její zdánlivé jasnosti na obloze",
+   "Zářivý výkon hvězdy proti její povrchové teplotě",
+   "Poloměr hvězdy proti množství vodíku zbylého v jádru"
+  ]
+ },
+ {
+  "id": "kos-B02",
+  "text": "Proč hmotné hvězdy hlavní posloupnosti žijí mnohem kratší dobu než Slunce?",
+  "options": [
+   "Svítí zhruba se čtvrtou mocninou hmotnosti, palivo spálí rychle",
+   "Mají v jádru méně vodíku, protože ho odfoukne hvězdný vítr",
+   "Jejich jádra jsou chladnější, takže v nich fúze probíhá pomaleji",
+   "Rychlá rotace jim brání promíchávat palivo z obalu do jádra"
+  ]
+ },
+ {
+  "id": "kos-B03",
+  "text": "Co se děje v nitru hvězdy jako Slunce ve chvíli, kdy se stává červeným obrem?",
+  "options": [
+   "Jádro se rozpíná a chladne, zatímco obal se hroutí dovnitř",
+   "V celém objemu hvězdy se naráz zapálí fúze uhlíku na kyslík",
+   "Jádro se roztočí tak rychle, že hvězdu roztrhá odstředivá síla",
+   "Heliové jádro se smršťuje a vodík hoří ve slupce kolem něj"
+  ]
+ },
+ {
+  "id": "kos-B04",
+  "text": "Čím je rozsvícena planetární mlhovina?",
+  "options": [
+   "Odrazem světla okolních hvězd od zrn prachu rozptýlených v mlhovině",
+   "Ultrafialovým zářením horkého obnaženého jádra staré hvězdy",
+   "Rázovou vlnou supernovy, jež plyn zahřeje na miliony stupňů",
+   "Fúzí vodíku, která pokračuje v uzlech odhozeného plynu"
+  ]
+ },
+ {
+  "id": "kos-B05",
+  "text": "Co brání bílému trpaslíkovi v dalším gravitačním hroucení?",
+  "options": [
+   "Tlak záření vznikajícího při fúzi helia v jeho horkém nitru",
+   "Magnetické pole, které svírá plazmu a drží ji v rovnováze",
+   "Tlak degenerovaného elektronového plynu z Pauliho principu",
+   "Rychlá rotace, jejíž odstředivý účinek vyrovná gravitaci"
+  ]
+ },
+ {
+  "id": "kos-B06",
+  "text": "Kolik zhruba činí Chandrasekharova mez, nad níž se bílý trpaslík neudrží?",
+  "options": [
+   "Asi 1,4 hmotnosti Slunce",
+   "Asi 0,5 hmotnosti Slunce",
+   "Asi 3,0 hmotnosti Slunce",
+   "Asi 8,0 hmotnosti Slunce"
+  ]
+ },
+ {
+  "id": "kos-B07",
+  "text": "Proč slouží supernovy typu Ia jako standardní svíčky?",
+  "options": [
+   "Protože vybuchují vždy tisíc let po vzniku těsné dvojhvězdy",
+   "Vybuchují při stále stejné kritické hmotnosti, mají podobný výkon",
+   "Protože jejich světlo nezeslabuje s druhou mocninou vzdálenosti od nás",
+   "Jejich spektrum obsahuje vodíkové čáry o pevné vlnové délce"
+  ]
+ },
+ {
+  "id": "kos-B08",
+  "text": "Co spustí supernovu typu II u hvězdy nad zhruba osm hmotností Slunce?",
+  "options": [
+   "Srážka dvou obalů, které do sebe narazí při pulzacích hvězdy",
+   "Přetečení hmoty od hvězdného souputníka přes Rocheovu mez",
+   "Náhlé zapálení termonukleární fúze v celém vnějším obalu",
+   "Kolaps železného jádra, které už fúzí energii neuvolní"
+  ]
+ },
+ {
+  "id": "kos-B09",
+  "text": "Čím se hnědý trpaslík liší od hvězdy hlavní posloupnosti?",
+  "options": [
+   "Vůbec nezáří, veškerou energii vyzáří hned po svém vzniku",
+   "Nemá dost hmoty, aby v jádru trvale zapálil fúzi vodíku",
+   "Vzniká z trosek supernovy, nikoli přímo z oblaku plynu",
+   "Je hmotnější než Slunce, ale jeho jádro tvoří jen helium"
+  ]
+ },
+ {
+  "id": "kos-B10",
+  "text": "Co ohřívá protohvězdu dříve, než se v jejím nitru zapálí fúze?",
+  "options": [
+   "Rozpad radioaktivních prvků nasbíraných z okolní mlhoviny",
+   "Tření prachových zrn obíhajících v okolním akrečním disku",
+   "Uvolňovaná gravitační potenciální energie při smršťování",
+   "Pohlcování ultrafialového záření od blízkých hmotných hvězd"
+  ]
+ },
+ {
+  "id": "kos-B11",
+  "text": "Čím se vyznačují hvězdy populace II oproti populaci I?",
+  "options": [
+   "Jsou staré a chudé na těžší prvky, sídlí v halu Galaxie",
+   "Jsou mladé, bohaté na kovy a drží se v rovině disku",
+   "Jsou to první hvězdy vesmíru, složené jen z vodíku a helia",
+   "Jsou to výhradně hvězdy hmotnější než dvacet Sluncí"
+  ]
+ },
+ {
+  "id": "kos-B12",
+  "text": "Co astronom myslí pojmem metalicita hvězdy?",
+  "options": [
+   "Zastoupení prvků těžších než vodík a helium ve složení",
+   "Podíl kovových zrn v prachu, který hvězdu obklopuje",
+   "Množství železa vzniklého v jádru za poslední milion let",
+   "Odrazivost povrchu hvězdy měřená ve viditelném spektru"
+  ]
+ },
+ {
+  "id": "kos-B13",
+  "text": "Co jsou Fraunhoferovy čáry ve slunečním spektru?",
+  "options": [
+   "Jasné emisní čáry vyzářené chromosférou při erupcích",
+   "Pruhy vzniklé ohybem světla na štěrbině spektrografu",
+   "Stopy plynů zemské atmosféry, mimo Zemi ve spektru chybějí",
+   "Tmavé absorpční čáry prvků ve svrchních vrstvách Slunce"
+  ]
+ },
+ {
+  "id": "kos-B14",
+  "text": "Kdy uvidíme ve spektru zdroje jasné emisní čáry na tmavém pozadí?",
+  "options": [
+   "Když se díváme na horký hustý povrch skrz chladnější plyn",
+   "Když světlo hvězdy prochází mezihvězdným prachovým oblakem",
+   "Když pozorujeme řídký horký plyn bez spojitého zdroje za ním",
+   "Když je zdrojem černé těleso zahřáté na několik tisíc kelvinů"
+  ]
+ },
+ {
+  "id": "kos-B15",
+  "text": "Podle čeho poznáme spektroskopickou dvojhvězdu, i když ji nerozlišíme?",
+  "options": [
+   "Její spektrální čáry se periodicky posouvají k modré i červené",
+   "Její celková jasnost pravidelně klesá při zákrytech obou složek",
+   "Její poloha na obloze opisuje během roku malou elipsu paralaxy",
+   "Její spektrum obsahuje dvakrát více absorpčních čar než Slunce"
+  ]
+ },
+ {
+  "id": "kos-B16",
+  "text": "Jak je definován parsek?",
+  "options": [
+   "Vzdálenost, kterou světlo urazí za 3,26 roku ve vakuu",
+   "Vzdálenost hvězdy s roční paralaxou jedné obloukové vteřiny",
+   "Vzdálenost, na které by Slunce mělo právě první hvězdnou velikost",
+   "Vzdálenost Země od Slunce vynásobená počtem dní v roce"
+  ]
+ },
+ {
+  "id": "kos-B17",
+  "text": "Co objevila Henrietta Leavittová u cefeid a proč je to zásadní?",
+  "options": [
+   "Že jejich barva prozradí jejich věk, což datuje hvězdokupy",
+   "Že se jejich perioda rok od roku prodlužuje o měřitelný zlomek",
+   "Že perioda pulzací udává jejich svítivost, tedy i vzdálenost",
+   "Že všechny pulzují se stejnou periodou zhruba deseti dnů"
+  ]
+ },
+ {
+  "id": "kos-B18",
+  "text": "Proč mluvíme o kosmickém žebříku vzdáleností?",
+  "options": [
+   "Protože se vzdálenosti udávají v žebříčku od nejbližších dál",
+   "Protože každá metoda měří vzdálenost v jiném oboru spektra",
+   "Protože vzdálenosti rostou v pravidelných mocninách deseti",
+   "Každá metoda se kalibruje na tu předchozí, chyby se tak sčítají"
+  ]
+ },
+ {
+  "id": "kos-B19",
+  "text": "Co tvrdí takzvaný model z Nice o mladé sluneční soustavě?",
+  "options": [
+   "Že se všechny planety utvořily tam, kde je vidíme dnes",
+   "Že obří planety migrovaly a rozmetaly původní pás planetesimál",
+   "Že Slunce zachytilo hotové planety od jiné hvězdy, jež šla kolem",
+   "Že se planety zrodily z materiálu vytrženého ze Slunce"
+  ]
+ },
+ {
+  "id": "kos-B20",
+  "text": "Jak se liší Kuiperův pás od Oortova oblaku?",
+  "options": [
+   "Kuiperův pás je kulový, Oortův oblak leží v rovině ekliptiky",
+   "Kuiperův pás tvoří jen prach, Oortův oblak výhradně balvany železa",
+   "Kuiperův pás je plochý a blízký, Oortův oblak kulový a vzdálený",
+   "Kuiperův pás obíhá kolem Jupitera, Oortův oblak kolem Slunce"
+  ]
+ },
+ {
+  "id": "kos-B21",
+  "text": "Kam míří plynný ohon komety?",
+  "options": [
+   "Vždy zhruba od Slunce, bez ohledu na směr letu komety",
+   "Vždy přesně proti směru pohybu komety po její dráze",
+   "Vždy k Slunci, protože ho jeho gravitace přitahuje dovnitř",
+   "Vždy kolmo k rovině dráhy, tedy k pólu ekliptiky"
+  ]
+ },
+ {
+  "id": "kos-B22",
+  "text": "Kterou ze tří podmínek definice IAU Pluto nesplňuje?",
+  "options": [
+   "Obíhá kolem Slunce, nikoli kolem jiné planety",
+   "Má dost hmoty, aby ho gravitace stáhla do koule",
+   "Nezáří vlastním světlem vzniklým jadernou fúzí",
+   "Vyčistilo okolí dráhy od podobně velkých těles"
+  ]
+ },
+ {
+  "id": "kos-B23",
+  "text": "Čím Jupiter způsobil Kirkwoodovy mezery v pásu planetek?",
+  "options": [
+   "Magnetickým polem, které nabité částice vymetá pryč",
+   "Dráhovými rezonancemi, jež z těchto poloh planetky vypudí",
+   "Stínem, v němž se planetky ochlazují a postupně rozpadají",
+   "Slapovými silami, které tam planetky roztrhaly na prach"
+  ]
+ },
+ {
+  "id": "kos-B24",
+  "text": "Co je na Titanu z hlediska koloběhu látek pozoruhodné?",
+  "options": [
+   "Má hustou atmosféru z čistého kyslíku a vodní páry",
+   "Jeho povrch pokrývá oceán tekutého kovového vodíku",
+   "Má jezera a déšť z metanu a etanu, tedy vlastní koloběh",
+   "Je jediným měsícem s vlastním prstencem z vodního ledu"
+  ]
+ },
+ {
+  "id": "kos-B25",
+  "text": "Co nejsilněji svědčí o slaném oceánu pod ledem Europy?",
+  "options": [
+   "Indukované magnetické pole, jaké budí vodivá slaná vrstva",
+   "Vysoká hustota měsíce srovnatelná s hustotou čistého železa",
+   "Přítomnost husté dusíkové atmosféry naměřená sondou Galileo",
+   "Silné sopečné výbuchy pozorované na jejím jižním pólu"
+  ]
+ },
+ {
+  "id": "kos-B26",
+  "text": "Jak dlouhý je magnetický cyklus Slunce, po němž se vrátí i polarita?",
+  "options": [
+   "Zhruba jeden jediný rok",
+   "Zhruba dvaadvacet let",
+   "Zhruba jedenáct let",
+   "Zhruba sto padesát let"
+  ]
+ },
+ {
+  "id": "kos-B27",
+  "text": "Čím vzniká typická zelená barva polární záře?",
+  "options": [
+   "Odrazem slunečního světla od ledových krystalků v mezosféře",
+   "Zářením molekul vodní páry vybuzených elektrickým výbojem",
+   "Rozkladem ozonu, při němž se uvolňuje zelené světlo",
+   "Vyzařováním atomů kyslíku vybuzených nabitými částicemi"
+  ]
+ },
+ {
+  "id": "kos-B28",
+  "text": "Které Lagrangeovy body soustavy Slunce–Země jsou stabilní?",
+  "options": [
+   "Body L1 a L2, ležící na spojnici obou těles",
+   "Všech pět, jen v L3 je nutná častější korekce",
+   "Pouze bod L3 na opačné straně dráhy Země",
+   "Body L4 a L5, které předbíhají a následují Zemi"
+  ]
+ },
+ {
+  "id": "kos-B29",
+  "text": "Proč stojí Webbův dalekohled právě v okolí bodu L2?",
+  "options": [
+   "Slunce, Země i Měsíc jsou z jedné strany, štít je zacloní",
+   "Je to jediné místo, kde gravitace Slunce zcela vymizí",
+   "Leží mimo soustavu, takže ho neruší meziplanetární prach",
+   "Obíhá tam pomaleji, takže má více času na dlouhé expozice"
+  ]
+ },
+ {
+  "id": "kos-B30",
+  "text": "Proč se zrcadla a detektory infračervených teleskopů chladí?",
+  "options": [
+   "Chlad zvyšuje odrazivost zrcadla v oboru dlouhých vlnových délek",
+   "Teplý přístroj by sám zářil v infračerveném oboru a přezářil cíl",
+   "Nízká teplota zkracuje vlnovou délku přijímaného záření",
+   "Chlazením se potlačí ohyb světla na okraji hlavního zrcadla"
+  ]
+ },
+ {
+  "id": "kos-B31",
+  "text": "K čemu slouží umělá vodicí hvězda vytvořená laserem?",
+  "options": [
+   "Osvětluje pozorovaný objekt, který je pro dalekohled slabý",
+   "Slouží jako etalon barvy pro kalibraci spektrografu",
+   "Dává referenci pro měření neklidu vzduchu a tvar zrcadla",
+   "Zahřívá vrstvu vzduchu nad zrcadlem a tlumí tak chvění"
+  ]
+ },
+ {
+  "id": "kos-B32",
+  "text": "Co určuje úhlové rozlišení radiového interferometru?",
+  "options": [
+   "Součet sběrných ploch všech zapojených antén dohromady",
+   "Počet hodin, po které soustava daný zdroj sleduje",
+   "Průměr největší jednotlivé antény zapojené do soustavy",
+   "Vzdálenost nejvzdálenější dvojice antén, tedy základna"
+  ]
+ },
+ {
+  "id": "kos-B33",
+  "text": "Proč se rozbitý hrnek nikdy sám nesloží, ačkoli to zákony dovolují?",
+  "options": [
+   "Zákony mechaniky jsou nevratné už na úrovni jednotlivých atomů",
+   "Uspořádaných stavů je nesrovnatelně méně než neuspořádaných",
+   "Energie se při rozbití nenávratně ztratí a nelze ji už doplnit",
+   "Gravitace působí jen jedním směrem, a tím udává šipku času"
+  ]
+ },
+ {
+  "id": "kos-B34",
+  "text": "Co překvapivého vyplynulo z Maxwellových rovnic elektřiny a magnetismu?",
+  "options": [
+   "Že existuje i osamocený magnetický náboj, jen je vzácný",
+   "Že elektrický proud může téci vždy jen v uzavřené smyčce",
+   "Že z nich plyne vlna běžící rychlostí světla — světlo je vlna",
+   "Že se elektrické a magnetické pole navzájem přesně ruší"
+  ]
+ },
+ {
+  "id": "kos-B35",
+  "text": "Co se mění napříč spektrem od radiových vln ke gama záření?",
+  "options": [
+   "Roste frekvence a energie fotonu, klesá vlnová délka",
+   "Roste rychlost šíření vlny ve vakuu i v hustém prostředí",
+   "Mění se podstata, gama záření už není vlna, ale částice",
+   "Roste amplituda vlny, zatímco frekvence zůstává stejná"
+  ]
+ },
+ {
+  "id": "kos-B36",
+  "text": "Co je podstatou mechanické rezonance?",
+  "options": [
+   "Dvě tělesa si předají energii jen při shodné hmotnosti",
+   "Buzení o frekvenci blízké té vlastní vede k velké výchylce",
+   "Kmitání se samo zesiluje, i když už na ně nic nepůsobí",
+   "Tlumení soustavy roste s druhou mocninou její výchylky"
+  ]
+ },
+ {
+  "id": "kos-B37",
+  "text": "Co znamená, že je systém deterministicky chaotický?",
+  "options": [
+   "Jeho vývoj řídí náhoda, rovnice pro něj vůbec neexistují",
+   "Jeho stav se v čase opakuje, ale s náhodně dlouhou periodou",
+   "Rovnice jsou dané, ale drobná odchylka počátku vše rozhodí",
+   "Jeho energie se nezachovává, a proto ho nelze počítat dopředu"
+  ]
+ },
+ {
+  "id": "kos-B38",
+  "text": "Proč nemůže existovat mravenec velký jako kůň, i kdyby měl stejný tvar?",
+  "options": [
+   "Jeho krunýř by se zahřál natolik, že by ztratil pevnost",
+   "Vzduch by do jeho průdušnic nepronikl, protože je moc řídký",
+   "Jeho svaly by rostly pomaleji než krunýř a nakonec praskly",
+   "Hmotnost roste s krychlí rozměru, nosnost nohou se čtvercem"
+  ]
+ },
+ {
+  "id": "kos-B39",
+  "text": "Proč se teplota vroucí vody nezvyšuje, i když pod ní hoří plamen?",
+  "options": [
+   "Dodané teplo se spotřebuje na rozrušení vazeb mezi molekulami",
+   "Plamen ohřívá jen dno nádoby, voda nad ním už teplo nepřijímá",
+   "Tlak páry nad hladinou brání dalšímu pronikání tepla do vody",
+   "Voda má tak velkou tepelnou kapacitu, že se ohřeje neměřitelně"
+  ]
+ },
+ {
+  "id": "kos-B40",
+  "text": "Čím se plazma liší od obyčejného plynu?",
+  "options": [
+   "Je vždy hustší než kapalina, proto se chová jako kov",
+   "Obsahuje volné náboje, reaguje proto na magnetická pole",
+   "Skládá se výhradně z neutronů uvolněných z jader atomů",
+   "Vzniká jen při teplotách nad milion kelvinů, jinde nikdy"
+  ]
+ },
+ {
+  "id": "kos-B41",
+  "text": "Co dělá kapalné helium ochlazené pod dva kelviny?",
+  "options": [
+   "Ztuhne v krystal i bez zvýšení vnějšího tlaku na nádobu",
+   "Přestane vést teplo a stane se dokonalým izolantem",
+   "Změní barvu na sytě modrou a začne slabě fosforeskovat",
+   "Teče bez tření a vyšplhá po stěnách nádoby přes okraj"
+  ]
+ },
+ {
+  "id": "kos-B42",
+  "text": "Proč nelze dosáhnout absolutní nuly?",
+  "options": [
+   "Protože teplota se dá měřit jen s omezenou přesností přístroje",
+   "Protože reliktní záření ohřívá vše nejméně na tři kelviny",
+   "Protože při nule by se zastavil čas a měření by nedávalo smysl",
+   "Každý krok chlazení odebere jen část zbylé energie, nikdy vše"
+  ]
+ },
+ {
+  "id": "kos-B43",
+  "text": "Co je Machovo číslo a co se děje, když překročí jedničku?",
+  "options": [
+   "Poměr rychlosti a rychlosti zvuku; vzniká kuželová rázová vlna",
+   "Poměr rychlosti a rychlosti světla; těleso začne zářit modře",
+   "Počet otáček motoru za vteřinu; letoun ztratí vztlak na křídle",
+   "Poměr tlaku a hustoty vzduchu; proudění se stane nestlačitelným"
+  ]
+ },
+ {
+  "id": "kos-B44",
+  "text": "Jak se z HR diagramu hvězdokupy pozná její stáří?",
+  "options": [
+   "Podle celkového počtu hvězd, kterých s časem ubývá",
+   "Podle barvy nejjasnějšího červeného obra v celé kupě",
+   "Podle bodu odklonu, kde hvězdy opouštějí hlavní posloupnost",
+   "Podle rozptylu hvězd kolem střední svítivosti v celém diagramu"
+  ]
+ }
+]

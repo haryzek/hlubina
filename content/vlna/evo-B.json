@@ -1,0 +1,706 @@
+[
+  {
+    "id": "evo-B01",
+    "type": "F",
+    "category": "evoluce",
+    "text": "Millerův–Ureyův pokus z roku 1953 prokázal především, že:",
+    "options": [
+      "z jednoduchých plynů a výbojů samovolně vznikají aminokyseliny",
+      "z neživé směsi se za elektrických výbojů sestavila první živá buňka",
+      "nukleové kyseliny se v redukující atmosféře spojují do delších řetězců",
+      "nejstarší organismy dýchaly kyslík uvolněný ze sopečných plynů"
+    ],
+    "correct": 0,
+    "explanation": "Miller nechal v uzavřené aparatuře jiskřit směs metanu, amoniaku, vodíku a vodní páry a získal několik aminokyselin. Ukázal tím, že stavební kameny života vznikají abioticky snadno — nikoli že vznikl život. Pozdější rozbor původních vzorků citlivějšími metodami odhalil přes dvacet aminokyselin.",
+    "source": "Stanley Miller, A Production of Amino Acids Under Possible Primitive Earth Conditions (Science, 1953); Bada et al. 2008",
+    "seedElo": 1600
+  },
+  {
+    "id": "evo-B02",
+    "type": "K",
+    "category": "evoluce",
+    "text": "Hlavní důvod, proč hypotéza RNA světa staví do počátku právě RNA, je ten, že RNA:",
+    "options": [
+      "je jedinou molekulou, kterou dokážeme v laboratoři vyrobit uměle",
+      "nese informaci a zároveň dokáže katalyzovat chemické reakce",
+      "odolává vysokým teplotám i záření lépe než molekula DNA",
+      "vznikala v Millerově aparatuře ve výrazně větším množství"
+    ],
+    "correct": 1,
+    "explanation": "Dnešní život dělí role: DNA uchovává informaci, bílkoviny katalyzují. RNA umí obojí — ribozymy jsou katalytické RNA a katalytické jádro ribozomu je tvořeno RNA, ne bílkovinou. Tím se obchází otázka, co bylo dřív, zda gen, nebo enzym.",
+    "source": "Walter Gilbert, The RNA World (Nature, 1986); Cech a Altman, Nobelova cena 1989",
+    "seedElo": 1750
+  },
+  {
+    "id": "evo-B03",
+    "type": "F",
+    "category": "evoluce",
+    "text": "Proč se v hypotézách o vzniku života dnes upřednostňují alkalické hydrotermální průduchy před „černými kuřáky“?",
+    "options": [
+      "leží mnohem blíž hladině, takže k nim proniká sluneční světlo",
+      "vyvrhují do okolní vody podstatně více organických sloučenin",
+      "jsou chladnější a nabízejí spád protonů přes tenké přepážky",
+      "vznikají výhradně v místech, kde se dnes tvoří nová oceánská kůra"
+    ],
+    "correct": 2,
+    "explanation": "Alkalické průduchy typu Lost City mají teplotu kolem 40–90 °C a porézní strukturu s tenkými minerálními přepážkami. Na nich se udržuje rozdíl pH mezi zásaditým vývěrem a kyselejším oceánem, tedy přirozený protonový gradient — přesně ten typ energie, který dnes buňky využívají k tvorbě ATP.",
+    "source": "Michael Russell a William Martin; Nick Lane, The Vital Question (2015)",
+    "seedElo": 2000
+  },
+  {
+    "id": "evo-B04",
+    "type": "K",
+    "category": "evoluce",
+    "text": "Označení LUCA (poslední univerzální společný předek) správně chápeme tak, že šlo o:",
+    "options": [
+      "úplně první buňku, jaká kdy na Zemi vznikla z neživé hmoty",
+      "populaci organismů, z níž pocházejí všechny dnes žijící linie",
+      "jediného jedince, od kterého se odvozuje veškerý dnešní život",
+      "nejstarší organismus, jehož fosilii se dosud podařilo najít"
+    ],
+    "correct": 1,
+    "explanation": "LUCA není první život, nýbrž bod větvení: poslední společný předek všech dosud žijících organismů. Byla to celá populace, uvnitř které se navíc čile vyměňovaly geny. Život před ní existoval, jen po sobě nezanechal žádnou přeživší větev.",
+    "source": "Weiss et al., The physiology and habitat of the last universal common ancestor (Nature Microbiology, 2016)",
+    "seedElo": 1700
+  },
+  {
+    "id": "evo-B05",
+    "type": "F",
+    "category": "evoluce",
+    "text": "Carl Woese oddělil archea jako samostatnou doménu života především na základě:",
+    "options": [
+      "tvaru a velikosti buněk pozorovaných v elektronovém mikroskopu",
+      "schopnosti přežívat ve vroucích pramenech a slaných jezerech",
+      "nepřítomnosti buněčného jádra a vnitřních membránových struktur",
+      "porovnání sekvencí ribozomální RNA malé podjednotky"
+    ],
+    "correct": 3,
+    "explanation": "Woese v roce 1977 porovnal geny pro 16S rRNA — molekulu přítomnou u všeho živého a měnící se pomalu. Ukázalo se, že „bakterie“ z extrémních prostředí tvoří větev vzdálenou od ostatních bakterií stejně jako od nás. Prokaryota se tím rozpadla na dvě domény.",
+    "source": "Woese a Fox, Phylogenetic structure of the prokaryotic domain (PNAS, 1977)",
+    "seedElo": 1700
+  },
+  {
+    "id": "evo-B06",
+    "type": "F",
+    "category": "evoluce",
+    "text": "Kterou biochemickou zvláštností se archea liší od bakterií i od eukaryot?",
+    "options": [
+      "membránové lipidy mají isoprenoidové řetězce vázané etherovou vazbou",
+      "buněčná stěna je u nich vždy vyztužena silnou vrstvou peptidoglykanu",
+      "genetickou informaci ukládají do jednořetězcové molekuly nukleové kyseliny",
+      "bílkoviny sestavují na ribozomech složených výhradně z bílkovin"
+    ],
+    "correct": 0,
+    "explanation": "Bakterie i eukaryota mají membrány z mastných kyselin připojených esterovou vazbou ke glycerolu. Archea používají rozvětvené isoprenoidy vázané etherem a glycerol v zrcadlové konfiguraci. Tento „lipidový předěl“ patří k nejtvrdším argumentům pro samostatnost domény.",
+    "source": "Koga a Morii, Biosynthesis of ether-type polar lipids in archaea (Microbiol. Mol. Biol. Rev., 2007)",
+    "seedElo": 1900
+  },
+  {
+    "id": "evo-B07",
+    "type": "F",
+    "category": "evoluce",
+    "text": "Velká oxidační událost, tedy trvalý nástup kyslíku v atmosféře, se datuje přibližně do doby před:",
+    "options": [
+      "3,8 miliardy let, tedy krátce po zformování prvních oceánů",
+      "2,4 miliardy let, tedy hluboko v období starohor a prahor",
+      "1,2 miliardy let, tedy až po objevení se prvních eukaryot",
+      "635 miliony let, tedy těsně před ediakarskou faunou"
+    ],
+    "correct": 1,
+    "explanation": "Sinice produkovaly kyslík už dříve, ale ten se spotřebovával na oxidaci rozpuštěného železa a sopečných plynů. Kolem 2,4 miliardy let se pufry vyčerpaly a kyslík začal trvale unikat do atmosféry. Zmizely tehdy detritické pyrity a objevily se první červené vrstvy.",
+    "source": "Holland, The oxygenation of the atmosphere and oceans (Phil. Trans. R. Soc. B, 2006)",
+    "seedElo": 1850
+  },
+  {
+    "id": "evo-B08",
+    "type": "K",
+    "category": "evoluce",
+    "text": "Pásované železné rudy jsou pro dějiny života cenné hlavně proto, že:",
+    "options": [
+      "obsahují nejstarší dosud nalezené fosilie mnohobuněčných organismů",
+      "vznikají jen tam, kde v mořské vodě dlouhodobě převládá metan",
+      "zaznamenávají srážení železa s kyslíkem v tehdejších mořích",
+      "jejich vrstvy odpovídají jednotlivým rokům podobně jako letokruhy"
+    ],
+    "correct": 2,
+    "explanation": "V bezkyslíkatém oceánu bylo dvojmocné železo rozpustné a hojné. Jakmile se objevil fotosyntetický kyslík, železo se oxidovalo a klesalo ke dnu jako oxidy. Střídavé vrstvy tak nepřímo zaznamenávají první produkci kyslíku, dávno před jeho hromaděním v atmosféře.",
+    "source": "Klein, Some Precambrian banded iron-formations (American Mineralogist, 2005)",
+    "seedElo": 1850
+  },
+  {
+    "id": "evo-B09",
+    "type": "F",
+    "category": "evoluce",
+    "text": "Objev asgardských archeí (například Lokiarchaeota) posunul debatu o eukaryogenezi tím, že:",
+    "options": [
+      "prokázal, že eukaryotická buňka vznikla splynutím dvou bakterií",
+      "vyvrátil představu, že mitochondrie mají bakteriální původ",
+      "doložil existenci jádra u organismů žijících v horkých pramenech",
+      "odhalil archea nesoucí geny pro dosud typicky eukaryotické znaky"
+    ],
+    "correct": 3,
+    "explanation": "V genomech asgardských archeí se našly homology aktinu, ESCRT či proteinů pro transport váčků, tedy výbavy pro dynamickou membránu a fagocytózu podobné procesy. Podporují model, kdy hostitelem mitochondrie byla archeální buňka. Roku 2019 se jednoho z nich podařilo i vypěstovat.",
+    "source": "Spang et al. (Nature, 2015); Imachi et al., Isolation of an archaeon at the prokaryote–eukaryote interface (Nature, 2020)",
+    "seedElo": 1950
+  },
+  {
+    "id": "evo-B10",
+    "type": "K",
+    "category": "evoluce",
+    "text": "Co o mnohobuněčnosti vyplývá z jejího rozložení napříč stromem života?",
+    "options": [
+      "vznikla nezávisle mnohokrát v různých skupinách organismů",
+      "objevila se jednorázově a všechny linie ji zdědily po jednom předkovi",
+      "je možná jen u organismů, které mají pohlavní rozmnožování",
+      "předchází vzniku eukaryotické buňky a je tedy starší než jádro"
+    ],
+    "correct": 0,
+    "explanation": "Mnohobuněčnost se objevila u živočichů, rostlin, hub, hnědých a červených řas i u některých bakterií — odhady mluví o více než dvaceti nezávislých vzniknutích. Jednoduchá mnohobuněčnost tedy není evolučně obtížná. Těžší je až dělba práce a nevratná specializace buněk.",
+    "source": "Grosberg a Strathmann, The evolution of multicellularity: a minor major transition? (Annu. Rev. Ecol. Evol. Syst., 2007)",
+    "seedElo": 1750
+  },
+  {
+    "id": "evo-B11",
+    "type": "F",
+    "category": "evoluce",
+    "text": "Čím se ediakarská společenstva (asi 575–539 milionů let) nejnápadněji liší od kambrických?",
+    "options": [
+      "žila výhradně ve sladkých vodách vnitrozemských jezer a řek",
+      "chybí u nich tvrdé schránky, končetiny i stopy po predaci",
+      "byla tvořena převážně suchozemskými mechorosty a lišejníky",
+      "jejich zástupci měli již plně vyvinuté oči a vnitřní kostru"
+    ],
+    "correct": 1,
+    "explanation": "Ediakarské organismy typu Dickinsonia či Charnia jsou většinou ploché, přisedlé nebo pomalu se plazící útvary bez schránek a bez dokladů o lovu. Chybí i složité stopy po norování. Kambrium naopak přináší mineralizované schránky, končetiny a otvory po vrtavých predátorech.",
+    "source": "Guy Narbonne, The Ediacara Biota (Annu. Rev. Earth Planet. Sci., 2005)",
+    "seedElo": 1850
+  },
+  {
+    "id": "evo-B12",
+    "type": "F",
+    "category": "evoluce",
+    "text": "Jak dlouho podle současné stratigrafie trvala vlastní kambrická exploze?",
+    "options": [
+      "několik desítek tisíc let, tedy prakticky geologický okamžik",
+      "necelý milion let na samém rozhraní ediakary a kambria",
+      "přibližně dvě stě milionů let napříč celým starším paleozoikem",
+      "zhruba dvacet až pětadvacet milionů let raného kambria"
+    ],
+    "correct": 3,
+    "explanation": "Hlavní nárůst živočišných tělních plánů spadá zhruba mezi 539 a 515 miliony let, tedy do rozpětí kolem dvaceti milionů let. Na lidské měřítko je to nepředstavitelně dlouho, na geologické krátce. Molekulární hodiny navíc naznačují, že rozrůznění kmenů začalo už v ediakaře.",
+    "source": "Erwin et al., The Cambrian conundrum (Science, 2011)",
+    "seedElo": 1800
+  },
+  {
+    "id": "evo-B13",
+    "type": "F",
+    "category": "evoluce",
+    "text": "Nejrozšířenější vysvětlení ordovicko-silurského vymírání (asi před 445 miliony let) mluví o:",
+    "options": [
+      "dopadu planetky doprovázeném globálním požárem souší",
+      "výbuchu blízké supernovy, jejíž záření sterilizovalo mělká moře",
+      "zalednění Gondwany, poklesu hladiny moří a následné anoxii",
+      "prudkém oteplení způsobeném uvolněním metanu z mořského dna"
+    ],
+    "correct": 2,
+    "explanation": "Ordovické vymírání proběhlo ve dvou pulzech. První odpovídá nástupu zalednění na Gondwaně, poklesu mořské hladiny a zániku mělkovodních biotopů, druhý následnému oteplení a rozšíření bezkyslíkatých vod. Zasáhlo hlavně mořské bezobratlé, souš byla tehdy ještě takřka pustá.",
+    "source": "Sheehan, The Late Ordovician mass extinction (Annu. Rev. Earth Planet. Sci., 2001)",
+    "seedElo": 1900
+  },
+  {
+    "id": "evo-B14",
+    "type": "F",
+    "category": "evoluce",
+    "text": "Nejlépe doloženým spouštěčem permsko-triasového vymírání před 252 miliony let je:",
+    "options": [
+      "rozsáhlý vulkanismus sibiřských trapů a jeho skleníkové důsledky",
+      "dopad planetky, po němž zůstal kráter Chicxulub na Yucatánu",
+      "náhlé rozpadnutí superkontinentu Pangea na dnešní kontinenty",
+      "prudké zalednění, které zamrzlo většinu tehdejšího oceánu"
+    ],
+    "correct": 0,
+    "explanation": "Sibiřské trapy vylily statisíce krychlových kilometrů lávy a prohořely uhelnými pánvemi, čímž uvolnily obrovské množství oxidu uhličitého a metanu. Následovalo oteplení, okyselení a odkysličení oceánů. Vymřelo kolem 80 % mořských druhů, což z toho dělá nejtěžší známou krizi.",
+    "source": "Burgess, Bowring a Shen, High-precision timeline for Earth's most severe extinction (PNAS, 2014)",
+    "seedElo": 1600
+  },
+  {
+    "id": "evo-B15",
+    "type": "F",
+    "category": "evoluce",
+    "text": "Co bylo hlavním argumentem Alvarezova týmu pro dopad tělesa na konci křídy?",
+    "options": [
+      "objev kráteru Chicxulub, který byl tehdy právě zaměřen na Yucatánu",
+      "náhlé zmizení všech druhů dinosaurů v jediné vrstvě sedimentu",
+      "nález fosilního ptáka bezprostředně nad hraniční jílovou vrstvou",
+      "výrazně zvýšený obsah iridia v tenké vrstvě na hranici křída–paleogén"
+    ],
+    "correct": 3,
+    "explanation": "Iridium je v zemské kůře vzácné, ale běžné v planetkách. Alvarezovi ho roku 1980 našli v hraniční vrstvě v Itálii, Dánsku i na Novém Zélandu ve zhruba třicetinásobné koncentraci. Kráter Chicxulub byl jako odpovídající struktura potvrzen až o deset let později.",
+    "source": "Alvarez et al., Extraterrestrial cause for the Cretaceous–Tertiary extinction (Science, 1980)",
+    "seedElo": 1550
+  },
+  {
+    "id": "evo-B16",
+    "type": "K",
+    "category": "evoluce",
+    "text": "Jedna z hypotéz spojuje pozdně devonské vymírání s rozmachem prvních lesů. Její jádro zní:",
+    "options": [
+      "stromy vytlačily mořské řasy z mělčin a zpřetrhaly potravní řetězce",
+      "kořeny zvětraly horniny, živiny se splavily do moří a nastala anoxie",
+      "lesy pohltily tolik dusíku, že ho suchozemským živočichům nezbylo",
+      "husté koruny zastínily pobřeží a znemožnily fotosyntézu v mělčinách"
+    ],
+    "correct": 1,
+    "explanation": "Rozvoj hlubokých kořenových systémů urychlil zvětrávání a tvorbu půd. Do moří se dostávalo víc fosforu, což vedlo k přemnožení řas, spotřebě kyslíku a rozsáhlým černým břidlicím. Souběžně odčerpávání oxidu uhličitého ochlazovalo klima. Hypotéza je vlivná, ale ne jediná.",
+    "source": "Algeo a Scheckler, Terrestrial–marine teleconnections in the Devonian (Phil. Trans. R. Soc. B, 1998)",
+    "seedElo": 1950
+  },
+  {
+    "id": "evo-B17",
+    "type": "F",
+    "category": "evoluce",
+    "text": "Vymírání na konci triasu je významné hlavně tím, že:",
+    "options": [
+      "ukončilo existenci trilobitů, kteří do té doby ovládali mořské dno",
+      "proběhlo bez jakéhokoli doprovodného vulkanismu či změny klimatu",
+      "postihlo výhradně suchozemské rostliny a hmyzu se prakticky nedotklo",
+      "uvolnilo ekologický prostor, v němž se v juře rozvinuli dinosauři"
+    ],
+    "correct": 3,
+    "explanation": "Před 201 miliony let vymřela většina velkých krurotarsních plazů, kteří do té doby dinosaurům konkurovali. Časově to odpovídá vulkanismu středoatlantické magmatické provincie při rozpadu Pangey. Dinosauři přežili a v juře obsadili uvolněné role velkých suchozemských obratlovců.",
+    "source": "Blackburn et al., Zircon U-Pb geochronology links the end-Triassic extinction with CAMP (Science, 2013)",
+    "seedElo": 1850
+  },
+  {
+    "id": "evo-B18",
+    "type": "K",
+    "category": "evoluce",
+    "text": "Jaký dlouhodobý dopad na atmosféru mělo osídlení souše cévnatými rostlinami?",
+    "options": [
+      "snížilo obsah oxidu uhličitého ukládáním uhlíku a rychlejším zvětráváním",
+      "zvýšilo obsah oxidu uhličitého, protože rostliny při rozkladu uhlík uvolňují",
+      "prakticky nic nezměnilo, hlavním zdrojem kyslíku zůstal mořský plankton",
+      "vedlo k trvalému úbytku kyslíku, který rostliny spotřebují při dýchání"
+    ],
+    "correct": 0,
+    "explanation": "Suchozemská vegetace odčerpávala oxid uhličitý fotosyntézou, urychlovala silikátové zvětrávání a ukládala uhlík do sedimentů. V devonu a karbonu proto obsah oxidu uhličitého výrazně klesl a kyslíku přibylo. Karbonský vrchol kyslíku se odhaduje kolem 30 procent objemu.",
+    "source": "Berner, The Phanerozoic Carbon Cycle (2004); Beerling, The Emerald Planet (2007)",
+    "seedElo": 1700
+  },
+  {
+    "id": "evo-B19",
+    "type": "F",
+    "category": "evoluce",
+    "text": "Které vysvětlení mimořádného hromadění uhlí v karbonu dnes obstojí nejlépe?",
+    "options": [
+      "houby tehdy ještě neuměly rozkládat lignin, takže dřevo zůstávalo celé",
+      "vlhké pánve, kde klesající podloží rychle pohřbívalo rašelinu",
+      "karbonské rostliny obsahovaly řádově více uhlíku než ty pozdější",
+      "tehdejší hmyz spotřeboval odumřelé dřevo dřív, než stačilo shnít"
+    ],
+    "correct": 1,
+    "explanation": "Starší představa o „ligninové mezeře“, tedy o houbách bez schopnosti rozkládat dřevo, byla oslabena: molekulární datování vzniku hub bílé hniloby je nejisté a lignin rozkládaly i dřívější organismy. Novější práce kladou důraz na tektoniku a klima — rozsáhlé rovníkové bažiny s trvalým poklesem podloží pohřbívaly rašelinu rychleji, než stačila zetlít.",
+    "source": "Nelsen et al., Delayed fungal evolution did not cause the Paleozoic peak in coal production (PNAS, 2016)",
+    "seedElo": 2000
+  },
+  {
+    "id": "evo-B20",
+    "type": "K",
+    "category": "evoluce",
+    "text": "Rozmach krytosemenných rostlin v křídě je se vznikem hmyzí rozmanitosti spojen tak, že:",
+    "options": [
+      "krytosemenné rostliny vytlačily hmyz z korun stromů do bylinného patra",
+      "hmyz se objevil až po krytosemenných, na jejichž květech je zcela závislý",
+      "obě skupiny se rozrůzňovaly ve vzájemné vazbě, například opylovač a květ",
+      "hmyz zabránil šíření nahosemenných a uvolnil tak místo pro krytosemenné"
+    ],
+    "correct": 2,
+    "explanation": "Hmyz je starší než krytosemenné rostliny, žil už v devonu a v karbonu. V křídě však vzniká hustá síť specializovaných vazeb — opylování, herbivorie, minování listů — a obě skupiny se vzájemně diverzifikují. Nejde o závislost jedné skupiny na druhé, nýbrž o koevoluci.",
+    "source": "Labandeira, The four phases of plant–arthropod associations in deep time (Geologica Acta, 2006)",
+    "seedElo": 1750
+  },
+  {
+    "id": "evo-B21",
+    "type": "F",
+    "category": "evoluce",
+    "text": "K čemu dospěly studie kostní histologie a izotopů ohledně fyziologie velkých dinosaurů?",
+    "options": [
+      "měli metabolismus zcela shodný s dnešními ještěry a krokodýly",
+      "jejich tělesná teplota kolísala se sezonou stejně jako u ryb",
+      "byli plně teplokrevní, což se dnes pokládá za definitivně vyřešené",
+      "vykazují rychlý růst a teploty mezi plazy a ptáky, tedy spíš mezotermii"
+    ],
+    "correct": 3,
+    "explanation": "Kosti dinosaurů mají hustě prokrvenou fibrolamelární stavbu typickou pro rychlý růst, izotopová i růstová data pak vycházejí mezi typickými ektotermy a endotermy. Řada autorů proto mluví o mezotermii. U menších teropodů se přitom hodnoty blíží ptačím, takže jednotná odpověď pro celou skupinu neexistuje.",
+    "source": "Grady et al., Evidence for mesothermy in dinosaurs (Science, 2014)",
+    "seedElo": 2000
+  },
+  {
+    "id": "evo-B22",
+    "type": "K",
+    "category": "evoluce",
+    "text": "Nálezy opeřených neletavých dinosaurů z Číny podpořily závěr, že peří:",
+    "options": [
+      "vzniklo dříve než let a původně sloužilo k jiným funkcím",
+      "se vyvinulo současně se schopností aktivního mávavého letu",
+      "je pouze u ptáků a u dinosaurů jde o špatně vyložené šupiny",
+      "sloužilo výhradně k izolaci a ozdobnou roli získalo až u ptáků"
+    ],
+    "correct": 0,
+    "explanation": "Sinosauropteryx a řada dalších čínských teropodů měla jednoduchá vlákna či pravé peří, ačkoli létat nemohla. Peří tedy vzniklo dříve než let a nejspíš plnilo funkce tepelně izolační i signální; melanozomy ve fosiliích dokládají i barevné vzory. Let byl až pozdější využití existující struktury.",
+    "source": "Xu a Guo, The origin and early evolution of feathers (Vertebrata PalAsiatica, 2009); Zhang et al. 2010",
+    "seedElo": 1900
+  },
+  {
+    "id": "evo-B23",
+    "type": "F",
+    "category": "evoluce",
+    "text": "Tvrzení „ptáci jsou dinosauři“ znamená v současné systematice, že:",
+    "options": [
+      "ptáci jsou dinosaurům jen velmi podobní díky obdobnému způsobu života",
+      "ptáci se vyvinuli z plazů nezávisle na dinosaurech, ze společného kořene",
+      "ptáci patří dovnitř skupiny teropodních dinosaurů jako jedna z větví",
+      "všichni dinosauři jsou zpětně řazeni mezi ptáky, protože měli peří"
+    ],
+    "correct": 2,
+    "explanation": "Kladistika řadí do skupiny všechny potomky společného předka. Ptáci vycházejí z maniraptorních teropodů, takže „dinosauři bez ptáků“ by byla neúplná skupina. Proto se rozlišuje mezi neptačími dinosaury, kteří vymřeli na konci křídy, a dinosaury jako celkem, kteří žijí dodnes.",
+    "source": "Padian a Chiappe, The origin and early evolution of birds (Biological Reviews, 1998)",
+    "seedElo": 1550
+  },
+  {
+    "id": "evo-B24",
+    "type": "K",
+    "category": "evoluce",
+    "text": "Jak dnešní nálezy upravují starší obraz druhohorních savců jako „malých nočních tvorů v podrostu“?",
+    "options": [
+      "ukazují, že savci byli v druhohorách zcela chybějící skupinou",
+      "dokládají savce velikosti dnešních jelenů běžné po celé druhohory",
+      "potvrzují jej beze zbytku, žádný druhohorní savec nepřesáhl velikost myši",
+      "odhalují plavce, hrabavé i klouzavé formy, přesto vesměs drobné"
+    ],
+    "correct": 3,
+    "explanation": "Čínské nálezy jako Castorocauda, Repenomamus či Volaticotherium ukazují ekologicky pestré savce druhohor: plavce, hrabavé formy i klouzavé. Repenomamus dosahoval velikosti jezevce a v žaludku měl mládě dinosaura. Většina savců však opravdu zůstávala malá a noční aktivita byla u nich pravděpodobně rozšířená.",
+    "source": "Luo, Transformation and diversification in early mammal evolution (Nature, 2007)",
+    "seedElo": 1900
+  },
+  {
+    "id": "evo-B25",
+    "type": "F",
+    "category": "evoluce",
+    "text": "Objev reverzní transkriptázy upravil centrální dogma molekulární biologie tím, že ukázal:",
+    "options": [
+      "přepis informace z RNA zpět do DNA, což je opačný než obvyklý směr",
+      "přenos informace z bílkoviny zpět do nukleové kyseliny v buňce",
+      "že bílkoviny se u některých virů obejdou bez jakékoli nukleové kyseliny",
+      "že DNA se v jádře kopíruje přímo do bílkoviny bez mezikroku RNA"
+    ],
+    "correct": 0,
+    "explanation": "Temin a Baltimore roku 1970 popsali u retrovirů enzym přepisující RNA do DNA. Crickova původní formulace dogmatu přitom zakazovala jen tok informace z bílkoviny zpět do nukleové kyseliny, cestu z RNA do DNA nevylučovala. Časté tvrzení, že reverzní transkriptáza dogma vyvrátila, je proto přehnané.",
+    "source": "Baltimore (Nature, 1970); Temin a Mizutani (Nature, 1970); Crick, Central dogma of molecular biology (Nature, 1970)",
+    "seedElo": 1800
+  },
+  {
+    "id": "evo-B26",
+    "type": "K",
+    "category": "evoluce",
+    "text": "Jaký je hlavní evoluční význam alternativního sestřihu?",
+    "options": [
+      "umožňuje buňce zdvojnásobit rychlost, jakou překládá RNA do bílkovin",
+      "opravuje chyby vzniklé při zdvojení DNA před dělením buňky",
+      "z jednoho genu umožňuje vytvářet několik různých variant bílkoviny",
+      "chrání konce chromozomů před postupným zkracováním při dělení"
+    ],
+    "correct": 2,
+    "explanation": "Při sestřihu se z prvotního transkriptu vyřezávají introny a exony se spojují. Když se exony kombinují různě, vzniká z jednoho genu více proteinových variant s odlišnou funkcí či lokalizací. To pomáhá vysvětlit, proč člověk s asi dvaceti tisíci geny vytváří mnohem víc druhů bílkovin.",
+    "source": "Nilsen a Graveley, Expansion of the eukaryotic proteome by alternative splicing (Nature, 2010)",
+    "seedElo": 1700
+  },
+  {
+    "id": "evo-B27",
+    "type": "K",
+    "category": "evoluce",
+    "text": "Co projekt ENCODE svým slavným tvrzením o „80 % funkční DNA“ skutečně měřil?",
+    "options": [
+      "podíl úseků, jejichž poškození vede u člověka k rozvoji nemoci",
+      "podíl úseků, které jsou přepisovány či biochemicky aktivní",
+      "podíl úseků kódujících bílkoviny, dosud podceňovaný o celý řád",
+      "podíl úseků, které zůstaly u obratlovců zachovány beze změny"
+    ],
+    "correct": 1,
+    "explanation": "ENCODE definoval funkci biochemicky: úsek se počítal, pokud byl přepisován, vázal bílkovinu nebo nesl určitou chromatinovou značku. Takový signál ovšem může být i evolučně bezvýznamný šum. Evoluční kritérium zachovanosti sekvence dává podstatně nižší odhad, řádově pod deset procent genomu.",
+    "source": "ENCODE Project Consortium (Nature, 2012); Graur et al., On the immortality of television sets (GBE, 2013)",
+    "seedElo": 2050
+  },
+  {
+    "id": "evo-B28",
+    "type": "F",
+    "category": "evoluce",
+    "text": "Jakou roli hrají telomery při dělení somatických buněk?",
+    "options": [
+      "spojují sesterské chromatidy, dokud se buňka nezačne skutečně dělit",
+      "vážou dělicí vřeténko, které chromozomy rozděluje k pólům buňky",
+      "chrání konce chromozomů a s každým dělením se postupně zkracují",
+      "kopírují genetickou informaci z jádra do všech dceřiných organel"
+    ],
+    "correct": 2,
+    "explanation": "Telomery jsou opakující se sekvence na koncích chromozomů. Protože replikační aparát nedokáže dokopírovat samý konec vlákna, každé dělení je zkrátí; po dosažení kritické délky buňka vstupuje do senescence. Telomeráza délku doplňuje u zárodečných a kmenových buněk, ale i u většiny nádorů.",
+    "source": "Blackburn, Greider a Szostak, Nobelova cena za fyziologii a medicínu 2009",
+    "seedElo": 1600
+  },
+  {
+    "id": "evo-B29",
+    "type": "K",
+    "category": "evoluce",
+    "text": "Čím se apoptóza zásadně liší od nekrózy?",
+    "options": [
+      "probíhá řízeně, buňka se rozpadne na váčky bez zánětlivé reakce",
+      "postihuje vždy celou tkáň naráz, zatímco nekróza jen jednotlivé buňky",
+      "týká se pouze buněk nádorových, kdežto nekróza jen buněk zdravých",
+      "je nevratná, kdežto nekróza je běžně zvratitelný a dočasný stav"
+    ],
+    "correct": 0,
+    "explanation": "Apoptóza je programovaná smrt: buňka aktivuje kaspázy, smrští se, rozštěpí DNA a rozpadne se na váčky, které pohltí makrofágy — obsah se nevylije a zánět nevzniká. Nekróza je naproti tomu havárie s prasknutím membrány a zánětem. Apoptóza modeluje i vývoj, například mizení blán mezi prsty.",
+    "source": "Kerr, Wyllie a Currie, Apoptosis: a basic biological phenomenon (British Journal of Cancer, 1972)",
+    "seedElo": 1700
+  },
+  {
+    "id": "evo-B30",
+    "type": "F",
+    "category": "evoluce",
+    "text": "Který krok odlišuje meiózu od mitózy nejpodstatněji?",
+    "options": [
+      "chromozomy se před dělením zdvojují jen v meióze, v mitóze nikoli",
+      "dělicí vřeténko se tvoří výhradně v meióze, mitóza se bez něj obejde",
+      "v mitóze vznikají čtyři dceřiné buňky, kdežto v meióze pouze dvě",
+      "v meióze se homologní chromozomy párují a v prvním dělení rozcházejí"
+    ],
+    "correct": 3,
+    "explanation": "V mitóze se rozcházejí sesterské chromatidy a vznikají dvě totožné diploidní buňky. V meióze předchází párování homologních chromozomů a jejich rozchod v prvním dělení, což počet chromozomů půlí. Právě při tomto párování dochází ke crossing-overu, tedy k výměně úseků mezi homology.",
+    "source": "Bruce Alberts et al., Molecular Biology of the Cell, kapitola o meióze",
+    "seedElo": 1850
+  },
+  {
+    "id": "evo-B31",
+    "type": "K",
+    "category": "evoluce",
+    "text": "Proč je crossing-over evolučně důležitější než pouhé náhodné rozdělení chromozomů?",
+    "options": [
+      "zvyšuje počet chromozomů, a tím i celkovou zásobu genetické informace",
+      "brání vzniku nových kombinací, a tak udržuje osvědčené genotypy pohromadě",
+      "rozbíjí vazbu mezi geny na témž chromozomu a tvoří nové kombinace alel",
+      "opravuje poškozené úseky DNA podle nepoškozené sesterské chromatidy"
+    ],
+    "correct": 2,
+    "explanation": "Bez crossing-overu by se geny ležící na jednom chromozomu dědily vždy pospolu jako neměnný balík. Výměna úseků mezi homology tuto vazbu rozvolňuje, takže výběr může působit na jednotlivé alely zvlášť. To mimo jiné brání hromadění škodlivých mutací ve fixovaných blocích.",
+    "source": "Otto a Lenormand, Resolving the paradox of sex and recombination (Nature Reviews Genetics, 2002)",
+    "seedElo": 1900
+  },
+  {
+    "id": "evo-B32",
+    "type": "F",
+    "category": "evoluce",
+    "text": "Co o rozmanitosti homininů vyplývá z fosilního záznamu posledních čtyř milionů let?",
+    "options": [
+      "v každé době žil vždy právě jeden druh, který se postupně měnil v další",
+      "po většinu té doby žilo souběžně několik druhů homininů vedle sebe",
+      "všechny známé druhy žily výhradně na území dnešní východní Afriky",
+      "rody Australopithecus a Homo se v čase nikdy nepřekrývaly ani o rok"
+    ],
+    "correct": 1,
+    "explanation": "Fosilní záznam ukazuje spíš keř než žebřík: v pliocénu a pleistocénu koexistovaly gracilní i robustní australopitéci, rané formy rodu Homo, později Homo erectus, neandertálci, denisované či Homo floresiensis. Situace s jediným žijícím druhem homininů je v posledních milionech let výjimkou.",
+    "source": "Bernard Wood, Reconstructing human evolution (PNAS, 2010)",
+    "seedElo": 1750
+  },
+  {
+    "id": "evo-B33",
+    "type": "F",
+    "category": "evoluce",
+    "text": "Otisky stop v Laetoli staré asi 3,66 milionu let jsou důležité především proto, že:",
+    "options": [
+      "dokládají použití jednoduchých kamenných nástrojů při lovu zvěře",
+      "obsahují otisky rukou, a dokazují tak převážně stromový způsob života",
+      "zachycují chůzi po dvou s klenutou nohou a nepřihnutým palcem",
+      "leží ve stejné vrstvě jako nejstarší dosud známé zbytky ohnišť"
+    ],
+    "correct": 2,
+    "explanation": "Stopy z tanzanského Laetoli, připisované druhu Australopithecus afarensis, ukazují nohu s podélnou klenbou a palcem v jedné řadě s ostatními prsty. To je znak dvojnohé chůze, nikoli chápavé nohy šplhounů. Bipedie tedy jasně předchází výraznému zvětšení mozku i výrobě kamenných nástrojů.",
+    "source": "Mary Leakey a Hay (Nature, 1979); Raichlen et al. (PLoS ONE, 2010)",
+    "seedElo": 1800
+  },
+  {
+    "id": "evo-B34",
+    "type": "K",
+    "category": "evoluce",
+    "text": "Která z hypotéz o vzniku bipedie stojí dnes nejhůř, protože jí odporují nálezy prostředí?",
+    "options": [
+      "chůze po dvou vznikla jako úspora energie při chůzi na delší vzdálenosti",
+      "chůze po dvou uvolnila ruce pro nošení potravy a mláďat na větší vzdálenost",
+      "chůze po dvou snížila plochu těla vystavenou přímému polednímu slunci",
+      "chůze po dvou vznikla po vysušení Afriky a ústupu lesa ve prospěch savany"
+    ],
+    "correct": 3,
+    "explanation": "Klasická „savanová hypotéza“ předpokládá, že předchůdci sestoupili ze stromů na otevřenou pláň. Paleoekologické rozbory u Ardipitheca i raných australopitéků však ukazují spíš lesní a mozaikovitá prostředí, tedy bipedii dřív než savanu. Ostatní uvedené hypotézy zůstávají ve hře, byť žádná není prokázaná.",
+    "source": "White et al., Ardipithecus ramidus and the paleobiology of early hominids (Science, 2009)",
+    "seedElo": 2000
+  },
+  {
+    "id": "evo-B35",
+    "type": "F",
+    "category": "evoluce",
+    "text": "Jak velký podíl klidového energetického výdeje připadá u dospělého člověka na mozek?",
+    "options": [
+      "kolem dvou procent, tedy zhruba tolik, kolik činí jeho podíl na hmotnosti",
+      "kolem padesáti procent, čímž mozek předstihuje všechny ostatní orgány",
+      "kolem dvaceti procent, tedy řádově víc, než odpovídá jeho hmotnosti",
+      "kolem pěti procent, tedy méně než svaly téže hmotnosti v klidovém stavu"
+    ],
+    "correct": 2,
+    "explanation": "Mozek tvoří asi dvě procenta tělesné hmotnosti, ale spotřebuje kolem dvaceti procent klidového metabolismu; u malých dětí je to ještě podstatně víc. Taková daň vyžaduje kompenzaci — kvalitnější stravu, kratší střevo, tepelnou ekonomiku. Odtud vychází i hypotéza drahé tkáně.",
+    "source": "Aiello a Wheeler, The expensive-tissue hypothesis (Current Anthropology, 1995)",
+    "seedElo": 1550
+  },
+  {
+    "id": "evo-B36",
+    "type": "K",
+    "category": "evoluce",
+    "text": "Jak je to s doklady o ovládnutí ohně u druhu Homo erectus?",
+    "options": [
+      "jednotlivé nálezy sahají k milionu let, běžné je to až mnohem později",
+      "první doklady spadají až do doby po vzniku anatomicky moderního člověka",
+      "ohniště jsou doložena souvisle a hojně už od dvou milionů let před dneškem",
+      "žádné archeologické stopy užívání ohně u tohoto druhu dosud nebyly nalezeny"
+    ],
+    "correct": 0,
+    "explanation": "Jeskyně Wonderwerk poskytla stopy popela staré asi milion let, Gesher Benot Ya'aqov ohniště kolem 780 tisíc let. Souvislý a rutinní výskyt ohnišť se však objevuje až zhruba před 400 tisíci lety. Wranghamova hypotéza o vaření jako motoru zvětšení mozku je proto zajímavá, ale doklady nejsou jednoznačné.",
+    "source": "Berna et al. (PNAS, 2012); Roebroeks a Villa (PNAS, 2011); Wrangham, Catching Fire (2009)",
+    "seedElo": 1950
+  },
+  {
+    "id": "evo-B37",
+    "type": "F",
+    "category": "evoluce",
+    "text": "Co ukázalo sekvenování neandertálského genomu z roku 2010 o vztahu k dnešním lidem?",
+    "options": [
+      "neandertálci byli od moderních lidí geneticky zcela odděleni bez míšení",
+      "lidé mimo Afriku nesou několik procent DNA neandertálského původu",
+      "všechny dnešní populace mají shodně kolem čtvrtiny genomu od neandertálců",
+      "neandertálci byli přímými předky evropských populací, nikoli sesterskou větví"
+    ],
+    "correct": 1,
+    "explanation": "Pääbův tým zjistil, že mimoafrické populace nesou zhruba jedno až dvě procenta neandertálské DNA, což svědčí o křížení po odchodu z Afriky. Některé introgredované úseky ovlivňují imunitu, srážlivost či metabolismus. Zároveň jsou rozsáhlé oblasti genomu neandertálských variant nápadně prosté.",
+    "source": "Green et al., A draft sequence of the Neandertal genome (Science, 2010)",
+    "seedElo": 1650
+  },
+  {
+    "id": "evo-B38",
+    "type": "F",
+    "category": "evoluce",
+    "text": "Denisované byli jako samostatná populace poprvé rozpoznáni na základě:",
+    "options": [
+      "kompletní kostry nalezené v jeskyni na jižní Sibiři roku 2008",
+      "souboru kamenných nástrojů odlišných od všech známých kultur",
+      "otisků stop v sopečném popelu na náhorní plošině v Tibetu",
+      "DNA získané z článku prstu a několika zubů z Denisovy jeskyně"
+    ],
+    "correct": 3,
+    "explanation": "Denisované jsou první lidská populace popsaná primárně z genomu, nikoli z morfologie: v roce 2010 stačil úlomek prstního článku a několik zubů. Jejich DNA se ve zvýšené míře nachází u Melanésanů a Aboriginců. Varianta genu EPAS1 pomáhající Tibeťanům ve výškách pochází právě z denisovanské introgrese.",
+    "source": "Reich et al. (Nature, 2010); Huerta-Sánchez et al. (Nature, 2014)",
+    "seedElo": 1850
+  },
+  {
+    "id": "evo-B39",
+    "type": "K",
+    "category": "evoluce",
+    "text": "Jak dnešní genetika hodnotí roli genu FOXP2 při vzniku lidské řeči?",
+    "options": [
+      "jde o prokázaný „gen pro jazyk“, jehož vypnutí řeč spolehlivě ruší",
+      "gen souvisí s řečovou motorikou, ale doklad o pozitivním výběru zeslábl",
+      "gen se u člověka od šimpanzí verze neliší ani v jediné aminokyselině",
+      "gen byl u lidí objeven teprve nedávno a u jiných živočichů chybí"
+    ],
+    "correct": 1,
+    "explanation": "Mutace FOXP2 způsobuje u rodiny KE těžkou poruchu artikulace a gramatiky, což z něj udělalo populární „gen pro jazyk“. Gen je ale starý, sdílený s obratlovci a ovlivňuje motorické učení obecně. Původní tvrzení o nedávném silném výběru u člověka novější analýzy s větším vzorkem nepotvrdily.",
+    "source": "Lai et al. (Nature, 2001); Atkinson et al., No evidence for recent selection at FOXP2 (Cell, 2018)",
+    "seedElo": 2050
+  },
+  {
+    "id": "evo-B40",
+    "type": "K",
+    "category": "evoluce",
+    "text": "Proč se vznik jazyka doloží hůř než vznik nástrojů nebo bipedie?",
+    "options": [
+      "protože jazyk vznikl teprve v posledních deseti tisících letech",
+      "protože všechny relevantní fosilie hrtanu byly nalezeny až nedávno",
+      "protože měkké tkáně a chování nefosilizují a důkazy jsou jen nepřímé",
+      "protože se lingvistika a paleoantropologie navzájem zásadně vylučují"
+    ],
+    "correct": 2,
+    "explanation": "Mluvidla, mozková tkáň i samo chování se nezachovávají. Zbývají nepřímé stopy: velikost hypoglosálního kanálu, jazylka, průměr páteřního kanálu, symbolické artefakty či složitost nástrojových technik. Každý takový ukazatel je sporný, proto se odhady vzniku jazyka pohybují v řádu statisíců let.",
+    "source": "Fitch, The Evolution of Language (2010); Dediu a Levinson (Frontiers in Psychology, 2013)",
+    "seedElo": 1900
+  },
+  {
+    "id": "evo-B41",
+    "type": "F",
+    "category": "evoluce",
+    "text": "Co ukazují kosterní nálezy o zdraví prvních zemědělských populací oproti lovcům a sběračům?",
+    "options": [
+      "zemědělci byli v průměru menší a měli více zubních kazů a stopy podvýživy",
+      "zemědělci byli vyšší, zdravější a dožívali se výrazně vyššího věku",
+      "mezi oběma skupinami se nepodařilo najít žádné kosterní rozdíly",
+      "zemědělci měli méně infekcí, protože žili v menších a stálejších skupinách"
+    ],
+    "correct": 0,
+    "explanation": "Přechod k zemědělství přinesl jednotvárnější stravu bohatou na škroby a život v hustších sídlech se zvířaty. Kostry z té doby vykazují nižší vzrůst, více kazů, hypoplazie skloviny a stopy anémie i infekcí. Zemědělství tedy zvýšilo počet lidí, nikoli jejich individuální zdraví.",
+    "source": "Cohen a Armelagos, Paleopathology at the Origins of Agriculture (1984)",
+    "seedElo": 1700
+  },
+  {
+    "id": "evo-B42",
+    "type": "K",
+    "category": "evoluce",
+    "text": "Genomové skeny nedávné selekce u člověka ukazují, že evoluce v posledních tisíciletích:",
+    "options": [
+      "se prakticky zastavila, protože kulturu už výběr nedokáže ovlivnit",
+      "probíhala rychleji než dřív, mimo jiné vlivem nových způsobů obživy",
+      "působila jen na pigmentaci kůže a na žádné jiné znaky lidského těla",
+      "postupovala všude stejným tempem bez ohledu na místní podmínky"
+    ],
+    "correct": 1,
+    "explanation": "Rozsáhlé populace a nová prostředí vytvořená zemědělstvím, chovem a městy zvýšily jak přísun mutací, tak sílu výběru. Doklady o nedávné selekci nese například adaptace na velké výšky u Tibeťanů a Andanů, odolnost k malárii či zpracování škrobů. Kultura tedy výběr netlumí, ale přesměrovává.",
+    "source": "Hawks et al., Recent acceleration of human adaptive evolution (PNAS, 2007)",
+    "seedElo": 1850
+  },
+  {
+    "id": "evo-B43",
+    "type": "K",
+    "category": "evoluce",
+    "text": "Co pojem „mitochondriální Eva“ ve skutečnosti označuje?",
+    "options": [
+      "první ženu druhu Homo sapiens, jež žila v izolované africké skupině",
+      "jedinou ženu, která ve své době žila a předala potomstvo dalším generacím",
+      "ženu, od níž pochází většina genů dnešního lidského jaderného genomu",
+      "ženu, k níž se sbíhá rodokmen mitochondriální DNA všech dnešních lidí"
+    ],
+    "correct": 3,
+    "explanation": "Mitochondriální DNA se dědí po matce, takže její strom má jediný kořen — ženu žijící zhruba před 150 tisíci lety v Africe. Ta ale nebyla jediná, žily s ní tisíce dalších žen, jejichž mateřské linie prostě vymřely. Na jaderném genomu se navíc podílejí i ony a bod sbíhání se liší gen od genu.",
+    "source": "Cann, Stoneking a Wilson, Mitochondrial DNA and human evolution (Nature, 1987)",
+    "seedElo": 2000
+  },
+  {
+    "id": "evo-B44",
+    "type": "F",
+    "category": "evoluce",
+    "text": "Nálezy z ostrova Flores přiřazované druhu Homo floresiensis jsou pozoruhodné hlavně tím, že:",
+    "options": [
+      "jde o drobného hominina s malým mozkem žijícího před 50 tisíci lety",
+      "jde o největší dosud známé hominina, s výškou přesahující dva metry",
+      "jde o zástupce moderního člověka, jehož stáří přesahuje milion let",
+      "jde o jediného hominina, u nějž se prokázalo užívání kovových nástrojů"
+    ],
+    "correct": 0,
+    "explanation": "Kostry z jeskyně Liang Bua patří asi metr vysokým lidem s objemem mozkovny kolem 420 krychlových centimetrů, kteří vyráběli kamenné nástroje. Revize datování posunula jejich stáří na zhruba 60 až 50 tisíc let, tedy do doby, kdy už v oblasti byl moderní člověk. Ostrovní zakrslení patří k nejčastěji zvažovaným vysvětlením.",
+    "source": "Brown et al. (Nature, 2004); Sutikna et al., Revised stratigraphy and chronology for Homo floresiensis (Nature, 2016)",
+    "seedElo": 1950
+  }
+]

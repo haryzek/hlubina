@@ -144,6 +144,70 @@
   "seedElo": 1540
  },
  {
+  "id": "evo-A32",
+  "type": "K",
+  "category": "evoluce",
+  "text": "V čem se liší zakladatelský efekt od hrdla lahve, ačkoli oba drasticky snižují genetickou variabilitu?",
+  "options": [
+   "zakladatelský efekt působí jen u rostlin, hrdlo lahve u živočichů",
+   "hrdlo lahve mění frekvence alel, zakladatelský efekt jen jejich počet",
+   "zakladatelský efekt zakládá populaci jinde, hrdlo lahve zužuje původní",
+   "hrdlo lahve je vždy krátkodobé, zakladatelský efekt trvá po celé generace"
+  ],
+  "correct": 2,
+  "explanation": "Oba jevy jsou formou driftu při malém počtu jedinců, liší se ale geografií a osudem zdrojové populace. U zakladatelského efektu odejde hrstka jedinců založit populaci na novém místě, zatímco původní populace může dál prosperovat; u hrdla lahve se zredukuje populace tam, kde byla. Důsledky pro variabilitu a pro zvýšený výskyt vzácných alel jsou přitom podobné.",
+  "source": "E. Mayr, Systematics and the Origin of Species (1942)",
+  "seedElo": 1550
+ },
+ {
+  "id": "evo-B15",
+  "type": "F",
+  "category": "evoluce",
+  "text": "Co bylo hlavním argumentem Alvarezova týmu pro dopad tělesa na konci křídy?",
+  "options": [
+   "objev kráteru Chicxulub, který byl tehdy právě zaměřen na Yucatánu",
+   "náhlé zmizení všech druhů dinosaurů v jediné vrstvě sedimentu",
+   "nález fosilního ptáka bezprostředně nad hraniční jílovou vrstvou",
+   "výrazně zvýšený obsah iridia v tenké vrstvě na hranici křída–paleogén"
+  ],
+  "correct": 3,
+  "explanation": "Iridium je v zemské kůře vzácné, ale běžné v planetkách. Alvarezovi ho roku 1980 našli v hraniční vrstvě v Itálii, Dánsku i na Novém Zélandu ve zhruba třicetinásobné koncentraci. Kráter Chicxulub byl jako odpovídající struktura potvrzen až o deset let později.",
+  "source": "Alvarez et al., Extraterrestrial cause for the Cretaceous–Tertiary extinction (Science, 1980)",
+  "seedElo": 1550
+ },
+ {
+  "id": "evo-B23",
+  "type": "F",
+  "category": "evoluce",
+  "text": "Tvrzení „ptáci jsou dinosauři“ znamená v současné systematice, že:",
+  "options": [
+   "ptáci jsou dinosaurům jen velmi podobní díky obdobnému způsobu života",
+   "ptáci se vyvinuli z plazů nezávisle na dinosaurech, ze společného kořene",
+   "ptáci patří dovnitř skupiny teropodních dinosaurů jako jedna z větví",
+   "všichni dinosauři jsou zpětně řazeni mezi ptáky, protože měli peří"
+  ],
+  "correct": 2,
+  "explanation": "Kladistika řadí do skupiny všechny potomky společného předka. Ptáci vycházejí z maniraptorních teropodů, takže „dinosauři bez ptáků“ by byla neúplná skupina. Proto se rozlišuje mezi neptačími dinosaury, kteří vymřeli na konci křídy, a dinosaury jako celkem, kteří žijí dodnes.",
+  "source": "Padian a Chiappe, The origin and early evolution of birds (Biological Reviews, 1998)",
+  "seedElo": 1550
+ },
+ {
+  "id": "evo-B35",
+  "type": "F",
+  "category": "evoluce",
+  "text": "Jak velký podíl klidového energetického výdeje připadá u dospělého člověka na mozek?",
+  "options": [
+   "kolem dvou procent, tedy zhruba tolik, kolik činí jeho podíl na hmotnosti",
+   "kolem padesáti procent, čímž mozek předstihuje všechny ostatní orgány",
+   "kolem dvaceti procent, tedy řádově víc, než odpovídá jeho hmotnosti",
+   "kolem pěti procent, tedy méně než svaly téže hmotnosti v klidovém stavu"
+  ],
+  "correct": 2,
+  "explanation": "Mozek tvoří asi dvě procenta tělesné hmotnosti, ale spotřebuje kolem dvaceti procent klidového metabolismu; u malých dětí je to ještě podstatně víc. Taková daň vyžaduje kompenzaci — kvalitnější stravu, kratší střevo, tepelnou ekonomiku. Odtud vychází i hypotéza drahé tkáně.",
+  "source": "Aiello a Wheeler, The expensive-tissue hypothesis (Current Anthropology, 1995)",
+  "seedElo": 1550
+ },
+ {
   "id": "evo-10",
   "type": "F",
   "category": "evoluce",
@@ -176,6 +240,102 @@
   "seedElo": 1600
  },
  {
+  "id": "evo-A01",
+  "type": "F",
+  "category": "evoluce",
+  "text": "Moderní syntéza (30.–40. léta) vyřešila spor, který Darwinovu teorii dlouho blokoval, tím, že sladila přirozený výběr s:",
+  "options": [
+   "mendelovskou genetikou popsanou v jazyce populační matematiky",
+   "lamarckovským přenosem znaků získaných během života jedince",
+   "ortogenetickou představou vnitřní hnací síly vývojových řad",
+   "saltacionismem, kde nový druh vzniká jedinou velkou mutací"
+  ],
+  "correct": 0,
+  "explanation": "Do roku 1900 se zdálo, že mendelovská skoková dědičnost a plynulý darwinovský výběr si odporují. Fisher, Haldane a Wright ukázali, že spojité znaky vznikají součtem mnoha mendelovských lokusů, a výběr tedy funguje právě proto, že dědičnost je partikulární. Tím se rozpustil i problém splývavé dědičnosti, která by variabilitu ředila.",
+  "source": "R. A. Fisher, The Genetical Theory of Natural Selection (1930); J. Huxley, Evolution: The Modern Synthesis (1942)",
+  "seedElo": 1600
+ },
+ {
+  "id": "evo-A09",
+  "type": "F",
+  "category": "evoluce",
+  "text": "Evolučně stabilní strategie podle Maynarda Smithe je taková strategie, která:",
+  "options": [
+   "je-li v populaci běžná, žádná vzácná alternativa ji nepřeroste",
+   "maximalizuje průměrný počet potomků celé populace dohromady",
+   "zůstává výhodná i při naprosté změně vnějších podmínek prostředí",
+   "vede k nejrychlejšímu možnému růstu početnosti dané populace"
+  ],
+  "correct": 0,
+  "explanation": "ESS je definována vůči invazi: je-li rozšířená, nemůže ji vytlačit žádný vzácný mutantní tah. Klíčové je, že výplata závisí na tom, co dělají ostatní, takže nejde o prosté maximum, ale o rovnováhu. Právě proto ESS často není optimem pro skupinu, jak ukazuje soubojová hra jestřáb a holubice.",
+  "source": "Maynard Smith & Price, The logic of animal conflict (Nature, 1973)",
+  "seedElo": 1600
+ },
+ {
+  "id": "evo-A16",
+  "type": "F",
+  "category": "evoluce",
+  "text": "Fisherovo vysvětlení, proč se poměr pohlaví u většiny druhů drží kolem 1:1, i když by menšina samců stačila, spočívá v tom, že:",
+  "options": [
+   "vzácnější pohlaví má vyšší očekávaný počet vnoučat na jedince",
+   "chromozomová determinace pohlaví jiný poměr technicky neumožňuje",
+   "vyrovnaný poměr maximalizuje růstovou rychlost celé populace",
+   "samci a samice stojí matku shodné množství energie a živin"
+  ],
+  "correct": 0,
+  "explanation": "Každý potomek v příští generaci má právě jednoho otce a jednu matku, takže celkový reprodukční výnos obou pohlaví je nutně stejný. Je-li jedno pohlaví vzácné, připadá na jeho příslušníka větší podíl vnoučat, a rodiče investující do něj vyhrávají. Selekce tak poměr stlačuje zpět k rovnováze, přesněji k vyrovnané rodičovské investici.",
+  "source": "R. A. Fisher (1930), rozpracováno Hamiltonem (1967) a Trivers & Willard (1973)",
+  "seedElo": 1600
+ },
+ {
+  "id": "evo-B01",
+  "type": "F",
+  "category": "evoluce",
+  "text": "Millerův–Ureyův pokus z roku 1953 prokázal především, že:",
+  "options": [
+   "z jednoduchých plynů a výbojů samovolně vznikají aminokyseliny",
+   "z neživé směsi se za elektrických výbojů sestavila první živá buňka",
+   "nukleové kyseliny se v redukující atmosféře spojují do delších řetězců",
+   "nejstarší organismy dýchaly kyslík uvolněný ze sopečných plynů"
+  ],
+  "correct": 0,
+  "explanation": "Miller nechal v uzavřené aparatuře jiskřit směs metanu, amoniaku, vodíku a vodní páry a získal několik aminokyselin. Ukázal tím, že stavební kameny života vznikají abioticky snadno — nikoli že vznikl život. Pozdější rozbor původních vzorků citlivějšími metodami odhalil přes dvacet aminokyselin.",
+  "source": "Stanley Miller, A Production of Amino Acids Under Possible Primitive Earth Conditions (Science, 1953); Bada et al. 2008",
+  "seedElo": 1600
+ },
+ {
+  "id": "evo-B14",
+  "type": "F",
+  "category": "evoluce",
+  "text": "Nejlépe doloženým spouštěčem permsko-triasového vymírání před 252 miliony let je:",
+  "options": [
+   "rozsáhlý vulkanismus sibiřských trapů a jeho skleníkové důsledky",
+   "dopad planetky, po němž zůstal kráter Chicxulub na Yucatánu",
+   "náhlé rozpadnutí superkontinentu Pangea na dnešní kontinenty",
+   "prudké zalednění, které zamrzlo většinu tehdejšího oceánu"
+  ],
+  "correct": 0,
+  "explanation": "Sibiřské trapy vylily statisíce krychlových kilometrů lávy a prohořely uhelnými pánvemi, čímž uvolnily obrovské množství oxidu uhličitého a metanu. Následovalo oteplení, okyselení a odkysličení oceánů. Vymřelo kolem 80 % mořských druhů, což z toho dělá nejtěžší známou krizi.",
+  "source": "Burgess, Bowring a Shen, High-precision timeline for Earth's most severe extinction (PNAS, 2014)",
+  "seedElo": 1600
+ },
+ {
+  "id": "evo-B28",
+  "type": "F",
+  "category": "evoluce",
+  "text": "Jakou roli hrají telomery při dělení somatických buněk?",
+  "options": [
+   "spojují sesterské chromatidy, dokud se buňka nezačne skutečně dělit",
+   "vážou dělicí vřeténko, které chromozomy rozděluje k pólům buňky",
+   "chrání konce chromozomů a s každým dělením se postupně zkracují",
+   "kopírují genetickou informaci z jádra do všech dceřiných organel"
+  ],
+  "correct": 2,
+  "explanation": "Telomery jsou opakující se sekvence na koncích chromozomů. Protože replikační aparát nedokáže dokopírovat samý konec vlákna, každé dělení je zkrátí; po dosažení kritické délky buňka vstupuje do senescence. Telomeráza délku doplňuje u zárodečných a kmenových buněk, ale i u většiny nádorů.",
+  "source": "Blackburn, Greider a Szostak, Nobelova cena za fyziologii a medicínu 2009",
+  "seedElo": 1600
+ },
+ {
   "id": "evo-12",
   "type": "F",
   "category": "evoluce",
@@ -190,6 +350,54 @@
   "explanation": "'Sobecký gen' je záměrně provokativní metafora pro pohled, že jednotkou, jejíž přežívání v čase přirozený výběr sleduje, je gen (respektive jeho kopie), nikoli jedinec či druh. Nejde o tvrzení, že geny mají vůli nebo že diktují sobecké chování lidí — sama metafora naopak dobře vysvětluje, jak z 'sobeckých' genů může vzejít i altruistické chování jedince.",
   "source": "Dawkins, R.: Sobecký gen (1976)",
   "seedElo": 1630
+ },
+ {
+  "id": "evo-A06",
+  "type": "K",
+  "category": "evoluce",
+  "text": "Hamiltonovo pravidlo se zapisuje jako rB > C. Co přesně v něm znamená veličina r?",
+  "options": [
+   "podíl genů, které mají oba jedinci shodné se zbytkem populace",
+   "pravděpodobnost, že si příbuzní budou navzájem pomáhat v nouzi",
+   "regrese genotypu příjemce na genotyp dárce vůči průměru populace",
+   "poměr počtu potomků dárce k počtu potomků obdarovaného jedince"
+  ],
+  "correct": 2,
+  "explanation": "Koeficient příbuznosti není absolutní genetická podobnost, ale podobnost nad rámec populačního průměru, formálně regresní koeficient. Proto jsou lidé s šimpanzem geneticky podobní ze skoro sta procent, a přesto je jejich r v lidské populaci nula. Právě tato definice umožňuje pravidlu fungovat i mimo rodinu, například u zelených vousů.",
+  "source": "W. D. Hamilton, The genetical evolution of social behaviour I–II (J. Theor. Biol., 1964)",
+  "seedElo": 1650
+ },
+ {
+  "id": "evo-A27",
+  "type": "F",
+  "category": "evoluce",
+  "text": "Kimurova neutrální teorie molekulární evoluce tvrdí, že:",
+  "options": [
+   "většina fixovaných změn na úrovni DNA je selekčně bezvýznamná",
+   "přirozený výběr se na úrovni fenotypu prakticky vůbec neprojevuje",
+   "škodlivé mutace se v populacích fixují stejně často jako prospěšné",
+   "rychlost mutací je ve všech částech genomu v podstatě jednotná"
+  ],
+  "correct": 0,
+  "explanation": "Kimura nepopírá adaptaci; tvrdí, že drtivá většina substitucí, které v genomu pozorujeme, je neutrální nebo téměř neutrální, zatímco škodlivé varianty odstraňuje purifikující selekce. Teorie je proto nulovým modelem, vůči kterému se adaptivní signál teprve testuje. Bez ní by testy jako dN/dS neměly co porovnávat.",
+  "source": "M. Kimura, Evolutionary rate at the molecular level (Nature, 1968); The Neutral Theory of Molecular Evolution (1983)",
+  "seedElo": 1650
+ },
+ {
+  "id": "evo-B37",
+  "type": "F",
+  "category": "evoluce",
+  "text": "Co ukázalo sekvenování neandertálského genomu z roku 2010 o vztahu k dnešním lidem?",
+  "options": [
+   "neandertálci byli od moderních lidí geneticky zcela odděleni bez míšení",
+   "lidé mimo Afriku nesou několik procent DNA neandertálského původu",
+   "všechny dnešní populace mají shodně kolem čtvrtiny genomu od neandertálců",
+   "neandertálci byli přímými předky evropských populací, nikoli sesterskou větví"
+  ],
+  "correct": 1,
+  "explanation": "Pääbův tým zjistil, že mimoafrické populace nesou zhruba jedno až dvě procenta neandertálské DNA, což svědčí o křížení po odchodu z Afriky. Některé introgredované úseky ovlivňují imunitu, srážlivost či metabolismus. Zároveň jsou rozsáhlé oblasti genomu neandertálských variant nápadně prosté.",
+  "source": "Green et al., A draft sequence of the Neandertal genome (Science, 2010)",
+  "seedElo": 1650
  },
  {
   "id": "evo-13",
@@ -224,6 +432,118 @@
   "seedElo": 1690
  },
  {
+  "id": "evo-A40",
+  "type": "K",
+  "category": "evoluce",
+  "text": "Bělajevův sibiřský experiment se stříbrnými liškami selektoval po desítky generací jediné kritérium. Které to bylo?",
+  "options": [
+   "kvalita a hustota kožešiny v zimním období u mladých zvířat",
+   "schopnost naučit se jednoduché úkoly v testovací aréně",
+   "tolerance k přítomnosti člověka, tedy nízká agresivita a bázlivost",
+   "rychlost růstu a hmotnost dosažená do konce prvního roku života"
+  ],
+  "correct": 2,
+  "explanation": "Vybíral se pouze přístup ke člověku, a přesto se objevily strakaté zbarvení, kratší čenich, klopené uši, stočený ocas i posun v hormonálních cyklech. Experiment je proto hlavním argumentem pro to, že domestikační syndrom vzniká jako vedlejší produkt jediného selekčního tlaku. Novější práce sice zpochybňují, jak divoké byly výchozí lišky, ale hlavní výsledek to nemění.",
+  "source": "Trut, Oskina & Kharlamova, Animal evolution during domestication (BioEssays, 2009)",
+  "seedElo": 1700
+ },
+ {
+  "id": "evo-B04",
+  "type": "K",
+  "category": "evoluce",
+  "text": "Označení LUCA (poslední univerzální společný předek) správně chápeme tak, že šlo o:",
+  "options": [
+   "úplně první buňku, jaká kdy na Zemi vznikla z neživé hmoty",
+   "populaci organismů, z níž pocházejí všechny dnes žijící linie",
+   "jediného jedince, od kterého se odvozuje veškerý dnešní život",
+   "nejstarší organismus, jehož fosilii se dosud podařilo najít"
+  ],
+  "correct": 1,
+  "explanation": "LUCA není první život, nýbrž bod větvení: poslední společný předek všech dosud žijících organismů. Byla to celá populace, uvnitř které se navíc čile vyměňovaly geny. Život před ní existoval, jen po sobě nezanechal žádnou přeživší větev.",
+  "source": "Weiss et al., The physiology and habitat of the last universal common ancestor (Nature Microbiology, 2016)",
+  "seedElo": 1700
+ },
+ {
+  "id": "evo-B05",
+  "type": "F",
+  "category": "evoluce",
+  "text": "Carl Woese oddělil archea jako samostatnou doménu života především na základě:",
+  "options": [
+   "tvaru a velikosti buněk pozorovaných v elektronovém mikroskopu",
+   "schopnosti přežívat ve vroucích pramenech a slaných jezerech",
+   "nepřítomnosti buněčného jádra a vnitřních membránových struktur",
+   "porovnání sekvencí ribozomální RNA malé podjednotky"
+  ],
+  "correct": 3,
+  "explanation": "Woese v roce 1977 porovnal geny pro 16S rRNA — molekulu přítomnou u všeho živého a měnící se pomalu. Ukázalo se, že „bakterie“ z extrémních prostředí tvoří větev vzdálenou od ostatních bakterií stejně jako od nás. Prokaryota se tím rozpadla na dvě domény.",
+  "source": "Woese a Fox, Phylogenetic structure of the prokaryotic domain (PNAS, 1977)",
+  "seedElo": 1700
+ },
+ {
+  "id": "evo-B18",
+  "type": "K",
+  "category": "evoluce",
+  "text": "Jaký dlouhodobý dopad na atmosféru mělo osídlení souše cévnatými rostlinami?",
+  "options": [
+   "snížilo obsah oxidu uhličitého ukládáním uhlíku a rychlejším zvětráváním",
+   "zvýšilo obsah oxidu uhličitého, protože rostliny při rozkladu uhlík uvolňují",
+   "prakticky nic nezměnilo, hlavním zdrojem kyslíku zůstal mořský plankton",
+   "vedlo k trvalému úbytku kyslíku, který rostliny spotřebují při dýchání"
+  ],
+  "correct": 0,
+  "explanation": "Suchozemská vegetace odčerpávala oxid uhličitý fotosyntézou, urychlovala silikátové zvětrávání a ukládala uhlík do sedimentů. V devonu a karbonu proto obsah oxidu uhličitého výrazně klesl a kyslíku přibylo. Karbonský vrchol kyslíku se odhaduje kolem 30 procent objemu.",
+  "source": "Berner, The Phanerozoic Carbon Cycle (2004); Beerling, The Emerald Planet (2007)",
+  "seedElo": 1700
+ },
+ {
+  "id": "evo-B26",
+  "type": "K",
+  "category": "evoluce",
+  "text": "Jaký je hlavní evoluční význam alternativního sestřihu?",
+  "options": [
+   "umožňuje buňce zdvojnásobit rychlost, jakou překládá RNA do bílkovin",
+   "opravuje chyby vzniklé při zdvojení DNA před dělením buňky",
+   "z jednoho genu umožňuje vytvářet několik různých variant bílkoviny",
+   "chrání konce chromozomů před postupným zkracováním při dělení"
+  ],
+  "correct": 2,
+  "explanation": "Při sestřihu se z prvotního transkriptu vyřezávají introny a exony se spojují. Když se exony kombinují různě, vzniká z jednoho genu více proteinových variant s odlišnou funkcí či lokalizací. To pomáhá vysvětlit, proč člověk s asi dvaceti tisíci geny vytváří mnohem víc druhů bílkovin.",
+  "source": "Nilsen a Graveley, Expansion of the eukaryotic proteome by alternative splicing (Nature, 2010)",
+  "seedElo": 1700
+ },
+ {
+  "id": "evo-B29",
+  "type": "K",
+  "category": "evoluce",
+  "text": "Čím se apoptóza zásadně liší od nekrózy?",
+  "options": [
+   "probíhá řízeně, buňka se rozpadne na váčky bez zánětlivé reakce",
+   "postihuje vždy celou tkáň naráz, zatímco nekróza jen jednotlivé buňky",
+   "týká se pouze buněk nádorových, kdežto nekróza jen buněk zdravých",
+   "je nevratná, kdežto nekróza je běžně zvratitelný a dočasný stav"
+  ],
+  "correct": 0,
+  "explanation": "Apoptóza je programovaná smrt: buňka aktivuje kaspázy, smrští se, rozštěpí DNA a rozpadne se na váčky, které pohltí makrofágy — obsah se nevylije a zánět nevzniká. Nekróza je naproti tomu havárie s prasknutím membrány a zánětem. Apoptóza modeluje i vývoj, například mizení blán mezi prsty.",
+  "source": "Kerr, Wyllie a Currie, Apoptosis: a basic biological phenomenon (British Journal of Cancer, 1972)",
+  "seedElo": 1700
+ },
+ {
+  "id": "evo-B41",
+  "type": "F",
+  "category": "evoluce",
+  "text": "Co ukazují kosterní nálezy o zdraví prvních zemědělských populací oproti lovcům a sběračům?",
+  "options": [
+   "zemědělci byli v průměru menší a měli více zubních kazů a stopy podvýživy",
+   "zemědělci byli vyšší, zdravější a dožívali se výrazně vyššího věku",
+   "mezi oběma skupinami se nepodařilo najít žádné kosterní rozdíly",
+   "zemědělci měli méně infekcí, protože žili v menších a stálejších skupinách"
+  ],
+  "correct": 0,
+  "explanation": "Přechod k zemědělství přinesl jednotvárnější stravu bohatou na škroby a život v hustších sídlech se zvířaty. Kostry z té doby vykazují nižší vzrůst, více kazů, hypoplazie skloviny a stopy anémie i infekcí. Zemědělství tedy zvýšilo počet lidí, nikoli jejich individuální zdraví.",
+  "source": "Cohen a Armelagos, Paleopathology at the Origins of Agriculture (1984)",
+  "seedElo": 1700
+ },
+ {
   "id": "evo-15",
   "type": "F",
   "category": "evoluce",
@@ -256,6 +576,166 @@
   "seedElo": 1750
  },
  {
+  "id": "evo-A14",
+  "type": "F",
+  "category": "evoluce",
+  "text": "Zahaviho handicapový princip byl dlouho odmítán, dokud Grafen neukázal, že funguje za podmínky, že:",
+  "options": [
+   "signál je nákladný pouze pro samce, nikdy však pro samice",
+   "cena signálu je pro jedince v horší kondici relativně vyšší",
+   "signál není dědičný a vzniká čistě vlivem prostředí v mládí",
+   "všichni samci platí za signál naprosto stejnou absolutní cenu"
+  ],
+  "correct": 1,
+  "explanation": "Poctivost signálu nezajišťuje samotná nákladnost, ale to, že mezní náklad klesá s kvalitou nositele. Slabý jedinec si tak velký signál nemůže dovolit, i kdyby chtěl podvádět, a rovnováha zůstává stabilní. Grafenova formalizace převedla Zahaviho slovní intuici na signalizační hru s oddělující rovnováhou.",
+  "source": "Zahavi, Mate selection – a selection for a handicap (J. Theor. Biol., 1975); Grafen, Biological signals as handicaps (1990)",
+  "seedElo": 1750
+ },
+ {
+  "id": "evo-A17",
+  "type": "F",
+  "category": "evoluce",
+  "text": "Hypotéza Červené královny vysvětluje udržování pohlavního rozmnožování tím, že:",
+  "options": [
+   "sex zrychluje odstraňování škodlivých mutací z genomu populace",
+   "sex umožňuje rychle osídlit nově uvolněná a neobsazená stanoviště",
+   "sex zvyšuje počet potomků jedné samice oproti nepohlavní linii",
+   "sex míchá genotypy rychleji, než je stačí parazité prolomit"
+  ],
+  "correct": 3,
+  "explanation": "Parazité se přizpůsobují nejběžnějšímu hostitelskému genotypu, takže rekombinace, která vytváří vzácné kombinace, je průběžně zvýhodněna. Vzniká cyklická frekvenčně závislá dynamika, kde obě strany běží, aby zůstaly na místě. Silnou empirickou oporu dodaly novozélandské plovatky Potamopyrgus, u nichž pohlavní formy převládají tam, kde je tlak parazitů nejvyšší.",
+  "source": "Van Valen (1973); Lively, Evidence from a New Zealand snail for the maintenance of sex by parasitism (Nature, 1987)",
+  "seedElo": 1750
+ },
+ {
+  "id": "evo-A18",
+  "type": "K",
+  "category": "evoluce",
+  "text": "Mullerova rohatka popisuje osud nepohlavní populace, v níž:",
+  "options": [
+   "se snižuje mutační rychlost pod hranici udržitelné variability",
+   "se postupně vytrácí schopnost opravovat zlomy dvoušroubovice",
+   "se hromadí duplikace, dokud genom nepřekročí únosnou velikost",
+   "se nezvratně ztrácí třída jedinců s nejmenším počtem mutací"
+  ],
+  "correct": 3,
+  "explanation": "Bez rekombinace nelze nejméně zatížený genotyp obnovit, jakmile jednou driftem vymizí. Zátěž mutací tak roste po nevratných zubech rohatky a v malých populacích může vést až ke kolapsu. Sex je proti tomu obranou, protože rekombinace umí čisté genomy znovu složit z poškozených.",
+  "source": "H. J. Muller (1964); Felsenstein, The evolutionary advantage of recombination (Genetics, 1974)",
+  "seedElo": 1750
+ },
+ {
+  "id": "evo-A28",
+  "type": "K",
+  "category": "evoluce",
+  "text": "Proč z neutrální teorie plyne, že rychlost fixace neutrálních mutací nezávisí na velikosti populace?",
+  "options": [
+   "protože ve velkých populacích roste mutační rychlost na jedince",
+   "protože drift ve velkých populacích působí rychleji než v malých",
+   "protože ve velkých populacích je většina mutací mírně prospěšná",
+   "protože více vzniklých mutací kompenzuje menší šanci každé z nich"
+  ],
+  "correct": 3,
+  "explanation": "V populaci o velikosti N vznikne za generaci 2Nμ neutrálních mutací a každá se fixuje s pravděpodobností 1/(2N). Součin dává μ, tedy čistou mutační rychlost, nezávisle na N. Právě tento elegantní krát-děleno výsledek je teoretickým základem molekulárních hodin.",
+  "source": "M. Kimura (1968); Kimura & Ohta, Protein polymorphism as a phase of molecular evolution (Nature, 1971)",
+  "seedElo": 1750
+ },
+ {
+  "id": "evo-A34",
+  "type": "F",
+  "category": "evoluce",
+  "text": "Kolinearita Hox genů znamená, že:",
+  "options": [
+   "pořadí genů na chromozomu odpovídá pořadí jejich působení podél těla",
+   "všechny Hox geny se u obratlovců exprimují současně během gastrulace",
+   "počet Hox genů přesně odpovídá počtu tělních článků daného druhu",
+   "sekvence Hox genů jsou u všech živočichů prakticky totožné"
+  ],
+  "correct": 0,
+  "explanation": "Geny uspořádané v klastru se zapínají v témže pořadí podél předozadní osy, u obratlovců navíc i v odpovídajícím časovém sledu. Tento vzorec je sdílen napříč dvoustranně souměrnými živočichy a je jedním z nejsilnějších důkazů hluboké společné architektury vývoje. Přeuspořádání či rozšíření klastru přitom stojí za velkými změnami tělního plánu, například u hadů.",
+  "source": "Lewis (Nature, 1978); Duboule, The rise and fall of Hox gene clusters (Development, 2007)",
+  "seedElo": 1750
+ },
+ {
+  "id": "evo-A42",
+  "type": "K",
+  "category": "evoluce",
+  "text": "Kruhové druhy (ring species), například racci nebo skokani, se považují za názornou ukázku speciace, protože:",
+  "options": [
+   "vznikly v jediné generaci zdvojením celé chromozomové sady",
+   "jejich populace se od sebe liší jen barvou, nikoli genetickým vybavením",
+   "sdílejí jedno území a přesto se páří výhradně v rámci své formy",
+   "sousední populace se kříží, ale koncové články okruhu už nikoli"
+  ],
+  "correct": 3,
+  "explanation": "Řetězec populací tvoří plynulý přechod, takže mezi sousedy tok genů funguje, zatímco na místě, kde se okruh uzavírá, už dvě formy koexistují jako samostatné druhy. Jde tedy o speciaci zachycenou v prostoru místo v čase. Podrobnější genetická analýza ale u většiny klasických příkladů odhalila přerušení toku genů, takže dokonalých kruhů je nakonec velmi málo.",
+  "source": "Irwin, Bensch & Price, Speciation in a ring (Nature, 2001); Mayr (1942)",
+  "seedElo": 1750
+ },
+ {
+  "id": "evo-B02",
+  "type": "K",
+  "category": "evoluce",
+  "text": "Hlavní důvod, proč hypotéza RNA světa staví do počátku právě RNA, je ten, že RNA:",
+  "options": [
+   "je jedinou molekulou, kterou dokážeme v laboratoři vyrobit uměle",
+   "nese informaci a zároveň dokáže katalyzovat chemické reakce",
+   "odolává vysokým teplotám i záření lépe než molekula DNA",
+   "vznikala v Millerově aparatuře ve výrazně větším množství"
+  ],
+  "correct": 1,
+  "explanation": "Dnešní život dělí role: DNA uchovává informaci, bílkoviny katalyzují. RNA umí obojí — ribozymy jsou katalytické RNA a katalytické jádro ribozomu je tvořeno RNA, ne bílkovinou. Tím se obchází otázka, co bylo dřív, zda gen, nebo enzym.",
+  "source": "Walter Gilbert, The RNA World (Nature, 1986); Cech a Altman, Nobelova cena 1989",
+  "seedElo": 1750
+ },
+ {
+  "id": "evo-B10",
+  "type": "K",
+  "category": "evoluce",
+  "text": "Co o mnohobuněčnosti vyplývá z jejího rozložení napříč stromem života?",
+  "options": [
+   "vznikla nezávisle mnohokrát v různých skupinách organismů",
+   "objevila se jednorázově a všechny linie ji zdědily po jednom předkovi",
+   "je možná jen u organismů, které mají pohlavní rozmnožování",
+   "předchází vzniku eukaryotické buňky a je tedy starší než jádro"
+  ],
+  "correct": 0,
+  "explanation": "Mnohobuněčnost se objevila u živočichů, rostlin, hub, hnědých a červených řas i u některých bakterií — odhady mluví o více než dvaceti nezávislých vzniknutích. Jednoduchá mnohobuněčnost tedy není evolučně obtížná. Těžší je až dělba práce a nevratná specializace buněk.",
+  "source": "Grosberg a Strathmann, The evolution of multicellularity: a minor major transition? (Annu. Rev. Ecol. Evol. Syst., 2007)",
+  "seedElo": 1750
+ },
+ {
+  "id": "evo-B20",
+  "type": "K",
+  "category": "evoluce",
+  "text": "Rozmach krytosemenných rostlin v křídě je se vznikem hmyzí rozmanitosti spojen tak, že:",
+  "options": [
+   "krytosemenné rostliny vytlačily hmyz z korun stromů do bylinného patra",
+   "hmyz se objevil až po krytosemenných, na jejichž květech je zcela závislý",
+   "obě skupiny se rozrůzňovaly ve vzájemné vazbě, například opylovač a květ",
+   "hmyz zabránil šíření nahosemenných a uvolnil tak místo pro krytosemenné"
+  ],
+  "correct": 2,
+  "explanation": "Hmyz je starší než krytosemenné rostliny, žil už v devonu a v karbonu. V křídě však vzniká hustá síť specializovaných vazeb — opylování, herbivorie, minování listů — a obě skupiny se vzájemně diverzifikují. Nejde o závislost jedné skupiny na druhé, nýbrž o koevoluci.",
+  "source": "Labandeira, The four phases of plant–arthropod associations in deep time (Geologica Acta, 2006)",
+  "seedElo": 1750
+ },
+ {
+  "id": "evo-B32",
+  "type": "F",
+  "category": "evoluce",
+  "text": "Co o rozmanitosti homininů vyplývá z fosilního záznamu posledních čtyř milionů let?",
+  "options": [
+   "v každé době žil vždy právě jeden druh, který se postupně měnil v další",
+   "po většinu té doby žilo souběžně několik druhů homininů vedle sebe",
+   "všechny známé druhy žily výhradně na území dnešní východní Afriky",
+   "rody Australopithecus a Homo se v čase nikdy nepřekrývaly ani o rok"
+  ],
+  "correct": 1,
+  "explanation": "Fosilní záznam ukazuje spíš keř než žebřík: v pliocénu a pleistocénu koexistovaly gracilní i robustní australopitéci, rané formy rodu Homo, později Homo erectus, neandertálci, denisované či Homo floresiensis. Situace s jediným žijícím druhem homininů je v posledních milionech let výjimkou.",
+  "source": "Bernard Wood, Reconstructing human evolution (PNAS, 2010)",
+  "seedElo": 1750
+ },
+ {
   "id": "evo-17",
   "type": "K",
   "category": "evoluce",
@@ -270,6 +750,118 @@
   "explanation": "Evoluční medicína rozlišuje mezi poruchou a adaptivní reakcí: horečka zvyšuje tělesnou teplotu do rozmezí, které řadě patogenů ztěžuje množení, a zároveň posiluje některé imunitní procesy. Proto ji organismus 'zapíná' záměrně jako součást obranné strategie, a plošné potlačování horečky léky proto není vždy jednoznačně prospěšné.",
   "source": "Nesse, R., Williams, G.: Proč onemocníme (1994); Kluger, M. J.: Fever (1979)",
   "seedElo": 1780
+ },
+ {
+  "id": "evo-A13",
+  "type": "F",
+  "category": "evoluce",
+  "text": "Fisherův mechanismus samovolného úprku (runaway) v sexuálním výběru stojí a padá s tím, že:",
+  "options": [
+   "ozdoba samce je poctivým signálem jeho aktuálního zdravotního stavu",
+   "geny pro preferenci samic a geny pro ozdobu se stanou korelované",
+   "samice si vybírají výhradně podle velikosti obhajovaného teritoria",
+   "ozdoba přímo zvyšuje přežívání potomstva v drsnějším prostředí"
+  ],
+  "correct": 1,
+  "explanation": "Samice, která preferuje výraznější ozdobu, má syny s ozdobou i dcery s toutéž preferencí, takže mezi oběma soubory genů vzniká vazbová nerovnováha. Selekce na ozdobu pak zpětně táhne preferenci a proces se sám zrychluje, dokud jej nezastaví rostoucí cena přežívání. Fisherův model přitom nevyžaduje, aby ozdoba o samci cokoli pravdivého vypovídala.",
+  "source": "R. A. Fisher (1930); Lande, Models of speciation by sexual selection on polygenic traits (PNAS, 1981)",
+  "seedElo": 1800
+ },
+ {
+  "id": "evo-A20",
+  "type": "F",
+  "category": "evoluce",
+  "text": "Williamsova teorie antagonistické pleiotropie vysvětluje stárnutí tím, že:",
+  "options": [
+   "opotřebení tkání je fyzikálně nevyhnutelné a selekce s ním nic nesvede",
+   "mutace poškozující stáří se hromadí, protože je selekce už nevidí",
+   "alela prospěšná v mládí může být týmž mechanismem škodlivá ve stáří",
+   "organismus dělí energii mezi opravy těla a tvorbu vlastního potomstva"
+  ],
+  "correct": 2,
+  "explanation": "Selekce působí silněji na raný život, takže gen zvyšující ranou plodnost může být fixován i navzdory pozdním nákladům. Stárnutí tedy není chybou, ale vedlejším účinkem optimalizace posunuté k mládí. Od Medawarovy akumulace mutací se teorie liší tím, že pozdní škoda je aktivně vybírána, ne jen přehlížena.",
+  "source": "G. C. Williams, Pleiotropy, natural selection, and the evolution of senescence (Evolution, 1957)",
+  "seedElo": 1800
+ },
+ {
+  "id": "evo-A21",
+  "type": "F",
+  "category": "evoluce",
+  "text": "Kirkwoodova teorie jednorázové somy (disposable soma) vysvětluje délku života jako:",
+  "options": [
+   "výsledek pevně naprogramovaného počtu možných dělení buňky",
+   "kompromis v rozdělení omezených zdrojů mezi opravy těla a reprodukci",
+   "důsledek postupného zkracování telomer nezávislého na prostředí",
+   "vedlejší produkt rychlosti metabolismu daného velikostí těla"
+  ],
+  "correct": 1,
+  "explanation": "Údržba a oprava somatických buněk stojí energii, kterou nelze zároveň vložit do rozmnožování. Optimální investice do oprav je proto nižší, než by bylo třeba pro neomezenou životnost, a soma je z pohledu zárodečné linie postradatelná. Teorie správně předpovídá, že druhy s nízkou vnější úmrtností, například netopýři a ptáci, žijí na svou velikost dlouho.",
+  "source": "T. Kirkwood, Evolution of ageing (Nature, 1977)",
+  "seedElo": 1800
+ },
+ {
+  "id": "evo-A35",
+  "type": "K",
+  "category": "evoluce",
+  "text": "Myší gen Pax6 vložený do octomilky vyvolá tvorbu očí — ovšem složených, tedy muších. Co z toho plyne?",
+  "options": [
+   "oči hmyzu a obratlovců jsou ve skutečnosti stejnou strukturou",
+   "gen kóduje kompletní stavební plán oka, jen jej hostitel poškodí",
+   "sdílen je spouštěč vývojového programu, nikoli výsledná struktura",
+   "podobnost genů je náhodná a k evoluční příbuznosti nic neříká"
+  ],
+  "correct": 2,
+  "explanation": "Regulační gen funguje jako spínač, který zapne vývojovou kaskádu dostupnou v daném organismu. Sdílený je tedy hluboko konzervovaný ovládací prvek, zatímco morfologie oka se vyvinula v obou liniích do velmi odlišné podoby. Přesně tomu se říká hluboká homologie a stírá to ostrý protiklad mezi homologií a konvergencí.",
+  "source": "Halder, Callaerts & Gehring, Induction of ectopic eyes by targeted expression of eyeless (Science, 1995); Shubin, Tabin & Carroll (Nature, 2009)",
+  "seedElo": 1800
+ },
+ {
+  "id": "evo-B12",
+  "type": "F",
+  "category": "evoluce",
+  "text": "Jak dlouho podle současné stratigrafie trvala vlastní kambrická exploze?",
+  "options": [
+   "několik desítek tisíc let, tedy prakticky geologický okamžik",
+   "necelý milion let na samém rozhraní ediakary a kambria",
+   "přibližně dvě stě milionů let napříč celým starším paleozoikem",
+   "zhruba dvacet až pětadvacet milionů let raného kambria"
+  ],
+  "correct": 3,
+  "explanation": "Hlavní nárůst živočišných tělních plánů spadá zhruba mezi 539 a 515 miliony let, tedy do rozpětí kolem dvaceti milionů let. Na lidské měřítko je to nepředstavitelně dlouho, na geologické krátce. Molekulární hodiny navíc naznačují, že rozrůznění kmenů začalo už v ediakaře.",
+  "source": "Erwin et al., The Cambrian conundrum (Science, 2011)",
+  "seedElo": 1800
+ },
+ {
+  "id": "evo-B25",
+  "type": "F",
+  "category": "evoluce",
+  "text": "Objev reverzní transkriptázy upravil centrální dogma molekulární biologie tím, že ukázal:",
+  "options": [
+   "přepis informace z RNA zpět do DNA, což je opačný než obvyklý směr",
+   "přenos informace z bílkoviny zpět do nukleové kyseliny v buňce",
+   "že bílkoviny se u některých virů obejdou bez jakékoli nukleové kyseliny",
+   "že DNA se v jádře kopíruje přímo do bílkoviny bez mezikroku RNA"
+  ],
+  "correct": 0,
+  "explanation": "Temin a Baltimore roku 1970 popsali u retrovirů enzym přepisující RNA do DNA. Crickova původní formulace dogmatu přitom zakazovala jen tok informace z bílkoviny zpět do nukleové kyseliny, cestu z RNA do DNA nevylučovala. Časté tvrzení, že reverzní transkriptáza dogma vyvrátila, je proto přehnané.",
+  "source": "Baltimore (Nature, 1970); Temin a Mizutani (Nature, 1970); Crick, Central dogma of molecular biology (Nature, 1970)",
+  "seedElo": 1800
+ },
+ {
+  "id": "evo-B33",
+  "type": "F",
+  "category": "evoluce",
+  "text": "Otisky stop v Laetoli staré asi 3,66 milionu let jsou důležité především proto, že:",
+  "options": [
+   "dokládají použití jednoduchých kamenných nástrojů při lovu zvěře",
+   "obsahují otisky rukou, a dokazují tak převážně stromový způsob života",
+   "zachycují chůzi po dvou s klenutou nohou a nepřihnutým palcem",
+   "leží ve stejné vrstvě jako nejstarší dosud známé zbytky ohnišť"
+  ],
+  "correct": 2,
+  "explanation": "Stopy z tanzanského Laetoli, připisované druhu Australopithecus afarensis, ukazují nohu s podélnou klenbou a palcem v jedné řadě s ostatními prsty. To je znak dvojnohé chůze, nikoli chápavé nohy šplhounů. Bipedie tedy jasně předchází výraznému zvětšení mozku i výrobě kamenných nástrojů.",
+  "source": "Mary Leakey a Hay (Nature, 1979); Raichlen et al. (PLoS ONE, 2010)",
+  "seedElo": 1800
  },
  {
   "id": "evo-18",
@@ -304,6 +896,198 @@
   "seedElo": 1840
  },
  {
+  "id": "evo-A15",
+  "type": "K",
+  "category": "evoluce",
+  "text": "Kryptický výběr samic (cryptic female choice) označuje situaci, kdy:",
+  "options": [
+   "samice si vybírá partnera podle znaků neviditelných lidskému oku",
+   "samice odmítne kopulaci a poté ji předstírá před dalšími samci",
+   "samice ovlivní úspěch spermií až po kopulaci ve svém pohlavním ústrojí",
+   "samice si vybírá samce podle chemického složení jeho teritoria"
+  ],
+  "correct": 2,
+  "explanation": "Volba nekončí přijetím kopulace: samice může ejakulát vypudit, ovlivnit jeho transport či skladování a rozhodnout, čí spermie oplodní vajíčka. Tím se výběr přesouvá do fáze, kterou pozorovatel přímo nevidí, a mísí se s kompeticí spermií. Doloženo je to mimo jiné u kura domácího, kde slepice vypuzují ejakulát podřízených kohoutů.",
+  "source": "Eberhard, Female Control: Sexual Selection by Cryptic Female Choice (1996); Pizzari & Birkhead (Nature, 2000)",
+  "seedElo": 1850
+ },
+ {
+  "id": "evo-A24",
+  "type": "K",
+  "category": "evoluce",
+  "text": "Transponovatelné elementy tvoří velkou část genomů obratlovců. Z evolučního hlediska je nejpřesnější je popsat jako:",
+  "options": [
+   "nefunkční zbytky někdejších genů, které ztratily svou původní roli",
+   "zásobárnu záložních kopií genů pro případ poškození originálu",
+   "rezervoár nadbytečné DNA sloužící k regulaci velikosti jádra buňky",
+   "replikátory šířící se v genomu i proti zájmu svého nositele"
+  ],
+  "correct": 3,
+  "explanation": "Elementy se množí uvnitř genomu podle vlastní logiky, i když hostiteli působí náklady v podobě inzerčních mutací a přeskupení. To ale nevylučuje pozdější domestikaci: z transpozonů vznikly například rekombinázy RAG adaptivní imunity a řada regulačních sekvencí. Sobecké a užitečné se tu tedy nevylučují, jen popisují různé fáze osudu elementu.",
+  "source": "Doolittle & Sapienza (Nature, 1980); Orgel & Crick, Selfish DNA: the ultimate parasite (Nature, 1980)",
+  "seedElo": 1850
+ },
+ {
+  "id": "evo-A25",
+  "type": "F",
+  "category": "evoluce",
+  "text": "Proč horizontální přenos genů komplikuje kreslení fylogenetického stromu prokaryot?",
+  "options": [
+   "u bakterií nelze spolehlivě sekvenovat dostatečně dlouhé úseky DNA",
+   "různé geny téhož organismu mohou mít vzájemně neslučitelné historie",
+   "bakterie se množí tak rychle, že se hodiny mutací zcela rozpadnou",
+   "prokaryota nemají pohlavní rozmnožování, takže linie nelze vymezit"
+  ],
+  "correct": 1,
+  "explanation": "Konjugace, transformace a transdukce přenášejí geny napříč vzdálenými liniemi, takže strom jednoho genu nemusí odpovídat stromu jiného. Vzniká spíš síť než čistě větvící se strom, byť konzervované ribozomální a informační geny se přenášejí méně ochotně a kostru fylogeneze udrží. Praktickým důsledkem je i rychlé šíření rezistence na antibiotika mezi druhy.",
+  "source": "W. F. Doolittle, Phylogenetic classification and the universal tree (Science, 1999)",
+  "seedElo": 1850
+ },
+ {
+  "id": "evo-A38",
+  "type": "K",
+  "category": "evoluce",
+  "text": "Užovky rodu Thamnophis loví mloky rodu Taricha, kteří obsahují tetrodotoxin. Nejsilnější odolnost hadů se nachází právě tam, kde je nejjedovatější kořist. Co to dokládá?",
+  "options": [
+   "toxin je pro hady po pozření zdrojem energie, a proto jej vyhledávají",
+   "mloci vyrábějí toxin jen v přítomnosti predátora, jinak jej neuloží",
+   "geografickou mozaiku koevoluce, kde závod běží místně různě rychle",
+   "predátor i kořist mají shodného předka a odolnost je prostě zděděná"
+  ],
+  "correct": 2,
+  "explanation": "Odolnost hadů plyne z mutací v sodíkových kanálech a jednotlivé lokality se liší tím, jak daleko závod ve zbrojení pokročil. Někde je had výrazně odolnější než kořist potřebuje, jinde je zase toxin ve výhodě. Taková geografická mozaika je právě to, co teorie koevoluce předpovídá, protože závod probíhá lokálně, ne na úrovni druhu jako celku.",
+  "source": "Brodie & Brodie, Predator–prey arms races (BioScience, 1999); Thompson, The Geographic Mosaic of Coevolution (2005)",
+  "seedElo": 1850
+ },
+ {
+  "id": "evo-A41",
+  "type": "F",
+  "category": "evoluce",
+  "text": "Bateson–Dobzhansky–Mullerův model vysvětluje vznik hybridní neplodnosti tak, že:",
+  "options": [
+   "každá linie fixuje jinou alelu a ty se poprvé potkají až v hybridovi",
+   "hybridi mají vždy lichý počet chromozomů, takže meióza selže",
+   "obě linie nezávisle ztratí tentýž nezbytný gen pro tvorbu gamet",
+   "v každé linii se nahromadí tolik mutací, že už nejsou slučitelné"
+  ],
+  "correct": 0,
+  "explanation": "Model řeší zjevný paradox, jak může nekompatibilita vzniknout, aniž by kterákoli linie musela projít fází snížené zdatnosti. Odpověď zní, že alely jsou ve svém genetickém pozadí neškodné a problém nastane až v novém kombinovaném pozadí hybrida. Počet takových párových nekompatibilit navíc roste rychleji než lineárně s časem, což vysvětluje takzvaný sněhulákový efekt.",
+  "source": "Dobzhansky (1937), Muller (1942); Orr, The population genetics of speciation (Genetics, 1995)",
+  "seedElo": 1850
+ },
+ {
+  "id": "evo-B07",
+  "type": "F",
+  "category": "evoluce",
+  "text": "Velká oxidační událost, tedy trvalý nástup kyslíku v atmosféře, se datuje přibližně do doby před:",
+  "options": [
+   "3,8 miliardy let, tedy krátce po zformování prvních oceánů",
+   "2,4 miliardy let, tedy hluboko v období starohor a prahor",
+   "1,2 miliardy let, tedy až po objevení se prvních eukaryot",
+   "635 miliony let, tedy těsně před ediakarskou faunou"
+  ],
+  "correct": 1,
+  "explanation": "Sinice produkovaly kyslík už dříve, ale ten se spotřebovával na oxidaci rozpuštěného železa a sopečných plynů. Kolem 2,4 miliardy let se pufry vyčerpaly a kyslík začal trvale unikat do atmosféry. Zmizely tehdy detritické pyrity a objevily se první červené vrstvy.",
+  "source": "Holland, The oxygenation of the atmosphere and oceans (Phil. Trans. R. Soc. B, 2006)",
+  "seedElo": 1850
+ },
+ {
+  "id": "evo-B08",
+  "type": "K",
+  "category": "evoluce",
+  "text": "Pásované železné rudy jsou pro dějiny života cenné hlavně proto, že:",
+  "options": [
+   "obsahují nejstarší dosud nalezené fosilie mnohobuněčných organismů",
+   "vznikají jen tam, kde v mořské vodě dlouhodobě převládá metan",
+   "zaznamenávají srážení železa s kyslíkem v tehdejších mořích",
+   "jejich vrstvy odpovídají jednotlivým rokům podobně jako letokruhy"
+  ],
+  "correct": 2,
+  "explanation": "V bezkyslíkatém oceánu bylo dvojmocné železo rozpustné a hojné. Jakmile se objevil fotosyntetický kyslík, železo se oxidovalo a klesalo ke dnu jako oxidy. Střídavé vrstvy tak nepřímo zaznamenávají první produkci kyslíku, dávno před jeho hromaděním v atmosféře.",
+  "source": "Klein, Some Precambrian banded iron-formations (American Mineralogist, 2005)",
+  "seedElo": 1850
+ },
+ {
+  "id": "evo-B11",
+  "type": "F",
+  "category": "evoluce",
+  "text": "Čím se ediakarská společenstva (asi 575–539 milionů let) nejnápadněji liší od kambrických?",
+  "options": [
+   "žila výhradně ve sladkých vodách vnitrozemských jezer a řek",
+   "chybí u nich tvrdé schránky, končetiny i stopy po predaci",
+   "byla tvořena převážně suchozemskými mechorosty a lišejníky",
+   "jejich zástupci měli již plně vyvinuté oči a vnitřní kostru"
+  ],
+  "correct": 1,
+  "explanation": "Ediakarské organismy typu Dickinsonia či Charnia jsou většinou ploché, přisedlé nebo pomalu se plazící útvary bez schránek a bez dokladů o lovu. Chybí i složité stopy po norování. Kambrium naopak přináší mineralizované schránky, končetiny a otvory po vrtavých predátorech.",
+  "source": "Guy Narbonne, The Ediacara Biota (Annu. Rev. Earth Planet. Sci., 2005)",
+  "seedElo": 1850
+ },
+ {
+  "id": "evo-B17",
+  "type": "F",
+  "category": "evoluce",
+  "text": "Vymírání na konci triasu je významné hlavně tím, že:",
+  "options": [
+   "ukončilo existenci trilobitů, kteří do té doby ovládali mořské dno",
+   "proběhlo bez jakéhokoli doprovodného vulkanismu či změny klimatu",
+   "postihlo výhradně suchozemské rostliny a hmyzu se prakticky nedotklo",
+   "uvolnilo ekologický prostor, v němž se v juře rozvinuli dinosauři"
+  ],
+  "correct": 3,
+  "explanation": "Před 201 miliony let vymřela většina velkých krurotarsních plazů, kteří do té doby dinosaurům konkurovali. Časově to odpovídá vulkanismu středoatlantické magmatické provincie při rozpadu Pangey. Dinosauři přežili a v juře obsadili uvolněné role velkých suchozemských obratlovců.",
+  "source": "Blackburn et al., Zircon U-Pb geochronology links the end-Triassic extinction with CAMP (Science, 2013)",
+  "seedElo": 1850
+ },
+ {
+  "id": "evo-B30",
+  "type": "F",
+  "category": "evoluce",
+  "text": "Který krok odlišuje meiózu od mitózy nejpodstatněji?",
+  "options": [
+   "chromozomy se před dělením zdvojují jen v meióze, v mitóze nikoli",
+   "dělicí vřeténko se tvoří výhradně v meióze, mitóza se bez něj obejde",
+   "v mitóze vznikají čtyři dceřiné buňky, kdežto v meióze pouze dvě",
+   "v meióze se homologní chromozomy párují a v prvním dělení rozcházejí"
+  ],
+  "correct": 3,
+  "explanation": "V mitóze se rozcházejí sesterské chromatidy a vznikají dvě totožné diploidní buňky. V meióze předchází párování homologních chromozomů a jejich rozchod v prvním dělení, což počet chromozomů půlí. Právě při tomto párování dochází ke crossing-overu, tedy k výměně úseků mezi homology.",
+  "source": "Bruce Alberts et al., Molecular Biology of the Cell, kapitola o meióze",
+  "seedElo": 1850
+ },
+ {
+  "id": "evo-B38",
+  "type": "F",
+  "category": "evoluce",
+  "text": "Denisované byli jako samostatná populace poprvé rozpoznáni na základě:",
+  "options": [
+   "kompletní kostry nalezené v jeskyni na jižní Sibiři roku 2008",
+   "souboru kamenných nástrojů odlišných od všech známých kultur",
+   "otisků stop v sopečném popelu na náhorní plošině v Tibetu",
+   "DNA získané z článku prstu a několika zubů z Denisovy jeskyně"
+  ],
+  "correct": 3,
+  "explanation": "Denisované jsou první lidská populace popsaná primárně z genomu, nikoli z morfologie: v roce 2010 stačil úlomek prstního článku a několik zubů. Jejich DNA se ve zvýšené míře nachází u Melanésanů a Aboriginců. Varianta genu EPAS1 pomáhající Tibeťanům ve výškách pochází právě z denisovanské introgrese.",
+  "source": "Reich et al. (Nature, 2010); Huerta-Sánchez et al. (Nature, 2014)",
+  "seedElo": 1850
+ },
+ {
+  "id": "evo-B42",
+  "type": "K",
+  "category": "evoluce",
+  "text": "Genomové skeny nedávné selekce u člověka ukazují, že evoluce v posledních tisíciletích:",
+  "options": [
+   "se prakticky zastavila, protože kulturu už výběr nedokáže ovlivnit",
+   "probíhala rychleji než dřív, mimo jiné vlivem nových způsobů obživy",
+   "působila jen na pigmentaci kůže a na žádné jiné znaky lidského těla",
+   "postupovala všude stejným tempem bez ohledu na místní podmínky"
+  ],
+  "correct": 1,
+  "explanation": "Rozsáhlé populace a nová prostředí vytvořená zemědělstvím, chovem a městy zvýšily jak přísun mutací, tak sílu výběru. Doklady o nedávné selekci nese například adaptace na velké výšky u Tibeťanů a Andanů, odolnost k malárii či zpracování škrobů. Kultura tedy výběr netlumí, ale přesměrovává.",
+  "source": "Hawks et al., Recent acceleration of human adaptive evolution (PNAS, 2007)",
+  "seedElo": 1850
+ },
+ {
   "id": "evo-20",
   "type": "K",
   "category": "evoluce",
@@ -318,5 +1102,501 @@
   "explanation": "Formální analýzy (např. práce W. D. Hamiltona a pozdější rozpracování) ukazují, že za určitých podmínek jsou modely skupinového výběru a příbuzenského (genocentrického) výběru matematicky ekvivalentní — jde o dva jazyky popisující stejnou dynamiku, nikoli o soupeřící vysvětlení s odlišnými předpověďmi. Spor je proto v současné evoluční biologii chápán spíše jako otázka vhodnosti popisu než jako otevřená empirická bitva o to, 'co je pravda'.",
   "source": "West, S. A., Gardner, A.: Adaptation and Inclusive Fitness (2013); Dawkins, R.: Sobecký gen, doslov k vydání 1989",
   "seedElo": 1870
+ },
+ {
+  "id": "evo-A02",
+  "type": "F",
+  "category": "evoluce",
+  "text": "Co tvoří jádro nároku takzvané rozšířené evoluční syntézy (extended evolutionary synthesis)?",
+  "options": [
+   "populační genetika je matematicky chybná a je nutné ji přepsat",
+   "přirozený výběr nehraje v evolučních změnách podstatnou roli",
+   "organismus vývojem a niche-konstrukcí spoluurčuje směr změn",
+   "dědičnost je čistě epigenetická a sekvence DNA nerozhoduje"
+  ],
+  "correct": 2,
+  "explanation": "EES netvrdí, že by výběr či genetika byly falešné; tvrdí, že samotný organismus není pasivním příjemcem variace. Vývojová zaujatost, plasticita, niche konstrukce a negenetická dědičnost prý spoluurčují, jaké varianty se výběru vůbec nabídnou. Jde tedy o spor o váhu a kauzální strukturu, ne o platnost selekce.",
+  "source": "Laland et al., The extended evolutionary synthesis: its structure, assumptions and predictions (Proc. R. Soc. B, 2015)",
+  "seedElo": 1900
+ },
+ {
+  "id": "evo-A03",
+  "type": "F",
+  "category": "evoluce",
+  "text": "Nejsilnější námitka odpůrců rozšířené syntézy (Wray, Futuyma a další) proti jejím zastáncům zní:",
+  "options": [
+   "vývojové mechanismy nejsou pro evoluční změnu vůbec relevantní",
+   "žádný z uváděných jevů nebyl v přírodní populaci nikdy doložen",
+   "matematické modely takové efekty v principu nedokážou zachytit",
+   "jde spíš o změnu důrazu, standardní teorie ty jevy pojmout umí"
+  ],
+  "correct": 3,
+  "explanation": "Kritici obvykle nepopírají existenci plasticity, niche konstrukce ani vývojové zaujatosti. Namítají, že standardní evoluční teorie tyto jevy dávno zná a dokáže je formálně pojmout, takže nový pojmový rámec nic nepředpovídá navíc. Spor je proto z velké části o rétorice a o tom, co považovat za jádro a co za periferii.",
+  "source": "Wray, Hoekstra, Futuyma et al., Does evolutionary theory need a rethink? No, all is well (Nature, 2014)",
+  "seedElo": 1900
+ },
+ {
+  "id": "evo-A05",
+  "type": "K",
+  "category": "evoluce",
+  "text": "Priceova rovnice rozkládá změnu průměrné hodnoty znaku mezi generacemi na dvě části. Které to jsou?",
+  "options": [
+   "mutační složka a rekombinační složka téhož genetického pozadí",
+   "kovariance fitness se znakem a průměrná změna znaku v přenosu",
+   "aditivní genetická variance a environmentální variance znaku",
+   "selekční diferenciál a heritabilita odhadnutá z rodičů a potomků"
+  ],
+  "correct": 1,
+  "explanation": "První člen je kovariance mezi relativní fitness a hodnotou znaku, tedy vlastní selekce. Druhý člen je očekávaná změna znaku při přenosu na potomstvo, do níž spadá mutace, tah i nepřesnost dědičnosti. Síla rovnice je v tom, že platí zcela obecně a lze ji rekurzivně rozepsat na libovolné úrovně selekce.",
+  "source": "G. R. Price, Selection and covariance (Nature, 1970)",
+  "seedElo": 1900
+ },
+ {
+  "id": "evo-A08",
+  "type": "K",
+  "category": "evoluce",
+  "text": "Efekt zeleného vousu je hypotetický gen, který zároveň vytváří znak, umožňuje jej rozpoznat a nutí nositele pomáhat. Proč je nestabilní?",
+  "options": [
+   "znak by musel být viditelný i pro predátory, což zvyšuje úmrtnost",
+   "geny pro altruismus se v populaci nikdy nedokážou rozšířit z nuly",
+   "rozpoznávací systémy vždy selhávají u příbuzných z jiné populace",
+   "vzniknou falešní nositelé se znakem, ale bez ochoty pomáhat"
+  ],
+  "correct": 3,
+  "explanation": "Jakmile se v populaci objeví varianta, která nese znak, ale samotný altruismus vypustila, sklízí výhody bez nákladů a rychle se šíří. Systém je proto zranitelný vůči podvodníkům a udrží se jen tam, kde jsou složky pevně svázané. Skutečné příklady existují, například u améb Dictyostelium a u ohnivých mravenců.",
+  "source": "R. Dawkins, The Selfish Gene (1976); Queller et al., Single-gene greenbeard effects in Dictyostelium (Science, 2003)",
+  "seedElo": 1900
+ },
+ {
+  "id": "evo-A10",
+  "type": "K",
+  "category": "evoluce",
+  "text": "Ve hře jestřáb–holubice převýší cena zranění hodnotu vyhrané zdrojové kořisti. Co je pak evolučně stabilní?",
+  "options": [
+   "čistá populace holubic, protože se v ní nikdo nikdy nezraní",
+   "čistá populace jestřábů, jelikož jestřáb holubici vždy porazí",
+   "směs obou tahů v poměru daném poměrem ceny zranění a odměny",
+   "střídání obou tahů podle toho, kolik jedinců zrovna žije v okolí"
+  ],
+  "correct": 2,
+  "explanation": "Když cena souboje převýší odměnu, není ani jeden čistý tah odolný vůči invazi: v populaci holubic se vyplatí být jestřábem a naopak. Rovnováha proto leží ve smíšeném poměru, který lze číst buď jako podíl typů, nebo jako pravděpodobnost tahu u jednoho jedince. Poměr je určen právě podílem hodnoty zdroje a ceny zranění.",
+  "source": "Maynard Smith, Evolution and the Theory of Games (1982)",
+  "seedElo": 1900
+ },
+ {
+  "id": "evo-A12",
+  "type": "F",
+  "category": "evoluce",
+  "text": "Samosprašnosti bránící (self-inkompatibilní) lokusy rostlin nesou stovky alel v přibližně stejných frekvencích. Za tento vzorec může:",
+  "options": [
+   "vysoká mutační rychlost specifická pro tuto oblast genomu",
+   "opakované zavlečení nových alel horizontálním přenosem z hub",
+   "vazba lokusu na mnohonásobně duplikovanou oblast chromozomu",
+   "výhoda vzácné alely, jejíž nositel může opylit více partnerů"
+  ],
+  "correct": 3,
+  "explanation": "Pyl s alelou, která je v populaci vzácná, najde více kompatibilních blizen než pyl s alelou běžnou. Selekce tedy trvale zvýhodňuje vzácnost a udržuje extrémní alelovou rozmanitost po miliony let, často i přes hranice druhů. Stejná logika stojí za polymorfismem MHC u obratlovců.",
+  "source": "Wright, The distribution of self-sterility alleles in populations (Genetics, 1939); Castric & Vekemans (Mol. Ecol., 2004)",
+  "seedElo": 1900
+ },
+ {
+  "id": "evo-A22",
+  "type": "K",
+  "category": "evoluce",
+  "text": "Haigova teorie rodičovského konfliktu předpovídá u savců, že geny exprimované z otcovské kopie budou:",
+  "options": [
+   "tlumit odběr matčiných zdrojů, aby matka přežila další březost",
+   "působit až po odstavení, kdy je konkurence sourozenců největší",
+   "být zcela vyřazeny, protože otec nemá o vývoj plodu žádný zájem",
+   "zvyšovat odčerpávání matčiných zdrojů ve prospěch daného plodu"
+  ],
+  "correct": 3,
+  "explanation": "Otcovské geny v plodu nemají jistotu, že matčino další mládě ponese také jejich kopie, takže je pro ně výhodné čerpat z matky co nejvíce. Mateřské geny naopak matčiny zdroje šetří pro celý budoucí vrh. Předpověď sedí: otcovsky exprimovaný Igf2 růst plodu podporuje, zatímco mateřsky exprimovaný receptor Igf2r jej brzdí.",
+  "source": "D. Haig, Genetic conflicts in human pregnancy (Q. Rev. Biol., 1993); Moore & Haig (Trends Genet., 1991)",
+  "seedElo": 1900
+ },
+ {
+  "id": "evo-A26",
+  "type": "F",
+  "category": "evoluce",
+  "text": "Model duplikace, degenerace a komplementace (DDC) tvrdí, že obě kopie duplikovaného genu se v genomu udrží, protože:",
+  "options": [
+   "jedna kopie získá zcela novou funkci dříve, než ji stihne mutace zničit",
+   "dvojnásobná dávka produktu je pro buňku energeticky výhodnější",
+   "každá si ponechá jinou část původních rolí, a obě jsou tak nezbytné",
+   "duplikace vždy zvyšuje odolnost genomu vůči chybám při replikaci"
+  ],
+  "correct": 2,
+  "explanation": "Klasická neofunkcionalizace potřebuje vzácnou prospěšnou mutaci dřív, než nadbytečná kopie zdegeneruje. DDC nabízí pravděpodobnější cestu: pokud každá kopie ztratí jiný regulační modul, ani jednu už nelze postrádat, a obě jsou udrženy čistě degenerativními mutacemi. Model dobře vysvětluje rozdělení expresních domén po rybí celogenomové duplikaci.",
+  "source": "Force, Lynch et al., Preservation of duplicate genes by complementary, degenerative mutations (Genetics, 1999)",
+  "seedElo": 1900
+ },
+ {
+  "id": "evo-A33",
+  "type": "F",
+  "category": "evoluce",
+  "text": "Hlavní příčinou postupné degenerace savčího chromozomu Y je:",
+  "options": [
+   "vyšší mutační rychlost v samčí zárodečné linii kvůli počtu dělení",
+   "vystavení Y chromozomu vyššímu množství oxidačního poškození",
+   "menší fyzická velikost, která omezuje počet genů, jež se tam vejdou",
+   "ztráta rekombinace s X, která zabránila oddělení škodlivých mutací"
+  ],
+  "correct": 3,
+  "explanation": "Jakmile se u Y zastavila rekombinace s X, stal se z celého chromozomu jediný nerekombinující blok. Působí na něj Mullerova rohatka a selekční interference, takže škodlivé mutace se hromadí spolu s tím, co je zrovna vybíráno. Přispívá i nižší efektivní velikost, protože Y existuje jen v jedné kopii u poloviny populace.",
+  "source": "Charlesworth & Charlesworth, The degeneration of Y chromosomes (Phil. Trans. R. Soc. B, 2000)",
+  "seedElo": 1900
+ },
+ {
+  "id": "evo-A37",
+  "type": "F",
+  "category": "evoluce",
+  "text": "Baldwinův efekt se od genetické asimilace v původním pojetí liší především tím, že:",
+  "options": [
+   "vyžaduje přenos naučeného chování přímo do zárodečných buněk",
+   "vychází z učení či plasticity, které udrží linii naživu, než dorazí geny",
+   "popisuje výhradně ztrátu znaků, které přestaly být potřebné",
+   "působí jen v populacích s velmi nízkou efektivní velikostí"
+  ],
+  "correct": 1,
+  "explanation": "Baldwin zdůrazňoval, že schopnost naučit se řešení drží populaci naživu v nových podmínkách a tím dává čas na to, aby selekce vyladila genetické zajištění téhož výsledku. Plasticita tedy evoluci nepředchází v lamarckovském smyslu, jen jí otevírá okno příležitosti. Podíl efektu na skutečné evoluci je dodnes předmětem debaty, protože plasticita může selekční tlak i tlumit.",
+  "source": "J. M. Baldwin, A new factor in evolution (American Naturalist, 1896); Crispo, The Baldwin effect and genetic assimilation (Evolution, 2007)",
+  "seedElo": 1900
+ },
+ {
+  "id": "evo-B06",
+  "type": "F",
+  "category": "evoluce",
+  "text": "Kterou biochemickou zvláštností se archea liší od bakterií i od eukaryot?",
+  "options": [
+   "membránové lipidy mají isoprenoidové řetězce vázané etherovou vazbou",
+   "buněčná stěna je u nich vždy vyztužena silnou vrstvou peptidoglykanu",
+   "genetickou informaci ukládají do jednořetězcové molekuly nukleové kyseliny",
+   "bílkoviny sestavují na ribozomech složených výhradně z bílkovin"
+  ],
+  "correct": 0,
+  "explanation": "Bakterie i eukaryota mají membrány z mastných kyselin připojených esterovou vazbou ke glycerolu. Archea používají rozvětvené isoprenoidy vázané etherem a glycerol v zrcadlové konfiguraci. Tento „lipidový předěl“ patří k nejtvrdším argumentům pro samostatnost domény.",
+  "source": "Koga a Morii, Biosynthesis of ether-type polar lipids in archaea (Microbiol. Mol. Biol. Rev., 2007)",
+  "seedElo": 1900
+ },
+ {
+  "id": "evo-B22",
+  "type": "K",
+  "category": "evoluce",
+  "text": "Nálezy opeřených neletavých dinosaurů z Číny podpořily závěr, že peří:",
+  "options": [
+   "vzniklo dříve než let a původně sloužilo k jiným funkcím",
+   "se vyvinulo současně se schopností aktivního mávavého letu",
+   "je pouze u ptáků a u dinosaurů jde o špatně vyložené šupiny",
+   "sloužilo výhradně k izolaci a ozdobnou roli získalo až u ptáků"
+  ],
+  "correct": 0,
+  "explanation": "Sinosauropteryx a řada dalších čínských teropodů měla jednoduchá vlákna či pravé peří, ačkoli létat nemohla. Peří tedy vzniklo dříve než let a nejspíš plnilo funkce tepelně izolační i signální; melanozomy ve fosiliích dokládají i barevné vzory. Let byl až pozdější využití existující struktury.",
+  "source": "Xu a Guo, The origin and early evolution of feathers (Vertebrata PalAsiatica, 2009); Zhang et al. 2010",
+  "seedElo": 1900
+ },
+ {
+  "id": "evo-B24",
+  "type": "K",
+  "category": "evoluce",
+  "text": "Jak dnešní nálezy upravují starší obraz druhohorních savců jako „malých nočních tvorů v podrostu“?",
+  "options": [
+   "ukazují, že savci byli v druhohorách zcela chybějící skupinou",
+   "dokládají savce velikosti dnešních jelenů běžné po celé druhohory",
+   "potvrzují jej beze zbytku, žádný druhohorní savec nepřesáhl velikost myši",
+   "odhalují plavce, hrabavé i klouzavé formy, přesto vesměs drobné"
+  ],
+  "correct": 3,
+  "explanation": "Čínské nálezy jako Castorocauda, Repenomamus či Volaticotherium ukazují ekologicky pestré savce druhohor: plavce, hrabavé formy i klouzavé. Repenomamus dosahoval velikosti jezevce a v žaludku měl mládě dinosaura. Většina savců však opravdu zůstávala malá a noční aktivita byla u nich pravděpodobně rozšířená.",
+  "source": "Luo, Transformation and diversification in early mammal evolution (Nature, 2007)",
+  "seedElo": 1900
+ },
+ {
+  "id": "evo-B31",
+  "type": "K",
+  "category": "evoluce",
+  "text": "Proč je crossing-over evolučně důležitější než pouhé náhodné rozdělení chromozomů?",
+  "options": [
+   "zvyšuje počet chromozomů, a tím i celkovou zásobu genetické informace",
+   "brání vzniku nových kombinací, a tak udržuje osvědčené genotypy pohromadě",
+   "rozbíjí vazbu mezi geny na témž chromozomu a tvoří nové kombinace alel",
+   "opravuje poškozené úseky DNA podle nepoškozené sesterské chromatidy"
+  ],
+  "correct": 2,
+  "explanation": "Bez crossing-overu by se geny ležící na jednom chromozomu dědily vždy pospolu jako neměnný balík. Výměna úseků mezi homology tuto vazbu rozvolňuje, takže výběr může působit na jednotlivé alely zvlášť. To mimo jiné brání hromadění škodlivých mutací ve fixovaných blocích.",
+  "source": "Otto a Lenormand, Resolving the paradox of sex and recombination (Nature Reviews Genetics, 2002)",
+  "seedElo": 1900
+ },
+ {
+  "id": "evo-B40",
+  "type": "K",
+  "category": "evoluce",
+  "text": "Proč se vznik jazyka doloží hůř než vznik nástrojů nebo bipedie?",
+  "options": [
+   "protože jazyk vznikl teprve v posledních deseti tisících letech",
+   "protože všechny relevantní fosilie hrtanu byly nalezeny až nedávno",
+   "protože měkké tkáně a chování nefosilizují a důkazy jsou jen nepřímé",
+   "protože se lingvistika a paleoantropologie navzájem zásadně vylučují"
+  ],
+  "correct": 2,
+  "explanation": "Mluvidla, mozková tkáň i samo chování se nezachovávají. Zbývají nepřímé stopy: velikost hypoglosálního kanálu, jazylka, průměr páteřního kanálu, symbolické artefakty či složitost nástrojových technik. Každý takový ukazatel je sporný, proto se odhady vzniku jazyka pohybují v řádu statisíců let.",
+  "source": "Fitch, The Evolution of Language (2010); Dediu a Levinson (Frontiers in Psychology, 2013)",
+  "seedElo": 1900
+ },
+ {
+  "id": "evo-B09",
+  "type": "F",
+  "category": "evoluce",
+  "text": "Objev asgardských archeí (například Lokiarchaeota) posunul debatu o eukaryogenezi tím, že:",
+  "options": [
+   "prokázal, že eukaryotická buňka vznikla splynutím dvou bakterií",
+   "vyvrátil představu, že mitochondrie mají bakteriální původ",
+   "doložil existenci jádra u organismů žijících v horkých pramenech",
+   "odhalil archea nesoucí geny pro dosud typicky eukaryotické znaky"
+  ],
+  "correct": 3,
+  "explanation": "V genomech asgardských archeí se našly homology aktinu, ESCRT či proteinů pro transport váčků, tedy výbavy pro dynamickou membránu a fagocytózu podobné procesy. Podporují model, kdy hostitelem mitochondrie byla archeální buňka. Roku 2019 se jednoho z nich podařilo i vypěstovat.",
+  "source": "Spang et al. (Nature, 2015); Imachi et al., Isolation of an archaeon at the prokaryote–eukaryote interface (Nature, 2020)",
+  "seedElo": 1950
+ },
+ {
+  "id": "evo-B16",
+  "type": "K",
+  "category": "evoluce",
+  "text": "Jedna z hypotéz spojuje pozdně devonské vymírání s rozmachem prvních lesů. Její jádro zní:",
+  "options": [
+   "stromy vytlačily mořské řasy z mělčin a zpřetrhaly potravní řetězce",
+   "kořeny zvětraly horniny, živiny se splavily do moří a nastala anoxie",
+   "lesy pohltily tolik dusíku, že ho suchozemským živočichům nezbylo",
+   "husté koruny zastínily pobřeží a znemožnily fotosyntézu v mělčinách"
+  ],
+  "correct": 1,
+  "explanation": "Rozvoj hlubokých kořenových systémů urychlil zvětrávání a tvorbu půd. Do moří se dostávalo víc fosforu, což vedlo k přemnožení řas, spotřebě kyslíku a rozsáhlým černým břidlicím. Souběžně odčerpávání oxidu uhličitého ochlazovalo klima. Hypotéza je vlivná, ale ne jediná.",
+  "source": "Algeo a Scheckler, Terrestrial–marine teleconnections in the Devonian (Phil. Trans. R. Soc. B, 1998)",
+  "seedElo": 1950
+ },
+ {
+  "id": "evo-B36",
+  "type": "K",
+  "category": "evoluce",
+  "text": "Jak je to s doklady o ovládnutí ohně u druhu Homo erectus?",
+  "options": [
+   "jednotlivé nálezy sahají k milionu let, běžné je to až mnohem později",
+   "první doklady spadají až do doby po vzniku anatomicky moderního člověka",
+   "ohniště jsou doložena souvisle a hojně už od dvou milionů let před dneškem",
+   "žádné archeologické stopy užívání ohně u tohoto druhu dosud nebyly nalezeny"
+  ],
+  "correct": 0,
+  "explanation": "Jeskyně Wonderwerk poskytla stopy popela staré asi milion let, Gesher Benot Ya'aqov ohniště kolem 780 tisíc let. Souvislý a rutinní výskyt ohnišť se však objevuje až zhruba před 400 tisíci lety. Wranghamova hypotéza o vaření jako motoru zvětšení mozku je proto zajímavá, ale doklady nejsou jednoznačné.",
+  "source": "Berna et al. (PNAS, 2012); Roebroeks a Villa (PNAS, 2011); Wrangham, Catching Fire (2009)",
+  "seedElo": 1950
+ },
+ {
+  "id": "evo-B44",
+  "type": "F",
+  "category": "evoluce",
+  "text": "Nálezy z ostrova Flores přiřazované druhu Homo floresiensis jsou pozoruhodné hlavně tím, že:",
+  "options": [
+   "jde o drobného hominina s malým mozkem žijícího před 50 tisíci lety",
+   "jde o největší dosud známé hominina, s výškou přesahující dva metry",
+   "jde o zástupce moderního člověka, jehož stáří přesahuje milion let",
+   "jde o jediného hominina, u nějž se prokázalo užívání kovových nástrojů"
+  ],
+  "correct": 0,
+  "explanation": "Kostry z jeskyně Liang Bua patří asi metr vysokým lidem s objemem mozkovny kolem 420 krychlových centimetrů, kteří vyráběli kamenné nástroje. Revize datování posunula jejich stáří na zhruba 60 až 50 tisíc let, tedy do doby, kdy už v oblasti byl moderní člověk. Ostrovní zakrslení patří k nejčastěji zvažovaným vysvětlením.",
+  "source": "Brown et al. (Nature, 2004); Sutikna et al., Revised stratigraphy and chronology for Homo floresiensis (Nature, 2016)",
+  "seedElo": 1950
+ },
+ {
+  "id": "evo-A23",
+  "type": "F",
+  "category": "evoluce",
+  "text": "Meiotický tah (například segregation distorter u octomilky) je příkladem sobeckého genetického elementu, protože:",
+  "options": [
+   "se do gamet dostává častěji než v poloviční mendelovské frekvenci",
+   "se přenáší mezi jedinci nezávisle na rozmnožování, tedy nakažlivě",
+   "kóduje toxin, který zabíjí konkurenční jedince ve stejném prostředí",
+   "zvyšuje počet potomků svého nositele nad průměr celé populace"
+  ],
+  "correct": 0,
+  "explanation": "Element manipuluje samotnou meiózou nebo likviduje gamety, které jej nenesou, a šíří se tedy i přesto, že svému nositeli obvykle snižuje plodnost. Tím ilustruje, že genom není harmonický celek, ale arénu vnitřních konfliktů. Právě proti takovým tahounům se patrně vyvinula řada mechanismů, včetně skryté meiózy a supresorových genů.",
+  "source": "Burt & Trivers, Genes in Conflict (2006); Larracuente & Presgraves, The selfish Segregation Distorter gene complex (Genetics, 2012)",
+  "seedElo": 2000
+ },
+ {
+  "id": "evo-A29",
+  "type": "K",
+  "category": "evoluce",
+  "text": "Poměr dN/dS srovnává nesynonymní a synonymní substituce. Hodnota výrazně vyšší než jedna je považována za signál:",
+  "options": [
+   "pozitivní selekce, která opakovaně prosazovala změny v proteinu",
+   "silné purifikující selekce odstraňující změny v aminokyselinách",
+   "úplné neutrality daného úseku, kde selekce nepůsobí vůbec nijak",
+   "nedávného hrdla lahve, které v populaci snížilo variabilitu"
+  ],
+  "correct": 0,
+  "explanation": "Synonymní změny slouží jako vnitřní neutrální měřítko mutační rychlosti. Když se aminokyselinu měnící substituce hromadí rychleji než ony, znamená to, že selekce nové varianty aktivně prosazovala. Test je konzervativní: většina genů má dN/dS hluboko pod jedničkou a kladný signál se často objeví jen na několika kodonech, typicky v imunitních a rozpoznávacích proteinech.",
+  "source": "Yang & Bielawski, Statistical methods for detecting molecular adaptation (TREE, 2000)",
+  "seedElo": 2000
+ },
+ {
+  "id": "evo-A30",
+  "type": "F",
+  "category": "evoluce",
+  "text": "Efektivní velikost populace Ne rozhoduje o tom, zda se alela chová jako selektovaná, nebo jako neutrální. Rozhodující veličinou je:",
+  "options": [
+   "podíl selekčního koeficientu a mutační rychlosti daného lokusu",
+   "součin efektivní velikosti populace a selekčního koeficientu",
+   "rozdíl mezi census populace a její efektivní velikostí Ne",
+   "podíl efektivní velikosti a počtu generací od vzniku alely"
+  ],
+  "correct": 1,
+  "explanation": "Pokud je součin Ne krát s výrazně menší než jedna, převáží drift a alela se chová efektivně neutrálně bez ohledu na to, že je mírně prospěšná či škodlivá. Odtud plyne pojem selekční bariéry driftu: malé populace nedokážou vyladit jemné detaily genomu. Vysvětluje to i tendenci malých populací hromadit introny a mobilní elementy.",
+  "source": "Ohta (1973); M. Lynch, The Origins of Genome Architecture (2007)",
+  "seedElo": 2000
+ },
+ {
+  "id": "evo-A31",
+  "type": "F",
+  "category": "evoluce",
+  "text": "Ohtova teorie téměř neutrálních mutací vylepšuje Kimuru mimo jiné tím, že vysvětluje, proč molekulární hodiny:",
+  "options": [
+   "tikají rychleji v liniích s malou efektivní velikostí populace",
+   "se u všech skupin organismů zastavují po překročení sta milionů let",
+   "měří čas přesněji v kódujících než v nekódujících oblastech genomu",
+   "se rozcházejí s fosilním záznamem vždy stejným směrem a měrou"
+  ],
+  "correct": 0,
+  "explanation": "Podle Ohty tvoří velkou část substitucí mírně škodlivé mutace, které se fixují jen tam, kde je drift silný. V malých populacích proto substituce přibývají rychleji, zatímco ve velkých je selekce odplaví. Hodiny tak tikají spíš podle generací a demografie než podle absolutního času, což vysvětluje jejich nechvalně známou nepřesnost.",
+  "source": "T. Ohta, Slightly deleterious mutant substitutions in evolution (Nature, 1973)",
+  "seedElo": 2000
+ },
+ {
+  "id": "evo-B19",
+  "type": "F",
+  "category": "evoluce",
+  "text": "Které vysvětlení mimořádného hromadění uhlí v karbonu dnes obstojí nejlépe?",
+  "options": [
+   "houby tehdy ještě neuměly rozkládat lignin, takže dřevo zůstávalo celé",
+   "vlhké pánve, kde klesající podloží rychle pohřbívalo rašelinu",
+   "karbonské rostliny obsahovaly řádově více uhlíku než ty pozdější",
+   "tehdejší hmyz spotřeboval odumřelé dřevo dřív, než stačilo shnít"
+  ],
+  "correct": 1,
+  "explanation": "Starší představa o „ligninové mezeře“, tedy o houbách bez schopnosti rozkládat dřevo, byla oslabena: molekulární datování vzniku hub bílé hniloby je nejisté a lignin rozkládaly i dřívější organismy. Novější práce kladou důraz na tektoniku a klima — rozsáhlé rovníkové bažiny s trvalým poklesem podloží pohřbívaly rašelinu rychleji, než stačila zetlít.",
+  "source": "Nelsen et al., Delayed fungal evolution did not cause the Paleozoic peak in coal production (PNAS, 2016)",
+  "seedElo": 2000
+ },
+ {
+  "id": "evo-B21",
+  "type": "F",
+  "category": "evoluce",
+  "text": "K čemu dospěly studie kostní histologie a izotopů ohledně fyziologie velkých dinosaurů?",
+  "options": [
+   "měli metabolismus zcela shodný s dnešními ještěry a krokodýly",
+   "jejich tělesná teplota kolísala se sezonou stejně jako u ryb",
+   "byli plně teplokrevní, což se dnes pokládá za definitivně vyřešené",
+   "vykazují rychlý růst a teploty mezi plazy a ptáky, tedy spíš mezotermii"
+  ],
+  "correct": 3,
+  "explanation": "Kosti dinosaurů mají hustě prokrvenou fibrolamelární stavbu typickou pro rychlý růst, izotopová i růstová data pak vycházejí mezi typickými ektotermy a endotermy. Řada autorů proto mluví o mezotermii. U menších teropodů se přitom hodnoty blíží ptačím, takže jednotná odpověď pro celou skupinu neexistuje.",
+  "source": "Grady et al., Evidence for mesothermy in dinosaurs (Science, 2014)",
+  "seedElo": 2000
+ },
+ {
+  "id": "evo-B34",
+  "type": "K",
+  "category": "evoluce",
+  "text": "Která z hypotéz o vzniku bipedie stojí dnes nejhůř, protože jí odporují nálezy prostředí?",
+  "options": [
+   "chůze po dvou vznikla jako úspora energie při chůzi na delší vzdálenosti",
+   "chůze po dvou uvolnila ruce pro nošení potravy a mláďat na větší vzdálenost",
+   "chůze po dvou snížila plochu těla vystavenou přímému polednímu slunci",
+   "chůze po dvou vznikla po vysušení Afriky a ústupu lesa ve prospěch savany"
+  ],
+  "correct": 3,
+  "explanation": "Klasická „savanová hypotéza“ předpokládá, že předchůdci sestoupili ze stromů na otevřenou pláň. Paleoekologické rozbory u Ardipitheca i raných australopitéků však ukazují spíš lesní a mozaikovitá prostředí, tedy bipedii dřív než savanu. Ostatní uvedené hypotézy zůstávají ve hře, byť žádná není prokázaná.",
+  "source": "White et al., Ardipithecus ramidus and the paleobiology of early hominids (Science, 2009)",
+  "seedElo": 2000
+ },
+ {
+  "id": "evo-B43",
+  "type": "K",
+  "category": "evoluce",
+  "text": "Co pojem „mitochondriální Eva“ ve skutečnosti označuje?",
+  "options": [
+   "první ženu druhu Homo sapiens, jež žila v izolované africké skupině",
+   "jedinou ženu, která ve své době žila a předala potomstvo dalším generacím",
+   "ženu, od níž pochází většina genů dnešního lidského jaderného genomu",
+   "ženu, k níž se sbíhá rodokmen mitochondriální DNA všech dnešních lidí"
+  ],
+  "correct": 3,
+  "explanation": "Mitochondriální DNA se dědí po matce, takže její strom má jediný kořen — ženu žijící zhruba před 150 tisíci lety v Africe. Ta ale nebyla jediná, žily s ní tisíce dalších žen, jejichž mateřské linie prostě vymřely. Na jaderném genomu se navíc podílejí i ony a bod sbíhání se liší gen od genu.",
+  "source": "Cann, Stoneking a Wilson, Mitochondrial DNA and human evolution (Nature, 1987)",
+  "seedElo": 2000
+ },
+ {
+  "id": "evo-A07",
+  "type": "F",
+  "category": "evoluce",
+  "text": "Čeho se týkal spor, který v roce 2010 rozpoutali Nowak, Tarnita a E. O. Wilson v článku o vzniku eusociality?",
+  "options": [
+   "zda jsou blanokřídlí opravdu haplodiploidní, nebo jde o artefakt",
+   "zda je teorie inkluzivní fitness obecná, či jen zvláštní případ",
+   "zda mezi mravenci existuje předávání informace o zdrojích potravy",
+   "zda lze u sociálního hmyzu vůbec měřit koeficient příbuznosti r"
+  ],
+  "correct": 1,
+  "explanation": "Autoři tvrdili, že inkluzivní fitness platí jen za velmi omezujících předpokladů a že standardní populačně genetické modely stačí. Odpověď podepsalo přes sto sedmdesát biologů, kteří ukázali, že jejich vlastní model je s Hamiltonovým pravidlem konzistentní. Většinový názor dnes je, že šlo spíš o volbu účetnictví než o vyvrácení teorie.",
+  "source": "Nowak, Tarnita & Wilson, The evolution of eusociality (Nature, 2010); Abbot et al., odpověď (Nature, 2011)",
+  "seedElo": 2050
+ },
+ {
+  "id": "evo-A43",
+  "type": "F",
+  "category": "evoluce",
+  "text": "Cichlidy v malých kráterových jezerech patří k nejsilnějším kandidátům na sympatrickou speciaci hlavně proto, že:",
+  "options": [
+   "jezera jsou příliš mladá na to, aby v nich stihla proběhnout selekce",
+   "jsou geneticky totožné s populacemi z okolních velkých jezer",
+   "geometrie jezera prakticky vylučuje trvalou prostorovou bariéru",
+   "u ryb bylo pohlavní rozmnožování doloženo pouze v hlubinné zóně"
+  ],
+  "correct": 2,
+  "explanation": "Sympatrická speciace je sporná hlavně proto, že je těžké vyloučit skrytou geografickou izolaci. Malé kruhové kráterové jezero s jednotným prostředím tuto námitku výrazně oslabuje a genetická data u jezera Barombi Mbo či Apoyo ukazují jediné osídlení a následné rozrůznění na místě. Rozhodující roli tam patrně hraje ekologická divergence spojená s pářením podle typu.",
+  "source": "Barluenga et al., Sympatric speciation in Nicaraguan crater lake cichlid fish (Nature, 2006)",
+  "seedElo": 2050
+ },
+ {
+  "id": "evo-A44",
+  "type": "F",
+  "category": "evoluce",
+  "text": "Hlavní důvod, proč biologové vedle biologického druhového konceptu používají i další koncepty, je ten, že:",
+  "options": [
+   "biologický koncept nelze uplatnit u fosilií a nepohlavních organismů",
+   "biologický koncept byl statisticky vyvrácen na datech z DNA",
+   "biologický koncept vyžaduje znát celý genom obou porovnávaných forem",
+   "biologický koncept dovoluje pojmenovat pouze živočichy, nikoli rostliny"
+  ],
+  "correct": 0,
+  "explanation": "Kritérium reprodukční izolace nelze aplikovat tam, kde se organismy nekříží vůbec (bakterie, partenogeneze), ani tam, kde se křížit nemohou z principu (vymřelé linie). Navíc řada dobře odlišených druhů spolu občas hybridizuje bez ztráty identity, takže hranice je propustná. Proto se paralelně užívají koncepty fylogenetický, ekologický nebo genotypový a volba závisí na tom, k čemu má sloužit.",
+  "source": "Mayr (1942); de Queiroz, Species concepts and species delimitation (Systematic Biology, 2007)",
+  "seedElo": 2050
+ },
+ {
+  "id": "evo-B27",
+  "type": "K",
+  "category": "evoluce",
+  "text": "Co projekt ENCODE svým slavným tvrzením o „80 % funkční DNA“ skutečně měřil?",
+  "options": [
+   "podíl úseků, jejichž poškození vede u člověka k rozvoji nemoci",
+   "podíl úseků, které jsou přepisovány či biochemicky aktivní",
+   "podíl úseků kódujících bílkoviny, dosud podceňovaný o celý řád",
+   "podíl úseků, které zůstaly u obratlovců zachovány beze změny"
+  ],
+  "correct": 1,
+  "explanation": "ENCODE definoval funkci biochemicky: úsek se počítal, pokud byl přepisován, vázal bílkovinu nebo nesl určitou chromatinovou značku. Takový signál ovšem může být i evolučně bezvýznamný šum. Evoluční kritérium zachovanosti sekvence dává podstatně nižší odhad, řádově pod deset procent genomu.",
+  "source": "ENCODE Project Consortium (Nature, 2012); Graur et al., On the immortality of television sets (GBE, 2013)",
+  "seedElo": 2050
  }
 ]
