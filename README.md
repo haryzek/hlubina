@@ -96,6 +96,39 @@ launch config „hlubina".
   `content/books/src/`, `*/epub/`, `*/text.md`. Do repa smí otázky
   s krátkými citacemi s uvedením zdroje.
 
+## Kalibrace hlavní generace (z odehraných sondáží, 2026-09-01)
+
+Nástroj: `node tools/profil.mjs <backup.json>` — vypíše úspěšnost per
+balíček, zvlášť dole (<1600) a nahoře (≥1600), chyby s jejich seedElo,
+flagy a „nechané". Cíl kalibrace: **těžiště generace tam, kde má Bob
+~65–75 % úspěšnost** (učební zóna), s rozptylem ±250 kolem těžiště, aby
+scheduler měl odkud brát a Elo nestagnovalo.
+
+Naměřeno (289 odpovědí; Elo: psychoanalýza 2069, filosofie 1854,
+general 1807, přírodní vědy 1804, vědomí 1714):
+
+| balíček | úspěšnost | těžiště hlavní generace | pozn. |
+|---|---|---|---|
+| Kosmologie a fyzika | 100 % (11) | **1900** (1650–2150) | strop nenalezen, střílet vysoko |
+| Neurověda vědomí | 100 % (8) | **1900** (1650–2150) | strop nenalezen |
+| Evoluce a biologie | 89 % (9) | 1800 (1550–2050) | |
+| Dějiny filosofie | 88 % (24) | 1800 (1550–2050) | nahoře lepší než dole |
+| Technologie | 87 % (23) | 1800 (1550–2050) | |
+| Epistemologie | 85 % (26) | 1750 (1500–2000) | |
+| AI | 85 % (20) | 1750 (1500–2000) | |
+| Filosofie mysli | 83 % (6) | 1750 (1500–2000) | malý vzorek |
+| Theory of mind | 80 % (5) | 1750 (1500–2000) | malý vzorek |
+| Kvantovka | 75 % (4) | 1700 (1450–1950) | malý vzorek |
+| Crazy fakta | 67 % (21) | **1650** (1400–1900) | nahoře jen 45 % — nejtvrdší v generalu |
+| Etika | 63 % (8) | **1600** (1350–1850) | |
+| Logika a paradoxy | 57 % (7) | **1600** (1350–1850) | jediné, kde není o čem číst — čistá úvaha |
+| Živočichové | 40 % (10) | **1500** (1300–1750) | nejslabší; přidat víc spodních příček |
+| Psychoanalýza (celý obor) | 75 % na sondáži 1850–2150 | **2100** (1900–2350) | tvrdá vlna |
+
+Pravidlo pro příště: balíček se 100 % úspěšností = strop nenalezen →
+generovat výš než měřeno; balíček pod 50 % = spodní patro chybí →
+přidat lehčí příčky, ne jen těžké.
+
 ## Bobův profil (k 2026-08-23, ať víš, pro koho vyrábíš)
 
 - Elo psychoterapie **≈ 2140 a roste**; sondáž: 80 % úspěšnost na
