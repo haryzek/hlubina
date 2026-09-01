@@ -116,16 +116,16 @@
   "id": "epistemologie",
   "file": "epistemologie.json",
   "title": "Epistemologie",
-  "count": 20,
-  "version": 1,
+  "count": 100,
+  "version": 2,
   "obor": "filosofie"
  },
  {
   "id": "etika",
   "file": "etika.json",
   "title": "Etika",
-  "count": 20,
-  "version": 1,
+  "count": 100,
+  "version": 2,
   "obor": "filosofie"
  },
  {

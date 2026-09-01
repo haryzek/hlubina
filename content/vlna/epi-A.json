@@ -1,0 +1,514 @@
+[
+  {
+    "id": "epi-A01",
+    "type": "F",
+    "category": "epistemologie",
+    "text": "Podle podmínky „žádné nepravdivé lemma“ (no-false-lemmas) selhává Gettierův případ proto, že:",
+    "options": [
+      "závěr sice pravdivý je, ale subjekt si jeho pravdivostí není zcela jistý",
+      "opora pro závěr pochází od někoho, kdo se v dané věci sám mýlí",
+      "cesta k pravdivému závěru vede přes nepravdivé pomocné přesvědčení",
+      "subjekt nedokáže svůj závěr vyvodit korektním logickým odvozením"
+    ],
+    "correct": 2,
+    "explanation": "Nejstarší a nejjednodušší záplata na Gettiera žádá, aby zdůvodnění neprocházelo žádnou nepravdivou meziúvahou. V Gettierových původních příkladech skutečně jedno nepravdivé lemma najdeme. Potíž je, že později se objevily případy bez jakéhokoli nepravdivého mezikroku (Ginetova stodola, Chisholmova ovce), a záplata tedy nestačí.",
+    "source": "Michael Clark, Knowledge and Grounds (Analysis, 1963); Ginetův případ s falešnými stodolami",
+    "seedElo": 1800
+  },
+  {
+    "id": "epi-A02",
+    "type": "F",
+    "category": "epistemologie",
+    "text": "Kauzální teorie poznání, kterou navrhl Alvin Goldman roku 1967, žádá, aby:",
+    "options": [
+      "fakt, jenž činí přesvědčení pravdivým, byl příčinou tohoto přesvědčení",
+      "přesvědčení bylo výsledkem procesu s vysokým podílem pravdivých výstupů",
+      "subjekt měl vědomý přístup ke všem důvodům, o něž se opírá jeho úsudek",
+      "přesvědčení bylo v nejbližších možných světech pravdivé stejně jako zde"
+    ],
+    "correct": 0,
+    "explanation": "Goldman chtěl vyloučit šťastné náhody tím, že mezi fakt a přesvědčení vloží kauzální řetěz. Teorie ale naráží na poznání matematických a obecných pravd, které nic nezpůsobují, a na případy typu falešných stodol, kde kauzální spojení existuje, a přesto o vědění nemluvíme. Sám Goldman ji později opustil ve prospěch reliabilismu.",
+    "source": "Alvin Goldman, A Causal Theory of Knowing (Journal of Philosophy, 1967)",
+    "seedElo": 1750
+  },
+  {
+    "id": "epi-A03",
+    "type": "K",
+    "category": "epistemologie",
+    "text": "Co je jádrem procesuálního reliabilismu jako teorie zdůvodnění?",
+    "options": [
+      "Zdůvodněné je to přesvědčení, které se hladce vejde do sítě všech ostatních",
+      "Zdůvodnění plyne z důvodů, jež má subjekt vědomě k dispozici v mysli",
+      "Zdůvodněná jsou jen ta přesvědčení, jež nelze žádným způsobem popřít",
+      "Zdůvodněné je přesvědčení vzniklé procesem, který obvykle plodí pravdu"
+    ],
+    "correct": 3,
+    "explanation": "Reliabilismus přesouvá váhu z důvodů, které umím vyjmenovat, na spolehlivost mechanismu, jenž přesvědčení vyrobil — zrak, paměť, dobře kalibrovaný úsudek. Proto může vědět i malé dítě nebo zvíře, které by žádný důvod nesvedlo formulovat. Cenou je problém, jak proces vymezit tak, aby nebyl ani příliš úzký, ani příliš široký.",
+    "source": "Alvin Goldman, What Is Justified Belief? (1979)",
+    "seedElo": 1550
+  },
+  {
+    "id": "epi-A04",
+    "type": "K",
+    "category": "epistemologie",
+    "text": "Robert Nozick doplnil pravdivé přesvědčení podmínkami sledování pravdy. Které to jsou?",
+    "options": [
+      "Kdyby p bylo pravdivé, věřil bych p; a p by pak nutně muselo platit",
+      "Kdyby p neplatilo, nevěřil bych p; a kdyby p platilo, věřil bych p",
+      "Kdyby p neplatilo, věřil bych p; a kdyby p platilo, nevěřil bych p",
+      "Kdybych věřil p, bylo by p pravdivé; a kdyby p platilo, věděl bych to"
+    ],
+    "correct": 1,
+    "explanation": "Nozickova myšlenka je, že přesvědčení musí kopírovat pravdu napříč blízkými možnými světy: kdyby se svět změnil, změnilo by se i ono. První podmínka se nazývá senzitivita, druhá adherence. Vědění tak není otázkou toho, co umím dokázat, ale toho, jak by se moje mysl chovala, kdyby věci stály jinak.",
+    "source": "Robert Nozick, Philosophical Explanations (1981), kap. 3",
+    "seedElo": 1850
+  },
+  {
+    "id": "epi-A05",
+    "type": "K",
+    "category": "epistemologie",
+    "text": "V čem se liší podmínka bezpečnosti (safety) od podmínky senzitivity?",
+    "options": [
+      "Bezpečnost žádá, aby v blízkých světech, kde věřím p, bylo p pravdivé",
+      "Bezpečnost žádá, aby p platilo ve všech logicky myslitelných světech",
+      "Bezpečnost je jen jiné jméno pro senzitivitu, rozdíl je terminologický",
+      "Bezpečnost žádá, aby subjekt uměl vyloučit každou skeptickou hypotézu"
+    ],
+    "correct": 0,
+    "explanation": "Senzitivita vychází ze světů, kde p neplatí, a ptá se, zda bych tam ještě věřil; bezpečnost vychází ze světů, kde věřím, a ptá se, zda tam p platí. Nejde o pouhou obměnu téhož: bezpečnost zachovává uzavřenost vědění vůči implikaci a nevede k Nozickovu paradoxnímu důsledku, zatímco senzitivita ano.",
+    "source": "Ernest Sosa, How to Defeat Opposition to Moore (1999); Duncan Pritchard, Epistemic Luck (2005)",
+    "seedElo": 1900
+  },
+  {
+    "id": "epi-A06",
+    "type": "F",
+    "category": "epistemologie",
+    "text": "Nozickova teorie sledování pravdy má proslulý důsledek, že:",
+    "options": [
+      "vědění je uzavřené vůči implikaci, a skepse je proto zcela vyvrácena",
+      "veškeré vědění o vnějším světě se ukazuje být pouhou iluzí smyslů",
+      "senzitivní přesvědčení nemohou být nikdy zdůvodněná ani pravdivá",
+      "vědění není uzavřené vůči známé implikaci, což ruší skeptický argument"
+    ],
+    "correct": 3,
+    "explanation": "Že mám ruce, je senzitivní přesvědčení: kdybych ruce neměl, poznal bych to. Že nejsem klamaný démonem, senzitivní není — kdybych klamán byl, věřil bych témuž. Nozick tedy přijímá, že vím první věc, aniž vím druhou, ačkoli z první druhá plyne. Většina epistemologů to pokládá za cenu příliš vysokou.",
+    "source": "Robert Nozick, Philosophical Explanations (1981)",
+    "seedElo": 1950
+  },
+  {
+    "id": "epi-A07",
+    "type": "K",
+    "category": "epistemologie",
+    "text": "Jak je vystavěn skeptický argument opřený o princip uzavřenosti vědění?",
+    "options": [
+      "Z toho, že vím o rukou, plyne, že vím i o všech svých dalších částech",
+      "Nevím, že nejsem klamán; vědění o rukou by to zahrnovalo; tedy nevím",
+      "Vím-li cokoli o světě, pak jsem již vyvrátil všechny možné hypotézy",
+      "Protože smysly občas klamou, nelze jim věřit v jednotlivém případě"
+    ],
+    "correct": 1,
+    "explanation": "Argument má tvar modu tollens: uzavřenost říká, že vím-li p a vím, že p implikuje q, vím i q. Skeptik doplní, že nevím, zda nejsem klamán, a odtud odvodí, že nevím ani to, co by tuto možnost vylučovalo. Odpovědi se dělí podle toho, kterou premisu obětují — Moore poslední, Nozick samu uzavřenost.",
+    "source": "Keith DeRose, Solving the Skeptical Problem (1995)",
+    "seedElo": 1700
+  },
+  {
+    "id": "epi-A08",
+    "type": "K",
+    "category": "epistemologie",
+    "text": "Co odlišuje internalismus od externalismu ve zdůvodnění?",
+    "options": [
+      "Internalista vyžaduje pravdivost, externalista se spokojí s koherencí",
+      "Internalista mluví o vědění, externalista pouze o pouhém přesvědčení",
+      "Internalista žádá, aby zdůvodňující faktory byly subjektu přístupné",
+      "Internalista považuje smyslové vjemy za nespolehlivé, externalista ne"
+    ],
+    "correct": 2,
+    "explanation": "Spor se točí kolem otázky, zda musí být to, co mé přesvědčení zdůvodňuje, dostupné mé vlastní reflexi. Internalista trvá na tom, že ano — jinak by zdůvodnění nebylo mé. Externalista namítá, že rozhodující je faktický vztah ke světu (spolehlivost, kauzalita), i kdyby o něm subjekt nic netušil.",
+    "source": "Laurence BonJour vs. Alvin Goldman, Epistemic Justification (2003)",
+    "seedElo": 1600
+  },
+  {
+    "id": "epi-A09",
+    "type": "F",
+    "category": "epistemologie",
+    "text": "Myšlenkovým experimentem s jasnovidcem Normanem chtěl Laurence BonJour ukázat, že:",
+    "options": [
+      "spolehlivý proces zaručuje zdůvodnění i bez pravdivosti výsledků",
+      "koherence sama nestačí, chybí-li přesvědčením opora ve zkušenosti",
+      "poznání vnějšího světa vyžaduje kauzální kontakt s poznávaným faktem",
+      "spolehlivost procesu nestačí, nemá-li subjekt důvod mu vůbec věřit"
+    ],
+    "correct": 3,
+    "explanation": "Norman je zcela spolehlivý jasnovidec, ale sám o své schopnosti neví a nemá pro ni žádnou oporu; přesto mu v hlavě vyvstane pravdivé přesvědčení o pobytu prezidenta. Intuice říká, že Norman nic neví a jedná epistemicky nezodpovědně — a to je zbraň internalisty proti reliabilismu.",
+    "source": "Laurence BonJour, Externalist Theories of Empirical Knowledge (1980)",
+    "seedElo": 1850
+  },
+  {
+    "id": "epi-A10",
+    "type": "K",
+    "category": "epistemologie",
+    "text": "Co tvrdí fundacionalismus o struktuře zdůvodnění?",
+    "options": [
+      "Přesvědčení se navzájem podpírají a žádné z nich nemá zvláštní roli",
+      "Existují bazální přesvědčení, jež nesou ostatní a sama oporu nežádají",
+      "Řetěz důvodů je nekonečný, ale to zdůvodnění nijak neohrožuje",
+      "Zdůvodnění je vždy relativní k praktickému zájmu daného společenství"
+    ],
+    "correct": 1,
+    "explanation": "Fundacionalista zastavuje regres důvodů u vrstvy základních přesvědčení — u Descarta jsou to jasné a zřetelné ideje, u empiriků smyslová data. Ostatní přesvědčení se o ně opírají jednosměrně. Hlavní tlak na tuto pozici tvoří otázka, jak může něco zdůvodňovat, aniž je to samo zdůvodněné.",
+    "source": "René Descartes, Meditace o první filosofii; Roderick Chisholm, Theory of Knowledge",
+    "seedElo": 1550
+  },
+  {
+    "id": "epi-A11",
+    "type": "K",
+    "category": "epistemologie",
+    "text": "Klasická námitka izolace míří proti koherentismu tvrzením, že:",
+    "options": [
+      "žádná soustava přesvědčení nemůže být nakonec dokonale bezrozporná",
+      "koherence je pojem tak vágní, že jej nelze vůbec nijak spolehlivě měřit",
+      "vnitřně soudržný příběh může být zcela odtržen od skutečného světa",
+      "kruh v odůvodnění je logická chyba, jíž se koherentista dopouští"
+    ],
+    "correct": 2,
+    "explanation": "Dobře napsaný román je koherentní až běda, a přesto o světě neříká nic. Námitka tedy zní, že koherence sama nezaručuje kontakt se skutečností a připouští více stejně soudržných, ale neslučitelných soustav. Koherentisté odpovídají zpravidla tím, že do systému započítávají i pozorovací přesvědčení se zvláštní vahou.",
+    "source": "Laurence BonJour, The Structure of Empirical Knowledge (1985)",
+    "seedElo": 1700
+  },
+  {
+    "id": "epi-A12",
+    "type": "F",
+    "category": "epistemologie",
+    "text": "Infinitismus, jejž hájí Peter Klein, řeší Agrippovo trilema tím, že:",
+    "options": [
+      "přijímá nekonečný a nekruhový řetěz důvodů jako zdroj zdůvodnění",
+      "hledá bazální přesvědčení, u nichž se řetěz důvodů legitimně zastaví",
+      "odmítá lineární obraz a nahrazuje jej vzájemnou podporou přesvědčení",
+      "prohlašuje požadavek zdůvodnění za nesplnitelný, a proto zbytečný"
+    ],
+    "correct": 0,
+    "explanation": "Klein bere třetí rameno trilematu vážně: zdůvodnění podle něj vzniká tím, že je vždy k dispozici další důvod, nikoli tím, že řetěz někde skončí. Nekonečnost přitom nemá být psychologická — nikdo nemusí nekonečně mnoho vět skutečně myslet, stačí, že jsou dostupné. Kritici namítají, že takto se zdůvodnění nikdy nedokončí.",
+    "source": "Peter Klein, Human Knowledge and the Infinite Regress of Reasons (1999)",
+    "seedElo": 1900
+  },
+  {
+    "id": "epi-A13",
+    "type": "K",
+    "category": "epistemologie",
+    "text": "Které tři možnosti nabízí Agrippovo (münchhausenské) trilema?",
+    "options": [
+      "Nekonečný regres, protiklad a mlčení tváří v tvář otázce po důvodu",
+      "Nekonečný regres, kruh v důkazu a svévolné zastavení u předpokladu",
+      "Nekonečný regres, indukce a odvolání se na autoritu tradice a zvyku",
+      "Nekonečný regres, analogie a smyslová zkušenost jako poslední instance"
+    ],
+    "correct": 1,
+    "explanation": "Antický skeptik Agrippa ukazuje, že každý pokus něco zdůvodnit skončí v jedné ze tří slepých uliček: buď se ptáme donekonečna, nebo se točíme v kruhu, nebo prostě přestaneme se ptát. Novější název münchhausenské trilema pochází od Hanse Alberta. Tři velké teorie struktury zdůvodnění odpovídají přesně těmto třem ramenům.",
+    "source": "Sextus Empiricus, Základy pyrrhonismu I; Hans Albert, Traktat über kritische Vernunft (1968)",
+    "seedElo": 1650
+  },
+  {
+    "id": "epi-A14",
+    "type": "F",
+    "category": "epistemologie",
+    "text": "V Chisholmově podání problému kritéria se metodista od partikularisty liší tím, že:",
+    "options": [
+      "začíná od jednotlivých případů vědění a metodu z nich teprve odvozuje",
+      "odmítá otázku po kritériu jako špatně položenou a vrací se ke zvyku",
+      "nejprve stanoví kritérium vědění a teprve pak třídí jednotlivé případy",
+      "tvrdí, že kritérium i případy poznáváme současně a nezávisle na sobě"
+    ],
+    "correct": 2,
+    "explanation": "Problém kritéria je kruh: kritérium vědění potřebuji, abych určil, co vím, ale kritérium samo lze ověřit jen na případech, o nichž už vím. Metodista začíná kritériem (typicky empirista), partikularista začíná od zjevných případů (Chisholm sám, později i Moore). Skeptik tvrdí, že začít nelze ani jedním koncem.",
+    "source": "Roderick Chisholm, The Problem of the Criterion (1973)",
+    "seedElo": 1900
+  },
+  {
+    "id": "epi-A15",
+    "type": "F",
+    "category": "epistemologie",
+    "text": "Wilfrid Sellars svým „mýtem daného“ napadá představu, že:",
+    "options": [
+      "smyslová danost může zdůvodňovat, aniž by sama byla pojmově uchopena",
+      "všechna naše přesvědčení tvoří jedinou vzájemně provázanou soustavu",
+      "jazyk pozorování je zcela neutrální vůči teoriím, jež se jím vyjadřují",
+      "vjemy jsou příliš prchavé, než aby si je paměť dokázala kdy udržet"
+    ],
+    "correct": 0,
+    "explanation": "Sellars tvrdí, že cokoli hraje roli důvodu, musí být součástí „prostoru důvodů“ — tedy mít pojmový obsah, který lze potvrzovat a zpochybňovat. Čistě daný počitek pak buď pojmový je (a potřebuje sám zdůvodnění), nebo není (a pak nemůže nic podpírat). Je to nejostřejší útok na klasický empiristický fundacionalismus.",
+    "source": "Wilfrid Sellars, Empiricism and the Philosophy of Mind (1956)",
+    "seedElo": 1950
+  },
+  {
+    "id": "epi-A16",
+    "type": "K",
+    "category": "epistemologie",
+    "text": "Čím se apriorní poznání liší od aposteriorního?",
+    "options": [
+      "Apriorní poznání se týká jen budoucnosti, aposteriorní jen minulosti",
+      "Apriorní poznání je vždy jisté, aposteriorní je vždy jen pravděpodobné",
+      "Apriorní poznání se týká pojmů, aposteriorní výhradně vlastních jmen",
+      "Apriorní poznání nečerpá zdůvodnění ze zkušenosti, aposteriorní ano"
+    ],
+    "correct": 3,
+    "explanation": "Rozdíl je epistemický, tedy o zdroji zdůvodnění, nikoli o obsahu nebo o čase. Zkušenost přitom může být potřeba k tomu, abych vůbec získal pojmy (co je trojúhelník), aniž by zdůvodňovala samotný soud. A apriorní poznání nemusí být neomylné — matematici se ve svých důkazech běžně mýlí.",
+    "source": "Immanuel Kant, Kritika čistého rozumu, úvod",
+    "seedElo": 1500
+  },
+  {
+    "id": "epi-A17",
+    "type": "K",
+    "category": "epistemologie",
+    "text": "Kdy dav odhaduje lépe než jednotlivec a kdy jeho výhoda mizí?",
+    "options": [
+      "Uspěje při nezávislých odhadech, selže, když se lidé navzájem ovlivní",
+      "Uspěje, jsou-li všichni odborníci, selže, jakmile mezi ně vstoupí laik",
+      "Uspěje u velkých čísel, selže vždy, když je otázka jen kvalitativní",
+      "Uspěje při hlasování většinou, selže při jakémkoli jiném pravidle"
+    ],
+    "correct": 0,
+    "explanation": "Průměr mnoha odhadů funguje proto, že se nezávislé chyby vzájemně vyruší; Condorcetův porotní teorém dává obdobný výsledek pro hlasování, pokud je každý hlas o něco lepší než mince a hlasy jsou nezávislé. Jakmile se lidé slyší navzájem, chyby se korelují a dav se stádovitě sesune k jedné hodnotě.",
+    "source": "Condorcet, Essai sur l'application de l'analyse (1785); Lorenz et al., PNAS (2011)",
+    "seedElo": 1550
+  },
+  {
+    "id": "epi-A18",
+    "type": "F",
+    "category": "epistemologie",
+    "text": "Která dvě dogmata empirismu odmítá Quine ve svém slavném článku z roku 1951?",
+    "options": [
+      "Existenci syntetických soudů a možnost apriorního poznání vůbec",
+      "Rozlišení pozorování a teorie a víru v jediný jazyk celé vědy",
+      "Rozlišení analytického a syntetického a redukcionismus o významu",
+      "Odmítnutí metafyziky a představu vědy jako sbírky dobře ověřených vět"
+    ],
+    "correct": 2,
+    "explanation": "Quine tvrdí, že hranici mezi pravdami danými významem a pravdami danými světem nelze nekruhově vymezit: analytičnost se definuje přes synonymii, synonymie přes nutnost, nutnost zase přes analytičnost. Druhé dogma je představa, že každá věta má svůj vlastní soubor potvrzujících zkušeností.",
+    "source": "W. V. O. Quine, Two Dogmas of Empiricism (Philosophical Review, 1951)",
+    "seedElo": 1700
+  },
+  {
+    "id": "epi-A19",
+    "type": "F",
+    "category": "epistemologie",
+    "text": "Co Miranda Frickerová nazývá testimoniální nespravedlností?",
+    "options": [
+      "Situaci, kdy mluvčí vědomě lže, a přesto mu posluchač plně důvěřuje",
+      "Nedostatek pojmů, jimiž by člověk pojmenoval vlastní zkušenost křivdy",
+      "Nerovný přístup ke vzdělání, jenž brání části lidí získávat poznatky",
+      "Snížení důvěryhodnosti mluvčího kvůli předsudku o jeho skupině"
+    ],
+    "correct": 3,
+    "explanation": "Jde o křivdu spáchanou na někom právě v jeho roli poznávajícího: posluchač mu kvůli identitnímu předsudku přiřkne menší váhu, než jaká mu náleží. Frickerová to ilustruje na Tomu Robinsonovi z Jako zabít ptáčka. Ctností, která tomu má bránit, je testimoniální spravedlnost — reflektovaná korekce vlastních automatických odhadů.",
+    "source": "Miranda Fricker, Epistemic Injustice: Power and the Ethics of Knowing (2007)",
+    "seedElo": 1750
+  },
+  {
+    "id": "epi-A20",
+    "type": "K",
+    "category": "epistemologie",
+    "text": "Jak se má rozlišení nutné/kontingentní k rozlišení apriorní/aposteriorní?",
+    "options": [
+      "Splývají: nutné je právě to apriorní a kontingentní právě to aposteriorní",
+      "Jde o odlišné osy — metafyzickou a epistemickou, jež se mohou křížit",
+      "Nutnost je vlastnost vět, apriornost vlastnost předmětů ve světě",
+      "Kontingentní tvrzení jsou vždy analytická, nutná naopak syntetická"
+    ],
+    "correct": 1,
+    "explanation": "Nutnost se ptá, jak by věci mohly být; apriornost, jak se o nich dozvídáme. Tradice od Kanta obě osy do značné míry ztotožňovala, ale Kripke ukázal, že se rozcházejí: existují nutné pravdy poznatelné jen zkušeností a kontingentní pravdy poznatelné bez ní. Přidáme-li osu analytické/syntetické, dostaneme tři nezávislá rozlišení.",
+    "source": "Saul Kripke, Naming and Necessity (1980), přednáška I",
+    "seedElo": 1850
+  },
+  {
+    "id": "epi-A21",
+    "type": "F",
+    "category": "epistemologie",
+    "text": "Který příklad uvádí Saul Kripke jako nutnou, a přesto aposteriorní pravdu?",
+    "options": [
+      "Každý svobodný muž je neženatý, což se dozvídáme pouze ze zkušenosti",
+      "Etalon v Sèvres měří jeden metr, což platí v každém možném světě",
+      "Zítra bude buď pršet, nebo pršet nebude, jak ukazuje pozorování",
+      "Večernice je totožná s Jitřenkou, což odhalilo až astronomické bádání"
+    ],
+    "correct": 3,
+    "explanation": "Jsou-li „Večernice“ a „Jitřenka“ rigidní designátory, označují týž předmět ve všech možných světech, takže jejich totožnost je nutná — a přece ji nikdo neuhodl od stolu, musela ji objevit astronomie. Stejnou strukturu mají i „voda je H2O“ nebo „zlato má atomové číslo 79“.",
+    "source": "Saul Kripke, Naming and Necessity (1980)",
+    "seedElo": 1650
+  },
+  {
+    "id": "epi-A22",
+    "type": "F",
+    "category": "epistemologie",
+    "text": "Proč je podle Kripka věta „etalon v Sèvres měří jeden metr“ kontingentní apriorní?",
+    "options": [
+      "Zavádí jméno pomocí délky, kterou tyč mohla mít i jinou, než ji má",
+      "Popisuje nutnou vlastnost tyče, o níž se přesvědčíme až měřením",
+      "Je analytická, a proto zároveň nutná i poznatelná bez zkušenosti",
+      "Vyjadřuje pouhou konvenci, a proto vůbec nemá žádnou pravdivostní hodnotu"
+    ],
+    "correct": 0,
+    "explanation": "Kdo takto zavádí jednotku, ví bez měření, že věta platí — v tom je apriorní. Zároveň je kontingentní: kdyby byla tyč zahřátá, měřila by víc, a přesto by jeden metr zůstal touž délkou, jakou fixovala původní situace. Popis tu tedy slouží jen k určení reference, nikoli k vyjádření významu.",
+    "source": "Saul Kripke, Naming and Necessity (1980), přednáška I",
+    "seedElo": 1900
+  },
+  {
+    "id": "epi-A23",
+    "type": "K",
+    "category": "epistemologie",
+    "text": "Co ukazuje Pascalova sázka o vztahu epistemické a praktické racionality?",
+    "options": [
+      "Že důkaz Boží existence lze převést na výpočet očekávané hodnoty",
+      "Že mít přesvědčení se může vyplácet, aniž je pro ně jakýkoli důkaz",
+      "Že praktické důsledky přesvědčení jsou vždy zároveň jeho důkazem",
+      "Že bez důkazu je racionální jen zdržet se soudu v každé takové věci"
+    ],
+    "correct": 1,
+    "explanation": "Sázka nedokazuje, že Bůh je; ukazuje, že věřit se vyplatí. To jsou dva různé druhy racionality: epistemická se ptá po opoře v důkazech, praktická po užitku z jednání. Odtud i klasická námitka, že přesvědčení si nelze prostě zvolit — Pascal proto radí obřady a zvyk, tedy nepřímou cestu.",
+    "source": "Blaise Pascal, Myšlenky, fragment o sázce",
+    "seedElo": 1650
+  },
+  {
+    "id": "epi-A24",
+    "type": "K",
+    "category": "epistemologie",
+    "text": "Co tvrdí teze o pragmatickém zásahu (pragmatic encroachment) do vědění?",
+    "options": [
+      "Vědění je pouze nástroj jednání a nemá žádnou samostatnou hodnotu",
+      "Slovo „vědět“ mění význam podle nároků kladených v daném rozhovoru",
+      "Zda subjekt ví, může záviset i na tom, co pro něj stojí v sázce",
+      "Praktická jistota je slabší formou téhož, čemu říkáme jistota vědecká"
+    ],
+    "correct": 2,
+    "explanation": "V klasickém příkladu s bankou dva lidé mají stejný důkaz o tom, že je v sobotu otevřeno, ale jen jednomu hrozí při omylu pohroma — a intuice říká, že ten ví méně. Na rozdíl od kontextualismu tu nejde o význam slova u mluvčího, nýbrž o samu podmínku vědění u subjektu. Kritici namítají, že do poznání propašovává cizí, neepistemický faktor.",
+    "source": "Jason Stanley, Knowledge and Practical Interests (2005); Fantl & McGrath (2002)",
+    "seedElo": 1850
+  },
+  {
+    "id": "epi-A25",
+    "type": "K",
+    "category": "epistemologie",
+    "text": "Co je hlavní tezí kontextualismu o slovese „vědět“, jak jej hájí Keith DeRose?",
+    "options": [
+      "Že člověk ví tím spíše, čím více kontextu o dané věci nastřádal",
+      "Že pravdivost výroků o vědění závisí na kontextu, v němž je pronášíme",
+      "Že vědění samo kolísá podle toho, jak subjekt zrovna prožívá jistotu",
+      "Že skepse platí v každém kontextu, a běžná mluva je proto nepřesná"
+    ],
+    "correct": 1,
+    "explanation": "Kontextualista je sémantická teze o slově, ne o světě: v hospodě stačí k „vím, že mám auto na parkovišti“ málo, ve filosofickém semináři, kde se mluví o démonech, se laťka zvedne. Tím lze uznat, že mluvíme pravdu obojí — běžně i když skeptikovi ustoupíme. Rivalem je pragmatický zásah, který mění podmínky vědění, nikoli význam slova.",
+    "source": "Keith DeRose, Contextualism and Knowledge Attributions (1992); The Case for Contextualism (2009)",
+    "seedElo": 1750
+  },
+  {
+    "id": "epi-A26",
+    "type": "K",
+    "category": "epistemologie",
+    "text": "V čem spočívá napětí mezi epistemickou autonomií a spoléháním na experty?",
+    "options": [
+      "Expert nikdy nemůže mít pravdu, pokud mu laik nerozumí do detailu",
+      "Autonomie žádá, aby si laik ověřil každé tvrzení vlastním pokusem",
+      "Spoléhání na experty je vždy klam, neboť odborníci si běžně odporují",
+      "Laik nemá jak posoudit obsah, musí tedy posuzovat důvěryhodnost zdroje"
+    ],
+    "correct": 3,
+    "explanation": "Ideál „mysli si sám“ naráží na dělbu poznávací práce: nikdo nemá kapacitu ověřit si klimatologii i farmakologii. Řešením není rezignace na autonomii, ale její přesun o patro výš — z posuzování obsahu na posuzování známek spolehlivosti, jako jsou dosavadní bilance, nezávislost a kvalita odpovědí na námitky.",
+    "source": "Alvin Goldman, Experts: Which Ones Should You Trust? (2001)",
+    "seedElo": 1950
+  },
+  {
+    "id": "epi-A27",
+    "type": "F",
+    "category": "epistemologie",
+    "text": "Co je jádrem epistemického disjunktivismu, jak jej rozvíjí Duncan Pritchard?",
+    "options": [
+      "V dobrém případě je důvodem sám fakt, že vidím, jak se věci mají",
+      "Zdání je v dobrém i klamném případě totéž, liší se jen následky",
+      "Vědění se rozpadá na dva odlišné druhy, jež nelze převést jeden na druhý",
+      "Vjem sám nezdůvodňuje, dokud jej nepodepře soubor dalších soudů"
+    ],
+    "correct": 0,
+    "explanation": "Disjunktivista popírá „nejvyšší společný faktor“: halucinace a skutečné vidění nesdílejí týž epistemický základ. Ve zdařilém případě je mým důvodem faktivní stav — to, že vidím, že pes leží na koberci — a ten je zároveň vnější (zaručuje pravdu) i reflexivně přístupný. Pritchard v tom vidí zbraň proti skepsi bez oběti internalismu.",
+    "source": "Duncan Pritchard, Epistemological Disjunctivism (2012); John McDowell, Criteria, Defeasibility, and Knowledge (1982)",
+    "seedElo": 2000
+  },
+  {
+    "id": "epi-A28",
+    "type": "F",
+    "category": "epistemologie",
+    "text": "Co přesně podle Descarta prokazuje jeho „myslím, tedy jsem“?",
+    "options": [
+      "Že tělo i mysl existují, neboť jedno bez druhého myslet nemůže",
+      "Že vnější svět existuje, protože jinak by nebylo o čem pochybovat",
+      "Že v okamžiku myšlení nemohu pochybovat o vlastní existenci",
+      "Že Bůh existuje, a nemůže mě tedy soustavně klamat o mém bytí"
+    ],
+    "correct": 2,
+    "explanation": "Cogito je záchytný bod uprostřed metodické pochybnosti: i kdyby mě klamal všemocný démon, musím existovat, abych mohl být klamán. Descartes přitom nezískává nic o těle ani o světě — jen jistotu o existenci myslící věci, a to vždy jen po dobu, kdy myslí.",
+    "source": "René Descartes, Meditace o první filosofii (1641), Meditace druhá",
+    "seedElo": 1500
+  },
+  {
+    "id": "epi-A29",
+    "type": "F",
+    "category": "epistemologie",
+    "text": "Co Frickerová označuje jako hermeneutickou nespravedlnost?",
+    "options": [
+      "Odepření slova ve veřejné debatě kvůli nedostatku formálního vzdělání",
+      "Znevěrohodnění výpovědi kvůli předsudku vůči skupině daného mluvčího",
+      "Chybějící sdílený pojem, jímž by člověk uchopil a sdělil svou zkušenost",
+      "Špatný výklad textu, jenž jeho autorovi podsouvá cizí a mylné záměry"
+    ],
+    "correct": 2,
+    "explanation": "Zde nejde o jednotlivého nedůvěřivého posluchače, ale o mezeru ve společném pojmovém vybavení, která znevýhodňuje ty, kdo se na jeho tvorbě nemohli podílet. Frickerovým příkladem je doba před tím, než se ustavil pojem sexuálního obtěžování: zkušenost existovala, jazyk pro ni ne. Testimoniální nespravedlnost je proti tomu individuální a předsudečná.",
+    "source": "Miranda Fricker, Epistemic Injustice (2007), kap. 7",
+    "seedElo": 1800
+  },
+  {
+    "id": "epi-A30",
+    "type": "F",
+    "category": "epistemologie",
+    "text": "Jakou strategii volí G. E. Moore proti skepsi svým „zde je ruka“?",
+    "options": [
+      "Ukazuje, že skeptický závěr si vnitřně odporuje, a je tedy nesmyslný",
+      "Obrací argument: jistota o ruce je větší než jistota o premisách",
+      "Tvrdí, že o rukou víme apriorně, a skepse se jich proto netýká",
+      "Dokazuje spolehlivost smyslů opakovaným a pečlivě vedeným pozorováním"
+    ],
+    "correct": 1,
+    "explanation": "Moore skeptikův argument nevyvrací zevnitř — bere jej jako platný a otáčí jej. Máme-li platný argument, můžeme jej číst zdola nahoru i shora dolů; a protože si jsem existencí své ruky jistější než kteroukoli skeptickou premisou, mám vydat spíš premisu než závěr. Odtud se tomuto tahu říká mooreovský obrat.",
+    "source": "G. E. Moore, Proof of an External World (1939)",
+    "seedElo": 1650
+  },
+  {
+    "id": "epi-A31",
+    "type": "F",
+    "category": "epistemologie",
+    "text": "Jakou roli mají v knize O jistotě takzvané pantové (hinge) výroky?",
+    "options": [
+      "Jsou to nejlépe doložené empirické poznatky, jaké věda dosud získala",
+      "Jsou to analytické pravdy, jež platí pouze na základě svého významu",
+      "Jsou to hypotézy, které je nutné soustavně a nemilosrdně prověřovat",
+      "Nejsou zkoumány, nýbrž drží se pevně, aby se vůbec dalo pochybovat"
+    ],
+    "correct": 3,
+    "explanation": "Wittgenstein přirovnává tvrzení jako „Země existovala dlouho před mým narozením“ k pantu, kolem něhož se dveře otáčejí: sám se netočí, ale bez něj by pohyb nebyl možný. Takové věty nejsou ani zdůvodněné, ani nezdůvodněné — stojí mimo hru dokazování a tvoří teprve její rámec. Skeptik proto podle něj nechápe gramatiku slova pochybovat.",
+    "source": "Ludwig Wittgenstein, O jistotě (1969), § 341–343",
+    "seedElo": 1800
+  },
+  {
+    "id": "epi-A32",
+    "type": "F",
+    "category": "epistemologie",
+    "text": "Jak se liší redukcionismus a antiredukcionismus ohledně svědectví druhých?",
+    "options": [
+      "Redukcionista žádá nezávislé doklady o spolehlivosti daného zdroje",
+      "Redukcionista pokládá svědectví za základní a dále nerozložitý zdroj",
+      "Redukcionista tvrdí, že svědectví nemůže poznání založit vůbec nikdy",
+      "Redukcionista zkoumá jen obsah výpovědi, nikoli osobu jejího mluvčího"
+    ],
+    "correct": 0,
+    "explanation": "Humovská linie chce oprávnění ke svědectví odvodit z něčeho jiného — z vlastní zkušenosti, že lidé zpravidla mluví pravdu. Reidova linie namítá, že takovou induktivní základnu nikdo nemá (kolik výpovědí jste sami ověřili?) a že svědectví je pramen stejně původní jako vnímání či paměť. Spor tedy je o to, zda důvěra potřebuje zálohu předem, nebo až při selhání.",
+    "source": "David Hume, Zkoumání o lidském rozumu, X; Thomas Reid, Inquiry into the Human Mind (1764)",
+    "seedElo": 1850
+  }
+]

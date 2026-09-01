@@ -1,0 +1,514 @@
+[
+  {
+    "id": "eti-C01",
+    "type": "F",
+    "category": "etika",
+    "text": "Sokratovi se připisuje teze, že „nikdo nechybuje dobrovolně\". Co z ní plyne?",
+    "options": [
+      "Špatné jednání pramení z neznalosti dobra",
+      "Špatné jednání pramení ze slabé vůle",
+      "Špatné jednání pramení ze špatné výchovy",
+      "Špatné jednání pramení z vrozené zloby"
+    ],
+    "correct": 0,
+    "explanation": "Sokratés je morální intelektualista: kdo skutečně ví, co je dobré, ten to i koná. Zdánlivá slabost vůle je podle něj vždy jen omyl v poznání toho, co člověku prospívá. Proti tomu později Aristotelés postavil pojem akrasie, tedy jednání proti vlastnímu lepšímu vědění.",
+    "source": "Platón, Prótagoras",
+    "seedElo": 1400
+  },
+  {
+    "id": "eti-C02",
+    "type": "K",
+    "category": "etika",
+    "text": "K čemu slouží v Platónově Ústavě příběh o Gýgově prstenu, který činí neviditelným?",
+    "options": [
+      "Ukazuje, že bohové trestají i skryté činy",
+      "Ptá se, zda je spravedlnost jen ze strachu",
+      "Dokazuje, že moc vždycky kazí charakter",
+      "Vysvětluje původ zákonů v přírodním právu"
+    ],
+    "correct": 1,
+    "explanation": "Glaukón nabízí myšlenkový pokus: kdyby člověk mohl beztrestně cokoli, choval by se ještě spravedlivě? Pokud ne, je spravedlnost jen nedobrovolný kompromis ze strachu z odplaty. Zbytek Ústavy je Sokratova odpověď, že spravedlnost prospívá duši samotné, bez ohledu na následky.",
+    "source": "Platón, Ústava II",
+    "seedElo": 1500
+  },
+  {
+    "id": "eti-C03",
+    "type": "K",
+    "category": "etika",
+    "text": "Co bylo jádrem etiky kyniků, jak ji ztělesňoval Diogenés ze Sinópy?",
+    "options": [
+      "Ctnost je službou obci a jejím posvátným zvykům",
+      "Ctnost je vyvážené užívání majetku i slávy",
+      "Ctnost je soběstačnost a život podle přirozenosti",
+      "Ctnost je poslušnost vůči bohům a věštbám"
+    ],
+    "correct": 2,
+    "explanation": "Kynikové tvrdili, že ke štěstí stačí ctnost a ta spočívá v nezávislosti na majetku, pověsti i konvencích. Provokativní chování mělo být praktickou ukázkou, že společenské zvyklosti jsou libovolné. Tento důraz na soběstačnost později převzali a zjemnili stoikové.",
+    "source": "Diogenés Laertský, Životy filosofů VI",
+    "seedElo": 1450
+  },
+  {
+    "id": "eti-C04",
+    "type": "F",
+    "category": "etika",
+    "text": "Na jakém rozlišení staví Epiktétos celou svou etiku?",
+    "options": [
+      "Mezi tím, co je příjemné, a co bolestné",
+      "Mezi tím, co je zákonné, a co je zvykové",
+      "Mezi tím, co je božské, a co je lidské",
+      "Mezi tím, co je v naší moci, a co není"
+    ],
+    "correct": 3,
+    "explanation": "Rukojeť otevírá tvrzením, že v naší moci jsou soudy, tužby a jednání, nikoli tělo, majetek či pověst. Neštěstí podle Epiktéta vzniká, když toužíme ovládat to, co ovládat nelze. Etika se tak stává cvičením v přesném rozpoznávání této hranice.",
+    "source": "Epiktétos, Rukojeť 1",
+    "seedElo": 1400
+  },
+  {
+    "id": "eti-C05",
+    "type": "K",
+    "category": "etika",
+    "text": "Co stoikové mysleli pojmem oikeiósis?",
+    "options": [
+      "Postupné rozšiřování okruhu toho, co je nám vlastní",
+      "Cvičení v odmítání všech tělesných potřeb a vazeb",
+      "Uzavření mudrce do soukromí zahrady mezi přáteli",
+      "Splynutí jednotlivce s věčným koloběhem znovuzrození"
+    ],
+    "correct": 0,
+    "explanation": "Oikeiósis znamená „přivlastňování\": tvor nejprve pečuje o sebe, pak o blízké a posléze rozšiřuje péči na soustředné kruhy až k celému lidstvu. Tím stoikové odvozovali kosmopolitní povinnosti z přirozeného sklonu, ne z abstraktního příkazu. Je to jejich odpověď na otázku, proč nám vůbec mají záležet cizí lidé.",
+    "source": "Hierokles; Cicero, O povinnostech",
+    "seedElo": 1800
+  },
+  {
+    "id": "eti-C06",
+    "type": "K",
+    "category": "etika",
+    "text": "Co znamená stoická apatheia?",
+    "options": [
+      "Naprostou lhostejnost k osudu druhých lidí",
+      "Svobodu od ničivých vášní, ne od citů",
+      "Potlačení všech emocí silou vůle a zvyku",
+      "Trvalou nehybnost mysli i tělesných reakcí"
+    ],
+    "correct": 1,
+    "explanation": "Apatheia je nepřítomnost pathé, tedy vášní založených na chybných soudech o dobru a zlu. Stoikové zároveň uznávali takzvané eupatheiai, dobré afekty jako radost či opatrnost, i bezděčné první pohnutí mysli. Nejde tedy o city zabít, ale nenechat se jimi vláčet na základě omylu.",
+    "source": "Seneca, O duševním klidu",
+    "seedElo": 1600
+  },
+  {
+    "id": "eti-C07",
+    "type": "K",
+    "category": "etika",
+    "text": "Kterou složku původního stoicismu dnešní popkulturní verze nejčastěji vynechává?",
+    "options": [
+      "Cvičení v soustředění a ranní rutinu",
+      "Důraz na sebekázeň a odolnost vůči bolesti",
+      "Rozlišování mezi věcmi v naší moci a mimo ni",
+      "Kosmopolitní povinnost vůči druhým lidem"
+    ],
+    "correct": 3,
+    "explanation": "Populární „stoicismus\" bere techniky osobní odolnosti, ale odřezává metafyziku i sociální etiku. Původní nauka staví na tom, že jsme části rozumného celku a máme povinnosti ke všem lidem jako spoluobčanům světa. Bez toho zbývá spíš návod na výkon než filosofie.",
+    "source": "Pierre Hadot, Filosofie jako způsob života",
+    "seedElo": 1700
+  },
+  {
+    "id": "eti-C08",
+    "type": "F",
+    "category": "etika",
+    "text": "Co Epikuros doopravdy doporučoval jako cestu ke slasti?",
+    "options": [
+      "Neustálé střídání silných smyslových zážitků",
+      "Odříkání až na hranici tělesného vyčerpání",
+      "Skromný život mezi přáteli a bez strachu",
+      "Podřízení soukromých tužeb zájmům obce a státu"
+    ],
+    "correct": 2,
+    "explanation": "Epikuros cílil na ataraxii, nerušenost mysli, a nejvýše hodnotil slast spočívající v nepřítomnosti bolesti a strachu. Doporučoval proto uspokojovat jen přirozené a nutné touhy, pěstovat přátelství a nebát se bohů ani smrti. Slovo „epikurejec\" ve smyslu labužníka je pozdější pomluva.",
+    "source": "Epikúros, List Menoikeovi",
+    "seedElo": 1450
+  },
+  {
+    "id": "eti-C09",
+    "type": "K",
+    "category": "etika",
+    "text": "Jak Augustin vysvětluje původ zla ve stvořeném světě?",
+    "options": [
+      "Zlo je nedostatek dobra, plod zneužité svobody",
+      "Zlo je samostatná síla bojující proti dobru",
+      "Zlo je nutná stránka hmoty, kterou stvořil bůh",
+      "Zlo je pouhá iluze, kterou rozptýlí poznání"
+    ],
+    "correct": 0,
+    "explanation": "Augustin opustil manichejský dualismus a pojal zlo jako privaci, chybění dobra, nikoli jako věc s vlastní podstatou. Mravní zlo pak vzniká odvrácením svobodné vůle od většího dobra k menšímu. Tím chtěl zbavit stvořitele odpovědnosti za hřích a přenést ji na volbu.",
+    "source": "Augustinus, Vyznání VII",
+    "seedElo": 1550
+  },
+  {
+    "id": "eti-C10",
+    "type": "F",
+    "category": "etika",
+    "text": "Na čem podle Tomáše Akvinského stojí přirozený zákon?",
+    "options": [
+      "Na dohodě panovníků potvrzené církevním právem",
+      "Na zjevení, které rozum nemůže nijak postihnout",
+      "Na účasti rozumné bytosti na věčném zákoně",
+      "Na zvycích, jež si každý národ utváří sám"
+    ],
+    "correct": 2,
+    "explanation": "Akvinský definuje přirozený zákon jako podíl rozumného tvora na věčném zákoně, který lze poznat rozumem bez zjevení. Z přirozených sklonů k sebezachování, plození a poznání pravdy odvozuje základní mravní příkazy. Zjevený zákon tuto rozumovou vrstvu doplňuje, ale neruší.",
+    "source": "Tomáš Akvinský, Summa theologiae I-II",
+    "seedElo": 1600
+  },
+  {
+    "id": "eti-C11",
+    "type": "K",
+    "category": "etika",
+    "text": "Co Machiavelli ve Vladaři tvrdí o poměru politiky a mravnosti?",
+    "options": [
+      "Vládce má být vždy ctnostný, i za cenu pádu státu",
+      "Vládce se musí umět neřídit dobrem, žádá-li to nutnost",
+      "Politika je zcela nezávislá na jakémkoli hodnocení mravů",
+      "Mravnost soukromá i státní se řídí týmiž pravidly"
+    ],
+    "correct": 1,
+    "explanation": "Machiavelli neruší mravní měřítka, ale tvrdí, že vládce, který chce udržet stát, se musí naučit „nebýt dobrý\", když to okolnosti vyžadují. Otevírá tím problém špinavých rukou: politické jednání může být nutné a přitom zůstat vinou. Zdrojem měřítka je u něj přežití a sláva obce, ne osobní spása.",
+    "source": "Machiavelli, Vladař XV",
+    "seedElo": 1600
+  },
+  {
+    "id": "eti-C12",
+    "type": "K",
+    "category": "etika",
+    "text": "Co je podle závěru Spinozovy Etiky nejvyšší dobro člověka?",
+    "options": [
+      "Naprosté potlačení všech afektů silou vůle",
+      "Poslušnost vůči zjevenému božímu zákonu a obřadům",
+      "Slast, kterou nepřevažuje pozdější bolest",
+      "Poznání boha čili přírody a radost z něj"
+    ],
+    "correct": 3,
+    "explanation": "Spinoza vykládá etiku geometrickým způsobem, po vzoru Euklida, a vrcholí u amor Dei intellectualis, rozumové lásky k bohu čili přírodě. Afekty se nepotlačují vůlí, ale oslabují tím, že je adekvátně poznáme jako součást nutného řádu. Blaženost pak podle jeho poslední věty není odměnou za ctnost, nýbrž ctností samou.",
+    "source": "Spinoza, Etika V",
+    "seedElo": 1750
+  },
+  {
+    "id": "eti-C13",
+    "type": "F",
+    "category": "etika",
+    "text": "Jakou roli přisuzuje Hume rozumu v morálním hodnocení?",
+    "options": [
+      "Rozum sám objevuje mravní zákon v přirozenosti",
+      "Rozum odvozuje povinnost z pojmu rozumné bytosti",
+      "Rozum nemá s jednáním člověka vůbec nic společného",
+      "Rozum je otrokem vášní; hodnocení pochází z citu"
+    ],
+    "correct": 3,
+    "explanation": "Hume tvrdí, že rozum zjišťuje fakta a vztahy, ale sám nikdy nemotivuje k jednání; k tomu je třeba vášeň či cit. Mravní schválení je proto zvláštní druh příjemného pocitu, který v nás vzbuzuje povaha či čin. Rozum přitom není zbytečný, slouží citu jako navigace ve faktech.",
+    "source": "Hume, Pojednání o lidské přirozenosti II",
+    "seedElo": 1450
+  },
+  {
+    "id": "eti-C14",
+    "type": "K",
+    "category": "etika",
+    "text": "Co Hume myslel „sympatií\" jakožto mechanismem mravního hodnocení?",
+    "options": [
+      "Soucit s trpícími, jenž popírá vůli k životu",
+      "Přenos citů mezi lidmi, díky němuž je sdílíme",
+      "Vrozený mravní smysl nezávislý na zkušenosti",
+      "Vypočítavou náklonnost k těm, kdo nám prospívají"
+    ],
+    "correct": 1,
+    "explanation": "Sympatie u Huma není soucit, ale komunikační mechanismus: představa cizího citu v nás oživne do podoby citu vlastního. Protože sympatie přirozeně kolísá podle blízkosti, potřebujeme korekci v podobě obecného stanoviska, z něhož soudíme nestranně. Odtud vede přímá linka ke Smithovu nestrannému divákovi.",
+    "source": "Hume, Pojednání o lidské přirozenosti III",
+    "seedElo": 1650
+  },
+  {
+    "id": "eti-C15",
+    "type": "F",
+    "category": "etika",
+    "text": "Která postava je klíčem Smithovy Teorie mravních citů?",
+    "options": [
+      "Nestranný divák, kterého si v sobě vytváříme",
+      "Neviditelná ruka řídící sobecké zájmy trhu",
+      "Společenská smlouva uzavřená mezi občany",
+      "Přirozený zákon vepsaný do rozumu člověka"
+    ],
+    "correct": 0,
+    "explanation": "Smith vysvětluje svědomí jako zvnitřněný pohled nezaujatého pozorovatele, jehož schvalování hledáme. Mravnost tak vyrůstá ze společenské zkušenosti se zrcadlením, ne z kalkulu ani z čistého rozumu. Autor Bohatství národů byl především profesorem morální filosofie a obě knihy pokládal za slučitelné.",
+    "source": "Adam Smith, Teorie mravních citů",
+    "seedElo": 1600
+  },
+  {
+    "id": "eti-C16",
+    "type": "K",
+    "category": "etika",
+    "text": "Co Nietzsche sleduje v Genealogii morálky?",
+    "options": [
+      "Logický důkaz, že morálka je pouhá iluze",
+      "Odvození mravnosti z předpokladů čistého rozumu",
+      "Dějinný vznik mravních hodnot a zájmy za nimi",
+      "Popis mravního citu jako vrozeného instinktu"
+    ],
+    "correct": 2,
+    "explanation": "Genealogie je metoda: místo otázky, co je dobro, se ptá, kdy a z jakých potřeb dané hodnocení vzniklo. Nietzsche chce ukázat, že hodnota morálky sama potřebuje zhodnotit, protože mohla vzniknout z podmínek, které dnes neplatí. Nejde tedy o logické vyvrácení, ale o dějinné odhalení původu.",
+    "source": "Nietzsche, Genealogie morálky",
+    "seedElo": 1500
+  },
+  {
+    "id": "eti-C17",
+    "type": "K",
+    "category": "etika",
+    "text": "Čím se podle Nietzscheho liší morálka otroků od morálky pánů?",
+    "options": [
+      "Rodí se ze síly a začíná u pojmu dobrý",
+      "Rodí se ze soucitu a končí u zřeknutí vůle",
+      "Rodí se z rozumu a začíná u pojmu povinnost",
+      "Rodí se z ressentimentu a začíná u zlého"
+    ],
+    "correct": 3,
+    "explanation": "Morálka pánů podle Nietzscheho hodnotí spontánně a kladně: nejprve říká „dobrý\" o sobě, teprve pak „špatný\" o ostatních. Morálka otroků je reaktivní, vychází z ressentimentu vůči silnému a nejprve ustaví pojem „zlý\", z jehož popření odvodí své dobro. Nejde o dvě skupiny lidí, ale o dva typy hodnotících gest.",
+    "source": "Nietzsche, Genealogie morálky I",
+    "seedElo": 1650
+  },
+  {
+    "id": "eti-C18",
+    "type": "K",
+    "category": "etika",
+    "text": "Které tvrzení Nietzschemu odporuje, ačkoli se mu běžně připisuje?",
+    "options": [
+      "Že křesťanská morálka má dějinný, lidský původ",
+      "Že silní mají mít právo libovolně týrat slabé",
+      "Že přehodnocení hodnot vyžaduje tvořivou sílu",
+      "Že soucit může být pro život oslabující silou"
+    ],
+    "correct": 1,
+    "explanation": "Nietzsche nehlásá program brutality vůči slabým; „přehodnocení všech hodnot\" míří na tvorbu nových měřítek, ne na povolení k násilí. Jeho ideál vznešenosti zahrnuje sebepřekonání a kázeň, přičemž pomstychtivá krutost je pro něj typickým projevem ressentimentu. Militaristické čtení pochází z pozdějších úprav a výběrů, nikoli z jeho argumentu.",
+    "source": "Nietzsche, Mimo dobro a zlo",
+    "seedElo": 1700
+  },
+  {
+    "id": "eti-C19",
+    "type": "K",
+    "category": "etika",
+    "text": "Co Kierkegaard nazývá teleologickou suspenzí etična?",
+    "options": [
+      "Případ, kdy víra staví jedince nad obecnou normu",
+      "Chvíli, kdy stát pozastaví platnost mravních zákonů",
+      "Stav, kdy estetický požitek nahradí mravní volbu",
+      "Okamžik, kdy rozum odhalí neplatnost všech norem"
+    ],
+    "correct": 0,
+    "explanation": "V Bázni a chvění čte Kierkegaard Abrahámovu oběť jako situaci, kdy jednotlivec ve vztahu k absolutnu dočasně přesahuje obecně platné mravní pravidlo. Rytíř víry přitom nemůže své jednání ospravedlnit řečí, kterou by obec pochopila, a nese úzkost sám. Kierkegaard tím nechválí porušování norem, ale odkrývá napětí mezi vírou a etikou.",
+    "source": "Kierkegaard, Bázeň a chvění",
+    "seedElo": 1650
+  },
+  {
+    "id": "eti-C20",
+    "type": "F",
+    "category": "etika",
+    "text": "V čem Schopenhauer spatřuje jediný pravý základ morálky?",
+    "options": [
+      "V rozumovém nahlédnutí obecného zákona",
+      "Ve výpočtu slasti a strasti všech dotčených",
+      "V soucitu, jenž stírá hranici mezi já a ty",
+      "Ve zvyku a výchově k ušlechtilým sklonům"
+    ],
+    "correct": 2,
+    "explanation": "Podle Schopenhauera je jediným nesobeckým motivem soucit, v němž prohlédneme individuaci a poznáme v druhém touž vůli, jakou jsme my sami. Z něj odvozuje dvě ctnosti: spravedlnost jako neubližování a lásku k bližnímu jako činnou pomoc. Jeho etika je proto blízká indickému myšlení, které dobře znal.",
+    "source": "Schopenhauer, O základu morálky",
+    "seedElo": 1550
+  },
+  {
+    "id": "eti-C21",
+    "type": "K",
+    "category": "etika",
+    "text": "Jak Marx nahlíží na panující morálku dané doby?",
+    "options": [
+      "Jako na věčný zákon nezávislý na dějinách lidstva",
+      "Jako na výsledek dohody svobodných jedinců",
+      "Jako na výraz vrozeného mravního citu lidí",
+      "Jako na ideologii vyrůstající z výrobních vztahů"
+    ],
+    "correct": 3,
+    "explanation": "Marx čte mravní představy jako součást nadstavby, jež odráží a zároveň zakrývá zájmy panující třídy. Odmítá proto budovat socialismus na apelu ke spravedlnosti a hledá vysvětlení v dějinách výrobních vztahů. Vzniká tím známý paradox: jeho vlastní kritika vykořisťování zní silně hodnotově.",
+    "source": "Marx a Engels, Německá ideologie",
+    "seedElo": 1550
+  },
+  {
+    "id": "eti-C22",
+    "type": "K",
+    "category": "etika",
+    "text": "Co u Lévinase znamená „tvář druhého\"?",
+    "options": [
+      "Obraz, v němž poznáváme své vlastní lidské rysy",
+      "Zdroj nároku, jenž mě zavazuje dřív než volba",
+      "Masku, za níž se skrývá vůle k moci a zisku",
+      "Symbol lidské důstojnosti daný společností"
+    ],
+    "correct": 1,
+    "explanation": "Tvář není u Lévinase vzhled, ale způsob, jímž se druhý vymyká mým pojmům a přímo mě oslovuje zákazem zabít. Odpovědnost tedy nezakládám svým rozhodnutím, nýbrž ji nacházím jako už uloženou, a proto je etika „první filosofií\". Vztah k druhému je nesymetrický: mé závazky nezávisí na tom, co druhý udělá pro mě.",
+    "source": "Lévinas, Totalita a nekonečno",
+    "seedElo": 1800
+  },
+  {
+    "id": "eti-C23",
+    "type": "K",
+    "category": "etika",
+    "text": "Co Hannah Arendtová mínila výrazem „banalita zla\"?",
+    "options": [
+      "Že velké zlo může konat i člověk bez myšlení",
+      "Že zlo páchají lidé posedlí démonickou nenávistí",
+      "Že zlo je vždy jen nedostatkem dobra ve světě",
+      "Že zlo se rodí z chudoby a špatných poměrů"
+    ],
+    "correct": 0,
+    "explanation": "Arendtová popsala pachatele, jehož hybnou silou nebyla démonická zloba, ale kariérismus, fráze a naprostá neschopnost uvažovat z místa druhého. Zlo tak podle ní může mít obrovské následky a přitom žádnou hloubku motivu. Odtud její pozdější zájem o myšlení jako o možnou překážku páchání zla.",
+    "source": "Arendtová, Eichmann v Jeruzalémě",
+    "seedElo": 1600
+  },
+  {
+    "id": "eti-C24",
+    "type": "K",
+    "category": "etika",
+    "text": "Co Arendtová pojmem banality zla naopak NEtvrdila?",
+    "options": [
+      "Že Eichmann byl nemyslící úředník bez fantazie",
+      "Že zlo nemusí mít hloubku ani velký motiv",
+      "Že pachatelé nenesou za své činy odpovědnost",
+      "Že myšlení může být obranou proti páchání zla"
+    ],
+    "correct": 2,
+    "explanation": "Nejčastější dezinterpretace čte banalitu zla jako omluvu typu „byl to jen šroubek v mašinerii\". Arendtová naopak zprávu uzavírá důrazem na osobní vinu a soud nad Eichmannem výslovně obhajuje. Tvrdí, že absence hlubokého motivu odpovědnost nijak neruší.",
+    "source": "Arendtová, Eichmann v Jeruzalémě",
+    "seedElo": 1750
+  },
+  {
+    "id": "eti-C25",
+    "type": "K",
+    "category": "etika",
+    "text": "Co Bernard Williams vytýká tomu, čemu říká „morální systém\"?",
+    "options": [
+      "Že se opírá o city místo o pevné rozumové důvody",
+      "Že opomíjí božský původ mravního zákona v duši",
+      "Že nedokáže vysvětlit vznik státu a jeho moci",
+      "Že vinu a povinnost staví nad zbytek života"
+    ],
+    "correct": 3,
+    "explanation": "Williams míří na moderní podobu etiky, která vše převádí na obligaci a viníka a vytlačuje ostatní hodnoty. Proti tomu klade celoživotní projekty, z nichž člověk žije a které dávají jeho jednání smysl; jejich obětování abstraktní nestrannosti nazývá útokem na integritu. Antickou etickou otázku „jak žít\" považuje za bohatší než otázku „co jsem povinen\".",
+    "source": "Bernard Williams, Ethics and the Limits of Philosophy",
+    "seedElo": 1850
+  },
+  {
+    "id": "eti-C26",
+    "type": "F",
+    "category": "etika",
+    "text": "Co znamená konfuciánský pojem žen (ren)?",
+    "options": [
+      "Prázdnotu, v níž mizí rozdíl mezi já a světem",
+      "Lidskost, jež se uskutečňuje ve vztazích k druhým",
+      "Nečinnost, jež nechává věci plynout samy sebou",
+      "Neubližování, tedy zdrženlivost vůči všemu živému"
+    ],
+    "correct": 1,
+    "explanation": "Ren se překládá jako lidskost či lidumilnost a znak sám spojuje člověka s číslovkou dva. Konfuciánská etika je vztahová: ctnost se pěstuje v konkrétních poutech, počínaje synovskou úctou v rodině, a odtud se rozšiřuje navenek. Ideálem není abstraktní pravidlo, ale ušlechtilý člověk (ťün-c'), který jedná přiměřeně situaci.",
+    "source": "Konfucius, Hovory",
+    "seedElo": 1450
+  },
+  {
+    "id": "eti-C27",
+    "type": "K",
+    "category": "etika",
+    "text": "Jakou roli hraje v konfuciánské etice li, tedy obřadnost a slušnost?",
+    "options": [
+      "Nahrazuje vnitřní ctnost vnějším formalismem",
+      "Zakazuje veškeré obřady jako pokrytecké divadlo",
+      "Utváří ctnost skrze zvládnuté formy jednání",
+      "Váže jednání na trest stanovený psaným zákonem"
+    ],
+    "correct": 2,
+    "explanation": "Li jsou zvládnuté formy chování, od obřadu po zdvořilost, jimiž se vnitřní lidskost učí a projevuje. Konfucius výslovně odmítá obřad bez vnitřního postoje jako prázdný, ale stejně tak odmítá dobrý úmysl bez kultivované formy. Vládu skrze rituál a příklad staví výš než vládu skrze tresty.",
+    "source": "Konfucius, Hovory",
+    "seedElo": 1700
+  },
+  {
+    "id": "eti-C28",
+    "type": "F",
+    "category": "etika",
+    "text": "Co znamená taoistické wu-wej?",
+    "options": [
+      "Jednání bez násilného úsilí, v souladu s tao",
+      "Naprostou nečinnost a únik z lidské společnosti",
+      "Přísné plnění obřadních povinností vůči předkům",
+      "Ovládnutí vášní cvičením vůle a sebekázně"
+    ],
+    "correct": 0,
+    "explanation": "Wu-wej se doslova překládá jako „nekonání\", míní se však nevnucování se, jednání bez umělé námahy proti přirozenému běhu věcí. Vzorem je voda, která je poddajná a přesto přemáhá tvrdé. Taoisté odtud kritizují konfuciánskou snahu vychovávat ctnost pravidly jako zdroj pokrytectví.",
+    "source": "Lao-c', Tao te ťing",
+    "seedElo": 1400
+  },
+  {
+    "id": "eti-C29",
+    "type": "K",
+    "category": "etika",
+    "text": "Co karma v buddhistické etice především znamená?",
+    "options": [
+      "Neměnný osud určený už při narození člověka",
+      "Trest, který uděluje nejvyšší soudící božstvo",
+      "Odplatu, kterou pachateli vrací společnost",
+      "Souvislost mezi záměrem činu a jeho následky"
+    ],
+    "correct": 3,
+    "explanation": "Karma doslova znamená čin a Buddha ji ztotožnil se záměrem, čétaná: mravně rozhodující je úmysl, z něhož jednání vychází. Nejde tedy o předurčený osud ani o rozsudek božstva, nýbrž o zákonitost, podle níž jednání utváří charakter i budoucí zkušenost. Právě proto je etika nácvikem, kterým lze směr své karmy měnit.",
+    "source": "Anguttara-nikája",
+    "seedElo": 1500
+  },
+  {
+    "id": "eti-C30",
+    "type": "F",
+    "category": "etika",
+    "text": "Co je v mahájánové etice ideálem bódhisattvy?",
+    "options": [
+      "Dosáhnout vysvobození co nejrychleji jen pro sebe",
+      "Odložit vlastní vysvobození kvůli všem bytostem",
+      "Získat zásluhy obřady a dary chrámovým kněžím",
+      "Vyhnout se jednání, jež by mohlo vytvořit karmu"
+    ],
+    "correct": 1,
+    "explanation": "Bódhisattva skládá slib usilovat o probuzení pro dobro všech cítících bytostí a nevstoupit do nirvány, dokud trpí druzí. Soucit (karuná) tu není doplňkem moudrosti, ale její nutnou druhou stranou. Šántidéva to opírá o úvahu, že hranice mezi mým a cizím utrpením je stejně konvenční jako hranice mezi mnou včerejším a dnešním.",
+    "source": "Šántidéva, Bódhičarjávatára",
+    "seedElo": 1650
+  },
+  {
+    "id": "eti-C31",
+    "type": "F",
+    "category": "etika",
+    "text": "Jak daleko sahá v džinismu zásada ahimsá?",
+    "options": [
+      "Zakazuje ubližovat jen lidem, ne ostatním tvorům",
+      "Platí pouze pro mnichy, laiků se vůbec netýká",
+      "Vztahuje se na všechny bytosti včetně nejmenších",
+      "Připouští násilí, jde-li o obranu vlastní obce"
+    ],
+    "correct": 2,
+    "explanation": "Džinisté připisují duši i drobným organismům a rostlinám, takže neubližování rozšiřují dál než kterákoli jiná tradice, včetně cezení vody a zametání cesty. Laici drží mírnější podobu slibu, mniši nejpřísnější. Přes Gándhího tato zásada zásadně ovlivnila moderní myšlení o nenásilí.",
+    "source": "Tattvárthasútra",
+    "seedElo": 1550
+  },
+  {
+    "id": "eti-C32",
+    "type": "K",
+    "category": "etika",
+    "text": "Co vyjadřuje jihoafrická etická představa ubuntu?",
+    "options": [
+      "Člověk je člověkem skrze druhé lidi",
+      "Člověk se rodí jako nepopsaná deska",
+      "Člověk má hledat blaho hlavně sám v sobě",
+      "Člověk je mírou všech věcí kolem sebe"
+    ],
+    "correct": 0,
+    "explanation": "Ubuntu shrnuje zuluské rčení, podle nějž je člověk člověkem skrze jiné lidi: osobnost se ustavuje ve vztazích, ne v izolovaném já. Etickým jádrem je pak péče o soudržnost společenství a obnova narušených vztahů. V tomto duchu byl rámován i jihoafrický proces smíření po apartheidu, který kladl obnovu vztahu nad odplatu.",
+    "source": "Desmond Tutu, No Future Without Forgiveness",
+    "seedElo": 1450
+  }
+]

@@ -1,0 +1,962 @@
+[
+ {
+  "id": "epi-A01",
+  "text": "Podle podmínky „žádné nepravdivé lemma“ (no-false-lemmas) selhává Gettierův případ proto, že:",
+  "options": [
+   "závěr sice pravdivý je, ale subjekt si jeho pravdivostí není zcela jistý",
+   "opora pro závěr pochází od někoho, kdo se v dané věci sám mýlí",
+   "cesta k pravdivému závěru vede přes nepravdivé pomocné přesvědčení",
+   "subjekt nedokáže svůj závěr vyvodit korektním logickým odvozením"
+  ]
+ },
+ {
+  "id": "epi-A02",
+  "text": "Kauzální teorie poznání, kterou navrhl Alvin Goldman roku 1967, žádá, aby:",
+  "options": [
+   "fakt, jenž činí přesvědčení pravdivým, byl příčinou tohoto přesvědčení",
+   "přesvědčení bylo výsledkem procesu s vysokým podílem pravdivých výstupů",
+   "subjekt měl vědomý přístup ke všem důvodům, o něž se opírá jeho úsudek",
+   "přesvědčení bylo v nejbližších možných světech pravdivé stejně jako zde"
+  ]
+ },
+ {
+  "id": "epi-A03",
+  "text": "Co je jádrem procesuálního reliabilismu jako teorie zdůvodnění?",
+  "options": [
+   "Zdůvodněné je to přesvědčení, které se hladce vejde do sítě všech ostatních",
+   "Zdůvodnění plyne z důvodů, jež má subjekt vědomě k dispozici v mysli",
+   "Zdůvodněná jsou jen ta přesvědčení, jež nelze žádným způsobem popřít",
+   "Zdůvodněné je přesvědčení vzniklé procesem, který obvykle plodí pravdu"
+  ]
+ },
+ {
+  "id": "epi-A04",
+  "text": "Robert Nozick doplnil pravdivé přesvědčení podmínkami sledování pravdy. Které to jsou?",
+  "options": [
+   "Kdyby p bylo pravdivé, věřil bych p; a p by pak nutně muselo platit",
+   "Kdyby p neplatilo, nevěřil bych p; a kdyby p platilo, věřil bych p",
+   "Kdyby p neplatilo, věřil bych p; a kdyby p platilo, nevěřil bych p",
+   "Kdybych věřil p, bylo by p pravdivé; a kdyby p platilo, věděl bych to"
+  ]
+ },
+ {
+  "id": "epi-A05",
+  "text": "V čem se liší podmínka bezpečnosti (safety) od podmínky senzitivity?",
+  "options": [
+   "Bezpečnost žádá, aby v blízkých světech, kde věřím p, bylo p pravdivé",
+   "Bezpečnost žádá, aby p platilo ve všech logicky myslitelných světech",
+   "Bezpečnost je jen jiné jméno pro senzitivitu, rozdíl je terminologický",
+   "Bezpečnost žádá, aby subjekt uměl vyloučit každou skeptickou hypotézu"
+  ]
+ },
+ {
+  "id": "epi-A06",
+  "text": "Nozickova teorie sledování pravdy má proslulý důsledek, že:",
+  "options": [
+   "vědění je uzavřené vůči implikaci, a skepse je proto zcela vyvrácena",
+   "veškeré vědění o vnějším světě se ukazuje být pouhou iluzí smyslů",
+   "senzitivní přesvědčení nemohou být nikdy zdůvodněná ani pravdivá",
+   "vědění není uzavřené vůči známé implikaci, což ruší skeptický argument"
+  ]
+ },
+ {
+  "id": "epi-A07",
+  "text": "Jak je vystavěn skeptický argument opřený o princip uzavřenosti vědění?",
+  "options": [
+   "Z toho, že vím o rukou, plyne, že vím i o všech svých dalších částech",
+   "Nevím, že nejsem klamán; vědění o rukou by to zahrnovalo; tedy nevím",
+   "Vím-li cokoli o světě, pak jsem již vyvrátil všechny možné hypotézy",
+   "Protože smysly občas klamou, nelze jim věřit v jednotlivém případě"
+  ]
+ },
+ {
+  "id": "epi-A08",
+  "text": "Co odlišuje internalismus od externalismu ve zdůvodnění?",
+  "options": [
+   "Internalista vyžaduje pravdivost, externalista se spokojí s koherencí",
+   "Internalista mluví o vědění, externalista pouze o pouhém přesvědčení",
+   "Internalista žádá, aby zdůvodňující faktory byly subjektu přístupné",
+   "Internalista považuje smyslové vjemy za nespolehlivé, externalista ne"
+  ]
+ },
+ {
+  "id": "epi-A09",
+  "text": "Myšlenkovým experimentem s jasnovidcem Normanem chtěl Laurence BonJour ukázat, že:",
+  "options": [
+   "spolehlivý proces zaručuje zdůvodnění i bez pravdivosti výsledků",
+   "koherence sama nestačí, chybí-li přesvědčením opora ve zkušenosti",
+   "poznání vnějšího světa vyžaduje kauzální kontakt s poznávaným faktem",
+   "spolehlivost procesu nestačí, nemá-li subjekt důvod mu vůbec věřit"
+  ]
+ },
+ {
+  "id": "epi-A10",
+  "text": "Co tvrdí fundacionalismus o struktuře zdůvodnění?",
+  "options": [
+   "Přesvědčení se navzájem podpírají a žádné z nich nemá zvláštní roli",
+   "Existují bazální přesvědčení, jež nesou ostatní a sama oporu nežádají",
+   "Řetěz důvodů je nekonečný, ale to zdůvodnění nijak neohrožuje",
+   "Zdůvodnění je vždy relativní k praktickému zájmu daného společenství"
+  ]
+ },
+ {
+  "id": "epi-A11",
+  "text": "Klasická námitka izolace míří proti koherentismu tvrzením, že:",
+  "options": [
+   "žádná soustava přesvědčení nemůže být nakonec dokonale bezrozporná",
+   "koherence je pojem tak vágní, že jej nelze vůbec nijak spolehlivě měřit",
+   "vnitřně soudržný příběh může být zcela odtržen od skutečného světa",
+   "kruh v odůvodnění je logická chyba, jíž se koherentista dopouští"
+  ]
+ },
+ {
+  "id": "epi-A12",
+  "text": "Infinitismus, jejž hájí Peter Klein, řeší Agrippovo trilema tím, že:",
+  "options": [
+   "přijímá nekonečný a nekruhový řetěz důvodů jako zdroj zdůvodnění",
+   "hledá bazální přesvědčení, u nichž se řetěz důvodů legitimně zastaví",
+   "odmítá lineární obraz a nahrazuje jej vzájemnou podporou přesvědčení",
+   "prohlašuje požadavek zdůvodnění za nesplnitelný, a proto zbytečný"
+  ]
+ },
+ {
+  "id": "epi-A13",
+  "text": "Které tři možnosti nabízí Agrippovo (münchhausenské) trilema?",
+  "options": [
+   "Nekonečný regres, protiklad a mlčení tváří v tvář otázce po důvodu",
+   "Nekonečný regres, kruh v důkazu a svévolné zastavení u předpokladu",
+   "Nekonečný regres, indukce a odvolání se na autoritu tradice a zvyku",
+   "Nekonečný regres, analogie a smyslová zkušenost jako poslední instance"
+  ]
+ },
+ {
+  "id": "epi-A14",
+  "text": "V Chisholmově podání problému kritéria se metodista od partikularisty liší tím, že:",
+  "options": [
+   "začíná od jednotlivých případů vědění a metodu z nich teprve odvozuje",
+   "odmítá otázku po kritériu jako špatně položenou a vrací se ke zvyku",
+   "nejprve stanoví kritérium vědění a teprve pak třídí jednotlivé případy",
+   "tvrdí, že kritérium i případy poznáváme současně a nezávisle na sobě"
+  ]
+ },
+ {
+  "id": "epi-A15",
+  "text": "Wilfrid Sellars svým „mýtem daného“ napadá představu, že:",
+  "options": [
+   "smyslová danost může zdůvodňovat, aniž by sama byla pojmově uchopena",
+   "všechna naše přesvědčení tvoří jedinou vzájemně provázanou soustavu",
+   "jazyk pozorování je zcela neutrální vůči teoriím, jež se jím vyjadřují",
+   "vjemy jsou příliš prchavé, než aby si je paměť dokázala kdy udržet"
+  ]
+ },
+ {
+  "id": "epi-A16",
+  "text": "Čím se apriorní poznání liší od aposteriorního?",
+  "options": [
+   "Apriorní poznání se týká jen budoucnosti, aposteriorní jen minulosti",
+   "Apriorní poznání je vždy jisté, aposteriorní je vždy jen pravděpodobné",
+   "Apriorní poznání se týká pojmů, aposteriorní výhradně vlastních jmen",
+   "Apriorní poznání nečerpá zdůvodnění ze zkušenosti, aposteriorní ano"
+  ]
+ },
+ {
+  "id": "epi-A17",
+  "text": "Kdy dav odhaduje lépe než jednotlivec a kdy jeho výhoda mizí?",
+  "options": [
+   "Uspěje při nezávislých odhadech, selže, když se lidé navzájem ovlivní",
+   "Uspěje, jsou-li všichni odborníci, selže, jakmile mezi ně vstoupí laik",
+   "Uspěje u velkých čísel, selže vždy, když je otázka jen kvalitativní",
+   "Uspěje při hlasování většinou, selže při jakémkoli jiném pravidle"
+  ]
+ },
+ {
+  "id": "epi-A18",
+  "text": "Která dvě dogmata empirismu odmítá Quine ve svém slavném článku z roku 1951?",
+  "options": [
+   "Existenci syntetických soudů a možnost apriorního poznání vůbec",
+   "Rozlišení pozorování a teorie a víru v jediný jazyk celé vědy",
+   "Rozlišení analytického a syntetického a redukcionismus o významu",
+   "Odmítnutí metafyziky a představu vědy jako sbírky dobře ověřených vět"
+  ]
+ },
+ {
+  "id": "epi-A19",
+  "text": "Co Miranda Frickerová nazývá testimoniální nespravedlností?",
+  "options": [
+   "Situaci, kdy mluvčí vědomě lže, a přesto mu posluchač plně důvěřuje",
+   "Nedostatek pojmů, jimiž by člověk pojmenoval vlastní zkušenost křivdy",
+   "Nerovný přístup ke vzdělání, jenž brání části lidí získávat poznatky",
+   "Snížení důvěryhodnosti mluvčího kvůli předsudku o jeho skupině"
+  ]
+ },
+ {
+  "id": "epi-A20",
+  "text": "Jak se má rozlišení nutné/kontingentní k rozlišení apriorní/aposteriorní?",
+  "options": [
+   "Splývají: nutné je právě to apriorní a kontingentní právě to aposteriorní",
+   "Jde o odlišné osy — metafyzickou a epistemickou, jež se mohou křížit",
+   "Nutnost je vlastnost vět, apriornost vlastnost předmětů ve světě",
+   "Kontingentní tvrzení jsou vždy analytická, nutná naopak syntetická"
+  ]
+ },
+ {
+  "id": "epi-A21",
+  "text": "Který příklad uvádí Saul Kripke jako nutnou, a přesto aposteriorní pravdu?",
+  "options": [
+   "Každý svobodný muž je neženatý, což se dozvídáme pouze ze zkušenosti",
+   "Etalon v Sèvres měří jeden metr, což platí v každém možném světě",
+   "Zítra bude buď pršet, nebo pršet nebude, jak ukazuje pozorování",
+   "Večernice je totožná s Jitřenkou, což odhalilo až astronomické bádání"
+  ]
+ },
+ {
+  "id": "epi-A22",
+  "text": "Proč je podle Kripka věta „etalon v Sèvres měří jeden metr“ kontingentní apriorní?",
+  "options": [
+   "Zavádí jméno pomocí délky, kterou tyč mohla mít i jinou, než ji má",
+   "Popisuje nutnou vlastnost tyče, o níž se přesvědčíme až měřením",
+   "Je analytická, a proto zároveň nutná i poznatelná bez zkušenosti",
+   "Vyjadřuje pouhou konvenci, a proto vůbec nemá žádnou pravdivostní hodnotu"
+  ]
+ },
+ {
+  "id": "epi-A23",
+  "text": "Co ukazuje Pascalova sázka o vztahu epistemické a praktické racionality?",
+  "options": [
+   "Že důkaz Boží existence lze převést na výpočet očekávané hodnoty",
+   "Že mít přesvědčení se může vyplácet, aniž je pro ně jakýkoli důkaz",
+   "Že praktické důsledky přesvědčení jsou vždy zároveň jeho důkazem",
+   "Že bez důkazu je racionální jen zdržet se soudu v každé takové věci"
+  ]
+ },
+ {
+  "id": "epi-A24",
+  "text": "Co tvrdí teze o pragmatickém zásahu (pragmatic encroachment) do vědění?",
+  "options": [
+   "Vědění je pouze nástroj jednání a nemá žádnou samostatnou hodnotu",
+   "Slovo „vědět“ mění význam podle nároků kladených v daném rozhovoru",
+   "Zda subjekt ví, může záviset i na tom, co pro něj stojí v sázce",
+   "Praktická jistota je slabší formou téhož, čemu říkáme jistota vědecká"
+  ]
+ },
+ {
+  "id": "epi-A25",
+  "text": "Co je hlavní tezí kontextualismu o slovese „vědět“, jak jej hájí Keith DeRose?",
+  "options": [
+   "Že člověk ví tím spíše, čím více kontextu o dané věci nastřádal",
+   "Že pravdivost výroků o vědění závisí na kontextu, v němž je pronášíme",
+   "Že vědění samo kolísá podle toho, jak subjekt zrovna prožívá jistotu",
+   "Že skepse platí v každém kontextu, a běžná mluva je proto nepřesná"
+  ]
+ },
+ {
+  "id": "epi-A26",
+  "text": "V čem spočívá napětí mezi epistemickou autonomií a spoléháním na experty?",
+  "options": [
+   "Expert nikdy nemůže mít pravdu, pokud mu laik nerozumí do detailu",
+   "Autonomie žádá, aby si laik ověřil každé tvrzení vlastním pokusem",
+   "Spoléhání na experty je vždy klam, neboť odborníci si běžně odporují",
+   "Laik nemá jak posoudit obsah, musí tedy posuzovat důvěryhodnost zdroje"
+  ]
+ },
+ {
+  "id": "epi-A27",
+  "text": "Co je jádrem epistemického disjunktivismu, jak jej rozvíjí Duncan Pritchard?",
+  "options": [
+   "V dobrém případě je důvodem sám fakt, že vidím, jak se věci mají",
+   "Zdání je v dobrém i klamném případě totéž, liší se jen následky",
+   "Vědění se rozpadá na dva odlišné druhy, jež nelze převést jeden na druhý",
+   "Vjem sám nezdůvodňuje, dokud jej nepodepře soubor dalších soudů"
+  ]
+ },
+ {
+  "id": "epi-A28",
+  "text": "Co přesně podle Descarta prokazuje jeho „myslím, tedy jsem“?",
+  "options": [
+   "Že tělo i mysl existují, neboť jedno bez druhého myslet nemůže",
+   "Že vnější svět existuje, protože jinak by nebylo o čem pochybovat",
+   "Že v okamžiku myšlení nemohu pochybovat o vlastní existenci",
+   "Že Bůh existuje, a nemůže mě tedy soustavně klamat o mém bytí"
+  ]
+ },
+ {
+  "id": "epi-A29",
+  "text": "Co Frickerová označuje jako hermeneutickou nespravedlnost?",
+  "options": [
+   "Odepření slova ve veřejné debatě kvůli nedostatku formálního vzdělání",
+   "Znevěrohodnění výpovědi kvůli předsudku vůči skupině daného mluvčího",
+   "Chybějící sdílený pojem, jímž by člověk uchopil a sdělil svou zkušenost",
+   "Špatný výklad textu, jenž jeho autorovi podsouvá cizí a mylné záměry"
+  ]
+ },
+ {
+  "id": "epi-A30",
+  "text": "Jakou strategii volí G. E. Moore proti skepsi svým „zde je ruka“?",
+  "options": [
+   "Ukazuje, že skeptický závěr si vnitřně odporuje, a je tedy nesmyslný",
+   "Obrací argument: jistota o ruce je větší než jistota o premisách",
+   "Tvrdí, že o rukou víme apriorně, a skepse se jich proto netýká",
+   "Dokazuje spolehlivost smyslů opakovaným a pečlivě vedeným pozorováním"
+  ]
+ },
+ {
+  "id": "epi-A31",
+  "text": "Jakou roli mají v knize O jistotě takzvané pantové (hinge) výroky?",
+  "options": [
+   "Jsou to nejlépe doložené empirické poznatky, jaké věda dosud získala",
+   "Jsou to analytické pravdy, jež platí pouze na základě svého významu",
+   "Jsou to hypotézy, které je nutné soustavně a nemilosrdně prověřovat",
+   "Nejsou zkoumány, nýbrž drží se pevně, aby se vůbec dalo pochybovat"
+  ]
+ },
+ {
+  "id": "epi-A32",
+  "text": "Jak se liší redukcionismus a antiredukcionismus ohledně svědectví druhých?",
+  "options": [
+   "Redukcionista žádá nezávislé doklady o spolehlivosti daného zdroje",
+   "Redukcionista pokládá svědectví za základní a dále nerozložitý zdroj",
+   "Redukcionista tvrdí, že svědectví nemůže poznání založit vůbec nikdy",
+   "Redukcionista zkoumá jen obsah výpovědi, nikoli osobu jejího mluvčího"
+  ]
+ },
+ {
+  "id": "epi-B01",
+  "text": "Verifikační kritérium smyslu tvrdilo, že smysluplná je jen věta empiricky ověřitelná nebo analytická. Proč se nakonec zhroutilo?",
+  "options": [
+   "Neumožňuje odlišit vědecké teorie od teorií metafyzických.",
+   "Odsuzuje jako nesmyslné i tvrzení matematiky a čisté logiky.",
+   "Samo není ani empiricky ověřitelné, ani analyticky pravdivé.",
+   "Předpokládá, že smysl věty určuje výhradně její pravdivost."
+  ]
+ },
+ {
+  "id": "epi-B02",
+  "text": "Co bylo hlavním programovým cílem Vídeňského kroužku kolem Moritze Schlicka?",
+  "options": [
+   "Očistit vědu od metafyziky pomocí logické analýzy jazyka.",
+   "Odvodit zákony přírody z apriorních principů čistého rozumu.",
+   "Ukázat, že vědecké teorie jsou jen užitečné sociální konvence.",
+   "Nahradit experiment formální dedukcí z matematických axiomů."
+  ]
+ },
+ {
+  "id": "epi-B03",
+  "text": "Co je v Lakatosově pojetí výzkumného programu „tvrdé jádro“?",
+  "options": [
+   "Soubor experimentů, které program dosud úspěšně předpověděl.",
+   "Pomocné hypotézy, které se při anomáliích obětují jako první.",
+   "Základní teze programu, které se z rozhodnutí nevyvracejí.",
+   "Metodologická pravidla určující, kdy program zcela opustit."
+  ]
+ },
+ {
+  "id": "epi-B04",
+  "text": "Test vyšel s p = 0,03. Co tato hodnota přesně vyjadřuje?",
+  "options": [
+   "Pravděpodobnost, že nulová hypotéza je pravdivá, je jen 3 %.",
+   "Pravděpodobnost, že se výsledek při zopakování potvrdí, je 97 %.",
+   "Pravděpodobnost, že jde o náhodu a ne o skutečný efekt, je 3 %.",
+   "Pravděpodobnost takto extrémních dat, pokud nulová hypotéza platí."
+  ]
+ },
+ {
+  "id": "epi-B05",
+  "text": "Prodej zmrzliny koreluje s počtem utonutí. Co je v tomto příkladu konfundující proměnná?",
+  "options": [
+   "Horké počasí, které nezávisle zvyšuje obě sledované veličiny.",
+   "Chyba měření, která oba údaje systematicky nadhodnocuje.",
+   "Malý vzorek, kvůli němuž korelace vyšla čistě náhodně.",
+   "Skrytý kauzální vliv zmrzliny na chování lidí u vody."
+  ]
+ },
+ {
+  "id": "epi-B06",
+  "text": "Proč randomizované přiřazení účastníků do skupin řeší problém konfundérů lépe než observační studie?",
+  "options": [
+   "Zaručuje, že skupiny budou ve všech ohledech naprosto totožné.",
+   "Rozděluje i neznámé rušivé vlivy mezi skupiny jen náhodně.",
+   "Odstraňuje ze studie vliv placeba a očekávání účastníků.",
+   "Zvyšuje statistickou sílu testu a tím snižuje riziko omylu."
+  ]
+ },
+ {
+  "id": "epi-B07",
+  "text": "Jak Paul Feyerabend mínil své proslulé heslo „anything goes“?",
+  "options": [
+   "Jako doporučení vědcům, aby přestali dbát na empirická data.",
+   "Jako tvrzení, že všechny teorie jsou stejně dobře podložené.",
+   "Jako ironický závěr: žádné pravidlo neplatí bez výjimky.",
+   "Jako obhajobu astrologie a jiných tradičních forem poznání."
+  ]
+ },
+ {
+  "id": "epi-B08",
+  "text": "Co podle konstruktivního empirismu Base van Fraassena znamená „přijmout teorii“?",
+  "options": [
+   "Věřit, že teorie pravdivě popisuje i nepozorovatelné entity.",
+   "Považovat ji za nástroj bez jakéhokoli obsahu o pravdivosti.",
+   "Věřit, že je pravdivá, protože jinak by její úspěch byl zázrak.",
+   "Věřit, že je empiricky adekvátní, a pracovat uvnitř ní."
+  ]
+ },
+ {
+  "id": "epi-B09",
+  "text": "Jak zní argument z „žádných zázraků“ (no-miracles) ve prospěch vědeckého realismu?",
+  "options": [
+   "Bez alespoň přibližné pravdivosti teorií by byl úspěch vědy zázrak.",
+   "Zázraky jsou vyloučeny, protože přírodní zákony nemají výjimky.",
+   "Věda vylučuje nadpřirozeno, tedy musí být její tvrzení pravdivá.",
+   "Opakovaná potvrzení teorie zvyšují její pravděpodobnost k jistotě."
+  ]
+ },
+ {
+  "id": "epi-B10",
+  "text": "Na čem stojí pesimistická metaindukce namířená proti vědeckému realismu?",
+  "options": [
+   "Na tom, že vědci se v jednotlivých měřeních poměrně často mýlí.",
+   "Na tom, že minulé úspěšné teorie se ukázaly být nepravdivé.",
+   "Na tom, že data vždy podpírají více vzájemně sporných teorií.",
+   "Na tom, že vědecké pojmy napříč teoriemi nelze vůbec srovnávat."
+  ]
+ },
+ {
+  "id": "epi-B11",
+  "text": "Co je inference k nejlepšímu vysvětlení (abdukce)?",
+  "options": [
+   "Odvození předpovědi z obecného zákona a počátečních podmínek.",
+   "Zobecnění z konečného počtu pozorovaných případů na všechny.",
+   "Přijetí hypotézy proto, že daný jev vysvětluje lépe než rivalové.",
+   "Vyloučení hypotézy, jakmile odporuje jedinému pozorování."
+  ]
+ },
+ {
+  "id": "epi-B12",
+  "text": "K čemu slouží Bradford Hillova kritéria (síla, konzistence, časová následnost, dávka-odpověď a další)?",
+  "options": [
+   "K výpočtu pravděpodobnosti nemoci u jednotlivého pacienta.",
+   "K formálnímu důkazu kauzality z pozorovacích dat.",
+   "K náhodnému přiřazení pacientů do léčebných větví studie.",
+   "K úsudku, zda pozorovaná asociace svědčí pro příčinnost."
+  ]
+ },
+ {
+  "id": "epi-B13",
+  "text": "Jak se v metodologii obvykle rozlišuje reprodukce a replikace výsledku?",
+  "options": [
+   "Reprodukce přepočítá stará data, replikace sbírá data nová.",
+   "Reprodukce sbírá nová data, replikace jen přepočítá stará.",
+   "Reprodukce je publikace v jiném časopise, replikace v témže.",
+   "Reprodukce je potvrzení teorie, replikace jejího vyvrácení."
+  ]
+ },
+ {
+  "id": "epi-B14",
+  "text": "Proti čemu především chrání předregistrace studie?",
+  "options": [
+   "Proti tomu, aby byl vzorek příliš malý na průkazný závěr.",
+   "Proti dodatečné úpravě hypotéz a analýz podle výsledků.",
+   "Proti tomu, aby data zpracoval někdo se střetem zájmů.",
+   "Proti chybám v samotném statistickém softwaru a výpočtech."
+  ]
+ },
+ {
+  "id": "epi-B15",
+  "text": "Co označuje efekt šuplíku (file drawer) a s ním spojený publikační bias?",
+  "options": [
+   "Časopisy odmítají studie, které replikují starší nálezy.",
+   "Autoři skrývají data, aby je konkurence nemohla použít.",
+   "Studie bez významného výsledku se častěji vůbec nepublikují.",
+   "Recenzenti zdržují rukopisy soupeřících výzkumných skupin."
+  ]
+ },
+ {
+  "id": "epi-B16",
+  "text": "Studie na 200 000 lidech našla rozdíl 0,2 bodu IQ mezi skupinami při p < 0,001. Co z toho plyne?",
+  "options": [
+   "Efekt je jistě reálný i prakticky důležitý, vzorek je obrovský.",
+   "Nízké p ukazuje, že efekt je velký a klinicky relevantní.",
+   "Výsledek je neplatný, protože příliš velký vzorek zkresluje.",
+   "Efekt je statisticky významný, ale prakticky zanedbatelný."
+  ]
+ },
+ {
+  "id": "epi-B17",
+  "text": "Co udává Cohenovo d?",
+  "options": [
+   "Velikost rozdílu průměrů v jednotkách směrodatné odchylky.",
+   "Podíl variability vysvětlené modelem oproti celkové.",
+   "Pravděpodobnost chyby prvního druhu při daném testu.",
+   "Počet subjektů nutný k dosažení požadované síly testu."
+  ]
+ },
+ {
+  "id": "epi-B18",
+  "text": "Jaký je nejzávažnější systematický limit metaanalýzy?",
+  "options": [
+   "Neumí kombinovat studie s různě velkými vzorky účastníků.",
+   "Zdědí zkreslení vstupních studií a publikačního výběru.",
+   "Vždy snižuje statistickou sílu oproti jednotlivým studiím.",
+   "Nelze ji použít, pokud studie měřily týž jev odlišně."
+  ]
+ },
+ {
+  "id": "epi-B19",
+  "text": "Čím se bayesovské pojetí pravděpodobnosti liší od frekventistického?",
+  "options": [
+   "Pracuje výhradně s daty a odmítá jakékoli předchozí domněnky.",
+   "Pravděpodobnost chápe jako limitu relativní četnosti jevu.",
+   "Přiřazuje pravděpodobnost i hypotézám, nejen četnostem jevů.",
+   "Nahrazuje hypotézy modely a vzdává se pojmu pravděpodobnosti."
+  ]
+ },
+ {
+  "id": "epi-B20",
+  "text": "Proč věda pracuje s idealizacemi typu „dokonale tuhé těleso“ nebo „bezetřecí rovina“, o nichž ví, že jsou nepravdivé?",
+  "options": [
+   "Protože takové objekty v přírodě skutečně existují.",
+   "Protože idealizace zpřesňuje měření odstraněním chyb.",
+   "Protože bez nich by teorie nešla vůbec matematizovat.",
+   "Protože zjednodušení odhalí, které faktory jsou podstatné."
+  ]
+ },
+ {
+  "id": "epi-B21",
+  "text": "Hempel tvrdil, že vysvětlení a předpověď mají tutéž logickou strukturu. Který protipříklad tuto tezi o symetrii nejlépe boří?",
+  "options": [
+   "Z délky stínu lze předpovědět výšku stožáru, ale nevysvětlit ji.",
+   "Předpověď je vždy jistější než vysvětlení téhož jevu.",
+   "Vysvětlení nepotřebuje zákony, zatímco předpověď ano.",
+   "Statistické zákony neumožňují ani vysvětlení, ani předpověď."
+  ]
+ },
+ {
+  "id": "epi-B22",
+  "text": "Co znamená tvrzení, že určitá vlastnost systému je emergentní?",
+  "options": [
+   "Že vznikla postupně během dlouhého vývoje daného systému.",
+   "Že ji nemají složky systému, jen jejich uspořádaný celek.",
+   "Že je principiálně nepoznatelná běžnými vědeckými metodami.",
+   "Že ji lze beze zbytku odvodit z vlastností jednotlivých částí."
+  ]
+ },
+ {
+  "id": "epi-B23",
+  "text": "Co namítá Richard Rudner proti ideálu hodnotově neutrální vědy (value-free ideal)?",
+  "options": [
+   "Že vědci jsou vždy placeni zadavateli s vlastními zájmy.",
+   "Že hodnoty vstupují jen při volbě témat, ne při hodnocení.",
+   "Že volba přísnosti důkazu závisí na ceně případného omylu.",
+   "Že objektivita je pouhou konvencí dané vědecké komunity."
+  ]
+ },
+ {
+  "id": "epi-B24",
+  "text": "Který rys v praxi nejspolehlivěji signalizuje pseudovědu?",
+  "options": [
+   "Tvrzení, které odporuje současnému vědeckému konsenzu.",
+   "Používání matematiky bez opory v laboratorním experimentu.",
+   "Opora v jediné škole s malým počtem odborných příznivců.",
+   "Soustavné imunizování teorie ad hoc výmluvami proti kritice."
+  ]
+ },
+ {
+  "id": "epi-B25",
+  "text": "Co peer review ze své povahy spolehlivě odhalit nedokáže?",
+  "options": [
+   "Podvrženou datovou sadu, kterou recenzent nemá k dispozici.",
+   "Zjevnou logickou chybu v odvození závěru z předpokladů.",
+   "Nevhodně zvolený statistický test pro daný typ dat.",
+   "Chybějící odkazy na klíčovou dosavadní literaturu oboru."
+  ]
+ },
+ {
+  "id": "epi-B26",
+  "text": "Co je Millova metoda rozdílu?",
+  "options": [
+   "Hledáme okolnost společnou všem případům, kdy jev nastal.",
+   "Srovnáme dva případy lišící se jen v jediné okolnosti.",
+   "Sledujeme, jak se jev mění se změnou míry dané okolnosti.",
+   "Odečteme známé příčiny a zbytek přiřadíme zbylé okolnosti."
+  ]
+ },
+ {
+  "id": "epi-B27",
+  "text": "Jak Lewisova kontrafaktuální analýza definuje „A způsobilo B“?",
+  "options": [
+   "A pravidelně předchází B ve všech pozorovaných případech.",
+   "Mezi A a B probíhá spojitý přenos energie nebo hybnosti.",
+   "Kdyby A nenastalo, nenastalo by za jinak stejných okolností ani B.",
+   "A zvyšuje pravděpodobnost výskytu B oproti jeho základu."
+  ]
+ },
+ {
+  "id": "epi-B28",
+  "text": "Kdy je podle Lakatose výzkumný program degenerativní?",
+  "options": [
+   "Když jeho tvrdé jádro odporuje jádru jiného programu.",
+   "Když se opírá o menší počet potvrzených pozorování.",
+   "Když jeho zastánci odmítají teorii kdykoli podrobit testu.",
+   "Když pomocné hypotézy jen dodatečně zalepují anomálie."
+  ]
+ },
+ {
+  "id": "epi-B29",
+  "text": "O co šlo ve sporu o protokolární věty mezi Neurathem a Schlickem?",
+  "options": [
+   "Zda lze základ poznání revidovat, nebo je zcela neochvějný.",
+   "Zda smí být protokol psán běžným jazykem, nebo jen symboly.",
+   "Zda mají protokoly zapisovat i teoretické, či jen holé pojmy.",
+   "Zda protokoly píše jednotlivec, nebo je schvaluje komunita."
+  ]
+ },
+ {
+  "id": "epi-B30",
+  "text": "Jak Rudolf Carnap reagoval na zjištění, že obecné zákony nelze konečným počtem pozorování plně verifikovat?",
+  "options": [
+   "Prohlásil obecné zákony za nesmyslné pseudovýroky metafyziky.",
+   "Nahradil verifikaci postupnou konfirmací a testovatelností.",
+   "Převedl zákony na soubory konečných pozorovacích výroků.",
+   "Přijal Popperovu falzifikaci jako jediné kritérium smyslu."
+  ]
+ },
+ {
+  "id": "epi-B31",
+  "text": "Čím Ian Hacking podpírá realismus ohledně nepozorovatelných entit?",
+  "options": [
+   "Tím, že úspěšné predikce teorií by jinak byly nepochopitelné.",
+   "Tím, že elektrony jsou nepřímo viditelné v mlžné komoře.",
+   "Tím, že s elektrony umíme manipulovat a vyvolávat jimi jevy.",
+   "Tím, že matematická struktura teorií přetrvává i jejich pád."
+  ]
+ },
+ {
+  "id": "epi-B32",
+  "text": "Co míní Nancy Cartwrightová tvrzením, že „zákony fyziky lžou“?",
+  "options": [
+   "Že fyzikální zákony byly opakovaně vyvráceny novými měřeními.",
+   "Že vědci zákony formulují tak, aby vyhověli zadavatelům.",
+   "Že zákony platí pouze ve světě, kde neexistuje náhoda.",
+   "Že fundamentální zákony popisují přesně jen model, ne realitu."
+  ]
+ },
+ {
+  "id": "epi-C01",
+  "text": "Firma utopila v neúspěšném vývoji dva roky práce. Co velí ekonomická logika?",
+  "options": [
+   "Rozhodovat se jen podle budoucích nákladů a očekávaných přínosů.",
+   "Do projektu doinvestovat, aby se dosavadní vklad nakonec nepromarnil.",
+   "Vytrvat, protože změna kurzu poškozuje důvěryhodnost týmu.",
+   "Zvolit variantu, do níž byl dosud vložen největší objem práce."
+  ]
+ },
+ {
+  "id": "epi-C02",
+  "text": "Co ukazují klasické pokusy s kotvením při číselném odhadu?",
+  "options": [
+   "Kotva působí jen tehdy, když ji odhadce považuje za odbornou.",
+   "Odhad se posune ke kotvě i tehdy, když je zjevně náhodná.",
+   "Kotva ovlivní pouze ty, kdo v daném oboru nemají zkušenost.",
+   "Upozornění na kotvu její vliv v pokusech spolehlivě ruší."
+  ]
+ },
+ {
+  "id": "epi-C03",
+  "text": "Zpětné zkreslení (hindsight bias) se v praxi projevuje tím, že:",
+  "options": [
+   "výsledek nás překvapí víc, než jsme si původně připouštěli",
+   "si po výsledku ztížíme přístup k záznamům původních odhadů",
+   "si svůj původní odhad pamatujeme jako bližší tomu, co nastalo",
+   "po výsledku odmítáme uznat, že šlo o pouhou náhodu či shodu okolností"
+  ]
+ },
+ {
+  "id": "epi-C04",
+  "text": "Co je jádrem framing efektu v Tverského a Kahnemanově úloze o nemoci?",
+  "options": [
+   "Lidé přeceňují malé pravděpodobnosti, když jde o životy lidí.",
+   "Lidé hodnotí zdravotní rizika hůř než rizika finanční ztráty.",
+   "Lidé volí podle toho, kdo jim danou variantu doporučil první.",
+   "Formulace přes zachráněné či mrtvé obrací volbu mezi variantami."
+  ]
+ },
+ {
+  "id": "epi-C05",
+  "text": "Heuristika dostupnosti vede k tomu, že pravděpodobnost události odhadujeme podle:",
+  "options": [
+   "snadnosti, s jakou si vybavíme příklady dané události",
+   "podobnosti události typickému představiteli své třídy",
+   "první číselné hodnoty, kterou jsme před odhadem slyšeli",
+   "toho, jak silně si přejeme, aby daná událost nastala"
+  ]
+ },
+ {
+  "id": "epi-C06",
+  "text": "Proč mají země s automatickou registrací dárců orgánů výrazně vyšší podíl souhlasů?",
+  "options": [
+   "Automatický systém provází vždy rozsáhlá osvětová kampaň ze strany státu.",
+   "Lidé zpravidla setrvávají u přednastavené volby, ať je jakákoli.",
+   "Registrace dárců bývá v těchto zemích finančně zvýhodňována.",
+   "Obyvatelé těchto zemí bývají k dárcovství vstřícněji naladěni."
+  ]
+ },
+ {
+  "id": "epi-C07",
+  "text": "Jak vypadá hodnotová funkce prospektové teorie kolem referenčního bodu?",
+  "options": [
+   "Je symetrická, jen posunutá oproti počátku souřadnic.",
+   "Roste rovnoměrně, ztráty i zisky váží zcela shodně.",
+   "Je v oblasti ztrát znatelně strmější než v oblasti zisků.",
+   "V oblasti zisků je konvexní a v oblasti ztrát naopak konkávní."
+  ]
+ },
+ {
+  "id": "epi-C08",
+  "text": "Úloha o Lindě odhaluje takzvaný konjunkční klam, protože lidé:",
+  "options": [
+   "posuzují popis podle toho, jak často se v populaci vyskytuje",
+   "opomíjejí, že delší popis je vždy statisticky pravděpodobnější",
+   "vybírají odpověď, kterou dřív slyšeli od nějaké autority",
+   "považují barvitější popis za pravděpodobnější než jeho část"
+  ]
+ },
+ {
+  "id": "epi-C09",
+  "text": "Co se stane, když lidé mají uvést interval, do kterého veličina spadne s 90% jistotou?",
+  "options": [
+   "Skutečná hodnota do intervalu padne mnohem méně často než v 90 %.",
+   "Intervaly bývají tak široké, že skutečnou hodnotu minou zřídka.",
+   "Trefovanost odpovídá slíbeným devadesáti procentům celkem přesně.",
+   "Přesnost intervalů závisí hlavně na tom, jak dlouho odhadce váhá."
+  ]
+ },
+ {
+  "id": "epi-C10",
+  "text": "Co podle Tetlockova projektu Good Judgment odlišovalo nejlepší předpovídače?",
+  "options": [
+   "Vyšší vzdělání a přístup k neveřejným zpravodajským informacím.",
+   "Drobné a časté úpravy odhadů podle nově přicházejících zpráv.",
+   "Pevné držení výchozího názoru navzdory protichůdným zprávám.",
+   "Výrazně vyšší inteligence než u zbytku zapojených dobrovolníků."
+  ]
+ },
+ {
+  "id": "epi-C11",
+  "text": "Brierovo skóre hodnotí pravděpodobnostní předpovědi tím, že:",
+  "options": [
+   "sleduje podíl předpovědí, které se nakonec vyplnily",
+   "oceňuje odvahu odhadu bez ohledu na to, co pak skutečně nastalo",
+   "sčítá čtverce rozdílů mezi odhadem a skutečným výsledkem",
+   "srovnává odhad s tím, co tvrdila většina ostatních lidí"
+  ]
+ },
+ {
+  "id": "epi-C12",
+  "text": "K čemu dospěl Paul Meehl při srovnání klinického a statistického úsudku?",
+  "options": [
+   "Odborný úsudek jednoduchý vzorec zpravidla o kus překonává.",
+   "Oba přístupy vycházejí ve výzkumech prakticky vždy nastejno.",
+   "Vzorce fungují pouze tam, kde nejde o předpověď chování lidí.",
+   "Jednoduchý vzorec odborný úsudek zpravidla dorovná či předčí."
+  ]
+ },
+ {
+  "id": "epi-C13",
+  "text": "Co původní studie Dunninga a Krugera z roku 1999 skutečně zjistila?",
+  "options": [
+   "Slabí i silní odhadovali svůj výkon blíž průměru, než jaký byl.",
+   "Nekompetentní se hodnotili výš než skutečně nejlepší z účastníků.",
+   "Schopnost sebehodnocení s rostoucí kompetencí lineárně klesá.",
+   "Nejhorší čtvrtina se v testech hodnotila jako zcela bezradná."
+  ]
+ },
+ {
+  "id": "epi-C14",
+  "text": "Současný pohled na model dvou systémů myšlení je takový, že:",
+  "options": [
+   "jde o dvě anatomicky oddělené a přesně lokalizované soustavy",
+   "je to užitečná metafora, ne dvě doslovné soustavy v mozku",
+   "rychlé myšlení se ukázalo jako spolehlivější než pomalé",
+   "pomalé uvažování bylo experimentálně zcela vyvráceno"
+  ]
+ },
+ {
+  "id": "epi-C15",
+  "text": "Podobenství o Chestertonově plotu nám radí, abychom:",
+  "options": [
+   "zachovali každé zavedené pravidlo, dokud nevznikne nové",
+   "rušili zbytečná pravidla dřív, než si na ně kdokoli zvykne",
+   "měnili instituce jen tehdy, souhlasí-li s tím všichni členové",
+   "nerušili zavedené opatření dřív, než pochopíme jeho účel"
+  ]
+ },
+ {
+  "id": "epi-C16",
+  "text": "V čem spočívá technika pre-mortem podle Garyho Kleina?",
+  "options": [
+   "Tým sepíše všechna rizika a přiřadí jim pravděpodobnosti.",
+   "Tým po skončení projektu rozebere, co všechno se nepovedlo.",
+   "Tým si předem představí, že projekt selhal, a hledá proč.",
+   "Tým nechá záměr posoudit nezávislým externím oponentem."
+  ]
+ },
+ {
+  "id": "epi-C17",
+  "text": "Co znamená pohled zvnějšku (outside view) při odhadu délky projektu?",
+  "options": [
+   "Vycházet z detailního rozpisu jednotlivých úkolů a odhadů zvlášť.",
+   "Vyjít z toho, jak dlouho trvaly podobné projekty v minulosti.",
+   "Nechat si vlastní odhad potvrdit od člověka mimo tým.",
+   "Přičíst k vlastnímu odhadu pevnou rezervu, obvykle třetinu."
+  ]
+ },
+ {
+  "id": "epi-C18",
+  "text": "Goodhartův zákon v obvyklé Straternové formulaci říká, že:",
+  "options": [
+   "ukazatel použitý jako cíl přestává být dobrým ukazatelem",
+   "každý ukazatel lze při dostatečné snaze změřit zcela přesně",
+   "cíle je třeba stanovovat vždy číselně, jinak nejsou závazné",
+   "měření samo o sobě mění měřenou veličinu na kvantové úrovni"
+  ]
+ },
+ {
+  "id": "epi-C19",
+  "text": "Co tvrdí Brandoliniho princip o šíření nesmyslů?",
+  "options": [
+   "Nesmysl se šíří rychleji, protože bývá zábavnější než pravda.",
+   "Vyvracení nesmyslu jeho zastáncům paradoxně posiluje jistotu.",
+   "Vyvrátit nesmysl stojí řádově víc energie než ho vypustit.",
+   "Nesmysly vznikají především tam, kde chybí odborná redakce."
+  ]
+ },
+ {
+  "id": "epi-C20",
+  "text": "Hanlonova břitva a princip charity mají společné to, že:",
+  "options": [
+   "velí předpokládat u druhých vždy nejhorší možný záměr",
+   "radí vykládat cizí jednání či názor v nejpříznivější podobě",
+   "zakazují jakoukoli kritiku, dokud nemáme tvrdý důkaz",
+   "doporučují spor ukončit dohodou uprostřed mezi názory"
+  ]
+ },
+ {
+  "id": "epi-C21",
+  "text": "Co znamená takzvaný steelmanning v diskusi?",
+  "options": [
+   "Držet vlastní pozici tak dlouho, dokud ji někdo nevyvrátí.",
+   "Vybrat z protistrany nejslabší argument a ten rozebrat.",
+   "Nahradit spor o fakta sporem o hodnoty a zájmy obou stran.",
+   "Zformulovat protistranu v nejsilnější verzi a tu vyvracet."
+  ]
+ },
+ {
+  "id": "epi-C22",
+  "text": "Jaký je rozdíl mezi epistemickou bublinou a echo komorou podle C. T. Nguyena?",
+  "options": [
+   "Bublina jiné hlasy nepustí dál, komora je předem zdiskredituje.",
+   "Bublina vzniká vždy algoritmem, kdežto komora vždy osobní volbou.",
+   "Bublina se týká politiky, komora se týká vědeckých sporů.",
+   "Bublina je krátkodobá, komora přetrvává po celý život."
+  ]
+ },
+ {
+  "id": "epi-C23",
+  "text": "Informační kaskáda ve skupině vzniká tehdy, když:",
+  "options": [
+   "všichni ve skupině mají shodné informace i shodné zájmy",
+   "skupina hlasuje tajně, a proto nevidí názory ostatních",
+   "lidé potlačí vlastní signál a řídí se volbou předchůdců",
+   "informace se ve skupině šíří pomaleji, než by bylo třeba"
+  ]
+ },
+ {
+  "id": "epi-C24",
+  "text": "Co je typickým znakem skupinového myšlení podle Irvinga Janise?",
+  "options": [
+   "Otevřený spor mezi členy skupiny se stupňuje až k rozkolu.",
+   "Skupina si potlačí pochybnosti a přeceňuje vlastní správnost.",
+   "Skupina rozhodnutí odkládá tak dlouho, až ztratí příležitost.",
+   "Členové ztrácejí zájem o výsledek a rozhodování zlenivějí."
+  ]
+ },
+ {
+  "id": "epi-C25",
+  "text": "Proč u sporných témat neplatí, že víc znalostí spolehlivě sblíží názory lidí?",
+  "options": [
+   "Zdatnější lidé umějí lépe hájit stanovisko své vlastní skupiny.",
+   "Zdatnější lidé mívají soustavně horší přístup k datům o daném tématu.",
+   "Znalosti se u sporných témat v populaci šíří výrazně pomaleji.",
+   "Sporná témata bývají taková, že o nich data zkrátka chybějí."
+  ]
+ },
+ {
+  "id": "epi-C26",
+  "text": "Stanovichovy práce o myside bias ukazují, že sklon vážit důkazy ve prospěch vlastního postoje:",
+  "options": [
+   "s rostoucí inteligencí spolehlivě klesá až téměř k nule",
+   "se objevuje jen u lidí s podprůměrnou úrovní vzdělání",
+   "je pouhým artefaktem špatně sestavených výzkumných úloh",
+   "je s inteligencí spjatý jen slabě, ne-li vůbec nijak"
+  ]
+ },
+ {
+  "id": "epi-C27",
+  "text": "Tichá kolegyně s brýlemi ráda čte. Proč je spíš prodavačka než knihovnice?",
+  "options": [
+   "Popis odpovídá knihovnicím jen zdánlivě, ve skutečnosti vůbec.",
+   "Popis pochází z dotazníku, a proto nemá žádnou váhu.",
+   "Prodavaček je v populaci mnohonásobně víc než knihovnic.",
+   "Povolání nelze z popisu odhadovat, jde o nepřípustný úsudek."
+  ]
+ },
+ {
+  "id": "epi-C28",
+  "text": "Užitečným testem, zda je vlastní přesvědčení něčím víc než postojem, je otázka:",
+  "options": [
+   "kolik lidí v mém okolí totéž přesvědčení také zastává",
+   "jaké konkrétní pozorování by mě přimělo názor opustit",
+   "jak dlouho už dané přesvědčení bez pochyb zastávám",
+   "kolik argumentů pro ně dokážu vyjmenovat bez přípravy"
+  ]
+ },
+ {
+  "id": "epi-C29",
+  "text": "Předpovídač říká u každé události „50 %“ a polovina jich nastane. Jak si vede?",
+  "options": [
+   "Je dobře kalibrovaný a jeho předpovědi jsou i velmi užitečné.",
+   "Je špatně kalibrovaný, protože nikdy neřekne nic určitého.",
+   "Nelze posoudit, dokud nezveřejní i své zdůvodnění odhadů.",
+   "Je dobře kalibrovaný, ale jeho odhady nic nerozlišují."
+  ]
+ },
+ {
+  "id": "epi-C30",
+  "text": "Jak prospektová teorie popisuje zacházení lidí s pravděpodobnostmi?",
+  "options": [
+   "Malé pravděpodobnosti se přeceňují, velké naopak podceňují.",
+   "Všechny pravděpodobnosti se posuzují lineárně a nezkresleně.",
+   "Malé pravděpodobnosti se podceňují, velké se naopak přeceňují.",
+   "Pravděpodobnosti se váží podle toho, kdo je člověku sdělil."
+  ]
+ },
+ {
+  "id": "epi-C31",
+  "text": "Podle Tetlocka si v dlouhodobých předpovědích vedou nejhůř odborníci, kteří:",
+  "options": [
+   "sbírají poznatky z mnoha oborů a odhady průběžně upravují",
+   "se odmítají vyjádřit dřív, než mají zcela úplná data",
+   "vykládají dění jedinou velkou myšlenkou a drží se jí",
+   "své odhady raději uvádějí v číslech než ve slovech"
+  ]
+ },
+ {
+  "id": "epi-C32",
+  "text": "Na které složky lze podle Murphyho rozložit Brierovo skóre?",
+  "options": [
+   "Na přesnost, rychlost a počet hodnocených předpovědí.",
+   "Na systematickou chybu, náhodný šum a chybu měření.",
+   "Na odbornost, sebedůvěru a odvahu předpovídajícího.",
+   "Na kalibraci, rozlišovací schopnost a nejistotu jevu."
+  ]
+ }
+]

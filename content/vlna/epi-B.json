@@ -1,0 +1,502 @@
+[
+  {
+    "id": "epi-B01",
+    "type": "F",
+    "category": "epistemologie",
+    "text": "Verifikační kritérium smyslu tvrdilo, že smysluplná je jen věta empiricky ověřitelná nebo analytická. Proč se nakonec zhroutilo?",
+    "options": [
+      "Neumožňuje odlišit vědecké teorie od teorií metafyzických.",
+      "Odsuzuje jako nesmyslné i tvrzení matematiky a čisté logiky.",
+      "Samo není ani empiricky ověřitelné, ani analyticky pravdivé.",
+      "Předpokládá, že smysl věty určuje výhradně její pravdivost."
+    ],
+    "correct": 2,
+    "explanation": "Kritérium se obrací proti sobě: podle vlastního měřítka je samo nesmyslné, protože není ani logickou pravdou, ani zjistitelné pozorováním. Pozitivisté se to snažili obejít prohlášením, že jde o návrh či konvenci, tím ale ztratilo sílu závazného verdiktu nad metafyzikou. Tento sebedestruktivní tah patří k hlavním důvodům pádu programu.",
+    "seedElo": 1500
+  },
+  {
+    "id": "epi-B02",
+    "type": "F",
+    "category": "epistemologie",
+    "text": "Co bylo hlavním programovým cílem Vídeňského kroužku kolem Moritze Schlicka?",
+    "options": [
+      "Očistit vědu od metafyziky pomocí logické analýzy jazyka.",
+      "Odvodit zákony přírody z apriorních principů čistého rozumu.",
+      "Ukázat, že vědecké teorie jsou jen užitečné sociální konvence.",
+      "Nahradit experiment formální dedukcí z matematických axiomů."
+    ],
+    "correct": 0,
+    "explanation": "Kroužek (Schlick, Carnap, Neurath, Hahn) spojil empirismus s novou matematickou logikou a ohlásil program „vědeckého světonázoru“: co nelze převést na pozorování nebo logiku, není omyl, ale nesmysl. Cílem byl jednotný jazyk vědy, nikoli konvencionalismus ani apriorismus.",
+    "source": "Wissenschaftliche Weltauffassung: Der Wiener Kreis (1929)",
+    "seedElo": 1550
+  },
+  {
+    "id": "epi-B03",
+    "type": "F",
+    "category": "epistemologie",
+    "text": "Co je v Lakatosově pojetí výzkumného programu „tvrdé jádro“?",
+    "options": [
+      "Soubor experimentů, které program dosud úspěšně předpověděl.",
+      "Pomocné hypotézy, které se při anomáliích obětují jako první.",
+      "Základní teze programu, které se z rozhodnutí nevyvracejí.",
+      "Metodologická pravidla určující, kdy program zcela opustit."
+    ],
+    "correct": 2,
+    "explanation": "Lakatos rozlišuje tvrdé jádro (např. Newtonovy zákony v newtonovském programu), které je metodologickým rozhodnutím chráněno před falzifikací, a ochranný pás pomocných hypotéz, jenž se pod tlakem anomálií mění. Negativní heuristika zakazuje mířit modus tollens na jádro; kritika dopadá na pás.",
+    "source": "Lakatos: Falsification and the Methodology of Scientific Research Programmes",
+    "seedElo": 1550
+  },
+  {
+    "id": "epi-B04",
+    "type": "F",
+    "category": "epistemologie",
+    "text": "Test vyšel s p = 0,03. Co tato hodnota přesně vyjadřuje?",
+    "options": [
+      "Pravděpodobnost, že nulová hypotéza je pravdivá, je jen 3 %.",
+      "Pravděpodobnost, že se výsledek při zopakování potvrdí, je 97 %.",
+      "Pravděpodobnost, že jde o náhodu a ne o skutečný efekt, je 3 %.",
+      "Pravděpodobnost takto extrémních dat, pokud nulová hypotéza platí."
+    ],
+    "correct": 3,
+    "explanation": "P-hodnota je podmíněná pravděpodobnost dat za předpokladu platnosti nulové hypotézy, tedy P(data | H0). Není to P(H0 | data) ani pravděpodobnost replikace, ani „pravděpodobnost náhody“ — obrácení podmíněnosti je nejrozšířenější statistický omyl. Vyjádření o pravděpodobnosti hypotézy vyžaduje bayesovský rámec a prior.",
+    "source": "ASA Statement on p-Values (2016)",
+    "seedElo": 1600
+  },
+  {
+    "id": "epi-B05",
+    "type": "K",
+    "category": "epistemologie",
+    "text": "Prodej zmrzliny koreluje s počtem utonutí. Co je v tomto příkladu konfundující proměnná?",
+    "options": [
+      "Horké počasí, které nezávisle zvyšuje obě sledované veličiny.",
+      "Chyba měření, která oba údaje systematicky nadhodnocuje.",
+      "Malý vzorek, kvůli němuž korelace vyšla čistě náhodně.",
+      "Skrytý kauzální vliv zmrzliny na chování lidí u vody."
+    ],
+    "correct": 0,
+    "explanation": "Konfundér je společná příčina obou sledovaných veličin, která vytvoří korelaci bez přímé kauzální vazby mezi nimi. Zde je to teplota: v horku se kupuje více zmrzliny i více lidí plave. Konfundér nelze zaměňovat s chybou měření ani s náhodnou fluktuací malého vzorku.",
+    "seedElo": 1500
+  },
+  {
+    "id": "epi-B06",
+    "type": "F",
+    "category": "epistemologie",
+    "text": "Proč randomizované přiřazení účastníků do skupin řeší problém konfundérů lépe než observační studie?",
+    "options": [
+      "Zaručuje, že skupiny budou ve všech ohledech naprosto totožné.",
+      "Rozděluje i neznámé rušivé vlivy mezi skupiny jen náhodně.",
+      "Odstraňuje ze studie vliv placeba a očekávání účastníků.",
+      "Zvyšuje statistickou sílu testu a tím snižuje riziko omylu."
+    ],
+    "correct": 1,
+    "explanation": "Síla randomizace je v tom, že nevyžaduje znalost konfundérů: v očekávání rozhází mezi větve i proměnné, o kterých nikdo neví. Nezaručuje ale identické skupiny — v konkrétním pokusu může nerovnováha nastat, jen není systematická. Zaslepení proti placebo efektu je samostatné opatření.",
+    "seedElo": 1600
+  },
+  {
+    "id": "epi-B07",
+    "type": "F",
+    "category": "epistemologie",
+    "text": "Jak Paul Feyerabend mínil své proslulé heslo „anything goes“?",
+    "options": [
+      "Jako doporučení vědcům, aby přestali dbát na empirická data.",
+      "Jako tvrzení, že všechny teorie jsou stejně dobře podložené.",
+      "Jako ironický závěr: žádné pravidlo neplatí bez výjimky.",
+      "Jako obhajobu astrologie a jiných tradičních forem poznání."
+    ],
+    "correct": 2,
+    "explanation": "Feyerabend heslo formuluje jako jediný „princip“, který přežije historickou kontrolu: každé metodologické pravidlo bylo v dějinách někdy užitečně porušeno (Galileo). Není to výzva k libovůli ve výzkumu, ale sarkastický důsledek toho, že univerzální metoda neexistuje. Sám ho označil za pravidlo pro racionalistu, který nutně nějaké pravidlo chce.",
+    "source": "Feyerabend: Rozprava proti metodě",
+    "seedElo": 1700
+  },
+  {
+    "id": "epi-B08",
+    "type": "F",
+    "category": "epistemologie",
+    "text": "Co podle konstruktivního empirismu Base van Fraassena znamená „přijmout teorii“?",
+    "options": [
+      "Věřit, že teorie pravdivě popisuje i nepozorovatelné entity.",
+      "Považovat ji za nástroj bez jakéhokoli obsahu o pravdivosti.",
+      "Věřit, že je pravdivá, protože jinak by její úspěch byl zázrak.",
+      "Věřit, že je empiricky adekvátní, a pracovat uvnitř ní."
+    ],
+    "correct": 3,
+    "explanation": "Van Fraassen odmítá jak realismus (víru v pravdivost o nepozorovatelném), tak čistý instrumentalismus: teorie má doslovný pravdivostní obsah, ale věřit stačí tomu, že „zachraňuje jevy“, tedy je pravdivá o pozorovatelném. Druhou složkou přijetí je pragmatický závazek používat teorii jako rámec bádání.",
+    "source": "van Fraassen: The Scientific Image (1980)",
+    "seedElo": 1750
+  },
+  {
+    "id": "epi-B09",
+    "type": "F",
+    "category": "epistemologie",
+    "text": "Jak zní argument z „žádných zázraků“ (no-miracles) ve prospěch vědeckého realismu?",
+    "options": [
+      "Bez alespoň přibližné pravdivosti teorií by byl úspěch vědy zázrak.",
+      "Zázraky jsou vyloučeny, protože přírodní zákony nemají výjimky.",
+      "Věda vylučuje nadpřirozeno, tedy musí být její tvrzení pravdivá.",
+      "Opakovaná potvrzení teorie zvyšují její pravděpodobnost k jistotě."
+    ],
+    "correct": 0,
+    "explanation": "Putnamova formulace tvrdí, že realismus je jediné vysvětlení nezázračného úspěchu vědy — zejména novelních predikcí, které teorie trefuje. Sám je to případ inference k nejlepšímu vysvětlení, což kritici namítají jako kruh: realismus se obhajuje způsobem usuzování, o jehož spolehlivosti se spor vede.",
+    "source": "Putnam: Mathematics, Matter and Method",
+    "seedElo": 1700
+  },
+  {
+    "id": "epi-B10",
+    "type": "F",
+    "category": "epistemologie",
+    "text": "Na čem stojí pesimistická metaindukce namířená proti vědeckému realismu?",
+    "options": [
+      "Na tom, že vědci se v jednotlivých měřeních poměrně často mýlí.",
+      "Na tom, že minulé úspěšné teorie se ukázaly být nepravdivé.",
+      "Na tom, že data vždy podpírají více vzájemně sporných teorií.",
+      "Na tom, že vědecké pojmy napříč teoriemi nelze vůbec srovnávat."
+    ],
+    "correct": 1,
+    "explanation": "Laudan sestavil seznam teorií, které byly ve své době empiricky úspěšné, a přesto dnes jejich centrální termíny nic neoznačují: flogiston, kalorikum, éter. Indukcí přes dějiny vědy pak plyne, že i naše nejlepší teorie jsou nejspíš nepravdivé. Realisté odpovídají selektivně — pravdivé prý přetrvávají jen ty části, které za úspěch skutečně odpovídaly.",
+    "source": "Laudan: A Confutation of Convergent Realism (1981)",
+    "seedElo": 1700
+  },
+  {
+    "id": "epi-B11",
+    "type": "F",
+    "category": "epistemologie",
+    "text": "Co je inference k nejlepšímu vysvětlení (abdukce)?",
+    "options": [
+      "Odvození předpovědi z obecného zákona a počátečních podmínek.",
+      "Zobecnění z konečného počtu pozorovaných případů na všechny.",
+      "Přijetí hypotézy proto, že daný jev vysvětluje lépe než rivalové.",
+      "Vyloučení hypotézy, jakmile odporuje jedinému pozorování."
+    ],
+    "correct": 2,
+    "explanation": "Abdukce srovnává konkurenční hypotézy podle vysvětlovacích ctností — jednoduchosti, jednotnosti, hloubky — a k nejlepší z nich se přikloní. Liší se od dedukce i od prosté enumerativní indukce. Slabinou je „argument ze špatné nejlepší hypotézy“ (van Fraassen): nejlepší z nabídnutých vysvětlení může být stále mizerné, pokud pravdivé nikoho nenapadlo.",
+    "source": "Lipton: Inference to the Best Explanation",
+    "seedElo": 1750
+  },
+  {
+    "id": "epi-B12",
+    "type": "F",
+    "category": "epistemologie",
+    "text": "K čemu slouží Bradford Hillova kritéria (síla, konzistence, časová následnost, dávka-odpověď a další)?",
+    "options": [
+      "K výpočtu pravděpodobnosti nemoci u jednotlivého pacienta.",
+      "K formálnímu důkazu kauzality z pozorovacích dat.",
+      "K náhodnému přiřazení pacientů do léčebných větví studie.",
+      "K úsudku, zda pozorovaná asociace svědčí pro příčinnost."
+    ],
+    "correct": 3,
+    "explanation": "Hill je formuloval v epidemiologii, kde randomizovat často nelze — třeba u kouření a rakoviny. Jde výslovně o hlediska pro odborný úsudek, nikoli o kontrolní seznam nebo důkazní proceduru; sám Hill varoval před jejich mechanickým odškrtáváním. Splnění více kritérií zároveň posouvá váhu důkazů směrem ke kauzálnímu čtení.",
+    "source": "Bradford Hill: The Environment and Disease (1965)",
+    "seedElo": 1650
+  },
+  {
+    "id": "epi-B13",
+    "type": "F",
+    "category": "epistemologie",
+    "text": "Jak se v metodologii obvykle rozlišuje reprodukce a replikace výsledku?",
+    "options": [
+      "Reprodukce přepočítá stará data, replikace sbírá data nová.",
+      "Reprodukce sbírá nová data, replikace jen přepočítá stará.",
+      "Reprodukce je publikace v jiném časopise, replikace v témže.",
+      "Reprodukce je potvrzení teorie, replikace jejího vyvrácení."
+    ],
+    "correct": 0,
+    "explanation": "Reprodukovatelnost je vlastnost analýzy: z týchž dat a téhož kódu vyjdou tytéž výsledky. Replikace je vlastnost nálezu: nový sběr dat týmž postupem dá týž závěr. Selhat lze nezávisle v obojím a náprava je jiná — u reprodukce sdílení dat a kódu, u replikace větší vzorky a předregistrace. Terminologie není napříč obory zcela jednotná.",
+    "seedElo": 1650
+  },
+  {
+    "id": "epi-B14",
+    "type": "F",
+    "category": "epistemologie",
+    "text": "Proti čemu především chrání předregistrace studie?",
+    "options": [
+      "Proti tomu, aby byl vzorek příliš malý na průkazný závěr.",
+      "Proti dodatečné úpravě hypotéz a analýz podle výsledků.",
+      "Proti tomu, aby data zpracoval někdo se střetem zájmů.",
+      "Proti chybám v samotném statistickém softwaru a výpočtech."
+    ],
+    "correct": 1,
+    "explanation": "Předregistrace fixuje hypotézu, primární proměnnou a plán analýzy dřív, než se data uvidí. Tím odděluje konfirmační test od explorace a blokuje p-hacking i HARKing (formulaci hypotézy až po výsledcích). Explorativní analýzy zůstávají dovolené, jen musí být označené jako explorativní.",
+    "seedElo": 1650
+  },
+  {
+    "id": "epi-B15",
+    "type": "F",
+    "category": "epistemologie",
+    "text": "Co označuje efekt šuplíku (file drawer) a s ním spojený publikační bias?",
+    "options": [
+      "Časopisy odmítají studie, které replikují starší nálezy.",
+      "Autoři skrývají data, aby je konkurence nemohla použít.",
+      "Studie bez významného výsledku se častěji vůbec nepublikují.",
+      "Recenzenti zdržují rukopisy soupeřících výzkumných skupin."
+    ],
+    "correct": 2,
+    "explanation": "Negativní a nevýznamné výsledky zůstávají v šuplíku, takže publikovaná literatura je systematicky vychýlená k efektům. Metaanalýza pak nadhodnocuje sílu efektu, i když je metodicky bezvadná. Nástroje jako trychtýřový graf nebo Rosenthalovo „fail-safe N“ problém odhadují, řeší ho ale až registrované reporty a povinná registrace studií.",
+    "seedElo": 1700
+  },
+  {
+    "id": "epi-B16",
+    "type": "K",
+    "category": "epistemologie",
+    "text": "Studie na 200 000 lidech našla rozdíl 0,2 bodu IQ mezi skupinami při p < 0,001. Co z toho plyne?",
+    "options": [
+      "Efekt je jistě reálný i prakticky důležitý, vzorek je obrovský.",
+      "Nízké p ukazuje, že efekt je velký a klinicky relevantní.",
+      "Výsledek je neplatný, protože příliš velký vzorek zkresluje.",
+      "Efekt je statisticky významný, ale prakticky zanedbatelný."
+    ],
+    "correct": 3,
+    "explanation": "P-hodnota závisí na velikosti efektu i na velikosti vzorku; při dost velkém n se stane významným i triviální rozdíl. Statistická významnost proto neříká nic o důležitosti — na tu je třeba efektová velikost a interval spolehlivosti. Velký vzorek výsledek nezneplatňuje, jen činí test citlivým i na bezvýznamné rozdíly.",
+    "seedElo": 1750
+  },
+  {
+    "id": "epi-B17",
+    "type": "F",
+    "category": "epistemologie",
+    "text": "Co udává Cohenovo d?",
+    "options": [
+      "Velikost rozdílu průměrů v jednotkách směrodatné odchylky.",
+      "Podíl variability vysvětlené modelem oproti celkové.",
+      "Pravděpodobnost chyby prvního druhu při daném testu.",
+      "Počet subjektů nutný k dosažení požadované síly testu."
+    ],
+    "correct": 0,
+    "explanation": "Cohenovo d je standardizovaná efektová velikost: rozdíl průměrů dělený sdruženou směrodatnou odchylkou, takže je srovnatelný napříč měřítky a studiemi. Konvenční orientační hodnoty 0,2 / 0,5 / 0,8 označil sám Cohen za libovolné a doporučoval interpretovat je v kontextu oboru. Podíl vysvětlené variability popisuje R², nikoli d.",
+    "source": "Cohen: Statistical Power Analysis for the Behavioral Sciences",
+    "seedElo": 1800
+  },
+  {
+    "id": "epi-B18",
+    "type": "F",
+    "category": "epistemologie",
+    "text": "Jaký je nejzávažnější systematický limit metaanalýzy?",
+    "options": [
+      "Neumí kombinovat studie s různě velkými vzorky účastníků.",
+      "Zdědí zkreslení vstupních studií a publikačního výběru.",
+      "Vždy snižuje statistickou sílu oproti jednotlivým studiím.",
+      "Nelze ji použít, pokud studie měřily týž jev odlišně."
+    ],
+    "correct": 1,
+    "explanation": "Metaanalýza zvyšuje přesnost odhadu, ale nedokáže vytvořit informaci, která ve vstupech chybí: pokud jsou publikované studie vychýlené nebo metodicky slabé, přenese to zkreslení do souhrnu s falešně úzkým intervalem. Odtud „garbage in, garbage out“. Různé vzorky i heterogenitu měření naopak umí modelovat vážením a modelem náhodných efektů.",
+    "seedElo": 1800
+  },
+  {
+    "id": "epi-B19",
+    "type": "F",
+    "category": "epistemologie",
+    "text": "Čím se bayesovské pojetí pravděpodobnosti liší od frekventistického?",
+    "options": [
+      "Pracuje výhradně s daty a odmítá jakékoli předchozí domněnky.",
+      "Pravděpodobnost chápe jako limitu relativní četnosti jevu.",
+      "Přiřazuje pravděpodobnost i hypotézám, nejen četnostem jevů.",
+      "Nahrazuje hypotézy modely a vzdává se pojmu pravděpodobnosti."
+    ],
+    "correct": 2,
+    "explanation": "Frekventista pravděpodobnost váže na dlouhodobou četnost v opakovatelném pokusu, a proto o pravdivosti jedné hypotézy mluvit nemůže — jen o chování procedur (hladiny významnosti, pokrytí intervalů). Bayesián chápe pravděpodobnost jako míru přesvědčení, takže P(hypotéza | data) je legitimní veličina. Cenou je nutnost zvolit prior.",
+    "seedElo": 1800
+  },
+  {
+    "id": "epi-B20",
+    "type": "F",
+    "category": "epistemologie",
+    "text": "Proč věda pracuje s idealizacemi typu „dokonale tuhé těleso“ nebo „bezetřecí rovina“, o nichž ví, že jsou nepravdivé?",
+    "options": [
+      "Protože takové objekty v přírodě skutečně existují.",
+      "Protože idealizace zpřesňuje měření odstraněním chyb.",
+      "Protože bez nich by teorie nešla vůbec matematizovat.",
+      "Protože zjednodušení odhalí, které faktory jsou podstatné."
+    ],
+    "correct": 3,
+    "explanation": "Idealizace je nástroj izolace: záměrným vynecháním rušivých vlivů se ukáže, co pro daný jev opravdu rozhoduje. Model tedy neusiluje o věrnost ve všech detailech, ale o zachycení relevantní struktury; jeho nepravdivost v detailech je funkční, ne vada. Matematizace je až důsledek, nikoli hlavní důvod.",
+    "source": "Weisberg: Simulation and Similarity",
+    "seedElo": 1850
+  },
+  {
+    "id": "epi-B21",
+    "type": "K",
+    "category": "epistemologie",
+    "text": "Hempel tvrdil, že vysvětlení a předpověď mají tutéž logickou strukturu. Který protipříklad tuto tezi o symetrii nejlépe boří?",
+    "options": [
+      "Z délky stínu lze předpovědět výšku stožáru, ale nevysvětlit ji.",
+      "Předpověď je vždy jistější než vysvětlení téhož jevu.",
+      "Vysvětlení nepotřebuje zákony, zatímco předpověď ano.",
+      "Statistické zákony neumožňují ani vysvětlení, ani předpověď."
+    ],
+    "correct": 0,
+    "explanation": "Ze zákonů optiky a délky stínu se výška stožáru bezchybně odvodí, přesto stín výšku nevysvětluje — vysvětlení má směr, který dedukce nemá. Slavný Bromberger v protipříkladu ukazuje, že deduktivně-nomologický model je pro vysvětlení nanejvýš nutný, ne dostačující. Odtud tlak k příčinným a unifikačním teoriím vysvětlení.",
+    "source": "Bromberger; Hempel: Aspects of Scientific Explanation",
+    "seedElo": 1850
+  },
+  {
+    "id": "epi-B22",
+    "type": "F",
+    "category": "epistemologie",
+    "text": "Co znamená tvrzení, že určitá vlastnost systému je emergentní?",
+    "options": [
+      "Že vznikla postupně během dlouhého vývoje daného systému.",
+      "Že ji nemají složky systému, jen jejich uspořádaný celek.",
+      "Že je principiálně nepoznatelná běžnými vědeckými metodami.",
+      "Že ji lze beze zbytku odvodit z vlastností jednotlivých částí."
+    ],
+    "correct": 1,
+    "explanation": "Emergentní vlastnost náleží celku a jeho organizaci, nikoli částem — teplota, kapalnost nebo vzorce v mraveništi. Slabá emergence tvrdí jen praktickou neodvoditelnost, silná emergence i principiální; spor mezi redukcionismem a emergentismem se vede právě o to, zda silná varianta vůbec existuje. S časovým vznikem ani s nepoznatelností pojem nesplývá.",
+    "seedElo": 1800
+  },
+  {
+    "id": "epi-B23",
+    "type": "F",
+    "category": "epistemologie",
+    "text": "Co namítá Richard Rudner proti ideálu hodnotově neutrální vědy (value-free ideal)?",
+    "options": [
+      "Že vědci jsou vždy placeni zadavateli s vlastními zájmy.",
+      "Že hodnoty vstupují jen při volbě témat, ne při hodnocení.",
+      "Že volba přísnosti důkazu závisí na ceně případného omylu.",
+      "Že objektivita je pouhou konvencí dané vědecké komunity."
+    ],
+    "correct": 2,
+    "explanation": "Rudnerův argument z induktivního rizika říká: protože důkazy nikdy nejsou úplné, musí vědec rozhodnout, jak silné mají být, než hypotézu přijme — a to závisí na tom, jak vážné by byly následky chyby. Testování šarže léků a šarže šroubků proto vyžaduje jinou míru jistoty. Hodnoty tak vstupují přímo do jádra vědeckého úsudku, ne jen do výběru témat.",
+    "source": "Rudner: The Scientist Qua Scientist Makes Value Judgments (1953)",
+    "seedElo": 1900
+  },
+  {
+    "id": "epi-B24",
+    "type": "K",
+    "category": "epistemologie",
+    "text": "Který rys v praxi nejspolehlivěji signalizuje pseudovědu?",
+    "options": [
+      "Tvrzení, které odporuje současnému vědeckému konsenzu.",
+      "Používání matematiky bez opory v laboratorním experimentu.",
+      "Opora v jediné škole s malým počtem odborných příznivců.",
+      "Soustavné imunizování teorie ad hoc výmluvami proti kritice."
+    ],
+    "correct": 3,
+    "explanation": "Rozhodující není obsah tvrzení ani jeho okrajovost — revoluční věda bývá v menšině a proti konsenzu — ale způsob, jak se zachází s nepříznivými nálezy. Pseudověda každý neúspěch pohltí dodatečnou úpravou, takže nikdy nic neriskuje a nikdy se neučí. Sekundárními znaky bývá důraz na potvrzení, chybějící sebeoprava a stagnace bez nových předpovědí.",
+    "seedElo": 1800
+  },
+  {
+    "id": "epi-B25",
+    "type": "K",
+    "category": "epistemologie",
+    "text": "Co peer review ze své povahy spolehlivě odhalit nedokáže?",
+    "options": [
+      "Podvrženou datovou sadu, kterou recenzent nemá k dispozici.",
+      "Zjevnou logickou chybu v odvození závěru z předpokladů.",
+      "Nevhodně zvolený statistický test pro daný typ dat.",
+      "Chybějící odkazy na klíčovou dosavadní literaturu oboru."
+    ],
+    "correct": 0,
+    "explanation": "Recenzent posuzuje text, ne laboratoř: bez surových dat a bez replikace nemá jak fabrikaci odhalit. Peer review je filtr plausibility a řemesla, nikoli auditor pravdivosti — velké podvody typu Schön či Stapel prošly prestižními časopisy. Proto se prosazuje povinné sdílení dat a kódu a otevřené recenze.",
+    "seedElo": 1850
+  },
+  {
+    "id": "epi-B26",
+    "type": "F",
+    "category": "epistemologie",
+    "text": "Co je Millova metoda rozdílu?",
+    "options": [
+      "Hledáme okolnost společnou všem případům, kdy jev nastal.",
+      "Srovnáme dva případy lišící se jen v jediné okolnosti.",
+      "Sledujeme, jak se jev mění se změnou míry dané okolnosti.",
+      "Odečteme známé příčiny a zbytek přiřadíme zbylé okolnosti."
+    ],
+    "correct": 1,
+    "explanation": "Metoda rozdílu srovnává případ, kdy jev nastal, s případem, kdy nenastal, přičemž se liší v jediném faktoru — je to logický předek kontrolované skupiny v experimentu. Ostatní nabídky popisují metodu shody, metodu souběžných změn a metodu zbytku. Mill předpokládal, že relevantní okolnosti známe úplně, což je v praxi hlavní slabina.",
+    "source": "Mill: A System of Logic (1843)",
+    "seedElo": 1850
+  },
+  {
+    "id": "epi-B27",
+    "type": "K",
+    "category": "epistemologie",
+    "text": "Jak Lewisova kontrafaktuální analýza definuje „A způsobilo B“?",
+    "options": [
+      "A pravidelně předchází B ve všech pozorovaných případech.",
+      "Mezi A a B probíhá spojitý přenos energie nebo hybnosti.",
+      "Kdyby A nenastalo, nenastalo by za jinak stejných okolností ani B.",
+      "A zvyšuje pravděpodobnost výskytu B oproti jeho základu."
+    ],
+    "correct": 2,
+    "explanation": "Lewis analyzuje kauzalitu přes kontrafaktuální závislost hodnocenou v nejbližších možných světech, čímž se vyhýbá čisté pravidelnosti à la Hume. Ostatní varianty jsou reálné konkurenční teorie: regularitní, procesuální (Salmon, Dowe) a pravděpodobnostní. Kontrafaktuální pojetí naráží na preempci — záložní příčina způsobí, že bez A by B nastalo stejně.",
+    "source": "Lewis: Causation (1973)",
+    "seedElo": 1900
+  },
+  {
+    "id": "epi-B28",
+    "type": "F",
+    "category": "epistemologie",
+    "text": "Kdy je podle Lakatose výzkumný program degenerativní?",
+    "options": [
+      "Když jeho tvrdé jádro odporuje jádru jiného programu.",
+      "Když se opírá o menší počet potvrzených pozorování.",
+      "Když jeho zastánci odmítají teorii kdykoli podrobit testu.",
+      "Když pomocné hypotézy jen dodatečně zalepují anomálie."
+    ],
+    "correct": 3,
+    "explanation": "Progresivní program předpovídá nová, dosud neznámá fakta, z nichž se některá potvrdí; degenerativní jen zpětně dohání to, co už se stalo. Rozdíl je tedy dynamický a hodnotí se v čase — jednorázová anomálie program nezabíjí a i degenerativní program se může vzchopit. Proto Lakatos považoval okamžité „vyvrácení“ za metodologicky naivní.",
+    "source": "Lakatos: The Methodology of Scientific Research Programmes",
+    "seedElo": 1900
+  },
+  {
+    "id": "epi-B29",
+    "type": "F",
+    "category": "epistemologie",
+    "text": "O co šlo ve sporu o protokolární věty mezi Neurathem a Schlickem?",
+    "options": [
+      "Zda lze základ poznání revidovat, nebo je zcela neochvějný.",
+      "Zda smí být protokol psán běžným jazykem, nebo jen symboly.",
+      "Zda mají protokoly zapisovat i teoretické, či jen holé pojmy.",
+      "Zda protokoly píše jednotlivec, nebo je schvaluje komunita."
+    ],
+    "correct": 0,
+    "explanation": "Schlick hledal v „konstatováních“ pevný, nezvratný bod styku poznání se skutečností. Neurath odmítl jakýkoli neotřesitelný základ: protokolární věty jsou fyzikalistické, omylné a v případě konfliktu se smí škrtnout kterákoli z nich — vědu přirovnal k lodi opravované na širém moři. Spor tak předznamenal koherentismus a naturalizovanou epistemologii.",
+    "source": "Neurath: Protokollsätze (1932); Schlick: Über das Fundament der Erkenntnis",
+    "seedElo": 1950
+  },
+  {
+    "id": "epi-B30",
+    "type": "F",
+    "category": "epistemologie",
+    "text": "Jak Rudolf Carnap reagoval na zjištění, že obecné zákony nelze konečným počtem pozorování plně verifikovat?",
+    "options": [
+      "Prohlásil obecné zákony za nesmyslné pseudovýroky metafyziky.",
+      "Nahradil verifikaci postupnou konfirmací a testovatelností.",
+      "Převedl zákony na soubory konečných pozorovacích výroků.",
+      "Přijal Popperovu falzifikaci jako jediné kritérium smyslu."
+    ],
+    "correct": 1,
+    "explanation": "Carnap kritérium postupně zeslaboval: od úplné verifikovatelnosti k potvrditelnosti a testovatelnosti, později k induktivní logice s pojmem stupně konfirmace. Obětovat zákony vědy nepřipadalo v úvahu, takže ustoupilo kritérium. Tímto zjemňováním ale demarkační ostří pozitivismu otupělo a Quine je pak podryl zpochybněním samotné dichotomie analytické a syntetické.",
+    "source": "Carnap: Testability and Meaning (1936–37)",
+    "seedElo": 1950
+  },
+  {
+    "id": "epi-B31",
+    "type": "K",
+    "category": "epistemologie",
+    "text": "Čím Ian Hacking podpírá realismus ohledně nepozorovatelných entit?",
+    "options": [
+      "Tím, že úspěšné predikce teorií by jinak byly nepochopitelné.",
+      "Tím, že elektrony jsou nepřímo viditelné v mlžné komoře.",
+      "Tím, že s elektrony umíme manipulovat a vyvolávat jimi jevy.",
+      "Tím, že matematická struktura teorií přetrvává i jejich pád."
+    ],
+    "correct": 2,
+    "explanation": "Hackingův entitní realismus přesouvá důkazní břemeno z teorie na experimentální praxi: „když je můžeš stříkat, jsou skutečné.“ Věříme tedy v elektrony, aniž bychom museli věřit v pravdivost teorií o nich. Ostatní možnosti jsou argument z žádných zázraků a Worrallův strukturální realismus — obojí reálné, ale odlišné pozice.",
+    "source": "Hacking: Representing and Intervening (1983)",
+    "seedElo": 1950
+  },
+  {
+    "id": "epi-B32",
+    "type": "F",
+    "category": "epistemologie",
+    "text": "Co míní Nancy Cartwrightová tvrzením, že „zákony fyziky lžou“?",
+    "options": [
+      "Že fyzikální zákony byly opakovaně vyvráceny novými měřeními.",
+      "Že vědci zákony formulují tak, aby vyhověli zadavatelům.",
+      "Že zákony platí pouze ve světě, kde neexistuje náhoda.",
+      "Že fundamentální zákony popisují přesně jen model, ne realitu."
+    ],
+    "correct": 3,
+    "explanation": "Cartwrightová staví proti sobě obecnost a pravdivost: čím fundamentálnější zákon, tím spíš platí jen ceteris paribus, tedy o vysoce idealizovaném modelu. Konkrétní jevy popisují přesněji fenomenologické zákony s úzkým dosahem. Odtud její obraz „rozháraného světa“ — nikoli jednotný řád, ale mozaika lokálně platných kauzálních vzorců.",
+    "source": "Cartwright: How the Laws of Physics Lie (1983)",
+    "seedElo": 2000
+  }
+]

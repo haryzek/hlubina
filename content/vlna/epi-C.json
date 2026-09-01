@@ -1,0 +1,514 @@
+[
+  {
+    "id": "epi-C01",
+    "type": "F",
+    "category": "epistemologie",
+    "text": "Firma utopila v neúspěšném vývoji dva roky práce. Co velí ekonomická logika?",
+    "options": [
+      "Rozhodovat se jen podle budoucích nákladů a očekávaných přínosů.",
+      "Do projektu doinvestovat, aby se dosavadní vklad nakonec nepromarnil.",
+      "Vytrvat, protože změna kurzu poškozuje důvěryhodnost týmu.",
+      "Zvolit variantu, do níž byl dosud vložen největší objem práce."
+    ],
+    "correct": 0,
+    "explanation": "Utopené náklady jsou z definice nevratné, a proto do rozhodování o budoucnosti nepatří. Přesto lidé pravidelně pokračují v prohrávajícím podniku právě proto, že už do něj hodně vložili. Arkes a Blumer ukázali tento sklon i na drobnostech typu nevyužité vstupenky do divadla.",
+    "source": "Arkes & Blumer, The psychology of sunk cost (1985)",
+    "seedElo": 1500
+  },
+  {
+    "id": "epi-C02",
+    "type": "F",
+    "category": "epistemologie",
+    "text": "Co ukazují klasické pokusy s kotvením při číselném odhadu?",
+    "options": [
+      "Kotva působí jen tehdy, když ji odhadce považuje za odbornou.",
+      "Odhad se posune ke kotvě i tehdy, když je zjevně náhodná.",
+      "Kotva ovlivní pouze ty, kdo v daném oboru nemají zkušenost.",
+      "Upozornění na kotvu její vliv v pokusech spolehlivě ruší."
+    ],
+    "correct": 1,
+    "explanation": "Tversky a Kahneman roztočili před účastníky kolo štěstí a i takto zjevně bezcenné číslo posunulo jejich odhady. Kotvení se ukazuje i u odborníků ve vlastním oboru a varování před ním efekt jen zmenší, nikoli odstraní. Právě odolnost vůči poučení dělá z kotvení tak nepříjemné zkreslení.",
+    "source": "Tversky & Kahneman, Judgment under Uncertainty (Science, 1974)",
+    "seedElo": 1550
+  },
+  {
+    "id": "epi-C03",
+    "type": "K",
+    "category": "epistemologie",
+    "text": "Zpětné zkreslení (hindsight bias) se v praxi projevuje tím, že:",
+    "options": [
+      "výsledek nás překvapí víc, než jsme si původně připouštěli",
+      "si po výsledku ztížíme přístup k záznamům původních odhadů",
+      "si svůj původní odhad pamatujeme jako bližší tomu, co nastalo",
+      "po výsledku odmítáme uznat, že šlo o pouhou náhodu či shodu okolností"
+    ],
+    "correct": 2,
+    "explanation": "Paměť původní nejistoty se po zjištění výsledku tiše přepíše směrem k tomu, co se stalo, a minulost pak vypadá předvídatelněji, než byla. Důsledkem je nespravedlivé hodnocení rozhodnutí podle výsledku a falešný dojem, že jsme to věděli. Jediná spolehlivá obrana je zapsat si odhad předem a pak ho porovnat.",
+    "source": "Baruch Fischhoff, Hindsight ≠ foresight (1975)",
+    "seedElo": 1550
+  },
+  {
+    "id": "epi-C04",
+    "type": "F",
+    "category": "epistemologie",
+    "text": "Co je jádrem framing efektu v Tverského a Kahnemanově úloze o nemoci?",
+    "options": [
+      "Lidé přeceňují malé pravděpodobnosti, když jde o životy lidí.",
+      "Lidé hodnotí zdravotní rizika hůř než rizika finanční ztráty.",
+      "Lidé volí podle toho, kdo jim danou variantu doporučil první.",
+      "Formulace přes zachráněné či mrtvé obrací volbu mezi variantami."
+    ],
+    "correct": 3,
+    "explanation": "Tytéž varianty popsané jako počet zachráněných vedou k opatrné volbě, zatímco popis přes počet mrtvých obrátí většinu k riskantní variantě. Rozdíl vzniká jen posunem referenčního bodu, čísla zůstávají stejná. Framing tak ukazuje, že preference nejsou pevně dané, ale spoluvytváří je způsob podání.",
+    "source": "Tversky & Kahneman, The framing of decisions (Science, 1981)",
+    "seedElo": 1600
+  },
+  {
+    "id": "epi-C05",
+    "type": "K",
+    "category": "epistemologie",
+    "text": "Heuristika dostupnosti vede k tomu, že pravděpodobnost události odhadujeme podle:",
+    "options": [
+      "snadnosti, s jakou si vybavíme příklady dané události",
+      "podobnosti události typickému představiteli své třídy",
+      "první číselné hodnoty, kterou jsme před odhadem slyšeli",
+      "toho, jak silně si přejeme, aby daná událost nastala"
+    ],
+    "correct": 0,
+    "explanation": "Snadno vybavitelné případy nám připadají častější, což zpravidla funguje, ale selhává tam, kde vybavitelnost řídí médium či emoce, nikoli četnost. Proto lidé přeceňují rizika letecké nehody či vraždy a podceňují běžné příčiny úmrtí. Ostatní varianty popisují reprezentativnost, kotvení a přání jako otce myšlenky.",
+    "source": "Tversky & Kahneman, Availability (Cognitive Psychology, 1973)",
+    "seedElo": 1500
+  },
+  {
+    "id": "epi-C06",
+    "type": "F",
+    "category": "epistemologie",
+    "text": "Proč mají země s automatickou registrací dárců orgánů výrazně vyšší podíl souhlasů?",
+    "options": [
+      "Automatický systém provází vždy rozsáhlá osvětová kampaň ze strany státu.",
+      "Lidé zpravidla setrvávají u přednastavené volby, ať je jakákoli.",
+      "Registrace dárců bývá v těchto zemích finančně zvýhodňována.",
+      "Obyvatelé těchto zemí bývají k dárcovství vstřícněji naladěni."
+    ],
+    "correct": 1,
+    "explanation": "Johnson a Goldstein srovnali evropské země a rozdíl v podílu dárců mezi systémem opt-in a opt-out byl obrovský, ačkoli změna volby stojí v obou případech jen podpis. Setrvačnost u výchozí volby je jedním z nejsilnějších efektů v behaviorální ekonomii. Kdo nastavuje default, ten reálně rozhoduje.",
+    "source": "Johnson & Goldstein, Do defaults save lives? (Science, 2003)",
+    "seedElo": 1600
+  },
+  {
+    "id": "epi-C07",
+    "type": "F",
+    "category": "epistemologie",
+    "text": "Jak vypadá hodnotová funkce prospektové teorie kolem referenčního bodu?",
+    "options": [
+      "Je symetrická, jen posunutá oproti počátku souřadnic.",
+      "Roste rovnoměrně, ztráty i zisky váží zcela shodně.",
+      "Je v oblasti ztrát znatelně strmější než v oblasti zisků.",
+      "V oblasti zisků je konvexní a v oblasti ztrát naopak konkávní."
+    ],
+    "correct": 2,
+    "explanation": "Funkce je definovaná na změnách vůči referenčnímu bodu, je konkávní pro zisky, konvexní pro ztráty a v oblasti ztrát podstatně strmější. Odtud averze ke ztrátě: ztráta bolí zhruba dvakrát víc, než potěší zisk stejné velikosti. Přesný poměr se ale liší podle úlohy a není žádnou přírodní konstantou.",
+    "source": "Kahneman & Tversky, Prospect Theory (Econometrica, 1979)",
+    "seedElo": 1700
+  },
+  {
+    "id": "epi-C08",
+    "type": "K",
+    "category": "epistemologie",
+    "text": "Úloha o Lindě odhaluje takzvaný konjunkční klam, protože lidé:",
+    "options": [
+      "posuzují popis podle toho, jak často se v populaci vyskytuje",
+      "opomíjejí, že delší popis je vždy statisticky pravděpodobnější",
+      "vybírají odpověď, kterou dřív slyšeli od nějaké autority",
+      "považují barvitější popis za pravděpodobnější než jeho část"
+    ],
+    "correct": 3,
+    "explanation": "Spojení dvou podmínek nemůže být pravděpodobnější než jedna z nich, přesto většina lidí volí bohatší, reprezentativnější popis. Vypráví se tu příběh, který se hodnotí podle podobnosti, ne podle pravděpodobnosti. Efekt slábne, když se otázka položí ve četnostech místo v procentech, ale nemizí.",
+    "source": "Tversky & Kahneman, Extensional versus intuitive reasoning (1983)",
+    "seedElo": 1650
+  },
+  {
+    "id": "epi-C09",
+    "type": "F",
+    "category": "epistemologie",
+    "text": "Co se stane, když lidé mají uvést interval, do kterého veličina spadne s 90% jistotou?",
+    "options": [
+      "Skutečná hodnota do intervalu padne mnohem méně často než v 90 %.",
+      "Intervaly bývají tak široké, že skutečnou hodnotu minou zřídka.",
+      "Trefovanost odpovídá slíbeným devadesáti procentům celkem přesně.",
+      "Přesnost intervalů závisí hlavně na tom, jak dlouho odhadce váhá."
+    ],
+    "correct": 0,
+    "explanation": "Devadesátiprocentní intervaly bývají v pokusech příliš úzké a skutečná hodnota do nich padne výrazně méně často, než by měla. Jde o přeceňování přesnosti, které se liší od pouhého přeceňování vlastní dovednosti. Trénink s okamžitou zpětnou vazbou kalibraci zlepšuje, což ukázali meteorologové.",
+    "source": "Alpert & Raiffa (1982); Lichtenstein, Fischhoff & Phillips (1982)",
+    "seedElo": 1700
+  },
+  {
+    "id": "epi-C10",
+    "type": "F",
+    "category": "epistemologie",
+    "text": "Co podle Tetlockova projektu Good Judgment odlišovalo nejlepší předpovídače?",
+    "options": [
+      "Vyšší vzdělání a přístup k neveřejným zpravodajským informacím.",
+      "Drobné a časté úpravy odhadů podle nově přicházejících zpráv.",
+      "Pevné držení výchozího názoru navzdory protichůdným zprávám.",
+      "Výrazně vyšší inteligence než u zbytku zapojených dobrovolníků."
+    ],
+    "correct": 1,
+    "explanation": "Superforecasteři nebyli hlavně chytřejší ani lépe informovaní; rozlišovala je pracovní návyk a styl. Rozkládali otázku na části, začínali od základní míry, používali jemné stupnice pravděpodobnosti a odhad často korigovali po malých krocích. Šlo tedy spíš o metodu než o talent.",
+    "source": "Tetlock & Gardner, Superforecasting (2015)",
+    "seedElo": 1700
+  },
+  {
+    "id": "epi-C11",
+    "type": "K",
+    "category": "epistemologie",
+    "text": "Brierovo skóre hodnotí pravděpodobnostní předpovědi tím, že:",
+    "options": [
+      "sleduje podíl předpovědí, které se nakonec vyplnily",
+      "oceňuje odvahu odhadu bez ohledu na to, co pak skutečně nastalo",
+      "sčítá čtverce rozdílů mezi odhadem a skutečným výsledkem",
+      "srovnává odhad s tím, co tvrdila většina ostatních lidí"
+    ],
+    "correct": 2,
+    "explanation": "Brierovo skóre je průměrný čtverec rozdílu mezi udanou pravděpodobností a skutečností zapsanou jako nula či jedna, takže nižší hodnota je lepší. Je to takzvané správné skórovací pravidlo: nejlépe vyjde tomu, kdo uvádí svou upřímnou pravděpodobnost. Blafování jistotou se v něm tvrdě trestá.",
+    "source": "Glenn W. Brier, Monthly Weather Review (1950)",
+    "seedElo": 1750
+  },
+  {
+    "id": "epi-C12",
+    "type": "F",
+    "category": "epistemologie",
+    "text": "K čemu dospěl Paul Meehl při srovnání klinického a statistického úsudku?",
+    "options": [
+      "Odborný úsudek jednoduchý vzorec zpravidla o kus překonává.",
+      "Oba přístupy vycházejí ve výzkumech prakticky vždy nastejno.",
+      "Vzorce fungují pouze tam, kde nejde o předpověď chování lidí.",
+      "Jednoduchý vzorec odborný úsudek zpravidla dorovná či předčí."
+    ],
+    "correct": 3,
+    "explanation": "Meehl shrnul desítky srovnání a mechanické kombinování několika proměnných dopadalo stejně dobře nebo lépe než úsudek zkušeného odborníka; pozdější metaanalýzy to potvrdily. Důvod je prozaický: člověk váhy mezi ukazateli nedrží konzistentně a nechá se strhnout výjimkami. Vzorec je nudný, ale stabilní.",
+    "source": "Meehl, Clinical versus Statistical Prediction (1954); Grove et al. (2000)",
+    "seedElo": 1750
+  },
+  {
+    "id": "epi-C13",
+    "type": "F",
+    "category": "epistemologie",
+    "text": "Co původní studie Dunninga a Krugera z roku 1999 skutečně zjistila?",
+    "options": [
+      "Slabí i silní odhadovali svůj výkon blíž průměru, než jaký byl.",
+      "Nekompetentní se hodnotili výš než skutečně nejlepší z účastníků.",
+      "Schopnost sebehodnocení s rostoucí kompetencí lineárně klesá.",
+      "Nejhorší čtvrtina se v testech hodnotila jako zcela bezradná."
+    ],
+    "correct": 0,
+    "explanation": "Odhady všech skupin byly stlačené ke středu: nejhorší se přeceňovali, nejlepší se mírně podceňovali, ale nejhorší se nikdy neřadili nad nejlepší. Populární verze, že hloupí se považují za nejchytřejší, ve studii není. Část efektu navíc vysvětluje regrese k průměru a šum v měření, což je dodnes sporné.",
+    "source": "Kruger & Dunning (1999); kritika Krueger & Mueller (2002)",
+    "seedElo": 1750
+  },
+  {
+    "id": "epi-C14",
+    "type": "K",
+    "category": "epistemologie",
+    "text": "Současný pohled na model dvou systémů myšlení je takový, že:",
+    "options": [
+      "jde o dvě anatomicky oddělené a přesně lokalizované soustavy",
+      "je to užitečná metafora, ne dvě doslovné soustavy v mozku",
+      "rychlé myšlení se ukázalo jako spolehlivější než pomalé",
+      "pomalé uvažování bylo experimentálně zcela vyvráceno"
+    ],
+    "correct": 1,
+    "explanation": "Rozlišení rychlého a pomalého zpracování je popisně užitečné, ale dvě oddělené soustavy v mozku nikdo nenašel a řada autorů mluví spíš o spojitém rozdílu v míře kontroly. Kahneman sám systémy označoval za pomocné postavy v příběhu. Některé opory modelu navíc oslabily neúspěšné replikace, například u ego depletion.",
+    "source": "Kahneman, Myšlení rychlé a pomalé (2011); kritika Melnikoff & Bargh (2018)",
+    "seedElo": 1650
+  },
+  {
+    "id": "epi-C15",
+    "type": "K",
+    "category": "epistemologie",
+    "text": "Podobenství o Chestertonově plotu nám radí, abychom:",
+    "options": [
+      "zachovali každé zavedené pravidlo, dokud nevznikne nové",
+      "rušili zbytečná pravidla dřív, než si na ně kdokoli zvykne",
+      "měnili instituce jen tehdy, souhlasí-li s tím všichni členové",
+      "nerušili zavedené opatření dřív, než pochopíme jeho účel"
+    ],
+    "correct": 3,
+    "explanation": "Chesterton popsal plot uprostřed pole: reformátor ho chce strhnout, protože nevidí důvod, proč tam stojí, a právě proto ho strhnout nemá. Není to výzva ke konzervatismu, ale k pokoře vůči skryté informaci uložené v tom, co přežilo. Jakmile důvod znáte a je mrtvý, plot padá bez výčitek.",
+    "source": "G. K. Chesterton, The Thing (1929)",
+    "seedElo": 1650
+  },
+  {
+    "id": "epi-C16",
+    "type": "F",
+    "category": "epistemologie",
+    "text": "V čem spočívá technika pre-mortem podle Garyho Kleina?",
+    "options": [
+      "Tým sepíše všechna rizika a přiřadí jim pravděpodobnosti.",
+      "Tým po skončení projektu rozebere, co všechno se nepovedlo.",
+      "Tým si předem představí, že projekt selhal, a hledá proč.",
+      "Tým nechá záměr posoudit nezávislým externím oponentem."
+    ],
+    "correct": 2,
+    "explanation": "Pre-mortem přesune uvažování z otázky, co by se mohlo pokazit, k jistotě, že se to pokazilo, a žádá vysvětlení. Tím se legitimizuje pochybnost a lidé vysloví obavy, které by v optimistické poradě spolkli. Klein to popisuje jako prospektivní zpětný pohled, jenž využívá sílu hindsight bias ve svůj prospěch.",
+    "source": "Gary Klein, Performing a Project Premortem (HBR, 2007)",
+    "seedElo": 1700
+  },
+  {
+    "id": "epi-C17",
+    "type": "F",
+    "category": "epistemologie",
+    "text": "Co znamená pohled zvnějšku (outside view) při odhadu délky projektu?",
+    "options": [
+      "Vycházet z detailního rozpisu jednotlivých úkolů a odhadů zvlášť.",
+      "Vyjít z toho, jak dlouho trvaly podobné projekty v minulosti.",
+      "Nechat si vlastní odhad potvrdit od člověka mimo tým.",
+      "Přičíst k vlastnímu odhadu pevnou rezervu, obvykle třetinu."
+    ],
+    "correct": 1,
+    "explanation": "Pohled zvnějšku znamená zařadit svůj případ do referenční třídy podobných případů a začít od jejich rozdělení výsledků. Pohled zevnitř, tedy rozpis vlastního plánu, systematicky vede k příliš optimistickým odhadům, což se označuje jako plánovací klam. Kahneman s Lovallem z toho udělali metodu pro velké investice.",
+    "source": "Kahneman & Lovallo (1993); Flyvbjerg, reference class forecasting",
+    "seedElo": 1800
+  },
+  {
+    "id": "epi-C18",
+    "type": "K",
+    "category": "epistemologie",
+    "text": "Goodhartův zákon v obvyklé Straternové formulaci říká, že:",
+    "options": [
+      "ukazatel použitý jako cíl přestává být dobrým ukazatelem",
+      "každý ukazatel lze při dostatečné snaze změřit zcela přesně",
+      "cíle je třeba stanovovat vždy číselně, jinak nejsou závazné",
+      "měření samo o sobě mění měřenou veličinu na kvantové úrovni"
+    ],
+    "correct": 0,
+    "explanation": "Jakmile se z měřítka stane cíl, lidé začnou optimalizovat měřítko, ne to, co mělo zastupovat, a korelace se rozpadne. Odtud nemocnice zkracující čekárny přejmenováním front nebo školy trénující na test. Charles Goodhart to původně řekl o měnových agregátech, dnešní znění pochází od Marilyn Stratern.",
+    "source": "Goodhart (1975); formulace Marilyn Strathern (1997)",
+    "seedElo": 1800
+  },
+  {
+    "id": "epi-C19",
+    "type": "F",
+    "category": "epistemologie",
+    "text": "Co tvrdí Brandoliniho princip o šíření nesmyslů?",
+    "options": [
+      "Nesmysl se šíří rychleji, protože bývá zábavnější než pravda.",
+      "Vyvracení nesmyslu jeho zastáncům paradoxně posiluje jistotu.",
+      "Vyvrátit nesmysl stojí řádově víc energie než ho vypustit.",
+      "Nesmysly vznikají především tam, kde chybí odborná redakce."
+    ],
+    "correct": 2,
+    "explanation": "Asymetrie bullshitu říká, že vyvrácení nesmyslu je řádově dražší než jeho vytvoření, takže obránce pravdy je vždy v nevýhodě. Praktický důsledek je strategický: energii je lepší investovat do zdrojů a filtrů než do vyvracení každého jednotlivého tvrzení. Ostatní varianty popisují jiné, byť reálné jevy.",
+    "source": "Alberto Brandolini (2013), bullshit asymmetry principle",
+    "seedElo": 1800
+  },
+  {
+    "id": "epi-C20",
+    "type": "K",
+    "category": "epistemologie",
+    "text": "Hanlonova břitva a princip charity mají společné to, že:",
+    "options": [
+      "velí předpokládat u druhých vždy nejhorší možný záměr",
+      "radí vykládat cizí jednání či názor v nejpříznivější podobě",
+      "zakazují jakoukoli kritiku, dokud nemáme tvrdý důkaz",
+      "doporučují spor ukončit dohodou uprostřed mezi názory"
+    ],
+    "correct": 1,
+    "explanation": "Hanlonova břitva radí nehledat zlý úmysl tam, kde stačí nedbalost či nedorozumění; princip charity žádá vykládat cizí tvrzení v jeho nejrozumnější verzi. Obojí je epistemický nástroj, ne mravní ctnost: chrání před tím, abychom bojovali s vlastní karikaturou protistrany. Není to povinnost věřit, že druhý má pravdu.",
+    "source": "Robert Hanlon (1980); princip charity, Neil Wilson a Donald Davidson",
+    "seedElo": 1800
+  },
+  {
+    "id": "epi-C21",
+    "type": "F",
+    "category": "epistemologie",
+    "text": "Co znamená takzvaný steelmanning v diskusi?",
+    "options": [
+      "Držet vlastní pozici tak dlouho, dokud ji někdo nevyvrátí.",
+      "Vybrat z protistrany nejslabší argument a ten rozebrat.",
+      "Nahradit spor o fakta sporem o hodnoty a zájmy obou stran.",
+      "Zformulovat protistranu v nejsilnější verzi a tu vyvracet."
+    ],
+    "correct": 3,
+    "explanation": "Steelman je opak slaměného panáka: nejprve postavíte nejsilnější verzi protistrany, klidně silnější, než jakou vyslovila, a teprve tu napadáte. Vítězství nad slabou verzí totiž o pravdivosti nic neříká. Jako vedlejší efekt často zjistíte, že v protistraně bylo víc, než jste čekali.",
+    "source": "Chana Messinger; racionalistická komunita, pojem steelman",
+    "seedElo": 1850
+  },
+  {
+    "id": "epi-C22",
+    "type": "F",
+    "category": "epistemologie",
+    "text": "Jaký je rozdíl mezi epistemickou bublinou a echo komorou podle C. T. Nguyena?",
+    "options": [
+      "Bublina jiné hlasy nepustí dál, komora je předem zdiskredituje.",
+      "Bublina vzniká vždy algoritmem, kdežto komora vždy osobní volbou.",
+      "Bublina se týká politiky, komora se týká vědeckých sporů.",
+      "Bublina je krátkodobá, komora přetrvává po celý život."
+    ],
+    "correct": 0,
+    "explanation": "V bublině protichůdné hlasy prostě chybějí, takže stačí je doručit a bublina praskne. Echo komora hlasy zvenčí zná, ale předem je označila za nedůvěryhodné, takže nová informace ji naopak posiluje. Proto Nguyen tvrdí, že komora se nedá léčit informací, ale jen obnovou důvěry.",
+    "source": "C. Thi Nguyen, Echo Chambers and Epistemic Bubbles (Episteme, 2020)",
+    "seedElo": 1850
+  },
+  {
+    "id": "epi-C23",
+    "type": "K",
+    "category": "epistemologie",
+    "text": "Informační kaskáda ve skupině vzniká tehdy, když:",
+    "options": [
+      "všichni ve skupině mají shodné informace i shodné zájmy",
+      "skupina hlasuje tajně, a proto nevidí názory ostatních",
+      "lidé potlačí vlastní signál a řídí se volbou předchůdců",
+      "informace se ve skupině šíří pomaleji, než by bylo třeba"
+    ],
+    "correct": 2,
+    "explanation": "Když každý racionálně usoudí, že veřejná volba předchůdců váží víc než jeho soukromá informace, přestane se ta informace do skupiny přidávat. Skupina pak vypadá jednotně, ale stojí na názoru několika prvních lidí a snadno se překlopí. Proto se v poradách vyplatí vyžádat si odhady písemně a nezávisle předem.",
+    "source": "Bikhchandani, Hirshleifer & Welch, A theory of fads (JPE, 1992)",
+    "seedElo": 1850
+  },
+  {
+    "id": "epi-C24",
+    "type": "F",
+    "category": "epistemologie",
+    "text": "Co je typickým znakem skupinového myšlení podle Irvinga Janise?",
+    "options": [
+      "Otevřený spor mezi členy skupiny se stupňuje až k rozkolu.",
+      "Skupina si potlačí pochybnosti a přeceňuje vlastní správnost.",
+      "Skupina rozhodnutí odkládá tak dlouho, až ztratí příležitost.",
+      "Členové ztrácejí zájem o výsledek a rozhodování zlenivějí."
+    ],
+    "correct": 1,
+    "explanation": "Janis popsal soudržné skupiny pod tlakem, které si samy hlídají jednotu: členové zamlčí pochyby, iluze neporazitelnosti roste a odpůrci se karikují. Jeho historické případové studie jsou dnes metodologicky kritizované a experimentální podpora je smíšená, ale popsané mechanismy zůstávají užitečné. Pomáhá ustanovit roli ďáblova advokáta.",
+    "source": "Irving Janis, Groupthink (1972, 1982)",
+    "seedElo": 1800
+  },
+  {
+    "id": "epi-C25",
+    "type": "F",
+    "category": "epistemologie",
+    "text": "Proč u sporných témat neplatí, že víc znalostí spolehlivě sblíží názory lidí?",
+    "options": [
+      "Zdatnější lidé umějí lépe hájit stanovisko své vlastní skupiny.",
+      "Zdatnější lidé mívají soustavně horší přístup k datům o daném tématu.",
+      "Znalosti se u sporných témat v populaci šíří výrazně pomaleji.",
+      "Sporná témata bývají taková, že o nich data zkrátka chybějí."
+    ],
+    "correct": 0,
+    "explanation": "Kahanovy studie ukazují, že u témat spjatých se skupinovou identitou se s rostoucí početní zdatností názory nesbližují, ale rozestupují. Lepší nástroje slouží k obhajobě pozice, kterou zastává moje skupina, protože přiznat opak by stálo sociálně víc než mít pravdu. Motivované uvažování tak není projevem hlouposti.",
+    "source": "Kahan et al., Motivated numeracy (Behavioural Public Policy, 2017)",
+    "seedElo": 1850
+  },
+  {
+    "id": "epi-C26",
+    "type": "K",
+    "category": "epistemologie",
+    "text": "Stanovichovy práce o myside bias ukazují, že sklon vážit důkazy ve prospěch vlastního postoje:",
+    "options": [
+      "s rostoucí inteligencí spolehlivě klesá až téměř k nule",
+      "se objevuje jen u lidí s podprůměrnou úrovní vzdělání",
+      "je pouhým artefaktem špatně sestavených výzkumných úloh",
+      "je s inteligencí spjatý jen slabě, ne-li vůbec nijak"
+    ],
+    "correct": 3,
+    "explanation": "Myside bias je podle Stanoviche jedním z mála zkreslení, které se s inteligencí prakticky nezlepšuje, a v některých úlohách jsou bystřejší lidé dokonce zdatnější v obhajobě svého tábora. Racionalita je tak částečně nezávislá na tom, co měří testy inteligence. Pomáhá spíš aktivně otevřené myšlení než vyšší IQ.",
+    "source": "Keith Stanovich, The Bias That Divides Us (2021)",
+    "seedElo": 2000
+  },
+  {
+    "id": "epi-C27",
+    "type": "F",
+    "category": "epistemologie",
+    "text": "Tichá kolegyně s brýlemi ráda čte. Proč je spíš prodavačka než knihovnice?",
+    "options": [
+      "Popis odpovídá knihovnicím jen zdánlivě, ve skutečnosti vůbec.",
+      "Popis pochází z dotazníku, a proto nemá žádnou váhu.",
+      "Prodavaček je v populaci mnohonásobně víc než knihovnic.",
+      "Povolání nelze z popisu odhadovat, jde o nepřípustný úsudek."
+    ],
+    "correct": 2,
+    "explanation": "I když popis sedí na knihovnice mnohem lépe, prodavaček je řádově víc, takže i malý podíl odpovídajících prodavaček převáží celou profesi knihovnic. Podobnost popisu je jen jedna část výpočtu, druhou je četnost v populaci. Právě tu lidé při úsudku nejčastěji vynechají, protože příběh je názornější než číslo.",
+    "source": "Kahneman & Tversky, On the psychology of prediction (1973)",
+    "seedElo": 1800
+  },
+  {
+    "id": "epi-C28",
+    "type": "K",
+    "category": "epistemologie",
+    "text": "Užitečným testem, zda je vlastní přesvědčení něčím víc než postojem, je otázka:",
+    "options": [
+      "kolik lidí v mém okolí totéž přesvědčení také zastává",
+      "jaké konkrétní pozorování by mě přimělo názor opustit",
+      "jak dlouho už dané přesvědčení bez pochyb zastávám",
+      "kolik argumentů pro ně dokážu vyjmenovat bez přípravy"
+    ],
+    "correct": 1,
+    "explanation": "Přesvědčení, které je slučitelné s jakýmkoli budoucím pozorováním, o světě nic netvrdí a nemůže se mýlit ani zlepšit. Praktická verze je předem si napsat, jaké konkrétní zjištění bych přijal jako důkaz proti, ideálně s číslem a termínem. Pokud odpověď neexistuje, jde spíš o příslušnost než o poznatek.",
+    "source": "Tetlock, Expert Political Judgment (2005); praxe předregistrace",
+    "seedElo": 1900
+  },
+  {
+    "id": "epi-C29",
+    "type": "F",
+    "category": "epistemologie",
+    "text": "Předpovídač říká u každé události „50 %“ a polovina jich nastane. Jak si vede?",
+    "options": [
+      "Je dobře kalibrovaný a jeho předpovědi jsou i velmi užitečné.",
+      "Je špatně kalibrovaný, protože nikdy neřekne nic určitého.",
+      "Nelze posoudit, dokud nezveřejní i své zdůvodnění odhadů.",
+      "Je dobře kalibrovaný, ale jeho odhady nic nerozlišují."
+    ],
+    "correct": 3,
+    "explanation": "Kalibrace znamená, že z událostí označených dvaceti procenty jich dvacet procent nastane. Sama o sobě ale nestačí: kdo všemu dá padesát procent, může být dokonale kalibrovaný a přitom bezcenný, protože neodliší, co se stane, od toho, co ne. Druhou nutnou vlastností je rozlišovací schopnost.",
+    "source": "Murphy (1973); Tetlock & Gardner, Superforecasting (2015)",
+    "seedElo": 1900
+  },
+  {
+    "id": "epi-C30",
+    "type": "F",
+    "category": "epistemologie",
+    "text": "Jak prospektová teorie popisuje zacházení lidí s pravděpodobnostmi?",
+    "options": [
+      "Malé pravděpodobnosti se přeceňují, velké naopak podceňují.",
+      "Všechny pravděpodobnosti se posuzují lineárně a nezkresleně.",
+      "Malé pravděpodobnosti se podceňují, velké se naopak přeceňují.",
+      "Pravděpodobnosti se váží podle toho, kdo je člověku sdělil."
+    ],
+    "correct": 0,
+    "explanation": "Váhová funkce je nelineární: drobné šance dostávají větší váhu, než jim náleží, zatímco téměř jisté výsledky váhu ztrácejí. Odtud současná obliba loterií i pojištění a takzvaný efekt jistoty, kdy posun z 99 na 100 procent váží víc než z 60 na 61. U zanedbatelných pravděpodobností se ale často přepne na nulu.",
+    "source": "Kahneman & Tversky (1979); Tversky & Kahneman, Cumulative prospect theory (1992)",
+    "seedElo": 1950
+  },
+  {
+    "id": "epi-C31",
+    "type": "K",
+    "category": "epistemologie",
+    "text": "Podle Tetlocka si v dlouhodobých předpovědích vedou nejhůř odborníci, kteří:",
+    "options": [
+      "sbírají poznatky z mnoha oborů a odhady průběžně upravují",
+      "se odmítají vyjádřit dřív, než mají zcela úplná data",
+      "vykládají dění jedinou velkou myšlenkou a drží se jí",
+      "své odhady raději uvádějí v číslech než ve slovech"
+    ],
+    "correct": 2,
+    "explanation": "Tetlock s výpůjčkou od Berlina odlišil ježky, kteří vše vysvětlují jednou velkou ideou, a lišky, které slepují mnoho drobných poznatků. Ježci si vedli hůř než lišky a u dlouhých horizontů se blížili náhodě, přesto byli žádanějšími hosty v médiích, protože zněli sebejistě a jednoduše.",
+    "source": "Philip Tetlock, Expert Political Judgment (2005)",
+    "seedElo": 1950
+  },
+  {
+    "id": "epi-C32",
+    "type": "F",
+    "category": "epistemologie",
+    "text": "Na které složky lze podle Murphyho rozložit Brierovo skóre?",
+    "options": [
+      "Na přesnost, rychlost a počet hodnocených předpovědí.",
+      "Na systematickou chybu, náhodný šum a chybu měření.",
+      "Na odbornost, sebedůvěru a odvahu předpovídajícího.",
+      "Na kalibraci, rozlišovací schopnost a nejistotu jevu."
+    ],
+    "correct": 3,
+    "explanation": "Murphy ukázal, že Brierovo skóre se rozpadá na tři členy: kalibraci, tedy shodu udané pravděpodobnosti se skutečnou četností, rozlišovací schopnost, tedy jak se odhady liší od základní míry, a nejistotu, danou samotným jevem. Skóre proto nelze srovnávat napříč různě těžkými soubory otázek.",
+    "source": "Allan H. Murphy, A new vector partition of the probability score (1973)",
+    "seedElo": 2000
+  }
+]

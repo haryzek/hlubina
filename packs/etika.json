@@ -32,6 +32,54 @@
   "seedElo": 1330
  },
  {
+  "id": "eti-A16",
+  "type": "F",
+  "category": "etika",
+  "text": "Aristotelova eudaimonia se nejpřesněji vystihuje jako:",
+  "options": [
+   "trvalý příjemný pocit, jehož lze dosáhnout i pouhým odstraněním bolesti a strachu",
+   "vnitřní klid dosažený lhostejností vůči všemu, co není v naší vlastní moci",
+   "subjektivní spokojenost se svým životem, měřitelná tím, jak jej člověk sám hodnotí",
+   "činná dokonalost celého lidského života, totiž jednání duše ve shodě s vlastní ctností"
+  ],
+  "correct": 3,
+  "explanation": "Eudaimonia není nálada, ale způsob, jak žít — Aristotelés ji odvozuje z lidského ergon, totiž z činnosti duše řízené rozumem, vykonávané dobře a v celku života. Proto k ní patří i vnější dobra a přátelé a proto lze o někom soudit až se zřetelem k celému běhu jeho života.",
+  "source": "Aristotelés, Etika Níkomachova I, 7",
+  "seedElo": 1350
+ },
+ {
+  "id": "eti-B02",
+  "type": "F",
+  "category": "etika",
+  "text": "Čtyři principy lékařské etiky, jak je formulovali Beauchamp a Childress, jsou:",
+  "options": [
+   "autonomie pacienta, důvěrnost, upřímnost a lékařský soucit",
+   "autonomie pacienta, neškodit, prospívat a spravedlnost",
+   "neškodit, prospívat, poslušnost autoritě a mlčenlivost",
+   "svoboda volby, rovnost, solidarita a zdrženlivost lékaře"
+  ],
+  "correct": 1,
+  "explanation": "Principialismus Beauchampa a Childresse nabízí čtyři prima facie závazné principy: respekt k autonomii, nonmaleficence (neškodit), beneficence (prospívat) a spravedlnost v rozdělování zdrojů. Žádný z nich nemá pevnou přednost — v konkrétním případě se váží proti sobě a hledá se rovnováha. Právě to je hlavní terč kritiky: principy prý neříkají, jak konflikt mezi nimi rozhodnout.",
+  "source": "Tom Beauchamp a James Childress, Principles of Biomedical Ethics (1979)",
+  "seedElo": 1350
+ },
+ {
+  "id": "eti-B06",
+  "type": "F",
+  "category": "etika",
+  "text": "Pojem speciesismus, jak jej používá Peter Singer, označuje:",
+  "options": [
+   "tvrzení, že jen bytosti se sebevědomím mají morální status",
+   "názor, že mezi lidmi a zvířaty existují biologické rozdíly",
+   "praxi šlechtění zvířat k získání užitečnějších plemen a druhů",
+   "zaujatost ve prospěch zájmů příslušníků vlastního druhu"
+  ],
+  "correct": 3,
+  "explanation": "Speciesismus je pro Singera obdoba rasismu: příslušnost k druhu sama o sobě není morálně relevantní vlastnost, takže nemůže ospravedlnit nižší váhu srovnatelných zájmů. Kritériem morálního ohledu je pro něj schopnost trpět, protože ta zakládá existenci zájmů vůbec. Konstatovat biologické rozdíly mezi druhy přitom speciesismus není — ten začíná až tam, kde z rozdílu plyne nerovné vážení stejného utrpení.",
+  "source": "Peter Singer, Animal Liberation (1975), kap. 1",
+  "seedElo": 1350
+ },
+ {
   "id": "eti-03",
   "type": "K",
   "category": "etika",
@@ -62,6 +110,118 @@
   "explanation": "Kant tvrdí, že jediná bezvýhradně dobrá věc na světě je dobrá vůle. Čin má mravní hodnotu, jen když je konán z úcty k povinnosti, ne kvůli sklonu nebo očekávanému prospěchu — na rozdíl od utilitarismu tu nerozhodují důsledky.",
   "source": "Immanuel Kant, Základy metafyziky mravů (1785)",
   "seedElo": 1390
+ },
+ {
+  "id": "eti-A07",
+  "type": "F",
+  "category": "etika",
+  "text": "Rozdíl mezi Kantovou formulí univerzálního zákona a formulí lidství (účelu o sobě) je v tom, že:",
+  "options": [
+   "první zkoumá bezrozpornost zobecněné maximy, druhá zakazuje užít osobu jen jako věc",
+   "první platí pro povinnosti k druhým, druhá výhradně pro povinnosti k sobě samému",
+   "první je určena pro dokonalé povinnosti, druhá pouze pro povinnosti nedokonalé a záslužné",
+   "první vychází z rozumu, druhá z citu úcty, který v nás vzbuzuje důstojnost druhého člověka"
+  ],
+  "correct": 0,
+  "explanation": "První formule je testem procedurálním: ptá se, zda by maxima obstála jako obecný zákon bez rozporu ve vůli či v pojmu. Druhá je obsahová a určuje, co má být chráněno — rozumná bytost jako účel sám o sobě, kterou lze užít jako prostředek jedině tak, aby v ní zůstala i účelem. Kant je pokládal za tři pohledy na tentýž princip, nikoli za tři různá pravidla.",
+  "source": "Immanuel Kant, Základy metafyziky mravů (1785), 2. část",
+  "seedElo": 1400
+ },
+ {
+  "id": "eti-A15",
+  "type": "F",
+  "category": "etika",
+  "text": "Fronésis (praktická moudrost) se v Aristotelově etice liší od teoretického vědění (sofiá) tím, že:",
+  "options": [
+   "je vrozenou schopností, kterou nelze získat výchovou ani opakovaným cvičením",
+   "míří k jednání v proměnlivých okolnostech, a proto nemá podobu neměnného poznání",
+   "týká se jen záležitostí obce, kdežto v soukromém životě člověku nemá co říci",
+   "je dosažitelná i člověku bez mravní ctnosti, neboť jde o pouhou dovednost počítat"
+  ],
+  "correct": 1,
+  "explanation": "Sofiá se týká toho, co je nutné a neměnné, kdežto fronésis toho, co může být i jinak — proto ji nelze vtělit do knihy pravidel a zraje spolu se zkušeností. Zároveň je u Aristotela neoddělitelná od charakteru: bez správně vychovaných tužeb by šlo jen o chytrost (deinotés) sloužící libovolnému cíli.",
+  "source": "Aristotelés, Etika Níkomachova VI",
+  "seedElo": 1400
+ },
+ {
+  "id": "eti-B03",
+  "type": "K",
+  "category": "etika",
+  "text": "Podle standardní doktríny je souhlas pacienta se zákrokem platný jen tehdy, když:",
+  "options": [
+   "pacient podepsal formulář chránící nemocnici před žalobou",
+   "lékař posoudil, že navržený zákrok je pro pacienta nejlepší",
+   "je dobrovolný, poučený a dává jej osoba způsobilá rozhodovat",
+   "s ním souhlasí ošetřující lékař i nejbližší příbuzný pacienta"
+  ],
+  "correct": 2,
+  "explanation": "Informovaný souhlas stojí na třech pilířích: způsobilosti rozhodovat, dostatečném poučení o povaze, přínosech a rizicích zákroku, a dobrovolnosti bez nátlaku. Podpis formuláře je jen důkazem, nikoli podstatou souhlasu — a přesvědčení lékaře o nejlepším zájmu pacienta souhlas nenahrazuje. Právě zde stojí princip autonomie proti paternalismu.",
+  "source": "Tom Beauchamp a James Childress, Principles of Biomedical Ethics",
+  "seedElo": 1400
+ },
+ {
+  "id": "eti-B05",
+  "type": "K",
+  "category": "etika",
+  "text": "Co podle Ayerova emotivismu dělá věta „Kradení je špatné“?",
+  "options": [
+   "Popisuje přirozenou vlastnost, kterou lze zjistit zkušeností",
+   "Vyjadřuje postoj mluvčího, a není tedy pravdivá ani nepravdivá",
+   "Je analyticky pravdivá, neboť to plyne ze samého významu slova krádež",
+   "Odkazuje k nepřirozené vlastnosti dobra, již nelze definovat"
+  ],
+  "correct": 1,
+  "explanation": "Ayer aplikoval verifikační kritérium významu: morální věta není empiricky ověřitelná ani analytická, takže netvrdí žádný fakt — pouze dává průchod postoji mluvčího a nabádá druhé. Odtud posměšná přezdívka „hurá/fuj teorie“. Distraktory odpovídají skutečným soupeřícím pozicím: etickému naturalismu a Moorovu intuicionismu s nepřirozenou vlastností dobra.",
+  "source": "A. J. Ayer, Language, Truth and Logic (1936), kap. 6",
+  "seedElo": 1400
+ },
+ {
+  "id": "eti-C01",
+  "type": "F",
+  "category": "etika",
+  "text": "Sokratovi se připisuje teze, že „nikdo nechybuje dobrovolně\". Co z ní plyne?",
+  "options": [
+   "Špatné jednání pramení z neznalosti dobra",
+   "Špatné jednání pramení ze slabé vůle",
+   "Špatné jednání pramení ze špatné výchovy",
+   "Špatné jednání pramení z vrozené zloby"
+  ],
+  "correct": 0,
+  "explanation": "Sokratés je morální intelektualista: kdo skutečně ví, co je dobré, ten to i koná. Zdánlivá slabost vůle je podle něj vždy jen omyl v poznání toho, co člověku prospívá. Proti tomu později Aristotelés postavil pojem akrasie, tedy jednání proti vlastnímu lepšímu vědění.",
+  "source": "Platón, Prótagoras",
+  "seedElo": 1400
+ },
+ {
+  "id": "eti-C04",
+  "type": "F",
+  "category": "etika",
+  "text": "Na jakém rozlišení staví Epiktétos celou svou etiku?",
+  "options": [
+   "Mezi tím, co je příjemné, a co bolestné",
+   "Mezi tím, co je zákonné, a co je zvykové",
+   "Mezi tím, co je božské, a co je lidské",
+   "Mezi tím, co je v naší moci, a co není"
+  ],
+  "correct": 3,
+  "explanation": "Rukojeť otevírá tvrzením, že v naší moci jsou soudy, tužby a jednání, nikoli tělo, majetek či pověst. Neštěstí podle Epiktéta vzniká, když toužíme ovládat to, co ovládat nelze. Etika se tak stává cvičením v přesném rozpoznávání této hranice.",
+  "source": "Epiktétos, Rukojeť 1",
+  "seedElo": 1400
+ },
+ {
+  "id": "eti-C28",
+  "type": "F",
+  "category": "etika",
+  "text": "Co znamená taoistické wu-wej?",
+  "options": [
+   "Jednání bez násilného úsilí, v souladu s tao",
+   "Naprostou nečinnost a únik z lidské společnosti",
+   "Přísné plnění obřadních povinností vůči předkům",
+   "Ovládnutí vášní cvičením vůle a sebekázně"
+  ],
+  "correct": 0,
+  "explanation": "Wu-wej se doslova překládá jako „nekonání\", míní se však nevnucování se, jednání bez umělé námahy proti přirozenému běhu věcí. Vzorem je voda, která je poddajná a přesto přemáhá tvrdé. Taoisté odtud kritizují konfuciánskou snahu vychovávat ctnost pravidly jako zdroj pokrytectví.",
+  "source": "Lao-c', Tao te ťing",
+  "seedElo": 1400
  },
  {
   "id": "eti-05",
@@ -96,6 +256,166 @@
   "seedElo": 1450
  },
  {
+  "id": "eti-A19",
+  "type": "K",
+  "category": "etika",
+  "text": "Milgramovy pokusy s poslušností a Zimbardův stanfordský vězeňský experiment bývají uváděny jako námitka proti etice ctností, protože:",
+  "options": [
+   "prokazují, že mravní úsudek závisí výhradně na vrozené míře schopnosti vcítění",
+   "ukazují, že mravní výchova školou a rodinou nemá na dospělé chování žádný vliv",
+   "dokazují, že lidé jednají krutě jen tehdy, mohou-li očekávat osobní prospěch",
+   "naznačují, že běžní lidé bez zlého charakteru se pod tlakem role zachovají krutě"
+  ],
+  "correct": 3,
+  "explanation": "Pokud rozhodující proměnnou je uspořádání situace, a ne stabilní ctnost či neřest, ztrácí program „buduj charakter“ svou oporu. Novější kritika ovšem oba pokusy metodologicky rozebrala — Zimbardo účastníky prokazatelně instruoval — a etikové ctností navíc připomínají, že Aristotelés kladl velký důraz právě na volbu prostředí a společnosti.",
+  "source": "Stanley Milgram, Obedience to Authority (1974); John Doris, Lack of Character",
+  "seedElo": 1450
+ },
+ {
+  "id": "eti-A20",
+  "type": "F",
+  "category": "etika",
+  "text": "Rossovo rozlišení mezi prima facie povinností a skutečnou povinností (duty proper) znamená, že:",
+  "options": [
+   "prima facie povinnost je ta, kterou nám ukládá zákon, kdežto skutečná plyne ze svědomí",
+   "prima facie povinnost je skutečný mravní důvod, jenž může být ve střetu převážen jiným",
+   "prima facie povinnost platí jen do chvíle, než jednající zjistí skutečné okolnosti případu",
+   "prima facie povinnost je pouhé zdání povinnosti, které se při rozboru ukáže jako klam"
+  ],
+  "correct": 1,
+  "explanation": "Ross zdůrazňoval, že „prima facie“ není zdánlivost, nýbrž reálný a trvající morální aspekt jednání — slib zavazuje i tehdy, když nakonec převáží povinnost pomoci raněnému. Ve střetu proto zůstává zbytek: má se omluvit, napravit. Který důvod v konkrétním případě převáží, žádné pravidlo neurčí; rozhoduje úsudek.",
+  "source": "W. D. Ross, The Right and the Good (1930), kap. 2",
+  "seedElo": 1450
+ },
+ {
+  "id": "eti-A21",
+  "type": "F",
+  "category": "etika",
+  "text": "Mezi Rossových sedm prima facie povinností nepatří:",
+  "options": [
+   "věrnost daným slibům a náprava škody, kterou jsme sami druhému způsobili",
+   "maximalizace celkového množství štěstí ve světě jako svrchovaný a jediný cíl",
+   "vděčnost za prokázaná dobrodiní a spravedlnost v rozdělování dober podle zásluh",
+   "sebezdokonalování ve ctnosti a poznání a nečinění újmy druhým lidem"
+  ],
+  "correct": 1,
+  "explanation": "Rossův seznam zahrnuje věrnost, nápravu, vděčnost, spravedlnost, dobročinnost, sebezdokonalení a neškození. Dobročinnost tedy na seznamu je — ale jen jako jeden důvod mezi mnoha, nikoli jako jediný princip pohlcující vše ostatní. Právě to je jeho spor s utilitarismem: morálka je podle něj nesvedená k jedinému kritériu.",
+  "source": "W. D. Ross, The Right and the Good (1930)",
+  "seedElo": 1450
+ },
+ {
+  "id": "eti-A27",
+  "type": "K",
+  "category": "etika",
+  "text": "Ve Williamsově případu má botanik Jim zastřelit jednoho z dvaceti vězňů, aby zbylých devatenáct bylo propuštěno. Williamsovi na tomto příkladu jde hlavně o to, že:",
+  "options": [
+   "utilitaristický závěr je zjevně mylný a Jim má odmítnout střílet za jakýchkoli okolností",
+   "Jim nemůže spolehlivě vědět, zda kapitán slib propuštění zbylých vězňů skutečně dodrží",
+   "utilitarismus dospěje k odpovědi příliš snadno a odřízne Jima od jeho vlastních závazků",
+   "odpovědnost nese výhradně kapitán, který situaci vytvořil, takže Jim nemá čeho litovat"
+  ],
+  "correct": 2,
+  "explanation": "Williams nepopírá, že Jim možná má vystřelit; namítá proti tomu, jak samozřejmě k tomu utilitarismus dochází. Jednání vyrůstá z hlubokých osobních závazků, jež tvoří totožnost člověka, a teorie, která je kdykoli podřídí nestrannému součtu, útočí na jeho integritu. Odcizuje jednajícího jeho vlastnímu jednání.",
+  "source": "Bernard Williams in Smart & Williams, Utilitarianism: For and Against (1973)",
+  "seedElo": 1450
+ },
+ {
+  "id": "eti-B04",
+  "type": "F",
+  "category": "etika",
+  "text": "Princip rozlišování (discrimination) v teorii spravedlivé války vyžaduje, aby:",
+  "options": [
+   "byla válka vyhlášena legitimní autoritou po vyčerpání jednání",
+   "očekávaná újma nebyla nepřiměřená vojenské výhodě daného útoku",
+   "byla válka vedena s úmyslem obnovit mír, nikoli však z pomsty",
+   "útoky mířily na kombatanty a nečinily z civilistů záměrný cíl"
+  ],
+  "correct": 3,
+  "explanation": "Rozlišování patří k pravidlům ius in bello a zakazuje činit z nebojujících osob přímý cíl útoku; nezakazuje ovšem každou civilní ztrátu. Ostatní nabízené věty jsou také skutečné principy nauky o spravedlivé válce — legitimní autorita a krajní prostředek patří k ius ad bellum, proporcionalita a správný úmysl pak k dalším podmínkám. Zaměnit rozlišování s proporcionalitou je nejčastější chyba.",
+  "source": "Michael Walzer, Just and Unjust Wars (1977)",
+  "seedElo": 1450
+ },
+ {
+  "id": "eti-B08",
+  "type": "F",
+  "category": "etika",
+  "text": "Retributivní ospravedlnění trestu se od konsekvencialistického liší zdrojem oprávnění trestat. Která věta je retributivní?",
+  "options": [
+   "Trest je oprávněný, protože odrazuje ostatní od páchání zločinů",
+   "Trest je oprávněný, protože pachatele napraví a vrátí do života",
+   "Trest je oprávněný, protože pachatel si jej za svůj čin zaslouží",
+   "Trest je oprávněný, protože chrání společnost izolací nebezpečných"
+  ],
+  "correct": 2,
+  "explanation": "Retributivismus hledí zpět na spáchaný čin: trest je zasloužená odplata a jeho míra se odvíjí od závažnosti viny, nikoli od budoucího užitku. Odstrašení, náprava a ochrana společnosti jsou naopak konsekvencialistické účely hledící vpřed. Rozdíl je prakticky ostrý: konsekvencialismus by v principu připustil exemplární trest nevinného, kdyby to zabralo, retributivismus nikdy.",
+  "source": "Immanuel Kant, Metafyzika mravů; H. L. A. Hart, Punishment and Responsibility (1968)",
+  "seedElo": 1450
+ },
+ {
+  "id": "eti-C03",
+  "type": "K",
+  "category": "etika",
+  "text": "Co bylo jádrem etiky kyniků, jak ji ztělesňoval Diogenés ze Sinópy?",
+  "options": [
+   "Ctnost je službou obci a jejím posvátným zvykům",
+   "Ctnost je vyvážené užívání majetku i slávy",
+   "Ctnost je soběstačnost a život podle přirozenosti",
+   "Ctnost je poslušnost vůči bohům a věštbám"
+  ],
+  "correct": 2,
+  "explanation": "Kynikové tvrdili, že ke štěstí stačí ctnost a ta spočívá v nezávislosti na majetku, pověsti i konvencích. Provokativní chování mělo být praktickou ukázkou, že společenské zvyklosti jsou libovolné. Tento důraz na soběstačnost později převzali a zjemnili stoikové.",
+  "source": "Diogenés Laertský, Životy filosofů VI",
+  "seedElo": 1450
+ },
+ {
+  "id": "eti-C08",
+  "type": "F",
+  "category": "etika",
+  "text": "Co Epikuros doopravdy doporučoval jako cestu ke slasti?",
+  "options": [
+   "Neustálé střídání silných smyslových zážitků",
+   "Odříkání až na hranici tělesného vyčerpání",
+   "Skromný život mezi přáteli a bez strachu",
+   "Podřízení soukromých tužeb zájmům obce a státu"
+  ],
+  "correct": 2,
+  "explanation": "Epikuros cílil na ataraxii, nerušenost mysli, a nejvýše hodnotil slast spočívající v nepřítomnosti bolesti a strachu. Doporučoval proto uspokojovat jen přirozené a nutné touhy, pěstovat přátelství a nebát se bohů ani smrti. Slovo „epikurejec\" ve smyslu labužníka je pozdější pomluva.",
+  "source": "Epikúros, List Menoikeovi",
+  "seedElo": 1450
+ },
+ {
+  "id": "eti-C13",
+  "type": "F",
+  "category": "etika",
+  "text": "Jakou roli přisuzuje Hume rozumu v morálním hodnocení?",
+  "options": [
+   "Rozum sám objevuje mravní zákon v přirozenosti",
+   "Rozum odvozuje povinnost z pojmu rozumné bytosti",
+   "Rozum nemá s jednáním člověka vůbec nic společného",
+   "Rozum je otrokem vášní; hodnocení pochází z citu"
+  ],
+  "correct": 3,
+  "explanation": "Hume tvrdí, že rozum zjišťuje fakta a vztahy, ale sám nikdy nemotivuje k jednání; k tomu je třeba vášeň či cit. Mravní schválení je proto zvláštní druh příjemného pocitu, který v nás vzbuzuje povaha či čin. Rozum přitom není zbytečný, slouží citu jako navigace ve faktech.",
+  "source": "Hume, Pojednání o lidské přirozenosti II",
+  "seedElo": 1450
+ },
+ {
+  "id": "eti-C26",
+  "type": "F",
+  "category": "etika",
+  "text": "Co znamená konfuciánský pojem žen (ren)?",
+  "options": [
+   "Prázdnotu, v níž mizí rozdíl mezi já a světem",
+   "Lidskost, jež se uskutečňuje ve vztazích k druhým",
+   "Nečinnost, jež nechává věci plynout samy sebou",
+   "Neubližování, tedy zdrženlivost vůči všemu živému"
+  ],
+  "correct": 1,
+  "explanation": "Ren se překládá jako lidskost či lidumilnost a znak sám spojuje člověka s číslovkou dva. Konfuciánská etika je vztahová: ctnost se pěstuje v konkrétních poutech, počínaje synovskou úctou v rodině, a odtud se rozšiřuje navenek. Ideálem není abstraktní pravidlo, ale ušlechtilý člověk (ťün-c'), který jedná přiměřeně situaci.",
+  "source": "Konfucius, Hovory",
+  "seedElo": 1450
+ },
+ {
   "id": "eti-07",
   "type": "K",
   "category": "etika",
@@ -110,6 +430,150 @@
   "explanation": "Trolley problém slouží jako nástroj k odhalování a testování mravních intuicí, nikoli k dokazování jedné teorie. Ukazuje mimo jiné, jak silně rozlišujeme mezi tím, když újmu aktivně způsobíme, a tím, když ji jen dopustíme.",
   "source": "Philippa Foot, The Problem of Abortion and the Doctrine of the Double Effect (1967)",
   "seedElo": 1480
+ },
+ {
+  "id": "eti-A01",
+  "type": "F",
+  "category": "etika",
+  "text": "Rawlsova námitka, že utilitarismus „nebere vážně rozdílnost mezi osobami“, tvrdí, že:",
+  "options": [
+   "utilitarismus nedokáže změřit intenzitu slasti a strasti u různých jedinců společnou stupnicí",
+   "utilitarismus se opírá o empatii, a ta k cizím lidem slábne s rostoucí sociální vzdáleností",
+   "utilitarismus rozšiřuje na společnost volbu, která je legitimní jen uvnitř jednoho života",
+   "utilitarismus popírá svobodnou vůli, protože jednání vysvětluje jen bilancí slasti a strasti"
+  ],
+  "correct": 2,
+  "explanation": "Jeden člověk může snést dnešní bolest kvůli zítřejšímu prospěchu — je to týž subjekt, který nese náklad i výnos. Utilitarismus podle Rawlse tento model přenáší na společnost, kde ale náklad nese jeden člověk a výnos sklízí druhý. Osoby tak splývají do jediné nádoby na užitek.",
+  "source": "John Rawls, Teorie spravedlnosti (1971), §5 a §30",
+  "seedElo": 1500
+ },
+ {
+  "id": "eti-A12",
+  "type": "F",
+  "category": "etika",
+  "text": "Doktrína dvojího účinku vyžaduje mimo jiné, aby zlý následek:",
+  "options": [
+   "nebyl zamýšlen ani jako cíl, ani jako prostředek k dosažení dobrého následku",
+   "nebyl jednajícímu předem znám, protože jinak by se stal součástí jeho úmyslu",
+   "nebyl závažnější než ten, který by nastal, kdyby jednající zůstal zcela nečinný",
+   "nebyl způsoben přímým tělesným zásahem, nýbrž pouze uvedením příčinné řady do pohybu"
+  ],
+  "correct": 0,
+  "explanation": "Klasické podmínky jsou čtyři: skutek sám nesmí být vnitřně špatný, zlý účinek nesmí být zamýšlen (ani jako prostředek), dobrý účinek nesmí být způsoben skrze zlý a musí existovat úměrně vážný důvod. Klíčová je tedy struktura úmyslu, ne pouhá předvídatelnost — předvídaný, leč nezamýšlený následek se posuzuje jinak než chtěný.",
+  "source": "Tomáš Akvinský, Summa theologiae II-II, q. 64, a. 7; Philippa Foot (1967)",
+  "seedElo": 1500
+ },
+ {
+  "id": "eti-A14",
+  "type": "K",
+  "category": "etika",
+  "text": "James Rachels staví vedle sebe Smitha, jenž utopí bratrance ve vaně, a Jonese, jenž ho vidí topit se a nechá ho zemřít. Účelem srovnání je ukázat, že:",
+  "options": [
+   "opomenutí je vždy horší než konání, protože se skrývá za zdání nezúčastněnosti",
+   "samotný rozdíl mezi zabitím a nechat zemřít nenese morální váhu, kterou se mu připisuje",
+   "právo má obě jednání posuzovat stejně, protože jinak vzniká nespravedlivá nerovnost trestů",
+   "úmysl je pro hodnocení nepodstatný, protože rozhoduje výhradně výsledný stav světa"
+  ],
+  "correct": 1,
+  "explanation": "V obou případech je motiv, výsledek i vztah k oběti totožný — liší se jen to, zda ruka zasáhla. Rachels z toho vyvozuje, že rozdíl doing/allowing sám o sobě nevysvětluje naši intuici, a útočí tak na argumenty proti aktivní eutanazii. Odpůrci (Foot, Quinn) namítají, že příklad je záměrně vyladěn tak, aby rozdíl potlačil.",
+  "source": "James Rachels, Active and Passive Euthanasia, NEJM (1975)",
+  "seedElo": 1500
+ },
+ {
+  "id": "eti-A26",
+  "type": "F",
+  "category": "etika",
+  "text": "Ústřední diagnóza MacIntyrovy knihy Ztráta ctnosti (After Virtue) zní, že:",
+  "options": [
+   "moderní věda vytlačila z veřejného života náboženství, a tím zbavila morálku jejího zdroje",
+   "moderní mravní slovník jsou trosky starší tradice, jimž chybí rámec dávající jim smysl",
+   "moderní společnost přijala ctnosti trhu, které jsou s antickými ctnostmi zcela souměřitelné",
+   "moderní morální spory lze rozhodnout, přijmeme-li důsledně jazyk lidských práv a smluv"
+  ],
+  "correct": 1,
+  "explanation": "MacIntyre přirovnává naši situaci ke světu, v němž po katastrofě zbyly z přírodních věd jen útržky pojmů užívané bez teorie. Osvícenský projekt zdůvodnit morálku selhal, protože zavrhl teleologii — představu člověka, jaký by mohl být, naplnil-li by svou přirozenost. Odtud podle něj nekonečnost dnešních sporů a vzestup emotivismu.",
+  "source": "Alasdair MacIntyre, After Virtue (1981), kap. 1–5",
+  "seedElo": 1500
+ },
+ {
+  "id": "eti-B15",
+  "type": "K",
+  "category": "etika",
+  "text": "Jak chápe Hareův univerzální preskriptivismus morální soudy?",
+  "options": [
+   "Jako univerzalizovatelné příkazy, jimiž se mluvčí sám zavazuje",
+   "Jako popisy přirozených vlastností jednání, empiricky ověřitelné",
+   "Jako výrazy citového rozrušení bez jakéhokoli logického obsahu",
+   "Jako konvence platné jen uvnitř té které kultury a doby"
+  ],
+  "correct": 0,
+  "explanation": "Hare zachovává nonkognitivní jádro (morální věta nepopisuje fakt), ale odmítá, že by šlo o pouhý výlev citu: soud má logiku imperativu a dvě klíčové vlastnosti — preskriptivitu (kdo jej upřímně vysloví, zavazuje se podle něj jednat) a univerzalizovatelnost (musí platit pro všechny relevantně stejné případy). Právě druhá vlastnost dovoluje z pouhé logiky morální řeči odvozovat značně náročné závěry.",
+  "source": "R. M. Hare, The Language of Morals (1952); Freedom and Reason (1963)",
+  "seedElo": 1500
+ },
+ {
+  "id": "eti-B19",
+  "type": "K",
+  "category": "etika",
+  "text": "Podle standardních podmínek ospravedlněného whistleblowingu (De George) platí mimo jiné požadavek, aby:",
+  "options": [
+   "oznamovatel jednal anonymně a nikdy neuvedl své vlastní jméno",
+   "oznamovatel měl finanční prospěch úměrný riziku, jež podstupuje",
+   "oznamovatel získal předem souhlas nadřízeného s vynesením zprávy",
+   "oznamovatel nejprve vyčerpal cesty nápravy uvnitř organizace"
+  ],
+  "correct": 3,
+  "explanation": "De George klade několik podmínek: hrozí vážná a nezaviněná újma veřejnosti, oznamovatel to ohlásil nadřízeným a vyčerpal vnitřní postupy, má přesvědčivé důkazy a existuje rozumná naděje, že zveřejnění povede k nápravě. Vnitřní cesta jde napřed proto, že loajalita k zaměstnavateli má jistou váhu, byť ne absolutní. Motiv oznamovatele bývá pokládán za vedlejší — rozhoduje pravdivost a závažnost, ne čistota pohnutek.",
+  "source": "Richard T. De George, Business Ethics (1982)",
+  "seedElo": 1500
+ },
+ {
+  "id": "eti-C02",
+  "type": "K",
+  "category": "etika",
+  "text": "K čemu slouží v Platónově Ústavě příběh o Gýgově prstenu, který činí neviditelným?",
+  "options": [
+   "Ukazuje, že bohové trestají i skryté činy",
+   "Ptá se, zda je spravedlnost jen ze strachu",
+   "Dokazuje, že moc vždycky kazí charakter",
+   "Vysvětluje původ zákonů v přírodním právu"
+  ],
+  "correct": 1,
+  "explanation": "Glaukón nabízí myšlenkový pokus: kdyby člověk mohl beztrestně cokoli, choval by se ještě spravedlivě? Pokud ne, je spravedlnost jen nedobrovolný kompromis ze strachu z odplaty. Zbytek Ústavy je Sokratova odpověď, že spravedlnost prospívá duši samotné, bez ohledu na následky.",
+  "source": "Platón, Ústava II",
+  "seedElo": 1500
+ },
+ {
+  "id": "eti-C16",
+  "type": "K",
+  "category": "etika",
+  "text": "Co Nietzsche sleduje v Genealogii morálky?",
+  "options": [
+   "Logický důkaz, že morálka je pouhá iluze",
+   "Odvození mravnosti z předpokladů čistého rozumu",
+   "Dějinný vznik mravních hodnot a zájmy za nimi",
+   "Popis mravního citu jako vrozeného instinktu"
+  ],
+  "correct": 2,
+  "explanation": "Genealogie je metoda: místo otázky, co je dobro, se ptá, kdy a z jakých potřeb dané hodnocení vzniklo. Nietzsche chce ukázat, že hodnota morálky sama potřebuje zhodnotit, protože mohla vzniknout z podmínek, které dnes neplatí. Nejde tedy o logické vyvrácení, ale o dějinné odhalení původu.",
+  "source": "Nietzsche, Genealogie morálky",
+  "seedElo": 1500
+ },
+ {
+  "id": "eti-C29",
+  "type": "K",
+  "category": "etika",
+  "text": "Co karma v buddhistické etice především znamená?",
+  "options": [
+   "Neměnný osud určený už při narození člověka",
+   "Trest, který uděluje nejvyšší soudící božstvo",
+   "Odplatu, kterou pachateli vrací společnost",
+   "Souvislost mezi záměrem činu a jeho následky"
+  ],
+  "correct": 3,
+  "explanation": "Karma doslova znamená čin a Buddha ji ztotožnil se záměrem, čétaná: mravně rozhodující je úmysl, z něhož jednání vychází. Nejde tedy o předurčený osud ani o rozsudek božstva, nýbrž o zákonitost, podle níž jednání utváří charakter i budoucí zkušenost. Právě proto je etika nácvikem, kterým lze směr své karmy měnit.",
+  "source": "Anguttara-nikája",
+  "seedElo": 1500
  },
  {
   "id": "eti-08",
@@ -144,6 +608,182 @@
   "seedElo": 1540
  },
  {
+  "id": "eti-A08",
+  "type": "F",
+  "category": "etika",
+  "text": "Třetí Kantova formule kategorického imperativu (autonomie a říše účelů) přidává k předchozím zejména myšlenku, že:",
+  "options": [
+   "mravní zákon má oporu v boží vůli, kterou rozum objevuje jako nejvyšší zdroj závaznosti",
+   "mravní zákon je platný jen tehdy, shodne-li se na něm skutečné shromáždění všech dotčených",
+   "rozumná vůle je sama zákonodárcem zákona, jemuž se jako člen společenství účelů podřizuje",
+   "mravní zákon připouští výjimky tam, kde by jeho dodržení vedlo k rozpadu společenství lidí"
+  ],
+  "correct": 2,
+  "explanation": "Autonomie znamená, že vůle není zákonu podrobena zvenčí, ale je jeho původcem — proto může být zavázána, aniž by byla ponížena. Říše účelů je pak ideál systematického spojení rozumných bytostí pod zákony, které si samy dávají. Nejde o hlasování ani o skutečnou smlouvu, ale o test myšlenkou obecného zákonodárství.",
+  "source": "Immanuel Kant, Základy metafyziky mravů (1785), 2. část",
+  "seedElo": 1550
+ },
+ {
+  "id": "eti-A24",
+  "type": "F",
+  "category": "etika",
+  "text": "Nozickovo pojetí práv jako „postranních omezení“ (side constraints) se liší od utilitarismu práv tím, že:",
+  "options": [
+   "chápe práva jako cíl, jehož naplnění v celé společnosti má stát aktivně zajišťovat",
+   "chápe práva jako pravidla platná jen tehdy, přinášejí-li dlouhodobě nejlepší následky",
+   "chápe práva jako hranice jednání, jež nesmím překročit ani kvůli menšímu počtu porušení",
+   "chápe práva jako nároky odstupňované podle toho, jak velkou újmu jejich porušení působí"
+  ],
+  "correct": 2,
+  "explanation": "Kdyby byla práva cílem, směl bych jedno porušit, abych zabránil deseti porušením — Nozick to odmítá a klade je jako mantinely kolem dovoleného jednání. Zdůvodňuje to kantovsky: oddělenost osob znamená, že nikoho nelze použít jako pouhý prostředek pro celkově lepší saldo. Odtud jeho minimální stát jako jediný ospravedlnitelný.",
+  "source": "Robert Nozick, Anarchie, stát a utopie (1974), kap. 3",
+  "seedElo": 1550
+ },
+ {
+  "id": "eti-B09",
+  "type": "K",
+  "category": "etika",
+  "text": "Judith Jarvis Thomsonová si představuje, že jste bez svého souhlasu připojeni ke slavnému houslistovi, jenž bez vašich ledvin devět měsíců nepřežije. Co má experiment ukázat?",
+  "options": [
+   "Že plod není osobou, a nemá tedy právo na život od početí",
+   "Že potrat je přípustný jen tehdy, je-li ohrožen život matky",
+   "Že morální status plodu roste postupně s vývojem těhotenství",
+   "Že právo na život nezahrnuje nárok užívat cizí tělo jako podporu"
+  ],
+  "correct": 3,
+  "explanation": "Thomsonová záměrně připouští, že plod je osoba s právem na život — a přesto dovozuje, že z toho neplyne nárok na cizí tělo bez souhlasu jeho nositele. Odpojení houslisty není porušením jeho práva na život, jen odmítnutím dále poskytovat vlastní tělo. Spor se tím přesouvá od otázky statusu plodu k otázce tělesné autonomie a dobrovolnosti závazku.",
+  "source": "Judith Jarvis Thomson, A Defense of Abortion (1971)",
+  "seedElo": 1550
+ },
+ {
+  "id": "eti-B11",
+  "type": "K",
+  "category": "etika",
+  "text": "James Rachels srovnává dva muže: jeden své sestřenici drží hlavu pod vodou, druhý ji nechá utonout, ač by ji snadno zachránil. Co má srovnání dokázat?",
+  "options": [
+   "Že aktivní eutanazie je vždy horší než ponechání pacienta zemřít",
+   "Že eutanazie je přípustná pouze na opakovanou žádost pacienta",
+   "Že rozdíl mezi zabitím a nechat zemřít není sám o sobě rozhodující",
+   "Že lékař nikdy nesmí být tím, kdo úmyslně ukončí lidský život"
+  ],
+  "correct": 2,
+  "explanation": "Oba muži mají stejný motiv i stejný výsledek a liší se jen tím, zda jednali, či nikoli — a přesto je nikdo nehodnotí odlišně. Rachels z toho vyvozuje, že samotný rozdíl mezi konáním a opomenutím nenese morální váhu a že rozšířená doktrína dovolující pasivní, ale ne aktivní eutanazii je nekonzistentní. Obhájci rozdílu odpovídají, že Rachelsův příklad je zatížen krutostí obou aktérů, takže rozdíl jen přehluší.",
+  "source": "James Rachels, Active and Passive Euthanasia, NEJM 292 (1975)",
+  "seedElo": 1550
+ },
+ {
+  "id": "eti-B14",
+  "type": "F",
+  "category": "etika",
+  "text": "Moorův argument otevřené otázky měl ukázat, že:",
+  "options": [
+   "morální soudy vyjadřují pouze pocity schvalování mluvčího",
+   "dobro nelze ztotožnit s žádnou přirozenou vlastností, třeba slastí",
+   "hodnotové soudy jsou univerzalizovatelné příkazy pro jednání",
+   "morální vlastnosti by byly natolik podivné, že raděj neexistují"
+  ],
+  "correct": 1,
+  "explanation": "Moore uvažuje takto: navrhne-li někdo, že „dobré“ znamená totéž co „přinášející slast“, zůstává smysluplné se ptát, zda je slast dobrá — otázka je stále otevřená, tedy o synonymii nejde. Zobecněním má vyjít, že každá naturalistická definice dobra páchá „naturalistický omyl“. Námitka pozdějších autorů zní, že argument předpokládá průhlednost významů a nevylučuje pouhou nutnou identitu vlastností bez synonymie pojmů.",
+  "source": "G. E. Moore, Principia Ethica (1903), § 13",
+  "seedElo": 1550
+ },
+ {
+  "id": "eti-B16",
+  "type": "K",
+  "category": "etika",
+  "text": "Tom Regan zakládá práva zvířat jinak než Singer. V čem spočívá jeho odlišné východisko?",
+  "options": [
+   "V rovném zvažování zájmů, jež vede k maximalizaci blaha všech",
+   "Ve smluvním ujednání mezi lidmi o zacházení s domácími zvířaty",
+   "V soucitu jako ctnosti, kterou má pěstovat každý dobrý člověk",
+   "V nezcizitelné hodnotě subjektu života, jenž nesmí být prostředkem"
+  ],
+  "correct": 3,
+  "explanation": "Singer je utilitarista: zvířecí zájmy se mají vážit stejně jako lidské, ale v principu je lze převážit větším souhrnným užitkem. Regan naopak razí deontologická práva — savci od jednoho roku věku jsou „subjekty života“ s vlastní inherentní hodnotou, kterou nelze obětovat pro souhrnný prospěch. Prakticky to znamená, že Regan žádá zrušení chovu a pokusů zásadně, zatímco Singer podle bilance újmy a užitku.",
+  "source": "Tom Regan, The Case for Animal Rights (1983)",
+  "seedElo": 1550
+ },
+ {
+  "id": "eti-B20",
+  "type": "F",
+  "category": "etika",
+  "text": "Rozdíl mezi kognitivismem a nonkognitivismem v metaetice spočívá v otázce:",
+  "options": [
+   "zda existují objektivní morální fakty nezávislé na lidech",
+   "zda lze morální povinnost odvodit z rozumu, nebo naopak pouze z citu",
+   "zda morální výroky vyjadřují přesvědčení schopná být pravdivá",
+   "zda se morální normy v různých společnostech skutečně liší"
+  ],
+  "correct": 2,
+  "explanation": "Spor je v prvé řadě o sémantiku a psychologii morální řeči: kognitivista tvrdí, že morální věta vyjadřuje přesvědčení a má pravdivostní hodnotu, nonkognitivista, že vyjadřuje postoj či příkaz. Otázka, zda navíc existují objektivní morální fakty, je až druhý krok — proto může být kognitivista antirealistou, jak ukazuje Mackieho teorie omylu. Zaměňovat obě osy je nejběžnější metaetický zkrat.",
+  "source": "Alexander Miller, An Introduction to Contemporary Metaethics (2003)",
+  "seedElo": 1550
+ },
+ {
+  "id": "eti-C09",
+  "type": "K",
+  "category": "etika",
+  "text": "Jak Augustin vysvětluje původ zla ve stvořeném světě?",
+  "options": [
+   "Zlo je nedostatek dobra, plod zneužité svobody",
+   "Zlo je samostatná síla bojující proti dobru",
+   "Zlo je nutná stránka hmoty, kterou stvořil bůh",
+   "Zlo je pouhá iluze, kterou rozptýlí poznání"
+  ],
+  "correct": 0,
+  "explanation": "Augustin opustil manichejský dualismus a pojal zlo jako privaci, chybění dobra, nikoli jako věc s vlastní podstatou. Mravní zlo pak vzniká odvrácením svobodné vůle od většího dobra k menšímu. Tím chtěl zbavit stvořitele odpovědnosti za hřích a přenést ji na volbu.",
+  "source": "Augustinus, Vyznání VII",
+  "seedElo": 1550
+ },
+ {
+  "id": "eti-C20",
+  "type": "F",
+  "category": "etika",
+  "text": "V čem Schopenhauer spatřuje jediný pravý základ morálky?",
+  "options": [
+   "V rozumovém nahlédnutí obecného zákona",
+   "Ve výpočtu slasti a strasti všech dotčených",
+   "V soucitu, jenž stírá hranici mezi já a ty",
+   "Ve zvyku a výchově k ušlechtilým sklonům"
+  ],
+  "correct": 2,
+  "explanation": "Podle Schopenhauera je jediným nesobeckým motivem soucit, v němž prohlédneme individuaci a poznáme v druhém touž vůli, jakou jsme my sami. Z něj odvozuje dvě ctnosti: spravedlnost jako neubližování a lásku k bližnímu jako činnou pomoc. Jeho etika je proto blízká indickému myšlení, které dobře znal.",
+  "source": "Schopenhauer, O základu morálky",
+  "seedElo": 1550
+ },
+ {
+  "id": "eti-C21",
+  "type": "K",
+  "category": "etika",
+  "text": "Jak Marx nahlíží na panující morálku dané doby?",
+  "options": [
+   "Jako na věčný zákon nezávislý na dějinách lidstva",
+   "Jako na výsledek dohody svobodných jedinců",
+   "Jako na výraz vrozeného mravního citu lidí",
+   "Jako na ideologii vyrůstající z výrobních vztahů"
+  ],
+  "correct": 3,
+  "explanation": "Marx čte mravní představy jako součást nadstavby, jež odráží a zároveň zakrývá zájmy panující třídy. Odmítá proto budovat socialismus na apelu ke spravedlnosti a hledá vysvětlení v dějinách výrobních vztahů. Vzniká tím známý paradox: jeho vlastní kritika vykořisťování zní silně hodnotově.",
+  "source": "Marx a Engels, Německá ideologie",
+  "seedElo": 1550
+ },
+ {
+  "id": "eti-C31",
+  "type": "F",
+  "category": "etika",
+  "text": "Jak daleko sahá v džinismu zásada ahimsá?",
+  "options": [
+   "Zakazuje ubližovat jen lidem, ne ostatním tvorům",
+   "Platí pouze pro mnichy, laiků se vůbec netýká",
+   "Vztahuje se na všechny bytosti včetně nejmenších",
+   "Připouští násilí, jde-li o obranu vlastní obce"
+  ],
+  "correct": 2,
+  "explanation": "Džinisté připisují duši i drobným organismům a rostlinám, takže neubližování rozšiřují dál než kterákoli jiná tradice, včetně cezení vody a zametání cesty. Laici drží mírnější podobu slibu, mniši nejpřísnější. Přes Gándhího tato zásada zásadně ovlivnila moderní myšlení o nenásilí.",
+  "source": "Tattvárthasútra",
+  "seedElo": 1550
+ },
+ {
   "id": "eti-10",
   "type": "F",
   "category": "etika",
@@ -176,6 +816,166 @@
   "seedElo": 1600
  },
  {
+  "id": "eti-A09",
+  "type": "K",
+  "category": "etika",
+  "text": "Constant namítl Kantovi, že vrahovi, který se ptá po oběti skryté v domě, lhát smíme. Kantova odpověď v jeho pozdním spisku zněla, že:",
+  "options": [
+   "lež je zde přípustná, protože vrah ztratil svým úmyslem nárok na zacházení jako s osobou",
+   "lež je přípustná jen tehdy, není-li dostupné mlčení nebo jiné vyhnutí se přímé odpovědi",
+   "lež je přípustná, ale jednající za ni nese plnou odpovědnost před občanským zákonem",
+   "lež je vždy bezprávím vůči lidstvu a lhář odpovídá i za následky, jež z ní nepředvídaně vzejdou"
+  ],
+  "correct": 3,
+  "explanation": "V textu O domnělém právu lhát z lidumilnosti Kant trvá na tom, že pravdivost je bezpodmínečná povinnost, a přidává právní argument: kdo lže, přebírá odpovědnost za nahodilé důsledky, například když oběť mezitím vyklouzla a lež ji vrahovi vydá. Mnozí kantovci dnes tento článek čtou jako přehnané rozšíření a hájí mírnější verzi opřenou o formuli lidství.",
+  "source": "Immanuel Kant, Über ein vermeintes Recht aus Menschenliebe zu lügen (1797)",
+  "seedElo": 1600
+ },
+ {
+  "id": "eti-A22",
+  "type": "F",
+  "category": "etika",
+  "text": "Scanlonův kontraktualismus určuje správnost jednání kritériem, že:",
+  "options": [
+   "jednání je nesprávné, zakazuje-li je princip, jejž nelze rozumně odmítnout",
+   "jednání je nesprávné, pokud by je většina dotčených po klidné rozvaze odmítla schválit",
+   "jednání je nesprávné, pokud by na ně jednající nepřistoupil, kdyby neznal své postavení",
+   "jednání je nesprávné, pokud porušuje smlouvu, jíž se člověk vstupem do obce zavázal"
+  ],
+  "correct": 0,
+  "explanation": "Klíčové je slovo „odmítnout“: námitku vznášejí jednotlivci ze svých osobních stanovisek, nikoli sečtená skupina. Proto Scanlonova teorie přirozeně omezuje agregaci — nesmírně mnoho drobných nepohodlí mnoha lidí nepřebije jednu vážnou újmu jediného člověka, protože jeho námitka je nejsilnější individuální námitkou.",
+  "source": "T. M. Scanlon, What We Owe to Each Other (1998)",
+  "seedElo": 1600
+ },
+ {
+  "id": "eti-A25",
+  "type": "F",
+  "category": "etika",
+  "text": "Sandelova komunitaristická kritika Rawlse míří především na představu:",
+  "options": [
+   "trhu, který podle Sandela dokáže spravedlivě rozdělit statky bez zásahu státní moci",
+   "rovnosti, kterou Rawls podle Sandela klade nad svobodu jednotlivce vybrat si svou životní dráhu",
+   "rozumu, který podle Sandela nedokáže o hodnotách rozhodovat, neboť ty jsou věcí citu",
+   "já, které si své cíle a vazby volí, aniž by jimi bylo předem jakkoli utvářeno a zavazováno"
+  ],
+  "correct": 3,
+  "explanation": "Sandel tvrdí, že za závojem nevědomosti stojí „neobtížkované já“ (unencumbered self), oddělené od svých cílů, rodiny a obce. Podle něj ale svou totožnost nejen volíme, nýbrž ji zčásti objevujeme v příbězích, do nichž jsme vrostli. Rawls později odpověděl, že jde o pojetí občana pro účely veřejného rozumu, ne o metafyziku osoby.",
+  "source": "Michael Sandel, Liberalism and the Limits of Justice (1982)",
+  "seedElo": 1600
+ },
+ {
+  "id": "eti-A31",
+  "type": "F",
+  "category": "etika",
+  "text": "Dancyho morální partikularismus stojí na tezi o holismu důvodů, podle níž:",
+  "options": [
+   "morální důvody nakonec vždy plynou z jediného nejvyššího principu, jenž je sjednocuje",
+   "co v jedné situaci mluví pro skutek, může v jiné situaci mluvit proti němu nebo nevážit nic",
+   "morální důvody vznikají teprve dohodou jednajících a mimo společenství neexistují",
+   "morální důvody lze poznat pouze citem, neboť rozum k hodnotám nemá žádný přístup"
+  ],
+  "correct": 1,
+  "explanation": "Dancy uvádí příklady, kdy okolnost „přinese mi to potěšení“ mluví pro skutek běžně, ale proti němu, jde-li o potěšení z cizího utrpení. Váha rysu tedy závisí na kontextu, který jej může obrátit (defeater, enabler). Kompetence pak není znalost pravidel, ale schopnost číst konkrétní případ.",
+  "source": "Jonathan Dancy, Ethics Without Principles (2004)",
+  "seedElo": 1600
+ },
+ {
+  "id": "eti-B10",
+  "type": "F",
+  "category": "etika",
+  "text": "Don Marquis odmítá potrat s odvoláním na to, co vůbec činí zabíjení špatným. Jeho kritérium zní:",
+  "options": [
+   "Zabití je špatné, protože oběť připraví o budoucnost jako je naše",
+   "Zabití je špatné, protože poškozuje city blízkých osob oběti",
+   "Zabití je špatné, protože ruší smlouvu mezi členy společnosti",
+   "Zabití je špatné, protože porušuje právo racionální bytosti na život"
+  ],
+  "correct": 0,
+  "explanation": "Marquis obchází spor o osobnost plodu: ptá se, proč je špatné zabít dospělého, a odpovídá, že mu bereme veškerou hodnotu jeho budoucích zážitků, činností a projektů. Plod takovou budoucnost má rovněž, takže zabít jej je špatné ze stejného důvodu. Nejčastější námitka zní, že argument stejně dobře odsuzuje antikoncepci nebo dokonce nepočaté možné lidi.",
+  "source": "Don Marquis, Why Abortion Is Immoral, Journal of Philosophy 86 (1989)",
+  "seedElo": 1600
+ },
+ {
+  "id": "eti-B13",
+  "type": "F",
+  "category": "etika",
+  "text": "Mackieho teorie omylu (error theory) o morálce tvrdí, že:",
+  "options": [
+   "morální výroky nejsou tvrzení, nýbrž maskované rozkazy a přání",
+   "morální výroky jsou pravdivé vždy jen vzhledem ke kultuře mluvčího",
+   "morální výroky popisují přirozené vlastnosti činů a mnohé jsou pravdivé",
+   "morální výroky něco tvrdí, ale všechny jsou systematicky nepravdivé"
+  ],
+  "correct": 3,
+  "explanation": "Mackie je kognitivista: běžná morální řeč podle něj skutečně tvrdí, že něco je objektivně špatné. Jenže žádné takové objektivní hodnoty neexistují, takže všechna pozitivní morální tvrzení jsou nepravdivá — celá naše mravní praxe stojí na hlubokém omylu. Tím se liší od nonkognitivismu, který popírá už samotnou tvrdicí povahu morálních vět, i od relativismu, jenž pravdivost zachovává vztažením ke kultuře.",
+  "source": "J. L. Mackie, Ethics: Inventing Right and Wrong (1977), kap. 1",
+  "seedElo": 1600
+ },
+ {
+  "id": "eti-C06",
+  "type": "K",
+  "category": "etika",
+  "text": "Co znamená stoická apatheia?",
+  "options": [
+   "Naprostou lhostejnost k osudu druhých lidí",
+   "Svobodu od ničivých vášní, ne od citů",
+   "Potlačení všech emocí silou vůle a zvyku",
+   "Trvalou nehybnost mysli i tělesných reakcí"
+  ],
+  "correct": 1,
+  "explanation": "Apatheia je nepřítomnost pathé, tedy vášní založených na chybných soudech o dobru a zlu. Stoikové zároveň uznávali takzvané eupatheiai, dobré afekty jako radost či opatrnost, i bezděčné první pohnutí mysli. Nejde tedy o city zabít, ale nenechat se jimi vláčet na základě omylu.",
+  "source": "Seneca, O duševním klidu",
+  "seedElo": 1600
+ },
+ {
+  "id": "eti-C10",
+  "type": "F",
+  "category": "etika",
+  "text": "Na čem podle Tomáše Akvinského stojí přirozený zákon?",
+  "options": [
+   "Na dohodě panovníků potvrzené církevním právem",
+   "Na zjevení, které rozum nemůže nijak postihnout",
+   "Na účasti rozumné bytosti na věčném zákoně",
+   "Na zvycích, jež si každý národ utváří sám"
+  ],
+  "correct": 2,
+  "explanation": "Akvinský definuje přirozený zákon jako podíl rozumného tvora na věčném zákoně, který lze poznat rozumem bez zjevení. Z přirozených sklonů k sebezachování, plození a poznání pravdy odvozuje základní mravní příkazy. Zjevený zákon tuto rozumovou vrstvu doplňuje, ale neruší.",
+  "source": "Tomáš Akvinský, Summa theologiae I-II",
+  "seedElo": 1600
+ },
+ {
+  "id": "eti-C11",
+  "type": "K",
+  "category": "etika",
+  "text": "Co Machiavelli ve Vladaři tvrdí o poměru politiky a mravnosti?",
+  "options": [
+   "Vládce má být vždy ctnostný, i za cenu pádu státu",
+   "Vládce se musí umět neřídit dobrem, žádá-li to nutnost",
+   "Politika je zcela nezávislá na jakémkoli hodnocení mravů",
+   "Mravnost soukromá i státní se řídí týmiž pravidly"
+  ],
+  "correct": 1,
+  "explanation": "Machiavelli neruší mravní měřítka, ale tvrdí, že vládce, který chce udržet stát, se musí naučit „nebýt dobrý\", když to okolnosti vyžadují. Otevírá tím problém špinavých rukou: politické jednání může být nutné a přitom zůstat vinou. Zdrojem měřítka je u něj přežití a sláva obce, ne osobní spása.",
+  "source": "Machiavelli, Vladař XV",
+  "seedElo": 1600
+ },
+ {
+  "id": "eti-C15",
+  "type": "F",
+  "category": "etika",
+  "text": "Která postava je klíčem Smithovy Teorie mravních citů?",
+  "options": [
+   "Nestranný divák, kterého si v sobě vytváříme",
+   "Neviditelná ruka řídící sobecké zájmy trhu",
+   "Společenská smlouva uzavřená mezi občany",
+   "Přirozený zákon vepsaný do rozumu člověka"
+  ],
+  "correct": 0,
+  "explanation": "Smith vysvětluje svědomí jako zvnitřněný pohled nezaujatého pozorovatele, jehož schvalování hledáme. Mravnost tak vyrůstá ze společenské zkušenosti se zrcadlením, ne z kalkulu ani z čistého rozumu. Autor Bohatství národů byl především profesorem morální filosofie a obě knihy pokládal za slučitelné.",
+  "source": "Adam Smith, Teorie mravních citů",
+  "seedElo": 1600
+ },
+ {
   "id": "eti-12",
   "type": "F",
   "category": "etika",
@@ -190,6 +990,166 @@
   "explanation": "Za „závojem nevědomosti“ lidé neznají svou budoucí pozici — nevědí, zda budou bohatí, chudí, zdraví nebo nemocní. Rawls tvrdí, že v takové nejistotě by racionálně zvolili spravedlivá pravidla, protože nemohou zvýhodnit sami sebe.",
   "source": "John Rawls, Teorie spravedlnosti (1971)",
   "seedElo": 1630
+ },
+ {
+  "id": "eti-A02",
+  "type": "F",
+  "category": "etika",
+  "text": "Nozickův myšlenkový experiment s „nestvůrou užitku“ (utility monster) míří proti utilitarismu tím, že:",
+  "options": [
+   "bytost s obrovskou schopností užitku by měla nárok pohltit zdroje všech ostatních",
+   "bytost bez schopnosti trpět by z utilitaristické kalkulace zcela vypadla jako bezcenná",
+   "bytost schopná předstírat utrpení by dokázala kalkulaci soustavně a beztrestně klamat",
+   "bytost s nekonečnou délkou života by učinila každý součet užitku matematicky nedefinovaným"
+  ],
+  "correct": 0,
+  "explanation": "Nozick si představuje tvora, který z každé jednotky zdrojů získá mnohonásobně víc užitku než kdokoli jiný. Maximalizace celkového užitku pak velí obětovat mu všechny ostatní, což je závěr, který téměř nikdo nepřijme. Experiment ukazuje, že agregace sama o sobě nechrání jednotlivce.",
+  "source": "Robert Nozick, Anarchie, stát a utopie (1974), kap. 3",
+  "seedElo": 1650
+ },
+ {
+  "id": "eti-A17",
+  "type": "F",
+  "category": "etika",
+  "text": "Teze o jednotě ctností tvrdí, že:",
+  "options": [
+   "kdo má v plné míře jednu ctnost, má nutně i ostatní, neboť je pojí praktická moudrost",
+   "všechny ctnosti jsou pouhými jmény pro jedinou dispozici, totiž pro sebeovládání",
+   "ctnosti se navzájem vylučují, takže rozvoj jedné se vždy děje na úkor některé jiné",
+   "ctnost je jediná věc dobrá o sobě, kdežto zdraví a bohatství jsou dobra pouze zdánlivá"
+  ],
+  "correct": 0,
+  "explanation": "Aristotelés tvrdí, že ctnost v pravém smyslu vyžaduje fronésis, a ta je jen jedna — kdo ji má, jedná dobře napříč situacemi. Odtud plyne, že skutečně statečný člověk nemůže být zároveň nespravedlivý; přirozená statečnost bez rozumu je pak jen surovost. Kritici namítají, že běžně potkáváme lidi statečné a přitom sobecké.",
+  "source": "Aristotelés, Etika Níkomachova VI, 13; Platón, Prótagoras",
+  "seedElo": 1650
+ },
+ {
+  "id": "eti-A18",
+  "type": "F",
+  "category": "etika",
+  "text": "Situacionistická námitka proti etice ctností (Harman, Doris) tvrdí, že:",
+  "options": [
+   "ctnosti jsou kulturně proměnlivé, takže žádný seznam ctností neplatí napříč dobami",
+   "ctnostné jednání nelze naučit, protože charakter je z velké části dán dědičností",
+   "chování lidí lépe předpovídají drobné rysy situace než předpokládané stálé povahové rysy",
+   "ctnostná etika nedává jednajícímu vodítko, jak se rozhodnout ve skutečném sporu povinností"
+  ],
+  "correct": 2,
+  "explanation": "Opírá se o experimenty jako Darleyho a Batsonovu studii „dobrého Samaritána“, kde ochotu pomoci určoval hlavně spěch, nikoli zbožnost nebo hodnoty pokusných osob. Je-li globální charakter empiricky vzácný, hroutí se prý pilíř aristotelské etiky. Obhájci (Kamtekar, Annas) odpovídají, že ctnost je vzácný ideál a že pokusy měří pouhé úlomky chování.",
+  "source": "John Doris, Lack of Character (2002); Gilbert Harman (1999)",
+  "seedElo": 1650
+ },
+ {
+  "id": "eti-A29",
+  "type": "F",
+  "category": "etika",
+  "text": "Problém „špinavých rukou“ ve Walzerově pojetí spočívá v tvrzení, že:",
+  "options": [
+   "politik nese odpovědnost pouze před voliči, a nikoli před obecnými mravními měřítky",
+   "politik má na rozdíl od soukromé osoby jednat výhradně podle důsledků, nikoli podle zásad",
+   "politik nemůže jednat mravně, protože moc svého držitele nevyhnutelně mravně kazí",
+   "politik někdy musí učinit něco vskutku špatného a vina za to nezaniká, ač jednal správně"
+  ],
+  "correct": 3,
+  "explanation": "Walzer proti utilitaristům trvá na tom, že po nutném zlu zůstává skutečná vina, ne jen nepříjemný pocit, a proti absolutistům na tom, že v krajní nouzi se přesto jedná. Ideálem je politik, který si ruce ušpiní a ví o tom — nikoli ten, kdo si je nikdy nezašpiní, ani ten, kdo si toho nevšimne.",
+  "source": "Michael Walzer, Political Action: The Problem of Dirty Hands (1973); Sartre, Špinavé ruce",
+  "seedElo": 1650
+ },
+ {
+  "id": "eti-B21",
+  "type": "K",
+  "category": "etika",
+  "text": "V čem spočívá „mezera v odpovědnosti“ (responsibility gap) u autonomních systémů?",
+  "options": [
+   "Stroj nesmí být nasazen dřív, než projde certifikací bezpečnosti",
+   "Stroj jedná způsobem, jejž nikdo nezamýšlel ani nemohl předvídat",
+   "Stroj se učí z dat, jež mohou obsahovat předsudky svých tvůrců",
+   "Stroj nelze potrestat, a proto trestáme výrobce spolu s uživatelem"
+  ],
+  "correct": 1,
+  "explanation": "Matthias upozornil, že u učících se systémů se chování utváří provozem, takže konstruktér už nemá kontrolu ani rozumnou předvídatelnost výsledku — a klasické podmínky přičitatelnosti (kontrola a vědění) tak nesplňuje nikdo. Stroj sám morálním aktérem není, takže odpovědnost nemá kam padnout. Navrhovaná řešení sahají od objektivní odpovědnosti provozovatele přes povinné pojištění po požadavek smysluplné lidské kontroly.",
+  "source": "Andreas Matthias, The responsibility gap, Ethics and Information Technology 6 (2004)",
+  "seedElo": 1650
+ },
+ {
+  "id": "eti-B23",
+  "type": "F",
+  "category": "etika",
+  "text": "Mackieho argument z podivnosti (queerness) tvrdí, že objektivní morální hodnoty by musely být:",
+  "options": [
+   "vlastnosti přírodní, a tedy zjistitelné běžnými metodami vědy",
+   "pojmy dané pouze konvencí, kterou lze kdykoli změnit dohodou",
+   "entity zcela nepodobné všemu ostatnímu, samy o sobě zavazující",
+   "příkazy, jež nutně předpokládají existenci zákonodárce a soudce"
+  ],
+  "correct": 2,
+  "explanation": "Argument má dvě větve: metafyzickou, podle níž by objektivní hodnota musela být entita s vestavěnou předepisující silou, jaká se nikde jinde ve světě nevyskytuje, a epistemologickou, podle níž bychom k jejímu poznání potřebovali zvláštní schopnost odlišnou od smyslů i rozumu. Nejlepším vysvětlením je pak úspornější hypotéza, že takové vlastnosti neexistují. Realisté odpovídají, že podobná „podivnost“ postihuje i matematické či modální fakty, které přesto neškrtáme.",
+  "source": "J. L. Mackie, Ethics: Inventing Right and Wrong (1977), kap. 1",
+  "seedElo": 1650
+ },
+ {
+  "id": "eti-C14",
+  "type": "K",
+  "category": "etika",
+  "text": "Co Hume myslel „sympatií\" jakožto mechanismem mravního hodnocení?",
+  "options": [
+   "Soucit s trpícími, jenž popírá vůli k životu",
+   "Přenos citů mezi lidmi, díky němuž je sdílíme",
+   "Vrozený mravní smysl nezávislý na zkušenosti",
+   "Vypočítavou náklonnost k těm, kdo nám prospívají"
+  ],
+  "correct": 1,
+  "explanation": "Sympatie u Huma není soucit, ale komunikační mechanismus: představa cizího citu v nás oživne do podoby citu vlastního. Protože sympatie přirozeně kolísá podle blízkosti, potřebujeme korekci v podobě obecného stanoviska, z něhož soudíme nestranně. Odtud vede přímá linka ke Smithovu nestrannému divákovi.",
+  "source": "Hume, Pojednání o lidské přirozenosti III",
+  "seedElo": 1650
+ },
+ {
+  "id": "eti-C17",
+  "type": "K",
+  "category": "etika",
+  "text": "Čím se podle Nietzscheho liší morálka otroků od morálky pánů?",
+  "options": [
+   "Rodí se ze síly a začíná u pojmu dobrý",
+   "Rodí se ze soucitu a končí u zřeknutí vůle",
+   "Rodí se z rozumu a začíná u pojmu povinnost",
+   "Rodí se z ressentimentu a začíná u zlého"
+  ],
+  "correct": 3,
+  "explanation": "Morálka pánů podle Nietzscheho hodnotí spontánně a kladně: nejprve říká „dobrý\" o sobě, teprve pak „špatný\" o ostatních. Morálka otroků je reaktivní, vychází z ressentimentu vůči silnému a nejprve ustaví pojem „zlý\", z jehož popření odvodí své dobro. Nejde o dvě skupiny lidí, ale o dva typy hodnotících gest.",
+  "source": "Nietzsche, Genealogie morálky I",
+  "seedElo": 1650
+ },
+ {
+  "id": "eti-C19",
+  "type": "K",
+  "category": "etika",
+  "text": "Co Kierkegaard nazývá teleologickou suspenzí etična?",
+  "options": [
+   "Případ, kdy víra staví jedince nad obecnou normu",
+   "Chvíli, kdy stát pozastaví platnost mravních zákonů",
+   "Stav, kdy estetický požitek nahradí mravní volbu",
+   "Okamžik, kdy rozum odhalí neplatnost všech norem"
+  ],
+  "correct": 0,
+  "explanation": "V Bázni a chvění čte Kierkegaard Abrahámovu oběť jako situaci, kdy jednotlivec ve vztahu k absolutnu dočasně přesahuje obecně platné mravní pravidlo. Rytíř víry přitom nemůže své jednání ospravedlnit řečí, kterou by obec pochopila, a nese úzkost sám. Kierkegaard tím nechválí porušování norem, ale odkrývá napětí mezi vírou a etikou.",
+  "source": "Kierkegaard, Bázeň a chvění",
+  "seedElo": 1650
+ },
+ {
+  "id": "eti-C30",
+  "type": "F",
+  "category": "etika",
+  "text": "Co je v mahájánové etice ideálem bódhisattvy?",
+  "options": [
+   "Dosáhnout vysvobození co nejrychleji jen pro sebe",
+   "Odložit vlastní vysvobození kvůli všem bytostem",
+   "Získat zásluhy obřady a dary chrámovým kněžím",
+   "Vyhnout se jednání, jež by mohlo vytvořit karmu"
+  ],
+  "correct": 1,
+  "explanation": "Bódhisattva skládá slib usilovat o probuzení pro dobro všech cítících bytostí a nevstoupit do nirvány, dokud trpí druzí. Soucit (karuná) tu není doplňkem moudrosti, ale její nutnou druhou stranou. Šántidéva to opírá o úvahu, že hranice mezi mým a cizím utrpením je stejně konvenční jako hranice mezi mnou včerejším a dnešním.",
+  "source": "Šántidéva, Bódhičarjávatára",
+  "seedElo": 1650
  },
  {
   "id": "eti-13",
@@ -224,6 +1184,134 @@
   "seedElo": 1690
  },
  {
+  "id": "eti-A10",
+  "type": "F",
+  "category": "etika",
+  "text": "Prahová deontologie (threshold deontology) je pokus:",
+  "options": [
+   "odvodit sílu jednotlivých zákazů z toho, jak často je běžní lidé v praxi porušují",
+   "zachovat absolutní zákazy až do bodu, kdy hrozící katastrofa dosáhne určité velikosti",
+   "stanovit minimální práh způsobilosti, pod nímž se člověk stává morálně nezodpovědným",
+   "určit hranici, za níž už následky jednání leží mimo dohled a nelze je jednajícímu přičíst"
+  ],
+  "correct": 1,
+  "explanation": "Přísná deontologie musí říci „ať zhyne svět, jen když je spravedlnosti učiněno zadost“; prahová verze říká, že za dostatečně obludných následků zákaz ustupuje. Cenou je nová obtíž: kde přesně práh leží a proč zrovna tam, když těsně pod ním má zákaz nekonečnou váhu a těsně nad ním žádnou.",
+  "source": "Michael Moore, Placing Blame (1997); Larry Alexander, Deontology at the Threshold",
+  "seedElo": 1700
+ },
+ {
+  "id": "eti-A28",
+  "type": "F",
+  "category": "etika",
+  "text": "Pojmem „negativní odpovědnost“ Williams označuje utilitaristickou tezi, že:",
+  "options": [
+   "za to, co nastane mým opomenutím, odpovídám stejně jako za to, co sám vykonám",
+   "za zlé následky odpovídám jen tehdy, byly-li mým výslovným a plně vědomým záměrem",
+   "za jednání druhých lidí neodpovídám nikdy, i kdybych je mohl snadno odvrátit",
+   "za následky odpovídám tím méně, čím vzdálenější jsou v čase od mého vlastního skutku"
+  ],
+  "correct": 0,
+  "explanation": "Je-li rozhodující jen stav světa, pak je jedno, prošel-li kauzální řetěz mýma rukama, nebo rukama někoho jiného, jemuž jsem nezabránil. Williams namítá, že tím se stávám rukojmím cizích projektů: každý zloduch může mou povinnost přesměrovat pouhou hrozbou. Právě sem míří případ Jima a vězňů.",
+  "source": "Bernard Williams in Smart & Williams, Utilitarianism: For and Against (1973)",
+  "seedElo": 1700
+ },
+ {
+  "id": "eti-B24",
+  "type": "F",
+  "category": "etika",
+  "text": "Parfitův „odporný závěr“ plyne z totálního principu a říká, že:",
+  "options": [
+   "je vždy lepší, když se nenarodí nikdo, než aby někdo trpěl",
+   "populace se má zvětšovat, dokud roste průměrné blaho členů",
+   "hodnota života klesá s tím, kolik lidí sdílí tytéž zdroje",
+   "velká populace sotva snesitelných životů předčí menší šťastnou"
+  ],
+  "correct": 3,
+  "explanation": "Sčítáme-li blaho, lze každý pokles kvality vyvážit dostatečným nárůstem počtu lidí — takže existuje svět nesmírně mnoha životů sotva stojících za žití, který je podle principu lepší než svět deseti miliard velmi šťastných. Parfit sám tento důsledek pokládal za nepřijatelný a marně hledal „teorii X“, jež by se mu vyhnula, aniž by upadla do potíží průměrového principu. Novější práce ukazují, že se mu za rozumných předpokladů uniká jen velmi obtížně.",
+  "source": "Derek Parfit, Reasons and Persons (1984), § 131–133",
+  "seedElo": 1700
+ },
+ {
+  "id": "eti-B25",
+  "type": "K",
+  "category": "etika",
+  "text": "Co tvrdí motivační internalismus?",
+  "options": [
+   "Morální poznání je možné jen zevnitř dané kultury a tradice",
+   "Upřímný morální soud s sebou nutně nese aspoň nějakou motivaci",
+   "Morální soud motivuje až ve spojení s nezávislou touhou konat dobro",
+   "Morální fakty jsou nezávislé na tom, co si o nich kdo myslí"
+  ],
+  "correct": 1,
+  "explanation": "Internalista tvrdí, že spojení mezi morálním soudem a motivací je nutné, nikoli náhodné: kdo skutečně soudí, že má něco udělat, je tím už alespoň slabě puzen. Externalista naopak drží humovský obraz, v němž je k jednání vždy třeba samostatná touha, takže lhostejnost k vlastnímu soudu je myslitelná. Spor má dosah do metaetiky vůbec — internalismus totiž tlačí k nonkognitivismu, protože přesvědčení sama o sobě obvykle nemotivují.",
+  "source": "Michael Smith, The Moral Problem (1994), kap. 3",
+  "seedElo": 1700
+ },
+ {
+  "id": "eti-B26",
+  "type": "F",
+  "category": "etika",
+  "text": "Evoluční „debunking“ argument Sharon Streetové míří proti morálnímu realismu tím, že:",
+  "options": [
+   "tvrdí, že evoluce vybírala pravdivé mravní soudy, nikoli užitečné",
+   "dokazuje, že altruismus u lidí vůbec nemá biologický základ",
+   "dovozuje, že morálka vznikla až s náboženstvím, a je tedy zbytná",
+   "ukazuje, že naše mravní intuice byly vybrány pro užitek, ne pravdu"
+  ],
+  "correct": 3,
+  "explanation": "Streetová staví realistu před dilema: buď mezi selekčními tlaky a nezávislými morálními pravdami není žádný vztah — pak je shoda našich intuic s pravdou nesmyslná náhoda a naše morální poznání je podkopáno — nebo vztah je, a realista jej musí vysvětlit, což se podle ní nedaří. Argument nechce ukázat, že morálka je falešná, nýbrž že bychom svým intuicím neměli jako průvodcům po nezávislé pravdě věřit. Antirealista tento problém nemá, protože hodnoty odvozuje právě z našich postojů.",
+  "source": "Sharon Street, A Darwinian Dilemma for Realist Theories of Value (2006)",
+  "seedElo": 1700
+ },
+ {
+  "id": "eti-C07",
+  "type": "K",
+  "category": "etika",
+  "text": "Kterou složku původního stoicismu dnešní popkulturní verze nejčastěji vynechává?",
+  "options": [
+   "Cvičení v soustředění a ranní rutinu",
+   "Důraz na sebekázeň a odolnost vůči bolesti",
+   "Rozlišování mezi věcmi v naší moci a mimo ni",
+   "Kosmopolitní povinnost vůči druhým lidem"
+  ],
+  "correct": 3,
+  "explanation": "Populární „stoicismus\" bere techniky osobní odolnosti, ale odřezává metafyziku i sociální etiku. Původní nauka staví na tom, že jsme části rozumného celku a máme povinnosti ke všem lidem jako spoluobčanům světa. Bez toho zbývá spíš návod na výkon než filosofie.",
+  "source": "Pierre Hadot, Filosofie jako způsob života",
+  "seedElo": 1700
+ },
+ {
+  "id": "eti-C18",
+  "type": "K",
+  "category": "etika",
+  "text": "Které tvrzení Nietzschemu odporuje, ačkoli se mu běžně připisuje?",
+  "options": [
+   "Že křesťanská morálka má dějinný, lidský původ",
+   "Že silní mají mít právo libovolně týrat slabé",
+   "Že přehodnocení hodnot vyžaduje tvořivou sílu",
+   "Že soucit může být pro život oslabující silou"
+  ],
+  "correct": 1,
+  "explanation": "Nietzsche nehlásá program brutality vůči slabým; „přehodnocení všech hodnot\" míří na tvorbu nových měřítek, ne na povolení k násilí. Jeho ideál vznešenosti zahrnuje sebepřekonání a kázeň, přičemž pomstychtivá krutost je pro něj typickým projevem ressentimentu. Militaristické čtení pochází z pozdějších úprav a výběrů, nikoli z jeho argumentu.",
+  "source": "Nietzsche, Mimo dobro a zlo",
+  "seedElo": 1700
+ },
+ {
+  "id": "eti-C27",
+  "type": "K",
+  "category": "etika",
+  "text": "Jakou roli hraje v konfuciánské etice li, tedy obřadnost a slušnost?",
+  "options": [
+   "Nahrazuje vnitřní ctnost vnějším formalismem",
+   "Zakazuje veškeré obřady jako pokrytecké divadlo",
+   "Utváří ctnost skrze zvládnuté formy jednání",
+   "Váže jednání na trest stanovený psaným zákonem"
+  ],
+  "correct": 2,
+  "explanation": "Li jsou zvládnuté formy chování, od obřadu po zdvořilost, jimiž se vnitřní lidskost učí a projevuje. Konfucius výslovně odmítá obřad bez vnitřního postoje jako prázdný, ale stejně tak odmítá dobrý úmysl bez kultivované formy. Vládu skrze rituál a příklad staví výš než vládu skrze tresty.",
+  "source": "Konfucius, Hovory",
+  "seedElo": 1700
+ },
+ {
   "id": "eti-15",
   "type": "F",
   "category": "etika",
@@ -256,6 +1344,86 @@
   "seedElo": 1750
  },
  {
+  "id": "eti-A03",
+  "type": "F",
+  "category": "etika",
+  "text": "Námitka nemožnosti mezilidského srovnávání užitku (interpersonal comparison) tvrdí, že:",
+  "options": [
+   "lidé si obvykle nepamatují, jak silné bylo jejich vlastní potěšení v minulosti",
+   "užitek roste nelineárně, takže sčítání by vyžadovalo znát tvar každé křivky zvlášť",
+   "neexistuje společná jednotka, jíž by šlo poměřit prospěch jednoho se ztrátou druhého",
+   "preference lidí se v čase mění, takže výsledný součet platí vždy jen krátkou chvíli"
+  ],
+  "correct": 2,
+  "explanation": "Utilitaristická kalkulace předpokládá, že prospěch jednoho a újmu druhého lze sečíst na jedné stupnici. Ekonomové ordinalistického obratu (Robbins) namítli, že smysluplně srovnávat lze jen preference jedné osoby, ne stavy dvou různých myslí. Bez takového srovnání se ovšem celý součet užitku rozpadá.",
+  "source": "Lionel Robbins, An Essay on the Nature and Significance of Economic Science (1932)",
+  "seedElo": 1750
+ },
+ {
+  "id": "eti-A23",
+  "type": "F",
+  "category": "etika",
+  "text": "Častou námitkou proti Scanlonovu kontraktualismu je, že:",
+  "options": [
+   "nedokáže vysvětlit, proč lidé své sliby dodržují i tehdy, když je nikdo nekontroluje",
+   "opírá se o skutečnou historickou smlouvu, kterou žádný z dnes žijících lidí neuzavřel",
+   "vylučuje z ohledu bytosti neschopné vznášet námitky, tedy zvířata a těžce postižené lidi",
+   "vede k závěru, že spravedlivé je vše, na čem se dostatečně velká většina dokáže shodnout"
+  ],
+  "correct": 2,
+  "explanation": "Scanlon sám omezuje svou teorii na oblast „co dlužíme druhým“, tedy na vztahy mezi bytostmi schopnými rozumného zdůvodňování, a připouští, že morálka je širší. Kritici namítají, že tím vzniká nepříjemná mezera a že se řešení hledají uměle — třeba přes zástupce, kteří by námitku vznesli jménem bytosti neschopné mluvit.",
+  "source": "T. M. Scanlon, What We Owe to Each Other (1998), kap. 4–5",
+  "seedElo": 1750
+ },
+ {
+  "id": "eti-B28",
+  "type": "K",
+  "category": "etika",
+  "text": "Walzerova úprava principu dvojího účinku ve válce (tzv. dvojí záměr) přidává k obvyklým podmínkám požadavek, aby velitel:",
+  "options": [
+   "aktivně přijal riziko pro své vojáky, aby civilní ztráty snížil",
+   "usiloval o co nejrychlejší vítězství a tím zkrátil utrpení civilistů",
+   "vážil počet zabitých civilistů proti počtu zachráněných vojáků",
+   "nesl osobní trestní odpovědnost za každou nezamýšlenou oběť"
+  ],
+  "correct": 0,
+  "explanation": "Klasické dvojí účinky vyžadují, aby civilní ztráty byly jen předvídaným vedlejším následkem, nikoli prostředkem ani cílem. Walzer namítá, že to je příliš laciné: pouhé „nezamýšlel jsem to“ nestačí, velitel musí navíc pozitivně usilovat o minimalizaci civilních obětí, a to i za cenu vyššího rizika pro vlastní jednotky. Tento požadavek se stal jádrem sporů o bombardování z velkých výšek a o „nulové ztráty vlastních vojáků“ jako politický cíl.",
+  "source": "Michael Walzer, Just and Unjust Wars (1977), kap. 9",
+  "seedElo": 1750
+ },
+ {
+  "id": "eti-C12",
+  "type": "K",
+  "category": "etika",
+  "text": "Co je podle závěru Spinozovy Etiky nejvyšší dobro člověka?",
+  "options": [
+   "Naprosté potlačení všech afektů silou vůle",
+   "Poslušnost vůči zjevenému božímu zákonu a obřadům",
+   "Slast, kterou nepřevažuje pozdější bolest",
+   "Poznání boha čili přírody a radost z něj"
+  ],
+  "correct": 3,
+  "explanation": "Spinoza vykládá etiku geometrickým způsobem, po vzoru Euklida, a vrcholí u amor Dei intellectualis, rozumové lásky k bohu čili přírodě. Afekty se nepotlačují vůlí, ale oslabují tím, že je adekvátně poznáme jako součást nutného řádu. Blaženost pak podle jeho poslední věty není odměnou za ctnost, nýbrž ctností samou.",
+  "source": "Spinoza, Etika V",
+  "seedElo": 1750
+ },
+ {
+  "id": "eti-C24",
+  "type": "K",
+  "category": "etika",
+  "text": "Co Arendtová pojmem banality zla naopak NEtvrdila?",
+  "options": [
+   "Že Eichmann byl nemyslící úředník bez fantazie",
+   "Že zlo nemusí mít hloubku ani velký motiv",
+   "Že pachatelé nenesou za své činy odpovědnost",
+   "Že myšlení může být obranou proti páchání zla"
+  ],
+  "correct": 2,
+  "explanation": "Nejčastější dezinterpretace čte banalitu zla jako omluvu typu „byl to jen šroubek v mašinerii\". Arendtová naopak zprávu uzavírá důrazem na osobní vinu a soud nad Eichmannem výslovně obhajuje. Tvrdí, že absence hlubokého motivu odpovědnost nijak neruší.",
+  "source": "Arendtová, Eichmann v Jeruzalémě",
+  "seedElo": 1750
+ },
+ {
   "id": "eti-17",
   "type": "K",
   "category": "etika",
@@ -270,6 +1438,86 @@
   "explanation": "Přísný kantovský přístup staví lidský život a povinnost nezabíjet jako bezvýjimečné pravidlo, které nelze ospravedlnit ani soucitem, ani souhlasem oběti. Utilitarista by naopak zvažoval, zda ukončení utrpení celkově sníží míru bolesti.",
   "source": "Diskuse o eutanazii v kantovské etice, srov. Immanuel Kant, Metafyzika mravů (1797)",
   "seedElo": 1780
+ },
+ {
+  "id": "eti-A11",
+  "type": "F",
+  "category": "etika",
+  "text": "„Paradox deontologie“, na nějž upozornil Samuel Scheffler, spočívá v otázce:",
+  "options": [
+   "proč je zákaz ublížit silnější než příkaz pomoci, když obojí chrání týž zájem oběti",
+   "proč deontolog trvá na povinnostech, jejichž splnění nikomu konkrétnímu neprospívá",
+   "proč nesmím porušit zákaz ani tehdy, když tím zabráním více porušením téhož zákazu",
+   "proč jsou práva chápána jako nezcizitelná, ačkoli se jich lze dobrovolně smluvně vzdát"
+  ],
+  "correct": 2,
+  "explanation": "Je-li vražda zlem, které máme brát vážně, zdálo by se, že bychom měli minimalizovat počet vražd — tedy jednu spáchat, abychom pěti zabránili. Deontologické omezení to zakazuje, protože není cílem, který se má maximalizovat, ale hranicí kladenou jednajícímu. Obhájci (Nozick, Nagel) proto zdůrazňují vztah mezi pachatelem a obětí, ne bilanci světa.",
+  "source": "Samuel Scheffler, The Rejection of Consequentialism (1982)",
+  "seedElo": 1800
+ },
+ {
+  "id": "eti-A30",
+  "type": "F",
+  "category": "etika",
+  "text": "Tvrzení, že existují skutečná morální dilemata, se v teorii nejčastěji opírá o argument, že:",
+  "options": [
+   "žádná morální teorie dosud nedokázala určit pořadí důležitosti jednotlivých povinností",
+   "po volbě zůstává oprávněná lítost a nárok na nápravu, což ukazuje na nezrušený závazek",
+   "různé kultury si v konkrétních případech odporují, takže objektivní řešení chybí",
+   "jednající obvykle nemá dost informací, aby dokázal následky obou možností porovnat"
+  ],
+  "correct": 1,
+  "explanation": "Ruth Barcan Marcusová a Williams argumentují právě tímto „morálním zbytkem“: kdyby porušený požadavek volbou zanikl, byla by lítost iracionální — a ona iracionální není. Odpůrci (Hare, Donagan) namítají, že cit je jen ozvěnou toho, co bylo v sázce, a že připuštění dilemat by činilo morální soustavu rozpornou.",
+  "source": "Ruth Barcan Marcus, Moral Dilemmas and Consistency, J. Phil. (1980)",
+  "seedElo": 1800
+ },
+ {
+  "id": "eti-B32",
+  "type": "K",
+  "category": "etika",
+  "text": "Proč se v metaetice používá postava amoralisty jako námitka proti motivačnímu internalismu?",
+  "options": [
+   "Popírá, že by morální soudy mohly být vůbec pravdivé či nepravdivé",
+   "Tvrdí, že bez touhy nemůže jednat nikdo, ani člověk zcela ctnostný",
+   "Představuje člověka, jenž uznává povinnost, a přesto ji necítí",
+   "Ukazuje, že morální slova nemají napříč mluvčími zcela týž význam"
+  ],
+  "correct": 2,
+  "explanation": "Amoralista je myslitelná osoba, která zcela kompetentně používá morální pojmy, soudí, že určitý čin je špatný, a přitom ji to ani v nejmenším nepohne. Existuje-li taková postava byť jen jako souvislá možnost, není spojení soudu a motivace nutné a internalismus padá. Internalisté odpovídají, že amoralista morální slova užívá jen v „uvozovkách“ — hlásí, co za špatné pokládají druzí — nebo že jde o případ oslabené vůle, kde motivace není nulová, jen přehlušená.",
+  "source": "Michael Smith, The Moral Problem (1994), kap. 3; David Brink, Moral Realism and the Foundations of Ethics (1989)",
+  "seedElo": 1800
+ },
+ {
+  "id": "eti-C05",
+  "type": "K",
+  "category": "etika",
+  "text": "Co stoikové mysleli pojmem oikeiósis?",
+  "options": [
+   "Postupné rozšiřování okruhu toho, co je nám vlastní",
+   "Cvičení v odmítání všech tělesných potřeb a vazeb",
+   "Uzavření mudrce do soukromí zahrady mezi přáteli",
+   "Splynutí jednotlivce s věčným koloběhem znovuzrození"
+  ],
+  "correct": 0,
+  "explanation": "Oikeiósis znamená „přivlastňování\": tvor nejprve pečuje o sebe, pak o blízké a posléze rozšiřuje péči na soustředné kruhy až k celému lidstvu. Tím stoikové odvozovali kosmopolitní povinnosti z přirozeného sklonu, ne z abstraktního příkazu. Je to jejich odpověď na otázku, proč nám vůbec mají záležet cizí lidé.",
+  "source": "Hierokles; Cicero, O povinnostech",
+  "seedElo": 1800
+ },
+ {
+  "id": "eti-C22",
+  "type": "K",
+  "category": "etika",
+  "text": "Co u Lévinase znamená „tvář druhého\"?",
+  "options": [
+   "Obraz, v němž poznáváme své vlastní lidské rysy",
+   "Zdroj nároku, jenž mě zavazuje dřív než volba",
+   "Masku, za níž se skrývá vůle k moci a zisku",
+   "Symbol lidské důstojnosti daný společností"
+  ],
+  "correct": 1,
+  "explanation": "Tvář není u Lévinase vzhled, ale způsob, jímž se druhý vymyká mým pojmům a přímo mě oslovuje zákazem zabít. Odpovědnost tedy nezakládám svým rozhodnutím, nýbrž ji nacházím jako už uloženou, a proto je etika „první filosofií\". Vztah k druhému je nesymetrický: mé závazky nezávisí na tom, co druhý udělá pro mě.",
+  "source": "Lévinas, Totalita a nekonečno",
+  "seedElo": 1800
  },
  {
   "id": "eti-18",
@@ -302,6 +1550,38 @@
   "explanation": "Haidtův model „sociálního intuicionismu“ tvrdí, že mravní hodnocení přichází rychle a automaticky jako emocionální reakce, zatímco vědomé rozumové zdůvodnění přichází až následně a slouží spíš k obhajobě už učiněného úsudku.",
   "source": "Jonathan Haidt, The Righteous Mind (2012)",
   "seedElo": 1840
+ },
+ {
+  "id": "eti-A32",
+  "type": "F",
+  "category": "etika",
+  "text": "Nejsilnější námitkou generalistů proti partikularismu bývá, že:",
+  "options": [
+   "partikularismus vede k závěru, že o morálce nelze mezi lidmi vůbec smysluplně mluvit",
+   "partikularismus mlčky předpokládá, že všechny hodnoty jsou převeditelné na jedinou veličinu",
+   "partikularismus nedokáže uznat, že některé rysy jednání mění svou váhu podle okolností",
+   "bez obecných tvrzení nelze vysvětlit mravní výchovu ani zdůvodnit soud o novém případu"
+  ],
+  "correct": 3,
+  "explanation": "Učíme děti, že lhát je obvykle špatné, a od úsudku o jednom případu přecházíme k podobnému — obojí předpokládá jakousi obecnost, byť třeba jen výchozí. McKeever a Ridge proto hájí „generalismus jako regulativní ideál“: principy mohou být nesnadné a proměnlivé, a přesto nezbytné pro srozumitelnost morálky.",
+  "source": "Sean McKeever & Michael Ridge, Principled Ethics (2006)",
+  "seedElo": 1850
+ },
+ {
+  "id": "eti-B31",
+  "type": "F",
+  "category": "etika",
+  "text": "Parfitův problém neidentity vzniká u rozhodnutí, jež ovlivňují i to, kdo se vůbec narodí. Potíž spočívá v tom, že:",
+  "options": [
+   "je obtížné tvrdit, že jsme někomu ublížili, když by jinak nežil",
+   "je taková volba morálně lhostejná, protože budoucnost nelze znát",
+   "se stírá rozdíl mezi konáním a opomenutím u dlouhodobých následků",
+   "z něj plyne povinnost přivést na svět co největší počet lidí"
+  ],
+  "correct": 0,
+  "explanation": "Vyčerpáme-li dnes zdroje, budou lidé za dvě stě let žít hůř — ale při jiné politice by se narodili úplně jiní lidé, protože i drobná změna okolností mění, kdo bude počat. Nikdo tedy není poškozen ve smyslu „je na tom hůř, než by byl jinak“, pokud jeho život přesto stojí za žití. Přesto většina lidí soudí, že vyčerpání zdrojů je špatné, což tlačí k neosobním principům hodnotícím stavy světa místo újmy konkrétním osobám.",
+  "source": "Derek Parfit, Reasons and Persons (1984), kap. 16",
+  "seedElo": 1850
  },
  {
   "id": "eti-20",
