@@ -1,0 +1,514 @@
+[
+  {
+    "id": "ziv-B01",
+    "type": "F",
+    "category": "zivocichove",
+    "text": "Barevné vidění psa se od lidského liší tím, že pes:",
+    "options": [
+      "má pouze dva typy čípků, a proto nerozliší červenou od zelené",
+      "má tři typy čípků stejně jako člověk, jen jsou méně citlivé",
+      "nemá čípky vůbec žádné, a vidí tedy jen odstíny šedi",
+      "má čtyři typy čípků a vnímá navíc i ultrafialové světlo"
+    ],
+    "correct": 0,
+    "explanation": "Pes má dva typy čípků, citlivé zhruba v modrofialové a ve žlutozelené oblasti, je tedy dichromát podobně jako člověk s deuteranopií. Červený míč na zelené trávě mu proto splývá a rozliší ho hlavně jasem a pohybem. Tvrzení, že psi vidí černobíle, je starý mýtus.",
+    "source": "Neitz, Geist & Jacobs, Color vision in the dog, Visual Neuroscience (1989)",
+    "seedElo": 1300
+  },
+  {
+    "id": "ziv-B02",
+    "type": "F",
+    "category": "zivocichove",
+    "text": "Mnozí ptáci rozlišují barvy bohatěji než lidé, protože:",
+    "options": [
+      "mají v sítnici mnohem větší podíl tyčinek než kterýkoli savec",
+      "mají čtvrtý typ čípku citlivý až do ultrafialové oblasti",
+      "jejich oční čočka propouští k sítnici i infračervené záření",
+      "barvy skládají ze dvou sítnic, každé s odlišným pigmentem"
+    ],
+    "correct": 1,
+    "explanation": "Ptačí sítnice obsahuje čtyři typy čípků a u řady druhů je jeden z nich citlivý v ultrafialové části spektra. Peří, které lidem připadá jednobarevné, tak může nést vzory viditelné jen ptákům, a UV odraz hraje roli i při hledání potravy. Barevné vidění navíc ladí olejové kapénky uvnitř čípků, které fungují jako filtry.",
+    "source": "Ödeen & Håstad, The phylogenetic distribution of ultraviolet sensitivity in birds, BMC Evolutionary Biology (2013)",
+    "seedElo": 1500
+  },
+  {
+    "id": "ziv-B03",
+    "type": "F",
+    "category": "zivocichove",
+    "text": "Oko chobotnice se od oka obratlovce liší mimo jiné tím, že:",
+    "options": [
+      "nemá vůbec žádnou čočku a světlo soustředí jen úzkým otvorem",
+      "obsahuje místo fotoreceptorů pouze volná nervová zakončení",
+      "jeho sítnice není převrácená, a proto v ní chybí slepá skvrna",
+      "vzniká jako výběžek mozku, kdežto oko obratlovce z kůže"
+    ],
+    "correct": 2,
+    "explanation": "U obratlovců leží fotoreceptory až za vrstvou nervových buněk a jejich vlákna procházejí sítnicí ven — právě tam vzniká slepá skvrna. Hlavonožci mají receptory obrácené ke světlu a nervy odcházejí zezadu, slepou skvrnu proto nemají. Obě oči vznikly nezávisle a jsou učebnicovým příkladem konvergence; chobotnice navíc zaostřuje posouváním čočky, ne její deformací.",
+    "source": "Serb & Eernisse, Charting evolution's trajectory: eye opsins in Mollusca, Evolution: Education and Outreach (2008)",
+    "seedElo": 1500
+  },
+  {
+    "id": "ziv-B04",
+    "type": "F",
+    "category": "zivocichove",
+    "text": "Flémování, kdy kůň nebo kočka ohrne pysk a strne, slouží k tomu, aby:",
+    "options": [
+      "se zvíře zbavilo pachu, který mu dráždí sliznici nosní dutiny",
+      "si zvíře prohřálo vdechovaný vzduch před vstupem do plic",
+      "se zvětšil objem vzduchu nasávaného do plicních sklípků",
+      "se pachy dostaly do vomeronazálního (Jacobsonova) orgánu"
+    ],
+    "correct": 3,
+    "explanation": "Vomeronazální orgán ústí do dutiny nosní či ústní a reaguje hlavně na málo těkavé látky, typicky feromony. Ohrnutý pysk uzavře nozdry a nasměruje molekuly k jeho vývodu. Hadi tentýž orgán obsluhují rozeklaným jazykem, kterým vzorky přenášejí ze vzduchu i z povrchů.",
+    "source": "Døving & Trotier, Structure and function of the vomeronasal organ, Journal of Experimental Biology (1998)",
+    "seedElo": 1350
+  },
+  {
+    "id": "ziv-B05",
+    "type": "F",
+    "category": "zivocichove",
+    "text": "Dvaadvacet masitých paprsků na čenichu hvězdonose hvězdovitého:",
+    "options": [
+      "slouží k nasávání vody a filtrování drobných vodních korýšů",
+      "vylučuje lepkavý sekret, jímž krtek kořist přilepí a znehybní",
+      "funguje jako čichové výběžky s vlastní olfaktorickou sliznicí",
+      "je hmatovým orgánem s desítkami tisíc dotykových receptorů"
+    ],
+    "correct": 3,
+    "explanation": "Paprsky nesou přes 25 000 Eimerových orgánů a v mozkové kůře jim odpovídá nepoměrně velká oblast, obdoba senzorického homunkula. Hvězdonos jimi ohmatá a rozpozná kořist za desítky milisekund, což z něj dělá jednoho z nejrychlejších lovců mezi savci. Oči má zakrnělé a orientuje se prakticky jen dotykem.",
+    "source": "Kenneth Catania, The sense of touch in the star-nosed mole, Philosophical Transactions of the Royal Society B (2011)",
+    "seedElo": 1600
+  },
+  {
+    "id": "ziv-B06",
+    "type": "F",
+    "category": "zivocichove",
+    "text": "Hmatové vousy (vibrisy) savců se od běžných chlupů liší hlavně tím, že:",
+    "options": [
+      "rostou z kůže bez kořene a drží jen v zrohovatělé vrstvě",
+      "obsahují uvnitř dřeně vlastní drobné svalové vlákno",
+      "jejich váček je obklopen krevní dutinou a hustě inervován",
+      "jsou tvořeny chitinem, nikoli keratinem jako ostatní chlupy"
+    ],
+    "correct": 2,
+    "explanation": "Samotný vous je mrtvá keratinová tyčka, citlivý je jeho folikul: obklopuje ho krevní splav a stovky až tisíce nervových zakončení, která snímají ohyb. Krysy a myši vibrisami aktivně kmitají a ohmatávají okolí, tuleni jimi zachytí vírovou stopu za plavoucí rybou. Pro mnoho nočních savců jde o smysl srovnatelně důležitý jako zrak.",
+    "source": "Diamond & Arabzadeh, Whisker sensory system, Progress in Neurobiology (2013)",
+    "seedElo": 1400
+  },
+  {
+    "id": "ziv-B07",
+    "type": "K",
+    "category": "zivocichove",
+    "text": "Jak chřestýš „uvidí“ teplé tělo kořisti i v naprosté tmě?",
+    "options": [
+      "Sítnicí, která je citlivá k infračervené složce vyzařované teplem",
+      "Jamkovými orgány s membránou, jejíž ohřev otevírá iontové kanály",
+      "Jazykem, na němž se sráží vlhkost z teplého dechu jeho kořisti",
+      "Šupinami na břiše, které měří teplotu podložky pod jeho tělem"
+    ],
+    "correct": 1,
+    "explanation": "Jamka mezi okem a nozdrou obsahuje tenkou membránu s hustou sítí nervových zakončení; její ohřátí aktivuje iontový kanál TRPA1 a signál se v mozku slévá s obrazem ze zraku. Nejde tedy o vidění v pravém smyslu, receptory nereagují na fotony, ale na zvýšení teploty tkáně. Podobné orgány mají nezávisle i krajty a hroznýši.",
+    "source": "Gracheva et al., Molecular basis of infrared detection by snakes, Nature (2010)",
+    "seedElo": 1450
+  },
+  {
+    "id": "ziv-B08",
+    "type": "F",
+    "category": "zivocichove",
+    "text": "Ptačí plíce se od savčích liší především tím, že vzduch:",
+    "options": [
+      "jimi proudí převážně jedním směrem díky soustavě vzdušných vaků",
+      "v nich mezi nádechem a výdechem střídavě mění směr proudění",
+      "se v nich dostává do krve rovnou přes stěnu vzdušných vaků",
+      "je do nich nasáván stahy bránice úplně stejně jako u savců"
+    ],
+    "correct": 0,
+    "explanation": "Vzdušné vaky fungují jako měchy, takže parabronchy protéká vzduch jednosměrně i během výdechu a výměna plynů běží nepřetržitě. Ptáci díky tomu zvládají let ve výškách, kde by savec ztratil vědomí. Bránici nemají, hrudník pohybují žebry a hrudní kostí; samotné vaky výměnu plynů neprovádějí.",
+    "source": "Maina, Development, structure and function of a novel respiratory organ, the lung–air sac system of birds (2006)",
+    "seedElo": 1400
+  },
+  {
+    "id": "ziv-B09",
+    "type": "F",
+    "category": "zivocichove",
+    "text": "Srdce žirafy vytváří zhruba dvojnásobný tlak než srdce člověka, protože:",
+    "options": [
+      "musí krev vytlačit několik metrů vzhůru až do hlavy",
+      "žirafí krev je mnohem hustší než u ostatních savců",
+      "žirafa má jedinou tepnu vedoucí ke všem svým orgánům",
+      "žirafí srdce se stahuje jen několikrát za jednu minutu"
+    ],
+    "correct": 0,
+    "explanation": "Střední arteriální tlak žirafy se pohybuje kolem 200 mm Hg, tedy asi dvojnásobek lidského, a levá komora má nápadně silnou stěnu. Aby při sklonění hlavy k vodě nestoupl tlak v mozku nebezpečně vysoko, pomáhají chlopně v krčních žilách a pružné cévní pleteně. Nohy chrání před otoky velmi těsná kůže a fascie, které působí jako kompresní punčocha.",
+    "source": "Mitchell & Skinner, An allometric analysis of the giraffe cardiovascular system, Comparative Biochemistry and Physiology A (2009)",
+    "seedElo": 1300
+  },
+  {
+    "id": "ziv-B10",
+    "type": "K",
+    "category": "zivocichove",
+    "text": "Proč má chobotnice tři srdce?",
+    "options": [
+      "Každé z nich zásobuje jednu ze tří oddělených tělních dutin",
+      "Dvě ženou krev přes žábry a třetí ji rozvádí do celého těla",
+      "Dvě pracují jen při plavání a jedno při odpočinku na dně",
+      "Tři srdce si střídavě odpočívají, aby se jejich tkáň nevyčerpala"
+    ],
+    "correct": 1,
+    "explanation": "Dvě žaberní srdce tlačí krev přes žábry, systémové srdce pak rozvádí okysličenou krev po těle. Krev nese měďnatý hemocyanin, který je za chladu spolehlivý, ale méně výkonný než hemoglobin, a dělený oběh to kompenzuje. Při plavání tryskem se systémové srdce zastavuje, proto chobotnice raději leze než plave.",
+    "source": "Martin J. Wells, Octopus: Physiology and Behaviour of an Advanced Invertebrate (1978)",
+    "seedElo": 1300
+  },
+  {
+    "id": "ziv-B11",
+    "type": "F",
+    "category": "zivocichove",
+    "text": "Namodralá krev raků a hlavonožců je dána tím, že jejich dýchací barvivo obsahuje:",
+    "options": [
+      "zinek vázaný v porfyrinovém kruhu podobném hemu",
+      "vanad, který kyslík váže přímo v krevních buňkách",
+      "měď namísto železa, na kterém stojí hemoglobin",
+      "hořčík stejně jako rostlinný chlorofyl v zelených listech"
+    ],
+    "correct": 2,
+    "explanation": "Hemocyanin váže kyslík dvojicí atomů mědi a po okysličení modře zbarví hemolymfu; odkysličený je téměř bezbarvý. Na rozdíl od hemoglobinu není uzavřen v krvinkách, ale volně rozpuštěn v tělní tekutině. Vanadové sloučeniny se skutečně hromadí v buňkách sumek, s přenosem kyslíku ale nemají nic společného.",
+    "source": "Karl E. van Holde, Hemocyanins, Advances in Protein Chemistry (2001)",
+    "seedElo": 1450
+  },
+  {
+    "id": "ziv-B12",
+    "type": "F",
+    "category": "zivocichove",
+    "text": "Axolotl obnoví celou amputovanou končetinu díky tomu, že:",
+    "options": [
+      "si podél páteře udržuje zásobní pupeny náhradních končetin",
+      "novou končetinu doslova vypučí z nedotčené druhé strany těla",
+      "končetina doroste z kousku kosti, který v ráně vždycky zůstane",
+      "buňky v pahýlu ztratí specializaci a vytvoří růstový blastém"
+    ],
+    "correct": 3,
+    "explanation": "V ráně vzniká blastém, tedy masa odspecializovaných buněk, které se znovu množí a přebudují na kost, sval i nerv se správným uspořádáním. Regenerace vyžaduje přítomnost nervů a rána se nehojí jizvou, což je pro savce zásadní rozdíl. Axolotl navíc zůstává celý život v larvální podobě, jde o klasický příklad neotenie.",
+    "source": "Elly Tanaka, The molecular and cellular choreography of appendage regeneration, Cell / Annual Review of Cell and Developmental Biology (2016)",
+    "seedElo": 1500
+  },
+  {
+    "id": "ziv-B13",
+    "type": "F",
+    "category": "zivocichove",
+    "text": "Aby z odděleného ramene hvězdice dorostl celý nový jedinec, musí rameno:",
+    "options": [
+      "být odděleno v době rozmnožování, jinak se rozpadne",
+      "zůstat celou dobu zcela ponořené v teplé mělké vodě",
+      "být tou částí těla, v níž leží madreporit a také ústa",
+      "nést i kus centrálního terče s částí nervového kruhu"
+    ],
+    "correct": 3,
+    "explanation": "Většina hvězdic potřebuje k obnově celého těla rameno i s částí centrálního terče; takovému útvaru s jedním velkým a několika dorůstajícími rameny se říká kometa. Jen několik rodů, například Linckia, zvládne regeneraci z ramene samotného. O rozmnožování jde jen u druhů, které se dělí záměrně; jinak je to oprava po zranění.",
+    "source": "Hendler et al., Sea Stars, Sea Urchins and Allies (Smithsonian Institution Press, 1995)",
+    "seedElo": 1600
+  },
+  {
+    "id": "ziv-B14",
+    "type": "K",
+    "category": "zivocichove",
+    "text": "Čím je dáno, že ploštěnka doroste i z malého kousku těla?",
+    "options": [
+      "Tím, že se každá její tělní buňka umí libovolně dále dělit",
+      "Zásobou nediferencovaných vajíček uložených podél střeva",
+      "Dospělými kmenovými buňkami (neoblasty) rozptýlenými v těle",
+      "Schopností přijmout cizí buňky z okolní vody a využít je"
+    ],
+    "correct": 2,
+    "explanation": "Neoblasty jsou jediné dělící se buňky ploštěnky a tvoří zhruba pětinu buněk těla; z jediné pluripotentní buňky lze obnovit celého červa. Kde vyroste hlava a kde ocas, určuje signální dráha Wnt, která drží polaritu těla. Ostatní, už specializované buňky se dělit nedokážou.",
+    "source": "Wagner, Wang & Sánchez Alvarado, Clonogenic neoblasts are pluripotent adult stem cells, Science (2011)",
+    "seedElo": 1650
+  },
+  {
+    "id": "ziv-B15",
+    "type": "F",
+    "category": "zivocichove",
+    "text": "Uvnitř kukly motýla se z larválního těla:",
+    "options": [
+      "postupně jen protáhnou nohy a na hřbetě vyrostou nová křídla",
+      "větší část tkání rozpustí a orgány vyrostou z imaginálních disků",
+      "odloučí hlava, kterou nahradí zcela nově vytvořená hlava",
+      "nezmění nic, kukla slouží pouze k přečkání chladného období"
+    ],
+    "correct": 1,
+    "explanation": "Už housence se zakládají shluky buněk zvané imaginální disky; v kukle se většina larválních tkání enzymaticky rozloží a z disků vyrostou křídla, oči i nohy. Nervová soustava přitom zčásti přetrvává, takže si motýl prokazatelně nese naučené asociace z housenky. Není to tedy úplná „polévka“, jak se často říká.",
+    "source": "Blackiston, Silva Casey & Weiss, Retention of memory through metamorphosis, PLoS ONE (2008)",
+    "seedElo": 1500
+  },
+  {
+    "id": "ziv-B16",
+    "type": "F",
+    "category": "zivocichove",
+    "text": "Krab je bezprostředně po svlečení měkký, protože:",
+    "options": [
+      "nová kutikula se teprve zpevňuje a nasycuje vápníkem",
+      "starou schránku ztratil a novou si teprve začíná tvořit",
+      "při svlékání ztratil většinu vápníku obsaženého v krvi",
+      "měkká schránka mu vydrží až do dalšího zimního období"
+    ],
+    "correct": 0,
+    "explanation": "Nová kutikula se vytvoří pod starou ještě před svlékáním, po ekdyzi je ale zvrásněná a poddajná. Korýš se nasaje vodou, aby ji roztáhl na větší rozměr, a pak ji zpevňuje ukládáním uhličitanu vápenatého, často i z požřené staré schránky. Do té doby je snadnou kořistí a schovává se v úkrytu.",
+    "source": "Ernest S. Chang, Physiological and biochemical changes during the molt cycle in decapod crustaceans (1995)",
+    "seedElo": 1350
+  },
+  {
+    "id": "ziv-B17",
+    "type": "F",
+    "category": "zivocichove",
+    "text": "Rozdíl mezi torporem a hibernací spočívá především v tom, že torpor:",
+    "options": [
+      "trvá typicky hodiny až den, kdežto hibernace týdny až měsíce",
+      "probíhá jen v létě, zatímco hibernace výhradně v zimním období",
+      "je stav, při kterém tělesná teplota zvířete naopak stoupá",
+      "postihuje pouze plazy, kdežto hibernace naproti tomu savce"
+    ],
+    "correct": 0,
+    "explanation": "V obou případech jde o řízené snížení metabolismu a tělesné teploty, liší se hlavně délkou. Kolibřík nebo netopýr upadá do torporu na jedinou noc, sysel hibernuje měsíce. Hibernace se navíc skládá z opakovaných dlouhých epizod torporu proložených krátkým, energeticky nákladným zahřátím.",
+    "source": "Fritz Geiser, Metabolic rate and body temperature reduction during hibernation and daily torpor, Annual Review of Physiology (2004)",
+    "seedElo": 1650
+  },
+  {
+    "id": "ziv-B18",
+    "type": "F",
+    "category": "zivocichove",
+    "text": "Břehouš rudý drží ptačí rekord v nepřetržitém letu, protože:",
+    "options": [
+      "cestou odpočívá na hladině oceánu podobně jako racci",
+      "letí z Aljašky až k Novému Zélandu bez jediného přistání",
+      "let přerušuje jen na korálových ostrovech uprostřed cesty",
+      "putuje ve dne v noci, ale každou noc přespí na pevnině"
+    ],
+    "correct": 1,
+    "explanation": "Ptáci sledovaní vysílačkami urazili přes Tichý oceán víc než 12 000 kilometrů za osm až jedenáct dní bez zastávky. Před odletem zvětší tukové zásoby zhruba na polovinu hmotnosti těla a zmenší si trávicí orgány, které během letu nepotřebují. Břehouši nedokážou plavat, takže odpočinek na vodě nepřipadá v úvahu.",
+    "source": "Gill et al., Extreme endurance flights by landbirds crossing the Pacific Ocean, Proceedings of the Royal Society B (2009)",
+    "seedElo": 1550
+  },
+  {
+    "id": "ziv-B19",
+    "type": "K",
+    "category": "zivocichove",
+    "text": "Čím je dáno, že tuleň vydrží pod vodou mnohem déle než člověk?",
+    "options": [
+      "Plíce má mnohonásobně větší a nadechne se do nich zásoba",
+      "Dokáže kyslík získávat přímo z vody přes kůži a sliznice",
+      "Kyslík si nese hlavně ve svalech a krvi, nikoli v plicích",
+      "Jeho tkáně pracují po dobu ponoru zcela bez potřeby kyslíku"
+    ],
+    "correct": 2,
+    "explanation": "Tuleni mají velký objem krve a mimořádně vysokou koncentraci myoglobinu ve svalech, takže kyslík skladují v tkáních. Plíce naopak před ponorem zčásti vyprázdní, aby se pod tlakem nerozpouštěl dusík v krvi. Během ponoru výrazně zpomalí srdce a odkloní krev od periferie k mozku a srdci.",
+    "source": "Paul J. Ponganis, Diving Physiology of Marine Mammals and Seabirds (Cambridge University Press, 2015)",
+    "seedElo": 1500
+  },
+  {
+    "id": "ziv-B20",
+    "type": "F",
+    "category": "zivocichove",
+    "text": "Sloni spolu komunikují na kilometrové vzdálenosti pomocí:",
+    "options": [
+      "ultrazvuku o frekvenci mnoha desítek tisíc hertzů",
+      "hvizdů, které vydávají prudkým výdechem chobotem",
+      "klapání kly, jehož ozvěnu na dálku dobře slyší",
+      "infrazvuku, tedy tónů pod prahem lidského sluchu"
+    ],
+    "correct": 3,
+    "explanation": "Sloní hlasy se pohybují kolem 15 až 35 hertzů a v otevřené krajině se nesou několik kilometrů; část energie putuje i zemí jako seizmické vlnění. Nízké frekvence se rozptylují méně než vysoké, proto doletí dál. Sloni je vnímají ušima i citlivými polštářky nohou a chobotu.",
+    "source": "O'Connell-Rodwell, Keeping an 'ear' to the ground: seismic communication in elephants, Physiology (2007)",
+    "seedElo": 1350
+  },
+  {
+    "id": "ziv-B21",
+    "type": "F",
+    "category": "zivocichove",
+    "text": "Žralok za život vystřídá tisíce zubů, protože:",
+    "options": [
+      "opotřebované zuby se obrousí a znovu vyrostou z kořene",
+      "novou sadu zubů si vytvoří jednou ročně po období tření",
+      "zuby mu vypadávají jen po zranění, jinak vydrží celý život",
+      "zuby mu dorůstají v řadách a postupně putují dopředu"
+    ],
+    "correct": 3,
+    "explanation": "Zuby žraloka nejsou vrostlé do čelisti, ale ukotvené ve vazivu a uspořádané do několika řad, které se posouvají vpřed jako běžící pás. Ztracený zub tak nahradí nový během několika dní až týdnů. Vývojově jde o přeměněné plakoidní šupiny, ne o zuby savčího typu.",
+    "source": "Wolf-Ernst Reif, Squamation and Ecology of Sharks (Courier Forschungsinstitut Senckenberg, 1985)",
+    "seedElo": 1300
+  },
+  {
+    "id": "ziv-B22",
+    "type": "F",
+    "category": "zivocichove",
+    "text": "Hlodavci si musí řezáky neustále obrušovat, protože:",
+    "options": [
+      "se jim jinak zuby v čelisti uvolní a vypadnou",
+      "jim tvrdá potrava popraská zubovinu až ke dřeni",
+      "jim po celý život dorůstají z otevřeného kořene",
+      "je mají potažené sklovinou, která sama měkne"
+    ],
+    "correct": 2,
+    "explanation": "Řezáky hlodavců rostou nepřetržitě z trvale otevřeného kořene, u některých druhů i milimetry týdně. Sklovinu mají jen na přední straně, takže se měkčí zubovina vzadu obrušuje rychleji a hrana se sama ostří do dlátovitého tvaru. Bez protějšku zub přeroste a zvíře nemůže přijímat potravu.",
+    "source": "Cox & Hautier (eds.), Evolution of the Rodents: Advances in Phylogeny, Functional Morphology and Development (2015)",
+    "seedElo": 1450
+  },
+  {
+    "id": "ziv-B23",
+    "type": "F",
+    "category": "zivocichove",
+    "text": "Hadí jed z hlediska chemie nejlépe popíšeme tak, že:",
+    "options": [
+      "jde o jedinou velmi silnou kyselinu, která tkáň rozleptá",
+      "jde o směs enzymů a toxinů blokujících nervy nebo tkáň",
+      "jde o živé bakterie, které v ráně vyvolají těžkou otravu",
+      "jde o těžké kovy nahromaděné v jedových žlázách hada"
+    ],
+    "correct": 1,
+    "explanation": "Jed je evolučně přeměněná slina a tvoří ho desítky bílkovin: fosfolipázy A2, metaloproteinázy štěpící cévní stěnu i drobné neurotoxiny blokující nervosvalový přenos. Složení se liší mezi druhy, ale i mezi populacemi téhož druhu, což komplikuje výrobu antisér. Právě z těchto molekul vzešlo i několik běžných léků.",
+    "source": "Bryan G. Fry (ed.), Venomous Reptiles and Their Toxins (Oxford University Press, 2015)",
+    "seedElo": 1550
+  },
+  {
+    "id": "ziv-B24",
+    "type": "K",
+    "category": "zivocichove",
+    "text": "Proč se ještěrce ocas odlomí tak snadno a čistě?",
+    "options": [
+      "V obratlech ocasu má předem založené zlomové roviny",
+      "Ocas není s tělem spojen kostí, drží jen na kůži",
+      "Kosti ocasu jsou z chrupavky, která při tahu praskne",
+      "Sval na kořeni ocasu ho při útěku doslova ukousne"
+    ],
+    "correct": 0,
+    "explanation": "Řada ještěrů má v ocasních obratlech přerušovací roviny se svěrači, které oddělení provedou a zároveň rychle uzavřou cévy. Odhozený ocas se ještě minuty svíjí a poutá pozornost predátora. Dorůstá ale jen jako chrupavčitá tyčka bez obratlů a zvíře v něm přijde o část tukových zásob.",
+    "source": "Bellairs & Bryant, Autotomy and regeneration in reptiles, Biology of the Reptilia (1985)",
+    "seedElo": 1400
+  },
+  {
+    "id": "ziv-B25",
+    "type": "K",
+    "category": "zivocichove",
+    "text": "Co přesně odlišuje ektotermního živočicha od endotermního?",
+    "options": [
+      "Zdroj tepla: ektoterm ho čerpá z okolí, endoterm z metabolismu",
+      "Stálost teploty: ektoterm ji má vždy kolísavou, endoterm stálou",
+      "Rychlost pohybu: ektoterm je vždy pomalejší než endoterm",
+      "Prostředí: ektotermové žijí ve vodě, endotermové na souši"
+    ],
+    "correct": 0,
+    "explanation": "Rozdíl je ve zdroji tepla, nikoli v jeho stálosti. Ještěrka vyhřátá na slunci může mít teplotu vyrovnanější než hibernující sysel a někteří tuňáci či žralok mako si svalovou prací vyhřívají části těla nad teplotu okolí. Krajta při inkubaci vajec teplo dokonce sama vyrábí svalovým třesem.",
+    "source": "Willmer, Stone & Johnston, Environmental Physiology of Animals (Blackwell, 2005)",
+    "seedElo": 1600
+  },
+  {
+    "id": "ziv-B26",
+    "type": "F",
+    "category": "zivocichove",
+    "text": "Kleiberův zákon říká, že bazální metabolismus roste s hmotností těla:",
+    "options": [
+      "s exponentem dvě třetiny, tedy přesně úměrně povrchu těla",
+      "s exponentem asi tři čtvrtiny, tedy pomaleji než hmotnost",
+      "se čtvercem hmotnosti, tedy podstatně rychleji než hmotnost",
+      "přesně úměrně, dvakrát těžší zvíře spotřebuje dvakrát více"
+    ],
+    "correct": 1,
+    "explanation": "Napříč obrovským rozsahem velikostí platí, že bazální metabolismus škáluje zhruba jako hmotnost umocněná na 0,75. Myš proto spotřebuje na gram tkáně mnohem víc energie než slon a musí jíst téměř nepřetržitě. Původ exponentu je dodnes sporný, uvažuje se o geometrii cévních sítí i o limitech odvodu tepla; starší „pravidlo povrchu“ s exponentem dvě třetiny data nesplňují.",
+    "source": "Max Kleiber, Body size and metabolism, Hilgardia (1932)",
+    "seedElo": 1750
+  },
+  {
+    "id": "ziv-B27",
+    "type": "K",
+    "category": "zivocichove",
+    "text": "Co doopravdy dělá medúza Turritopsis dohrnii, které se říká nesmrtelná?",
+    "options": [
+      "Její buňky se nikdy nedělí, takže vlastně vůbec nestárnou",
+      "Dokáže se donekonečna klonovat pučením nových medúz",
+      "Přemění dospělé tělo zpět v polyp přestavbou svých buněk",
+      "Průběžně vyměňuje všechny své buňky za nové, dokud žije"
+    ],
+    "correct": 2,
+    "explanation": "Při poranění nebo hladovění se medúza usadí, zapouzdří a její buňky se transdiferenciací přeprogramují na buňky polypa, z něhož znovu vypučí medúzy. Cyklus lze v principu opakovat, jde ale o laboratorní pozorování — v moři medúzu spolehlivě sežere predátor nebo skolí nemoc. Nesmrtelnost je tedy potenciální, ne skutečná.",
+    "source": "Piraino et al., Reversing the life cycle: medusae transforming into polyps, Biological Bulletin (1996)",
+    "seedElo": 1700
+  },
+  {
+    "id": "ziv-B28",
+    "type": "F",
+    "category": "zivocichove",
+    "text": "Encefalizační kvocient (EQ) se používá proto, že samotná velikost mozku:",
+    "options": [
+      "se u živého zvířete nedá změřit jinak než podle hmotnosti",
+      "se v průběhu roku mění podle množství dostupné potravy",
+      "u savců téměř nekolísá, takže ji nelze mezi druhy srovnat",
+      "roste s velikostí těla, a je proto sama o sobě málo výmluvná"
+    ],
+    "correct": 3,
+    "explanation": "EQ porovnává skutečnou hmotnost mozku s hodnotou očekávanou pro savce dané velikosti: člověk vychází kolem sedmi, delfíni kolem čtyř, kůň pod jedničku. Ukazatel je ale hrubý a dnes se dává přednost počtu neuronů v předním mozku, kde třeba papoušci předčí i mnohem větší savce. Vorvaň má největší mozek ze všech, jeho EQ je přitom nízký.",
+    "source": "Harry J. Jerison, Evolution of the Brain and Intelligence (Academic Press, 1973)",
+    "seedElo": 1600
+  },
+  {
+    "id": "ziv-B29",
+    "type": "F",
+    "category": "zivocichove",
+    "text": "Rekord v nejhlubším a nejdelším doloženém ponoru mezi savci drží:",
+    "options": [
+      "vorvaň obrovský, který loví olihně u samého dna oceánu",
+      "plejtvák obrovský, největší živočich všech dob na Zemi",
+      "tuleň Weddellův, který se potápí pod ledem Antarktidy",
+      "vorvaňovec Cuvierův, doložený v hloubce téměř tří kilometrů"
+    ],
+    "correct": 3,
+    "explanation": "Vorvaňovci Cuvierovi dosáhli podle satelitních značek hloubky téměř 3 000 metrů a jeden zaznamenaný ponor trval přes tři hodiny. Vorvaň se běžně potápí kolem kilometru, tuleň Weddellův do stovek metrů a plejtvák obrovský jen do desítek metrů. Rekordy tohoto typu známe spolehlivě až od rozšíření satelitní telemetrie.",
+    "source": "Schorr et al., First long-term behavioral records from Cuvier's beaked whales, PLoS ONE (2014)",
+    "seedElo": 1450
+  },
+  {
+    "id": "ziv-B30",
+    "type": "F",
+    "category": "zivocichove",
+    "text": "Když samice varana komodského naklade bez samce vývojeschopná vejce, vylíhnou se:",
+    "options": [
+      "samé samice, protože potomci jsou vlastně klony matky",
+      "samci i samice v obvyklém poměru zhruba jedna ku jedné",
+      "samí samci, protože samice je u varanů pohlaví ZW",
+      "jedinci, jejichž pohlaví určí až teplota v hnízdě"
+    ],
+    "correct": 2,
+    "explanation": "U varanů určuje pohlaví systém ZW: samice je ZW, samec ZZ. Při partenogenezi se zdvojí jediná chromozomová sada, takže vzniknou jedinci ZZ a WW, přičemž kombinace WW není životaschopná. Z partenogenetické snůšky se proto líhnou jen samci, s nimiž se matka může později pářit — u savců je tento typ rozmnožování naopak vyloučen.",
+    "source": "Watts et al., Parthenogenesis in Komodo dragons, Nature (2006)",
+    "seedElo": 1750
+  },
+  {
+    "id": "ziv-B31",
+    "type": "F",
+    "category": "zivocichove",
+    "text": "O klaunech očkatých žijících v sasankách platí, že:",
+    "options": [
+      "pohlaví každého jedince určuje teplota vody v sasance",
+      "když zahyne samice, promění se v ni největší ze samců",
+      "všichni jedinci ve skupině jsou zároveň samci i samice",
+      "samice se po vytření mění v samce a opouští sasanku"
+    ],
+    "correct": 1,
+    "explanation": "Klauni jsou protandričtí hermafrodité: každý dospívá jako samec a po ztrátě samice se v ni změní největší jedinec ve skupině. U pyskounů a mnoha dalších útesových ryb běží změna opačným směrem, ze samice se stává samec (protogynie). Pohlaví tu tedy neurčuje jen genom, ale i sociální postavení ve skupině.",
+    "source": "Fricke & Fricke, Monogamy and sex change by aggressive dominance in coral reef fish, Nature (1977)",
+    "seedElo": 1500
+  },
+  {
+    "id": "ziv-B32",
+    "type": "F",
+    "category": "zivocichove",
+    "text": "Ryby čeledi Channichthyidae z antarktických vod jsou pozoruhodné tím, že:",
+    "options": [
+      "nemají v krvi hemoglobin a jejich krev je průhledná",
+      "jejich krev obsahuje místo hemoglobinu měďnatý hemocyanin",
+      "jejich krev je díky vysokému obsahu železa téměř černá",
+      "kyslík vážou na bílkovinu, jež jim krev barví dozelena"
+    ],
+    "correct": 0,
+    "explanation": "Krokodýlovky jsou jediní známí obratlovci bez hemoglobinu a prakticky bez červených krvinek; kyslík se rozpouští přímo v plazmě, což je možné jen ve studené a kyslíkem bohaté vodě kolem Antarktidy. Kompenzují to velkým srdcem, širokými cévami a několikanásobně větším objemem krve. Před zamrznutím je navíc chrání nemrznoucí glykoproteiny.",
+    "source": "Sidell & O'Brien, When bad things happen to good fish: the loss of hemoglobin and myoglobin expression in Antarctic icefishes, Journal of Experimental Biology (2006)",
+    "seedElo": 1750
+  }
+]

@@ -16,6 +16,134 @@
   "seedElo": 1300
  },
  {
+  "id": "ziv-A03",
+  "type": "F",
+  "category": "zivocichove",
+  "text": "Vrtivý tanec včely medonosné, který rozluštil Karl von Frisch, sděluje družkám v úlu především:",
+  "options": [
+   "druh květin a jejich barvu na daném stanovišti",
+   "počet dělnic potřebných ke sklizni zdroje",
+   "směr a vzdálenost zdroje potravy od úlu",
+   "výšku slunce nad obzorem v okamžiku návratu"
+  ],
+  "correct": 2,
+  "explanation": "Úhel přímé části tance vůči svislici na plástu odpovídá úhlu zdroje vůči slunci a délka vrtivé fáze roste se vzdáleností. Von Frisch za rozluštění tohoto „jazyka“ dostal roku 1973 Nobelovu cenu. Kvalitu zdroje včela nesděluje obsahem tance, ale jeho vytrvalostí a živostí.",
+  "source": "Karl von Frisch: Tanzsprache und Orientierung der Bienen (1965); Nobelova cena za fyziologii a medicínu 1973",
+  "seedElo": 1300
+ },
+ {
+  "id": "ziv-A21",
+  "type": "F",
+  "category": "zivocichove",
+  "text": "Pojem „klovací pořádek“ zavedl Thorleif Schjelderup-Ebbe ve 20. letech na základě trpělivého pozorování:",
+  "options": [
+   "vlků, u nichž popsal opakované souboje o vedení smečky",
+   "slepic, u nichž popsal lineární pořadí dominance",
+   "paviánů, u nichž popsal koalice mezi dospělými samci",
+   "holubů, u nichž popsal soupeření o hnízdní dutiny"
+  ],
+  "correct": 1,
+  "explanation": "V hejnu slepic zjistil pravidelnou řadu, v níž každý pták klove ty pod sebou a ustupuje těm nad sebou, čímž se počet skutečných soubojů snižuje. Pojem se pak rozšířil na hierarchie u dalších druhů, ačkoli u mnoha z nich pořadí není přísně lineární a mění se podle kontextu a koalic. Zmíněná představa dominantního „alfa vlka“ pochází z pozdějších pozorování zvířat v zajetí a u volně žijících vlků neplatí.",
+  "source": "Schjelderup-Ebbe, T.: Beiträge zur Sozialpsychologie des Haushuhns, Zeitschrift für Psychologie 88 (1922)",
+  "seedElo": 1300
+ },
+ {
+  "id": "ziv-B01",
+  "type": "F",
+  "category": "zivocichove",
+  "text": "Barevné vidění psa se od lidského liší tím, že pes:",
+  "options": [
+   "má pouze dva typy čípků, a proto nerozliší červenou od zelené",
+   "má tři typy čípků stejně jako člověk, jen jsou méně citlivé",
+   "nemá čípky vůbec žádné, a vidí tedy jen odstíny šedi",
+   "má čtyři typy čípků a vnímá navíc i ultrafialové světlo"
+  ],
+  "correct": 0,
+  "explanation": "Pes má dva typy čípků, citlivé zhruba v modrofialové a ve žlutozelené oblasti, je tedy dichromát podobně jako člověk s deuteranopií. Červený míč na zelené trávě mu proto splývá a rozliší ho hlavně jasem a pohybem. Tvrzení, že psi vidí černobíle, je starý mýtus.",
+  "source": "Neitz, Geist & Jacobs, Color vision in the dog, Visual Neuroscience (1989)",
+  "seedElo": 1300
+ },
+ {
+  "id": "ziv-B09",
+  "type": "F",
+  "category": "zivocichove",
+  "text": "Srdce žirafy vytváří zhruba dvojnásobný tlak než srdce člověka, protože:",
+  "options": [
+   "musí krev vytlačit několik metrů vzhůru až do hlavy",
+   "žirafí krev je mnohem hustší než u ostatních savců",
+   "žirafa má jedinou tepnu vedoucí ke všem svým orgánům",
+   "žirafí srdce se stahuje jen několikrát za jednu minutu"
+  ],
+  "correct": 0,
+  "explanation": "Střední arteriální tlak žirafy se pohybuje kolem 200 mm Hg, tedy asi dvojnásobek lidského, a levá komora má nápadně silnou stěnu. Aby při sklonění hlavy k vodě nestoupl tlak v mozku nebezpečně vysoko, pomáhají chlopně v krčních žilách a pružné cévní pleteně. Nohy chrání před otoky velmi těsná kůže a fascie, které působí jako kompresní punčocha.",
+  "source": "Mitchell & Skinner, An allometric analysis of the giraffe cardiovascular system, Comparative Biochemistry and Physiology A (2009)",
+  "seedElo": 1300
+ },
+ {
+  "id": "ziv-B10",
+  "type": "K",
+  "category": "zivocichove",
+  "text": "Proč má chobotnice tři srdce?",
+  "options": [
+   "Každé z nich zásobuje jednu ze tří oddělených tělních dutin",
+   "Dvě ženou krev přes žábry a třetí ji rozvádí do celého těla",
+   "Dvě pracují jen při plavání a jedno při odpočinku na dně",
+   "Tři srdce si střídavě odpočívají, aby se jejich tkáň nevyčerpala"
+  ],
+  "correct": 1,
+  "explanation": "Dvě žaberní srdce tlačí krev přes žábry, systémové srdce pak rozvádí okysličenou krev po těle. Krev nese měďnatý hemocyanin, který je za chladu spolehlivý, ale méně výkonný než hemoglobin, a dělený oběh to kompenzuje. Při plavání tryskem se systémové srdce zastavuje, proto chobotnice raději leze než plave.",
+  "source": "Martin J. Wells, Octopus: Physiology and Behaviour of an Advanced Invertebrate (1978)",
+  "seedElo": 1300
+ },
+ {
+  "id": "ziv-C01",
+  "type": "F",
+  "category": "zivocichove",
+  "text": "Společným znakem všech členovců (Arthropoda) je:",
+  "options": [
+   "vnější kostra z chitinu, kterou musí při růstu svlékat",
+   "vápenatá schránka vylučovaná pláštěm na hřbetě",
+   "vnitřní kostra z chrupavky a párové ploutevní lemy",
+   "vodní cévní soustava zakončená pohyblivými panožkami"
+  ],
+  "correct": 0,
+  "explanation": "Členovci mají článkované tělo, párové článkované končetiny a hlavně kutikulu z chitinu, která neroste s tělem — proto se pravidelně svlékají (ekdyse). Vápenatá schránka z pláště patří měkkýšům, chrupavčitá kostra rybám a ambulakrální soustava ostnokožcům.",
+  "source": "Ruppert, Fox & Barnes, Invertebrate Zoology, 7. vydání (2004)",
+  "seedElo": 1300
+ },
+ {
+  "id": "ziv-C04",
+  "type": "F",
+  "category": "zivocichove",
+  "text": "Nejvíc popsaných druhů ze všech skupin živočichů má řád:",
+  "options": [
+   "blanokřídlí, tedy vosy, včely, mravenci a pilatky",
+   "dvoukřídlí, tedy mouchy, komáři, bejlomorky a tiplíci",
+   "motýli, od drobných molů po velké okáče a otakárky",
+   "brouci, kterých je popsáno kolem 400 tisíc druhů"
+  ],
+  "correct": 3,
+  "explanation": "Brouků je popsáno zhruba 380–400 tisíc druhů, tedy asi čtvrtina všech známých živočichů. Uvádí se, že za tím stojí kombinace tvrdých krovek, malého těla a opakovaného přechodu na krytosemenné rostliny. Blanokřídlí je mohou skutečným počtem druhů dohánět, ale popsáno jich je zatím výrazně méně.",
+  "source": "Stork, How many species of insects and other terrestrial arthropods are there on Earth?, Annu. Rev. Entomol. 63 (2018)",
+  "seedElo": 1300
+ },
+ {
+  "id": "ziv-C10",
+  "type": "F",
+  "category": "zivocichove",
+  "text": "Bělení korálů znamená, že korálový polyp:",
+  "options": [
+   "vyloučil nadbytek vápníku a jeho kostra zbělela",
+   "ztratil symbiotické řasy zooxantely ze svých tkání",
+   "uzavřel svá ramena a stáhl se dovnitř kostry",
+   "pokryl se vrstvou bílého hlenu proti parazitům"
+  ],
+  "correct": 1,
+  "explanation": "Barva korálu pochází hlavně ze symbiotických obrněnek rodu Symbiodinium, které polypu dodávají většinu energie z fotosyntézy. Při tepelném stresu polyp řasy vypudí, zprůhlední a prosvítá bílá vápenatá kostra. Krátké bělení lze přežít a řasy získat zpět, dlouhé znamená smrt hladem.",
+  "source": "Hughes et al., Global warming and recurrent mass bleaching of corals, Nature 543 (2017)",
+  "seedElo": 1300
+ },
+ {
   "id": "ziv-02",
   "type": "F",
   "category": "zivocichove",
@@ -30,6 +158,150 @@
   "explanation": "Vrány novokaledonské ohýbají větvičky do háčků a vyštipávají zoubkované destičky z listů pandánu, aby jimi vylovily larvy hmyzu z dutin ve dřevě — jde o jeden z mála zdokumentovaných případů výroby složených nástrojů mimo primáty. Schopnost se zdá být částečně kulturně předávaná mezi jedinci.",
   "source": "Hunt, G. R. (1996). Manufacture and use of hook-tools by New Caledonian crows. Nature, 379(6562).",
   "seedElo": 1330
+ },
+ {
+  "id": "ziv-A01",
+  "type": "F",
+  "category": "zivocichove",
+  "text": "Britské sýkorky se od 20. let 20. století šířeji naučily propichovat víčka lahví s mlékem na prazích domů. Etologové tento případ uvádějí jako učebnicový příklad:",
+  "options": [
+   "sociálního učení a kulturního přenosu mezi ptáky",
+   "vrozeného instinktu spuštěného novým podnětem",
+   "klasického podmiňování na zvuk mlékařova vozu",
+   "genetické mutace rozšířené v městských populacích"
+  ],
+  "correct": 0,
+  "explanation": "Fisher a Hinde zmapovali, jak se otvírání lahví od 20. let šířilo Británií v postupně se rozrůstajících ohniscích, tedy způsobem typickým pro předávání mezi jedinci, ne pro nezávislé objevy. Novější pokusy sice ukazují, že sýkory na dovednost dokážou přijít i samy, ale rychlost a geografický vzorec šíření sociální učení potvrzují. Jde o jeden z prvních doložených případů „kultury“ u volně žijících ptáků.",
+  "source": "Fisher, J. & Hinde, R. A.: The opening of milk bottles by birds, British Birds 42 (1949); Aplin et al., Proc. R. Soc. B (2013)",
+  "seedElo": 1350
+ },
+ {
+  "id": "ziv-A04",
+  "type": "F",
+  "category": "zivocichove",
+  "text": "Čerstvě vylíhnuté mládě kukačky obecné se v hnízdě hostitele typicky chová tak, že:",
+  "options": [
+   "klidně vyrůstá vedle vlastních mláďat hostitelského páru",
+   "napodobuje zbarvení mláďat hostitele kvůli krytí",
+   "opouští hnízdo a hledá si vlastní kukaččí rodiče",
+   "vytlačí vejce a mláďata hostitele přes okraj hnízda"
+  ],
+  "correct": 3,
+  "explanation": "Slepé a holé mládě si na záda naloží vejce či sourozence a vysune je z hnízda, takže rodičovskou péči pak dostává samo. Jeho žebrání navíc zvukově napodobuje celou snůšku, čímž hostitele přiměje nosit potravu za několik mláďat. Hostitelé se brání rozpoznáváním cizích vajec, což vede k evolučnímu závodu ve zbrojení a k napodobování vzhledu vajec ze strany kukačky.",
+  "source": "Davies, N. B.: Cuckoo — Cheating by Nature (2015); Kilner, Noble & Davies, Nature 397 (1999)",
+  "seedElo": 1350
+ },
+ {
+  "id": "ziv-A20",
+  "type": "F",
+  "category": "zivocichove",
+  "text": "Péče o potomstvo je u mořských koníků neobvyklá tím, že:",
+  "options": [
+   "samice nosí oplozené jikry v břišní kapse",
+   "oba rodiče se o snůšku vůbec nestarají",
+   "jikry hlídá nejstarší jedinec z celé skupiny",
+   "samec nosí vyvíjející se potomstvo ve vaku"
+  ],
+  "correct": 3,
+  "explanation": "Samice nakladou jikry do vaku samce, který je oplodní, vyživuje a nakonec vypustí vylíhlá mláďata — jde o nejúplnější formu samčí březosti mezi obratlovci. Protože rozmnožovací kapacitu omezuje samec, obrací se u některých druhů obvyklý vzorec pohlavního výběru a soupeří spíše samice. Podobný vak mají i příbuzné jehly a mořští draci.",
+  "source": "Wilson, A. B. et al.: Male pregnancy in seahorses and pipefishes, Journal of Heredity 92 (2001)",
+  "seedElo": 1350
+ },
+ {
+  "id": "ziv-B04",
+  "type": "F",
+  "category": "zivocichove",
+  "text": "Flémování, kdy kůň nebo kočka ohrne pysk a strne, slouží k tomu, aby:",
+  "options": [
+   "se zvíře zbavilo pachu, který mu dráždí sliznici nosní dutiny",
+   "si zvíře prohřálo vdechovaný vzduch před vstupem do plic",
+   "se zvětšil objem vzduchu nasávaného do plicních sklípků",
+   "se pachy dostaly do vomeronazálního (Jacobsonova) orgánu"
+  ],
+  "correct": 3,
+  "explanation": "Vomeronazální orgán ústí do dutiny nosní či ústní a reaguje hlavně na málo těkavé látky, typicky feromony. Ohrnutý pysk uzavře nozdry a nasměruje molekuly k jeho vývodu. Hadi tentýž orgán obsluhují rozeklaným jazykem, kterým vzorky přenášejí ze vzduchu i z povrchů.",
+  "source": "Døving & Trotier, Structure and function of the vomeronasal organ, Journal of Experimental Biology (1998)",
+  "seedElo": 1350
+ },
+ {
+  "id": "ziv-B16",
+  "type": "F",
+  "category": "zivocichove",
+  "text": "Krab je bezprostředně po svlečení měkký, protože:",
+  "options": [
+   "nová kutikula se teprve zpevňuje a nasycuje vápníkem",
+   "starou schránku ztratil a novou si teprve začíná tvořit",
+   "při svlékání ztratil většinu vápníku obsaženého v krvi",
+   "měkká schránka mu vydrží až do dalšího zimního období"
+  ],
+  "correct": 0,
+  "explanation": "Nová kutikula se vytvoří pod starou ještě před svlékáním, po ekdyzi je ale zvrásněná a poddajná. Korýš se nasaje vodou, aby ji roztáhl na větší rozměr, a pak ji zpevňuje ukládáním uhličitanu vápenatého, často i z požřené staré schránky. Do té doby je snadnou kořistí a schovává se v úkrytu.",
+  "source": "Ernest S. Chang, Physiological and biochemical changes during the molt cycle in decapod crustaceans (1995)",
+  "seedElo": 1350
+ },
+ {
+  "id": "ziv-B20",
+  "type": "F",
+  "category": "zivocichove",
+  "text": "Sloni spolu komunikují na kilometrové vzdálenosti pomocí:",
+  "options": [
+   "ultrazvuku o frekvenci mnoha desítek tisíc hertzů",
+   "hvizdů, které vydávají prudkým výdechem chobotem",
+   "klapání kly, jehož ozvěnu na dálku dobře slyší",
+   "infrazvuku, tedy tónů pod prahem lidského sluchu"
+  ],
+  "correct": 3,
+  "explanation": "Sloní hlasy se pohybují kolem 15 až 35 hertzů a v otevřené krajině se nesou několik kilometrů; část energie putuje i zemí jako seizmické vlnění. Nízké frekvence se rozptylují méně než vysoké, proto doletí dál. Sloni je vnímají ušima i citlivými polštářky nohou a chobotu.",
+  "source": "O'Connell-Rodwell, Keeping an 'ear' to the ground: seismic communication in elephants, Physiology (2007)",
+  "seedElo": 1350
+ },
+ {
+  "id": "ziv-C02",
+  "type": "F",
+  "category": "zivocichove",
+  "text": "Znak, který mají všichni savci a žádná jiná dnešní skupina obratlovců, je:",
+  "options": [
+   "porod živých mláďat namísto kladení skořápkových vajec",
+   "mléčné žlázy, jimiž samice vyživují svá mláďata",
+   "stálá tělesná teplota udržovaná vlastním metabolismem",
+   "čtyřdílné srdce s úplnou přepážkou mezi komorami"
+  ],
+  "correct": 1,
+  "explanation": "Mléčné žlázy (a k nim srst a tři sluchové kůstky ve středním uchu) jsou pro savce jedinečné. Živorodost mají i někteří hadi a ryby, stálou teplotu ptáci a čtyřkomorové srdce ptáci i krokodýli — žádný z těchto znaků tedy savce nevymezuje.",
+  "source": "Kardong, Vertebrates: Comparative Anatomy, Function, Evolution (2018)",
+  "seedElo": 1350
+ },
+ {
+  "id": "ziv-C07",
+  "type": "F",
+  "category": "zivocichove",
+  "text": "Charakteristickou buňkou žahavců, kterou nemá žádný jiný kmen, je:",
+  "options": [
+   "brvitá buňka s límečkem filtrující potravu z vody",
+   "svalová buňka s příčným pruhováním a mnoha jádry",
+   "knidocyt s vystřelovacím vláknem uvnitř váčku",
+   "pigmentová buňka měnící barvu díky svalovým vláknům"
+  ],
+  "correct": 2,
+  "explanation": "Knidocyt obsahuje organelu knidu, která pod obrovským tlakem vystřelí vlákno během několika mikrosekund — jde o jeden z nejrychlejších dějů v živočišné říši. Buňky s límečkem má houba, příčně pruhované svaly obratlovci i hmyz a chromatofory hlavonožci a někteří obratlovci.",
+  "source": "Nüchter et al., Nanosecond-scale kinetics of nematocyst discharge, Current Biology 16 (2006)",
+  "seedElo": 1350
+ },
+ {
+  "id": "ziv-C09",
+  "type": "F",
+  "category": "zivocichove",
+  "text": "Vysazení nilského okouna do Viktoriina jezera mělo za následek:",
+  "options": [
+   "vymizení stovek endemických druhů cichlid",
+   "obnovu populací původních endemických cichlid",
+   "úplné vysušení mělčin v severní části jezera",
+   "vymření nilského okouna během jediné dekády"
+  ],
+  "correct": 0,
+  "explanation": "Nilský okoun, vysazený v 50. a 60. letech kvůli rybolovu, spolu s eutrofizací srazil unikátní hejno stovek endemických druhů cichlid — jde o jedno z nejrychlejších masových vymírání obratlovců zdokumentovaných člověkem. Zároveň nastartoval velký rybářský průmysl, což z případu dělá učebnicový střet ekonomiky a ochrany přírody.",
+  "source": "Witte et al., The destruction of an endemic species flock, Env. Biol. Fishes 34 (1992)",
+  "seedElo": 1350
  },
  {
   "id": "ziv-03",
@@ -64,6 +336,134 @@
   "seedElo": 1390
  },
  {
+  "id": "ziv-A02",
+  "type": "F",
+  "category": "zivocichove",
+  "text": "Na japonském ostrůvku Košima začala mladá makačka Imo roku 1953 mýt ve vodě sladké brambory. Co se s tímto zvykem stalo dál?",
+  "options": [
+   "zůstal jen u ní, jiné opice ho nikdy nepřevzaly",
+   "rozšířil se ve skupině a udržel se po generace",
+   "zmizel do roka, protože brambory přestali dodávat",
+   "převzali ho jen staří samci, mláďata nikoli"
+  ],
+  "correct": 1,
+  "explanation": "Zvyk se šířil nejprve na Imoiny vrstevníky a příbuzné a postupně se stal běžnou součástí repertoáru skupiny, přičemž nejpomaleji ho přijímali právě staří samci. Případ se stal klasickým dokladem kulturní tradice u primátů. Pozdější rozbory upozorňují, že šíření bylo pomalejší, než se traduje, a část role hrálo i vlastní zkoušení jednotlivých opic.",
+  "source": "Kawai, M.: Newly acquired pre-cultural behavior of a natural troop of Japanese monkeys on Koshima Islet, Primates 6 (1965)",
+  "seedElo": 1400
+ },
+ {
+  "id": "ziv-A06",
+  "type": "F",
+  "category": "zivocichove",
+  "text": "Zrcadlový test (mark test) Gordona Gallupa zjišťuje, zda zvíře po nenápadném označení barvou na místě, které samo přímo nevidí:",
+  "options": [
+   "zaútočí na svůj odraz v zrcadle jako na cizího soupeře",
+   "dokáže zrcadlem najít potravu ukrytou za zády",
+   "sáhne si na značku na vlastním těle před zrcadlem",
+   "pozná v odrazu známého jedince ze své skupiny"
+  ],
+  "correct": 2,
+  "explanation": "Klíčovým kritériem je chování zaměřené na vlastní tělo, ne na odraz — zvíře musí značku hledat na sobě, což naznačuje, že odraz spojuje se sebou samým. Test opakovaně prošli šimpanzi, orangutani, delfíni, sloni indičtí či straky, zatímco u většiny druhů výsledek vychází záporně. Umět zrcadlo použít jako nástroj k hledání předmětů je jiná, snazší dovednost.",
+  "source": "Gallup, G. G.: Chimpanzees: Self-recognition, Science 167 (1970)",
+  "seedElo": 1400
+ },
+ {
+  "id": "ziv-A19",
+  "type": "F",
+  "category": "zivocichove",
+  "text": "Samci altánníků staví a pečlivě zdobí altány z větviček a barevných předmětů. K čemu altán slouží?",
+  "options": [
+   "je to hnízdo, kde samice vysedí a odchová mláďata sama",
+   "je to zásobárna potravy na období nedostatku",
+   "je to jen scéna námluv, hnízdo staví samice jinde",
+   "je to úkryt celé skupiny před dravými ptáky a zimou"
+  ],
+  "correct": 2,
+  "explanation": "Samice altány obcházejí, porovnávají je a podle jejich kvality a výzdoby si vybírají partnera; po páření odlétají a hnízdo si staví a mláďata vychovávají samy. Někteří altánníci předměty uspořádávají tak, že vzniká zrakový klam měnící vnímanou velikost samce. Jde o učebnicový příklad pohlavního výběru působícího na stavbu, tedy na „rozšířený fenotyp“.",
+  "source": "Borgia, G., Animal Behaviour 33 (1985); Endler, J. A. et al., Current Biology 20 (2010)",
+  "seedElo": 1400
+ },
+ {
+  "id": "ziv-B06",
+  "type": "F",
+  "category": "zivocichove",
+  "text": "Hmatové vousy (vibrisy) savců se od běžných chlupů liší hlavně tím, že:",
+  "options": [
+   "rostou z kůže bez kořene a drží jen v zrohovatělé vrstvě",
+   "obsahují uvnitř dřeně vlastní drobné svalové vlákno",
+   "jejich váček je obklopen krevní dutinou a hustě inervován",
+   "jsou tvořeny chitinem, nikoli keratinem jako ostatní chlupy"
+  ],
+  "correct": 2,
+  "explanation": "Samotný vous je mrtvá keratinová tyčka, citlivý je jeho folikul: obklopuje ho krevní splav a stovky až tisíce nervových zakončení, která snímají ohyb. Krysy a myši vibrisami aktivně kmitají a ohmatávají okolí, tuleni jimi zachytí vírovou stopu za plavoucí rybou. Pro mnoho nočních savců jde o smysl srovnatelně důležitý jako zrak.",
+  "source": "Diamond & Arabzadeh, Whisker sensory system, Progress in Neurobiology (2013)",
+  "seedElo": 1400
+ },
+ {
+  "id": "ziv-B08",
+  "type": "F",
+  "category": "zivocichove",
+  "text": "Ptačí plíce se od savčích liší především tím, že vzduch:",
+  "options": [
+   "jimi proudí převážně jedním směrem díky soustavě vzdušných vaků",
+   "v nich mezi nádechem a výdechem střídavě mění směr proudění",
+   "se v nich dostává do krve rovnou přes stěnu vzdušných vaků",
+   "je do nich nasáván stahy bránice úplně stejně jako u savců"
+  ],
+  "correct": 0,
+  "explanation": "Vzdušné vaky fungují jako měchy, takže parabronchy protéká vzduch jednosměrně i během výdechu a výměna plynů běží nepřetržitě. Ptáci díky tomu zvládají let ve výškách, kde by savec ztratil vědomí. Bránici nemají, hrudník pohybují žebry a hrudní kostí; samotné vaky výměnu plynů neprovádějí.",
+  "source": "Maina, Development, structure and function of a novel respiratory organ, the lung–air sac system of birds (2006)",
+  "seedElo": 1400
+ },
+ {
+  "id": "ziv-B24",
+  "type": "K",
+  "category": "zivocichove",
+  "text": "Proč se ještěrce ocas odlomí tak snadno a čistě?",
+  "options": [
+   "V obratlech ocasu má předem založené zlomové roviny",
+   "Ocas není s tělem spojen kostí, drží jen na kůži",
+   "Kosti ocasu jsou z chrupavky, která při tahu praskne",
+   "Sval na kořeni ocasu ho při útěku doslova ukousne"
+  ],
+  "correct": 0,
+  "explanation": "Řada ještěrů má v ocasních obratlech přerušovací roviny se svěrači, které oddělení provedou a zároveň rychle uzavřou cévy. Odhozený ocas se ještě minuty svíjí a poutá pozornost predátora. Dorůstá ale jen jako chrupavčitá tyčka bez obratlů a zvíře v něm přijde o část tukových zásob.",
+  "source": "Bellairs & Bryant, Autotomy and regeneration in reptiles, Biology of the Reptilia (1985)",
+  "seedElo": 1400
+ },
+ {
+  "id": "ziv-C05",
+  "type": "K",
+  "category": "zivocichove",
+  "text": "Darwin z madagaskarské orchideje s dvacetipalcovou nektarovou ostruhou usoudil, že:",
+  "options": [
+   "musí existovat opylovač se stejně dlouhým sosákem",
+   "květ opyluje vítr a ostruha slouží jen jako závaží",
+   "rostlina se rozmnožuje výhradně samosprášením",
+   "nektar sbírají mravenci lezoucí po vnější straně"
+  ],
+  "correct": 0,
+  "explanation": "Darwin v roce 1862 předpověděl u orchideje Angraecum sesquipedale motýla s extrémně dlouhým sosákem. Lišaj Xanthopan praedicta byl popsán až po jeho smrti a jeho opylovací role byla nafilmována teprve v 90. letech 20. století. Je to učebnicový příklad koevoluce, kdy se délka ostruhy a sosáku vzájemně přehánějí.",
+  "source": "Charles Darwin, On the Various Contrivances by Which British and Foreign Orchids Are Fertilised by Insects (1862)",
+  "seedElo": 1400
+ },
+ {
+  "id": "ziv-C06",
+  "type": "F",
+  "category": "zivocichove",
+  "text": "Nejbližšími žijícími příbuznými kytovců jsou podle genetiky i fosilií:",
+  "options": [
+   "ploutvonožci, tedy tuleni, lachtani a mroži",
+   "hrochovití, jediní žijící sesterští sudokopytníci",
+   "sirény, tedy kapustňáci a dugong indický",
+   "vydry a jiné šelmy z čeledi lasicovitých"
+  ],
+  "correct": 1,
+  "explanation": "Molekulární data i fosilie (Pakicetus, Ambulocetus, Rodhocetus) ukazují, že velryby vznikly uvnitř sudokopytníků a jejich sesterskou žijící větví jsou hrochovití. Potvrdil to i tvar kotníkové kosti astragalu s dvojitou kladkou, typický právě pro sudokopytníky. Ploutvonožci i vydry patří mezi šelmy, sirény jsou příbuzné slonům.",
+  "source": "Thewissen et al., Whales originated from aquatic artiodactyls, Nature 450 (2007)",
+  "seedElo": 1400
+ },
+ {
   "id": "ziv-05",
   "type": "F",
   "category": "zivocichove",
@@ -96,6 +496,166 @@
   "seedElo": 1450
  },
  {
+  "id": "ziv-A12",
+  "type": "F",
+  "category": "zivocichove",
+  "text": "Hra u mláďat savců, tedy honičky a naoko vedené zápasy, se dnes v etologii vysvětluje především jako:",
+  "options": [
+   "bezúčelné plýtvání energií bez evoluční funkce",
+   "nácvik pohybových a sociálních dovedností do dospělosti",
+   "zkrácená forma skutečného boje o pozici ve skupině",
+   "projev přebytku potravy v daném ročním období"
+  ],
+  "correct": 1,
+  "explanation": "Hra je nákladná a riskantní, přesto se udržela napříč savci i ptáky, což ukazuje na její funkci — trénink motoriky, zvládání nečekaných situací a budování sociálních vazeb. Od skutečného boje se liší hravými signály, přehnanými pohyby a tím, že se role střídají. Deprivace hry v pokusech vede k horšímu zvládání stresu a sociálních situací v dospělosti.",
+  "source": "Burghardt, G. M.: The Genesis of Animal Play (2005); Pellis, S. & Pellis, V.: The Playful Brain (2009)",
+  "seedElo": 1450
+ },
+ {
+  "id": "ziv-A16",
+  "type": "F",
+  "category": "zivocichove",
+  "text": "Místní „dialekty“ v ptačím zpěvu, popsané třeba u strnadce zpěvného, vznikají hlavně tím, že:",
+  "options": [
+   "zpěv je celý zakódován v genech místní populace",
+   "tvar zobáku v každé oblasti dovolí jen určité tóny",
+   "mladí ptáci se zpěvu učí od dospělých sousedů v okolí",
+   "hustota vegetace mění zpěv až při jeho šíření vzduchem"
+  ],
+  "correct": 2,
+  "explanation": "Zpěvní ptáci se předlohu učí v citlivém období od dospělých vzorů a poté ji vlastním zpěvem dolaďují, takže se místní varianty udržují napříč generacemi. Mláďata odchovaná v izolaci vytvoří jen hrubou, druhově typickou kostru zpěvu bez místních rysů. Prostředí ovlivňuje i výběr frekvencí — v hluku měst ptáci zpívají výš — ale to je jiný mechanismus než dialekt.",
+  "source": "Marler, P. & Tamura, M., Science 146 (1964); Catchpole & Slater: Bird Song (2008)",
+  "seedElo": 1450
+ },
+ {
+  "id": "ziv-A22",
+  "type": "F",
+  "category": "zivocichove",
+  "text": "Pokusy s přehráváním nahrávek na vyprázdněných revírech ukázaly, že zpěv zpěvných ptáků slouží mimo jiné k tomu, aby:",
+  "options": [
+   "přivolal na revír co nejvíce dalších samců téhož druhu",
+   "zmátl predátory ohledně přesné polohy hnízda v revíru",
+   "odradil sousední samce od obsazení volného revíru",
+   "udržel mláďata pohromadě po celou dobu jejich vývoje"
+  ],
+  "correct": 2,
+  "explanation": "Když badatelé samce odstranili a revír nechali „zpívat“ z reproduktoru, obsazovali ho nově příchozí ptáci znatelně pomaleji než ticho revíry. Zpěv tedy plní dvojí roli: odrazuje soky a zároveň láká samice. Sousedé se navíc podle hlasu poznávají, takže na známého souseda na obvyklém místě reagují mírněji než na cizince — jde o takzvaný efekt „drahého nepřítele“.",
+  "source": "Krebs, J. R., Ashcroft, R. & Webber, M.: Song repertoires and territory defence in the great tit, Nature 271 (1978)",
+  "seedElo": 1450
+ },
+ {
+  "id": "ziv-B07",
+  "type": "K",
+  "category": "zivocichove",
+  "text": "Jak chřestýš „uvidí“ teplé tělo kořisti i v naprosté tmě?",
+  "options": [
+   "Sítnicí, která je citlivá k infračervené složce vyzařované teplem",
+   "Jamkovými orgány s membránou, jejíž ohřev otevírá iontové kanály",
+   "Jazykem, na němž se sráží vlhkost z teplého dechu jeho kořisti",
+   "Šupinami na břiše, které měří teplotu podložky pod jeho tělem"
+  ],
+  "correct": 1,
+  "explanation": "Jamka mezi okem a nozdrou obsahuje tenkou membránu s hustou sítí nervových zakončení; její ohřátí aktivuje iontový kanál TRPA1 a signál se v mozku slévá s obrazem ze zraku. Nejde tedy o vidění v pravém smyslu, receptory nereagují na fotony, ale na zvýšení teploty tkáně. Podobné orgány mají nezávisle i krajty a hroznýši.",
+  "source": "Gracheva et al., Molecular basis of infrared detection by snakes, Nature (2010)",
+  "seedElo": 1450
+ },
+ {
+  "id": "ziv-B11",
+  "type": "F",
+  "category": "zivocichove",
+  "text": "Namodralá krev raků a hlavonožců je dána tím, že jejich dýchací barvivo obsahuje:",
+  "options": [
+   "zinek vázaný v porfyrinovém kruhu podobném hemu",
+   "vanad, který kyslík váže přímo v krevních buňkách",
+   "měď namísto železa, na kterém stojí hemoglobin",
+   "hořčík stejně jako rostlinný chlorofyl v zelených listech"
+  ],
+  "correct": 2,
+  "explanation": "Hemocyanin váže kyslík dvojicí atomů mědi a po okysličení modře zbarví hemolymfu; odkysličený je téměř bezbarvý. Na rozdíl od hemoglobinu není uzavřen v krvinkách, ale volně rozpuštěn v tělní tekutině. Vanadové sloučeniny se skutečně hromadí v buňkách sumek, s přenosem kyslíku ale nemají nic společného.",
+  "source": "Karl E. van Holde, Hemocyanins, Advances in Protein Chemistry (2001)",
+  "seedElo": 1450
+ },
+ {
+  "id": "ziv-B29",
+  "type": "F",
+  "category": "zivocichove",
+  "text": "Rekord v nejhlubším a nejdelším doloženém ponoru mezi savci drží:",
+  "options": [
+   "vorvaň obrovský, který loví olihně u samého dna oceánu",
+   "plejtvák obrovský, největší živočich všech dob na Zemi",
+   "tuleň Weddellův, který se potápí pod ledem Antarktidy",
+   "vorvaňovec Cuvierův, doložený v hloubce téměř tří kilometrů"
+  ],
+  "correct": 3,
+  "explanation": "Vorvaňovci Cuvierovi dosáhli podle satelitních značek hloubky téměř 3 000 metrů a jeden zaznamenaný ponor trval přes tři hodiny. Vorvaň se běžně potápí kolem kilometru, tuleň Weddellův do stovek metrů a plejtvák obrovský jen do desítek metrů. Rekordy tohoto typu známe spolehlivě až od rozšíření satelitní telemetrie.",
+  "source": "Schorr et al., First long-term behavioral records from Cuvier's beaked whales, PLoS ONE (2014)",
+  "seedElo": 1450
+ },
+ {
+  "id": "ziv-C12",
+  "type": "K",
+  "category": "zivocichove",
+  "text": "Ptakopysk klade vejce, přesto je řazen mezi savce, protože:",
+  "options": [
+   "má stálou teplotu a čtyřkomorové srdce jako savci",
+   "žije v norách a jeho mláďata se rodí bezbranná",
+   "jeho zobák je jen zrohovatělou obdobou tlamy savců",
+   "má srst, mléčné žlázy a savčí sluchové kůstky"
+  ],
+  "correct": 3,
+  "explanation": "Ptakopysk a ježury (vejcorodí) si podrželi kladení vajec, které je pro obratlovce původní, ale mají všechny klíčové savčí znaky — srst, mléko a tři sluchové kůstky. Samice nemají bradavky, mléko prosakuje kůží a mláďata je slízávají ze srsti. Vejcorodí se od zbytku savců oddělili zhruba před 180 miliony let.",
+  "source": "Warren et al., Genome analysis of the platypus, Nature 453 (2008)",
+  "seedElo": 1450
+ },
+ {
+  "id": "ziv-C15",
+  "type": "K",
+  "category": "zivocichove",
+  "text": "Vztah, kdy jeden partner získává a druhý není nijak dotčen, se nazývá:",
+  "options": [
+   "mutualismus, prospěšný pro oba zúčastněné druhy",
+   "parazitismus, kdy jeden druh žije na úkor druhého",
+   "komenzalismus, třeba svijonožci na kůži velryby",
+   "amenzalismus, kdy jeden druh druhého poškozuje"
+  ],
+  "correct": 2,
+  "explanation": "Komenzalismus je vztah plus/nula. V praxi je ale hranice měkká: měření často ukáže, že „nedotčený“ partner nese drobné náklady nebo naopak něco získává. Symbióza je zastřešující pojem pro trvalé soužití a zahrnuje mutualismus, komenzalismus i parazitismus.",
+  "source": "Begon, Townsend & Harper, Ecology: From Individuals to Ecosystems, 4. vydání (2006)",
+  "seedElo": 1450
+ },
+ {
+  "id": "ziv-C17",
+  "type": "F",
+  "category": "zivocichove",
+  "text": "Klaunům umožňuje žít mezi žahavými chapadly sasanky:",
+  "options": [
+   "vrstva hlenu, která nespustí žahavé buňky",
+   "silné šupiny odolné vůči průniku žahavého vlákna",
+   "vrozená imunita vůči všem mořským neurotoxinům",
+   "trvalé odstranění chapadel v okolí jejich úkrytu"
+  ],
+  "correct": 0,
+  "explanation": "Klaun má na kůži zvláštní hlenovou vrstvu, která nespustí chemickou ani dotykovou spoušť žahavých buněk; část ochrany si ryba získá i postupným otíráním o chapadla. Jde o mutualismus — sasanka poskytuje úkryt, klaun ji brání před rybami okusujícími chapadla a zlepšuje jí okysličení vody.",
+  "source": "Fautin, The anemonefish symbiosis: what is known and what is not, Symbiosis 10 (1991)",
+  "seedElo": 1450
+ },
+ {
+  "id": "ziv-C21",
+  "type": "F",
+  "category": "zivocichove",
+  "text": "Nejdelší pravidelnou migraci ze všech živočichů podniká:",
+  "options": [
+   "rybák dlouhoocasý mezi Arktidou a Antarktidou",
+   "keporkak mezi Aljaškou a havajskými vodami",
+   "monarcha stěhovavý mezi Kanadou a Mexikem",
+   "pakůň žíhaný v okruhu Serengeti a Masai Mary"
+  ],
+  "correct": 0,
+  "explanation": "Geolokátory ukázaly, že rybák dlouhoocasý nalétá ročně přes 70 tisíc kilometrů, protože se drží klikatých větrných drah přes Atlantik. Za život tak urazí vzdálenost srovnatelnou s několika cestami na Měsíc a zpět a stráví víc denního světla než kterýkoli jiný živočich.",
+  "source": "Egevang et al., Tracking of Arctic terns reveals longest animal migration, PNAS 107 (2010)",
+  "seedElo": 1450
+ },
+ {
   "id": "ziv-07",
   "type": "K",
   "category": "zivocichove",
@@ -110,6 +670,230 @@
   "explanation": "Krkavci a kavky v testech plánování, používání nástrojů a chápání příčiny a následku dosahují výsledků srovnatelných s lidoopy, přestože jejich mozek má odlišnou stavbu (chybí jim vrstevnatá kůra savců). To ukazuje, že vysoká inteligence se v evoluci vyvinula nezávisle víckrát.",
   "source": "Emery, N. J., & Clayton, N. S. (2004). The mentality of crows: convergent evolution of intelligence in corvids and apes. Science, 306(5703).",
   "seedElo": 1480
+ },
+ {
+  "id": "ziv-A11",
+  "type": "F",
+  "category": "zivocichove",
+  "text": "Když se u zvířat mluví o „přibližném systému počtu“ (approximate number system), míní se tím schopnost:",
+  "options": [
+   "rozlišit větší a menší množství bez přesného počítání",
+   "přesně sčítat a odčítat čísla do deseti bez chyby",
+   "naučit se lidské číslovky a řadit je ve správném pořadí",
+   "zapamatovat si přesný počet potomků po celý život"
+  ],
+  "correct": 0,
+  "explanation": "Tento systém sdílí člověk s mnoha obratlovci a jeho přesnost se řídí Weberovým zákonem: rozlišení je tím snazší, čím větší je poměr mezi porovnávanými množstvími. Odlišný je systém pro malé počty do zhruba čtyř, kde zvířata i lidé množství rozpoznávají naráz. Přesné počítání se symboly je jiná dovednost, kterou zvládl například papoušek Alex po dlouhém výcviku.",
+  "source": "Nieder, A.: The neuronal code for number, Nature Reviews Neuroscience 17 (2016); Pepperberg, I.: The Alex Studies (1999)",
+  "seedElo": 1500
+ },
+ {
+  "id": "ziv-A14",
+  "type": "K",
+  "category": "zivocichove",
+  "text": "Pozorovatel vidí, jak šimpanz krátce po prohrané potyčce dostane objetí od člena skupiny, který se sporu vůbec neúčastnil. Jak tento jev etologie označuje?",
+  "options": [
+   "konsolace, tedy utěšování oběti třetí stranou",
+   "usmíření mezi bývalými soupeři krátce po konfliktu",
+   "koalice namířená proti vítězi celé potyčky",
+   "submisivní gesto oběti vůči vyššímu jedinci"
+  ],
+  "correct": 0,
+  "explanation": "Konsolace se od usmíření liší tím, že iniciativa vychází od nezúčastněného jedince, ne od někoho ze soupeřící dvojice. Kontakt měřitelně snižuje známky stresu u oběti a je považován za doklad empatického zájmu. Popsána byla u šimpanzů, bonobů, slonů, psů i některých krkavcovitých, u makaků naopak chybí.",
+  "source": "de Waal, F. B. M. & van Roosmalen, A., Behavioral Ecology and Sociobiology 5 (1979); Fraser & Bugnyar, PLoS ONE (2010)",
+  "seedElo": 1500
+ },
+ {
+  "id": "ziv-A30",
+  "type": "F",
+  "category": "zivocichove",
+  "text": "Sherman u syslů Beldingových zjistil, že poplašný signál před pozemním predátorem vydávají mnohem častěji:",
+  "options": [
+   "samice, které mají v okolí žijící příbuzné",
+   "samci, kteří do kolonie nedávno přišli zvenčí",
+   "mláďata, která ještě nemají vlastní noru",
+   "jedinci, kteří jsou nejdál od úkrytu"
+  ],
+  "correct": 0,
+  "explanation": "Volání je nákladné, protože upoutá pozornost dravce, přesto ho vydávají hlavně usedlé samice s příbuznými poblíž, zatímco přistěhovalí samci mlčí. Odpovídá to teorii příbuzenského výběru: chování se vyplácí prostřednictvím přežití nositelů týchž genů. Zajímavé je, že na vzdušného dravce sysli reagují jiným, tenkým hvizdem, jehož rozdělení mezi jedinci se řídí jinou logikou.",
+  "source": "Sherman, P. W.: Nepotism and the evolution of alarm calls, Science 197 (1977)",
+  "seedElo": 1500
+ },
+ {
+  "id": "ziv-A32",
+  "type": "K",
+  "category": "zivocichove",
+  "text": "V úloze, kde dva šimpanzi musí táhnout za oba konce provazu současně, aby si přitáhli desku s potravou, se ukázalo, že šimpanzi:",
+  "options": [
+   "táhnou jen tehdy, když je v místnosti člověk",
+   "úlohu nezvládnou nikdy, ani po dlouhém tréninku",
+   "si vybírají za partnera toho, s kým dříve uspěli",
+   "si vybírají partnera náhodně bez ohledu na výsledek"
+  ],
+  "correct": 2,
+  "explanation": "Šimpanzi nejenže se naučili táhnout společně, ale když mohli otevřít dveře jednomu ze dvou možných pomocníků, volili toho, kdo se dříve osvědčil jako zdatnější spolupracovník. Spolupráce ovšem drží jen tehdy, když lze kořist rozdělit — při snadno monopolizovatelné odměně se rozpadá. Volba partnera podle minulé zkušenosti je jednou ze základních podmínek stabilní kooperace.",
+  "source": "Melis, A. P., Hare, B. & Tomasello, M.: Chimpanzees recruit the best collaborators, Science 311 (2006)",
+  "seedElo": 1500
+ },
+ {
+  "id": "ziv-B02",
+  "type": "F",
+  "category": "zivocichove",
+  "text": "Mnozí ptáci rozlišují barvy bohatěji než lidé, protože:",
+  "options": [
+   "mají v sítnici mnohem větší podíl tyčinek než kterýkoli savec",
+   "mají čtvrtý typ čípku citlivý až do ultrafialové oblasti",
+   "jejich oční čočka propouští k sítnici i infračervené záření",
+   "barvy skládají ze dvou sítnic, každé s odlišným pigmentem"
+  ],
+  "correct": 1,
+  "explanation": "Ptačí sítnice obsahuje čtyři typy čípků a u řady druhů je jeden z nich citlivý v ultrafialové části spektra. Peří, které lidem připadá jednobarevné, tak může nést vzory viditelné jen ptákům, a UV odraz hraje roli i při hledání potravy. Barevné vidění navíc ladí olejové kapénky uvnitř čípků, které fungují jako filtry.",
+  "source": "Ödeen & Håstad, The phylogenetic distribution of ultraviolet sensitivity in birds, BMC Evolutionary Biology (2013)",
+  "seedElo": 1500
+ },
+ {
+  "id": "ziv-B12",
+  "type": "F",
+  "category": "zivocichove",
+  "text": "Axolotl obnoví celou amputovanou končetinu díky tomu, že:",
+  "options": [
+   "si podél páteře udržuje zásobní pupeny náhradních končetin",
+   "novou končetinu doslova vypučí z nedotčené druhé strany těla",
+   "končetina doroste z kousku kosti, který v ráně vždycky zůstane",
+   "buňky v pahýlu ztratí specializaci a vytvoří růstový blastém"
+  ],
+  "correct": 3,
+  "explanation": "V ráně vzniká blastém, tedy masa odspecializovaných buněk, které se znovu množí a přebudují na kost, sval i nerv se správným uspořádáním. Regenerace vyžaduje přítomnost nervů a rána se nehojí jizvou, což je pro savce zásadní rozdíl. Axolotl navíc zůstává celý život v larvální podobě, jde o klasický příklad neotenie.",
+  "source": "Elly Tanaka, The molecular and cellular choreography of appendage regeneration, Cell / Annual Review of Cell and Developmental Biology (2016)",
+  "seedElo": 1500
+ },
+ {
+  "id": "ziv-B15",
+  "type": "F",
+  "category": "zivocichove",
+  "text": "Uvnitř kukly motýla se z larválního těla:",
+  "options": [
+   "postupně jen protáhnou nohy a na hřbetě vyrostou nová křídla",
+   "větší část tkání rozpustí a orgány vyrostou z imaginálních disků",
+   "odloučí hlava, kterou nahradí zcela nově vytvořená hlava",
+   "nezmění nic, kukla slouží pouze k přečkání chladného období"
+  ],
+  "correct": 1,
+  "explanation": "Už housence se zakládají shluky buněk zvané imaginální disky; v kukle se většina larválních tkání enzymaticky rozloží a z disků vyrostou křídla, oči i nohy. Nervová soustava přitom zčásti přetrvává, takže si motýl prokazatelně nese naučené asociace z housenky. Není to tedy úplná „polévka“, jak se často říká.",
+  "source": "Blackiston, Silva Casey & Weiss, Retention of memory through metamorphosis, PLoS ONE (2008)",
+  "seedElo": 1500
+ },
+ {
+  "id": "ziv-B19",
+  "type": "K",
+  "category": "zivocichove",
+  "text": "Čím je dáno, že tuleň vydrží pod vodou mnohem déle než člověk?",
+  "options": [
+   "Plíce má mnohonásobně větší a nadechne se do nich zásoba",
+   "Dokáže kyslík získávat přímo z vody přes kůži a sliznice",
+   "Kyslík si nese hlavně ve svalech a krvi, nikoli v plicích",
+   "Jeho tkáně pracují po dobu ponoru zcela bez potřeby kyslíku"
+  ],
+  "correct": 2,
+  "explanation": "Tuleni mají velký objem krve a mimořádně vysokou koncentraci myoglobinu ve svalech, takže kyslík skladují v tkáních. Plíce naopak před ponorem zčásti vyprázdní, aby se pod tlakem nerozpouštěl dusík v krvi. Během ponoru výrazně zpomalí srdce a odkloní krev od periferie k mozku a srdci.",
+  "source": "Paul J. Ponganis, Diving Physiology of Marine Mammals and Seabirds (Cambridge University Press, 2015)",
+  "seedElo": 1500
+ },
+ {
+  "id": "ziv-B31",
+  "type": "F",
+  "category": "zivocichove",
+  "text": "O klaunech očkatých žijících v sasankách platí, že:",
+  "options": [
+   "pohlaví každého jedince určuje teplota vody v sasance",
+   "když zahyne samice, promění se v ni největší ze samců",
+   "všichni jedinci ve skupině jsou zároveň samci i samice",
+   "samice se po vytření mění v samce a opouští sasanku"
+  ],
+  "correct": 1,
+  "explanation": "Klauni jsou protandričtí hermafrodité: každý dospívá jako samec a po ztrátě samice se v ni změní největší jedinec ve skupině. U pyskounů a mnoha dalších útesových ryb běží změna opačným směrem, ze samice se stává samec (protogynie). Pohlaví tu tedy neurčuje jen genom, ale i sociální postavení ve skupině.",
+  "source": "Fricke & Fricke, Monogamy and sex change by aggressive dominance in coral reef fish, Nature (1977)",
+  "seedElo": 1500
+ },
+ {
+  "id": "ziv-C11",
+  "type": "F",
+  "category": "zivocichove",
+  "text": "Ostnokožce (hvězdice, ježovky, sumýše) spojuje mimo jiné:",
+  "options": [
+   "vnější schránka z chitinu, kterou pravidelně svlékají",
+   "otevřená cévní soustava s hřbetní srdeční trubicí",
+   "ambulakrální soustava kanálků poháněná vodou",
+   "provazcová nervová soustava na břišní straně těla"
+  ],
+  "correct": 2,
+  "explanation": "Ostnokožci mají hydraulickou vodní cévní soustavu, jejíž panožky slouží k pohybu, lovu i dýchání, k tomu vápenatou kostru z destiček v kůži a u dospělců pětičetnou souměrnost. Larvy jsou přitom souměrné podle roviny, což prozrazuje, že pětičetnost je druhotná.",
+  "source": "Ruppert, Fox & Barnes, Invertebrate Zoology, 7. vydání (2004)",
+  "seedElo": 1500
+ },
+ {
+  "id": "ziv-C16",
+  "type": "F",
+  "category": "zivocichove",
+  "text": "Co mravenci rodu Pseudomyrmex poskytují akáciím výměnou za duté trny a nektar?",
+  "options": [
+   "roznášejí jejich semena do vzdálených mravenišť",
+   "opylují jejich květy při sběru pylu do košíčků",
+   "obohacují půdu dusíkem ze svých odpadních komor",
+   "napadají býložravce a okusují okolní rostliny"
+  ],
+  "correct": 3,
+  "explanation": "Daniel Janzen v 60. letech ukázal, že akácie bez mravenců rychle podlehnou okusu a konkurenci sousedních rostlin: mravenci útočí na býložravce a odstraňují klíčící rostliny v okolí kmene. Akácie jim na oplátku dává duté trny jako hnízdo, nektar a bílkovinná Beltova tělíska.",
+  "source": "Daniel Janzen, Coevolution of mutualism between ants and acacias in Central America, Evolution 20 (1966)",
+  "seedElo": 1500
+ },
+ {
+  "id": "ziv-C18",
+  "type": "F",
+  "category": "zivocichove",
+  "text": "Pojem klíčový druh zavedl Robert Paine na základě pokusů, v nichž:",
+  "options": [
+   "vysadil vlky do oplocených pastvin v Yellowstonu",
+   "odstraňoval hvězdice ze skal v přílivové zóně",
+   "sledoval kolonie mravenců na akáciích v Keni",
+   "vypouštěl nilské okouny do jezerních zátok"
+  ],
+  "correct": 1,
+  "explanation": "Paine v 60. letech ručně odstraňoval hvězdice Pisaster ochraceus ze skal na pobřeží Washingtonu. Bez nich slávky přerostly vše ostatní a počet druhů v ploše klesl z patnácti na osm. Klíčový druh je tedy takový, jehož vliv na společenstvo je nepoměrně větší, než odpovídá jeho biomase.",
+  "source": "Robert Paine, Food web complexity and species diversity, American Naturalist 100 (1966)",
+  "seedElo": 1500
+ },
+ {
+  "id": "ziv-C20",
+  "type": "K",
+  "category": "zivocichove",
+  "text": "Ostrovní pravidlo (Fosterovo) předpovídá, že na izolovaných ostrovech:",
+  "options": [
+   "všichni savci se zmenšují kvůli nedostatku potravy",
+   "všichni savci rostou, protože chybí velcí predátoři",
+   "velikost těla zůstává stejná jako na pevnině",
+   "velcí savci se zmenšují a malí naopak zvětšují"
+  ],
+  "correct": 3,
+  "explanation": "Trpasličí sloni ze Sicílie a Malty nebo člověk floreský ukazují zmenšování velkých druhů kvůli omezeným zdrojům, zatímco hlodavci a plazi na ostrovech rostou, když zmizí predační tlak. Pravidlo platí staticky, nikoli mechanicky — u některých skupin se nepotvrzuje a jeho obecnost se dodnes testuje.",
+  "source": "Lomolino, Body size evolution in insular vertebrates, J. Biogeography 32 (2005)",
+  "seedElo": 1500
+ },
+ {
+  "id": "ziv-C22",
+  "type": "K",
+  "category": "zivocichove",
+  "text": "Endemický druh je takový, který:",
+  "options": [
+   "se v dané oblasti vyskytuje jen v zimním období",
+   "se přirozeně vyskytuje pouze v jedné oblasti",
+   "byl do dané oblasti zavlečen člověkem a šíří se",
+   "je v dané oblasti nejhojnějším zástupcem rodu"
+  ],
+  "correct": 1,
+  "explanation": "Endemit je vázaný na jedno vymezené území — může jít o ostrov, jezero, pohoří i jedinou jeskyni. Endemismus je proto vždy vztažen k měřítku: lemuři jsou endemity Madagaskaru, ale některé druhy jen jednoho lesního bloku. Ostrovní endemity patří k nejohroženějším organismům planety.",
+  "source": "Myers et al., Biodiversity hotspots for conservation priorities, Nature 403 (2000)",
+  "seedElo": 1500
  },
  {
   "id": "ziv-08",
@@ -144,6 +928,102 @@
   "seedElo": 1540
  },
  {
+  "id": "ziv-A10",
+  "type": "F",
+  "category": "zivocichove",
+  "text": "Kakadu Goffinovi dostali v testu odložené odměny kousek potravy, který mohli po vyčkání vyměnit za lákavější. Auerspergová a spol. zjistili, že ptáci:",
+  "options": [
+   "první odměnu vždy okamžitě snědli bez čekání",
+   "čekali jen tehdy, když byla druhá odměna menší",
+   "odmítali brát potravu do zobáku po celou dobu testu",
+   "dokázali čekat desítky sekund na chutnější sousto"
+  ],
+  "correct": 3,
+  "explanation": "Kakadu si drželi méně hodnotný kousek v zobáku a nesnědli ho, dokud nedostali možnost vyměnit ho za lepší, což u některých jedinců vydrželo přes minutu. Ochota čekat přitom klesala s tím, jak se rozdíl v hodnotě odměn zmenšoval — ptáci tedy vážili náklady a zisk. Podobné výsledky mají krkavci i papoušci šedí, což ukazuje, že sebeovládání není výsadou primátů.",
+  "source": "Auersperg, A. M. I. et al.: Delayed gratification in cockatoos, Biology Letters 9 (2013)",
+  "seedElo": 1550
+ },
+ {
+  "id": "ziv-A29",
+  "type": "F",
+  "category": "zivocichove",
+  "text": "Rutte a Taborsky (2007) zjistili u potkanů, že jedinec, kterému předtím neznámý partner pomohl získat potravu:",
+  "options": [
+   "pomáhá už jen tomu jedinému partnerovi, nikomu dalšímu",
+   "přestává pomáhat komukoli, protože si zvykl na pomoc",
+   "pomáhá jen tehdy, sledují-li ho dominantní jedinci",
+   "pomáhá ochotněji i dalším, zcela neznámým potkanům"
+  ],
+  "correct": 3,
+  "explanation": "Potkani zažívší pomoc pak tahali za páku pro potravu ochotněji, i když šlo o jiného, neznámého jedince — autoři to označili za zobecněnou reciprocitu. Ta nevyžaduje rozpoznávání konkrétních partnerů, stačí, že zkušenost s pomocí zvýší celkovou ochotu pomáhat. Pozdější práce ukázaly, že potkani rozlišují i podle toho, jak hodnotnou pomoc dříve dostali.",
+  "source": "Rutte, C. & Taborsky, M.: Generalized reciprocity in rats, PLoS Biology 5 (2007)",
+  "seedElo": 1550
+ },
+ {
+  "id": "ziv-A31",
+  "type": "K",
+  "category": "zivocichove",
+  "text": "Velký pes si při hře se štěnětem lehá na záda a kouše jen naznačeně. Jak etologie takové „sebehandicapování“ ve hře vykládá?",
+  "options": [
+   "jde o projev submise vůči výše postavenému jedinci",
+   "udržuje hru v chodu a stvrzuje, že nejde o útok",
+   "jde o nácvik úniku z pozice na zádech při skutečném boji",
+   "jde o chybu v rozpoznání věku a síly hravého partnera"
+  ],
+  "correct": 1,
+  "explanation": "Silnější partner svou převahu úmyslně tlumí a střídá role, protože jinak by slabší hru ukončil; hra tak vyžaduje průběžné vyjednávání a udržování férovosti. Doprovázejí ji zřetelné hravé signály, u psů třeba předklon na předních končetinách. Když se signály poruší nebo je zásah příliš tvrdý, následuje často „omluva“ v podobě opakovaného hravého gesta.",
+  "source": "Bekoff, M.: Social play behaviour, Journal of Consciousness Studies 8 (2001); Bauer & Smuts, Animal Behaviour 73 (2007)",
+  "seedElo": 1550
+ },
+ {
+  "id": "ziv-B18",
+  "type": "F",
+  "category": "zivocichove",
+  "text": "Břehouš rudý drží ptačí rekord v nepřetržitém letu, protože:",
+  "options": [
+   "cestou odpočívá na hladině oceánu podobně jako racci",
+   "letí z Aljašky až k Novému Zélandu bez jediného přistání",
+   "let přerušuje jen na korálových ostrovech uprostřed cesty",
+   "putuje ve dne v noci, ale každou noc přespí na pevnině"
+  ],
+  "correct": 1,
+  "explanation": "Ptáci sledovaní vysílačkami urazili přes Tichý oceán víc než 12 000 kilometrů za osm až jedenáct dní bez zastávky. Před odletem zvětší tukové zásoby zhruba na polovinu hmotnosti těla a zmenší si trávicí orgány, které během letu nepotřebují. Břehouši nedokážou plavat, takže odpočinek na vodě nepřipadá v úvahu.",
+  "source": "Gill et al., Extreme endurance flights by landbirds crossing the Pacific Ocean, Proceedings of the Royal Society B (2009)",
+  "seedElo": 1550
+ },
+ {
+  "id": "ziv-B23",
+  "type": "F",
+  "category": "zivocichove",
+  "text": "Hadí jed z hlediska chemie nejlépe popíšeme tak, že:",
+  "options": [
+   "jde o jedinou velmi silnou kyselinu, která tkáň rozleptá",
+   "jde o směs enzymů a toxinů blokujících nervy nebo tkáň",
+   "jde o živé bakterie, které v ráně vyvolají těžkou otravu",
+   "jde o těžké kovy nahromaděné v jedových žlázách hada"
+  ],
+  "correct": 1,
+  "explanation": "Jed je evolučně přeměněná slina a tvoří ho desítky bílkovin: fosfolipázy A2, metaloproteinázy štěpící cévní stěnu i drobné neurotoxiny blokující nervosvalový přenos. Složení se liší mezi druhy, ale i mezi populacemi téhož druhu, což komplikuje výrobu antisér. Právě z těchto molekul vzešlo i několik běžných léků.",
+  "source": "Bryan G. Fry (ed.), Venomous Reptiles and Their Toxins (Oxford University Press, 2015)",
+  "seedElo": 1550
+ },
+ {
+  "id": "ziv-C13",
+  "type": "F",
+  "category": "zivocichove",
+  "text": "Tvrzení „ryby nejsou přirozená skupina“ znamená, že:",
+  "options": [
+   "část ryb je bližší savcům než jiným rybám",
+   "ryby vznikly nezávisle nejméně ve třech liniích",
+   "ryby jsou ve skutečnosti jen larvální stadia",
+   "mezi rybami nelze určit žádné příbuzenské vztahy"
+  ],
+  "correct": 0,
+  "explanation": "Lalokoploutvá latimérie a bahníci jsou příbuznější člověku než kaprovi, protože suchozemští čtyřnožci vznikli uvnitř nozdratých ryb. „Ryby“ jsou tedy parafyletická skupina: zahrnují část potomků společného předka, ale ne všechny. Přirozený klad, který je obsahuje celé, se nazývá obratlovci s čelistmi.",
+  "source": "Amemiya et al., The African coelacanth genome, Nature 496 (2013)",
+  "seedElo": 1550
+ },
+ {
   "id": "ziv-10",
   "type": "F",
   "category": "zivocichove",
@@ -176,6 +1056,150 @@
   "seedElo": 1600
  },
  {
+  "id": "ziv-A08",
+  "type": "F",
+  "category": "zivocichove",
+  "text": "Pokusy Nicoly Claytonové se sojkami křovinnými ukázaly, že si tito ptáci u svých potravních skrýší pamatují:",
+  "options": [
+   "co uložily, kam to uložily a jak dávno to bylo",
+   "pouze polohu skrýše, nikoli její obsah ani stáří",
+   "jen obsah skrýše, který si dohledávají čichem",
+   "výhradně skrýše vytvořené během posledního dne"
+  ],
+  "correct": 0,
+  "explanation": "Sojky si ukládaly červy i ořechy a po krátké prodlevě šly nejdřív pro chutnější červy, zatímco po delší prodlevě, kdy už červi zkazili, mířily rovnou k ořechům. Musely tedy propojit tři složky vzpomínky — co, kde a kdy. Autoři to opatrně nazvali „epizodické paměti podobné“ chování, protože prožitkovou stránku epizodické paměti u zvířete nelze ověřit.",
+  "source": "Clayton, N. S. & Dickinson, A.: Episodic-like memory during cache recovery by scrub jays, Nature 395 (1998)",
+  "seedElo": 1600
+ },
+ {
+  "id": "ziv-A15",
+  "type": "F",
+  "category": "zivocichove",
+  "text": "Pojmem „taktický klam“ (tactical deception) rozumějí etologové situaci, kdy zvíře:",
+  "options": [
+   "napodobí zbarvením jedovatý druh, a odradí tím predátora",
+   "použije běžné chování mimo obvyklý kontext, aby uvedlo druhého v omyl",
+   "vydá poplašný signál pokaždé, když spatří letícího dravce",
+   "skryje potravu na místě, které si samo nedokáže zapamatovat"
+  ],
+  "correct": 1,
+  "explanation": "Definice Byrna a Whitenové úmyslně nemluví o záměru, ale o funkci: běžný prvek repertoáru se objeví v netypické situaci a vede k tomu, že se druhý jedinec zmýlí. Sem patří falešná poplašná volání u ťuhýků nebo sýkor, jimiž se ptáci dostanou k opuštěné potravě. Morfologická obrana typu mimikry sem nepatří, protože nejde o chování.",
+  "source": "Byrne, R. W. & Whiten, A.: Machiavellian Intelligence (1988); Møller, A. P., Nature 355 (1992)",
+  "seedElo": 1600
+ },
+ {
+  "id": "ziv-A27",
+  "type": "F",
+  "category": "zivocichove",
+  "text": "Noad a spol. popsali u keporkaků u východní Austrálie nápadnou událost, kdy se ve zdejší populaci objevil zpěvní typ ze západního Pacifiku. Jak změna proběhla?",
+  "options": [
+   "samci starou píseň zcela nahradili tou novou během dvou sezón",
+   "novou píseň převzali jen samci narození v dané sezóně",
+   "obě písně se ustálily vedle sebe zhruba napůl populace",
+   "nová píseň se udržela jen několik dní a pak zmizela"
+  ],
+  "correct": 0,
+  "explanation": "Do populace zpívající jednu ustálenou píseň zabloudilo pár samců s odlišným zpěvem a během dvou sezón na jejich verzi přešli prakticky všichni. Autoři jev nazvali „kulturní revolucí“ — jde o rychlou a úplnou výměnu naučené tradice v celé populaci. Písně keporkaků se navíc postupně proměňují a šíří napříč Pacifikem převážně směrem od západu na východ.",
+  "source": "Noad, M. J. et al.: Cultural revolution in whale songs, Nature 408 (2000); Garland, E. C. et al., Current Biology 21 (2011)",
+  "seedElo": 1600
+ },
+ {
+  "id": "ziv-B05",
+  "type": "F",
+  "category": "zivocichove",
+  "text": "Dvaadvacet masitých paprsků na čenichu hvězdonose hvězdovitého:",
+  "options": [
+   "slouží k nasávání vody a filtrování drobných vodních korýšů",
+   "vylučuje lepkavý sekret, jímž krtek kořist přilepí a znehybní",
+   "funguje jako čichové výběžky s vlastní olfaktorickou sliznicí",
+   "je hmatovým orgánem s desítkami tisíc dotykových receptorů"
+  ],
+  "correct": 3,
+  "explanation": "Paprsky nesou přes 25 000 Eimerových orgánů a v mozkové kůře jim odpovídá nepoměrně velká oblast, obdoba senzorického homunkula. Hvězdonos jimi ohmatá a rozpozná kořist za desítky milisekund, což z něj dělá jednoho z nejrychlejších lovců mezi savci. Oči má zakrnělé a orientuje se prakticky jen dotykem.",
+  "source": "Kenneth Catania, The sense of touch in the star-nosed mole, Philosophical Transactions of the Royal Society B (2011)",
+  "seedElo": 1600
+ },
+ {
+  "id": "ziv-B13",
+  "type": "F",
+  "category": "zivocichove",
+  "text": "Aby z odděleného ramene hvězdice dorostl celý nový jedinec, musí rameno:",
+  "options": [
+   "být odděleno v době rozmnožování, jinak se rozpadne",
+   "zůstat celou dobu zcela ponořené v teplé mělké vodě",
+   "být tou částí těla, v níž leží madreporit a také ústa",
+   "nést i kus centrálního terče s částí nervového kruhu"
+  ],
+  "correct": 3,
+  "explanation": "Většina hvězdic potřebuje k obnově celého těla rameno i s částí centrálního terče; takovému útvaru s jedním velkým a několika dorůstajícími rameny se říká kometa. Jen několik rodů, například Linckia, zvládne regeneraci z ramene samotného. O rozmnožování jde jen u druhů, které se dělí záměrně; jinak je to oprava po zranění.",
+  "source": "Hendler et al., Sea Stars, Sea Urchins and Allies (Smithsonian Institution Press, 1995)",
+  "seedElo": 1600
+ },
+ {
+  "id": "ziv-B28",
+  "type": "F",
+  "category": "zivocichove",
+  "text": "Encefalizační kvocient (EQ) se používá proto, že samotná velikost mozku:",
+  "options": [
+   "se u živého zvířete nedá změřit jinak než podle hmotnosti",
+   "se v průběhu roku mění podle množství dostupné potravy",
+   "u savců téměř nekolísá, takže ji nelze mezi druhy srovnat",
+   "roste s velikostí těla, a je proto sama o sobě málo výmluvná"
+  ],
+  "correct": 3,
+  "explanation": "EQ porovnává skutečnou hmotnost mozku s hodnotou očekávanou pro savce dané velikosti: člověk vychází kolem sedmi, delfíni kolem čtyř, kůň pod jedničku. Ukazatel je ale hrubý a dnes se dává přednost počtu neuronů v předním mozku, kde třeba papoušci předčí i mnohem větší savce. Vorvaň má největší mozek ze všech, jeho EQ je přitom nízký.",
+  "source": "Harry J. Jerison, Evolution of the Brain and Intelligence (Academic Press, 1973)",
+  "seedElo": 1600
+ },
+ {
+  "id": "ziv-C24",
+  "type": "F",
+  "category": "zivocichove",
+  "text": "Přežvýkavci dokážou žít z trávy především proto, že:",
+  "options": [
+   "jejich slinné žlázy produkují enzym štěpící celulózu",
+   "jejich žaludeční kyselina rozkládá celulózu na cukry",
+   "tráva sama obsahuje dost snadno stravitelného škrobu",
+   "mikrobi v bachoru kvasí celulózu na mastné kyseliny"
+  ],
+  "correct": 3,
+  "explanation": "Žádný savec si nevyrábí celulázu. V bachoru krávy žijí bakterie, archea a bachoroví prvoci, kteří celulózu fermentují na těkavé mastné kyseliny — hlavní zdroj energie hostitele — a samotní mikrobi pak slouží jako zdroj bílkovin. Metan uvolňovaný archeami z toho dělá i klimatickou otázku.",
+  "source": "Hess et al., Metagenomic discovery of biomass-degrading genes from cow rumen, Science 331 (2011)",
+  "seedElo": 1600
+ },
+ {
+  "id": "ziv-C26",
+  "type": "F",
+  "category": "zivocichove",
+  "text": "Když se ukáže, že jeden druh byl popsán dvakrát pod různými jmény, platí:",
+  "options": [
+   "jméno, které je latinsky správněji utvořené",
+   "starší z obou jmen, podle zásady priority",
+   "jméno, které používá více odborných publikací",
+   "novější jméno, protože vychází z lepších dat"
+  ],
+  "correct": 1,
+  "explanation": "Mezinárodní kód zoologické nomenklatury staví na prioritě: platné je nejstarší dostupné jméno publikované od roku 1758, mladší se stává synonymem. Kód řeší jen jména, nikoli otázku, co je druh — ta zůstává vědeckým rozhodnutím. Ve výjimečných případech komise starší zapomenuté jméno potlačí ve prospěch zavedeného.",
+  "source": "International Code of Zoological Nomenclature, 4. vydání (ICZN, 1999)",
+  "seedElo": 1600
+ },
+ {
+  "id": "ziv-C28",
+  "type": "K",
+  "category": "zivocichove",
+  "text": "Základem potravní pyramidy u hlubokomořských hydrotermálních průduchů je:",
+  "options": [
+   "opad organické hmoty klesající z hladinových vrstev",
+   "fotosyntéza řas využívajících záři rozžhavené vody",
+   "rozklad dřeva zanášeného na dno z ústí velkých řek",
+   "chemosyntéza bakterií oxidujících sirovodík"
+  ],
+  "correct": 3,
+  "explanation": "Objev průduchů u Galapág v roce 1977 ukázal celý ekosystém nezávislý na slunci: bakterie získávají energii oxidací sirovodíku a dalších redukovaných sloučenin. Rournatka Riftia nemá ústa ani střevo a živí ji symbiotické bakterie v orgánu zvaném trofozom. Podobná chemosyntéza je hlavním argumentem pro možnost života v oceánech Europy či Enceladu.",
+  "source": "Corliss et al., Submarine thermal springs on the Galápagos Rift, Science 203 (1979)",
+  "seedElo": 1600
+ },
+ {
   "id": "ziv-12",
   "type": "F",
   "category": "zivocichove",
@@ -190,6 +1214,102 @@
   "explanation": "U ptáků se předpokládají dva mechanismy: světlocitlivé bílkoviny kryptochromy v sítnici, které reagují na magnetické pole kvantovým jevem, a případně magnetitové částice využívané spíš jako doplňkový smysl. Kombinace s vnitřními hodinami a orientací podle hvězd a slunce jim umožňuje přesnou navigaci na tisíce kilometrů.",
   "source": "Wiltschko, R., & Wiltschko, W. (2019). Magnetoreception in birds. Journal of the Royal Society Interface, 16(158); Mouritsen, H. (2018). Long-distance navigation and magnetoreception in migratory animals. Nature, 558(7708).",
   "seedElo": 1630
+ },
+ {
+  "id": "ziv-A07",
+  "type": "K",
+  "category": "zivocichove",
+  "text": "Etolog namítá, že neúspěch psa v zrcadlovém testu ještě neznamená, že psovi chybí jakékoli sebeuvědomění. Která námitka je nejsilnější?",
+  "options": [
+   "psi mají špatný zrak a v zrcadle nevidí prakticky vůbec nic",
+   "test byl navržen pro ptáky, u savců ho nelze vůbec použít",
+   "psi značku vždy okamžitě olížou, což výsledek znehodnotí",
+   "test měří sebepoznání zrakem, ale pes se orientuje hlavně čichem"
+  ],
+  "correct": 3,
+  "explanation": "Zrcadlový test je vázaný na jednu smyslovou modalitu, takže druhu, jehož hlavním kanálem je čich, může křivdit. Proto vznikly čichové obdoby testu, například úloha s vlastním pachem a jeho pozměněnou verzí, v níž psi projevují zvýšený zájem o „označený“ vlastní pach. Negativní výsledek proto znamená jen selhání v konkrétním úkolu, ne prokázanou absenci sebeuvědomění.",
+  "source": "Horowitz, A.: Smelling themselves — Dogs investigate their own odours, Behavioural Processes 143 (2017)",
+  "seedElo": 1650
+ },
+ {
+  "id": "ziv-B14",
+  "type": "K",
+  "category": "zivocichove",
+  "text": "Čím je dáno, že ploštěnka doroste i z malého kousku těla?",
+  "options": [
+   "Tím, že se každá její tělní buňka umí libovolně dále dělit",
+   "Zásobou nediferencovaných vajíček uložených podél střeva",
+   "Dospělými kmenovými buňkami (neoblasty) rozptýlenými v těle",
+   "Schopností přijmout cizí buňky z okolní vody a využít je"
+  ],
+  "correct": 2,
+  "explanation": "Neoblasty jsou jediné dělící se buňky ploštěnky a tvoří zhruba pětinu buněk těla; z jediné pluripotentní buňky lze obnovit celého červa. Kde vyroste hlava a kde ocas, určuje signální dráha Wnt, která drží polaritu těla. Ostatní, už specializované buňky se dělit nedokážou.",
+  "source": "Wagner, Wang & Sánchez Alvarado, Clonogenic neoblasts are pluripotent adult stem cells, Science (2011)",
+  "seedElo": 1650
+ },
+ {
+  "id": "ziv-B17",
+  "type": "F",
+  "category": "zivocichove",
+  "text": "Rozdíl mezi torporem a hibernací spočívá především v tom, že torpor:",
+  "options": [
+   "trvá typicky hodiny až den, kdežto hibernace týdny až měsíce",
+   "probíhá jen v létě, zatímco hibernace výhradně v zimním období",
+   "je stav, při kterém tělesná teplota zvířete naopak stoupá",
+   "postihuje pouze plazy, kdežto hibernace naproti tomu savce"
+  ],
+  "correct": 0,
+  "explanation": "V obou případech jde o řízené snížení metabolismu a tělesné teploty, liší se hlavně délkou. Kolibřík nebo netopýr upadá do torporu na jedinou noc, sysel hibernuje měsíce. Hibernace se navíc skládá z opakovaných dlouhých epizod torporu proložených krátkým, energeticky nákladným zahřátím.",
+  "source": "Fritz Geiser, Metabolic rate and body temperature reduction during hibernation and daily torpor, Annual Review of Physiology (2004)",
+  "seedElo": 1650
+ },
+ {
+  "id": "ziv-C23",
+  "type": "F",
+  "category": "zivocichove",
+  "text": "Nálezy z polské lokality Zachełmie posunuly představu o vzniku čtyřnožců tím, že:",
+  "options": [
+   "obsahovaly kompletní kostru tvora podobného Tiktaalikovi",
+   "prokázaly, že Tiktaalik měl už plně vyvinuté prsty",
+   "šlo o stopy s prsty starší než tělesné fosilie",
+   "datovaly první suchozemské obratlovce do karbonu"
+  ],
+  "correct": 2,
+  "explanation": "Otisky prstnatých končetin ze Zachełmie jsou staré zhruba 395 milionů let, tedy asi o 18 milionů let starší než Tiktaalik a další „přechodné“ formy. Neruší to představu o postupném přechodu na souš, ale posouvá jeho začátek hlouběji a ukazuje, že známé fosilie jsou spíš pozdními přeživšími než přímými předky.",
+  "source": "Niedźwiedzki et al., Tetrapod trackways from the early Middle Devonian period of Poland, Nature 463 (2010)",
+  "seedElo": 1650
+ },
+ {
+  "id": "ziv-C25",
+  "type": "F",
+  "category": "zivocichove",
+  "text": "Vymírání velkých savců na konci pleistocénu se mezi kontinenty lišilo tím, že:",
+  "options": [
+   "v Africe přežila megafauna nejlépe ze všech kontinentů",
+   "v Africe vymřela megafauna nejdříve a nejúplněji",
+   "v Austrálii se ztráty omezily jen na mořské savce",
+   "v Severní Americe nevymřel žádný velký savec"
+  ],
+  "correct": 0,
+  "explanation": "Afrika si podržela nejbohatší megafaunu, zatímco Austrálie i obě Ameriky přišly o většinu druhů nad 45 kilogramů. Nejčastější vysvětlení je, že africká zvířata se vyvíjela vedle rodu Homo po miliony let a stihla se přizpůsobit, kdežto jinam přišli lidé náhle. Roli hrály i klimatické zvraty na konci doby ledové a debata o poměru obou vlivů trvá.",
+  "source": "Sandom et al., Global late Quaternary megafauna extinctions linked to humans, Proc. R. Soc. B 281 (2014)",
+  "seedElo": 1650
+ },
+ {
+  "id": "ziv-C27",
+  "type": "F",
+  "category": "zivocichove",
+  "text": "Kryptické druhy jsou druhy, které:",
+  "options": [
+   "žijí skrytě pod zemí a jsou proto málo známé",
+   "mají zbarvení splývající s okolním prostředím",
+   "vypadají stejně, ale geneticky jsou oddělené",
+   "byly popsány, ale jejich existence se nepotvrdila"
+  ],
+  "correct": 2,
+  "explanation": "Kryptické druhy jsou morfologicky téměř nerozlišitelné, ale nekříží se a v genech vycházejí jako samostatné linie. Odhalují je čárové kódy DNA, hlasové projevy nebo ekologie — třeba u netopýrů, žab a hmyzu. Kvůli nim je skutečný počet druhů na Zemi nejspíš výrazně vyšší, než kolik jich je popsáno.",
+  "source": "Bickford et al., Cryptic species as a window on diversity and conservation, TREE 22 (2007)",
+  "seedElo": 1650
  },
  {
   "id": "ziv-13",
@@ -224,6 +1344,54 @@
   "seedElo": 1690
  },
  {
+  "id": "ziv-A18",
+  "type": "F",
+  "category": "zivocichove",
+  "text": "Bonobo Kanzi si lexigramy osvojil způsobem, který výzkumníky překvapil. Jak k tomu došlo?",
+  "options": [
+   "naučil se je až v dospělosti po tisících pokusů",
+   "odpozoroval je, zatímco se je marně učila jeho matka",
+   "byl je cíleně naučen odměňováním potravou od útlého věku",
+   "převzal je od jiného bonoba, který uměl znakovat"
+  ],
+  "correct": 1,
+  "explanation": "Výcvik byl původně určen samici Matatě, která v něm valně neuspěla; Kanzi jako mládě přihlížel a symboly začal používat spontánně, aniž by byl cíleně cvičen. Právě tato spontánnost a pozdější porozumění nově složeným mluveným pokynům patří k nejsilnějším výsledkům celé oblasti. Neznamená to ovšem, že by Kanzi ovládl gramatiku srovnatelnou s lidskou.",
+  "source": "Savage-Rumbaugh, E. S. et al.: Spontaneous symbol acquisition by a pygmy chimpanzee, J. Exp. Psychol. Gen. 115 (1986)",
+  "seedElo": 1700
+ },
+ {
+  "id": "ziv-B27",
+  "type": "K",
+  "category": "zivocichove",
+  "text": "Co doopravdy dělá medúza Turritopsis dohrnii, které se říká nesmrtelná?",
+  "options": [
+   "Její buňky se nikdy nedělí, takže vlastně vůbec nestárnou",
+   "Dokáže se donekonečna klonovat pučením nových medúz",
+   "Přemění dospělé tělo zpět v polyp přestavbou svých buněk",
+   "Průběžně vyměňuje všechny své buňky za nové, dokud žije"
+  ],
+  "correct": 2,
+  "explanation": "Při poranění nebo hladovění se medúza usadí, zapouzdří a její buňky se transdiferenciací přeprogramují na buňky polypa, z něhož znovu vypučí medúzy. Cyklus lze v principu opakovat, jde ale o laboratorní pozorování — v moři medúzu spolehlivě sežere predátor nebo skolí nemoc. Nesmrtelnost je tedy potenciální, ne skutečná.",
+  "source": "Piraino et al., Reversing the life cycle: medusae transforming into polyps, Biological Bulletin (1996)",
+  "seedElo": 1700
+ },
+ {
+  "id": "ziv-C29",
+  "type": "F",
+  "category": "zivocichove",
+  "text": "Struktura, kterou má většina měkkýšů, ale mlži ji druhotně ztratili, je:",
+  "options": [
+   "radula, pásek s řadami chitinových zoubků",
+   "chorda dorsalis probíhající po hřbetní straně",
+   "malpighiho trubice ústící do zadní části střeva",
+   "žahavé buňky rozmístěné po okraji pláště"
+  ],
+  "correct": 0,
+  "explanation": "Radula je strouhací pásek v hltanu, kterým plži seškrabují řasy a dravci vrtají do schránek kořisti; u některých kuželovek se přeměnila v jedovou harpunu. Mlži jako filtrátoři ji ztratili a potravu zachytávají žábrami. Chorda patří strunatcům, malpighiho trubice hmyzu a žahavé buňky žahavcům.",
+  "source": "Ruppert, Fox & Barnes, Invertebrate Zoology, 7. vydání (2004)",
+  "seedElo": 1700
+ },
+ {
   "id": "ziv-15",
   "type": "F",
   "category": "zivocichove",
@@ -253,6 +1421,118 @@
   "correct": 3,
   "explanation": "Vomeronazální orgán je samostatný chemoreceptorový systém v nosní dutině, který u mnoha savců (hlodavci, kočkovité šelmy) i některých plazů zachycuje feromony a předává informace do odlišné části mozku než běžný čich. U dospělého člověka je orgán rudimentární a funkčně prakticky neaktivní, což je u savců spíš výjimka.",
   "source": "Halpern, M., & Martínez-Marcos, A. (2003). Structure and function of the vomeronasal system. Progress in Neurobiology, 70(3).",
+  "seedElo": 1750
+ },
+ {
+  "id": "ziv-A17",
+  "type": "K",
+  "category": "zivocichove",
+  "text": "Student se ptá, co projekty jako Washoe nebo Kanzi o jazykových schopnostech lidoopů doopravdy prokázaly. Která formulace odpovídá dnešnímu vědeckému konsenzu? Lidoopi:",
+  "options": [
+   "zvládli stovky symbolů a prosby, ne však rekurzivní skladbu vět",
+   "osvojili si plnohodnotný jazyk včetně skladby vět a časování",
+   "nenaučili se používat vůbec žádný symbol smysluplným způsobem",
+   "zvládli gramatiku, ale nikdy symbol k žádosti nepoužili"
+  ],
+  "correct": 0,
+  "explanation": "Lidoopi prokazatelně zvládli rozsáhlý slovník znaků či lexigramů, používali je k žádostem a komentářům a Kanzi rozuměl i novým mluveným větám. Nedoložilo se však produktivní skládání do vět s gramatickou strukturou; většina jejich „vět“ byla krátká, opakovaná a vázaná na odměnu. Kritika Herberta Terrace u šimpanze Nima navíc ukázala, jak snadno se do hodnocení promítne nechtěné navádění ze strany trenéra.",
+  "source": "Terrace, H. S. et al., Science 206 (1979); Savage-Rumbaugh, S. et al.: Language Comprehension in Ape and Child (1993)",
+  "seedElo": 1750
+ },
+ {
+  "id": "ziv-A26",
+  "type": "F",
+  "category": "zivocichove",
+  "text": "Když etologové mluví o „osobnosti“ zvířat, například o ose bázlivost–smělost u sýkory koňadry, opírají se hlavně o zjištění, že:",
+  "options": [
+   "všichni jedinci druhu reagují na nový podnět stejně",
+   "chování jedince se mění náhodně od pokusu k pokusu",
+   "osobnost lze u zvířat určit jen podle velikosti mozku",
+   "rozdíly mezi jedinci jsou v čase i situacích opakovatelné"
+  ],
+  "correct": 3,
+  "explanation": "Klíčovým měřítkem je opakovatelnost: statistický podíl rozptylu chování připadající na trvalé rozdíly mezi jedinci. U koňader se smělost při průzkumu nového prostředí měří opakovaně, je z části dědičná a předpovídá přežívání i rozmnožovací úspěch podle podmínek roku. Odlišné strategie se proto v populaci udržují vedle sebe, protože žádná není nejlepší za všech okolností.",
+  "source": "Dingemanse, N. J. et al., Proc. R. Soc. B 271 (2004); Réale, D. et al., Biological Reviews 82 (2007)",
+  "seedElo": 1750
+ },
+ {
+  "id": "ziv-B26",
+  "type": "F",
+  "category": "zivocichove",
+  "text": "Kleiberův zákon říká, že bazální metabolismus roste s hmotností těla:",
+  "options": [
+   "s exponentem dvě třetiny, tedy přesně úměrně povrchu těla",
+   "s exponentem asi tři čtvrtiny, tedy pomaleji než hmotnost",
+   "se čtvercem hmotnosti, tedy podstatně rychleji než hmotnost",
+   "přesně úměrně, dvakrát těžší zvíře spotřebuje dvakrát více"
+  ],
+  "correct": 1,
+  "explanation": "Napříč obrovským rozsahem velikostí platí, že bazální metabolismus škáluje zhruba jako hmotnost umocněná na 0,75. Myš proto spotřebuje na gram tkáně mnohem víc energie než slon a musí jíst téměř nepřetržitě. Původ exponentu je dodnes sporný, uvažuje se o geometrii cévních sítí i o limitech odvodu tepla; starší „pravidlo povrchu“ s exponentem dvě třetiny data nesplňují.",
+  "source": "Max Kleiber, Body size and metabolism, Hilgardia (1932)",
+  "seedElo": 1750
+ },
+ {
+  "id": "ziv-B30",
+  "type": "F",
+  "category": "zivocichove",
+  "text": "Když samice varana komodského naklade bez samce vývojeschopná vejce, vylíhnou se:",
+  "options": [
+   "samé samice, protože potomci jsou vlastně klony matky",
+   "samci i samice v obvyklém poměru zhruba jedna ku jedné",
+   "samí samci, protože samice je u varanů pohlaví ZW",
+   "jedinci, jejichž pohlaví určí až teplota v hnízdě"
+  ],
+  "correct": 2,
+  "explanation": "U varanů určuje pohlaví systém ZW: samice je ZW, samec ZZ. Při partenogenezi se zdvojí jediná chromozomová sada, takže vzniknou jedinci ZZ a WW, přičemž kombinace WW není životaschopná. Z partenogenetické snůšky se proto líhnou jen samci, s nimiž se matka může později pářit — u savců je tento typ rozmnožování naopak vyloučen.",
+  "source": "Watts et al., Parthenogenesis in Komodo dragons, Nature (2006)",
+  "seedElo": 1750
+ },
+ {
+  "id": "ziv-B32",
+  "type": "F",
+  "category": "zivocichove",
+  "text": "Ryby čeledi Channichthyidae z antarktických vod jsou pozoruhodné tím, že:",
+  "options": [
+   "nemají v krvi hemoglobin a jejich krev je průhledná",
+   "jejich krev obsahuje místo hemoglobinu měďnatý hemocyanin",
+   "jejich krev je díky vysokému obsahu železa téměř černá",
+   "kyslík vážou na bílkovinu, jež jim krev barví dozelena"
+  ],
+  "correct": 0,
+  "explanation": "Krokodýlovky jsou jediní známí obratlovci bez hemoglobinu a prakticky bez červených krvinek; kyslík se rozpouští přímo v plazmě, což je možné jen ve studené a kyslíkem bohaté vodě kolem Antarktidy. Kompenzují to velkým srdcem, širokými cévami a několikanásobně větším objemem krve. Před zamrznutím je navíc chrání nemrznoucí glykoproteiny.",
+  "source": "Sidell & O'Brien, When bad things happen to good fish: the loss of hemoglobin and myoglobin expression in Antarctic icefishes, Journal of Experimental Biology (2006)",
+  "seedElo": 1750
+ },
+ {
+  "id": "ziv-C30",
+  "type": "F",
+  "category": "zivocichove",
+  "text": "V závodech ve zbrojení mezi čolky rodu Taricha a užovkami Thamnophis spočívá odolnost hadů v:",
+  "options": [
+   "enzymu ve slinách, který tetrodotoxin rychle rozkládá",
+   "mutacích sodíkových kanálů, na něž se toxin neváže",
+   "tlusté sliznici jícnu bránící vstřebání toxinu",
+   "symbiotických bakteriích ve střevě štěpících toxin"
+  ],
+  "correct": 1,
+  "explanation": "Tetrodotoxin blokuje napěťově řízené sodíkové kanály. Užovky z oblastí s jedovatými čolky nesou v genu pro tento kanál bodové změny, které vazbu toxinu oslabují — a čolci na to odpovídají vyšší toxicitou. Odolnost však hady stojí rychlost pohybu, což je cena, jež závod brzdí. Zeměpisná mozaika populací je učebnicovým dokladem koevoluce.",
+  "source": "Brodie & Brodie, Predator–prey arms races, BioScience 49 (1999); Feldman et al., PNAS 106 (2009)",
+  "seedElo": 1750
+ },
+ {
+  "id": "ziv-C31",
+  "type": "F",
+  "category": "zivocichove",
+  "text": "Sesterskou skupinou obratlovců jsou podle současné fylogenomiky:",
+  "options": [
+   "kopinatci, tedy bezlebeční s dobře patrnou chordou",
+   "polostrunatci, například žaludovci a křídložábří",
+   "pláštěnci, tedy sumky a jejich pelagičtí příbuzní",
+   "ostnokožci, tedy hvězdice, ježovky a lilijice"
+  ],
+  "correct": 2,
+  "explanation": "Ještě donedávna se za nejbližší příbuzné obratlovců pokládali kopinatci, protože jsou jim tvarově podobní. Genomová data od roku 2006 ukázala opak: nejblíž jsou přisedlé sumky a jejich příbuzní, jejichž larva má chordu a nervovou trubici. Podobnost kopinatce s obratlovcem je tedy zachovaný původní stav, ne důkaz blízkého příbuzenství.",
+  "source": "Delsuc et al., Tunicates and not cephalochordates are the closest living relatives of vertebrates, Nature 439 (2006)",
   "seedElo": 1750
  },
  {

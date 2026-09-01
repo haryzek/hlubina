@@ -1,0 +1,514 @@
+[
+  {
+    "id": "ziv-C01",
+    "type": "F",
+    "category": "zivocichove",
+    "text": "Společným znakem všech členovců (Arthropoda) je:",
+    "options": [
+      "vnější kostra z chitinu, kterou musí při růstu svlékat",
+      "vápenatá schránka vylučovaná pláštěm na hřbetě",
+      "vnitřní kostra z chrupavky a párové ploutevní lemy",
+      "vodní cévní soustava zakončená pohyblivými panožkami"
+    ],
+    "correct": 0,
+    "explanation": "Členovci mají článkované tělo, párové článkované končetiny a hlavně kutikulu z chitinu, která neroste s tělem — proto se pravidelně svlékají (ekdyse). Vápenatá schránka z pláště patří měkkýšům, chrupavčitá kostra rybám a ambulakrální soustava ostnokožcům.",
+    "source": "Ruppert, Fox & Barnes, Invertebrate Zoology, 7. vydání (2004)",
+    "seedElo": 1300
+  },
+  {
+    "id": "ziv-C02",
+    "type": "F",
+    "category": "zivocichove",
+    "text": "Znak, který mají všichni savci a žádná jiná dnešní skupina obratlovců, je:",
+    "options": [
+      "porod živých mláďat namísto kladení skořápkových vajec",
+      "mléčné žlázy, jimiž samice vyživují svá mláďata",
+      "stálá tělesná teplota udržovaná vlastním metabolismem",
+      "čtyřdílné srdce s úplnou přepážkou mezi komorami"
+    ],
+    "correct": 1,
+    "explanation": "Mléčné žlázy (a k nim srst a tři sluchové kůstky ve středním uchu) jsou pro savce jedinečné. Živorodost mají i někteří hadi a ryby, stálou teplotu ptáci a čtyřkomorové srdce ptáci i krokodýli — žádný z těchto znaků tedy savce nevymezuje.",
+    "source": "Kardong, Vertebrates: Comparative Anatomy, Function, Evolution (2018)",
+    "seedElo": 1350
+  },
+  {
+    "id": "ziv-C03",
+    "type": "F",
+    "category": "zivocichove",
+    "text": "Který typ nálezů nejsilněji podpořil zařazení ptáků mezi teropodní dinosaury?",
+    "options": [
+      "otisky kožních šupin u kachnozobých dinosaurů z Kanady",
+      "nálezy zkamenělých vajec sauropodů z jižní Francie",
+      "opeření teropodi z raně křídového souvrství Yixian",
+      "stopy dravých dinosaurů z triasu východního Grónska"
+    ],
+    "correct": 2,
+    "explanation": "Od 90. let přinesla čínská lokalita Yixian desítky teropodů s peřím (Sinosauropteryx, Caudipteryx, Microraptor), čímž se peří ukázalo jako znak vzniklý dávno před ptáky. Spolu s dutými kostmi, vzdušnými vaky a stavbou zápěstí to dnes řadí ptáky přímo dovnitř teropodů.",
+    "source": "Xu Xing et al., An integrative approach to understanding bird origins, Science 346 (2014)",
+    "seedElo": 1350
+  },
+  {
+    "id": "ziv-C04",
+    "type": "F",
+    "category": "zivocichove",
+    "text": "Nejvíc popsaných druhů ze všech skupin živočichů má řád:",
+    "options": [
+      "blanokřídlí, tedy vosy, včely, mravenci a pilatky",
+      "dvoukřídlí, tedy mouchy, komáři, bejlomorky a tiplíci",
+      "motýli, od drobných molů po velké okáče a otakárky",
+      "brouci, kterých je popsáno kolem 400 tisíc druhů"
+    ],
+    "correct": 3,
+    "explanation": "Brouků je popsáno zhruba 380–400 tisíc druhů, tedy asi čtvrtina všech známých živočichů. Uvádí se, že za tím stojí kombinace tvrdých krovek, malého těla a opakovaného přechodu na krytosemenné rostliny. Blanokřídlí je mohou skutečným počtem druhů dohánět, ale popsáno jich je zatím výrazně méně.",
+    "source": "Stork, How many species of insects and other terrestrial arthropods are there on Earth?, Annu. Rev. Entomol. 63 (2018)",
+    "seedElo": 1300
+  },
+  {
+    "id": "ziv-C05",
+    "type": "K",
+    "category": "zivocichove",
+    "text": "Darwin z madagaskarské orchideje s dvacetipalcovou nektarovou ostruhou usoudil, že:",
+    "options": [
+      "musí existovat opylovač se stejně dlouhým sosákem",
+      "květ opyluje vítr a ostruha slouží jen jako závaží",
+      "rostlina se rozmnožuje výhradně samosprášením",
+      "nektar sbírají mravenci lezoucí po vnější straně"
+    ],
+    "correct": 0,
+    "explanation": "Darwin v roce 1862 předpověděl u orchideje Angraecum sesquipedale motýla s extrémně dlouhým sosákem. Lišaj Xanthopan praedicta byl popsán až po jeho smrti a jeho opylovací role byla nafilmována teprve v 90. letech 20. století. Je to učebnicový příklad koevoluce, kdy se délka ostruhy a sosáku vzájemně přehánějí.",
+    "source": "Charles Darwin, On the Various Contrivances by Which British and Foreign Orchids Are Fertilised by Insects (1862)",
+    "seedElo": 1400
+  },
+  {
+    "id": "ziv-C06",
+    "type": "F",
+    "category": "zivocichove",
+    "text": "Nejbližšími žijícími příbuznými kytovců jsou podle genetiky i fosilií:",
+    "options": [
+      "ploutvonožci, tedy tuleni, lachtani a mroži",
+      "hrochovití, jediní žijící sesterští sudokopytníci",
+      "sirény, tedy kapustňáci a dugong indický",
+      "vydry a jiné šelmy z čeledi lasicovitých"
+    ],
+    "correct": 1,
+    "explanation": "Molekulární data i fosilie (Pakicetus, Ambulocetus, Rodhocetus) ukazují, že velryby vznikly uvnitř sudokopytníků a jejich sesterskou žijící větví jsou hrochovití. Potvrdil to i tvar kotníkové kosti astragalu s dvojitou kladkou, typický právě pro sudokopytníky. Ploutvonožci i vydry patří mezi šelmy, sirény jsou příbuzné slonům.",
+    "source": "Thewissen et al., Whales originated from aquatic artiodactyls, Nature 450 (2007)",
+    "seedElo": 1400
+  },
+  {
+    "id": "ziv-C07",
+    "type": "F",
+    "category": "zivocichove",
+    "text": "Charakteristickou buňkou žahavců, kterou nemá žádný jiný kmen, je:",
+    "options": [
+      "brvitá buňka s límečkem filtrující potravu z vody",
+      "svalová buňka s příčným pruhováním a mnoha jádry",
+      "knidocyt s vystřelovacím vláknem uvnitř váčku",
+      "pigmentová buňka měnící barvu díky svalovým vláknům"
+    ],
+    "correct": 2,
+    "explanation": "Knidocyt obsahuje organelu knidu, která pod obrovským tlakem vystřelí vlákno během několika mikrosekund — jde o jeden z nejrychlejších dějů v živočišné říši. Buňky s límečkem má houba, příčně pruhované svaly obratlovci i hmyz a chromatofory hlavonožci a někteří obratlovci.",
+    "source": "Nüchter et al., Nanosecond-scale kinetics of nematocyst discharge, Current Biology 16 (2006)",
+    "seedElo": 1350
+  },
+  {
+    "id": "ziv-C08",
+    "type": "F",
+    "category": "zivocichove",
+    "text": "Klíčovou inovací, která odlišila plazy a další amnioty od obojživelníků, bylo:",
+    "options": [
+      "plicní dýchání, které obojživelníci nemají vůbec",
+      "čtyřkomorové srdce oddělující oba krevní oběhy",
+      "stálá tělesná teplota nezávislá na okolí",
+      "vejce s obaly, které lze klást mimo vodu"
+    ],
+    "correct": 3,
+    "explanation": "Amniotické vejce s blanami amnion, chorion a alantois vytvořilo vlastní vodní prostředí pro zárodek a osvobodilo rozmnožování od vody. Dospělí obojživelníci přitom plíce běžně mají, čtyřkomorové srdce vzniklo až později u ptáků a krokodýlů a naprostá většina plazů má teplotu závislou na okolí.",
+    "source": "Benton, Vertebrate Palaeontology, 4. vydání (2014)",
+    "seedElo": 1400
+  },
+  {
+    "id": "ziv-C09",
+    "type": "F",
+    "category": "zivocichove",
+    "text": "Vysazení nilského okouna do Viktoriina jezera mělo za následek:",
+    "options": [
+      "vymizení stovek endemických druhů cichlid",
+      "obnovu populací původních endemických cichlid",
+      "úplné vysušení mělčin v severní části jezera",
+      "vymření nilského okouna během jediné dekády"
+    ],
+    "correct": 0,
+    "explanation": "Nilský okoun, vysazený v 50. a 60. letech kvůli rybolovu, spolu s eutrofizací srazil unikátní hejno stovek endemických druhů cichlid — jde o jedno z nejrychlejších masových vymírání obratlovců zdokumentovaných člověkem. Zároveň nastartoval velký rybářský průmysl, což z případu dělá učebnicový střet ekonomiky a ochrany přírody.",
+    "source": "Witte et al., The destruction of an endemic species flock, Env. Biol. Fishes 34 (1992)",
+    "seedElo": 1350
+  },
+  {
+    "id": "ziv-C10",
+    "type": "F",
+    "category": "zivocichove",
+    "text": "Bělení korálů znamená, že korálový polyp:",
+    "options": [
+      "vyloučil nadbytek vápníku a jeho kostra zbělela",
+      "ztratil symbiotické řasy zooxantely ze svých tkání",
+      "uzavřel svá ramena a stáhl se dovnitř kostry",
+      "pokryl se vrstvou bílého hlenu proti parazitům"
+    ],
+    "correct": 1,
+    "explanation": "Barva korálu pochází hlavně ze symbiotických obrněnek rodu Symbiodinium, které polypu dodávají většinu energie z fotosyntézy. Při tepelném stresu polyp řasy vypudí, zprůhlední a prosvítá bílá vápenatá kostra. Krátké bělení lze přežít a řasy získat zpět, dlouhé znamená smrt hladem.",
+    "source": "Hughes et al., Global warming and recurrent mass bleaching of corals, Nature 543 (2017)",
+    "seedElo": 1300
+  },
+  {
+    "id": "ziv-C11",
+    "type": "F",
+    "category": "zivocichove",
+    "text": "Ostnokožce (hvězdice, ježovky, sumýše) spojuje mimo jiné:",
+    "options": [
+      "vnější schránka z chitinu, kterou pravidelně svlékají",
+      "otevřená cévní soustava s hřbetní srdeční trubicí",
+      "ambulakrální soustava kanálků poháněná vodou",
+      "provazcová nervová soustava na břišní straně těla"
+    ],
+    "correct": 2,
+    "explanation": "Ostnokožci mají hydraulickou vodní cévní soustavu, jejíž panožky slouží k pohybu, lovu i dýchání, k tomu vápenatou kostru z destiček v kůži a u dospělců pětičetnou souměrnost. Larvy jsou přitom souměrné podle roviny, což prozrazuje, že pětičetnost je druhotná.",
+    "source": "Ruppert, Fox & Barnes, Invertebrate Zoology, 7. vydání (2004)",
+    "seedElo": 1500
+  },
+  {
+    "id": "ziv-C12",
+    "type": "K",
+    "category": "zivocichove",
+    "text": "Ptakopysk klade vejce, přesto je řazen mezi savce, protože:",
+    "options": [
+      "má stálou teplotu a čtyřkomorové srdce jako savci",
+      "žije v norách a jeho mláďata se rodí bezbranná",
+      "jeho zobák je jen zrohovatělou obdobou tlamy savců",
+      "má srst, mléčné žlázy a savčí sluchové kůstky"
+    ],
+    "correct": 3,
+    "explanation": "Ptakopysk a ježury (vejcorodí) si podrželi kladení vajec, které je pro obratlovce původní, ale mají všechny klíčové savčí znaky — srst, mléko a tři sluchové kůstky. Samice nemají bradavky, mléko prosakuje kůží a mláďata je slízávají ze srsti. Vejcorodí se od zbytku savců oddělili zhruba před 180 miliony let.",
+    "source": "Warren et al., Genome analysis of the platypus, Nature 453 (2008)",
+    "seedElo": 1450
+  },
+  {
+    "id": "ziv-C13",
+    "type": "F",
+    "category": "zivocichove",
+    "text": "Tvrzení „ryby nejsou přirozená skupina“ znamená, že:",
+    "options": [
+      "část ryb je bližší savcům než jiným rybám",
+      "ryby vznikly nezávisle nejméně ve třech liniích",
+      "ryby jsou ve skutečnosti jen larvální stadia",
+      "mezi rybami nelze určit žádné příbuzenské vztahy"
+    ],
+    "correct": 0,
+    "explanation": "Lalokoploutvá latimérie a bahníci jsou příbuznější člověku než kaprovi, protože suchozemští čtyřnožci vznikli uvnitř nozdratých ryb. „Ryby“ jsou tedy parafyletická skupina: zahrnují část potomků společného předka, ale ne všechny. Přirozený klad, který je obsahuje celé, se nazývá obratlovci s čelistmi.",
+    "source": "Amemiya et al., The African coelacanth genome, Nature 496 (2013)",
+    "seedElo": 1550
+  },
+  {
+    "id": "ziv-C14",
+    "type": "F",
+    "category": "zivocichove",
+    "text": "Aktivní mávavý let vznikl v evoluci nezávisle u:",
+    "options": [
+      "hmyzu, ptakoještěrů, ptáků a plachtících poletuch",
+      "hmyzu, ptakoještěrů, ptáků a netopýrů z řádu letounů",
+      "hmyzu, ptakoještěrů, ptáků a létavců rodu Draco",
+      "hmyzu, ptakoještěrů, ptáků a létajících ryb"
+    ],
+    "correct": 1,
+    "explanation": "Mávavý let, tedy pohon vlastní silou, vznikl čtyřikrát: u hmyzu, ptakoještěrů, ptáků a netopýrů. Pokaždé z jiného výchozího materiálu — křídlo ptakoještěra nese jediný prodloužený prst, netopýr má blánu mezi čtyřmi prsty a pták opeřenou paži. Poletuchy, létavci Draco i létající ryby pouze plachtí.",
+    "source": "Alexander, On the Wing: Insects, Pterosaurs, Birds, Bats and the Evolution of Animal Flight (2015)",
+    "seedElo": 1500
+  },
+  {
+    "id": "ziv-C15",
+    "type": "K",
+    "category": "zivocichove",
+    "text": "Vztah, kdy jeden partner získává a druhý není nijak dotčen, se nazývá:",
+    "options": [
+      "mutualismus, prospěšný pro oba zúčastněné druhy",
+      "parazitismus, kdy jeden druh žije na úkor druhého",
+      "komenzalismus, třeba svijonožci na kůži velryby",
+      "amenzalismus, kdy jeden druh druhého poškozuje"
+    ],
+    "correct": 2,
+    "explanation": "Komenzalismus je vztah plus/nula. V praxi je ale hranice měkká: měření často ukáže, že „nedotčený“ partner nese drobné náklady nebo naopak něco získává. Symbióza je zastřešující pojem pro trvalé soužití a zahrnuje mutualismus, komenzalismus i parazitismus.",
+    "source": "Begon, Townsend & Harper, Ecology: From Individuals to Ecosystems, 4. vydání (2006)",
+    "seedElo": 1450
+  },
+  {
+    "id": "ziv-C16",
+    "type": "F",
+    "category": "zivocichove",
+    "text": "Co mravenci rodu Pseudomyrmex poskytují akáciím výměnou za duté trny a nektar?",
+    "options": [
+      "roznášejí jejich semena do vzdálených mravenišť",
+      "opylují jejich květy při sběru pylu do košíčků",
+      "obohacují půdu dusíkem ze svých odpadních komor",
+      "napadají býložravce a okusují okolní rostliny"
+    ],
+    "correct": 3,
+    "explanation": "Daniel Janzen v 60. letech ukázal, že akácie bez mravenců rychle podlehnou okusu a konkurenci sousedních rostlin: mravenci útočí na býložravce a odstraňují klíčící rostliny v okolí kmene. Akácie jim na oplátku dává duté trny jako hnízdo, nektar a bílkovinná Beltova tělíska.",
+    "source": "Daniel Janzen, Coevolution of mutualism between ants and acacias in Central America, Evolution 20 (1966)",
+    "seedElo": 1500
+  },
+  {
+    "id": "ziv-C17",
+    "type": "F",
+    "category": "zivocichove",
+    "text": "Klaunům umožňuje žít mezi žahavými chapadly sasanky:",
+    "options": [
+      "vrstva hlenu, která nespustí žahavé buňky",
+      "silné šupiny odolné vůči průniku žahavého vlákna",
+      "vrozená imunita vůči všem mořským neurotoxinům",
+      "trvalé odstranění chapadel v okolí jejich úkrytu"
+    ],
+    "correct": 0,
+    "explanation": "Klaun má na kůži zvláštní hlenovou vrstvu, která nespustí chemickou ani dotykovou spoušť žahavých buněk; část ochrany si ryba získá i postupným otíráním o chapadla. Jde o mutualismus — sasanka poskytuje úkryt, klaun ji brání před rybami okusujícími chapadla a zlepšuje jí okysličení vody.",
+    "source": "Fautin, The anemonefish symbiosis: what is known and what is not, Symbiosis 10 (1991)",
+    "seedElo": 1450
+  },
+  {
+    "id": "ziv-C18",
+    "type": "F",
+    "category": "zivocichove",
+    "text": "Pojem klíčový druh zavedl Robert Paine na základě pokusů, v nichž:",
+    "options": [
+      "vysadil vlky do oplocených pastvin v Yellowstonu",
+      "odstraňoval hvězdice ze skal v přílivové zóně",
+      "sledoval kolonie mravenců na akáciích v Keni",
+      "vypouštěl nilské okouny do jezerních zátok"
+    ],
+    "correct": 1,
+    "explanation": "Paine v 60. letech ručně odstraňoval hvězdice Pisaster ochraceus ze skal na pobřeží Washingtonu. Bez nich slávky přerostly vše ostatní a počet druhů v ploše klesl z patnácti na osm. Klíčový druh je tedy takový, jehož vliv na společenstvo je nepoměrně větší, než odpovídá jeho biomase.",
+    "source": "Robert Paine, Food web complexity and species diversity, American Naturalist 100 (1966)",
+    "seedElo": 1500
+  },
+  {
+    "id": "ziv-C19",
+    "type": "F",
+    "category": "zivocichove",
+    "text": "Co novější analýzy říkají o slavném příběhu „vlci se vrátili a proměnili Yellowstone“?",
+    "options": [
+      "data potvrdila, že vlci vrátili řekám původní koryta",
+      "data ukázala, že vlci neměli na losy žádný vliv",
+      "efekt je slabší a promíchaný s dalšími vlivy",
+      "efekt vymizel, jakmile losů začalo opět přibývat"
+    ],
+    "correct": 2,
+    "explanation": "Trofická kaskáda vlk–los–vrba je doložená, ale terénní data ukazují mnohem pestřejší obraz: obnova vrb a topolů je nerovnoměrná, závisí na vodním režimu, bobrech, suchu a lovu člověkem, a proměnu koryt řek nelze připsat vlkům. Příběh se ve veřejné verzi zjednodušil na přímočarou kauzalitu, kterou data nepodpírají.",
+    "source": "Marris, Rethinking predators: Legend of the wolf, Nature 507 (2014); Brice et al., Ecosphere 13 (2022)",
+    "seedElo": 1550
+  },
+  {
+    "id": "ziv-C20",
+    "type": "K",
+    "category": "zivocichove",
+    "text": "Ostrovní pravidlo (Fosterovo) předpovídá, že na izolovaných ostrovech:",
+    "options": [
+      "všichni savci se zmenšují kvůli nedostatku potravy",
+      "všichni savci rostou, protože chybí velcí predátoři",
+      "velikost těla zůstává stejná jako na pevnině",
+      "velcí savci se zmenšují a malí naopak zvětšují"
+    ],
+    "correct": 3,
+    "explanation": "Trpasličí sloni ze Sicílie a Malty nebo člověk floreský ukazují zmenšování velkých druhů kvůli omezeným zdrojům, zatímco hlodavci a plazi na ostrovech rostou, když zmizí predační tlak. Pravidlo platí staticky, nikoli mechanicky — u některých skupin se nepotvrzuje a jeho obecnost se dodnes testuje.",
+    "source": "Lomolino, Body size evolution in insular vertebrates, J. Biogeography 32 (2005)",
+    "seedElo": 1500
+  },
+  {
+    "id": "ziv-C21",
+    "type": "F",
+    "category": "zivocichove",
+    "text": "Nejdelší pravidelnou migraci ze všech živočichů podniká:",
+    "options": [
+      "rybák dlouhoocasý mezi Arktidou a Antarktidou",
+      "keporkak mezi Aljaškou a havajskými vodami",
+      "monarcha stěhovavý mezi Kanadou a Mexikem",
+      "pakůň žíhaný v okruhu Serengeti a Masai Mary"
+    ],
+    "correct": 0,
+    "explanation": "Geolokátory ukázaly, že rybák dlouhoocasý nalétá ročně přes 70 tisíc kilometrů, protože se drží klikatých větrných drah přes Atlantik. Za život tak urazí vzdálenost srovnatelnou s několika cestami na Měsíc a zpět a stráví víc denního světla než kterýkoli jiný živočich.",
+    "source": "Egevang et al., Tracking of Arctic terns reveals longest animal migration, PNAS 107 (2010)",
+    "seedElo": 1450
+  },
+  {
+    "id": "ziv-C22",
+    "type": "K",
+    "category": "zivocichove",
+    "text": "Endemický druh je takový, který:",
+    "options": [
+      "se v dané oblasti vyskytuje jen v zimním období",
+      "se přirozeně vyskytuje pouze v jedné oblasti",
+      "byl do dané oblasti zavlečen člověkem a šíří se",
+      "je v dané oblasti nejhojnějším zástupcem rodu"
+    ],
+    "correct": 1,
+    "explanation": "Endemit je vázaný na jedno vymezené území — může jít o ostrov, jezero, pohoří i jedinou jeskyni. Endemismus je proto vždy vztažen k měřítku: lemuři jsou endemity Madagaskaru, ale některé druhy jen jednoho lesního bloku. Ostrovní endemity patří k nejohroženějším organismům planety.",
+    "source": "Myers et al., Biodiversity hotspots for conservation priorities, Nature 403 (2000)",
+    "seedElo": 1500
+  },
+  {
+    "id": "ziv-C23",
+    "type": "F",
+    "category": "zivocichove",
+    "text": "Nálezy z polské lokality Zachełmie posunuly představu o vzniku čtyřnožců tím, že:",
+    "options": [
+      "obsahovaly kompletní kostru tvora podobného Tiktaalikovi",
+      "prokázaly, že Tiktaalik měl už plně vyvinuté prsty",
+      "šlo o stopy s prsty starší než tělesné fosilie",
+      "datovaly první suchozemské obratlovce do karbonu"
+    ],
+    "correct": 2,
+    "explanation": "Otisky prstnatých končetin ze Zachełmie jsou staré zhruba 395 milionů let, tedy asi o 18 milionů let starší než Tiktaalik a další „přechodné“ formy. Neruší to představu o postupném přechodu na souš, ale posouvá jeho začátek hlouběji a ukazuje, že známé fosilie jsou spíš pozdními přeživšími než přímými předky.",
+    "source": "Niedźwiedzki et al., Tetrapod trackways from the early Middle Devonian period of Poland, Nature 463 (2010)",
+    "seedElo": 1650
+  },
+  {
+    "id": "ziv-C24",
+    "type": "F",
+    "category": "zivocichove",
+    "text": "Přežvýkavci dokážou žít z trávy především proto, že:",
+    "options": [
+      "jejich slinné žlázy produkují enzym štěpící celulózu",
+      "jejich žaludeční kyselina rozkládá celulózu na cukry",
+      "tráva sama obsahuje dost snadno stravitelného škrobu",
+      "mikrobi v bachoru kvasí celulózu na mastné kyseliny"
+    ],
+    "correct": 3,
+    "explanation": "Žádný savec si nevyrábí celulázu. V bachoru krávy žijí bakterie, archea a bachoroví prvoci, kteří celulózu fermentují na těkavé mastné kyseliny — hlavní zdroj energie hostitele — a samotní mikrobi pak slouží jako zdroj bílkovin. Metan uvolňovaný archeami z toho dělá i klimatickou otázku.",
+    "source": "Hess et al., Metagenomic discovery of biomass-degrading genes from cow rumen, Science 331 (2011)",
+    "seedElo": 1600
+  },
+  {
+    "id": "ziv-C25",
+    "type": "F",
+    "category": "zivocichove",
+    "text": "Vymírání velkých savců na konci pleistocénu se mezi kontinenty lišilo tím, že:",
+    "options": [
+      "v Africe přežila megafauna nejlépe ze všech kontinentů",
+      "v Africe vymřela megafauna nejdříve a nejúplněji",
+      "v Austrálii se ztráty omezily jen na mořské savce",
+      "v Severní Americe nevymřel žádný velký savec"
+    ],
+    "correct": 0,
+    "explanation": "Afrika si podržela nejbohatší megafaunu, zatímco Austrálie i obě Ameriky přišly o většinu druhů nad 45 kilogramů. Nejčastější vysvětlení je, že africká zvířata se vyvíjela vedle rodu Homo po miliony let a stihla se přizpůsobit, kdežto jinam přišli lidé náhle. Roli hrály i klimatické zvraty na konci doby ledové a debata o poměru obou vlivů trvá.",
+    "source": "Sandom et al., Global late Quaternary megafauna extinctions linked to humans, Proc. R. Soc. B 281 (2014)",
+    "seedElo": 1650
+  },
+  {
+    "id": "ziv-C26",
+    "type": "F",
+    "category": "zivocichove",
+    "text": "Když se ukáže, že jeden druh byl popsán dvakrát pod různými jmény, platí:",
+    "options": [
+      "jméno, které je latinsky správněji utvořené",
+      "starší z obou jmen, podle zásady priority",
+      "jméno, které používá více odborných publikací",
+      "novější jméno, protože vychází z lepších dat"
+    ],
+    "correct": 1,
+    "explanation": "Mezinárodní kód zoologické nomenklatury staví na prioritě: platné je nejstarší dostupné jméno publikované od roku 1758, mladší se stává synonymem. Kód řeší jen jména, nikoli otázku, co je druh — ta zůstává vědeckým rozhodnutím. Ve výjimečných případech komise starší zapomenuté jméno potlačí ve prospěch zavedeného.",
+    "source": "International Code of Zoological Nomenclature, 4. vydání (ICZN, 1999)",
+    "seedElo": 1600
+  },
+  {
+    "id": "ziv-C27",
+    "type": "F",
+    "category": "zivocichove",
+    "text": "Kryptické druhy jsou druhy, které:",
+    "options": [
+      "žijí skrytě pod zemí a jsou proto málo známé",
+      "mají zbarvení splývající s okolním prostředím",
+      "vypadají stejně, ale geneticky jsou oddělené",
+      "byly popsány, ale jejich existence se nepotvrdila"
+    ],
+    "correct": 2,
+    "explanation": "Kryptické druhy jsou morfologicky téměř nerozlišitelné, ale nekříží se a v genech vycházejí jako samostatné linie. Odhalují je čárové kódy DNA, hlasové projevy nebo ekologie — třeba u netopýrů, žab a hmyzu. Kvůli nim je skutečný počet druhů na Zemi nejspíš výrazně vyšší, než kolik jich je popsáno.",
+    "source": "Bickford et al., Cryptic species as a window on diversity and conservation, TREE 22 (2007)",
+    "seedElo": 1650
+  },
+  {
+    "id": "ziv-C28",
+    "type": "K",
+    "category": "zivocichove",
+    "text": "Základem potravní pyramidy u hlubokomořských hydrotermálních průduchů je:",
+    "options": [
+      "opad organické hmoty klesající z hladinových vrstev",
+      "fotosyntéza řas využívajících záři rozžhavené vody",
+      "rozklad dřeva zanášeného na dno z ústí velkých řek",
+      "chemosyntéza bakterií oxidujících sirovodík"
+    ],
+    "correct": 3,
+    "explanation": "Objev průduchů u Galapág v roce 1977 ukázal celý ekosystém nezávislý na slunci: bakterie získávají energii oxidací sirovodíku a dalších redukovaných sloučenin. Rournatka Riftia nemá ústa ani střevo a živí ji symbiotické bakterie v orgánu zvaném trofozom. Podobná chemosyntéza je hlavním argumentem pro možnost života v oceánech Europy či Enceladu.",
+    "source": "Corliss et al., Submarine thermal springs on the Galápagos Rift, Science 203 (1979)",
+    "seedElo": 1600
+  },
+  {
+    "id": "ziv-C29",
+    "type": "F",
+    "category": "zivocichove",
+    "text": "Struktura, kterou má většina měkkýšů, ale mlži ji druhotně ztratili, je:",
+    "options": [
+      "radula, pásek s řadami chitinových zoubků",
+      "chorda dorsalis probíhající po hřbetní straně",
+      "malpighiho trubice ústící do zadní části střeva",
+      "žahavé buňky rozmístěné po okraji pláště"
+    ],
+    "correct": 0,
+    "explanation": "Radula je strouhací pásek v hltanu, kterým plži seškrabují řasy a dravci vrtají do schránek kořisti; u některých kuželovek se přeměnila v jedovou harpunu. Mlži jako filtrátoři ji ztratili a potravu zachytávají žábrami. Chorda patří strunatcům, malpighiho trubice hmyzu a žahavé buňky žahavcům.",
+    "source": "Ruppert, Fox & Barnes, Invertebrate Zoology, 7. vydání (2004)",
+    "seedElo": 1700
+  },
+  {
+    "id": "ziv-C30",
+    "type": "F",
+    "category": "zivocichove",
+    "text": "V závodech ve zbrojení mezi čolky rodu Taricha a užovkami Thamnophis spočívá odolnost hadů v:",
+    "options": [
+      "enzymu ve slinách, který tetrodotoxin rychle rozkládá",
+      "mutacích sodíkových kanálů, na něž se toxin neváže",
+      "tlusté sliznici jícnu bránící vstřebání toxinu",
+      "symbiotických bakteriích ve střevě štěpících toxin"
+    ],
+    "correct": 1,
+    "explanation": "Tetrodotoxin blokuje napěťově řízené sodíkové kanály. Užovky z oblastí s jedovatými čolky nesou v genu pro tento kanál bodové změny, které vazbu toxinu oslabují — a čolci na to odpovídají vyšší toxicitou. Odolnost však hady stojí rychlost pohybu, což je cena, jež závod brzdí. Zeměpisná mozaika populací je učebnicovým dokladem koevoluce.",
+    "source": "Brodie & Brodie, Predator–prey arms races, BioScience 49 (1999); Feldman et al., PNAS 106 (2009)",
+    "seedElo": 1750
+  },
+  {
+    "id": "ziv-C31",
+    "type": "F",
+    "category": "zivocichove",
+    "text": "Sesterskou skupinou obratlovců jsou podle současné fylogenomiky:",
+    "options": [
+      "kopinatci, tedy bezlebeční s dobře patrnou chordou",
+      "polostrunatci, například žaludovci a křídložábří",
+      "pláštěnci, tedy sumky a jejich pelagičtí příbuzní",
+      "ostnokožci, tedy hvězdice, ježovky a lilijice"
+    ],
+    "correct": 2,
+    "explanation": "Ještě donedávna se za nejbližší příbuzné obratlovců pokládali kopinatci, protože jsou jim tvarově podobní. Genomová data od roku 2006 ukázala opak: nejblíž jsou přisedlé sumky a jejich příbuzní, jejichž larva má chordu a nervovou trubici. Podobnost kopinatce s obratlovcem je tedy zachovaný původní stav, ne důkaz blízkého příbuzenství.",
+    "source": "Delsuc et al., Tunicates and not cephalochordates are the closest living relatives of vertebrates, Nature 439 (2006)",
+    "seedElo": 1750
+  },
+  {
+    "id": "ziv-C32",
+    "type": "F",
+    "category": "zivocichove",
+    "text": "Fylogenomika posledních dvou desetiletí ukázala, že hmyz:",
+    "options": [
+      "je sesterskou skupinou všech korýšů dohromady",
+      "je nejbližší příbuzným stonožek a mnohonožek",
+      "vznikl nezávisle na členovcích z kroužkovců",
+      "vznikl uvnitř korýšů, kteří jsou tak parafyletičtí"
+    ],
+    "correct": 3,
+    "explanation": "Hmyz patří do kladu Pancrustacea a jeho nejbližšími příbuznými jsou drobní korýši ze skupiny Remipedia, žijící v mořských jeskyních. „Korýši“ v tradičním pojetí jsou proto parafyletičtí, stejně jako „ryby“ nebo „plazi“ bez ptáků. Hmyz je tak vlastně suchozemská větev korýšů.",
+    "source": "Regier et al., Arthropod relationships revealed by phylogenomic analysis, Nature 463 (2010); Oakley et al., Mol. Biol. Evol. 30 (2013)",
+    "seedElo": 1750
+  }
+]

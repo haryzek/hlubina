@@ -1,0 +1,514 @@
+[
+  {
+    "id": "ziv-A01",
+    "type": "F",
+    "category": "zivocichove",
+    "text": "Britské sýkorky se od 20. let 20. století šířeji naučily propichovat víčka lahví s mlékem na prazích domů. Etologové tento případ uvádějí jako učebnicový příklad:",
+    "options": [
+      "sociálního učení a kulturního přenosu mezi ptáky",
+      "vrozeného instinktu spuštěného novým podnětem",
+      "klasického podmiňování na zvuk mlékařova vozu",
+      "genetické mutace rozšířené v městských populacích"
+    ],
+    "correct": 0,
+    "explanation": "Fisher a Hinde zmapovali, jak se otvírání lahví od 20. let šířilo Británií v postupně se rozrůstajících ohniscích, tedy způsobem typickým pro předávání mezi jedinci, ne pro nezávislé objevy. Novější pokusy sice ukazují, že sýkory na dovednost dokážou přijít i samy, ale rychlost a geografický vzorec šíření sociální učení potvrzují. Jde o jeden z prvních doložených případů „kultury“ u volně žijících ptáků.",
+    "source": "Fisher, J. & Hinde, R. A.: The opening of milk bottles by birds, British Birds 42 (1949); Aplin et al., Proc. R. Soc. B (2013)",
+    "seedElo": 1350
+  },
+  {
+    "id": "ziv-A02",
+    "type": "F",
+    "category": "zivocichove",
+    "text": "Na japonském ostrůvku Košima začala mladá makačka Imo roku 1953 mýt ve vodě sladké brambory. Co se s tímto zvykem stalo dál?",
+    "options": [
+      "zůstal jen u ní, jiné opice ho nikdy nepřevzaly",
+      "rozšířil se ve skupině a udržel se po generace",
+      "zmizel do roka, protože brambory přestali dodávat",
+      "převzali ho jen staří samci, mláďata nikoli"
+    ],
+    "correct": 1,
+    "explanation": "Zvyk se šířil nejprve na Imoiny vrstevníky a příbuzné a postupně se stal běžnou součástí repertoáru skupiny, přičemž nejpomaleji ho přijímali právě staří samci. Případ se stal klasickým dokladem kulturní tradice u primátů. Pozdější rozbory upozorňují, že šíření bylo pomalejší, než se traduje, a část role hrálo i vlastní zkoušení jednotlivých opic.",
+    "source": "Kawai, M.: Newly acquired pre-cultural behavior of a natural troop of Japanese monkeys on Koshima Islet, Primates 6 (1965)",
+    "seedElo": 1400
+  },
+  {
+    "id": "ziv-A03",
+    "type": "F",
+    "category": "zivocichove",
+    "text": "Vrtivý tanec včely medonosné, který rozluštil Karl von Frisch, sděluje družkám v úlu především:",
+    "options": [
+      "druh květin a jejich barvu na daném stanovišti",
+      "počet dělnic potřebných ke sklizni zdroje",
+      "směr a vzdálenost zdroje potravy od úlu",
+      "výšku slunce nad obzorem v okamžiku návratu"
+    ],
+    "correct": 2,
+    "explanation": "Úhel přímé části tance vůči svislici na plástu odpovídá úhlu zdroje vůči slunci a délka vrtivé fáze roste se vzdáleností. Von Frisch za rozluštění tohoto „jazyka“ dostal roku 1973 Nobelovu cenu. Kvalitu zdroje včela nesděluje obsahem tance, ale jeho vytrvalostí a živostí.",
+    "source": "Karl von Frisch: Tanzsprache und Orientierung der Bienen (1965); Nobelova cena za fyziologii a medicínu 1973",
+    "seedElo": 1300
+  },
+  {
+    "id": "ziv-A04",
+    "type": "F",
+    "category": "zivocichove",
+    "text": "Čerstvě vylíhnuté mládě kukačky obecné se v hnízdě hostitele typicky chová tak, že:",
+    "options": [
+      "klidně vyrůstá vedle vlastních mláďat hostitelského páru",
+      "napodobuje zbarvení mláďat hostitele kvůli krytí",
+      "opouští hnízdo a hledá si vlastní kukaččí rodiče",
+      "vytlačí vejce a mláďata hostitele přes okraj hnízda"
+    ],
+    "correct": 3,
+    "explanation": "Slepé a holé mládě si na záda naloží vejce či sourozence a vysune je z hnízda, takže rodičovskou péči pak dostává samo. Jeho žebrání navíc zvukově napodobuje celou snůšku, čímž hostitele přiměje nosit potravu za několik mláďat. Hostitelé se brání rozpoznáváním cizích vajec, což vede k evolučnímu závodu ve zbrojení a k napodobování vzhledu vajec ze strany kukačky.",
+    "source": "Davies, N. B.: Cuckoo — Cheating by Nature (2015); Kilner, Noble & Davies, Nature 397 (1999)",
+    "seedElo": 1350
+  },
+  {
+    "id": "ziv-A05",
+    "type": "F",
+    "category": "zivocichove",
+    "text": "Kočkodani mají podle Seyfartha a Cheneyové odlišná poplašná volání pro různé predátory. Typická reakce na volání označující orla je:",
+    "options": [
+      "vyběhnout na nejbližší vysoký strom a skrýt se ve větvích",
+      "vzhlédnout k nebi a seběhnout z otevřeného prostranství",
+      "postavit se na zadní a rozhlédnout se po okolní trávě",
+      "shromáždit se do těsného chumlu uprostřed skupiny"
+    ],
+    "correct": 1,
+    "explanation": "Přehrávání nahrávek bez přítomnosti predátora vyvolalo u kočkodanů odlišné a smysluplné úniky: na „leoparda“ vyběhli na strom, na „orla“ hledali kryt při zemi a na „hada“ se stavěli a prohlíželi trávu. Volání tedy fungují jako funkčně referenční signály, které odkazují na typ nebezpečí, ne jen na míru strachu. Mláďata se přesné použití volání teprve učí a zpočátku ho pletou.",
+    "source": "Seyfarth, R. M., Cheney, D. L. & Marler, P., Science 210 (1980)",
+    "seedElo": 1500
+  },
+  {
+    "id": "ziv-A06",
+    "type": "F",
+    "category": "zivocichove",
+    "text": "Zrcadlový test (mark test) Gordona Gallupa zjišťuje, zda zvíře po nenápadném označení barvou na místě, které samo přímo nevidí:",
+    "options": [
+      "zaútočí na svůj odraz v zrcadle jako na cizího soupeře",
+      "dokáže zrcadlem najít potravu ukrytou za zády",
+      "sáhne si na značku na vlastním těle před zrcadlem",
+      "pozná v odrazu známého jedince ze své skupiny"
+    ],
+    "correct": 2,
+    "explanation": "Klíčovým kritériem je chování zaměřené na vlastní tělo, ne na odraz — zvíře musí značku hledat na sobě, což naznačuje, že odraz spojuje se sebou samým. Test opakovaně prošli šimpanzi, orangutani, delfíni, sloni indičtí či straky, zatímco u většiny druhů výsledek vychází záporně. Umět zrcadlo použít jako nástroj k hledání předmětů je jiná, snazší dovednost.",
+    "source": "Gallup, G. G.: Chimpanzees: Self-recognition, Science 167 (1970)",
+    "seedElo": 1400
+  },
+  {
+    "id": "ziv-A07",
+    "type": "K",
+    "category": "zivocichove",
+    "text": "Etolog namítá, že neúspěch psa v zrcadlovém testu ještě neznamená, že psovi chybí jakékoli sebeuvědomění. Která námitka je nejsilnější?",
+    "options": [
+      "psi mají špatný zrak a v zrcadle nevidí prakticky vůbec nic",
+      "test byl navržen pro ptáky, u savců ho nelze vůbec použít",
+      "psi značku vždy okamžitě olížou, což výsledek znehodnotí",
+      "test měří sebepoznání zrakem, ale pes se orientuje hlavně čichem"
+    ],
+    "correct": 3,
+    "explanation": "Zrcadlový test je vázaný na jednu smyslovou modalitu, takže druhu, jehož hlavním kanálem je čich, může křivdit. Proto vznikly čichové obdoby testu, například úloha s vlastním pachem a jeho pozměněnou verzí, v níž psi projevují zvýšený zájem o „označený“ vlastní pach. Negativní výsledek proto znamená jen selhání v konkrétním úkolu, ne prokázanou absenci sebeuvědomění.",
+    "source": "Horowitz, A.: Smelling themselves — Dogs investigate their own odours, Behavioural Processes 143 (2017)",
+    "seedElo": 1650
+  },
+  {
+    "id": "ziv-A08",
+    "type": "F",
+    "category": "zivocichove",
+    "text": "Pokusy Nicoly Claytonové se sojkami křovinnými ukázaly, že si tito ptáci u svých potravních skrýší pamatují:",
+    "options": [
+      "co uložily, kam to uložily a jak dávno to bylo",
+      "pouze polohu skrýše, nikoli její obsah ani stáří",
+      "jen obsah skrýše, který si dohledávají čichem",
+      "výhradně skrýše vytvořené během posledního dne"
+    ],
+    "correct": 0,
+    "explanation": "Sojky si ukládaly červy i ořechy a po krátké prodlevě šly nejdřív pro chutnější červy, zatímco po delší prodlevě, kdy už červi zkazili, mířily rovnou k ořechům. Musely tedy propojit tři složky vzpomínky — co, kde a kdy. Autoři to opatrně nazvali „epizodické paměti podobné“ chování, protože prožitkovou stránku epizodické paměti u zvířete nelze ověřit.",
+    "source": "Clayton, N. S. & Dickinson, A.: Episodic-like memory during cache recovery by scrub jays, Nature 395 (1998)",
+    "seedElo": 1600
+  },
+  {
+    "id": "ziv-A09",
+    "type": "F",
+    "category": "zivocichove",
+    "text": "Raby a spol. (2007) nechávali sojky přespávat střídavě ve dvou komorách, z nichž v jedné ráno pravidelně snídaly a ve druhé hladověly. Když dostaly večer potravu navíc:",
+    "options": [
+      "ukládaly ji přednostně do té komory, kde ráno snídaly",
+      "veškerou potravu snědly ihned a neukládaly nic",
+      "ukládaly ji přednostně do komory, kde ráno hladověly",
+      "ukládaly ji rovnoměrně do obou komor bez rozdílu"
+    ],
+    "correct": 2,
+    "explanation": "Ptáci si dělali zásoby tam, kde by jim ráno chyběly, tedy jednali s ohledem na budoucí potřebu, kterou v okamžiku ukládání neměli. To je pokládáno za jeden z nejsilnějších dokladů plánování do budoucna u zvířat mimo lidoopy. Ve druhé verzi pokusu sojky navíc ukládaly do každé komory ten druh potravy, který tam ráno nebyl k dispozici.",
+    "source": "Raby, C. R. et al.: Planning for the future by western scrub-jays, Nature 445 (2007)",
+    "seedElo": 1700
+  },
+  {
+    "id": "ziv-A10",
+    "type": "F",
+    "category": "zivocichove",
+    "text": "Kakadu Goffinovi dostali v testu odložené odměny kousek potravy, který mohli po vyčkání vyměnit za lákavější. Auerspergová a spol. zjistili, že ptáci:",
+    "options": [
+      "první odměnu vždy okamžitě snědli bez čekání",
+      "čekali jen tehdy, když byla druhá odměna menší",
+      "odmítali brát potravu do zobáku po celou dobu testu",
+      "dokázali čekat desítky sekund na chutnější sousto"
+    ],
+    "correct": 3,
+    "explanation": "Kakadu si drželi méně hodnotný kousek v zobáku a nesnědli ho, dokud nedostali možnost vyměnit ho za lepší, což u některých jedinců vydrželo přes minutu. Ochota čekat přitom klesala s tím, jak se rozdíl v hodnotě odměn zmenšoval — ptáci tedy vážili náklady a zisk. Podobné výsledky mají krkavci i papoušci šedí, což ukazuje, že sebeovládání není výsadou primátů.",
+    "source": "Auersperg, A. M. I. et al.: Delayed gratification in cockatoos, Biology Letters 9 (2013)",
+    "seedElo": 1550
+  },
+  {
+    "id": "ziv-A11",
+    "type": "F",
+    "category": "zivocichove",
+    "text": "Když se u zvířat mluví o „přibližném systému počtu“ (approximate number system), míní se tím schopnost:",
+    "options": [
+      "rozlišit větší a menší množství bez přesného počítání",
+      "přesně sčítat a odčítat čísla do deseti bez chyby",
+      "naučit se lidské číslovky a řadit je ve správném pořadí",
+      "zapamatovat si přesný počet potomků po celý život"
+    ],
+    "correct": 0,
+    "explanation": "Tento systém sdílí člověk s mnoha obratlovci a jeho přesnost se řídí Weberovým zákonem: rozlišení je tím snazší, čím větší je poměr mezi porovnávanými množstvími. Odlišný je systém pro malé počty do zhruba čtyř, kde zvířata i lidé množství rozpoznávají naráz. Přesné počítání se symboly je jiná dovednost, kterou zvládl například papoušek Alex po dlouhém výcviku.",
+    "source": "Nieder, A.: The neuronal code for number, Nature Reviews Neuroscience 17 (2016); Pepperberg, I.: The Alex Studies (1999)",
+    "seedElo": 1500
+  },
+  {
+    "id": "ziv-A12",
+    "type": "F",
+    "category": "zivocichove",
+    "text": "Hra u mláďat savců, tedy honičky a naoko vedené zápasy, se dnes v etologii vysvětluje především jako:",
+    "options": [
+      "bezúčelné plýtvání energií bez evoluční funkce",
+      "nácvik pohybových a sociálních dovedností do dospělosti",
+      "zkrácená forma skutečného boje o pozici ve skupině",
+      "projev přebytku potravy v daném ročním období"
+    ],
+    "correct": 1,
+    "explanation": "Hra je nákladná a riskantní, přesto se udržela napříč savci i ptáky, což ukazuje na její funkci — trénink motoriky, zvládání nečekaných situací a budování sociálních vazeb. Od skutečného boje se liší hravými signály, přehnanými pohyby a tím, že se role střídají. Deprivace hry v pokusech vede k horšímu zvládání stresu a sociálních situací v dospělosti.",
+    "source": "Burghardt, G. M.: The Genesis of Animal Play (2005); Pellis, S. & Pellis, V.: The Playful Brain (2009)",
+    "seedElo": 1450
+  },
+  {
+    "id": "ziv-A13",
+    "type": "F",
+    "category": "zivocichove",
+    "text": "V experimentu Brosnanové a de Waala dostávali kapucíni za stejný úkon nestejné odměny. Opice začala odměnu odmítat, když:",
+    "options": [
+      "dostala hrozen a soused za stejnou práci okurku",
+      "oba dostali okurku, ale ona ji dostala později",
+      "oba dostali hrozen, ale její byl menší než sousedův",
+      "dostala okurku a soused za stejnou práci hrozen"
+    ],
+    "correct": 3,
+    "explanation": "Opice, které do té chvíle okurku ochotně braly, ji po spatření lépe odměněného souseda odhazovaly nebo odmítaly kámen vydat. Autoři to vyložili jako averzi k nevýhodné nerovnosti, tedy zárodek smyslu pro spravedlnost. Výklad je dodnes sporný — část badatelů namítá, že jde spíš o zklamané očekávání vyvolané pouhou přítomností lepší odměny.",
+    "source": "Brosnan, S. F. & de Waal, F. B. M.: Monkeys reject unequal pay, Nature 425 (2003)",
+    "seedElo": 1350
+  },
+  {
+    "id": "ziv-A14",
+    "type": "K",
+    "category": "zivocichove",
+    "text": "Pozorovatel vidí, jak šimpanz krátce po prohrané potyčce dostane objetí od člena skupiny, který se sporu vůbec neúčastnil. Jak tento jev etologie označuje?",
+    "options": [
+      "konsolace, tedy utěšování oběti třetí stranou",
+      "usmíření mezi bývalými soupeři krátce po konfliktu",
+      "koalice namířená proti vítězi celé potyčky",
+      "submisivní gesto oběti vůči vyššímu jedinci"
+    ],
+    "correct": 0,
+    "explanation": "Konsolace se od usmíření liší tím, že iniciativa vychází od nezúčastněného jedince, ne od někoho ze soupeřící dvojice. Kontakt měřitelně snižuje známky stresu u oběti a je považován za doklad empatického zájmu. Popsána byla u šimpanzů, bonobů, slonů, psů i některých krkavcovitých, u makaků naopak chybí.",
+    "source": "de Waal, F. B. M. & van Roosmalen, A., Behavioral Ecology and Sociobiology 5 (1979); Fraser & Bugnyar, PLoS ONE (2010)",
+    "seedElo": 1500
+  },
+  {
+    "id": "ziv-A15",
+    "type": "F",
+    "category": "zivocichove",
+    "text": "Pojmem „taktický klam“ (tactical deception) rozumějí etologové situaci, kdy zvíře:",
+    "options": [
+      "napodobí zbarvením jedovatý druh, a odradí tím predátora",
+      "použije běžné chování mimo obvyklý kontext, aby uvedlo druhého v omyl",
+      "vydá poplašný signál pokaždé, když spatří letícího dravce",
+      "skryje potravu na místě, které si samo nedokáže zapamatovat"
+    ],
+    "correct": 1,
+    "explanation": "Definice Byrna a Whitenové úmyslně nemluví o záměru, ale o funkci: běžný prvek repertoáru se objeví v netypické situaci a vede k tomu, že se druhý jedinec zmýlí. Sem patří falešná poplašná volání u ťuhýků nebo sýkor, jimiž se ptáci dostanou k opuštěné potravě. Morfologická obrana typu mimikry sem nepatří, protože nejde o chování.",
+    "source": "Byrne, R. W. & Whiten, A.: Machiavellian Intelligence (1988); Møller, A. P., Nature 355 (1992)",
+    "seedElo": 1600
+  },
+  {
+    "id": "ziv-A16",
+    "type": "F",
+    "category": "zivocichove",
+    "text": "Místní „dialekty“ v ptačím zpěvu, popsané třeba u strnadce zpěvného, vznikají hlavně tím, že:",
+    "options": [
+      "zpěv je celý zakódován v genech místní populace",
+      "tvar zobáku v každé oblasti dovolí jen určité tóny",
+      "mladí ptáci se zpěvu učí od dospělých sousedů v okolí",
+      "hustota vegetace mění zpěv až při jeho šíření vzduchem"
+    ],
+    "correct": 2,
+    "explanation": "Zpěvní ptáci se předlohu učí v citlivém období od dospělých vzorů a poté ji vlastním zpěvem dolaďují, takže se místní varianty udržují napříč generacemi. Mláďata odchovaná v izolaci vytvoří jen hrubou, druhově typickou kostru zpěvu bez místních rysů. Prostředí ovlivňuje i výběr frekvencí — v hluku měst ptáci zpívají výš — ale to je jiný mechanismus než dialekt.",
+    "source": "Marler, P. & Tamura, M., Science 146 (1964); Catchpole & Slater: Bird Song (2008)",
+    "seedElo": 1450
+  },
+  {
+    "id": "ziv-A17",
+    "type": "K",
+    "category": "zivocichove",
+    "text": "Student se ptá, co projekty jako Washoe nebo Kanzi o jazykových schopnostech lidoopů doopravdy prokázaly. Která formulace odpovídá dnešnímu vědeckému konsenzu? Lidoopi:",
+    "options": [
+      "zvládli stovky symbolů a prosby, ne však rekurzivní skladbu vět",
+      "osvojili si plnohodnotný jazyk včetně skladby vět a časování",
+      "nenaučili se používat vůbec žádný symbol smysluplným způsobem",
+      "zvládli gramatiku, ale nikdy symbol k žádosti nepoužili"
+    ],
+    "correct": 0,
+    "explanation": "Lidoopi prokazatelně zvládli rozsáhlý slovník znaků či lexigramů, používali je k žádostem a komentářům a Kanzi rozuměl i novým mluveným větám. Nedoložilo se však produktivní skládání do vět s gramatickou strukturou; většina jejich „vět“ byla krátká, opakovaná a vázaná na odměnu. Kritika Herberta Terrace u šimpanze Nima navíc ukázala, jak snadno se do hodnocení promítne nechtěné navádění ze strany trenéra.",
+    "source": "Terrace, H. S. et al., Science 206 (1979); Savage-Rumbaugh, S. et al.: Language Comprehension in Ape and Child (1993)",
+    "seedElo": 1750
+  },
+  {
+    "id": "ziv-A18",
+    "type": "F",
+    "category": "zivocichove",
+    "text": "Bonobo Kanzi si lexigramy osvojil způsobem, který výzkumníky překvapil. Jak k tomu došlo?",
+    "options": [
+      "naučil se je až v dospělosti po tisících pokusů",
+      "odpozoroval je, zatímco se je marně učila jeho matka",
+      "byl je cíleně naučen odměňováním potravou od útlého věku",
+      "převzal je od jiného bonoba, který uměl znakovat"
+    ],
+    "correct": 1,
+    "explanation": "Výcvik byl původně určen samici Matatě, která v něm valně neuspěla; Kanzi jako mládě přihlížel a symboly začal používat spontánně, aniž by byl cíleně cvičen. Právě tato spontánnost a pozdější porozumění nově složeným mluveným pokynům patří k nejsilnějším výsledkům celé oblasti. Neznamená to ovšem, že by Kanzi ovládl gramatiku srovnatelnou s lidskou.",
+    "source": "Savage-Rumbaugh, E. S. et al.: Spontaneous symbol acquisition by a pygmy chimpanzee, J. Exp. Psychol. Gen. 115 (1986)",
+    "seedElo": 1700
+  },
+  {
+    "id": "ziv-A19",
+    "type": "F",
+    "category": "zivocichove",
+    "text": "Samci altánníků staví a pečlivě zdobí altány z větviček a barevných předmětů. K čemu altán slouží?",
+    "options": [
+      "je to hnízdo, kde samice vysedí a odchová mláďata sama",
+      "je to zásobárna potravy na období nedostatku",
+      "je to jen scéna námluv, hnízdo staví samice jinde",
+      "je to úkryt celé skupiny před dravými ptáky a zimou"
+    ],
+    "correct": 2,
+    "explanation": "Samice altány obcházejí, porovnávají je a podle jejich kvality a výzdoby si vybírají partnera; po páření odlétají a hnízdo si staví a mláďata vychovávají samy. Někteří altánníci předměty uspořádávají tak, že vzniká zrakový klam měnící vnímanou velikost samce. Jde o učebnicový příklad pohlavního výběru působícího na stavbu, tedy na „rozšířený fenotyp“.",
+    "source": "Borgia, G., Animal Behaviour 33 (1985); Endler, J. A. et al., Current Biology 20 (2010)",
+    "seedElo": 1400
+  },
+  {
+    "id": "ziv-A20",
+    "type": "F",
+    "category": "zivocichove",
+    "text": "Péče o potomstvo je u mořských koníků neobvyklá tím, že:",
+    "options": [
+      "samice nosí oplozené jikry v břišní kapse",
+      "oba rodiče se o snůšku vůbec nestarají",
+      "jikry hlídá nejstarší jedinec z celé skupiny",
+      "samec nosí vyvíjející se potomstvo ve vaku"
+    ],
+    "correct": 3,
+    "explanation": "Samice nakladou jikry do vaku samce, který je oplodní, vyživuje a nakonec vypustí vylíhlá mláďata — jde o nejúplnější formu samčí březosti mezi obratlovci. Protože rozmnožovací kapacitu omezuje samec, obrací se u některých druhů obvyklý vzorec pohlavního výběru a soupeří spíše samice. Podobný vak mají i příbuzné jehly a mořští draci.",
+    "source": "Wilson, A. B. et al.: Male pregnancy in seahorses and pipefishes, Journal of Heredity 92 (2001)",
+    "seedElo": 1350
+  },
+  {
+    "id": "ziv-A21",
+    "type": "F",
+    "category": "zivocichove",
+    "text": "Pojem „klovací pořádek“ zavedl Thorleif Schjelderup-Ebbe ve 20. letech na základě trpělivého pozorování:",
+    "options": [
+      "vlků, u nichž popsal opakované souboje o vedení smečky",
+      "slepic, u nichž popsal lineární pořadí dominance",
+      "paviánů, u nichž popsal koalice mezi dospělými samci",
+      "holubů, u nichž popsal soupeření o hnízdní dutiny"
+    ],
+    "correct": 1,
+    "explanation": "V hejnu slepic zjistil pravidelnou řadu, v níž každý pták klove ty pod sebou a ustupuje těm nad sebou, čímž se počet skutečných soubojů snižuje. Pojem se pak rozšířil na hierarchie u dalších druhů, ačkoli u mnoha z nich pořadí není přísně lineární a mění se podle kontextu a koalic. Zmíněná představa dominantního „alfa vlka“ pochází z pozdějších pozorování zvířat v zajetí a u volně žijících vlků neplatí.",
+    "source": "Schjelderup-Ebbe, T.: Beiträge zur Sozialpsychologie des Haushuhns, Zeitschrift für Psychologie 88 (1922)",
+    "seedElo": 1300
+  },
+  {
+    "id": "ziv-A22",
+    "type": "F",
+    "category": "zivocichove",
+    "text": "Pokusy s přehráváním nahrávek na vyprázdněných revírech ukázaly, že zpěv zpěvných ptáků slouží mimo jiné k tomu, aby:",
+    "options": [
+      "přivolal na revír co nejvíce dalších samců téhož druhu",
+      "zmátl predátory ohledně přesné polohy hnízda v revíru",
+      "odradil sousední samce od obsazení volného revíru",
+      "udržel mláďata pohromadě po celou dobu jejich vývoje"
+    ],
+    "correct": 2,
+    "explanation": "Když badatelé samce odstranili a revír nechali „zpívat“ z reproduktoru, obsazovali ho nově příchozí ptáci znatelně pomaleji než ticho revíry. Zpěv tedy plní dvojí roli: odrazuje soky a zároveň láká samice. Sousedé se navíc podle hlasu poznávají, takže na známého souseda na obvyklém místě reagují mírněji než na cizince — jde o takzvaný efekt „drahého nepřítele“.",
+    "source": "Krebs, J. R., Ashcroft, R. & Webber, M.: Song repertoires and territory defence in the great tit, Nature 271 (1978)",
+    "seedElo": 1450
+  },
+  {
+    "id": "ziv-A23",
+    "type": "F",
+    "category": "zivocichove",
+    "text": "Vydra mořská je známá tím, že si při krmení pomáhá kamenem. Jak přesně ho používá?",
+    "options": [
+      "hází jím po rybách, aby je omráčila u hladiny",
+      "používá jej jako závaží při dlouhých ponorech",
+      "klade si jej na dno hnízda, aby ho chránil před vlnami",
+      "nosí si jej v podpažní kapse a rozbíjí o něj schránky"
+    ],
+    "correct": 3,
+    "explanation": "Vydra plave na zádech, kámen si položí na hruď jako kovadlinu a mlže či ježovky o něj rozbíjí; oblíbený kámen si často schovává v kožní kapse pod přední končetinou. Jde o jeden z nejlépe doložených případů používání nástrojů mimo primáty a ptáky. Sklon k nástrojům se u jednotlivých populací liší podle toho, jak tvrdou kořist loví.",
+    "source": "Hall, K. R. L. & Schaller, G. B., Journal of Mammalogy 45 (1964); Fujii, J. A. et al., Biology Letters 11 (2015)",
+    "seedElo": 1400
+  },
+  {
+    "id": "ziv-A24",
+    "type": "F",
+    "category": "zivocichove",
+    "text": "Wilkinsonův výzkum upírů obecných ukázal, že netopýr, který se nenapil, dostane od jiného vyvrženou krev nejspíš od:",
+    "options": [
+      "těch, kdo mu dříve pomohli, a od příbuzných",
+      "výhradně vlastních mláďat, od nikoho jiného",
+      "kteréhokoli jedince kolonie zcela náhodně",
+      "jen samic, které jsou právě březí nebo kojící"
+    ],
+    "correct": 0,
+    "explanation": "Upír uhyne po dvou až třech nocích bez krmení, takže sdílení má pro příjemce mnohem větší hodnotu než náklad pro dárce. Wilkinson zjistil, že darování předpovídá jak příbuznost, tak předchozí vzájemná pomoc, což odpovídá reciproční altruismu. Dlouhodobá sledování Geralda Cartera potvrdila, že si netopýři budují stabilní pomáhající vztahy trvající roky.",
+    "source": "Wilkinson, G. S.: Reciprocal food sharing in the vampire bat, Nature 308 (1984); Carter, G. & Wilkinson, G., Proc. R. Soc. B (2013)",
+    "seedElo": 1550
+  },
+  {
+    "id": "ziv-A25",
+    "type": "K",
+    "category": "zivocichove",
+    "text": "Mládě uvidí matku u rozkousaného ořechu a začne se ořechy zabývat samo, aniž by kopírovalo její pohyby. Jak se takový typ sociálního učení označuje?",
+    "options": [
+      "pravá imitace, protože mládě kopíruje matčin postup",
+      "emulace cíle, protože mládě kopíruje sled jejích pohybů",
+      "zvýraznění podnětu (stimulus enhancement), ne pravá imitace",
+      "vtiskávání (imprinting) na matku v citlivém období"
+    ],
+    "correct": 2,
+    "explanation": "Zvýraznění podnětu znamená, že chování druhého jen upoutá pozornost k předmětu nebo místu, a zbytek si zvíře objeví samo. Pravá imitace vyžaduje převzetí konkrétní podoby pohybu, emulace zase zaměření na výsledek bez kopírování pohybů. Rozlišit tyto mechanismy je pro tvrzení o zvířecí „kultuře“ zásadní, protože stejné rozšíření dovednosti mohou vysvětlit velmi různé procesy.",
+    "source": "Whiten, A. & Ham, R.: On the nature and evolution of imitation, Advances in the Study of Behavior 21 (1992)",
+    "seedElo": 1650
+  },
+  {
+    "id": "ziv-A26",
+    "type": "F",
+    "category": "zivocichove",
+    "text": "Když etologové mluví o „osobnosti“ zvířat, například o ose bázlivost–smělost u sýkory koňadry, opírají se hlavně o zjištění, že:",
+    "options": [
+      "všichni jedinci druhu reagují na nový podnět stejně",
+      "chování jedince se mění náhodně od pokusu k pokusu",
+      "osobnost lze u zvířat určit jen podle velikosti mozku",
+      "rozdíly mezi jedinci jsou v čase i situacích opakovatelné"
+    ],
+    "correct": 3,
+    "explanation": "Klíčovým měřítkem je opakovatelnost: statistický podíl rozptylu chování připadající na trvalé rozdíly mezi jedinci. U koňader se smělost při průzkumu nového prostředí měří opakovaně, je z části dědičná a předpovídá přežívání i rozmnožovací úspěch podle podmínek roku. Odlišné strategie se proto v populaci udržují vedle sebe, protože žádná není nejlepší za všech okolností.",
+    "source": "Dingemanse, N. J. et al., Proc. R. Soc. B 271 (2004); Réale, D. et al., Biological Reviews 82 (2007)",
+    "seedElo": 1750
+  },
+  {
+    "id": "ziv-A27",
+    "type": "F",
+    "category": "zivocichove",
+    "text": "Noad a spol. popsali u keporkaků u východní Austrálie nápadnou událost, kdy se ve zdejší populaci objevil zpěvní typ ze západního Pacifiku. Jak změna proběhla?",
+    "options": [
+      "samci starou píseň zcela nahradili tou novou během dvou sezón",
+      "novou píseň převzali jen samci narození v dané sezóně",
+      "obě písně se ustálily vedle sebe zhruba napůl populace",
+      "nová píseň se udržela jen několik dní a pak zmizela"
+    ],
+    "correct": 0,
+    "explanation": "Do populace zpívající jednu ustálenou píseň zabloudilo pár samců s odlišným zpěvem a během dvou sezón na jejich verzi přešli prakticky všichni. Autoři jev nazvali „kulturní revolucí“ — jde o rychlou a úplnou výměnu naučené tradice v celé populaci. Písně keporkaků se navíc postupně proměňují a šíří napříč Pacifikem převážně směrem od západu na východ.",
+    "source": "Noad, M. J. et al.: Cultural revolution in whale songs, Nature 408 (2000); Garland, E. C. et al., Current Biology 21 (2011)",
+    "seedElo": 1600
+  },
+  {
+    "id": "ziv-A28",
+    "type": "K",
+    "category": "zivocichove",
+    "text": "Allen a spol. (2013) prošli třicet let pozorování keporkaků a sledovali šíření lovecké techniky „lobtail feeding“. Co jejich síťová analýza ukázala?",
+    "options": [
+      "technika se objevovala nezávisle podle výskytu kořisti v místě",
+      "technika se šířila po vazbách mezi jedinci, tedy sociálním učením",
+      "techniku předávaly výhradně matky svým vlastním mláďatům",
+      "technika se šířila napříč druhy kytovců v celém Atlantiku"
+    ],
+    "correct": 1,
+    "explanation": "Metoda zvaná network-based diffusion analysis porovnává, zda pořadí, v němž se jedinci naučí novinku, lépe vysvětluje jejich sociální síť, nebo samostatný objev. U více než šesti set velryb vyšlo, že novou techniku přebírali především ti, kdo se stýkali s už znalými jedinci. Jde o jeden z nejsilnějších dokladů kulturního přenosu u volně žijících kytovců.",
+    "source": "Allen, J., Weinrich, M., Hoppitt, W. & Rendell, L., Science 340 (2013)",
+    "seedElo": 1750
+  },
+  {
+    "id": "ziv-A29",
+    "type": "F",
+    "category": "zivocichove",
+    "text": "Rutte a Taborsky (2007) zjistili u potkanů, že jedinec, kterému předtím neznámý partner pomohl získat potravu:",
+    "options": [
+      "pomáhá už jen tomu jedinému partnerovi, nikomu dalšímu",
+      "přestává pomáhat komukoli, protože si zvykl na pomoc",
+      "pomáhá jen tehdy, sledují-li ho dominantní jedinci",
+      "pomáhá ochotněji i dalším, zcela neznámým potkanům"
+    ],
+    "correct": 3,
+    "explanation": "Potkani zažívší pomoc pak tahali za páku pro potravu ochotněji, i když šlo o jiného, neznámého jedince — autoři to označili za zobecněnou reciprocitu. Ta nevyžaduje rozpoznávání konkrétních partnerů, stačí, že zkušenost s pomocí zvýší celkovou ochotu pomáhat. Pozdější práce ukázaly, že potkani rozlišují i podle toho, jak hodnotnou pomoc dříve dostali.",
+    "source": "Rutte, C. & Taborsky, M.: Generalized reciprocity in rats, PLoS Biology 5 (2007)",
+    "seedElo": 1550
+  },
+  {
+    "id": "ziv-A30",
+    "type": "F",
+    "category": "zivocichove",
+    "text": "Sherman u syslů Beldingových zjistil, že poplašný signál před pozemním predátorem vydávají mnohem častěji:",
+    "options": [
+      "samice, které mají v okolí žijící příbuzné",
+      "samci, kteří do kolonie nedávno přišli zvenčí",
+      "mláďata, která ještě nemají vlastní noru",
+      "jedinci, kteří jsou nejdál od úkrytu"
+    ],
+    "correct": 0,
+    "explanation": "Volání je nákladné, protože upoutá pozornost dravce, přesto ho vydávají hlavně usedlé samice s příbuznými poblíž, zatímco přistěhovalí samci mlčí. Odpovídá to teorii příbuzenského výběru: chování se vyplácí prostřednictvím přežití nositelů týchž genů. Zajímavé je, že na vzdušného dravce sysli reagují jiným, tenkým hvizdem, jehož rozdělení mezi jedinci se řídí jinou logikou.",
+    "source": "Sherman, P. W.: Nepotism and the evolution of alarm calls, Science 197 (1977)",
+    "seedElo": 1500
+  },
+  {
+    "id": "ziv-A31",
+    "type": "K",
+    "category": "zivocichove",
+    "text": "Velký pes si při hře se štěnětem lehá na záda a kouše jen naznačeně. Jak etologie takové „sebehandicapování“ ve hře vykládá?",
+    "options": [
+      "jde o projev submise vůči výše postavenému jedinci",
+      "udržuje hru v chodu a stvrzuje, že nejde o útok",
+      "jde o nácvik úniku z pozice na zádech při skutečném boji",
+      "jde o chybu v rozpoznání věku a síly hravého partnera"
+    ],
+    "correct": 1,
+    "explanation": "Silnější partner svou převahu úmyslně tlumí a střídá role, protože jinak by slabší hru ukončil; hra tak vyžaduje průběžné vyjednávání a udržování férovosti. Doprovázejí ji zřetelné hravé signály, u psů třeba předklon na předních končetinách. Když se signály poruší nebo je zásah příliš tvrdý, následuje často „omluva“ v podobě opakovaného hravého gesta.",
+    "source": "Bekoff, M.: Social play behaviour, Journal of Consciousness Studies 8 (2001); Bauer & Smuts, Animal Behaviour 73 (2007)",
+    "seedElo": 1550
+  },
+  {
+    "id": "ziv-A32",
+    "type": "K",
+    "category": "zivocichove",
+    "text": "V úloze, kde dva šimpanzi musí táhnout za oba konce provazu současně, aby si přitáhli desku s potravou, se ukázalo, že šimpanzi:",
+    "options": [
+      "táhnou jen tehdy, když je v místnosti člověk",
+      "úlohu nezvládnou nikdy, ani po dlouhém tréninku",
+      "si vybírají za partnera toho, s kým dříve uspěli",
+      "si vybírají partnera náhodně bez ohledu na výsledek"
+    ],
+    "correct": 2,
+    "explanation": "Šimpanzi nejenže se naučili táhnout společně, ale když mohli otevřít dveře jednomu ze dvou možných pomocníků, volili toho, kdo se dříve osvědčil jako zdatnější spolupracovník. Spolupráce ovšem drží jen tehdy, když lze kořist rozdělit — při snadno monopolizovatelné odměně se rozpadá. Volba partnera podle minulé zkušenosti je jednou ze základních podmínek stabilní kooperace.",
+    "source": "Melis, A. P., Hare, B. & Tomasello, M.: Chimpanzees recruit the best collaborators, Science 311 (2006)",
+    "seedElo": 1500
+  }
+]
