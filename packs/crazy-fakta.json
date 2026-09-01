@@ -64,6 +64,70 @@
   "seedElo": 1390
  },
  {
+  "id": "cra-A10",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Slovo „robot“ dal světu Karel Čapek ve hře R.U.R. (1920). Kdo ho ale vymyslel?",
+  "options": [
+   "sám Karel Čapek, a to jako zkratku z latinského laborare",
+   "jeho bratr Josef, malíř; Karel sám chtěl výraz „laboři“",
+   "dramaturg Národního divadla při přípravě premiéry hry",
+   "překladatel prvního anglického vydání R.U.R. z roku 1922"
+  ],
+  "correct": 1,
+  "explanation": "Karel Čapek to sám popsal v Lidových novinách: přišel za bratrem Josefem s tím, že má postavy umělých dělníků a chce jim říkat „laboři“, a Josef mu od štětce zamumlal, ať jsou to roboti. Slovo z domácí roboty tak proniklo prakticky do všech jazyků světa. Je to jedno z mála českých slov s takovou globální kariérou.",
+  "source": "Karel Čapek, „O slovu robot“, Lidové noviny, 24. 12. 1933",
+  "seedElo": 1400
+ },
+ {
+  "id": "cra-B04",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Kdyby Slunce v tuto chvíli zhaslo, na Zemi by se setmělo přibližně za:",
+  "options": [
+   "1 minutu a 40 sekund",
+   "8 minut a 20 sekund",
+   "22 minut a 10 sekund",
+   "43 minut a 30 sekund"
+  ],
+  "correct": 1,
+  "explanation": "Střední vzdálenost Slunce a Země je asi 150 milionů kilometrů a světlo urazí necelých 300 000 km za sekundu, takže cesta trvá zhruba 499 sekund. Slunce tedy vždy vidíme takové, jaké bylo před osmi a půl minutami. Od Měsíce k nám světlo letí jen asi 1,3 sekundy.",
+  "source": "NASA – Sun Fact Sheet, definice astronomické jednotky",
+  "seedElo": 1400
+ },
+ {
+  "id": "cra-C02",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Kolik kostí má novorozenec ve srovnání s dospělým člověkem?",
+  "options": [
+   "asi 250 kostí, dospělý jich má 206",
+   "asi 206 kostí, dospělý jich má 300",
+   "asi 300 kostí, dospělý jich má 206",
+   "asi 180 kostí, dospělý jich má 206"
+  ],
+  "correct": 2,
+  "explanation": "Novorozenec má kolem tří stovek kostí a chrupavčitých základů, které během růstu srůstají, například v lebce, křížové kosti a pánvi. Dospělý jich má obvykle 206, i když se číslo mírně liší kvůli sezamským kůstkám a nadpočetným žebrům. Kostra tedy během dospívání kosti neztrácí, ale spojuje.",
+  "source": "Gray's Anatomy, 42. vydání (2020), kapitola o osteologii",
+  "seedElo": 1400
+ },
+ {
+  "id": "cra-C23",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Husí kůže vzniká stažením drobných svalů u chlupů. K čemu nám tato reakce vlastně je?",
+  "options": [
+   "urychluje odpar potu z povrchu kůže",
+   "pomáhá kůži rychleji vstřebávat teplo",
+   "brání drobným poraněním pokožky",
+   "je pozůstatkem naježení srsti u předků"
+  ],
+  "correct": 3,
+  "explanation": "Vzpřimovače chlupů u savců naježí srst, čímž se zvětší vrstva zadrženého vzduchu a zvíře působí větší. U člověka s redukovaným ochlupením už reflex prakticky nic nezmůže a zůstává jako evoluční relikt spouštěný chladem i silnou emocí. Podobným pozůstatkem je i schopnost hýbat ušima.",
+  "source": "Darwin, C.: The Expression of the Emotions in Man and Animals (1872); Shwartz, Y. et al., Cell 182 (2020)",
+  "seedElo": 1400
+ },
+ {
   "id": "cra-05",
   "type": "F",
   "category": "crazy-fakta",
@@ -77,6 +141,22 @@
   "correct": 2,
   "explanation": "Napoleonova výška byla po smrti zapsána ve francouzských palcích, které jsou o něco delší než anglické – při chybném převodu vyšla zavádějící hodnota 5'2\". Ve skutečnosti měřil asi 168–170 cm, což bylo na přelomu 18. a 19. století zcela běžné.",
   "source": "záznamy z pitvy (1821); rozbory rozdílu francouzského a anglického palce",
+  "seedElo": 1420
+ },
+ {
+  "id": "cra-B02",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Voda je mezi běžnými látkami výjimkou: v pevném skupenství je lehčí než v kapalném. Příčinou je:",
+  "options": [
+   "otevřená hexagonální síť vodíkových vazeb v ledu",
+   "vzduchové bublinky, které v ledu zůstanou uzavřené",
+   "nižší hmotnost molekul vody po zmrznutí kapaliny",
+   "smršťování atomů kyslíku při poklesu teploty pod nulu"
+  ],
+  "correct": 0,
+  "explanation": "Při mrznutí se molekuly vody uspořádají do šestiúhelníkové mřížky držené vodíkovými vazbami, která obsahuje víc prázdného prostoru než neuspořádaná kapalina. Objem proto vzroste zhruba o 9 % a hustota klesne. Bez této anomálie by vodní nádrže promrzaly ode dna.",
+  "source": "IUPAC / standardní fyzikální chemie – struktura ledu Ih",
   "seedElo": 1420
  },
  {
@@ -96,6 +176,118 @@
   "seedElo": 1450
  },
  {
+  "id": "cra-A04",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Firma Nintendo byla založena roku 1889. Čím se tehdy zabývala?",
+  "options": [
+   "výrobou rýžového papíru a levných školních sešitů",
+   "provozem sítě veřejných lázní a hostinců v Kjótu",
+   "výrobou dřevěných hraček a stavebnic pro malé děti",
+   "výrobou ručně malovaných hracích karet hanafuda"
+  ],
+  "correct": 3,
+  "explanation": "Fusadžiró Jamauči začal v Kjótu vyrábět karty hanafuda, populární v době, kdy byly západní karetní hry omezovány kvůli hazardu. K elektronice se firma dostala až v 70. letech 20. století, přes zkoušky s taxislužbou, láskyplnými hotely i instantní rýží. Nintendo tedy prodávalo karty déle, než dosud prodává videohry.",
+  "source": "Nintendo Co., Ltd. — oficiální firemní historie; David Sheff, Game Over (1993)",
+  "seedElo": 1450
+ },
+ {
+  "id": "cra-A07",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Erupce sopky Tambora (1815) způsobila v Evropě „rok bez léta“ 1816. Co se toho studeného deštivého léta zrodilo u Ženevského jezera?",
+  "options": [
+   "Beethovenova Devátá symfonie, dokončená v deštivém ústraní",
+   "první fotografie na světě, pořízená v době mimořádné oblačnosti",
+   "první nápady na Frankensteina a na povídku Upír, praotce žánru",
+   "myšlenka Červeného kříže, zrozená z hladomoru ve Švýcarsku"
+  ],
+  "correct": 2,
+  "explanation": "Sopečný prach ochladil severní polokouli natolik, že společnost kolem Byrona zůstala uvězněná uvnitř vily Diodati a krátila si čas soutěží ve strašidelných příbězích. Mary Shelleyová z toho vytěžila Frankensteina, John Polidori povídku Upír, z níž vyrostla celá upírská literatura. Táž zima přinesla i neúrodu a hladomor v Evropě i Severní Americe.",
+  "source": "Gillen D'Arcy Wood, Tambora: The Eruption That Changed the World (2014); předmluva M. Shelleyové k vydání Frankensteina 1831",
+  "seedElo": 1450
+ },
+ {
+  "id": "cra-A23",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Co přivedlo inženýra Percyho Spencera roku 1945 na myšlenku mikrovlnné trouby?",
+  "options": [
+   "pokus s velmi rychlým ohřevem vody pro posádku ponorky",
+   "porucha rentgenového přístroje, která spálila zásobu filmů",
+   "roztátá čokoládová tyčinka v kapse u běžícího magnetronu",
+   "experiment s konzervací masa pomocí vysokého napětí"
+  ],
+  "correct": 2,
+  "explanation": "Spencer pracoval u firmy Raytheon na magnetronech pro radary a všiml si, že mu u přístroje roztála sladkost v kapse. Následně zkusil ozářit kukuřičná zrna a vejce, což potvrdilo princip; první komerční trouba Radarange vážila přes 300 kilogramů. Mikrovlnka je tedy vedlejším produktem válečného radaru, ne cíleného kuchyňského výzkumu.",
+  "source": "Patent US 2 495 429 (P. Spencer, Raytheon, přihláška 1945); Raytheon Company, firemní historie",
+  "seedElo": 1450
+ },
+ {
+  "id": "cra-B01",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Kdyby existoval dost velký oceán, Saturn by v něm plaval na hladině. Důvodem je, že:",
+  "options": [
+   "je z převážné většiny tvořen vodním ledem",
+   "jeho prstence by fungovaly jako obří plovák",
+   "jeho průměrná hustota je nižší než hustota vody",
+   "jeho rychlá rotace výrazně snižuje efektivní tíhu"
+  ],
+  "correct": 2,
+  "explanation": "Saturn má průměrnou hustotu asi 0,69 g/cm³, tedy nižší než voda (1,0 g/cm³). Je to plynný obr složený hlavně z vodíku a helia, roztažený do obrovského objemu. Je jedinou planetou Sluneční soustavy s hustotou pod hustotou vody.",
+  "source": "NASA – Saturn Fact Sheet (nssdc.gsfc.nasa.gov)",
+  "seedElo": 1450
+ },
+ {
+  "id": "cra-C12",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Proč vůbec vznikl problém roku 2000, takzvaný Y2K?",
+  "options": [
+   "kalendáře v čipech uměly jen 20. století",
+   "systémy měřily čas od roku 1900 v sekundách",
+   "roky se ukládaly jen dvěma číslicemi",
+   "starší procesory neuměly dělit tisícem"
+  ],
+  "correct": 2,
+  "explanation": "V době drahé paměti a děrných štítků se šetřilo každým znakem, takže se rok zapisoval dvojčíslím a po devětadevadesátce hrozil skok na nulu. Opravy stály celosvětově stovky miliard a právě proto se katastrofa nekonala; mluvit o vymyšlené panice je tedy nepřesné. Podobná past čeká 32bitové systémy v roce 2038, kdy přeteče počítadlo sekund.",
+  "source": "U.S. GAO: Year 2000 Computing Challenge, závěrečné zprávy (2000)",
+  "seedElo": 1450
+ },
+ {
+  "id": "cra-C32",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Australský lékař Barry Marshall roku 1984 přesvědčivě podpořil hypotézu, že žaludeční vředy může způsobovat bakterie, tím, že:",
+  "options": [
+   "prozkoumal tisíc vzorků z pitev",
+   "vypil kulturu bakterie sám na sobě",
+   "sledoval pacienty po dobu dvaceti let",
+   "očkoval bakterií laboratorní myši"
+  ],
+  "correct": 1,
+  "explanation": "Marshall vypil kulturu Helicobacter pylori, během několika dní dostal záněty žaludku doložené gastroskopií a vyléčil se antibiotiky. Do té doby platilo, že za vředy může hlavně stres a kyselina a že v žaludku nic nepřežije. S Robinem Warrenem za objev dostal roku 2005 Nobelovu cenu a léčba vředů se změnila z chronické na několikatýdenní.",
+  "source": "Marshall, B. J. et al.: Attempt to fulfil Koch's postulates for pyloric Campylobacter, Medical Journal of Australia 142 (1985); Nobelova cena 2005",
+  "seedElo": 1450
+ },
+ {
+  "id": "cra-B06",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Jaký podíl veškeré vody na Zemi tvoří slaná mořská voda?",
+  "options": [
+   "zhruba 60 procent",
+   "zhruba 78 procent",
+   "zhruba 87 procent",
+   "zhruba 97 procent"
+  ],
+  "correct": 3,
+  "explanation": "Oceány drží asi 97 % veškeré vody planety. Ze zbývajících necelých 3 % sladké vody je většina vázaná v ledovcích a podzemní vodě, takže na řeky a jezera připadá jen zlomek procenta. Snadno dostupná povrchová sladká voda je tedy extrémně vzácná.",
+  "source": "USGS – Where is Earth's Water?",
+  "seedElo": 1470
+ },
+ {
   "id": "cra-07",
   "type": "F",
   "category": "crazy-fakta",
@@ -110,6 +302,118 @@
   "explanation": "Zobrazovací studie mozkové aktivity ukazují, že v průběhu dne se postupně zapojí téměř všechny oblasti mozku, byť ne všechny naráz. Poškození i malé části mozku obvykle vede k citelným funkčním potížím, což by při „90% rezervě“ nedávalo smysl.",
   "source": "neurovědecké přehledy založené na fMRI a PET studiích mozkové aktivity",
   "seedElo": 1480
+ },
+ {
+  "id": "cra-A09",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Jak dopadla australská „emu válka“ z roku 1932, kdy vojáci s kulomety zasáhli proti přemnoženým emu?",
+  "options": [
+   "vojáci operaci po několika týdnech vzdali, ptáci přežili",
+   "emuové byli během měsíce prakticky vyhubeni v celém státě",
+   "operace uspěla a stala se vzorem i pro sousední australské státy",
+   "akce byla hned na začátku zrušena kvůli protestům veřejnosti"
+  ],
+  "correct": 0,
+  "explanation": "Vojáci se dvěma kulomety Lewis se v Západní Austrálii pokoušeli zredukovat desetitisíce emu ničících pšenici, ale ptáci se rozptylovali do malých skupin a rychle utíkali. Po dvou nasazeních a odhadem několika stovkách zabitých kusů byla operace ukončena; velitel poznamenal, že s takovou odolností by emuové obstáli proti jakékoli armádě. Farmářům nakonec pomohly až ploty a odměny za zobáky.",
+  "source": "Australian War Memorial; zprávy majora G. P. W. Meredithe, Ministerstvo obrany Austrálie, 1932",
+  "seedElo": 1480
+ },
+ {
+  "id": "cra-B03",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Největší poušť světa neleží v Africe ani v Asii. Je jí:",
+  "options": [
+   "Sahara se srážkovým úhrnem pod 100 mm",
+   "poušť Gobi na hranici Číny a Mongolska",
+   "arabská poušť Rub al-Chálí ve třech státech",
+   "Antarktida se srážkovým úhrnem pod 200 mm"
+  ],
+  "correct": 3,
+  "explanation": "Poušť se definuje srážkami, ne teplotou: Antarktida má na většině plochy roční úhrn hluboko pod 200 mm a její vnitrozemí patří k nejsušším místům planety. S rozlohou asi 14 milionů km² je zhruba o polovinu větší než Sahara. Jde o studenou, ledovou poušť.",
+  "source": "British Antarctic Survey; WMO klimatologické přehledy",
+  "seedElo": 1480
+ },
+ {
+  "id": "cra-A24",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Bublinková fólie byla roku 1957 vyrobena původně jako:",
+  "options": [
+   "izolace do skleníků; jako obalový materiál se ujala hned",
+   "výplň matrací; obalem se stala až v osmdesátých letech",
+   "plovací pomůcka pro děti, teprve pak se z ní staly obaly",
+   "moderní tapeta na stěny; obal z ní udělal až pozdější nápad"
+  ],
+  "correct": 3,
+  "explanation": "Alfred Fielding a Marc Chavannes svařili dvě plastové fólie s bublinami vzduchu v naději na módní tapetu; jako dekorace propadla a pokus prodávat ji jako izolaci skleníku dopadl také špatně. Teprve když ji roku 1960 nabídli IBM na balení počítačů, našla svůj trh. Firma Sealed Air z toho vyrostla v miliardový podnik.",
+  "source": "Sealed Air Corporation, firemní historie; patent US 3 142 599 (Fielding & Chavannes)",
+  "seedElo": 1500
+ },
+ {
+  "id": "cra-A29",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Co zásadně přispělo k tomu, že se Mona Lisa stala nejslavnějším obrazem světa?",
+  "options": [
+   "roku 1911 ji ukradl zaměstnanec Louvru a pátralo se po ní dva roky",
+   "roku 1911 ji poškodil vandal a restaurování sledoval celý svět",
+   "roku 1867 ji akademie prohlásila za falzum a strhla se dlouhá pře",
+   "roku 1919 ji koupil americký sběratel a Louvre ji musel vykoupit"
+  ],
+  "correct": 0,
+  "explanation": "Italský zaměstnanec Vincenzo Peruggia obraz v srpnu 1911 vynesl pod pláštěm a schovával jej dva roky ve svém pařížském pokoji. Prázdné místo na zdi Louvru přitáhlo davy a fotografie plátna obletěla svět; vyslýchán byl i Picasso a Apollinaire. Mona Lisa byla i předtím ceněná, ale globální ikonou ji udělala až krádež a mediální šílenství kolem ní.",
+  "source": "Musée du Louvre, historie sbírky; Darian Leader, Stealing the Mona Lisa (2002)",
+  "seedElo": 1500
+ },
+ {
+  "id": "cra-B05",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Rusko se rozkládá přes tolik časových pásem, že když je na západě ráno, na východě už končí den. Kolik pásem stát používá?",
+  "options": [
+   "11 časových pásem",
+   "7 časových pásem",
+   "9 časových pásem",
+   "15 časových pásem"
+  ],
+  "correct": 0,
+  "explanation": "Rusko používá jedenáct časových pásem, od UTC+2 v Kaliningradu po UTC+12 na Kamčatce. Je to nejvíc ze všech států, které mají pásma na souvislém území. Francie jich má díky zámořským územím ještě víc, ale roztroušených po celém světě.",
+  "source": "Ruská federální legislativa o výpočtu času (zákon č. 107-FZ)",
+  "seedElo": 1500
+ },
+ {
+  "id": "cra-B07",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Teplota vzduchu v kanálu blesku dosahuje kolem 30 000 °C. Ve srovnání s viditelným povrchem Slunce je to:",
+  "options": [
+   "prakticky stejná teplota",
+   "asi pětkrát vyšší teplota",
+   "asi desetkrát nižší teplota",
+   "asi třikrát nižší teplota"
+  ],
+  "correct": 1,
+  "explanation": "Fotosféra Slunce má asi 5 500 °C, kanál blesku se ohřeje zhruba na 30 000 °C, tedy přibližně pětinásobek. Rozdíl je v tom, že blesk je tenký a trvá zlomek sekundy, takže celkové množství energie je proti Slunci nicotné. Rychlé rozepnutí ohřátého vzduchu slyšíme jako hrom.",
+  "source": "NOAA National Severe Storms Laboratory – Lightning Basics",
+  "seedElo": 1500
+ },
+ {
+  "id": "cra-C18",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Rozsah lidského sluchu se uvádí zhruba 20 Hz až 20 kHz. Co se s ním děje během života?",
+  "options": [
+   "horní hranice se s věkem posouvá výš",
+   "mění se hlavně dolní hranice slyšení",
+   "zůstává stejný, mění se jen hlasitost",
+   "horní hranice s věkem výrazně klesá"
+  ],
+  "correct": 3,
+  "explanation": "Hranice 20 kHz platí zhruba pro dítě; s věkem ubývá vláskových buněk v hlemýždi a horní mez klesá, u lidí kolem šedesátky často pod deset kilohertzů. Tento úbytek, presbyakuze, postihuje nejdřív vysoké tóny, což ztěžuje rozumění řeči v hluku. Vláskové buňky se u savců neobnovují, proto je ztráta trvalá.",
+  "source": "WHO: World Report on Hearing (2021); Gelfand, S.: Hearing – An Introduction to Psychological and Physiological Acoustics",
+  "seedElo": 1500
  },
  {
   "id": "cra-08",
@@ -144,6 +448,134 @@
   "seedElo": 1540
  },
  {
+  "id": "cra-A01",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Který z těchto vynálezů byl patentován dřív než telefon (1876)?",
+  "options": [
+   "přístroj přenášející obraz po drátě, tedy fax (patent 1843)",
+   "gramofon pro mechanický záznam a reprodukci zvuku (1877)",
+   "žárovka s uhlíkovým vláknem v Edisonově podání (1879)",
+   "bezdrátový telegraf pro přenos zpráv na dálku (1896)"
+  ],
+  "correct": 0,
+  "explanation": "Skot Alexander Bain si nechal roku 1843 patentovat elektrický přístroj, který snímal a na dálku obkresloval obraz — princip faxu. Komerční faxová linka mezi Paříží a Lyonem fungovala od roku 1865, tedy jedenáct let před Bellovým telefonem. Chronologie techniky je plná takových přeskoků: složitější věc bývá občas dřív než ta jednodušší.",
+  "source": "Alexander Bain, britský patent č. 9745 (1843); Giovanni Caselli, pantelegraf, linka Paříž–Lyon 1865",
+  "seedElo": 1550
+ },
+ {
+  "id": "cra-A11",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Odkud pochází název měny „dolar“?",
+  "options": [
+   "ze španělského doblónu, zlaté mince ražené v Seville",
+   "z nizozemského daalder, pojmenovaného podle přístavu Delft",
+   "z tolaru, stříbrné mince ražené v českém Jáchymově",
+   "z latinského dolare, „štípat“, podle dělených prutů stříbra"
+  ],
+  "correct": 2,
+  "explanation": "V Jáchymově (německy Joachimsthal) se od roku 1520 razila velká stříbrná mince zvaná joachimsthaler, zkráceně thaler, česky tolar. Název se rozšířil po Evropě a přes nizozemský daalder a španělské stříbrné mince doputoval do Ameriky jako dollar. Peněženka půlky světa tak nosí jméno odvozené od západočeského údolí.",
+  "source": "Oxford English Dictionary, heslo „dollar“; Ústav pro jazyk český AV ČR, etymologie „tolar“",
+  "seedElo": 1550
+ },
+ {
+  "id": "cra-B10",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Nejsilnější zemětřesení naměřené moderními přístroji zasáhlo v roce 1960:",
+  "options": [
+   "Aljašku, magnitudo 9,2",
+   "Chile, magnitudo 9,5",
+   "Japonsko, magnitudo 9,1",
+   "Sumatru, magnitudo 9,1"
+  ],
+  "correct": 1,
+  "explanation": "Zemětřesení u chilské Valdivie z 22. května 1960 mělo momentové magnitudo 9,5 a je nejsilnějším instrumentálně zaznamenaným otřesem v historii. Vyvolalo tsunami, které se přehnalo přes Pacifik až k Havaji a Japonsku. Druhé v pořadí je aljašské zemětřesení z roku 1964 s magnitudem 9,2.",
+  "source": "USGS – Largest Earthquakes in the World",
+  "seedElo": 1550
+ },
+ {
+  "id": "cra-B16",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Nejhlubší známé místo oceánu, Challenger Deep v Marianském příkopu, leží v hloubce zhruba:",
+  "options": [
+   "8 900 metrů pod hladinou",
+   "13 400 metrů pod hladinou",
+   "9 600 metrů pod hladinou",
+   "10 900 metrů pod hladinou"
+  ],
+  "correct": 3,
+  "explanation": "Měření uvádějí pro Challenger Deep hloubku kolem 10 900 metrů, s nejistotou v řádu desítek metrů podle metody. Tlak tam přesahuje 1 000 atmosfér, tedy asi tunu na každý čtvereční centimetr. Místo navštívilo méně lidí než povrch Měsíce.",
+  "source": "NOAA Office of Ocean Exploration; expedice Five Deeps",
+  "seedElo": 1550
+ },
+ {
+  "id": "cra-C01",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Dlouho se opakovalo, že bakterií je v našem těle desetkrát víc než vlastních buněk. Jaký poměr dávají dnešní odhady?",
+  "options": [
+   "1:1, tedy zhruba stejný počet",
+   "10:1 ve prospěch bakterií",
+   "100:1 ve prospěch bakterií",
+   "1:10 ve prospěch lidských buněk"
+  ],
+  "correct": 0,
+  "explanation": "Přepočet Sendera, Fuchse a Mila z roku 2016 dospěl k přibližně 3,8 bilionu bakterií proti asi 3,0 bilionu lidských buněk, tedy k poměru kolem 1,3:1. Starší číslo 10:1 pocházelo z odhadu z roku 1972, který nebyl nikdy pořádně ověřen. Jedna návštěva toalety navíc poměr znatelně posune, protože většina bakterií sídlí v tlustém střevě.",
+  "source": "Sender, R., Fuchs, S., Milo, R.: Revised Estimates for the Number of Human and Bacteria Cells in the Body, PLOS Biology (2016)",
+  "seedElo": 1550
+ },
+ {
+  "id": "cra-C25",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Jak velký je rozdíl v genomu dvou náhodně vybraných lidí?",
+  "options": [
+   "kolem jednoho procenta bází",
+   "zhruba jedna tisícina bází",
+   "asi pět procent všech bází",
+   "kolem tří setin procenta bází"
+  ],
+  "correct": 1,
+  "explanation": "Dva lidé se v jednotlivých písmenech genetického kódu liší přibližně v jedné tisícině, tedy asi 0,1 procenta; když se započtou i delší přeskupení a duplikace, vychází zhruba půl procenta. Lidstvo je tím geneticky pozoruhodně jednotvárné, menší rozdíly než uvnitř jediné populace šimpanzů. Většina té variability navíc leží uvnitř jednotlivých populací, ne mezi nimi.",
+  "source": "1000 Genomes Project Consortium, Nature 526 (2015); Lewontin, R.: The apportionment of human diversity (1972)",
+  "seedElo": 1550
+ },
+ {
+  "id": "cra-C30",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Eliud Kipchoge zaběhl roku 2019 ve Vídni maraton pod dvě hodiny. Proč to není světový rekord?",
+  "options": [
+   "trať byla o něco kratší než 42,195 km",
+   "výkon nebyl změřen oficiálními hodinami",
+   "šlo o akci s vodiči a mimo řádný závod",
+   "startoval mimo svou věkovou kategorii"
+  ],
+  "correct": 2,
+  "explanation": "Čas 1:59:40 padl při speciálně připravené akci, kde se střídaly formace vodičů, vůz promítal ideální tempo a nešlo o otevřený závod, takže pravidla World Athletics uznání vylučují. Trať přitom měla plnou délku a čas byl řádně měřen. Oficiální rekord Kipchoge překonával zvlášť, v Berlíně, s časem nad dvě hodiny.",
+  "source": "World Athletics, pravidla pro uznávání rekordů; INEOS 1:59 Challenge (2019)",
+  "seedElo": 1550
+ },
+ {
+  "id": "cra-A17",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Co obsahují nejstarší dochované mezopotamské texty (asi 3300 př. n. l.)?",
+  "options": [
+   "účetní záznamy o přídělech obilí, piva a o pracovní síle",
+   "modlitby k bohům a popisy obřadů chrámových kněží",
+   "královské zákoníky a soupisy vojenských vítězství panovníka",
+   "mýtus o stvoření světa a vyprávění o velké potopě"
+  ],
+  "correct": 0,
+  "explanation": "Nejstarší tabulky z Uruku jsou skladové a mzdové evidence: kolik obilí komu vydat, kolik piva připadá dělníkům. Písmo tedy nevzniklo kvůli poezii ani zákonům, ale kvůli byrokracii velkých chrámových hospodářství. Literatura přichází až o staletí později, kdy už systém zvládá zapsat i souvislou řeč.",
+  "source": "Hans J. Nissen, Peter Damerow & Robert Englund, Archaic Bookkeeping (1993); Cuneiform Digital Library Initiative",
+  "seedElo": 1560
+ },
+ {
   "id": "cra-10",
   "type": "F",
   "category": "crazy-fakta",
@@ -158,6 +590,54 @@
   "explanation": "Velká zeď je sice extrémně dlouhá, ale jen několik metrů široká, takže z běžné výšky oběžné dráhy (300–400 km) splývá s okolní krajinou. Řada astronautů, včetně čínských, potvrdila, že ji pouhým okem nedokázali rozeznat.",
   "source": "výpovědi astronautů (NASA, CNSA); optika rozlišovací schopnosti lidského oka z orbity",
   "seedElo": 1570
+ },
+ {
+  "id": "cra-A25",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Odkud pochází slovo „kečup“?",
+  "options": [
+   "z názvu jihovýchodoasijské omáčky z kvašených ryb, tedy bez rajčat",
+   "ze jména amerického kuchaře, který omáčku roku 1876 uvedl na trh",
+   "z nahuatlského výrazu pro rajče smíchané s pálivým kořením",
+   "z anglického catch up, tedy „dohnat“, z dobového reklamního sloganu"
+  ],
+  "correct": 0,
+  "explanation": "Slovo pochází z jihočínského či malajského výrazu (kê-tsiap, kecap) pro slanou omáčku z kvašených ryb, kterou do Evropy přinesli námořníci v 17. století. Anglické recepty na ketchup dlouho stavěly na houbách, ořeších nebo ančovičkách; rajčata se přidávají až po roce 1800 a Heinz je zpopularizoval roku 1876. Kečup byl tedy původně příbuzný spíš rybí omáčce než rajčeti.",
+  "source": "Oxford English Dictionary, heslo „ketchup“; Andrew F. Smith, Pure Ketchup (1996)",
+  "seedElo": 1570
+ },
+ {
+  "id": "cra-B18",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Litosférické desky se vůči sobě posouvají rychlostí řádově srovnatelnou s:",
+  "options": [
+   "růstem lidských vlasů, tedy decimetry za rok",
+   "růstem korálového útesu, tedy milimetry za rok",
+   "růstem lidských nehtů, tedy centimetry za rok",
+   "pohybem hodinové ručičky, tedy metry za rok"
+  ],
+  "correct": 2,
+  "explanation": "Typické rychlosti desek se pohybují mezi 2 a 10 centimetry za rok, což zhruba odpovídá růstu nehtů. Za desítky milionů let se z těchto centimetrů poskládají tisíce kilometrů a vzniknou oceány i pohoří. Rychlosti se dnes měří přímo pomocí GPS.",
+  "source": "USGS – Understanding Plate Motions; data ITRF/GNSS",
+  "seedElo": 1570
+ },
+ {
+  "id": "cra-B14",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Křemičitý aerogel patří k nejlehčím pevným látkám. Jeho objem tvoří vzduch zhruba z:",
+  "options": [
+   "zhruba 70 % objemu",
+   "zhruba 85 % objemu",
+   "zhruba 99,8 % objemu",
+   "zhruba 95 % objemu"
+  ],
+  "correct": 2,
+  "explanation": "Nejlehčí křemičité aerogely mají pórovitost kolem 99,8 %, takže pevná kostra tvoří jen nepatrný zlomek objemu. Díky tomu jsou vynikajícími tepelnými izolanty a přesto unesou mnohonásobek vlastní hmotnosti. NASA je používala k záchytu částic kometárního prachu v misi Stardust.",
+  "source": "NASA JPL – Aerogel / mise Stardust",
+  "seedElo": 1580
  },
  {
   "id": "cra-11",
@@ -176,6 +656,182 @@
   "seedElo": 1600
  },
  {
+  "id": "cra-A03",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "V jakém vztahu jsou data narození Anne Frankové a Martina Luthera Kinga?",
+  "options": [
+   "dělí je dvacet let, Anne patřila ke generaci jeho rodičů",
+   "dělí je patnáct let, King byl podstatně starší než ona",
+   "narodili se oba roku 1929, byli tedy přesní vrstevníci",
+   "narodili se oba roku 1912, King byl o pár měsíců mladší"
+  ],
+  "correct": 2,
+  "explanation": "Anne Franková se narodila 12. června 1929, Martin Luther King 15. ledna 1929. Kdyby přežila Bergen-Belsen, bylo by jí v době Kingova projevu „I Have a Dream“ čtyřiatřicet. Symboly různých epoch bývají ve skutečnosti současníci; naše mentální mapa dějin je ale řadí za sebe.",
+  "source": "Anne Frank Stichting, Amsterdam; The King Center, Atlanta — základní biografická data",
+  "seedElo": 1600
+ },
+ {
+  "id": "cra-A06",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Když Británie roku 1752 přešla na gregoriánský kalendář, stalo se co?",
+  "options": [
+   "z února zmizelo deset dní, po 4. únoru následoval 15. únor",
+   "ze září zmizelo jedenáct dní, po 2. září následoval 14. září",
+   "z března zmizel celý týden, po 24. březnu následoval 1. duben",
+   "z prosince zmizelo dvanáct dní a rok skončil už 19. prosince"
+  ],
+  "correct": 1,
+  "explanation": "Kvůli nahromaděnému rozdílu mezi juliánským a gregoriánským kalendářem se přeskočilo jedenáct dní a zároveň se začátek roku přesunul z 25. března na 1. leden. Historicky nedoložené jsou naopak bouřlivé protesty s heslem „vraťte nám našich jedenáct dní“ — tuto představu živí spíš Hogarthův volební obraz z roku 1755 než dobové zprávy.",
+  "source": "Calendar (New Style) Act 1750; Robert Poole, Time's Alteration: Calendar Reform in Early Modern England (1998)",
+  "seedElo": 1600
+ },
+ {
+  "id": "cra-A20",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Co je vlastně napsáno na Rosettské desce, klíči k rozluštění hieroglyfů?",
+  "options": [
+   "dvojjazyčná smlouva mezi Egyptem a Římem o dodávkách obilí a lnu",
+   "seznam faraonů od nejstarších dynastií až po Ptolemaiovce",
+   "náhrobní nápis kněze, zopakovaný v řečtině a v hebrejštině",
+   "kněžský dekret na počest Ptolemaia V., zapsaný třemi písmy"
+  ],
+  "correct": 3,
+  "explanation": "Jde o memfidský dekret z roku 196 př. n. l., kterým kněží potvrzují kult mladého krále a vyjmenovávají daňové úlevy — obsahově celkem úřední text. Cenný je tím, že totéž sdělení je zapsáno hieroglyfy, démotickým písmem a řecky, což Champollionovi umožnilo hieroglyfy rozluštit. Klíč k tisícileté civilizaci tedy poskytla rutinní administrativní listina.",
+  "source": "British Museum, Rosetta Stone (EA 24); Richard Parkinson, Cracking Codes (1999)",
+  "seedElo": 1600
+ },
+ {
+  "id": "cra-B08",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Nejjižnější bod africké pevniny není mys Dobré naděje, ale:",
+  "options": [
+   "Kapský poloostrov s mysem Cape Point",
+   "mys Columbine severně od Kapského Města",
+   "mys Agulhas asi 150 km jihovýchodně od něj",
+   "mys Recife u Port Elizabeth na východě"
+  ],
+  "correct": 2,
+  "explanation": "Nejjižnějším bodem Afriky je mys Agulhas, ležící asi 150 kilometrů jihovýchodně od mysu Dobré naděje. Prochází tudy i oficiální hranice mezi Atlantským a Indickým oceánem. Mys Dobré naděje je slavnější kvůli námořní historii, ne kvůli poloze.",
+  "source": "South African National Parks; IHO – hranice oceánů",
+  "seedElo": 1600
+ },
+ {
+  "id": "cra-B09",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Nepál má časové pásmo, jaké nemá žádný jiný stát na světě. Které to je?",
+  "options": [
+   "UTC+5:30, stejné jako v Indii",
+   "UTC+6:00, sdílené s Bangladéšem",
+   "UTC+5:00, sdílené s Pákistánem",
+   "UTC+5:45, unikátní na světě"
+  ],
+  "correct": 3,
+  "explanation": "Nepál používá posun UTC+5:45, tedy o 15 minut napřed proti Indii. Pásmo je odvozené od místního poledníku poblíž hory Gauríšankar. Je jediným národním časovým pásmem s posunem 45 minut, které používá suverénní stát.",
+  "source": "IANA Time Zone Database – zóna Asia/Kathmandu",
+  "seedElo": 1600
+ },
+ {
+  "id": "cra-B11",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Rok 1816 vešel do dějin jako „rok bez léta“ se sněhem v červnu a neúrodou v Evropě i Severní Americe. Na vině byla:",
+  "options": [
+   "erupce islandské sopky Laki v roce 1783",
+   "erupce Krakatoy v Indonésii v roce 1883",
+   "erupce sopky Tambora v Indonésii roku 1815",
+   "erupce sopky Vesuv v Itálii v roce 1631"
+  ],
+  "correct": 2,
+  "explanation": "Erupce Tambory v dubnu 1815 byla nejsilnější doloženou erupcí moderní historie a vynesla do stratosféry obrovské množství síranového aerosolu. Ten po celý následující rok odrážel sluneční záření a snížil globální teplotu zhruba o půl stupně. Následovaly neúrody a hladomory na několika kontinentech.",
+  "source": "Smithsonian Global Volcanism Program – Tambora 1815",
+  "seedElo": 1600
+ },
+ {
+  "id": "cra-C07",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Co ukazuje dnešní historický výzkum o vzniku klávesového rozložení QWERTY?",
+  "options": [
+   "vzniklo, aby písaře záměrně zpomalilo",
+   "navrhli ho až evropští výrobci kolem 1900",
+   "vzešlo z pokusů o nejrychlejší psaní",
+   "utvářely ho i požadavky telegrafistů"
+  ],
+  "correct": 3,
+  "explanation": "Rozložení se u Sholesových strojů vyvíjelo postupně a badatelé Jasuoka a Jasuoka doložili, že do jeho podoby mluvili telegrafisté přepisující morseovku, kterým šlo o rychlost a spolehlivost rozlišení znaků. Roli hrálo i mechanické oddělení často se potkávajících pák. Populární tvrzení, že cílem bylo písaře úmyslně brzdit, historické prameny nepodpírají.",
+  "source": "Yasuoka, K. & Yasuoka, M.: On the Prehistory of QWERTY, ZINBUN 42 (2011)",
+  "seedElo": 1600
+ },
+ {
+  "id": "cra-C15",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "V klasických pokusech Elizabeth Loftusové stačilo ke zkreslení vzpomínky svědků na dopravní nehodu:",
+  "options": [
+   "ukázat svědkům snímky jiné nehody",
+   "nechat je vypovídat s odstupem let",
+   "změnit jediné sloveso v otázce",
+   "vyplatit jim za výpověď odměnu"
+  ],
+  "correct": 2,
+  "explanation": "Když se místo „když se auta srazila“ zeptali „když se auta roztříštila“, odhadovali svědci vyšší rychlost a po týdnu si častěji vybavovali rozbité sklo, které ve filmu nebylo. Pokus patří k základním dokladům toho, že vzpomínka se při každém vybavení znovu skládá a lze ji podsunutou informací pozměnit. Odtud plyne i opatrnost při vedení výslechů.",
+  "source": "Loftus, E. F. & Palmer, J. C.: Reconstruction of Automobile Destruction, Journal of Verbal Learning and Verbal Behavior 13 (1974)",
+  "seedElo": 1600
+ },
+ {
+  "id": "cra-C27",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Veřejná ukázka první úspěšné narkózy éterem proběhla roku 1846:",
+  "options": [
+   "v Londýně, předvedl ji Joseph Lister",
+   "v Paříži, předvedl ji Louis Pasteur",
+   "v Bostonu, předvedl ji William Morton",
+   "ve Vídni, předvedl ji Theodor Billroth"
+  ],
+  "correct": 2,
+  "explanation": "Zubař William Morton uspal 16. října 1846 v Massachusetts General Hospital pacienta při odstranění nádoru na krku; sál se dodnes jmenuje Ether Dome. Do té doby se operovalo za plného vědomí a rychlost chirurga byla hlavní ctností. Oxid dusný zkoušel předtím Horace Wells, jeho veřejná ukázka ale selhala.",
+  "source": "Massachusetts General Hospital, Ether Dome; Fenster, J. M.: Ether Day (2001)",
+  "seedElo": 1600
+ },
+ {
+  "id": "cra-A26",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Traduje se, že croissant vznikl roku 1683 jako oslava porážky Turků u Vídně. Jak to doopravdy je?",
+  "options": [
+   "je to doloženo v cechovních záznamech vídeňských pekařů z té doby",
+   "je to legenda z 19. století; předchůdcem je vídeňské pečivo kipferl",
+   "platí to jen zčásti: pekaři pečivo upekli až o rok později v Budíně",
+   "croissant vznikl v Paříži už v 15. století a s Vídní vůbec nesouvisí"
+  ],
+  "correct": 1,
+  "explanation": "Historie o pekaři, který zaslechl podkop a upekl pečivo ve tvaru půlměsíce z osmanského praporu, se v pramenech objevuje až v 19. století, žádný dobový doklad neexistuje. Skutečným předkem je rohlíčkovité pečivo kipferl, doložené ve střední Evropě dříve; do Paříže je přinesly vídeňské pekárny v 19. století a croissant z listového těsta je až výdobytek počátku 20. století. Legenda tu vznikla dodatečně jako vysvětlení tvaru.",
+  "source": "Jim Chevallier, August Zang and the French Croissant (2009); Oxford Companion to Food, heslo „croissant“",
+  "seedElo": 1620
+ },
+ {
+  "id": "cra-B19",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Nejvyšší oficiálně uznávaná teplota vzduchu na Zemi byla naměřena v kalifornském Údolí smrti v roce 1913 a činila:",
+  "options": [
+   "52,1 °C",
+   "56,7 °C",
+   "61,4 °C",
+   "58,3 °C"
+  ],
+  "correct": 1,
+  "explanation": "Stanice Furnace Creek zaznamenala 10. července 1913 teplotu 56,7 °C, kterou Světová meteorologická organizace stále vede jako platný rekord. Část klimatologů měření zpochybňuje kvůli tehdejším podmínkám odečtu. Novodobé hodnoty z Údolí smrti se blíží 54 °C.",
+  "source": "WMO – Global Weather & Climate Extremes Archive",
+  "seedElo": 1620
+ },
+ {
   "id": "cra-12",
   "type": "F",
   "category": "crazy-fakta",
@@ -190,6 +846,150 @@
   "explanation": "Doklady o výuce v Oxfordu sahají do roku 1096, tedy více než 300 let před založením aztéckého Trojspolku v roce 1428. Univerzita tak byla starou institucí ještě dřív, než aztécká civilizace vůbec vznikla jako říše.",
   "source": "historie Oxfordské univerzity; mezoamerická historiografie (založení Trojspolku 1428)",
   "seedElo": 1630
+ },
+ {
+  "id": "cra-A05",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Co je na tradičním vyprávění o nizozemské tulipánové mánii (1636–37) podle novějšího bádání mýtus?",
+  "options": [
+   "krach cen zruinoval nizozemskou ekonomiku a vyvolal vlnu sebevražd",
+   "obchodování se soustředilo v úzkém okruhu movitých kupců a řemeslníků",
+   "s cibulemi se běžně obchodovalo formou smluv o budoucí dodávce",
+   "nejdražší byly cibule s pestrým žíháním, které způsobuje virus"
+  ],
+  "correct": 0,
+  "explanation": "Historička Anne Goldgar prošla archivy a nenašla ani vlnu bankrotů, ani jedinou sebevraždu spojenou s krachem cen. Šlo o spekulaci v poměrně úzkém okruhu lidí, kteří si to mohli dovolit, a nizozemská ekonomika si dál vesele vedla. Legendu o zničené zemi rozšířila až moralistní literatura 19. století.",
+  "source": "Anne Goldgar, Tulipmania: Money, Honor, and Knowledge in the Dutch Golden Age (2007)",
+  "seedElo": 1650
+ },
+ {
+  "id": "cra-A13",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Latinské salarium (odtud anglické salary, mzda) souvisí se solí. Co k tomu dodávají historikové?",
+  "options": [
+   "souvislost se solí je jistá, ale výplata soli vojákům doložená není",
+   "legionáři skutečně dostávali místo části žoldu měsíční příděl soli",
+   "sůl byla v Římě státním monopolem a běžně sloužila jako platidlo",
+   "slovo vzniklo až ve středověku z italského salario za obchod se solí"
+  ],
+  "correct": 0,
+  "explanation": "Že salarium souvisí s latinským sal, sůl, je etymologicky nesporné, ale žádný antický pramen nedokládá, že by římští vojáci brali žold v soli. Nejspíš šlo o příspěvek na nákup soli nebo prostě o obecné označení příplatku. Historka „vojáci placení solí“ je pěkný příklad věrohodně znějícího mýtu, který se drží právě proto, že je dobře vyprávěný.",
+  "source": "Peter Gainsford, „Salt and salary: were Roman soldiers paid in salt?“, Kiwi Hellenist (2017); Plinius st., Naturalis historia XXXI",
+  "seedElo": 1650
+ },
+ {
+  "id": "cra-A21",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Jak byla v Evropě přijímána vidlička, když se od 11. století začínala objevovat u stolu?",
+  "options": [
+   "byla odmítána jako zbytečná výstřednost, ba i jako urážka Boha",
+   "byla ihned přijata jako praktičtější náhrada za lžíci a nůž",
+   "byla zákonem vyhrazena jen šlechtě a vysokému duchovenstvu",
+   "byla považována za lékařský nástroj chránící před otravami"
+  ],
+  "correct": 0,
+  "explanation": "Když benátský dóže pojal za ženu byzantskou nevěstu, která jedla malou zlatou vidličkou, kardinál Petr Damiani to odsoudil jako zhýralost — Bůh prý dal člověku prsty. Vidlička se v Itálii prosadila až v 16. století a severně od Alp ještě později; Anglie ji ve větším měřítku přijímá v 17. století. Zdánlivě samozřejmý předmět tak potřeboval pět set let, aby porazil odpor.",
+  "source": "Petrus Damiani, Institutio monialis (11. stol.); Bee Wilson, Consider the Fork (2012)",
+  "seedElo": 1650
+ },
+ {
+  "id": "cra-B13",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Kolonie Pando ve státě Utah je považována za jediný organismus. Tvoří ji:",
+  "options": [
+   "propojená síť kořenů několika druhů borovic",
+   "asi 47 000 geneticky totožných kmenů osiky",
+   "obří houbové podhoubí pod pásem jehličnanů",
+   "kolonie mechů pokrývající svah nad jezerem"
+  ],
+  "correct": 1,
+  "explanation": "Pando je klonální kolonie topolu osikovitého: zhruba 47 000 samostatně vypadajících kmenů roste z jediného propojeného kořenového systému a má identickou genetickou informaci. Rozkládá se asi na 43 hektarech a váží odhadem přes 6 000 tun. Stáří kořenového systému se odhaduje na tisíce let, ale spolehlivě je určit nelze.",
+  "source": "US Forest Service – Fishlake National Forest, Pando",
+  "seedElo": 1650
+ },
+ {
+  "id": "cra-B17",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Aljaška je nejsevernější i nejzápadnější stát USA. Zároveň je ale i:",
+  "options": [
+   "nejvýchodnější, díky Aleutám za 180. poledníkem",
+   "nejjižnější, díky ostrovům v Beringově moři",
+   "nejmenší z hlediska délky pobřežní čáry v USA",
+   "jediný stát bez pevninského spojení se světem"
+  ],
+  "correct": 0,
+  "explanation": "Aleutské ostrovy se táhnou tak daleko na západ, že několik z nich přesáhne 180. poledník a ocitne se formálně na východní polokouli. Aljaška je tak současně nejzápadnějším i nejvýchodnějším státem Unie. Nejjižnějším státem je Havaj.",
+  "source": "US Geological Survey – geografické extrémy USA",
+  "seedElo": 1650
+ },
+ {
+  "id": "cra-C05",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Do provozního deníku počítače Harvard Mark II byla roku 1947 vlepena můra s poznámkou o „prvním skutečném případu nalezeného bugu“. Co z toho plyne?",
+  "options": [
+   "slovo bug tím vzniklo, dřív se nepoužívalo",
+   "šlo o žert, žádná můra ve stroji nebyla",
+   "slovo bug se pro poruchy užívalo už dřív",
+   "poznámku připsal až historik v 70. letech"
+  ],
+  "correct": 2,
+  "explanation": "Vtip té poznámky spočívá právě v tom, že „bug“ jako označení technické závady byl mezi inženýry běžný už v 19. století, například u Edisona. Můra skutečně existovala a byla vytažena z relé, zápis ji ale hlásí jako první doslovný, nikoli první vůbec. Historku později proslavila Grace Hopperová, stránka deníku se dochovala ve sbírkách Smithsonian.",
+  "source": "Log Book, Harvard Mark II, 9. 9. 1947, sbírka Smithsonian Institution / Naval Surface Warfare Center",
+  "seedElo": 1650
+ },
+ {
+  "id": "cra-C06",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Kolik paměti měl počítač Apollo Guidance Computer, který navigoval Apollo 11 k Měsíci?",
+  "options": [
+   "desítky kilobajtů: asi 4 KB RAM a 72 KB ROM",
+   "necelý megabajt: 512 KB RAM a 256 KB ROM",
+   "jednotky kilobajtů: 1 KB RAM a 2 KB ROM",
+   "stovky kilobajtů: 128 KB RAM a 512 KB ROM"
+  ],
+  "correct": 0,
+  "explanation": "AGC měl 2048 šestnáctibitových slov mazatelné paměti, tedy zhruba 4 kilobajty, a 36 864 slov pevné paměti, tedy asi 72 kilobajtů. Pevný program byl doslova upleten z drátků a feritových jádérek, odtud přezdívka rope memory. Rčení, že měl „míň než kalkulačka“, je přesto zavádějící: šlo o robustní počítač reálného času, který zvládal současně několik úloh.",
+  "source": "MIT Instrumentation Laboratory, Apollo Guidance Computer Block II specifikace; NASA History Series",
+  "seedElo": 1650
+ },
+ {
+  "id": "cra-C17",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Jak vypadají sny lidí, kteří jsou slepí od narození?",
+  "options": [
+   "bez obrazů, zato bohaté na zvuky a doteky",
+   "obrazové stejně jako u vidoucích lidí",
+   "obvykle si žádné sny vůbec nepamatují",
+   "objevují se jim jen ve světlých barvách"
+  ],
+  "correct": 0,
+  "explanation": "Lidé nevidomí od narození popisují sny plné zvuků, hmatových vjemů, chutí a pohybu, ale bez zrakových obrazů. Kdo o zrak přišel později, o vizuální složku snů většinou postupně přichází také. Sen tedy pracuje s materiálem, který smysly dodaly, nikoli s obrazem jako povinnou složkou.",
+  "source": "Meaidi, A. et al.: The sensory construction of dreams and nightmare frequency in congenitally blind and late blind individuals, Sleep Medicine 15 (2014)",
+  "seedElo": 1650
+ },
+ {
+  "id": "cra-C29",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Firma Bayer uvedla roku 1899 na trh aspirin. Krátce předtím prodávala pod ochrannou známkou také:",
+  "options": [
+   "kokain jako prostředek proti únavě",
+   "rtuťovou mast na plicní záněty",
+   "arsen jako přípravek na chudokrevnost",
+   "heroin jako lék na kašel a bolest"
+  ],
+  "correct": 3,
+  "explanation": "Heroin byl od roku 1898 značkou Bayeru a prodával se jako údajně nenávykové sedativum proti kašli, mimo jiné pro děti. Návykovost se ukázala rychle a ve dvacátých letech následovaly zákazy; ochranná známka zanikla. Aspirin, tedy kyselina acetylsalicylová, se naopak stal jedním z nejrozšířenějších léků vůbec.",
+  "source": "Sneader, W.: The discovery of heroin, The Lancet 352 (1998)",
+  "seedElo": 1650
  },
  {
   "id": "cra-13",
@@ -224,6 +1024,134 @@
   "seedElo": 1690
  },
  {
+  "id": "cra-A02",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Poslední poprava gilotinou ve Francii (Hamida Djandoubi, Marseille) proběhla ve stejném roce jako:",
+  "options": [
+   "první přistání člověka na Měsíci a festival Woodstock",
+   "premiéra prvního Star Wars a otevření Centre Pompidou",
+   "pád Berlínské zdi a sametová revoluce v Československu",
+   "vyhlášení nezávislosti Alžírska a karibská raketová krize"
+  ],
+  "correct": 1,
+  "explanation": "Djandoubi byl popraven 10. září 1977; Star Wars měly premiéru v květnu 1977 a Centre Pompidou se otevřelo v lednu téhož roku. Francie zrušila trest smrti až roku 1981, takže gilotina byla legálním nástrojem justice ještě v éře osobních počítačů. Vzdálenost minulosti bývá menší, než se zdá.",
+  "source": "Archives de France, poprava H. Djandoubiho 10. 9. 1977; zákon o zrušení trestu smrti ve Francii, 9. 10. 1981",
+  "seedElo": 1700
+ },
+ {
+  "id": "cra-A16",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Čím se liší popis prostoru u mluvčích australského jazyka guugu yimithirr?",
+  "options": [
+   "nemají výrazy pro polohu vůbec a nahrazují je ukazováním",
+   "rozlišují jen „blízko“ a „daleko“, směr nijak nevyjadřují",
+   "užívají výhradně orientaci vůči tělu mluvčího, nikdy vůči krajině",
+   "místo „vlevo/vpravo“ užívají světové strany, i o věcech na stole"
+  ],
+  "correct": 3,
+  "explanation": "Řeknou „mravenec ti leze na jihozápadní nohu“ nebo „posuň šálek na sever“ a udržují si přitom orientaci i v hustém lese nebo po dlouhé jízdě autem. Stephen Levinson ukázal, že tato jazyková volba mění i neverbální paměť a gesta: mluvčí si scény pamatují podle světových stran. Je to jeden z nejlépe doložených případů, kdy jazyk skutečně souvisí se způsobem myšlení.",
+  "source": "Stephen C. Levinson, Space in Language and Cognition (2003), kap. 4; Haviland, „Guugu Yimithirr cardinal directions“ (1998)",
+  "seedElo": 1700
+ },
+ {
+  "id": "cra-A31",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Věta „Nemají chleba? Ať jedí koláče“ se připisuje Marii Antoinettě. Jak je to doopravdy?",
+  "options": [
+   "pronesla ji její matka Marie Terezie za hladomoru v Uhrách",
+   "vymysleli ji revoluční pamfletisté až po jejím zatčení roku 1792",
+   "zapsal ji Rousseau o „velké princezně“ v době, kdy byla ještě dítě",
+   "řekla ji o generaci dřív madame de Pompadour u dvora Ludvíka XV."
+  ],
+  "correct": 2,
+  "explanation": "Rousseau uvádí historku ve Vyznáních v pasáži psané kolem roku 1765, kdy bylo Marii Antoinettě necelých deset let a žila ve Vídni. Připsání královně se objevuje až desetiletí po její popravě a žádný dobový pramen ji s výrokem nespojuje. Původní brioche navíc není koláč, ale sladší pečivo z máslového těsta — vtip věty byl v tom, ať tedy jedí dražší chleba.",
+  "source": "Jean-Jacques Rousseau, Vyznání, kniha VI; Antonia Fraser, Marie Antoinette: The Journey (2001)",
+  "seedElo": 1700
+ },
+ {
+  "id": "cra-B21",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Výbuch Krakatoy v roce 1883 patří k nejhlasitějším doloženým zvukům. Lidé jej slyšeli až:",
+  "options": [
+   "v okolí sopky do vzdálenosti asi 300 km",
+   "na Jávě a Sumatře, asi 800 km daleko",
+   "v Austrálii, zhruba 2 000 km daleko",
+   "na ostrově Rodrigues, přes 4 800 km daleko"
+  ],
+  "correct": 3,
+  "explanation": "Zprávy z ostrova Rodrigues v Indickém oceánu, vzdáleného asi 4 800 kilometrů, popisují dunění připomínající vzdálenou dělostřeleckou palbu. Tlaková vlna z erupce navíc několikrát oběhla zeměkouli a byla zachycena barografy po celém světě. Jde o největší doložený dosah slyšitelného zvuku.",
+  "source": "Royal Society – The Eruption of Krakatoa (1888)",
+  "seedElo": 1700
+ },
+ {
+  "id": "cra-B28",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Průměrná hloubka světového oceánu činí zhruba:",
+  "options": [
+   "1 200 metrů",
+   "3 700 metrů",
+   "6 100 metrů",
+   "8 300 metrů"
+  ],
+  "correct": 1,
+  "explanation": "Průměrná hloubka oceánu se udává kolem 3 700 metrů. Většinu dna netvoří příkopy, ale rozlehlé abysální roviny v hloubkách zhruba 3 000 až 5 000 metrů. Mělké šelfy u pobřeží zabírají jen malý zlomek plochy.",
+  "source": "NOAA National Centers for Environmental Information",
+  "seedElo": 1700
+ },
+ {
+  "id": "cra-C08",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Kdo jako první prolomil šifrování vojenské Enigmy?",
+  "options": [
+   "britský tým v Bletchley Parku roku 1940",
+   "polští matematici z Biura šifer roku 1932",
+   "francouzská rozvědka díky agentovi 1931",
+   "americká kryptoanalýza námořnictva 1942"
+  ],
+  "correct": 1,
+  "explanation": "Marian Rejewski s Jerzym Różyckým a Henrykem Zygalským rozluštili strukturu Enigmy pomocí teorie permutací už roku 1932 a postavili elektromechanické „bomby“. V červenci 1939 předali své výsledky i repliky stroje Britům a Francouzům. Bletchley Park na tomto základu stavěl dál, když Němci šifrování zesílili; francouzský agent Hans-Thilo Schmidt dodal dokumenty, sám ale nic nerozluštil.",
+  "source": "Rejewski, M.: How Polish Mathematicians Deciphered the Enigma, Annals of the History of Computing 3 (1981)",
+  "seedElo": 1700
+ },
+ {
+  "id": "cra-C22",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Šlacha svalu musculus palmaris longus, kterou si řada lidí umí vyklenout na zápěstí, je zvláštní tím, že:",
+  "options": [
+   "vzniká až po dvacátém roce života",
+   "u části lidí zcela chybí, aniž by vadila",
+   "objevuje se jen u vrcholových sportovců",
+   "roste znovu i po chirurgickém odebrání"
+  ],
+  "correct": 1,
+  "explanation": "Sval chybí zhruba desetině až šestině lidí, s velkými rozdíly mezi populacemi, a jeho nepřítomnost nijak neoslabuje sílu stisku. Považuje se za pozůstatek z doby, kdy předkové využívali paži k šplhu. Právě proto ho chirurgové rádi odebírají jako štěp na náhradu jiných šlach.",
+  "source": "Ioannis, D. et al.: Palmaris longus muscle's prevalence in different nations and interesting anatomical variations, Journal of Clinical Medicine Research 7 (2015)",
+  "seedElo": 1700
+ },
+ {
+  "id": "cra-C28",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Warfarin, dodnes užívaný lék na ředění krve, se do medicíny dostal:",
+  "options": [
+   "z bylinné medicíny čínských lékařů",
+   "z výzkumu bojových otravných látek",
+   "jako vedlejší produkt výroby barviv",
+   "z pátrání po příčině krvácení skotu"
+  ],
+  "correct": 3,
+  "explanation": "Ve dvacátých letech hynul ve Spojených státech a Kanadě dobytek na nezastavitelné krvácení a příčinou se ukázala zkažená siláž z komonice, v níž vzniká dikumarol. Z něj odvozená látka se nejprve prodávala jako jed na hlodavce a teprve v padesátých letech se prosadila jako lék. Jako protijed slouží vitamin K, který sráženlivost obnoví.",
+  "source": "Link, K. P.: The discovery of dicumarol and its sequels, Circulation 19 (1959)",
+  "seedElo": 1700
+ },
+ {
   "id": "cra-15",
   "type": "F",
   "category": "crazy-fakta",
@@ -238,6 +1166,54 @@
   "explanation": "Britsko-zanzibarská válka 27. srpna 1896 vypukla kvůli sporu o nástupnictví na zanzibarském trůnu a skončila britským bombardováním sultánova paláce po pouhých 38 minutách kapitulací.",
   "source": "Guinnessova kniha rekordů; historické záznamy britské admirality",
   "seedElo": 1720
+ },
+ {
+  "id": "cra-A22",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Anglický kronikář si na dánských osadnících ve středověké Anglii stěžoval, že:",
+  "options": [
+   "odmítají se mýt a roznášejí po vsích nemoci a nesnesitelný zápach",
+   "se každou sobotu koupou a češou, a tím jim svádějí anglické ženy",
+   "odmítají se stříhat a nosí vlasy až po pás jako pohanští kněží",
+   "spí přes den a všechnu práci vyřizují až po západu slunce"
+  ],
+  "correct": 1,
+  "explanation": "Kronika připisovaná Johnu z Wallingfordu si stěžuje, že Dánové se česali, měnili šaty a v sobotu se koupali, takže byli u anglických žen úspěšnější než domácí muži. Staroseverské označení soboty laugardagr doslova znamená „den koupání“ a dodnes je v skandinávských jazycích živé. Představa špinavého seveřana je tedy spíš pozdější karikaturou než dobovou zkušeností.",
+  "source": "Chronicle attributed to John of Wallingford (13. stol.); staroseverské laugardagr, Cleasby–Vigfusson, Icelandic-English Dictionary",
+  "seedElo": 1720
+ },
+ {
+  "id": "cra-A18",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Za nejstarší známou zákaznickou stížnost se pokládá klínopisná tabulka z Uru (asi 1750 př. n. l.). Čeho se týká?",
+  "options": [
+   "zkaženého piva dodaného chrámové sýpce ve městě Uruk",
+   "nekvalitní mědi a hrubého jednání obchodníka jménem Ea-nasir",
+   "krádeže dobytka sousedem a odmítnutí místního soudce věc řešit",
+   "špatně postaveného domu, který se po jediném roce zbortil"
+  ],
+  "correct": 1,
+  "explanation": "Zákazník jménem Nanni si stěžuje, že mu Ea-nasir poslal špatné měděné ingoty, choval se k jeho poslovi pohrdavě a peníze nevrátil. Tabulka je dnes v Britském muzeu a v Ea-nasirově domě se navíc našly další podobné stížnosti od jiných zákazníků. Za necelé čtyři tisíce let se žánr rozčileného odběratele nezměnil ani v tónu.",
+  "source": "British Museum, tabulka BM 131236, Ur, starobabylonské období",
+  "seedElo": 1730
+ },
+ {
+  "id": "cra-B26",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Měřeno od paty na mořském dně až po vrchol je nejvyšší horou světa:",
+  "options": [
+   "Kilimandžáro v Tanzanii, asi 5 900 metrů",
+   "Denali na Aljašce, zhruba 6 200 metrů",
+   "Aconcagua v Andách, téměř 7 000 metrů",
+   "Mauna Kea na Havaji, přes 10 000 metrů"
+  ],
+  "correct": 3,
+  "explanation": "Havajská Mauna Kea vystupuje nad hladinu jen asi 4 200 metrů, ale její základna leží zhruba 6 000 metrů pod hladinou Pacifiku. Celková výška od paty k vrcholu tak přesahuje 10 000 metrů. Jde o štítovou sopku postavenou z lávy nad havajskou horkou skvrnou.",
+  "source": "USGS Hawaiian Volcano Observatory",
+  "seedElo": 1730
  },
  {
   "id": "cra-16",
@@ -256,6 +1232,86 @@
   "seedElo": 1750
  },
  {
+  "id": "cra-B20",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Nevadské město Reno leží vůči Los Angeles překvapivě:",
+  "options": [
+   "leží přesně na stejném poledníku",
+   "o dvě časová pásma východněji",
+   "jižněji o zhruba sto kilometrů",
+   "západněji, ačkoli leží severněji"
+  ],
+  "correct": 3,
+  "explanation": "Reno má zeměpisnou délku kolem 119,8° západní délky, zatímco Los Angeles asi 118,2°, takže Reno je zhruba o půldruhého stupně západněji. Může za to prudký ohyb kalifornského pobřeží, které se pod San Franciskem stáčí k jihovýchodu. Mapová intuice „sever rovná se východ“ tu selhává.",
+  "source": "USGS Geographic Names Information System – souřadnice měst",
+  "seedElo": 1750
+ },
+ {
+  "id": "cra-C09",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Kdo v roce 1956 odstartoval éru kontejnerové námořní dopravy?",
+  "options": [
+   "britská loděnice hledající levnější trupy",
+   "americká armáda při zásobování v Koreji",
+   "přístav v Rotterdamu kvůli nedostatku míst",
+   "majitel kamionové firmy Malcom McLean"
+  ],
+  "correct": 3,
+  "explanation": "McLean, který vydělal na kamionové dopravě, nechal přestavět tanker Ideal X a v dubnu 1956 s ním poslal padesát osm kontejnerů z Newarku do Houstonu. Náklady na překládku klesly řádově, což proměnilo světový obchod víc než leckterá obchodní smlouva. Normalizované rozměry kontejnerů se prosadily až v 60. letech přes ISO.",
+  "source": "Levinson, M.: The Box (Princeton University Press, 2006)",
+  "seedElo": 1750
+ },
+ {
+  "id": "cra-C26",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Co znamená pojem mitochondriální Eva?",
+  "options": [
+   "ženu, od níž máme mitochondriální DNA",
+   "první ženu druhu Homo sapiens v Africe",
+   "jedinou ženu, která přežila katastrofu",
+   "ženu, s níž žil v jedné době i tzv. Adam"
+  ],
+  "correct": 0,
+  "explanation": "Jde o poslední společnou pramáti všech dnes žijících lidí po nepřerušené mateřské linii, odhadovanou zhruba na sto padesát tisíc let zpět. Nebyla jedinou tehdejší ženou ani první příslušnicí druhu, jen ostatní mateřské linie postupně vymřely. S obdobně definovaným chromozomálním Adamem se navíc nemusela nikdy potkat, odhady jejich stáří se liší o desítky tisíc let.",
+  "source": "Cann, R. L., Stoneking, M., Wilson, A. C.: Mitochondrial DNA and human evolution, Nature 325 (1987); Poznik et al., Science 341 (2013)",
+  "seedElo": 1750
+ },
+ {
+  "id": "cra-A15",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Berlin a Kay (1969) popsali pravidelnost v tom, jak jazyky pojmenovávají barvy. Jaká je?",
+  "options": [
+   "má-li jazyk jen tři základní názvy barev, jsou to černá, bílá a modrá",
+   "pořadí, v jakém základní názvy barev přibývají, se u jazyků liší náhodně",
+   "má-li jazyk jen tři základní názvy barev, jsou to černá, bílá a červená",
+   "každý doložený jazyk světa má nejméně šest základních názvů barev"
+  ],
+  "correct": 2,
+  "explanation": "Základní názvy barev podle nich přibývají v poměrně pevném pořadí: nejdřív tmavá a světlá, pak červená, pak žlutá a zelená, pak modrá a další. Modrá bývá jedním z posledních přírůstků, což vysvětluje, proč řada jazyků dlouho nerozlišovala modrou od zelené — japonské ao dodnes pokrývá obojí. Původní silné tvrzení o univerzalitě bylo později zmírněno, ale trend v datech zůstává.",
+  "source": "Brent Berlin & Paul Kay, Basic Color Terms: Their Universality and Evolution (1969); World Color Survey",
+  "seedElo": 1760
+ },
+ {
+  "id": "cra-B27",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Za běžné pokojové teploty a normálního tlaku platí o dvou formách uhlíku, že:",
+  "options": [
+   "stabilnější formou je grafit, diamant je metastabilní",
+   "stabilnější formou je diamant díky pevnějším vazbám",
+   "obě formy jsou energeticky naprosto rovnocenné",
+   "grafit se samovolně mění na diamant jen pod tlakem"
+  ],
+  "correct": 0,
+  "explanation": "Termodynamicky stabilní formou uhlíku je za normálních podmínek grafit, diamant je pouze metastabilní. Přeměna diamantu na grafit je energeticky výhodná, ale aktivační bariéra je tak vysoká, že za pokojové teploty prakticky neprobíhá. Diamanty proto vydrží miliardy let, přestože „by neměly“.",
+  "source": "Standardní termodynamická data – fázový diagram uhlíku",
+  "seedElo": 1760
+ },
+ {
   "id": "cra-17",
   "type": "F",
   "category": "crazy-fakta",
@@ -270,6 +1326,102 @@
   "explanation": "Vombati produkují trus tvarovaný do kostek díky nerovnoměrné pružnosti stěn poslední části střeva. Kostkový tvar jim pomáhá, aby se trus nekutálel a zůstával na místě, kde jím značkují teritorium. Výzkum tohoto mechanismu získal v roce 2019 Ig Nobelovu cenu.",
   "source": "biomechanický výzkum trávicího traktu vombatů (Ig Nobel Prize 2019)",
   "seedElo": 1780
+ },
+ {
+  "id": "cra-A19",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Sekvoja sestavil kolem roku 1821 písmo pro čerokézštinu. Co je na tom nejpozoruhodnější?",
+  "options": [
+   "písmo vzniklo až po jeho smrti z nedokončených poznámek",
+   "šlo o hláskovou abecedu odvozenou přímo z anglické latinky",
+   "sám neuměl číst ani psát v žádném jazyce, když s prací začal",
+   "písmo se nikdy nerozšířilo a zůstalo jen v úzkém rodinném užití"
+  ],
+  "correct": 2,
+  "explanation": "Sekvoja byl negramotný — z latinky si vypůjčil pouze tvary znaků, ale nepřiřadil jim anglické zvukové hodnoty; vytvořil slabičné písmo o 85 znacích šité na míru čerokézštině. Systém se ujal tak rychle, že gramotnost Čerokíů brzy převyšovala gramotnost okolních osadníků a od roku 1828 vycházely noviny Cherokee Phoenix. Je to jeden z mála doložených případů, kdy jednotlivec vymyslel funkční písmo od nuly.",
+  "source": "Willard Walker & James Sarbaugh, „The Early History of the Cherokee Syllabary“, Ethnohistory 40 (1993)",
+  "seedElo": 1780
+ },
+ {
+  "id": "cra-B24",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Kiribati v roce 1995 posunulo průběh datové hranice. Důsledkem je, že:",
+  "options": [
+   "stát je rozdělen mezi dvě kalendářní data",
+   "jeho východní ostrovy mají pásmo UTC+14",
+   "na jeho území se datum mění dvakrát denně",
+   "stát vůbec nepoužívá letní ani zimní čas"
+  ],
+  "correct": 1,
+  "explanation": "Kiribati se rozkládá přes obrovskou plochu Pacifiku a jeho východní části dříve zaostávaly o celý den za hlavním městem. Posun datové hranice v roce 1995 sjednotil stát do jednoho data a Linovým ostrovům přinesl pásmo UTC+14. Nový rok tak začíná právě tam jako první na světě.",
+  "source": "IANA Time Zone Database – zóna Pacific/Kiritimati",
+  "seedElo": 1780
+ },
+ {
+  "id": "cra-A30",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Za co se na olympijských hrách v letech 1912 až 1948 udělovaly medaile kromě sportu?",
+  "options": [
+   "za letecké akrobatické sestavy a za závody balonů",
+   "za umění — architekturu, literaturu, hudbu a malbu",
+   "za šachy, bridž a další soutěžní hry ducha a strategie",
+   "za vědecké objevy v oblasti tělovýchovy a hygieny"
+  ],
+  "correct": 1,
+  "explanation": "Pierre de Coubertin chtěl vzkřísit antické spojení těla a ducha, a tak se od Stockholmu 1912 soutěžilo v pěti uměleckých oborech s podmínkou sportovní inspirace díla. Sám Coubertin získal roku 1912 zlato za báseň Óda na sport, kterou přihlásil pod pseudonymem. Soutěže skončily po roce 1948, protože se v nich těžko udržela tehdejší zásada amatérismu.",
+  "source": "Richard Stanton, The Forgotten Olympic Art Competitions (2000); Mezinárodní olympijský výbor, oficiální zprávy her 1912–1948",
+  "seedElo": 1800
+ },
+ {
+  "id": "cra-B23",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Obec Baarle na belgicko-nizozemské hranici je mezi geografy proslulá tím, že:",
+  "options": [
+   "leží přesně na hranici, která ji dělí na půl",
+   "hranice mezi státy tudy vede pod zemí tunelem",
+   "belgické exklávy tu obsahují nizozemské enklávy",
+   "obyvatelé si smějí sami volit státní příslušnost"
+  ],
+  "correct": 2,
+  "explanation": "Baarle-Hertog tvoří přes dvacet belgických exkláv obklopených nizozemským územím a uvnitř některých z nich leží ještě nizozemské enklávy druhého řádu. Hranice prochází i skrz jednotlivé domy a bývá vyznačena dlažbou. Vznikla ze středověkých feudálních smluv o pozemcích.",
+  "source": "Nizozemský a belgický hraniční katastr; obec Baarle-Hertog",
+  "seedElo": 1800
+ },
+ {
+  "id": "cra-C10",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Prvním zbožím naskenovaným čárovým kódem v běžném obchodě bylo v roce 1974:",
+  "options": [
+   "balení pracího prášku v Chicagu",
+   "balení žvýkaček Wrigley's v Ohiu",
+   "krabice cereálií v New Jersey",
+   "láhev Coca-Coly v obchodě v Atlantě"
+  ],
+  "correct": 1,
+  "explanation": "Dne 26. června 1974 prošlo pokladnou supermarketu Marsh ve městě Troy v Ohiu balení žvýkaček Wrigley's Juicy Fruit za 67 centů. Žvýkačky nebyly náhoda: mělo se ukázat, že kód lze vytisknout i na malý obal. Onen konkrétní balíček je dnes v muzeu Smithsonian.",
+  "source": "Smithsonian National Museum of American History, sbírka UPC; GS1 historie",
+  "seedElo": 1800
+ },
+ {
+  "id": "cra-C14",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Studie SAMSON (2020) nechala pacienty, kteří kvůli bolestem svalů přestali brát statiny, střídat měsíce s lékem, s placebem a bez tablet. Jak to dopadlo?",
+  "options": [
+   "potíže byly jen v měsících se statinem",
+   "placebo potíže naopak výrazně tlumilo",
+   "bez tablet byly potíže vůbec největší",
+   "potíže byly podobné se statinem i placebem"
+  ],
+  "correct": 3,
+  "explanation": "Zhruba devadesát procent hlášených obtíží se objevilo i v měsících s placebem, což ukazuje na noceboefekt, tedy nepříjemné příznaky vyvolané očekáváním. Po skončení studie se většina účastníků ke statinům vrátila. Neznamená to, že svalové potíže jsou vymyšlené: jsou skutečně prožívané, jen je zpravidla nepůsobí účinná látka.",
+  "source": "Wood, F. A. et al.: N-of-1 Trial of a Statin, Placebo, or No Treatment (SAMSON), New England Journal of Medicine 383 (2020)",
+  "seedElo": 1800
  },
  {
   "id": "cra-18",
@@ -304,6 +1456,70 @@
   "seedElo": 1840
  },
  {
+  "id": "cra-A08",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Datum 30. února se v dějinách skutečně jednou vyskytlo. Kde a proč?",
+  "options": [
+   "v Rusku roku 1918 při přechodu na gregoriánský kalendář",
+   "ve Francii roku 1793 v revolučním kalendáři o třiceti dnech",
+   "v Anglii roku 1752, aby se vyrovnal rozdíl jedenácti dnů",
+   "ve Švédsku roku 1712 při návratu k juliánskému kalendáři"
+  ],
+  "correct": 3,
+  "explanation": "Švédsko se od roku 1700 pokoušelo přejít na gregoriánský kalendář postupným vynecháváním přestupných dnů, ale plán se v chaosu severní války rozpadl. Roku 1712 se země vrátila k juliánskému kalendáři a chybějící den dorovnala tak, že vložila navíc 30. únor. Na gregoriánský kalendář Švédsko nakonec přešlo až roku 1753.",
+  "source": "Švédský Riksarkivet, kalendářní reforma 1700–1712; Rune Norberg, Den svenska kalendern",
+  "seedElo": 1850
+ },
+ {
+  "id": "cra-B30",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Rozptyl světla v atmosféře je nejsilnější pro fialovou barvu. Obloha přesto vypadá modře hlavně proto, že:",
+  "options": [
+   "fialové světlo se v atmosféře zcela pohltí ozonem",
+   "fialová se rozptyluje až vysoko nad troposférou",
+   "modrá se od hladiny oceánů odráží zpět k obloze",
+   "Slunce vyzařuje méně fialové a oko ji hůř vnímá"
+  ],
+  "correct": 3,
+  "explanation": "Rayleighův rozptyl skutečně upřednostňuje nejkratší vlnové délky, ale Slunce vyzařuje ve fialové části spektra méně energie než v modré. Navíc lidské čípky jsou na fialovou podstatně méně citlivé, takže výsledný vjem směsi rozptýleného světla mozek vyhodnotí jako modrou. Barva oblohy je tedy zčásti vlastnost našeho vidění.",
+  "source": "Optika atmosféry – Rayleighův rozptyl a citlivost lidského oka (CIE)",
+  "seedElo": 1850
+ },
+ {
+  "id": "cra-C13",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Co ukázaly studie s takzvaným otevřeným placebem, kde pacient předem ví, že dostává placebo?",
+  "options": [
+   "účinek zcela mizí, jakmile to pacient ví",
+   "část potíží se zmírní i při vědomí pacienta",
+   "pacienti hlásí zhoršení oproti nelečeným",
+   "výsledky se nedaly nikdy zopakovat jinde"
+  ],
+  "correct": 1,
+  "explanation": "Kaptchukova studie u syndromu dráždivého tračníku z roku 2010 a navazující pokusy u chronické bolesti či únavy po léčbě rakoviny našly měřitelné zlepšení i tehdy, když pacient věděl, že bere neúčinnou tabletu. Efekt je zpravidla mírný a týká se subjektivně hodnocených potíží, nikoli objektivních známek nemoci. Placebo tedy nestojí jen na klamu, ale i na rituálu léčby a očekávání.",
+  "source": "Kaptchuk, T. J. et al.: Placebos without Deception, PLoS ONE 5 (2010); metaanalýza Charlesworth et al., J Evid Based Med (2017)",
+  "seedElo": 1850
+ },
+ {
+  "id": "cra-C21",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Jak je to s uložením jazykových center v mozku u leváků?",
+  "options": [
+   "mají je zrcadlově vpravo, opačně než praváci",
+   "mají je rozložená rovnoměrně do obou stran",
+   "většina má centrum vlevo jako praváci",
+   "jazyk u nich sídlí v týlním laloku vzadu"
+  ],
+  "correct": 2,
+  "explanation": "U praváků je jazyk vázán na levou hemisféru asi v šestadevadesáti procentech případů, u leváků zhruba v sedmdesáti až pětasedmdesáti. Zbytek má centra vpravo nebo rozložená oboustranně, což je víc než u praváků, ale zdaleka ne pravidlo. Zrcadlové uspořádání je tedy u leváků menšinová varianta, nikoli norma.",
+  "source": "Knecht, S. et al.: Handedness and hemispheric language dominance in healthy humans, Brain 123 (2000)",
+  "seedElo": 1850
+ },
+ {
   "id": "cra-20",
   "type": "F",
   "category": "crazy-fakta",
@@ -318,5 +1534,69 @@
   "explanation": "Claude Shannon v roce 1950 odhadl počet možných smysluplných šachových partií na přibližně 10^120, zatímco počet atomů v pozorovatelném vesmíru se odhaduje na „jen“ kolem 10^80. Šachových partií je tak o desítky řádů víc, než kolik existuje atomů v celém známém vesmíru.",
   "source": "Claude Shannon, \"Programming a Computer for Playing Chess\" (1950); kosmologické odhady počtu atomů ve vesmíru",
   "seedElo": 1870
+ },
+ {
+  "id": "cra-A27",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Nejhorší doloženou hyperinflaci v dějinách zažilo:",
+  "options": [
+   "Německo roku 1923, kde se ceny zdvojnásobovaly zhruba za tři dny",
+   "Rakousko roku 1922, kde se ceny zdvojnásobovaly zhruba za týden",
+   "Maďarsko roku 1946, kde se ceny zdvojnásobovaly asi za 15 hodin",
+   "Zimbabwe roku 2008, kde se ceny zdvojnásobovaly zhruba za den"
+  ],
+  "correct": 2,
+  "explanation": "Maďarský pengő ztrácel hodnotu tak rychle, že měsíční inflace v červenci 1946 dosáhla řádu 10^16 procent a stát vydal bankovku o nominální hodnotě sto trilionů pengő. Zimbabwe 2008 je druhé v pořadí a Německo 1923, které máme v hlavě jako archetyp, je až třetí. Novou měnu forint zavedlo Maďarsko v srpnu 1946 a inflace se okamžitě zastavila.",
+  "source": "Steve H. Hanke & Nicholas Krus, „World Hyperinflations“, Cato Institute Working Paper (2012)",
+  "seedElo": 1870
+ },
+ {
+  "id": "cra-B29",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Nejstarší dosud nalezený materiál pozemského původu jsou zirkonová zrna z pohoří Jack Hills v Austrálii. Jejich stáří je asi:",
+  "options": [
+   "3,5 miliardy let",
+   "4,4 miliardy let",
+   "2,9 miliardy let",
+   "4,0 miliardy let"
+  ],
+  "correct": 1,
+  "explanation": "Radiometrické datování uranovo-olovnatou metodou dává pro nejstarší zirkony z Jack Hills stáří kolem 4,4 miliardy let, tedy jen zhruba sto milionů let po vzniku Země. Samotná hornina, v níž jsou uloženy, je mnohem mladší, přežila jen odolná zrnka. Naznačují, že na rané Zemi už existovala kapalná voda.",
+  "source": "Valley et al., Nature Geoscience (2014) – Jack Hills zircons",
+  "seedElo": 1880
+ },
+ {
+  "id": "cra-A32",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Výrok „Nesouhlasím s tím, co říkáte, ale budu bránit vaše právo to říkat“ pochází od:",
+  "options": [
+   "Voltaira, a to z jeho dopisu Rousseauovi z roku 1760",
+   "Johna Stuarta Milla, z jeho spisu O svobodě z roku 1859",
+   "Denise Diderota, z předmluvy k Encyklopedii z roku 1751",
+   "Evelyn Beatrice Hallové, jeho životopiskyně, z roku 1906"
+  ],
+  "correct": 3,
+  "explanation": "Anglická autorka píšící pod pseudonymem S. G. Tallentyre větu použila v knize The Friends of Voltaire jako vlastní shrnutí Voltairova postoje k případu Helvétiova spisu, ne jako citát. Sama později vysvětlovala, že to nikdy nemínila jako Voltairova slova. Přesto je to dnes patrně nejcitovanější „Voltairův“ výrok na světě.",
+  "source": "Evelyn Beatrice Hall (S. G. Tallentyre), The Friends of Voltaire (1906), s. 199; její dopis do Modern Language Notes (1935)",
+  "seedElo": 1900
+ },
+ {
+  "id": "cra-C16",
+  "type": "F",
+  "category": "crazy-fakta",
+  "text": "Co se výzkumníkům roku 2021 poprvé podařilo doložit u lucidně snících lidí?",
+  "options": [
+   "odpovídali na otázky pohyby očí přímo ze snu",
+   "dokázali se ve snu probudit na povel z venku",
+   "sen šlo z mozkové aktivity přehrát jako film",
+   "hovořili nahlas srozumitelnými větami ze snu"
+  ],
+  "correct": 0,
+  "explanation": "Čtyři nezávislé laboratoře prokázaly obousměrnou komunikaci: spícímu člověku v REM fázi byla položena otázka, například jednoduchý příklad, a on odpověděl domluvenými pohyby očí nebo stahy obličejových svalů. Odpovědi byly správné častěji, než by odpovídalo náhodě, byť úspěšnost byla nízká. Sen tak přestal být zcela nepřístupný zvenčí.",
+  "source": "Konkoly, K. R. et al.: Real-time dialogue between experimenters and dreamers during REM sleep, Current Biology 31 (2021)",
+  "seedElo": 1900
  }
 ]

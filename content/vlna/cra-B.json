@@ -1,0 +1,514 @@
+[
+  {
+    "id": "cra-B01",
+    "type": "F",
+    "category": "crazy-fakta",
+    "text": "Kdyby existoval dost velký oceán, Saturn by v něm plaval na hladině. Důvodem je, že:",
+    "options": [
+      "je z převážné většiny tvořen vodním ledem",
+      "jeho prstence by fungovaly jako obří plovák",
+      "jeho průměrná hustota je nižší než hustota vody",
+      "jeho rychlá rotace výrazně snižuje efektivní tíhu"
+    ],
+    "correct": 2,
+    "explanation": "Saturn má průměrnou hustotu asi 0,69 g/cm³, tedy nižší než voda (1,0 g/cm³). Je to plynný obr složený hlavně z vodíku a helia, roztažený do obrovského objemu. Je jedinou planetou Sluneční soustavy s hustotou pod hustotou vody.",
+    "source": "NASA – Saturn Fact Sheet (nssdc.gsfc.nasa.gov)",
+    "seedElo": 1450
+  },
+  {
+    "id": "cra-B02",
+    "type": "F",
+    "category": "crazy-fakta",
+    "text": "Voda je mezi běžnými látkami výjimkou: v pevném skupenství je lehčí než v kapalném. Příčinou je:",
+    "options": [
+      "otevřená hexagonální síť vodíkových vazeb v ledu",
+      "vzduchové bublinky, které v ledu zůstanou uzavřené",
+      "nižší hmotnost molekul vody po zmrznutí kapaliny",
+      "smršťování atomů kyslíku při poklesu teploty pod nulu"
+    ],
+    "correct": 0,
+    "explanation": "Při mrznutí se molekuly vody uspořádají do šestiúhelníkové mřížky držené vodíkovými vazbami, která obsahuje víc prázdného prostoru než neuspořádaná kapalina. Objem proto vzroste zhruba o 9 % a hustota klesne. Bez této anomálie by vodní nádrže promrzaly ode dna.",
+    "source": "IUPAC / standardní fyzikální chemie – struktura ledu Ih",
+    "seedElo": 1420
+  },
+  {
+    "id": "cra-B03",
+    "type": "F",
+    "category": "crazy-fakta",
+    "text": "Největší poušť světa neleží v Africe ani v Asii. Je jí:",
+    "options": [
+      "Sahara se srážkovým úhrnem pod 100 mm",
+      "poušť Gobi na hranici Číny a Mongolska",
+      "arabská poušť Rub al-Chálí ve třech státech",
+      "Antarktida se srážkovým úhrnem pod 200 mm"
+    ],
+    "correct": 3,
+    "explanation": "Poušť se definuje srážkami, ne teplotou: Antarktida má na většině plochy roční úhrn hluboko pod 200 mm a její vnitrozemí patří k nejsušším místům planety. S rozlohou asi 14 milionů km² je zhruba o polovinu větší než Sahara. Jde o studenou, ledovou poušť.",
+    "source": "British Antarctic Survey; WMO klimatologické přehledy",
+    "seedElo": 1480
+  },
+  {
+    "id": "cra-B04",
+    "type": "F",
+    "category": "crazy-fakta",
+    "text": "Kdyby Slunce v tuto chvíli zhaslo, na Zemi by se setmělo přibližně za:",
+    "options": [
+      "1 minutu a 40 sekund",
+      "8 minut a 20 sekund",
+      "22 minut a 10 sekund",
+      "43 minut a 30 sekund"
+    ],
+    "correct": 1,
+    "explanation": "Střední vzdálenost Slunce a Země je asi 150 milionů kilometrů a světlo urazí necelých 300 000 km za sekundu, takže cesta trvá zhruba 499 sekund. Slunce tedy vždy vidíme takové, jaké bylo před osmi a půl minutami. Od Měsíce k nám světlo letí jen asi 1,3 sekundy.",
+    "source": "NASA – Sun Fact Sheet, definice astronomické jednotky",
+    "seedElo": 1400
+  },
+  {
+    "id": "cra-B05",
+    "type": "F",
+    "category": "crazy-fakta",
+    "text": "Rusko se rozkládá přes tolik časových pásem, že když je na západě ráno, na východě už končí den. Kolik pásem stát používá?",
+    "options": [
+      "11 časových pásem",
+      "7 časových pásem",
+      "9 časových pásem",
+      "15 časových pásem"
+    ],
+    "correct": 0,
+    "explanation": "Rusko používá jedenáct časových pásem, od UTC+2 v Kaliningradu po UTC+12 na Kamčatce. Je to nejvíc ze všech států, které mají pásma na souvislém území. Francie jich má díky zámořským územím ještě víc, ale roztroušených po celém světě.",
+    "source": "Ruská federální legislativa o výpočtu času (zákon č. 107-FZ)",
+    "seedElo": 1500
+  },
+  {
+    "id": "cra-B06",
+    "type": "F",
+    "category": "crazy-fakta",
+    "text": "Jaký podíl veškeré vody na Zemi tvoří slaná mořská voda?",
+    "options": [
+      "zhruba 60 procent",
+      "zhruba 78 procent",
+      "zhruba 87 procent",
+      "zhruba 97 procent"
+    ],
+    "correct": 3,
+    "explanation": "Oceány drží asi 97 % veškeré vody planety. Ze zbývajících necelých 3 % sladké vody je většina vázaná v ledovcích a podzemní vodě, takže na řeky a jezera připadá jen zlomek procenta. Snadno dostupná povrchová sladká voda je tedy extrémně vzácná.",
+    "source": "USGS – Where is Earth's Water?",
+    "seedElo": 1470
+  },
+  {
+    "id": "cra-B07",
+    "type": "F",
+    "category": "crazy-fakta",
+    "text": "Teplota vzduchu v kanálu blesku dosahuje kolem 30 000 °C. Ve srovnání s viditelným povrchem Slunce je to:",
+    "options": [
+      "prakticky stejná teplota",
+      "asi pětkrát vyšší teplota",
+      "asi desetkrát nižší teplota",
+      "asi třikrát nižší teplota"
+    ],
+    "correct": 1,
+    "explanation": "Fotosféra Slunce má asi 5 500 °C, kanál blesku se ohřeje zhruba na 30 000 °C, tedy přibližně pětinásobek. Rozdíl je v tom, že blesk je tenký a trvá zlomek sekundy, takže celkové množství energie je proti Slunci nicotné. Rychlé rozepnutí ohřátého vzduchu slyšíme jako hrom.",
+    "source": "NOAA National Severe Storms Laboratory – Lightning Basics",
+    "seedElo": 1500
+  },
+  {
+    "id": "cra-B08",
+    "type": "F",
+    "category": "crazy-fakta",
+    "text": "Nejjižnější bod africké pevniny není mys Dobré naděje, ale:",
+    "options": [
+      "Kapský poloostrov s mysem Cape Point",
+      "mys Columbine severně od Kapského Města",
+      "mys Agulhas asi 150 km jihovýchodně od něj",
+      "mys Recife u Port Elizabeth na východě"
+    ],
+    "correct": 2,
+    "explanation": "Nejjižnějším bodem Afriky je mys Agulhas, ležící asi 150 kilometrů jihovýchodně od mysu Dobré naděje. Prochází tudy i oficiální hranice mezi Atlantským a Indickým oceánem. Mys Dobré naděje je slavnější kvůli námořní historii, ne kvůli poloze.",
+    "source": "South African National Parks; IHO – hranice oceánů",
+    "seedElo": 1600
+  },
+  {
+    "id": "cra-B09",
+    "type": "F",
+    "category": "crazy-fakta",
+    "text": "Nepál má časové pásmo, jaké nemá žádný jiný stát na světě. Které to je?",
+    "options": [
+      "UTC+5:30, stejné jako v Indii",
+      "UTC+6:00, sdílené s Bangladéšem",
+      "UTC+5:00, sdílené s Pákistánem",
+      "UTC+5:45, unikátní na světě"
+    ],
+    "correct": 3,
+    "explanation": "Nepál používá posun UTC+5:45, tedy o 15 minut napřed proti Indii. Pásmo je odvozené od místního poledníku poblíž hory Gauríšankar. Je jediným národním časovým pásmem s posunem 45 minut, které používá suverénní stát.",
+    "source": "IANA Time Zone Database – zóna Asia/Kathmandu",
+    "seedElo": 1600
+  },
+  {
+    "id": "cra-B10",
+    "type": "F",
+    "category": "crazy-fakta",
+    "text": "Nejsilnější zemětřesení naměřené moderními přístroji zasáhlo v roce 1960:",
+    "options": [
+      "Aljašku, magnitudo 9,2",
+      "Chile, magnitudo 9,5",
+      "Japonsko, magnitudo 9,1",
+      "Sumatru, magnitudo 9,1"
+    ],
+    "correct": 1,
+    "explanation": "Zemětřesení u chilské Valdivie z 22. května 1960 mělo momentové magnitudo 9,5 a je nejsilnějším instrumentálně zaznamenaným otřesem v historii. Vyvolalo tsunami, které se přehnalo přes Pacifik až k Havaji a Japonsku. Druhé v pořadí je aljašské zemětřesení z roku 1964 s magnitudem 9,2.",
+    "source": "USGS – Largest Earthquakes in the World",
+    "seedElo": 1550
+  },
+  {
+    "id": "cra-B11",
+    "type": "F",
+    "category": "crazy-fakta",
+    "text": "Rok 1816 vešel do dějin jako „rok bez léta“ se sněhem v červnu a neúrodou v Evropě i Severní Americe. Na vině byla:",
+    "options": [
+      "erupce islandské sopky Laki v roce 1783",
+      "erupce Krakatoy v Indonésii v roce 1883",
+      "erupce sopky Tambora v Indonésii roku 1815",
+      "erupce sopky Vesuv v Itálii v roce 1631"
+    ],
+    "correct": 2,
+    "explanation": "Erupce Tambory v dubnu 1815 byla nejsilnější doloženou erupcí moderní historie a vynesla do stratosféry obrovské množství síranového aerosolu. Ten po celý následující rok odrážel sluneční záření a snížil globální teplotu zhruba o půl stupně. Následovaly neúrody a hladomory na několika kontinentech.",
+    "source": "Smithsonian Global Volcanism Program – Tambora 1815",
+    "seedElo": 1600
+  },
+  {
+    "id": "cra-B12",
+    "type": "F",
+    "category": "crazy-fakta",
+    "text": "Nejnižší teplota naměřená přímo na povrchu Země (stanice Vostok v Antarktidě, červenec 1983) činila:",
+    "options": [
+      "−89,2 °C",
+      "−79,2 °C",
+      "−84,6 °C",
+      "−94,7 °C"
+    ],
+    "correct": 0,
+    "explanation": "Na sovětské stanici Vostok naměřili 21. července 1983 teplotu −89,2 °C, což je dodnes oficiální světový rekord z pozemního měření. Ještě nižší hodnoty kolem −93 °C zaznamenaly družice na antarktické plošině, ale ty se jako meteorologický rekord neuznávají. Vostok leží ve výšce přes 3 400 metrů uprostřed ledového štítu.",
+    "source": "WMO – Global Weather & Climate Extremes Archive",
+    "seedElo": 1560
+  },
+  {
+    "id": "cra-B13",
+    "type": "F",
+    "category": "crazy-fakta",
+    "text": "Kolonie Pando ve státě Utah je považována za jediný organismus. Tvoří ji:",
+    "options": [
+      "propojená síť kořenů několika druhů borovic",
+      "asi 47 000 geneticky totožných kmenů osiky",
+      "obří houbové podhoubí pod pásem jehličnanů",
+      "kolonie mechů pokrývající svah nad jezerem"
+    ],
+    "correct": 1,
+    "explanation": "Pando je klonální kolonie topolu osikovitého: zhruba 47 000 samostatně vypadajících kmenů roste z jediného propojeného kořenového systému a má identickou genetickou informaci. Rozkládá se asi na 43 hektarech a váží odhadem přes 6 000 tun. Stáří kořenového systému se odhaduje na tisíce let, ale spolehlivě je určit nelze.",
+    "source": "US Forest Service – Fishlake National Forest, Pando",
+    "seedElo": 1650
+  },
+  {
+    "id": "cra-B14",
+    "type": "F",
+    "category": "crazy-fakta",
+    "text": "Křemičitý aerogel patří k nejlehčím pevným látkám. Jeho objem tvoří vzduch zhruba z:",
+    "options": [
+      "zhruba 70 % objemu",
+      "zhruba 85 % objemu",
+      "zhruba 99,8 % objemu",
+      "zhruba 95 % objemu"
+    ],
+    "correct": 2,
+    "explanation": "Nejlehčí křemičité aerogely mají pórovitost kolem 99,8 %, takže pevná kostra tvoří jen nepatrný zlomek objemu. Díky tomu jsou vynikajícími tepelnými izolanty a přesto unesou mnohonásobek vlastní hmotnosti. NASA je používala k záchytu částic kometárního prachu v misi Stardust.",
+    "source": "NASA JPL – Aerogel / mise Stardust",
+    "seedElo": 1580
+  },
+  {
+    "id": "cra-B15",
+    "type": "F",
+    "category": "crazy-fakta",
+    "text": "Na Merkuru trvá jeden sluneční den déle než jeho vlastní rok. Sluneční den tam trvá:",
+    "options": [
+      "asi 176 pozemských dní",
+      "asi 59 pozemských dní",
+      "asi 88 pozemských dní",
+      "asi 243 pozemských dní"
+    ],
+    "correct": 0,
+    "explanation": "Merkur se otočí kolem osy za 58,6 pozemského dne a oběhne Slunce za 88 dní, ale kvůli kombinaci obou pohybů trvá cyklus od poledne k poledni asi 176 dní. Na jednom slunečním dni se tedy vystřídají dva merkurovské roky. Jde o důsledek rezonance rotace a oběhu v poměru 3:2.",
+    "source": "NASA – Mercury Fact Sheet",
+    "seedElo": 1650
+  },
+  {
+    "id": "cra-B16",
+    "type": "F",
+    "category": "crazy-fakta",
+    "text": "Nejhlubší známé místo oceánu, Challenger Deep v Marianském příkopu, leží v hloubce zhruba:",
+    "options": [
+      "8 900 metrů pod hladinou",
+      "13 400 metrů pod hladinou",
+      "9 600 metrů pod hladinou",
+      "10 900 metrů pod hladinou"
+    ],
+    "correct": 3,
+    "explanation": "Měření uvádějí pro Challenger Deep hloubku kolem 10 900 metrů, s nejistotou v řádu desítek metrů podle metody. Tlak tam přesahuje 1 000 atmosfér, tedy asi tunu na každý čtvereční centimetr. Místo navštívilo méně lidí než povrch Měsíce.",
+    "source": "NOAA Office of Ocean Exploration; expedice Five Deeps",
+    "seedElo": 1550
+  },
+  {
+    "id": "cra-B17",
+    "type": "F",
+    "category": "crazy-fakta",
+    "text": "Aljaška je nejsevernější i nejzápadnější stát USA. Zároveň je ale i:",
+    "options": [
+      "nejvýchodnější, díky Aleutám za 180. poledníkem",
+      "nejjižnější, díky ostrovům v Beringově moři",
+      "nejmenší z hlediska délky pobřežní čáry v USA",
+      "jediný stát bez pevninského spojení se světem"
+    ],
+    "correct": 0,
+    "explanation": "Aleutské ostrovy se táhnou tak daleko na západ, že několik z nich přesáhne 180. poledník a ocitne se formálně na východní polokouli. Aljaška je tak současně nejzápadnějším i nejvýchodnějším státem Unie. Nejjižnějším státem je Havaj.",
+    "source": "US Geological Survey – geografické extrémy USA",
+    "seedElo": 1650
+  },
+  {
+    "id": "cra-B18",
+    "type": "F",
+    "category": "crazy-fakta",
+    "text": "Litosférické desky se vůči sobě posouvají rychlostí řádově srovnatelnou s:",
+    "options": [
+      "růstem lidských vlasů, tedy decimetry za rok",
+      "růstem korálového útesu, tedy milimetry za rok",
+      "růstem lidských nehtů, tedy centimetry za rok",
+      "pohybem hodinové ručičky, tedy metry za rok"
+    ],
+    "correct": 2,
+    "explanation": "Typické rychlosti desek se pohybují mezi 2 a 10 centimetry za rok, což zhruba odpovídá růstu nehtů. Za desítky milionů let se z těchto centimetrů poskládají tisíce kilometrů a vzniknou oceány i pohoří. Rychlosti se dnes měří přímo pomocí GPS.",
+    "source": "USGS – Understanding Plate Motions; data ITRF/GNSS",
+    "seedElo": 1570
+  },
+  {
+    "id": "cra-B19",
+    "type": "F",
+    "category": "crazy-fakta",
+    "text": "Nejvyšší oficiálně uznávaná teplota vzduchu na Zemi byla naměřena v kalifornském Údolí smrti v roce 1913 a činila:",
+    "options": [
+      "52,1 °C",
+      "56,7 °C",
+      "61,4 °C",
+      "58,3 °C"
+    ],
+    "correct": 1,
+    "explanation": "Stanice Furnace Creek zaznamenala 10. července 1913 teplotu 56,7 °C, kterou Světová meteorologická organizace stále vede jako platný rekord. Část klimatologů měření zpochybňuje kvůli tehdejším podmínkám odečtu. Novodobé hodnoty z Údolí smrti se blíží 54 °C.",
+    "source": "WMO – Global Weather & Climate Extremes Archive",
+    "seedElo": 1620
+  },
+  {
+    "id": "cra-B20",
+    "type": "F",
+    "category": "crazy-fakta",
+    "text": "Nevadské město Reno leží vůči Los Angeles překvapivě:",
+    "options": [
+      "leží přesně na stejném poledníku",
+      "o dvě časová pásma východněji",
+      "jižněji o zhruba sto kilometrů",
+      "západněji, ačkoli leží severněji"
+    ],
+    "correct": 3,
+    "explanation": "Reno má zeměpisnou délku kolem 119,8° západní délky, zatímco Los Angeles asi 118,2°, takže Reno je zhruba o půldruhého stupně západněji. Může za to prudký ohyb kalifornského pobřeží, které se pod San Franciskem stáčí k jihovýchodu. Mapová intuice „sever rovná se východ“ tu selhává.",
+    "source": "USGS Geographic Names Information System – souřadnice měst",
+    "seedElo": 1750
+  },
+  {
+    "id": "cra-B21",
+    "type": "F",
+    "category": "crazy-fakta",
+    "text": "Výbuch Krakatoy v roce 1883 patří k nejhlasitějším doloženým zvukům. Lidé jej slyšeli až:",
+    "options": [
+      "v okolí sopky do vzdálenosti asi 300 km",
+      "na Jávě a Sumatře, asi 800 km daleko",
+      "v Austrálii, zhruba 2 000 km daleko",
+      "na ostrově Rodrigues, přes 4 800 km daleko"
+    ],
+    "correct": 3,
+    "explanation": "Zprávy z ostrova Rodrigues v Indickém oceánu, vzdáleného asi 4 800 kilometrů, popisují dunění připomínající vzdálenou dělostřeleckou palbu. Tlaková vlna z erupce navíc několikrát oběhla zeměkouli a byla zachycena barografy po celém světě. Jde o největší doložený dosah slyšitelného zvuku.",
+    "source": "Royal Society – The Eruption of Krakatoa (1888)",
+    "seedElo": 1700
+  },
+  {
+    "id": "cra-B22",
+    "type": "F",
+    "category": "crazy-fakta",
+    "text": "Za největší známý organismus světa je dnes považován:",
+    "options": [
+      "podhoubí václavky v Oregonu o rozloze asi 9 km²",
+      "plejtvák obrovský o délce přes třicet metrů",
+      "korálový útes u australského Queenslandu",
+      "sekvojovec obrovský v pohoří Sierra Nevada"
+    ],
+    "correct": 0,
+    "explanation": "Jediný geneticky jednotný klon václavky Armillaria ostoyae v oregonském Malheur National Forest se rozprostírá zhruba na 965 hektarech, tedy skoro 10 km². Naprostá většina organismu je podhoubí skryté v půdě a v kořenech stromů, na povrchu se ukáže jen občasnými plodnicemi. Stáří se odhaduje na tisíce let.",
+    "source": "US Forest Service – Malheur National Forest, Armillaria ostoyae",
+    "seedElo": 1720
+  },
+  {
+    "id": "cra-B23",
+    "type": "F",
+    "category": "crazy-fakta",
+    "text": "Obec Baarle na belgicko-nizozemské hranici je mezi geografy proslulá tím, že:",
+    "options": [
+      "leží přesně na hranici, která ji dělí na půl",
+      "hranice mezi státy tudy vede pod zemí tunelem",
+      "belgické exklávy tu obsahují nizozemské enklávy",
+      "obyvatelé si smějí sami volit státní příslušnost"
+    ],
+    "correct": 2,
+    "explanation": "Baarle-Hertog tvoří přes dvacet belgických exkláv obklopených nizozemským územím a uvnitř některých z nich leží ještě nizozemské enklávy druhého řádu. Hranice prochází i skrz jednotlivé domy a bývá vyznačena dlažbou. Vznikla ze středověkých feudálních smluv o pozemcích.",
+    "source": "Nizozemský a belgický hraniční katastr; obec Baarle-Hertog",
+    "seedElo": 1800
+  },
+  {
+    "id": "cra-B24",
+    "type": "F",
+    "category": "crazy-fakta",
+    "text": "Kiribati v roce 1995 posunulo průběh datové hranice. Důsledkem je, že:",
+    "options": [
+      "stát je rozdělen mezi dvě kalendářní data",
+      "jeho východní ostrovy mají pásmo UTC+14",
+      "na jeho území se datum mění dvakrát denně",
+      "stát vůbec nepoužívá letní ani zimní čas"
+    ],
+    "correct": 1,
+    "explanation": "Kiribati se rozkládá přes obrovskou plochu Pacifiku a jeho východní části dříve zaostávaly o celý den za hlavním městem. Posun datové hranice v roce 1995 sjednotil stát do jednoho data a Linovým ostrovům přinesl pásmo UTC+14. Nový rok tak začíná právě tam jako první na světě.",
+    "source": "IANA Time Zone Database – zóna Pacific/Kiritimati",
+    "seedElo": 1780
+  },
+  {
+    "id": "cra-B25",
+    "type": "F",
+    "category": "crazy-fakta",
+    "text": "Který vrchol je bodem zemského povrchu nejvzdálenějším od středu Země?",
+    "options": [
+      "Denali na severu Aljašky",
+      "Kilimandžáro v Tanzanii",
+      "Chimborazo v Ekvádoru",
+      "Aconcagua v Argentině"
+    ],
+    "correct": 2,
+    "explanation": "Země není koule, ale je na rovníku vyduta zhruba o 21 kilometrů. Chimborazo leží jen asi jeden stupeň od rovníku, takže jeho vrchol je od středu planety dál než vrcholy výrazně vyšších himálajských hor. Rozdíl činí kolem dvou kilometrů.",
+    "source": "NOAA / geodetický referenční elipsoid WGS84",
+    "seedElo": 1700
+  },
+  {
+    "id": "cra-B26",
+    "type": "F",
+    "category": "crazy-fakta",
+    "text": "Měřeno od paty na mořském dně až po vrchol je nejvyšší horou světa:",
+    "options": [
+      "Kilimandžáro v Tanzanii, asi 5 900 metrů",
+      "Denali na Aljašce, zhruba 6 200 metrů",
+      "Aconcagua v Andách, téměř 7 000 metrů",
+      "Mauna Kea na Havaji, přes 10 000 metrů"
+    ],
+    "correct": 3,
+    "explanation": "Havajská Mauna Kea vystupuje nad hladinu jen asi 4 200 metrů, ale její základna leží zhruba 6 000 metrů pod hladinou Pacifiku. Celková výška od paty k vrcholu tak přesahuje 10 000 metrů. Jde o štítovou sopku postavenou z lávy nad havajskou horkou skvrnou.",
+    "source": "USGS Hawaiian Volcano Observatory",
+    "seedElo": 1730
+  },
+  {
+    "id": "cra-B27",
+    "type": "F",
+    "category": "crazy-fakta",
+    "text": "Za běžné pokojové teploty a normálního tlaku platí o dvou formách uhlíku, že:",
+    "options": [
+      "stabilnější formou je grafit, diamant je metastabilní",
+      "stabilnější formou je diamant díky pevnějším vazbám",
+      "obě formy jsou energeticky naprosto rovnocenné",
+      "grafit se samovolně mění na diamant jen pod tlakem"
+    ],
+    "correct": 0,
+    "explanation": "Termodynamicky stabilní formou uhlíku je za normálních podmínek grafit, diamant je pouze metastabilní. Přeměna diamantu na grafit je energeticky výhodná, ale aktivační bariéra je tak vysoká, že za pokojové teploty prakticky neprobíhá. Diamanty proto vydrží miliardy let, přestože „by neměly“.",
+    "source": "Standardní termodynamická data – fázový diagram uhlíku",
+    "seedElo": 1760
+  },
+  {
+    "id": "cra-B28",
+    "type": "F",
+    "category": "crazy-fakta",
+    "text": "Průměrná hloubka světového oceánu činí zhruba:",
+    "options": [
+      "1 200 metrů",
+      "3 700 metrů",
+      "6 100 metrů",
+      "8 300 metrů"
+    ],
+    "correct": 1,
+    "explanation": "Průměrná hloubka oceánu se udává kolem 3 700 metrů. Většinu dna netvoří příkopy, ale rozlehlé abysální roviny v hloubkách zhruba 3 000 až 5 000 metrů. Mělké šelfy u pobřeží zabírají jen malý zlomek plochy.",
+    "source": "NOAA National Centers for Environmental Information",
+    "seedElo": 1700
+  },
+  {
+    "id": "cra-B29",
+    "type": "F",
+    "category": "crazy-fakta",
+    "text": "Nejstarší dosud nalezený materiál pozemského původu jsou zirkonová zrna z pohoří Jack Hills v Austrálii. Jejich stáří je asi:",
+    "options": [
+      "3,5 miliardy let",
+      "4,4 miliardy let",
+      "2,9 miliardy let",
+      "4,0 miliardy let"
+    ],
+    "correct": 1,
+    "explanation": "Radiometrické datování uranovo-olovnatou metodou dává pro nejstarší zirkony z Jack Hills stáří kolem 4,4 miliardy let, tedy jen zhruba sto milionů let po vzniku Země. Samotná hornina, v níž jsou uloženy, je mnohem mladší, přežila jen odolná zrnka. Naznačují, že na rané Zemi už existovala kapalná voda.",
+    "source": "Valley et al., Nature Geoscience (2014) – Jack Hills zircons",
+    "seedElo": 1880
+  },
+  {
+    "id": "cra-B30",
+    "type": "F",
+    "category": "crazy-fakta",
+    "text": "Rozptyl světla v atmosféře je nejsilnější pro fialovou barvu. Obloha přesto vypadá modře hlavně proto, že:",
+    "options": [
+      "fialové světlo se v atmosféře zcela pohltí ozonem",
+      "fialová se rozptyluje až vysoko nad troposférou",
+      "modrá se od hladiny oceánů odráží zpět k obloze",
+      "Slunce vyzařuje méně fialové a oko ji hůř vnímá"
+    ],
+    "correct": 3,
+    "explanation": "Rayleighův rozptyl skutečně upřednostňuje nejkratší vlnové délky, ale Slunce vyzařuje ve fialové části spektra méně energie než v modré. Navíc lidské čípky jsou na fialovou podstatně méně citlivé, takže výsledný vjem směsi rozptýleného světla mozek vyhodnotí jako modrou. Barva oblohy je tedy zčásti vlastnost našeho vidění.",
+    "source": "Optika atmosféry – Rayleighův rozptyl a citlivost lidského oka (CIE)",
+    "seedElo": 1850
+  },
+  {
+    "id": "cra-B31",
+    "type": "F",
+    "category": "crazy-fakta",
+    "text": "Porovnejte dvě čísla: počet molekul vody v jedné sklenici a počet takových sklenic, kolik by naplnil celý světový oceán. Platí, že:",
+    "options": [
+      "obě čísla vycházejí zhruba stejně velká",
+      "sklenic v oceánu je řádově tisíckrát více",
+      "molekul ve sklenici je řádově tisíckrát více",
+      "sklenic v oceánu je řádově milionkrát více"
+    ],
+    "correct": 2,
+    "explanation": "Ve dvou a půl decilitrech vody je zhruba 8 × 10²⁴ molekul, zatímco objem oceánů kolem 1,3 miliardy km³ odpovídá asi 5 × 10²¹ sklenicím. Molekul v jedné sklenici je tedy řádově tisíckrát víc než sklenic v celém oceánu. Je to názorná ukázka, jak nepředstavitelně velké je Avogadrovo číslo.",
+    "source": "Avogadrova konstanta (CODATA); NOAA – objem světového oceánu",
+    "seedElo": 1900
+  },
+  {
+    "id": "cra-B32",
+    "type": "F",
+    "category": "crazy-fakta",
+    "text": "Kolik mimozemské hmoty, tedy kosmického prachu a mikrometeoritů, dopadne na Zemi za jeden rok?",
+    "options": [
+      "řádově tisíce tun ročně",
+      "řádově miliony tun ročně",
+      "řádově desítky tun ročně",
+      "řádově miliardy tun ročně"
+    ],
+    "correct": 0,
+    "explanation": "Odhady z antarktických sběrů mikrometeoritů dávají řádově tisíce tun ročně, novější práce uvádějí kolem 5 000 tun. Naprostou většinu tvoří prachová zrna menší než desetina milimetru, ne viditelné meteority. Vzhledem k hmotnosti planety jde o zcela zanedbatelný přírůstek.",
+    "source": "Rojas et al., Earth and Planetary Science Letters (2021)",
+    "seedElo": 1860
+  }
+]

@@ -1,0 +1,514 @@
+[
+  {
+    "id": "cra-C01",
+    "type": "F",
+    "category": "crazy-fakta",
+    "text": "Dlouho se opakovalo, že bakterií je v našem těle desetkrát víc než vlastních buněk. Jaký poměr dávají dnešní odhady?",
+    "options": [
+      "1:1, tedy zhruba stejný počet",
+      "10:1 ve prospěch bakterií",
+      "100:1 ve prospěch bakterií",
+      "1:10 ve prospěch lidských buněk"
+    ],
+    "correct": 0,
+    "explanation": "Přepočet Sendera, Fuchse a Mila z roku 2016 dospěl k přibližně 3,8 bilionu bakterií proti asi 3,0 bilionu lidských buněk, tedy k poměru kolem 1,3:1. Starší číslo 10:1 pocházelo z odhadu z roku 1972, který nebyl nikdy pořádně ověřen. Jedna návštěva toalety navíc poměr znatelně posune, protože většina bakterií sídlí v tlustém střevě.",
+    "source": "Sender, R., Fuchs, S., Milo, R.: Revised Estimates for the Number of Human and Bacteria Cells in the Body, PLOS Biology (2016)",
+    "seedElo": 1550
+  },
+  {
+    "id": "cra-C02",
+    "type": "F",
+    "category": "crazy-fakta",
+    "text": "Kolik kostí má novorozenec ve srovnání s dospělým člověkem?",
+    "options": [
+      "asi 250 kostí, dospělý jich má 206",
+      "asi 206 kostí, dospělý jich má 300",
+      "asi 300 kostí, dospělý jich má 206",
+      "asi 180 kostí, dospělý jich má 206"
+    ],
+    "correct": 2,
+    "explanation": "Novorozenec má kolem tří stovek kostí a chrupavčitých základů, které během růstu srůstají, například v lebce, křížové kosti a pánvi. Dospělý jich má obvykle 206, i když se číslo mírně liší kvůli sezamským kůstkám a nadpočetným žebrům. Kostra tedy během dospívání kosti neztrácí, ale spojuje.",
+    "source": "Gray's Anatomy, 42. vydání (2020), kapitola o osteologii",
+    "seedElo": 1400
+  },
+  {
+    "id": "cra-C03",
+    "type": "F",
+    "category": "crazy-fakta",
+    "text": "Ignaz Semmelweis prosadil roku 1847 ve vídeňské porodnici dezinfekci rukou chlorovým vápnem. Z jakého pozorování vyšel?",
+    "options": [
+      "rodičky umíraly víc v létě než v zimě",
+      "oddělení s mediky mělo vyšší úmrtnost",
+      "úmrtnost stoupala s počtem porodů",
+      "porodní báby měly horší výsledky"
+    ],
+    "correct": 1,
+    "explanation": "Na oddělení, kde rodičky ošetřovali medici chodící rovnou z pitevny, umíralo na horečku omladnic několikanásobně víc žen než na oddělení porodních bab. Semmelweis souvislost potvrdil poté, co na sepsi zemřel kolega poraněný při pitvě. Po zavedení mytí rukou v chlorovém vápně úmrtnost prudce klesla, lékařská obec ho přesto odmítala.",
+    "source": "Semmelweis, I.: Die Ätiologie, der Begriff und die Prophylaxis des Kindbettfiebers (1861)",
+    "seedElo": 1450
+  },
+  {
+    "id": "cra-C04",
+    "type": "F",
+    "category": "crazy-fakta",
+    "text": "Alexander Fleming si účinku plísně Penicillium všiml roku 1928. Proč se penicilin dostal k pacientům až ve 40. letech?",
+    "options": [
+      "Fleming svůj objev tajil až do války",
+      "plíseň nešla nikde v Evropě sehnat",
+      "bránily tomu vleklé patentové spory",
+      "chyběl způsob výroby čisté látky"
+    ],
+    "correct": 3,
+    "explanation": "Fleming svůj nález roku 1929 publikoval, ale nedokázal látku izolovat v množství a čistotě vhodné pro léčbu. To se podařilo až týmu Howarda Floreyho a Ernsta Chaina na přelomu 30. a 40. let, po němž následovala hromadná výroba ve Spojených státech. Nobelovu cenu za medicínu si roku 1945 rozdělili všichni tři.",
+    "source": "Nobelova cena za fyziologii a medicínu 1945; Fleming, A.: British Journal of Experimental Pathology 10 (1929)",
+    "seedElo": 1600
+  },
+  {
+    "id": "cra-C05",
+    "type": "F",
+    "category": "crazy-fakta",
+    "text": "Do provozního deníku počítače Harvard Mark II byla roku 1947 vlepena můra s poznámkou o „prvním skutečném případu nalezeného bugu“. Co z toho plyne?",
+    "options": [
+      "slovo bug tím vzniklo, dřív se nepoužívalo",
+      "šlo o žert, žádná můra ve stroji nebyla",
+      "slovo bug se pro poruchy užívalo už dřív",
+      "poznámku připsal až historik v 70. letech"
+    ],
+    "correct": 2,
+    "explanation": "Vtip té poznámky spočívá právě v tom, že „bug“ jako označení technické závady byl mezi inženýry běžný už v 19. století, například u Edisona. Můra skutečně existovala a byla vytažena z relé, zápis ji ale hlásí jako první doslovný, nikoli první vůbec. Historku později proslavila Grace Hopperová, stránka deníku se dochovala ve sbírkách Smithsonian.",
+    "source": "Log Book, Harvard Mark II, 9. 9. 1947, sbírka Smithsonian Institution / Naval Surface Warfare Center",
+    "seedElo": 1650
+  },
+  {
+    "id": "cra-C06",
+    "type": "F",
+    "category": "crazy-fakta",
+    "text": "Kolik paměti měl počítač Apollo Guidance Computer, který navigoval Apollo 11 k Měsíci?",
+    "options": [
+      "desítky kilobajtů: asi 4 KB RAM a 72 KB ROM",
+      "necelý megabajt: 512 KB RAM a 256 KB ROM",
+      "jednotky kilobajtů: 1 KB RAM a 2 KB ROM",
+      "stovky kilobajtů: 128 KB RAM a 512 KB ROM"
+    ],
+    "correct": 0,
+    "explanation": "AGC měl 2048 šestnáctibitových slov mazatelné paměti, tedy zhruba 4 kilobajty, a 36 864 slov pevné paměti, tedy asi 72 kilobajtů. Pevný program byl doslova upleten z drátků a feritových jádérek, odtud přezdívka rope memory. Rčení, že měl „míň než kalkulačka“, je přesto zavádějící: šlo o robustní počítač reálného času, který zvládal současně několik úloh.",
+    "source": "MIT Instrumentation Laboratory, Apollo Guidance Computer Block II specifikace; NASA History Series",
+    "seedElo": 1650
+  },
+  {
+    "id": "cra-C07",
+    "type": "F",
+    "category": "crazy-fakta",
+    "text": "Co ukazuje dnešní historický výzkum o vzniku klávesového rozložení QWERTY?",
+    "options": [
+      "vzniklo, aby písaře záměrně zpomalilo",
+      "navrhli ho až evropští výrobci kolem 1900",
+      "vzešlo z pokusů o nejrychlejší psaní",
+      "utvářely ho i požadavky telegrafistů"
+    ],
+    "correct": 3,
+    "explanation": "Rozložení se u Sholesových strojů vyvíjelo postupně a badatelé Jasuoka a Jasuoka doložili, že do jeho podoby mluvili telegrafisté přepisující morseovku, kterým šlo o rychlost a spolehlivost rozlišení znaků. Roli hrálo i mechanické oddělení často se potkávajících pák. Populární tvrzení, že cílem bylo písaře úmyslně brzdit, historické prameny nepodpírají.",
+    "source": "Yasuoka, K. & Yasuoka, M.: On the Prehistory of QWERTY, ZINBUN 42 (2011)",
+    "seedElo": 1600
+  },
+  {
+    "id": "cra-C08",
+    "type": "F",
+    "category": "crazy-fakta",
+    "text": "Kdo jako první prolomil šifrování vojenské Enigmy?",
+    "options": [
+      "britský tým v Bletchley Parku roku 1940",
+      "polští matematici z Biura šifer roku 1932",
+      "francouzská rozvědka díky agentovi 1931",
+      "americká kryptoanalýza námořnictva 1942"
+    ],
+    "correct": 1,
+    "explanation": "Marian Rejewski s Jerzym Różyckým a Henrykem Zygalským rozluštili strukturu Enigmy pomocí teorie permutací už roku 1932 a postavili elektromechanické „bomby“. V červenci 1939 předali své výsledky i repliky stroje Britům a Francouzům. Bletchley Park na tomto základu stavěl dál, když Němci šifrování zesílili; francouzský agent Hans-Thilo Schmidt dodal dokumenty, sám ale nic nerozluštil.",
+    "source": "Rejewski, M.: How Polish Mathematicians Deciphered the Enigma, Annals of the History of Computing 3 (1981)",
+    "seedElo": 1700
+  },
+  {
+    "id": "cra-C09",
+    "type": "F",
+    "category": "crazy-fakta",
+    "text": "Kdo v roce 1956 odstartoval éru kontejnerové námořní dopravy?",
+    "options": [
+      "britská loděnice hledající levnější trupy",
+      "americká armáda při zásobování v Koreji",
+      "přístav v Rotterdamu kvůli nedostatku míst",
+      "majitel kamionové firmy Malcom McLean"
+    ],
+    "correct": 3,
+    "explanation": "McLean, který vydělal na kamionové dopravě, nechal přestavět tanker Ideal X a v dubnu 1956 s ním poslal padesát osm kontejnerů z Newarku do Houstonu. Náklady na překládku klesly řádově, což proměnilo světový obchod víc než leckterá obchodní smlouva. Normalizované rozměry kontejnerů se prosadily až v 60. letech přes ISO.",
+    "source": "Levinson, M.: The Box (Princeton University Press, 2006)",
+    "seedElo": 1750
+  },
+  {
+    "id": "cra-C10",
+    "type": "F",
+    "category": "crazy-fakta",
+    "text": "Prvním zbožím naskenovaným čárovým kódem v běžném obchodě bylo v roce 1974:",
+    "options": [
+      "balení pracího prášku v Chicagu",
+      "balení žvýkaček Wrigley's v Ohiu",
+      "krabice cereálií v New Jersey",
+      "láhev Coca-Coly v obchodě v Atlantě"
+    ],
+    "correct": 1,
+    "explanation": "Dne 26. června 1974 prošlo pokladnou supermarketu Marsh ve městě Troy v Ohiu balení žvýkaček Wrigley's Juicy Fruit za 67 centů. Žvýkačky nebyly náhoda: mělo se ukázat, že kód lze vytisknout i na malý obal. Onen konkrétní balíček je dnes v muzeu Smithsonian.",
+    "source": "Smithsonian National Museum of American History, sbírka UPC; GS1 historie",
+    "seedElo": 1800
+  },
+  {
+    "id": "cra-C11",
+    "type": "F",
+    "category": "crazy-fakta",
+    "text": "Jakou cestou putuje drtivá většina mezikontinentálního internetového provozu?",
+    "options": [
+      "podmořskými optickými kabely",
+      "přes družice na oběžné dráze",
+      "radiovými spoji přes horizont",
+      "půl na půl družicemi a kabely"
+    ],
+    "correct": 0,
+    "explanation": "Odhaduje se, že kolem devětadevadesáti procent mezinárodních dat teče stovkami podmořských kabelů, které leží na dně oceánů a bývají silné jako zahradní hadice. Družice mají mnohem menší kapacitu a větší zpoždění, takže slouží spíš jako doplněk a záloha. Přetržený kabel u pobřeží proto umí odstřihnout celou zemi.",
+    "source": "TeleGeography, Submarine Cable Frequently Asked Questions",
+    "seedElo": 1500
+  },
+  {
+    "id": "cra-C12",
+    "type": "F",
+    "category": "crazy-fakta",
+    "text": "Proč vůbec vznikl problém roku 2000, takzvaný Y2K?",
+    "options": [
+      "kalendáře v čipech uměly jen 20. století",
+      "systémy měřily čas od roku 1900 v sekundách",
+      "roky se ukládaly jen dvěma číslicemi",
+      "starší procesory neuměly dělit tisícem"
+    ],
+    "correct": 2,
+    "explanation": "V době drahé paměti a děrných štítků se šetřilo každým znakem, takže se rok zapisoval dvojčíslím a po devětadevadesátce hrozil skok na nulu. Opravy stály celosvětově stovky miliard a právě proto se katastrofa nekonala; mluvit o vymyšlené panice je tedy nepřesné. Podobná past čeká 32bitové systémy v roce 2038, kdy přeteče počítadlo sekund.",
+    "source": "U.S. GAO: Year 2000 Computing Challenge, závěrečné zprávy (2000)",
+    "seedElo": 1450
+  },
+  {
+    "id": "cra-C13",
+    "type": "F",
+    "category": "crazy-fakta",
+    "text": "Co ukázaly studie s takzvaným otevřeným placebem, kde pacient předem ví, že dostává placebo?",
+    "options": [
+      "účinek zcela mizí, jakmile to pacient ví",
+      "část potíží se zmírní i při vědomí pacienta",
+      "pacienti hlásí zhoršení oproti nelečeným",
+      "výsledky se nedaly nikdy zopakovat jinde"
+    ],
+    "correct": 1,
+    "explanation": "Kaptchukova studie u syndromu dráždivého tračníku z roku 2010 a navazující pokusy u chronické bolesti či únavy po léčbě rakoviny našly měřitelné zlepšení i tehdy, když pacient věděl, že bere neúčinnou tabletu. Efekt je zpravidla mírný a týká se subjektivně hodnocených potíží, nikoli objektivních známek nemoci. Placebo tedy nestojí jen na klamu, ale i na rituálu léčby a očekávání.",
+    "source": "Kaptchuk, T. J. et al.: Placebos without Deception, PLoS ONE 5 (2010); metaanalýza Charlesworth et al., J Evid Based Med (2017)",
+    "seedElo": 1850
+  },
+  {
+    "id": "cra-C14",
+    "type": "F",
+    "category": "crazy-fakta",
+    "text": "Studie SAMSON (2020) nechala pacienty, kteří kvůli bolestem svalů přestali brát statiny, střídat měsíce s lékem, s placebem a bez tablet. Jak to dopadlo?",
+    "options": [
+      "potíže byly jen v měsících se statinem",
+      "placebo potíže naopak výrazně tlumilo",
+      "bez tablet byly potíže vůbec největší",
+      "potíže byly podobné se statinem i placebem"
+    ],
+    "correct": 3,
+    "explanation": "Zhruba devadesát procent hlášených obtíží se objevilo i v měsících s placebem, což ukazuje na noceboefekt, tedy nepříjemné příznaky vyvolané očekáváním. Po skončení studie se většina účastníků ke statinům vrátila. Neznamená to, že svalové potíže jsou vymyšlené: jsou skutečně prožívané, jen je zpravidla nepůsobí účinná látka.",
+    "source": "Wood, F. A. et al.: N-of-1 Trial of a Statin, Placebo, or No Treatment (SAMSON), New England Journal of Medicine 383 (2020)",
+    "seedElo": 1800
+  },
+  {
+    "id": "cra-C15",
+    "type": "F",
+    "category": "crazy-fakta",
+    "text": "V klasických pokusech Elizabeth Loftusové stačilo ke zkreslení vzpomínky svědků na dopravní nehodu:",
+    "options": [
+      "ukázat svědkům snímky jiné nehody",
+      "nechat je vypovídat s odstupem let",
+      "změnit jediné sloveso v otázce",
+      "vyplatit jim za výpověď odměnu"
+    ],
+    "correct": 2,
+    "explanation": "Když se místo „když se auta srazila“ zeptali „když se auta roztříštila“, odhadovali svědci vyšší rychlost a po týdnu si častěji vybavovali rozbité sklo, které ve filmu nebylo. Pokus patří k základním dokladům toho, že vzpomínka se při každém vybavení znovu skládá a lze ji podsunutou informací pozměnit. Odtud plyne i opatrnost při vedení výslechů.",
+    "source": "Loftus, E. F. & Palmer, J. C.: Reconstruction of Automobile Destruction, Journal of Verbal Learning and Verbal Behavior 13 (1974)",
+    "seedElo": 1600
+  },
+  {
+    "id": "cra-C16",
+    "type": "F",
+    "category": "crazy-fakta",
+    "text": "Co se výzkumníkům roku 2021 poprvé podařilo doložit u lucidně snících lidí?",
+    "options": [
+      "odpovídali na otázky pohyby očí přímo ze snu",
+      "dokázali se ve snu probudit na povel z venku",
+      "sen šlo z mozkové aktivity přehrát jako film",
+      "hovořili nahlas srozumitelnými větami ze snu"
+    ],
+    "correct": 0,
+    "explanation": "Čtyři nezávislé laboratoře prokázaly obousměrnou komunikaci: spícímu člověku v REM fázi byla položena otázka, například jednoduchý příklad, a on odpověděl domluvenými pohyby očí nebo stahy obličejových svalů. Odpovědi byly správné častěji, než by odpovídalo náhodě, byť úspěšnost byla nízká. Sen tak přestal být zcela nepřístupný zvenčí.",
+    "source": "Konkoly, K. R. et al.: Real-time dialogue between experimenters and dreamers during REM sleep, Current Biology 31 (2021)",
+    "seedElo": 1900
+  },
+  {
+    "id": "cra-C17",
+    "type": "F",
+    "category": "crazy-fakta",
+    "text": "Jak vypadají sny lidí, kteří jsou slepí od narození?",
+    "options": [
+      "bez obrazů, zato bohaté na zvuky a doteky",
+      "obrazové stejně jako u vidoucích lidí",
+      "obvykle si žádné sny vůbec nepamatují",
+      "objevují se jim jen ve světlých barvách"
+    ],
+    "correct": 0,
+    "explanation": "Lidé nevidomí od narození popisují sny plné zvuků, hmatových vjemů, chutí a pohybu, ale bez zrakových obrazů. Kdo o zrak přišel později, o vizuální složku snů většinou postupně přichází také. Sen tedy pracuje s materiálem, který smysly dodaly, nikoli s obrazem jako povinnou složkou.",
+    "source": "Meaidi, A. et al.: The sensory construction of dreams and nightmare frequency in congenitally blind and late blind individuals, Sleep Medicine 15 (2014)",
+    "seedElo": 1650
+  },
+  {
+    "id": "cra-C18",
+    "type": "F",
+    "category": "crazy-fakta",
+    "text": "Rozsah lidského sluchu se uvádí zhruba 20 Hz až 20 kHz. Co se s ním děje během života?",
+    "options": [
+      "horní hranice se s věkem posouvá výš",
+      "mění se hlavně dolní hranice slyšení",
+      "zůstává stejný, mění se jen hlasitost",
+      "horní hranice s věkem výrazně klesá"
+    ],
+    "correct": 3,
+    "explanation": "Hranice 20 kHz platí zhruba pro dítě; s věkem ubývá vláskových buněk v hlemýždi a horní mez klesá, u lidí kolem šedesátky často pod deset kilohertzů. Tento úbytek, presbyakuze, postihuje nejdřív vysoké tóny, což ztěžuje rozumění řeči v hluku. Vláskové buňky se u savců neobnovují, proto je ztráta trvalá.",
+    "source": "WHO: World Report on Hearing (2021); Gelfand, S.: Hearing – An Introduction to Psychological and Physiological Acoustics",
+    "seedElo": 1500
+  },
+  {
+    "id": "cra-C19",
+    "type": "F",
+    "category": "crazy-fakta",
+    "text": "Co dnes víme o lidské tetrachromacii, tedy o čtvrtém typu čípku v oku?",
+    "options": [
+      "vyskytuje se zhruba u desetiny všech žen",
+      "nositelka bývá žena, funkčnost je vzácná",
+      "byla popsána výhradně u mužů s daltonismem",
+      "jde o hypotézu, kterou nikdo nedoložil"
+    ],
+    "correct": 1,
+    "explanation": "Geny pro červený a zelený čípek leží na chromozomu X, takže přenašečkami odchylné varianty je řádově kolem desetiny žen a čtvrtý typ čípku mají v sítnici. Skutečně lepší rozlišování barev se ale prokázalo jen výjimečně: nejznámější je britská účastnice označovaná cDa29. Mít čtvrtý čípek tedy nestačí, mozek s jeho signálem musí umět pracovat.",
+    "source": "Jordan, G. et al.: The dimensionality of colour vision in carriers of anomalous trichromacy, Journal of Vision 10 (2010)",
+    "seedElo": 1900
+  },
+  {
+    "id": "cra-C20",
+    "type": "F",
+    "category": "crazy-fakta",
+    "text": "Při McGurkově efektu člověk slyší jinou slabiku, než jaká skutečně zazní. Čím je to způsobeno?",
+    "options": [
+      "ozvěnou v místnosti, kde se poslouchá",
+      "únavou sluchového nervu při opakování",
+      "pohledem na ústa mluvčího, který se liší",
+      "očekáváním daným předchozí větou textu"
+    ],
+    "correct": 2,
+    "explanation": "Když k nahranému zvuku „ba“ sledujeme obraz úst vyslovujících „ga“, mozek obojí sloučí a člověk slyší „da“. Efekt funguje i tehdy, když o něm víme, což ukazuje, že vnímání řeči je od základu multismyslové. Zavřením očí se iluze okamžitě rozpadne.",
+    "source": "McGurk, H. & MacDonald, J.: Hearing lips and seeing voices, Nature 264 (1976)",
+    "seedElo": 1750
+  },
+  {
+    "id": "cra-C21",
+    "type": "F",
+    "category": "crazy-fakta",
+    "text": "Jak je to s uložením jazykových center v mozku u leváků?",
+    "options": [
+      "mají je zrcadlově vpravo, opačně než praváci",
+      "mají je rozložená rovnoměrně do obou stran",
+      "většina má centrum vlevo jako praváci",
+      "jazyk u nich sídlí v týlním laloku vzadu"
+    ],
+    "correct": 2,
+    "explanation": "U praváků je jazyk vázán na levou hemisféru asi v šestadevadesáti procentech případů, u leváků zhruba v sedmdesáti až pětasedmdesáti. Zbytek má centra vpravo nebo rozložená oboustranně, což je víc než u praváků, ale zdaleka ne pravidlo. Zrcadlové uspořádání je tedy u leváků menšinová varianta, nikoli norma.",
+    "source": "Knecht, S. et al.: Handedness and hemispheric language dominance in healthy humans, Brain 123 (2000)",
+    "seedElo": 1850
+  },
+  {
+    "id": "cra-C22",
+    "type": "F",
+    "category": "crazy-fakta",
+    "text": "Šlacha svalu musculus palmaris longus, kterou si řada lidí umí vyklenout na zápěstí, je zvláštní tím, že:",
+    "options": [
+      "vzniká až po dvacátém roce života",
+      "u části lidí zcela chybí, aniž by vadila",
+      "objevuje se jen u vrcholových sportovců",
+      "roste znovu i po chirurgickém odebrání"
+    ],
+    "correct": 1,
+    "explanation": "Sval chybí zhruba desetině až šestině lidí, s velkými rozdíly mezi populacemi, a jeho nepřítomnost nijak neoslabuje sílu stisku. Považuje se za pozůstatek z doby, kdy předkové využívali paži k šplhu. Právě proto ho chirurgové rádi odebírají jako štěp na náhradu jiných šlach.",
+    "source": "Ioannis, D. et al.: Palmaris longus muscle's prevalence in different nations and interesting anatomical variations, Journal of Clinical Medicine Research 7 (2015)",
+    "seedElo": 1700
+  },
+  {
+    "id": "cra-C23",
+    "type": "F",
+    "category": "crazy-fakta",
+    "text": "Husí kůže vzniká stažením drobných svalů u chlupů. K čemu nám tato reakce vlastně je?",
+    "options": [
+      "urychluje odpar potu z povrchu kůže",
+      "pomáhá kůži rychleji vstřebávat teplo",
+      "brání drobným poraněním pokožky",
+      "je pozůstatkem naježení srsti u předků"
+    ],
+    "correct": 3,
+    "explanation": "Vzpřimovače chlupů u savců naježí srst, čímž se zvětší vrstva zadrženého vzduchu a zvíře působí větší. U člověka s redukovaným ochlupením už reflex prakticky nic nezmůže a zůstává jako evoluční relikt spouštěný chladem i silnou emocí. Podobným pozůstatkem je i schopnost hýbat ušima.",
+    "source": "Darwin, C.: The Expression of the Emotions in Man and Animals (1872); Shwartz, Y. et al., Cell 182 (2020)",
+    "seedElo": 1400
+  },
+  {
+    "id": "cra-C24",
+    "type": "F",
+    "category": "crazy-fakta",
+    "text": "Traduje se, že se celé tělo obmění zhruba jednou za sedm let. Co je na tom nejvíc špatně?",
+    "options": [
+      "buňky oční čočky vydrží celý život",
+      "ve skutečnosti to trvá dvacet let",
+      "obměňuje se pouze kůže, vlasy a nehty",
+      "všechny tkáně se obnovují stejně"
+    ],
+    "correct": 0,
+    "explanation": "Rychlost obnovy se mezi tkáněmi liší o několik řádů: výstelka střeva se vymění za pár dní, kostra za roky, zatímco vlákna oční čočky vznikla ještě před narozením a vydrží doživotně. Datování pomocí uhlíku 14 z atmosférických zkoušek jaderných zbraní ukázalo, že většina neuronů mozkové kůry a svalových buněk srdce provází člověka celý život. Průměr „sedm let“ tedy zakrývá to podstatné.",
+    "source": "Spalding, K. L. et al.: Retrospective birth dating of cells in humans, Cell 122 (2005)",
+    "seedElo": 1650
+  },
+  {
+    "id": "cra-C25",
+    "type": "F",
+    "category": "crazy-fakta",
+    "text": "Jak velký je rozdíl v genomu dvou náhodně vybraných lidí?",
+    "options": [
+      "kolem jednoho procenta bází",
+      "zhruba jedna tisícina bází",
+      "asi pět procent všech bází",
+      "kolem tří setin procenta bází"
+    ],
+    "correct": 1,
+    "explanation": "Dva lidé se v jednotlivých písmenech genetického kódu liší přibližně v jedné tisícině, tedy asi 0,1 procenta; když se započtou i delší přeskupení a duplikace, vychází zhruba půl procenta. Lidstvo je tím geneticky pozoruhodně jednotvárné, menší rozdíly než uvnitř jediné populace šimpanzů. Většina té variability navíc leží uvnitř jednotlivých populací, ne mezi nimi.",
+    "source": "1000 Genomes Project Consortium, Nature 526 (2015); Lewontin, R.: The apportionment of human diversity (1972)",
+    "seedElo": 1550
+  },
+  {
+    "id": "cra-C26",
+    "type": "F",
+    "category": "crazy-fakta",
+    "text": "Co znamená pojem mitochondriální Eva?",
+    "options": [
+      "ženu, od níž máme mitochondriální DNA",
+      "první ženu druhu Homo sapiens v Africe",
+      "jedinou ženu, která přežila katastrofu",
+      "ženu, s níž žil v jedné době i tzv. Adam"
+    ],
+    "correct": 0,
+    "explanation": "Jde o poslední společnou pramáti všech dnes žijících lidí po nepřerušené mateřské linii, odhadovanou zhruba na sto padesát tisíc let zpět. Nebyla jedinou tehdejší ženou ani první příslušnicí druhu, jen ostatní mateřské linie postupně vymřely. S obdobně definovaným chromozomálním Adamem se navíc nemusela nikdy potkat, odhady jejich stáří se liší o desítky tisíc let.",
+    "source": "Cann, R. L., Stoneking, M., Wilson, A. C.: Mitochondrial DNA and human evolution, Nature 325 (1987); Poznik et al., Science 341 (2013)",
+    "seedElo": 1750
+  },
+  {
+    "id": "cra-C27",
+    "type": "F",
+    "category": "crazy-fakta",
+    "text": "Veřejná ukázka první úspěšné narkózy éterem proběhla roku 1846:",
+    "options": [
+      "v Londýně, předvedl ji Joseph Lister",
+      "v Paříži, předvedl ji Louis Pasteur",
+      "v Bostonu, předvedl ji William Morton",
+      "ve Vídni, předvedl ji Theodor Billroth"
+    ],
+    "correct": 2,
+    "explanation": "Zubař William Morton uspal 16. října 1846 v Massachusetts General Hospital pacienta při odstranění nádoru na krku; sál se dodnes jmenuje Ether Dome. Do té doby se operovalo za plného vědomí a rychlost chirurga byla hlavní ctností. Oxid dusný zkoušel předtím Horace Wells, jeho veřejná ukázka ale selhala.",
+    "source": "Massachusetts General Hospital, Ether Dome; Fenster, J. M.: Ether Day (2001)",
+    "seedElo": 1600
+  },
+  {
+    "id": "cra-C28",
+    "type": "F",
+    "category": "crazy-fakta",
+    "text": "Warfarin, dodnes užívaný lék na ředění krve, se do medicíny dostal:",
+    "options": [
+      "z bylinné medicíny čínských lékařů",
+      "z výzkumu bojových otravných látek",
+      "jako vedlejší produkt výroby barviv",
+      "z pátrání po příčině krvácení skotu"
+    ],
+    "correct": 3,
+    "explanation": "Ve dvacátých letech hynul ve Spojených státech a Kanadě dobytek na nezastavitelné krvácení a příčinou se ukázala zkažená siláž z komonice, v níž vzniká dikumarol. Z něj odvozená látka se nejprve prodávala jako jed na hlodavce a teprve v padesátých letech se prosadila jako lék. Jako protijed slouží vitamin K, který sráženlivost obnoví.",
+    "source": "Link, K. P.: The discovery of dicumarol and its sequels, Circulation 19 (1959)",
+    "seedElo": 1700
+  },
+  {
+    "id": "cra-C29",
+    "type": "F",
+    "category": "crazy-fakta",
+    "text": "Firma Bayer uvedla roku 1899 na trh aspirin. Krátce předtím prodávala pod ochrannou známkou také:",
+    "options": [
+      "kokain jako prostředek proti únavě",
+      "rtuťovou mast na plicní záněty",
+      "arsen jako přípravek na chudokrevnost",
+      "heroin jako lék na kašel a bolest"
+    ],
+    "correct": 3,
+    "explanation": "Heroin byl od roku 1898 značkou Bayeru a prodával se jako údajně nenávykové sedativum proti kašli, mimo jiné pro děti. Návykovost se ukázala rychle a ve dvacátých letech následovaly zákazy; ochranná známka zanikla. Aspirin, tedy kyselina acetylsalicylová, se naopak stal jedním z nejrozšířenějších léků vůbec.",
+    "source": "Sneader, W.: The discovery of heroin, The Lancet 352 (1998)",
+    "seedElo": 1650
+  },
+  {
+    "id": "cra-C30",
+    "type": "F",
+    "category": "crazy-fakta",
+    "text": "Eliud Kipchoge zaběhl roku 2019 ve Vídni maraton pod dvě hodiny. Proč to není světový rekord?",
+    "options": [
+      "trať byla o něco kratší než 42,195 km",
+      "výkon nebyl změřen oficiálními hodinami",
+      "šlo o akci s vodiči a mimo řádný závod",
+      "startoval mimo svou věkovou kategorii"
+    ],
+    "correct": 2,
+    "explanation": "Čas 1:59:40 padl při speciálně připravené akci, kde se střídaly formace vodičů, vůz promítal ideální tempo a nešlo o otevřený závod, takže pravidla World Athletics uznání vylučují. Trať přitom měla plnou délku a čas byl řádně měřen. Oficiální rekord Kipchoge překonával zvlášť, v Berlíně, s časem nad dvě hodiny.",
+    "source": "World Athletics, pravidla pro uznávání rekordů; INEOS 1:59 Challenge (2019)",
+    "seedElo": 1550
+  },
+  {
+    "id": "cra-C31",
+    "type": "F",
+    "category": "crazy-fakta",
+    "text": "Jak dlouho dokáže trénovaný člověk zadržet dech ve statické apnoi bez předchozího dýchání čistého kyslíku?",
+    "options": [
+      "něco přes jedenáct minut",
+      "sotva o něco přes tři minuty",
+      "zhruba dvacet pět minut",
+      "více než půl hodiny v klidu"
+    ],
+    "correct": 0,
+    "explanation": "Oficiální rekordy ve statické apnoi se pohybují kolem jedenácti a půl minuty, například Stéphane Mifsud s časem 11:35 z roku 2009. S předchozím dýcháním čistého kyslíku, což je jiná disciplína, padly časy přes dvacet čtyři minut. Bez tréninku a s vysokým rizikem mělnutí vědomí pod vodou jde o extrémně nebezpečnou činnost.",
+    "source": "AIDA International, tabulky světových rekordů; Guinness World Records (statická apnoe s kyslíkem)",
+    "seedElo": 1800
+  },
+  {
+    "id": "cra-C32",
+    "type": "F",
+    "category": "crazy-fakta",
+    "text": "Australský lékař Barry Marshall roku 1984 přesvědčivě podpořil hypotézu, že žaludeční vředy může způsobovat bakterie, tím, že:",
+    "options": [
+      "prozkoumal tisíc vzorků z pitev",
+      "vypil kulturu bakterie sám na sobě",
+      "sledoval pacienty po dobu dvaceti let",
+      "očkoval bakterií laboratorní myši"
+    ],
+    "correct": 1,
+    "explanation": "Marshall vypil kulturu Helicobacter pylori, během několika dní dostal záněty žaludku doložené gastroskopií a vyléčil se antibiotiky. Do té doby platilo, že za vředy může hlavně stres a kyselina a že v žaludku nic nepřežije. S Robinem Warrenem za objev dostal roku 2005 Nobelovu cenu a léčba vředů se změnila z chronické na několikatýdenní.",
+    "source": "Marshall, B. J. et al.: Attempt to fulfil Koch's postulates for pyloric Campylobacter, Medical Journal of Australia 142 (1985); Nobelova cena 2005",
+    "seedElo": 1450
+  }
+]

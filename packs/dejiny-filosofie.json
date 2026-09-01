@@ -144,6 +144,38 @@
   "seedElo": 1540
  },
  {
+  "id": "dfi-B03",
+  "type": "F",
+  "category": "dejiny-filosofie",
+  "text": "Lockovo přirovnání mysli k nepopsané desce (tabula rasa) míří především proti:",
+  "options": [
+   "skeptikům, kteří popírají spolehlivost smyslového poznání",
+   "nauce o vrozených ideách, jak ji hájili karteziáni",
+   "Aristotelově tezi, že duše je formou živého těla",
+   "scholastickému učení o abstrakci z obrazů fantazie"
+  ],
+  "correct": 1,
+  "explanation": "První kniha Eseje o lidském rozumu je celá věnována vyvrácení vrozených idejí a vrozených mravních zásad. Locke argumentuje mimo jiné tím, že děti ani takzvaní divoši žádné takové zásady neznají. Veškerý obsah mysli má podle něj původ ve smyslové zkušenosti nebo v reflexi vlastních operací mysli.",
+  "source": "Locke, Esej o lidském rozumu, kniha I.",
+  "seedElo": 1550
+ },
+ {
+  "id": "dfi-A13",
+  "type": "F",
+  "category": "dejiny-filosofie",
+  "text": "Jakou úlohu má v Platónově Timaiovi démiúrgos?",
+  "options": [
+   "Stvořil svět z ničeho pouhým svým slovem",
+   "Je totožný s ideou dobra a se samým Jedním",
+   "Je prvním z řady emanací vystupujících z Jedna",
+   "Utváří svět podle vzoru idejí z neuspořádaného"
+  ],
+  "correct": 3,
+  "explanation": "Démiúrgos je řemeslník, nikoli stvořitel z ničeho: nachází neuspořádanou nutnost a vtiskuje jí řád podle věčného vzoru idejí. Protože je dobrý, chce, aby svět byl co nejpodobnější vzoru, a činí z něj živou bytost s duší. Emanace je až plótínovský motiv, stvoření z ničeho židovsko-křesťanský.",
+  "source": "Platón, Timaios 28a–30c",
+  "seedElo": 1560
+ },
+ {
   "id": "dfi-10",
   "type": "F",
   "category": "dejiny-filosofie",
@@ -158,6 +190,22 @@
   "explanation": "Descartes rozlišoval res extensa, hmotnou rozprostraněnou substanci, kam patří tělo a fyzický svět, a res cogitans, nehmotnou myslící substanci, kterou je duše či mysl. Otázka, jak spolu tyto dvě zcela odlišné substance interagují, se stala jedním z velkých problémů novověké filosofie.",
   "source": "René Descartes, Meditace o první filosofii",
   "seedElo": 1570
+ },
+ {
+  "id": "dfi-A01",
+  "type": "F",
+  "category": "dejiny-filosofie",
+  "text": "Co je apeiron, počátek všeho podle Anaximandra z Mílétu?",
+  "options": [
+   "Neurčitá a bezmezná pralátka všeho",
+   "Nejjemnější vzduch prostupující kosmem",
+   "Věčný oheň proměňující se v prvky",
+   "Nedělitelné částice v prázdném prostoru"
+  ],
+  "correct": 0,
+  "explanation": "Anaximandros odmítl ztotožnit počátek s některým z živlů a zavedl apeiron, tedy to bezmezné a neurčité, z čeho se vyděluje vše ostatní. Právě proto, že samo nemá určitou povahu, může z něj vzejít teplé i studené, suché i vlhké. Vzduch jako počátek hlásal až Anaximenés, oheň Hérakleitos.",
+  "source": "Anaximandros (zlomky u Simplikia)",
+  "seedElo": 1580
  },
  {
   "id": "dfi-11",
@@ -176,6 +224,86 @@
   "seedElo": 1600
  },
  {
+  "id": "dfi-B01",
+  "type": "F",
+  "category": "dejiny-filosofie",
+  "text": "Spinozův výraz Deus sive Natura („Bůh čili Příroda“) vyjadřuje, že:",
+  "options": [
+   "Bůh přírodu stvořil, ale sám zůstává mimo její řád",
+   "příroda je jen nedokonalým odleskem božské skutečnosti",
+   "Bůh a příroda jsou jedna a táž nekonečná substance",
+   "o Bohu lze mluvit pouze v obrazech vzatých z přírody"
+  ],
+  "correct": 2,
+  "explanation": "Spinoza odmítá dvě substance i Boha stojícího nad světem: existuje jediná nekonečná substance, kterou lze nazvat Bohem nebo přírodou. Vše ostatní jsou její mody, tedy způsoby, jimiž se tato substance uskutečňuje. Současníci v tom viděli ateismus, o století později v tom Novalis viděl opilost Bohem.",
+  "source": "Spinoza, Etika, I.",
+  "seedElo": 1600
+ },
+ {
+  "id": "dfi-B02",
+  "type": "F",
+  "category": "dejiny-filosofie",
+  "text": "Co je podle Leibnize monáda?",
+  "options": [
+   "jednoduchá nerozprostraněná substance činná sama ze sebe",
+   "nejmenší dále nedělitelná částice hmotného tělesa",
+   "vrozená idea, kterou duše nachází sama v sobě bez zkušenosti",
+   "smyslový vjem, z něhož si mysl skládá obraz vnějšího světa"
+  ],
+  "correct": 0,
+  "explanation": "Monáda není hmotný atom: nemá části, a tedy ani rozlehlost. Je to prostý činný bod, jehož celý obsah tvoří vlastní představy a jejich vývoj. Právě proto Leibniz říká, že monády nemají okna — nic do nich nevstupuje zvenčí.",
+  "source": "Leibniz, Monadologie",
+  "seedElo": 1600
+ },
+ {
+  "id": "dfi-C01",
+  "type": "F",
+  "category": "dejiny-filosofie",
+  "text": "Marx v Ekonomicko-filosofických rukopisech popisuje odcizení práce. Který popis odpovídá jeho analýze?",
+  "options": [
+   "Dělník je odcizen především tím, že mu chybí vzdělání a kultura",
+   "Odcizení vzniká hlavně z přílišné dělby náboženských rolí",
+   "Dělník je odcizen produktu, vlastní činnosti, druhým i rodové podstatě",
+   "Odcizení je stav mysli, který lze odstranit změnou postoje k práci"
+  ],
+  "correct": 2,
+  "explanation": "Mladý Marx rozlišuje čtyři vrstvy odcizení: od produktu práce, který dělníkovi stojí proti jako cizí moc, od samotné činnosti, od rodové podstaty člověka jako tvořící bytosti a od druhých lidí. Není to psychologický stav ani nedostatek vzdělání, ale strukturní důsledek podmínek, za nichž se pracuje. Proto se odcizení podle Marxe neruší postojem, nýbrž změnou těchto podmínek.",
+  "source": "Marx: Ekonomicko-filosofické rukopisy z roku 1844",
+  "seedElo": 1600
+ },
+ {
+  "id": "dfi-C25",
+  "type": "F",
+  "category": "dejiny-filosofie",
+  "text": "Lyotardova diagnóza postmoderny jako „nedůvěry k velkým vyprávěním\" znamená:",
+  "options": [
+   "Ztrátu důvěry v příběhy, jež legitimovaly vědění, jako pokrok či emancipace",
+   "Odmítnutí veškerého vyprávění, románů a literatury jako formy poznání",
+   "Tvrzení, že věda je s konečnou platností nahrazena náboženstvím",
+   "Návrat k jednomu sjednocujícímu příběhu, který spojí všechny vědy"
+  ],
+  "correct": 0,
+  "explanation": "Lyotard sleduje, čím se legitimuje vědění: dříve to byla velká vyprávění o osvobození lidstva nebo o spekulativní jednotě ducha. V postmoderní situaci tyto příběhy ztratily důvěryhodnost a jejich místo zaujímají lokální jazykové hry a výkonnostní kritérium efektivity. Malá vyprávění nemizejí, mizí jen jejich nárok zaštítit celek.",
+  "source": "Lyotard: O postmodernismu",
+  "seedElo": 1600
+ },
+ {
+  "id": "dfi-A02",
+  "type": "F",
+  "category": "dejiny-filosofie",
+  "text": "Co bylo podle pythagorejců podstatou a pořádkem všech věcí?",
+  "options": [
+   "Neviditelný oheň ve středu světa",
+   "Číslo a harmonické poměry mezi nimi",
+   "Nekonečné množství drobných semen",
+   "Láska a svár mísící čtyři živly"
+  ],
+  "correct": 1,
+  "explanation": "Pythagorejci objevili, že souzvučné intervaly odpovídají jednoduchým poměrům délek struny, a zobecnili to na celý kosmos: číslo je principem věcí. Odtud pochází i slovo kosmos ve významu řád. Centrální oheň patří k jejich astronomii, ne k nauce o principu.",
+  "source": "Aristotelés, Metafyzika I",
+  "seedElo": 1620
+ },
+ {
   "id": "dfi-12",
   "type": "F",
   "category": "dejiny-filosofie",
@@ -190,6 +318,86 @@
   "explanation": "Hume tvrdil, že nikdy nevnímáme samotnou nutnou vazbu mezi příčinou a následkem, jen jejich opakované následování po sobě. Naše přesvědčení o kauzalitě je podle něj výsledkem zvyku mysli, nikoli logicky nezpochybnitelným poznatkem o světě.",
   "source": "David Hume, Zkoumání o lidském rozumu",
   "seedElo": 1630
+ },
+ {
+  "id": "dfi-A22",
+  "type": "F",
+  "category": "dejiny-filosofie",
+  "text": "Jaké je pořadí hypostazí v Plótínově nauce o emanaci?",
+  "options": [
+   "Jedno, duch čili nús, duše, potom svět",
+   "Bůh, andělé, člověk a nakonec zvířata",
+   "Duše, jedno, duch a nakonec pouhá látka",
+   "Látka, forma, duše a nakonec teprve jedno"
+  ],
+  "correct": 0,
+  "explanation": "Z Jedna, jež je nad jsoucnem i nad myšlením, vytéká jako světlo ze zdroje duch, z ducha duše a z duše smyslový svět. Emanace není rozhodnutí ani stvoření: Jedno tvoří z přebytku, aniž se tím zmenšuje. Cesta člověka pak vede opačným směrem, návratem k Jednu.",
+  "source": "Plótínos, Enneady V",
+  "seedElo": 1640
+ },
+ {
+  "id": "dfi-A07",
+  "type": "F",
+  "category": "dejiny-filosofie",
+  "text": "Co tvrdí Parmenidova takzvaná cesta pravdy?",
+  "options": [
+   "Jsoucno je jedno, nezrozené a nehybné",
+   "Vše plyne a nic nezůstává v témže stavu",
+   "Jsoucno se rodí ze sváru protikladů",
+   "Poznání je vždy jen věcí lidského mínění"
+  ],
+  "correct": 0,
+  "explanation": "Podle Parmenida lze myslet a vyslovit jen to, co jest; nejsoucno je nemyslitelné. Z toho plyne, že jsoucno nemohlo vzniknout ani zaniknout a nemůže se dělit ani pohybovat. Vedle cesty pravdy podává báseň i cestu mínění, tedy zdánlivý svět smyslů.",
+  "source": "Parmenidés, O přírodě (zlomek B8)",
+  "seedElo": 1650
+ },
+ {
+  "id": "dfi-B04",
+  "type": "F",
+  "category": "dejiny-filosofie",
+  "text": "Zásada esse est percipi tvrdí o smyslových věcech, že:",
+  "options": [
+   "existují nezávisle, ale poznáváme je jen skrze vjemy",
+   "jejich existenci lze dokázat pouze nepřímo, z jejich účinků",
+   "jsou složeny z hmotných částic, které vjemy vyvolávají",
+   "jejich bytí nespočívá v ničem jiném než v tom, že jsou vnímány"
+  ],
+  "correct": 3,
+  "explanation": "Berkeley netvrdí, že věci jsou pouhé zdání — tvrdí, že jejich bytí je totožné s tím být vnímán. Hmotná podstata pod vjemy je pro něj pojem bez obsahu, protože si nikdo nedokáže představit nevnímanou věc, aniž by si ji zároveň představoval. Tuto nauku sám nazýval imaterialismem.",
+  "source": "Berkeley, Pojednání o principech lidského poznání",
+  "seedElo": 1650
+ },
+ {
+  "id": "dfi-C09",
+  "type": "F",
+  "category": "dejiny-filosofie",
+  "text": "Co Arendtová míní „banalitou zla\" ve zprávě z Eichmannova procesu?",
+  "options": [
+   "Že Eichmannovy zločiny nebyly ve skutečnosti nijak závažné",
+   "Že zlo je vrozená vlastnost, kterou nelze nijak vysvětlit",
+   "Že za zlem stojí vždy démonická nenávist a hluboká lidská zvrácenost",
+   "Že obludné zločiny může páchat úředník neschopný samostatně myslet"
+  ],
+  "correct": 3,
+  "explanation": "Arendtová netvrdí, že zlo je malé, nýbrž že jeho pachatel může být nápadně obyčejný: Eichmann jí připadal jako kariérista mluvící v klišé, bez schopnosti představit si svět z místa druhého. Banalita se týká motivu a osoby, ne rozsahu činu. Proto Arendtová klade myšlení a soudnost mezi politické, nejen intelektuální schopnosti.",
+  "source": "Arendtová: Eichmann v Jeruzalémě",
+  "seedElo": 1650
+ },
+ {
+  "id": "dfi-C22",
+  "type": "F",
+  "category": "dejiny-filosofie",
+  "text": "Saussurova teze o arbitrárnosti znaku říká, že:",
+  "options": [
+   "znak je libovolný, takže si každý mluvčí může slova volit sám",
+   "označující a označované jsou dvě zcela nezávislé a oddělitelné věci",
+   "spojení označujícího a označovaného není dáno přirozenou podobou",
+   "jazyk je pouhý soupis jmen, jež byla přiřazena hotovým věcem"
+  ],
+  "correct": 2,
+  "explanation": "Arbitrárnost znamená nemotivovanost vztahu mezi zvukovým obrazem a pojmem, nikoli svobodu jednotlivce: pro mluvčího je znak naopak závazný, protože jej ustavuje jazykový systém. Hodnota znaku plyne z jeho rozdílu vůči ostatním znakům téhož systému, ne z podobnosti s věcí. Odtud pochází strukturalistická zásada, že smysl vzniká z diferencí.",
+  "source": "Saussure: Kurs obecné lingvistiky",
+  "seedElo": 1650
  },
  {
   "id": "dfi-13",
@@ -224,6 +432,102 @@
   "seedElo": 1690
  },
  {
+  "id": "dfi-A10",
+  "type": "K",
+  "category": "dejiny-filosofie",
+  "text": "Co označuje badatelský termín sókratovská otázka?",
+  "options": [
+   "Problém rekonstrukce Sókrata z pramenů",
+   "Spor o Sókratovu vinu v athénském procesu",
+   "Otázku po autorství Platónových sedmi listů",
+   "Spor o to, zda lze ctnostem vůbec vyučovat"
+  ],
+  "correct": 0,
+  "explanation": "Sókratés nic nenapsal a naše prameny se rozcházejí: Platónův Sókratés filosofuje o idejích, Xenofóntův je střízlivý mravokárce a Aristofanés z něj dělá karikaturu přírodozpytce a sofisty. Otázka, který obraz je historický, se v bádání nazývá sókratovskou otázkou a nemá shodné řešení.",
+  "source": "Platón, Xenofón, Aristofanés (Oblaky)",
+  "seedElo": 1700
+ },
+ {
+  "id": "dfi-B06",
+  "type": "K",
+  "category": "dejiny-filosofie",
+  "text": "Okazionalismus Nicolase Malebranche řeší problém působení duše na tělo tak, že:",
+  "options": [
+   "duši i tělo chápe jako dva aspekty jedné jediné substance",
+   "vkládá mezi ně jemnou látku, která obojí prostředkuje",
+   "pravou příčinou činí Boha, vůle je jen příležitostí k jeho zásahu",
+   "popírá, že by tělo mělo vlastní zákony odlišné od zákonů duše"
+  ],
+  "correct": 2,
+  "explanation": "Karteziánský dualismus nedokázal vysvětlit, jak by nerozprostraněná duše hýbala rozprostraněným tělem. Malebranche proto upírá konečným věcem jakoukoli skutečnou příčinnost: jediná pravá příčina je Bůh a moje chtění je pouhá příležitost (occasio), při níž Bůh způsobí pohyb. Cenu za to platí tím, že z přírody mizí vlastní působení věcí.",
+  "source": "Malebranche, Hledání pravdy",
+  "seedElo": 1700
+ },
+ {
+  "id": "dfi-B08",
+  "type": "F",
+  "category": "dejiny-filosofie",
+  "text": "Voltairův Candide se posmívá tezi o nejlepším z možných světů. Co jí Leibniz vlastně tvrdil?",
+  "options": [
+   "že v našem světě se vůbec nevyskytuje žádné skutečné zlo",
+   "že Bůh z nekonečně mnoha možných světů zvolil ten nejdokonalejší",
+   "že dějiny nutně směřují k stále dokonalejšímu uspořádání",
+   "že měřítkem dokonalosti světa je štěstí jeho obyvatel"
+  ],
+  "correct": 1,
+  "explanation": "Leibniz nepopírá utrpení; tvrdí, že dokonalý Bůh musel z nekonečna možných světů vybrat ten s nejlepším poměrem bohatství jevů a jednoduchosti zákonů, a zlo je nutnou cenou této volby. Voltaire po lisabonském zemětřesení 1755 tuto útěchu vysmál postavou doktora Panglosse. Karikatura ovšem míří spíš na zplošťující popularizaci než na Leibnizovu vlastní argumentaci.",
+  "source": "Leibniz, Theodicea; Voltaire, Candide",
+  "seedElo": 1700
+ },
+ {
+  "id": "dfi-C08",
+  "type": "F",
+  "category": "dejiny-filosofie",
+  "text": "Co Husserl označuje pojmem epoché (fenomenologická redukce)?",
+  "options": [
+   "Popření existence vnějšího světa coby pouhé iluze vědomí",
+   "Přísně experimentální zkoumání mozkových procesů vnímání",
+   "Zdržení se soudu o existenci světa a obrat k tomu, jak se jeví",
+   "Vysvětlení prožitků z jejich příčin v dějinách a ve společnosti"
+  ],
+  "correct": 2,
+  "explanation": "Epoché uzávorkuje přirozený postoj, tedy samozřejmou víru v existenci světa, a nechá vystoupit svět tak, jak se dává vědomí. Není to popření reality ani skepse, ale změna zaměření pohledu. Teprve v tomto postoji lze podle Husserla popisovat struktury zkušenosti bez skrytých předpokladů převzatých z věd.",
+  "source": "Husserl: Ideje k čisté fenomenologii",
+  "seedElo": 1700
+ },
+ {
+  "id": "dfi-C29",
+  "type": "F",
+  "category": "dejiny-filosofie",
+  "text": "Verifikační kritérium významu Vídeňského kroužku vede k závěru, že:",
+  "options": [
+   "matematické věty jsou nesmyslné, neboť je nelze ověřit smysly",
+   "věty o pozorování jsou nesmyslné, protože jsou vždy nejisté",
+   "metafyzické věty nejsou nepravdivé, nýbrž postrádají smysl",
+   "věda a metafyzika se liší pouze mírou dosažené přesnosti"
+  ],
+  "correct": 2,
+  "explanation": "Podle logických empiristů má smysl jen věta analytická, tedy pravdivá z logiky a definic, nebo empiricky ověřitelná. Metafyzické výroky nesplňují ani jedno, takže se podle Carnapa nemají vyvracet, ale odhalovat jako zdánlivé věty, blíže hudbě než poznání. Matematika je zachráněna právě jako analytická. Kritérium samo se ovšem ukázalo jako obtížně formulovatelné a nakonec padlo.",
+  "source": "Carnap: Překonání metafyziky logickou analýzou jazyka",
+  "seedElo": 1700
+ },
+ {
+  "id": "dfi-C32",
+  "type": "F",
+  "category": "dejiny-filosofie",
+  "text": "Popper v Otevřené společnosti kritizuje historicismus. Co jím míní?",
+  "options": [
+   "Přílišný zájem o dějiny filosofie, jenž odvádí pozornost od vědy",
+   "Nárok předpovídat nutný běh dějin a podle něj řídit společnost",
+   "Metodu, jež hledá v pramenech doslovný smysl minulých textů",
+   "Názor, že společnost lze zlepšovat jen postupnými dílčími reformami"
+  ],
+  "correct": 1,
+  "explanation": "Historicismem Popper nazývá přesvědčení, že dějiny mají odhalitelné zákony vývoje, z nichž lze odvodit jejich cíl, a že politika má tomuto cíli sloužit. Vidí v něm kořen uzavřených společností a totalitní pokušení, protože ospravedlňuje libovolnou oběť budoucností. Proti němu staví postupné kusé inženýrství a instituce umožňující odvolat vládu bez násilí.",
+  "source": "Popper: Otevřená společnost a její nepřátelé; Bída historicismu",
+  "seedElo": 1700
+ },
+ {
   "id": "dfi-15",
   "type": "F",
   "category": "dejiny-filosofie",
@@ -238,6 +542,38 @@
   "explanation": "Podle Kanta nikdy nepoznáváme realitu takovou, jaká je sama o sobě, ale jen jak se nám jeví, zprostředkovaně skrze naše smyslové a rozumové struktury. Věc o sobě zůstává navždy za hranicí možné lidské zkušenosti.",
   "source": "Immanuel Kant, Kritika čistého rozumu",
   "seedElo": 1720
+ },
+ {
+  "id": "dfi-A08",
+  "type": "F",
+  "category": "dejiny-filosofie",
+  "text": "Jak Platón v Theaitétovi vykládá Prótagorovu větu o člověku jako míře?",
+  "options": [
+   "Jako výzvu k hledání obecných definic",
+   "Jako důkaz, že jsoucno je pouze jedno",
+   "Jako tvrzení, že bohové jsou lidský výmysl",
+   "Jako relativismus: jak se komu co jeví"
+  ],
+  "correct": 3,
+  "explanation": "Prótagorova věta říká, že člověk je mírou všech věcí, jsoucích i nejsoucích. Platón ji čte jako tezi, že pravdivé je pro každého to, co se mu jeví, a obrací ji proti ní samé: pak je pravdivé i mínění těch, kdo Prótagoru odmítají. O bozích se Prótagorás vyjadřoval zvlášť, agnosticky.",
+  "source": "Platón, Theaitétos 152a",
+  "seedElo": 1720
+ },
+ {
+  "id": "dfi-A20",
+  "type": "F",
+  "category": "dejiny-filosofie",
+  "text": "Co znamená v antickém skepticismu epoché?",
+  "options": [
+   "Poznání dosažené pomocí kritéria pravdy",
+   "Zkoumání příčin vedoucí ke konečné jistotě",
+   "Zdržení se soudu vedoucí ke klidu duše",
+   "Popření existence vnějšího světa vůbec"
+  ],
+  "correct": 2,
+  "explanation": "Skeptik podle Pyrrhónovy tradice staví proti každému tvrzení stejně silné tvrzení opačné; z této rovnováhy plyne zdržení se soudu, epoché. Ataraxie prý nastane sama, jako stín, a nikoli jako výsledek úsilí. Skeptik přitom nepopírá jevy, jen odmítá tvrdit, jaké věci jsou samy o sobě.",
+  "source": "Sextus Empiricus, Základy pyrrhónismu I",
+  "seedElo": 1730
  },
  {
   "id": "dfi-16",
@@ -256,6 +592,134 @@
   "seedElo": 1750
  },
  {
+  "id": "dfi-A03",
+  "type": "K",
+  "category": "dejiny-filosofie",
+  "text": "Co u Empedokla působí vznik a zánik věcí ze čtyř kořenů?",
+  "options": [
+   "Zhušťování a zřeďování jediné pralátky vzduchu",
+   "Střídavá převaha Lásky a Sváru nad živly",
+   "Vířivý pohyb nekonečně mnoha atomů v prázdnu",
+   "Rozumné roztřídění nesčetných semen myslí"
+  ],
+  "correct": 1,
+  "explanation": "Empedoklés má čtyři nezničitelné kořeny (oheň, vzduch, voda, země) a dvě hybné síly: Lásku, jež je spojuje, a Svár, jenž je rozděluje. Vznik a zánik je tedy pouze mísení a rozlučování toho, co samo trvá. Kosmos podle něj prochází cyklem převahy jedné a druhé síly.",
+  "source": "Empedoklés, O přírodě (zlomky)",
+  "seedElo": 1750
+ },
+ {
+  "id": "dfi-B09",
+  "type": "K",
+  "category": "dejiny-filosofie",
+  "text": "Podle Locka jsou sekundární kvality, tedy barva, chuť či zvuk:",
+  "options": [
+   "mocnosti věcí vyvolat v nás vjem, který se věci sám nepodobá",
+   "vlastnosti neoddělitelné od tělesa v jakémkoli jeho stavu",
+   "ideje, které mysl vytváří zcela nezávisle na vnějších věcech",
+   "vztahy mezi tělesy, jež lze vyjádřit jen matematicky"
+  ],
+  "correct": 0,
+  "explanation": "Primární kvality (rozlehlost, tvar, pohyb, počet) tělesu podle Locka náležejí samy o sobě a naše ideje je zobrazují. Sekundární kvality jsou naproti tomu pouhé mocnosti tělesa vyvolat v nás jistý vjem díky uspořádání jeho neviditelných částic; barvě ve věci neodpovídá nic barvě podobného. Berkeley později namítne, že týmiž argumenty lze zrušit i kvality primární.",
+  "source": "Locke, Esej o lidském rozumu, II.8",
+  "seedElo": 1750
+ },
+ {
+  "id": "dfi-B12",
+  "type": "K",
+  "category": "dejiny-filosofie",
+  "text": "Kantův Kopernikánský obrat spočívá v předpokladu, že:",
+  "options": [
+   "poznání se řídí předměty, jak nám je smysly předkládají",
+   "svět je uspořádán tak, aby jej lidský rozum mohl pochopit",
+   "vědecké poznání pokračuje jen hromaděním jednotlivých faktů",
+   "předměty se řídí naším poznáním, jeho apriorními formami"
+  ],
+  "correct": 3,
+  "explanation": "Dokud se poznání řídí předměty, nelze vysvětlit, jak o nich můžeme něco vědět předem. Kant proto obrací poměr: předmět zkušenosti je vždy už zformován našimi formami nazírání a kategoriemi, a proto o něm platí apriorní zákony. Přirovnání ke Koperníkovi je Kantovo vlastní z předmluvy k druhému vydání.",
+  "source": "Kant, Kritika čistého rozumu, předmluva k 2. vydání",
+  "seedElo": 1750
+ },
+ {
+  "id": "dfi-B14",
+  "type": "K",
+  "category": "dejiny-filosofie",
+  "text": "Co u Schopenhauera znamená, že svět je vůle a představa?",
+  "options": [
+   "svět je pouhým výtvorem lidského chtění a jinak vůbec nemá bytí",
+   "vůle je nejvyšší mravní silou, jež dává světu jeho smysl",
+   "jev je má představa, jeho nitrem je slepá a nenasytná vůle",
+   "představy jsou slabé, kdežto vůle je jasný projev rozumu"
+  ],
+  "correct": 2,
+  "explanation": "Schopenhauer přejímá Kantovo rozlišení jevu a věci o sobě, ale tvrdí, že k věci o sobě máme jeden vnitřní přístup: vlastní tělo prožíváme zevnitř jako vůli. Tuto bezúčelnou, nikdy neukojenou vůli pak rozpoznává jako nitro veškeré skutečnosti. Odtud plyne jeho pesimismus i únik v umění a v odřeknutí vůle.",
+  "source": "Schopenhauer, Svět jako vůle a představa",
+  "seedElo": 1750
+ },
+ {
+  "id": "dfi-C07",
+  "type": "F",
+  "category": "dejiny-filosofie",
+  "text": "Deweyův instrumentalismus chápe myšlení především jako:",
+  "options": [
+   "kontemplaci věčných forem, jež jsou zcela nezávislé na jednání",
+   "nástroj řešení problémů, jimiž se organismus vyrovnává se světem",
+   "soukromý vnitřní proces zcela oddělený od výchovy i od společnosti",
+   "systém pravidel odvozených z jistých a nezpochybnitelných axiomů"
+  ],
+  "correct": 1,
+  "explanation": "Dewey vychází z biologického vztahu organismu a prostředí: myšlení se probouzí tam, kde je rutina narušena problematickou situací, a jeho úkolem je situaci znovu učinit srozumitelnou a zvládnutelnou. Ideje jsou proto plány jednání, nikoli obrazy hotové skutečnosti. Odtud plyne i jeho důraz na zkušenostní vzdělávání a demokracii jako formu sdíleného života.",
+  "source": "Dewey: Demokracie a výchova; Logika: teorie zkoumání",
+  "seedElo": 1750
+ },
+ {
+  "id": "dfi-C18",
+  "type": "F",
+  "category": "dejiny-filosofie",
+  "text": "Známá věta „Ženou se člověk nerodí, ženou se stává\" u Beauvoirové znamená:",
+  "options": [
+   "že biologické pohlaví neexistuje a tělo nehraje vůbec žádnou roli",
+   "že ženství je situace utvářená kulturou, jež ženu klade jako Druhou",
+   "že společenské role žen jsou dány přírodou a nelze je nijak měnit",
+   "že rozdíly mezi pohlavími jsou dány výhradně biologickou dědičností těla"
+  ],
+  "correct": 1,
+  "explanation": "Beauvoirová nepopírá tělo, ale odmítá, že by z něj plynul osud: tělo je situace, kterou teprve výchova, mýty a instituce vykládají. Muž je v této struktuře kladen jako norma a subjekt, žena jako Druhá, definovaná vztahem k němu. Existencialistický rámec zde slouží k tomu, aby se ženství ukázalo jako dějinný projekt, ne jako esence.",
+  "source": "Beauvoirová: Druhé pohlaví",
+  "seedElo": 1750
+ },
+ {
+  "id": "dfi-A14",
+  "type": "K",
+  "category": "dejiny-filosofie",
+  "text": "Jaká námitka proti teorii idejí zaznívá v Platónově dialogu Parmenidés?",
+  "options": [
+   "Ideje nelze poznat žádnou rozumovou úvahou",
+   "Ideje existují pouze v mysli boha stvořitele",
+   "Účast věcí na ideji vede k nekonečnému regresu",
+   "Idejí musí být nutně právě tolik jako věcí"
+  ],
+  "correct": 2,
+  "explanation": "Argument zvaný třetí člověk zní: je-li mnoho velkých věcí podobných ideji velikosti, musí být další idea zahrnující je i onu ideu, a tak dále bez konce. Platón tu kritizuje vlastní nauku ústy Parmenida a mladého Sókrata nechává bez odpovědi. Aristotelés námitku později přebírá jako svou.",
+  "source": "Platón, Parmenidés 132a–b",
+  "seedElo": 1760
+ },
+ {
+  "id": "dfi-A25",
+  "type": "F",
+  "category": "dejiny-filosofie",
+  "text": "Co ve sporu o univerzálie tvrdí důsledný nominalismus?",
+  "options": [
+   "Obecniny existují před věcmi v mysli Boží",
+   "Obecné je pouhé jméno, reálné je jednotlivé",
+   "Obecniny jsou pojmy vzniklé v lidské mysli",
+   "Obecniny existují ve věcech jako jejich forma"
+  ],
+  "correct": 1,
+  "explanation": "Nominalismus popírá, že by obecninám odpovídalo cokoli mimo jednotlivé věci; obecné je jen jméno, u Roscellina dokonce pouhý zvuk hlasu. Realismus naopak klade obecniny před věci nebo ve věcech, konceptualismus je umisťuje do mysli jako pojmy. Spor rozhodoval i o tom, co vlastně věda poznává.",
+  "source": "středověký spor o univerzálie (Roscellinus)",
+  "seedElo": 1770
+ },
+ {
   "id": "dfi-17",
   "type": "K",
   "category": "dejiny-filosofie",
@@ -270,6 +734,118 @@
   "explanation": "Nietzscheho výrok o smrti Boha byl diagnózou kulturní situace, kdy křesťanská metafyzika a s ní spjaté hodnoty ztrácely v moderní době svou samozřejmou závaznost, nikoli teologickým tvrzením. Pozdější zneužití jeho myšlenek nacismem, k němuž přispěla i jeho sestra editující jeho dílo, stojí v příkrém rozporu s jeho vlastními texty i pohrdáním antisemitismem a nacionalismem.",
   "source": "Friedrich Nietzsche, Radostná věda",
   "seedElo": 1780
+ },
+ {
+  "id": "dfi-A05",
+  "type": "F",
+  "category": "dejiny-filosofie",
+  "text": "Co podle Leukippa a Démokrita existuje vedle atomů?",
+  "options": [
+   "Bezmezné apeiron obklopující zrozené světy",
+   "Kosmická mysl řídící vzájemné srážky atomů",
+   "Prázdno, tedy nejsoucno, které přesto jest",
+   "Čtyři živly slučované působením lásky"
+  ],
+  "correct": 2,
+  "explanation": "Atomisté učinili odvážný krok: prohlásili za skutečné i nejsoucno, totiž prázdno, bez něhož by nebyl možný pohyb. Atomy se liší jen tvarem, polohou a uspořádáním; barvy a chutě jsou podle Démokrita jen naším zvykem. Tím obešli Parmenidův zákaz nejsoucna, aniž se vzdali mnohosti.",
+  "source": "Démokritos (zlomky), Aristotelés, Metafyzika I",
+  "seedElo": 1780
+ },
+ {
+  "id": "dfi-A28",
+  "type": "K",
+  "category": "dejiny-filosofie",
+  "text": "Jakou námitku vznesl mnich Gaunilo proti Anselmovu důkazu Boží existence?",
+  "options": [
+   "Že pojem Boha je sám v sobě rozporný",
+   "Že o Bohu nelze mluvit vůbec nijak",
+   "Že stejně by šlo dokázat dokonalý ostrov",
+   "Že existence Boha se dokazuje z pohybu"
+  ],
+  "correct": 2,
+  "explanation": "Anselm usuzoval, že to, nad co nelze myslet nic většího, musí existovat i mimo mysl, jinak by to nebylo největší. Gaunilo ve spisu Za blázna namítl, že týmž postupem by bylo možné dokázat existenci nejdokonalejšího ostrova. Anselm odpověděl, že jeho argument platí jedině o bytosti nutné.",
+  "source": "Anselm, Proslogion; Gaunilo, Liber pro insipiente",
+  "seedElo": 1790
+ },
+ {
+  "id": "dfi-A17",
+  "type": "F",
+  "category": "dejiny-filosofie",
+  "text": "Co znamená Aristotelova definice duše jako entelechie přirozeného těla?",
+  "options": [
+   "Duše je uskutečněním možností živého těla",
+   "Duše je jemná látka rozptýlená v celém těle",
+   "Duše je v těle vězněna a touží z něho uniknout",
+   "Duše je samostatnou a nesmrtelnou bytostí"
+  ],
+  "correct": 0,
+  "explanation": "Duše není u Aristotela věc uložená v těle, nýbrž jeho forma, tedy to, čím tělo je živé a schopné svých úkonů. Ptát se, zda jsou duše a tělo jedno, je pak podle něj stejně zbytečné jako ptát se, zda jsou jedno vosk a jeho tvar. Vězení duše v těle je naopak orficko-platónský obraz.",
+  "source": "Aristotelés, O duši II, 1",
+  "seedElo": 1800
+ },
+ {
+  "id": "dfi-B11",
+  "type": "F",
+  "category": "dejiny-filosofie",
+  "text": "Když Hume hledá ve své zkušenosti já, nachází podle vlastních slov:",
+  "options": [
+   "trvalý dojem trvání, na němž stojí jistota vlastní existence",
+   "jen sled jednotlivých percepcí, žádný stálý dojem já samotného",
+   "myslící substanci, kterou nelze popřít, aniž bychom popřeli sebe",
+   "prázdnou formu vědomí, která všechny naše představy provází"
+  ],
+  "correct": 1,
+  "explanation": "Hume aplikuje své pravidlo, že každá idea musí pocházet z nějakého dojmu — a dojem stálého já nikde nenajde. Zbývá mu svazek či snůška percepcí, které se rychle střídají; jednotu jim dodává až asociativní práce představivosti. V dodatku k Traktátu sám přiznal, že s tímto řešením není spokojen.",
+  "source": "Hume, Traktát o lidské přirozenosti, I.4.6",
+  "seedElo": 1800
+ },
+ {
+  "id": "dfi-B13",
+  "type": "K",
+  "category": "dejiny-filosofie",
+  "text": "Proč se v Hegelově dialektice pána a raba postavení nakonec obrací?",
+  "options": [
+   "rab prací zpracovává svět a v ní nabývá samostatnosti",
+   "pán nakonec ze soucitu vrátí rabovi jeho původní svobodu",
+   "rab se vzbouří a v novém boji na život a na smrt zvítězí",
+   "oba shledají, že jejich spor byl od počátku jen zdánlivý"
+  ],
+  "correct": 0,
+  "explanation": "Pán dosáhl uznání, ale od někoho, koho sám neuznává za rovného — jeho uznání je proto bezcenné. Rab má naopak dvojí zkušenost: strach ze smrti, který mu rozpustil všechnu ustrnulost, a práci, v níž svou představu vtiskuje do věci a vidí v ní sám sebe. Samostatné vědomí tak vzniká na straně sloužícího, ne panujícího.",
+  "source": "Hegel, Fenomenologie ducha, kap. IV.",
+  "seedElo": 1800
+ },
+ {
+  "id": "dfi-C06",
+  "type": "F",
+  "category": "dejiny-filosofie",
+  "text": "Jak William James chápe pravdu v rámci pragmatismu?",
+  "options": [
+   "Pravda je věčná shoda ideje s neměnnou podstatou věci",
+   "Pravda je to, co je příjemné věřit, bez ohledu na následky",
+   "Pravda je vlastnost, kterou věty mají nezávisle na zkušenosti",
+   "Pravda je to, co se v běhu zkušenosti osvědčí a obstojí"
+  ],
+  "correct": 3,
+  "explanation": "James chápe pravdu jako událost, která se ideji přihodí: idea se stává pravdivou tím, že nás spolehlivě vede zkušeností a obstojí v jejím dalším průběhu. Nejde o libovolné příjemné mínění, protože ověřování je veřejné a idea může selhat. Kritici mu přesto vytýkali, že hranici mezi osvědčením a pohodlím drží příliš volně.",
+  "source": "James: Pragmatismus",
+  "seedElo": 1800
+ },
+ {
+  "id": "dfi-C17",
+  "type": "F",
+  "category": "dejiny-filosofie",
+  "text": "Co je Sartrova „zlá víra\" (mauvaise foi)?",
+  "options": [
+   "Vědomá lež druhým o tom, jaké jsou skutečné motivy mého vlastního jednání",
+   "Náboženská víra přijatá bez důkazů a proti hlasu rozumu i zkušenosti",
+   "Útěk před svobodou, kdy si sám sebe vykládám jako pouhou věc či roli",
+   "Nevědomé potlačení přání, jež je pro subjekt zcela nepřijatelné"
+  ],
+  "correct": 2,
+  "explanation": "Zlá víra je lež sobě samému: člověk využívá dvojznačnosti své fakticity a transcendence, aby si namluvil, že nemá na vybranou. Sartre ji ilustruje číšníkem, který hraje číšníka až příliš dokonale, nebo ženou, jež nechá svou ruku ležet v cizí dlani jako neutrální předmět. Nejde o freudovské potlačení, protože Sartre jednotu vědomí neštěpí na cenzora a potlačené.",
+  "source": "Sartre: Bytí a nicota, kapitola o zlé víře",
+  "seedElo": 1800
  },
  {
   "id": "dfi-18",
@@ -304,6 +880,118 @@
   "seedElo": 1840
  },
  {
+  "id": "dfi-B15",
+  "type": "F",
+  "category": "dejiny-filosofie",
+  "text": "Kudy podle Descarta prochází působení mezi myslící duší a tělem?",
+  "options": [
+   "skrze krev, jež přenáší podněty do všech částí lidského těla",
+   "skrze šišinku v mozku, kde duše uvádí do pohybu zvířecí duchy",
+   "skrze nervy, jejichž zvláštní látka je zpola duchovní povahy",
+   "nikudy: obojí jen souběžně vyjadřuje jednu a tutéž skutečnost"
+  ],
+  "correct": 1,
+  "explanation": "Descartes hledal orgán, který je v mozku jen jeden (a nezdvojený jako ostatní), a našel jej v epifýze neboli šišince. Duše tam podle něj mírně vychyluje proud jemných zvířecích duchů, a tím řídí pohyb. Alžběta Falcká mu už za jeho života namítla, že nerozprostraněné nemůže udělovat pohyb, a on na to nikdy uspokojivě neodpověděl.",
+  "source": "Descartes, Vášně duše; korespondence s Alžbětou Falckou",
+  "seedElo": 1850
+ },
+ {
+  "id": "dfi-B17",
+  "type": "F",
+  "category": "dejiny-filosofie",
+  "text": "Co Spinoza označuje pojmem conatus?",
+  "options": [
+   "snahu každé věci setrvávat ve svém bytí, jež je její podstatou",
+   "úsilí rozumu překonat vášně a dospět k blaženému poznání",
+   "napětí mezi atributy myšlení a rozlehlosti v jedné věci",
+   "sílu, jíž Bůh udržuje stvořené věci v jejich dalším trvání"
+  ],
+  "correct": 0,
+  "explanation": "Conatus je snaha, jíž každá věc usiluje setrvat ve své existenci, a Spinoza ji ztotožňuje s aktuální podstatou té věci. U člověka se projevuje jako žádost a stává se základem celé nauky o afektech: radost je přechod k větší dokonalosti, smutek k menší. Dobré a zlé se pak definuje vzhledem k tomu, co conatus posiluje či oslabuje.",
+  "source": "Spinoza, Etika, III, věty 6–9",
+  "seedElo": 1850
+ },
+ {
+  "id": "dfi-B22",
+  "type": "K",
+  "category": "dejiny-filosofie",
+  "text": "Humův argument proti zázrakům se opírá o zásadu, že:",
+  "options": [
+   "zázraky odporují rozumu, a jsou proto logicky vyloučené",
+   "svědectví přijmeme jen tehdy, byla-li by lež větším divem",
+   "o minulých událostech nelze mít nikdy spolehlivé poznání",
+   "náboženská svědectví jsou vždy vedena zájmem svých hlasatelů"
+  ],
+  "correct": 1,
+  "explanation": "Hume zázrak nedokazuje jako nemožný — argumentuje o vahách svědectví. Proti zázraku stojí veškerá dosavadní jednotná zkušenost, takže svědectví bychom měli uvěřit jedině tehdy, kdyby jeho nepravdivost byla ještě podivuhodnější než ten zázrak sám. Dodává pak řadu praktických důvodů (nadšení, sklon k údivu, původ zpráv v nevzdělaných dobách), proč k tomu prakticky nikdy nedochází.",
+  "source": "Hume, Zkoumání o lidském rozumu, X.",
+  "seedElo": 1850
+ },
+ {
+  "id": "dfi-B24",
+  "type": "K",
+  "category": "dejiny-filosofie",
+  "text": "Co Kant dokazuje v transcendentální estetice o prostoru a čase?",
+  "options": [
+   "jsou to nejobecnější pojmy, jež rozvažování získává abstrakcí",
+   "jsou to vlastnosti věcí o sobě, nezávislé na našich smyslech",
+   "jsou to prázdné nádoby, v nichž jsou věci uloženy vedle sebe",
+   "jsou to apriorní formy nazírání, ne vlastnosti věcí o sobě"
+  ],
+  "correct": 3,
+  "explanation": "Prostor a čas nejsou podle Kanta pojmy, ale čistá názorná forma: jednotlivé prostory si představujeme jako části jednoho prostoru, což u pojmu neplatí. Nepocházejí ze zkušenosti, nýbrž ji teprve umožňují — proto může geometrie platit nutně o všem, co kdy uvidíme. Cenou je, že prostor a čas platí jen o jevech, nikoli o věcech, jak jsou samy o sobě.",
+  "source": "Kant, Kritika čistého rozumu, Transcendentální estetika",
+  "seedElo": 1850
+ },
+ {
+  "id": "dfi-C03",
+  "type": "K",
+  "category": "dejiny-filosofie",
+  "text": "Co znamená v Marxově pojetí, že ideologie je „falešné vědomí\"?",
+  "options": [
+   "Že vládnoucí třída vědomě lže o svých skutečných hospodářských zájmech",
+   "Že veškeré myšlení je nutně nepravdivé a nelze mu vůbec věřit",
+   "Že idejím se má rozumět výhradně z jejich vlastní vnitřní logiky",
+   "Že myšlenky se jeví jako obecně platné, ač vyjadřují zájmy třídy"
+  ],
+  "correct": 3,
+  "explanation": "Ideologie není podle Marxe úmyslná lež, ale zdání obecnosti: partikulární zájem vládnoucí třídy se prezentuje a upřímně prožívá jako zájem všech. Kritika ideologie proto nespočívá v odhalení lhářů, ale ve výkladu myšlenek z jejich společenské pozice. Termín „falešné vědomí\" pochází od Engelse, Marx sám mluví spíš o obrácení skutečnosti jako v camaře obscuře.",
+  "source": "Marx a Engels: Německá ideologie",
+  "seedElo": 1850
+ },
+ {
+  "id": "dfi-C11",
+  "type": "K",
+  "category": "dejiny-filosofie",
+  "text": "Proč Heidegger nazývá člověka „Dasein\" (pobyt) místo „subjekt\" či „vědomí\"?",
+  "options": [
+   "Protože jde o bytí, jemuž v jeho bytí o toto bytí samo jde",
+   "Protože chce zdůraznit, že člověk je jen shluk fyzických dějů",
+   "Protože pobyt je nadčasová duše, jež stojí mimo dějiny a svět",
+   "Protože slovo subjekt je německy nesrozumitelné a nepřesné"
+  ],
+  "correct": 0,
+  "explanation": "Slovo subjekt nese dědictví izolované věci s vlastnostmi, která stojí proti světu objektů. Heidegger chce naopak vystihnout jsoucno, které nemá své bytí jako danost, ale jako úkol a starost: rozumí bytí a je vždy už bytím-ve-světě. Dasein proto není označení pro vědomí ani pro člověka jako druh, nýbrž pro tento způsob bytí.",
+  "source": "Heidegger: Bytí a čas",
+  "seedElo": 1850
+ },
+ {
+  "id": "dfi-C15",
+  "type": "F",
+  "category": "dejiny-filosofie",
+  "text": "Merleau-Pontyho fenomenologie vnímání staví do středu:",
+  "options": [
+   "čisté vědomí, jež je od těla principiálně oddělitelné a soběstačné",
+   "jazyk jako jediné médium, jímž je nám svět vůbec přístupný",
+   "vlastní tělo jako subjekt vnímání, ne jako předmět mezi předměty",
+   "nevědomé pudy, jež určují vnímání i myšlení každého člověka"
+  ],
+  "correct": 2,
+  "explanation": "Merleau-Ponty ukazuje, že tělo není jen věc ve světě, ale nulový bod perspektivy, jímž se svět otevírá. Vnímání má proto vždy tělesné schéma, motorickou intencionalitu a horizont, který nelze rozložit na počitky. Tím míří mezi karteziánský dualismus a objektivistickou psychologii, protože obě podle něj tělo přehlížejí jako subjekt.",
+  "source": "Merleau-Ponty: Fenomenologie vnímání",
+  "seedElo": 1850
+ },
+ {
   "id": "dfi-20",
   "type": "K",
   "category": "dejiny-filosofie",
@@ -318,5 +1006,597 @@
   "explanation": "V raném Traktátu logicko-filosofickém Wittgenstein pojímal jazyk jako logický obraz faktů světa s jasnou, ostrou strukturou. V pozdějších Filosofických zkoumáních tento názor opustil a jazyk popsal jako pestrou rozmanitost praktických 'jazykových her', jejichž význam vyplývá z konkrétního způsobu užití v životní praxi.",
   "source": "Ludwig Wittgenstein, Filosofická zkoumání",
   "seedElo": 1870
+ },
+ {
+  "id": "dfi-A12",
+  "type": "F",
+  "category": "dejiny-filosofie",
+  "text": "Co má dokládat geometrický pokus s otrokem v dialogu Menón?",
+  "options": [
+   "Že geometrii se lze naučit pouze výkladem",
+   "Že poznání je rozpomínáním se duše",
+   "Že ctnost je totožná s uměním měřit",
+   "Že smysly jsou spolehlivým zdrojem vědění"
+  ],
+  "correct": 1,
+  "explanation": "Sókratés vede neškoleného chlapce pouhými otázkami k tomu, aby sám nalezl stranu dvojnásobného čtverce. Protože mu nic nesdělil, musel prý chlapec vědění mít v sobě už dřív. Tak Platón zavádí anamnésis, rozpomínání duše na to, co viděla před zrozením.",
+  "source": "Platón, Menón 82b–86b",
+  "seedElo": 1870
+ },
+ {
+  "id": "dfi-A06",
+  "type": "K",
+  "category": "dejiny-filosofie",
+  "text": "Jaký smysl měly Zenónovy aporie o pohybu a mnohosti?",
+  "options": [
+   "Dokázat, že pohyb je jedinou skutečností",
+   "Založit matematiku na pojmu nekonečna",
+   "Hájit Parmenida útokem na jeho odpůrce",
+   "Vyvrátit učení atomistů o prázdném prostoru"
+  ],
+  "correct": 2,
+  "explanation": "Zenón nedokazoval přímo, že jsoucno je jedno, nýbrž ukazoval, že předpoklad mnohosti a pohybu vede k ještě horším rozporům. Jde tedy o nepřímou obranu učitele metodou sporu. Aristotelés jej proto označuje za vynálezce dialektiky.",
+  "source": "Platón, Parmenidés 128c–d",
+  "seedElo": 1880
+ },
+ {
+  "id": "dfi-A31",
+  "type": "F",
+  "category": "dejiny-filosofie",
+  "text": "Jak podle Maimonida ve Vůdci tápajících můžeme mluvit o Bohu?",
+  "options": [
+   "Pomocí kladných výroků o jeho vlastnostech",
+   "Pomocí obrazů přejatých z lidských citů",
+   "Pomocí záporů, protože kladné výroky selhávají",
+   "Pomocí důkazů z pohybu i z nahodilosti věcí"
+  ],
+  "correct": 2,
+  "explanation": "Maimonides odmítá připisovat Bohu kladné vlastnosti, protože by tím do jeho jednoduchosti vnášely mnohost. Zbývá teologie záporná: říkáme, čím Bůh není, a tím se k němu přibližujeme. Ve stejném duchu vykládá tělesné výrazy o Bohu v Písmu jako podobenství pro nezasvěcené.",
+  "source": "Maimonides, Vůdce tápajících I",
+  "seedElo": 1880
+ },
+ {
+  "id": "dfi-A16",
+  "type": "F",
+  "category": "dejiny-filosofie",
+  "text": "Jak Aristotelés pomocí aktu a potence vysvětluje možnost změny?",
+  "options": [
+   "Jako přechod z možnosti k uskutečnění",
+   "Jako střídání zhušťování a zřeďování",
+   "Jako pouhý zdánlivý jev pro naše smysly",
+   "Jako slučování a rozlučování atomů"
+  ],
+  "correct": 0,
+  "explanation": "Eleaté tvrdili, že nic nemůže vzniknout ani z jsoucího, ani z nejsoucího. Aristotelés zavádí třetí možnost: co je určitým způsobem jsoucí v možnosti, se stává jsoucím ve skutečnosti. Semeno není strom skutečně, ale možností, a změna je právě uskutečňováním této možnosti.",
+  "source": "Aristotelés, Fyzika I, 8; Metafyzika IX",
+  "seedElo": 1890
+ },
+ {
+  "id": "dfi-A04",
+  "type": "F",
+  "category": "dejiny-filosofie",
+  "text": "Jakou roli hraje nús, tedy mysl, v Anaxagorově výkladu světa?",
+  "options": [
+   "Splývá s látkou a je s ní odjakživa smíšena",
+   "Je nesmíšená a uvádí prasměs do vířivého pohybu",
+   "Je jen jiným jménem pro náhodné srážky atomů",
+   "Vzniká teprve z původní směsi semen všech věcí"
+  ],
+  "correct": 1,
+  "explanation": "U Anaxagory je na počátku směs, v níž je vše ve všem, a jediné, co s ničím smíšeno není, je nús. Ten uvede směs do víru a tím rozliší věci. Sókratés si podle Platónova Faidóna sliboval, že nús vysvětlí, proč je vše k nejlepšímu, a byl zklamán, že Anaxagorás ho použil jen mechanicky.",
+  "source": "Platón, Faidón 97b–98c",
+  "seedElo": 1900
+ },
+ {
+  "id": "dfi-B16",
+  "type": "K",
+  "category": "dejiny-filosofie",
+  "text": "Spinozova věta, že řád a spojení idejí je týž jako řád a spojení věcí, říká, že:",
+  "options": [
+   "ideje věrně kopírují věci, protože je od nich odvozujeme",
+   "myšlení působí na tělesnost, a proto se s ní vždy shoduje",
+   "pravdivé jsou jen ty ideje, které lze ověřit zkušeností",
+   "myšlení a rozlehlost jsou dva výrazy téhož jediného řádu"
+  ],
+  "correct": 3,
+  "explanation": "Myšlení a rozlehlost jsou u Spinozy dva atributy jedné substance, nikoli dvě věci, které by na sebe působily. Každá událost je proto zároveň vyjádřitelná jako děj tělesný i jako sled idejí, aniž jedno druhé způsobuje. Tím Spinoza rozpouští karteziánský problém interakce jinak než okazionalismus: příčinné působení mezi atributy vůbec nepotřebuje.",
+  "source": "Spinoza, Etika, II, věta 7",
+  "seedElo": 1900
+ },
+ {
+  "id": "dfi-B18",
+  "type": "K",
+  "category": "dejiny-filosofie",
+  "text": "Princip dostatečného důvodu u Leibnize tvrdí, že:",
+  "options": [
+   "z každé pravdivé věty lze odvodit důvod její pravdivosti",
+   "nic není tak, jak je, bez důvodu, proč je to tak a ne jinak",
+   "každá událost má svou bezprostředně předcházející příčinu",
+   "svět musí být poznatelný, jinak by nemělo smysl jej zkoumat"
+  ],
+  "correct": 1,
+  "explanation": "Vedle principu sporu, který vládne nutným pravdám, zavádí Leibniz druhý princip pro pravdy nahodilé: pro každý fakt musí existovat dostatečný důvod, proč je právě takový. Není to totéž co příčina — důvodem může být i Boží volba nejlepšího. Z tohoto principu Leibniz vyvozuje mimo jiné i to, že neexistují dvě zcela nerozlišitelné věci.",
+  "source": "Leibniz, Monadologie, §§ 31–32; korespondence s Clarkem",
+  "seedElo": 1900
+ },
+ {
+  "id": "dfi-B20",
+  "type": "K",
+  "category": "dejiny-filosofie",
+  "text": "Na čem podle Locka stojí totožnost osoby v čase?",
+  "options": [
+   "na trvání téže nehmotné duše, jež si je vědoma sebe sama",
+   "na nepřetržitém trvání jednoho a téhož živého organismu",
+   "na uznání ze strany druhých, kteří nás vidí jako touž osobu",
+   "na vědomí, které sahá pamětí zpět k dřívějším činům"
+  ],
+  "correct": 3,
+  "explanation": "Locke pečlivě odlišuje totožnost člověka jako živého těla, totožnost substance a totožnost osoby — a jen ta poslední je pro odpovědnost rozhodující. Osoba sahá tak daleko, kam sahá její vědomí; proto by princ s vědomím ševce byl týmž člověkem jako dřív, ale jinou osobou. Reid později namítl, že paměť je nepřechodná, a tedy pro totožnost nespolehlivé kritérium.",
+  "source": "Locke, Esej o lidském rozumu, II.27",
+  "seedElo": 1900
+ },
+ {
+  "id": "dfi-B21",
+  "type": "K",
+  "category": "dejiny-filosofie",
+  "text": "Jak Berkeley brání svou nauku před závěrem, že věci mizí, když je nikdo nevnímá?",
+  "options": [
+   "vše je trvale vnímáno Boží nekonečnou myslí, i když ne naší",
+   "věci mají vedle vnímané stránky ještě skrytou hmotnou oporu",
+   "vnímání jednoho ducha zastupují po jeho odchodu ostatní lidé",
+   "věci sice zaniknou, ale Bůh je při dalším pohledu obnovuje"
+  ],
+  "correct": 0,
+  "explanation": "Berkeley potřebuje vysvětlit, proč jsou naše vjemy stálé, řádné a na naší vůli nezávislé, aniž by zaváděl hmotu. Odpovědí je Bůh, který drží věci ve svém vnímání a působí v nás naše ideje podle stálých pravidel, jež nazýváme přírodními zákony. Existují tak jen duchové a jejich ideje, a přesto svět nekolabuje do solipsismu.",
+  "source": "Berkeley, Pojednání o principech; Tři dialogy",
+  "seedElo": 1900
+ },
+ {
+  "id": "dfi-B23",
+  "type": "K",
+  "category": "dejiny-filosofie",
+  "text": "Proč podle Huma nemůže být rozum sám zdrojem mravního soudu?",
+  "options": [
+   "rozum je příliš slabý, než aby přemohl naše silné vášně",
+   "mravní pravidla se v různých dobách a zemích značně liší",
+   "rozum poznává vztahy a fakta, k jednání však hýbe až cit",
+   "mravnost pochází z výchovy a ze zvyklostí dané společnosti"
+  ],
+  "correct": 2,
+  "explanation": "Rozum podle Huma zjišťuje jen vztahy idejí a fakta, a žádné takové zjištění samo o sobě nikoho k ničemu nepohne. Když prohlédneme úmyslnou vraždu ze všech stran, nenajdeme v ní žádnou vlastnost zvanou špatnost — najdeme ji až v nesouhlasném pocitu, který v nás vzniká. Mravní rozlišování je proto dílem sentimentu, který sdílíme díky sympatii.",
+  "source": "Hume, Traktát o lidské přirozenosti, III.1",
+  "seedElo": 1900
+ },
+ {
+  "id": "dfi-B25",
+  "type": "K",
+  "category": "dejiny-filosofie",
+  "text": "Čím se vyznačuje syntetický soud a priori?",
+  "options": [
+   "rozšiřuje poznání, a přesto nečerpá svou platnost ze zkušenosti",
+   "pouze rozvíjí to, co je už obsaženo v pojmu samotného podmětu",
+   "opírá se o zkušenost, ale platí s nutností pro všechny případy",
+   "spojuje dva pojmy, mezi nimiž zkušenost nachází stálý svazek"
+  ],
+  "correct": 0,
+  "explanation": "Analytický soud jen vyjasňuje pojem, empirický rozšiřuje poznání, ale platí jen nahodile. Kant tvrdí, že existuje třetí druh: soudy jako 7 + 5 = 12 nebo věta o zachování substance přidávají k pojmu něco nového, a přesto platí nutně a obecně. Otázka, jak jsou takové soudy možné, je hlavní otázkou celé první Kritiky.",
+  "source": "Kant, Kritika čistého rozumu, Úvod",
+  "seedElo": 1900
+ },
+ {
+  "id": "dfi-C10",
+  "type": "F",
+  "category": "dejiny-filosofie",
+  "text": "Co míní pozdní Husserl pojmem životní svět (Lebenswelt)?",
+  "options": [
+   "Souhrn biologických potřeb, které určují chování organismu",
+   "Předvědecký svět bezprostřední zkušenosti, z něhož věda vyrůstá",
+   "Ideální svět matematických předmětů, jenž zakládá platnost všech věd",
+   "Sociální řád, který si jedinci mezi sebou dohodli smlouvou"
+  ],
+  "correct": 1,
+  "explanation": "Životní svět je samozřejmá půda vnímané zkušenosti, v níž se pohybujeme dříve, než začneme měřit a idealizovat. Krize evropských věd podle Husserla spočívá v tom, že matematizovaná příroda se vydává za skutečnost samu a zapomíná na svůj původ v této půdě. Fenomenologie má tento zapomenutý základ znovu zpřístupnit.",
+  "source": "Husserl: Krize evropských věd a transcendentální fenomenologie",
+  "seedElo": 1900
+ },
+ {
+  "id": "dfi-C12",
+  "type": "F",
+  "category": "dejiny-filosofie",
+  "text": "Heideggerovo rozlišení příručního (Zuhandenes) a výskytového (Vorhandenes) znamená:",
+  "options": [
+   "příruční jsou věci malé a přenosné, výskytové jsou velké a těžké",
+   "příruční je vše duševní, výskytové je vše hmotné a měřitelné",
+   "věc je nejprve nástroj v použití, teprve poruchou se stane předmětem",
+   "výskytové je původnější, protože věda popisuje svět nejpřesněji"
+  ],
+  "correct": 2,
+  "explanation": "Kladivo se v práci nedává jako předmět s vlastnostmi, ale mizí ve svém k-čemu, v odkazovém celku dílny. Teprve když se rozbije, chybí nebo překáží, vystoupí jako pouhá věc, kterou lze nezúčastněně popisovat. Výskytovost je tedy odvozený, nikoli základní způsob setkávání s věcmi.",
+  "source": "Heidegger: Bytí a čas, § 15–16",
+  "seedElo": 1900
+ },
+ {
+  "id": "dfi-C16",
+  "type": "F",
+  "category": "dejiny-filosofie",
+  "text": "Jak Sartre v Bytí a nicotě rozlišuje bytí o sobě a bytí pro sebe?",
+  "options": [
+   "O sobě je plné a totožné se sebou, pro sebe je vědomí nesoucí nicotu",
+   "O sobě je vědomí sebe sama, pro sebe je vnější svět věcí a hmoty",
+   "O sobě je Bůh jako dokonalé jsoucno, pro sebe je příroda a život",
+   "O sobě je nevědomí, pro sebe je vědomá část duševního života"
+  ],
+  "correct": 0,
+  "explanation": "Bytí o sobě je masivní, neprůhledné a beze zbytku to, co je; bytí pro sebe je vědomí, které se od sebe odděluje nicotou a proto nikdy nesplývá se svou vlastní podstatou. Právě tato trhlina je zdrojem svobody i neklidu. Marnou touhou vědomí je podle Sartra stát se o sobě i pro sebe zároveň, tedy Bohem, což je rozpor.",
+  "source": "Sartre: Bytí a nicota",
+  "seedElo": 1900
+ },
+ {
+  "id": "dfi-C20",
+  "type": "F",
+  "category": "dejiny-filosofie",
+  "text": "Ústřední teze Dialektiky osvícenství (Horkheimer, Adorno) zní:",
+  "options": [
+   "Rozum osvobozující od mýtu se sám mění v nástroj ovládání a nový mýtus",
+   "Osvícenství selhalo proto, že nebylo dost důsledné v šíření vědy",
+   "Mýtus je vyšší formou poznání a osvícenství je třeba opustit",
+   "Dějiny nutně směřují k rozumnému uspořádání lidské společnosti"
+  ],
+  "correct": 0,
+  "explanation": "Autoři tvrdí, že osvícenský rozum, redukovaný na účelovou racionalitu ovládání přírody, se obrací proti člověku a plodí nové formy panství i vlastní mytologii. Mýtus už byl osvícenstvím a osvícenství se vrací do mýtu. Kniha přitom nechce osvícenství opustit, nýbrž zachránit tím, že mu podrží zrcadlo jeho vlastní kritiky.",
+  "source": "Horkheimer a Adorno: Dialektika osvícenství",
+  "seedElo": 1900
+ },
+ {
+  "id": "dfi-A19",
+  "type": "K",
+  "category": "dejiny-filosofie",
+  "text": "Co označuje pojem haecceitas u Jana Dunse Scota?",
+  "options": [
+   "Obecnou formu společnou celému druhu",
+   "To, čím je jednotlivina právě touto",
+   "Látku jako princip veškeré jednotlivosti",
+   "Boží ideu, podle níž je věc utvořena"
+  ],
+  "correct": 1,
+  "explanation": "Scotus odmítl tomistické řešení, podle něhož jednotlivce vymezuje látka, a zavedl haecceitas, tedy tatost: pozitivní určení, jímž je tato bytost právě sebou. Souvisí to s jeho naukou o jednoznačnosti pojmu jsoucna, který se o Bohu i tvorech vypovídá ve stejném významu. Pro jemnost svých rozlišení byl nazýván doctor subtilis.",
+  "source": "Duns Scotus, Ordinatio II",
+  "seedElo": 1910
+ },
+ {
+  "id": "dfi-A15",
+  "type": "F",
+  "category": "dejiny-filosofie",
+  "text": "Co je u Aristotela příčina účelová, tedy finální?",
+  "options": [
+   "Látka, z níž je věc zhotovena a složena",
+   "To, k čemu věc směřuje jako ke svému dobru",
+   "Tvar, který činí věc právě tímto jsoucnem",
+   "Původce pohybu, jenž změnu uvádí do chodu"
+  ],
+  "correct": 1,
+  "explanation": "Aristotelés rozlišuje příčinu látkovou, tvarovou, působící a účelovou; teprve všechny čtyři dohromady dávají úplné vysvětlení. Účelová příčina odpovídá na otázku proč ve smyslu k čemu a v přírodě nepředpokládá vědomý záměr. Právě ji novověká věda z výkladu přírody vyloučila.",
+  "source": "Aristotelés, Fyzika II, 3",
+  "seedElo": 1930
+ },
+ {
+  "id": "dfi-A21",
+  "type": "K",
+  "category": "dejiny-filosofie",
+  "text": "Co Giordano Bruno tvrdil o rozsahu a uspořádání vesmíru?",
+  "options": [
+   "Že vesmír je konečný a má pevný střed",
+   "Že hvězdy jsou otvory v nebeské klenbě",
+   "Že vesmír je nekonečný a světů je mnoho",
+   "Že Země stojí a Slunce kolem ní obíhá"
+  ],
+  "correct": 2,
+  "explanation": "Bruno domyslel Koperníka dál, než byl Koperník ochoten jít: zrušil vnější sféru stálic a prohlásil vesmír za nekonečný, s nesčetnými slunci a obydlenými světy. Spojil to s panteistickým pojetím jediné božské substance oživující vše. Roku 1600 byl v Římě upálen.",
+  "source": "Bruno, O nekonečnu, vesmíru a světech",
+  "seedElo": 1940
+ },
+ {
+  "id": "dfi-A23",
+  "type": "K",
+  "category": "dejiny-filosofie",
+  "text": "Které Órigenovo učení bylo později církví odsouzeno jako bludné?",
+  "options": [
+   "Že Kristus nikdy netrpěl svým vlastním tělem",
+   "Že Písmo se má vykládat pouze doslovně",
+   "Že hmota je výtvorem zlého demiurga světa",
+   "Že se všechny duše nakonec navrátí k Bohu"
+  ],
+  "correct": 3,
+  "explanation": "Órigenés učil apokatastasi, obnovu všeho, při níž se i padlé duchovní bytosti nakonec vrátí k Bohu, a spolu s tím předexistenci duší. Roku 553 byly tyto teze odsouzeny. Přitom právě on prosazoval vedle doslovného také duchovní, alegorický smysl Písma.",
+  "source": "Órigenés, O základech (De principiis)",
+  "seedElo": 1950
+ },
+ {
+  "id": "dfi-B26",
+  "type": "K",
+  "category": "dejiny-filosofie",
+  "text": "Kantova námitka proti ontologickému důkazu Boží existence zní:",
+  "options": [
+   "pojem nejdokonalejší bytosti si nikdo nedovede představit",
+   "z existence světa nelze bezpečně usoudit na jeho původce",
+   "bytí není reálný predikát, pojmu jím nic nového nepřibude",
+   "existenci lze dokázat jedině z ideje mravního zákona v nás"
+  ],
+  "correct": 2,
+  "explanation": "Ontologický důkaz zachází s existencí jako s další dokonalostí, kterou lze k pojmu přidat. Kant namítá, že bytí není určením věci: sto skutečných tolarů neobsahuje ani o vlásek víc než sto možných, liší se jen tím, že jedny mám. Z pouhého pojmu proto nikdy nevystoupíme k existenci; tu může doložit jen zkušenost.",
+  "source": "Kant, Kritika čistého rozumu, Transcendentální dialektika",
+  "seedElo": 1950
+ },
+ {
+  "id": "dfi-B27",
+  "type": "K",
+  "category": "dejiny-filosofie",
+  "text": "Co znamená u Fichta kladení ne-já?",
+  "options": [
+   "ne-já je hmotný svět, který já nachází jako již hotově daný",
+   "já samo klade proti sobě ne-já, aby na něm mohlo být činné",
+   "ne-já je Kantova věc o sobě, k níž já nemá vůbec přístup",
+   "ne-já označuje druhé lidi, kteří omezují svobodu mého já"
+  ],
+  "correct": 1,
+  "explanation": "Fichte škrtá věc o sobě jako nemyslitelnou a vychází z jediného principu: já klade samo sebe. Aby však mohlo být činné a vědomé, potřebuje odpor — a ten si klade samo jako ne-já, tedy jako svět, o nějž se jeho jednání opírá. Filosofie se tak u Fichta stává naukou o svobodě, v níž je teoretické poznání odvozeno z praktického.",
+  "source": "Fichte, Základ všeho vědosloví (1794)",
+  "seedElo": 1950
+ },
+ {
+  "id": "dfi-C19",
+  "type": "K",
+  "category": "dejiny-filosofie",
+  "text": "V čem se Camusovo pojetí absurdna liší od Sartrovy filosofie svobody?",
+  "options": [
+   "Camus vidí v absurdnu důkaz Boží existence, Sartre je ateista",
+   "Camus považuje sebevraždu za jediné důsledné řešení absurdna",
+   "Camus buduje soustavnou ontologii vědomí, zatímco Sartre píše eseje",
+   "Camus odmítá skok k projektu a smyslu a trvá na napětí absurdna"
+  ],
+  "correct": 3,
+  "explanation": "Pro Sartra je vědomí odsouzeno k tomu, aby si svobodně volilo projekt, jímž vytváří vlastní smysl. Camus naopak trvá na tom, že absurdno je vztah mezi lidskou touhou po smyslu a mlčením světa, a jakékoli dodání smyslu, náboženské i existencialistické, je filosofickou sebevraždou, tedy únikem. Absurdno se má udržet, ne vyřešit.",
+  "source": "Camus: Mýtus o Sisyfovi",
+  "seedElo": 1950
+ },
+ {
+  "id": "dfi-C21",
+  "type": "F",
+  "category": "dejiny-filosofie",
+  "text": "Habermasovo komunikativní jednání se od strategického liší tím, že:",
+  "options": [
+   "sleduje účel co nejúčinněji a druhého bere jako prostředek",
+   "míří k dorozumění a opírá se o nároky na platnost vznášené v řeči",
+   "je zcela nezávislé na jazyce a zakládá se na sdíleném citovém prožitku",
+   "vylučuje jakoukoli kritiku, protože usiluje o rychlý konsensus"
+  ],
+  "correct": 1,
+  "explanation": "Habermas ukazuje, že kdo mluví s cílem dorozumět se, nutně vznáší nároky na pravdivost, správnost a pravdivost úmyslu, které lze zpochybnit a obhájit argumenty. Tím vrací kritické teorii pozitivní základ, který podle něj Adornovi chyběl: rozum není jen nástroj ovládání, ale i médium dorozumění. Kritika systému pak zní jako kolonizace životního světa penězi a mocí.",
+  "source": "Habermas: Teorie komunikativního jednání",
+  "seedElo": 1950
+ },
+ {
+  "id": "dfi-C28",
+  "type": "F",
+  "category": "dejiny-filosofie",
+  "text": "Russellova teorie určitých deskripcí řeší větu „Současný král Francie je plešatý\" tím, že:",
+  "options": [
+   "připisuje králi Francie zvláštní způsob neexistujícího bytí",
+   "rozloží ji na tvrzení o existenci a jedinečnosti, takže je nepravdivá",
+   "prohlásí ji za nesmyslnou, protože nemá žádnou gramatickou formu",
+   "považuje ji za pravdivou, neboť o neexistujícím lze tvrdit vše"
+  ],
+  "correct": 1,
+  "explanation": "Russell ukazuje, že gramatický tvar věty klame: logicky jde o tvrzení, že existuje právě jedna věc, jež je králem Francie, a ta je plešatá. Protože první podmínka neplatí, je věta prostě nepravdivá a není třeba zavádět podivná jsoucna po vzoru Meinonga. Tento rozbor se stal učebnicovým příkladem logické analýzy jazyka.",
+  "source": "Russell: O označování (On Denoting)",
+  "seedElo": 1950
+ },
+ {
+  "id": "dfi-C30",
+  "type": "K",
+  "category": "dejiny-filosofie",
+  "text": "K čemu míří argument pozdního Wittgensteina o soukromém jazyce?",
+  "options": [
+   "Že by chyběl rozdíl mezi tím, co se zdá správné, a tím, co správné je",
+   "Že člověk nemůže mít bolest, dokud ji někomu jinému nesdělí",
+   "Že o vnitřních prožitcích nelze mluvit vůbec, jsou nevyslovitelné",
+   "Že každý má vlastní jazyk a dorozumění je proto pouhá iluze"
+  ],
+  "correct": 0,
+  "explanation": "Wittgenstein zkoumá myšlenku jazyka, jehož slova by odkazovala k prožitkům přístupným jedině mluvčímu. Takový jazyk by neměl žádné nezávislé kritérium správného užití, a proto by mluvení ztratilo rozdíl mezi dodržením a porušením pravidla. Nepopírá tím vnitřní život, ale představu, že význam slova bolest vzniká soukromým pojmenováním prožitku.",
+  "source": "Wittgenstein: Filosofická zkoumání, § 243–271",
+  "seedElo": 1950
+ },
+ {
+  "id": "dfi-A18",
+  "type": "K",
+  "category": "dejiny-filosofie",
+  "text": "Jak podle Aristotela působí první nehybný hybatel na svět?",
+  "options": [
+   "Tlačí nebeské sféry svým přímým dotykem",
+   "Stvořil svět a od té doby jej sám řídí",
+   "Vlévá do věcí formy z oblasti věčných idejí",
+   "Pohybuje jako předmět touhy a milování"
+  ],
+  "correct": 3,
+  "explanation": "Kdyby hybatel působil dotykem, byl by sám uváděn do pohybu a hledali bychom hybatele dalšího. Aristotelés proto zavádí působení cílem: hybatel hýbe tak, jak hýbe milované milujícím, tedy aniž se sám mění. Sám je čirou skutečností a jeho činností je myšlení myslící sebe samo.",
+  "source": "Aristotelés, Metafyzika XII, 7",
+  "seedElo": 2000
+ },
+ {
+  "id": "dfi-B28",
+  "type": "K",
+  "category": "dejiny-filosofie",
+  "text": "Co ukazují antinomie čistého rozumu?",
+  "options": [
+   "že rozum si ve svých úsudcích běžně protiřečí i v otázkách vědy",
+   "že o Bohu, duši a svobodě dokážeme mluvit jen v podobenstvích",
+   "že zkušenost nikdy nedospěje k úplnému výčtu všech příčin",
+   "že o celku světa lze stejně dobře dokázat tezi i její opak"
+  ],
+  "correct": 3,
+  "explanation": "Ve čtyřech antinomiích Kant předvádí zdánlivě platné důkazy protikladných tvrzení: svět má počátek v čase — nemá jej; existuje svoboda — vše se děje podle přírodní nutnosti. Rozpor podle něj vzniká tím, že zacházíme s celkem světa jako s daným předmětem, ačkoli je to jen idea. Rozuzlením je rozlišení jevu a věci o sobě, které u třetí antinomie otevírá místo pro svobodu.",
+  "source": "Kant, Kritika čistého rozumu, Antinomie čistého rozumu",
+  "seedElo": 2000
+ },
+ {
+  "id": "dfi-B31",
+  "type": "K",
+  "category": "dejiny-filosofie",
+  "text": "Čím je Fenomenologie ducha podle Hegelova záměru?",
+  "options": [
+   "popisem dějin filosofie od Řeků až po jeho vlastní dobu",
+   "naukou o formách vědomí, jež má nahradit dosavadní logiku",
+   "cestou vědomí jeho vlastními podobami až k absolutnímu vědění",
+   "soupisem jevů, jak se ukazují nezaujatému pozorovateli"
+  ],
+  "correct": 2,
+  "explanation": "Hegel ji zamýšlel jako žebřík, po němž se obyčejné vědomí vyšplhá ke stanovisku vědy. Každý tvar vědomí — smyslová jistota, vnímání, sebevědomí, rozum, duch, náboženství — ztroskotá na vlastním měřítku a tím sám vytvoří tvar následující. Cíl, absolutní vědění, není žádná nadsmyslová informace, ale stav, kdy si vědomí uvědomí, že jeho předmět je ono samo.",
+  "source": "Hegel, Fenomenologie ducha (1807), Úvod",
+  "seedElo": 2000
+ },
+ {
+  "id": "dfi-C13",
+  "type": "K",
+  "category": "dejiny-filosofie",
+  "text": "Heideggerova „vlastnost\" (Eigentlichkeit, autenticita) se často zaměňuje s mravním ideálem. Jak ji chápe on sám?",
+  "options": [
+   "Jako mravní dokonalost, jíž se člověk stává lepším než ostatní",
+   "Jako způsob, jímž pobyt přebírá své vlastní bytí, ne jako ctnost",
+   "Jako naprosté vystoupení ze společnosti a odmítnutí všech svých rolí",
+   "Jako trvalý stav, jehož se dosáhne jednou provždy a nezvratně"
+  ],
+  "correct": 1,
+  "explanation": "Vlastnost a nevlastnost jsou u Heideggera ontologické mody bytí pobytu, nikoli známky z chování. Nevlastnost, tedy rozptýlení do neurčitého „ono se\", je normální a nepostradatelný výchozí stav, z něhož se pobyt může vždy jen nakrátko probrat, například ve zkušenosti úzkosti a bytí k smrti. Nejde tedy o hrdinský stav ani o odchod ze společnosti.",
+  "source": "Heidegger: Bytí a čas, § 27 a § 54–60",
+  "seedElo": 2000
+ },
+ {
+  "id": "dfi-C24",
+  "type": "K",
+  "category": "dejiny-filosofie",
+  "text": "Foucaultova teze o moci a vědění tvrdí, že:",
+  "options": [
+   "moc je majetek státu, který ji shora vykonává nad poddanými",
+   "vědění je vždy nezávislé na moci, je-li získáno vědeckou metodou",
+   "moc jen potlačuje a zakazuje, nikdy nic nového neprodukuje",
+   "moc a vědění se navzájem plodí a moc utváří i subjekty a pravdu"
+  ],
+  "correct": 3,
+  "explanation": "Foucault odmítá jak představu moci jako vlastnictví, tak čistě represivní model: moc je vztahová, kapilární a především produktivní, vytváří vědní obory, normy i samotné subjekty, kterými se stáváme. Disciplína v podobě dohledu, výcviku a zkoušky vyrábí poslušná těla a s nimi celou psychologii jedince. Genealogie pak ukazuje nahodilý původ toho, co se jeví jako přirozené.",
+  "source": "Foucault: Dohlížet a trestat; Vůle k vědění",
+  "seedElo": 2000
+ },
+ {
+  "id": "dfi-C26",
+  "type": "K",
+  "category": "dejiny-filosofie",
+  "text": "Deleuze a Guattari staví pojem rhizomu proti obrazu stromu, protože:",
+  "options": [
+   "rhizom je mnohem přesnější metafora pro hierarchii vědních oborů",
+   "rhizom označuje návrat k pevnému základu a jedinému kořeni",
+   "myšlení má mít podobu sítě spojení bez centra a bez hierarchie",
+   "biologie prokázala, že oddenky jsou vývojově starší než stromy"
+  ],
+  "correct": 2,
+  "explanation": "Stromový obraz vědění předpokládá kořen, kmen a řád odvozování od jednoho principu. Rhizom, oddenek, se naproti tomu větví v libovolných bodech, dá se přetrhnout a znovu naváže jinde. Deleuzovi jde přitom o víc než o metaforu: jeho ontologie klade na první místo diferenci a mnohost, nikoli identitu a totožnost.",
+  "source": "Deleuze a Guattari: Tisíc plošin; Deleuze: Diference a opakování",
+  "seedElo": 2000
+ },
+ {
+  "id": "dfi-A30",
+  "type": "K",
+  "category": "dejiny-filosofie",
+  "text": "Co tvrdí Avicenna o vztahu esence a existence u stvořených věcí?",
+  "options": [
+   "Že u nich esence a existence zcela splývají",
+   "Že esence vzniká teprve spojením s látkou",
+   "Že existence je jen jménem bez vlastní věci",
+   "Že existence k jejich esenci přistupuje"
+  ],
+  "correct": 3,
+  "explanation": "Podle Avicenny lze pochopit, co je kůň, aniž víme, zda nějaký kůň jest; existence tedy k esenci nepatří nutně a musí být udělena zvenčí. Jedině u nutného jsoucna, u Boha, esence a existence splývají. Toto rozlišení převzal a přepracoval Tomáš Akvinský.",
+  "source": "Avicenna, Kniha uzdravení (Metafyzika)",
+  "seedElo": 2010
+ },
+ {
+  "id": "dfi-A32",
+  "type": "K",
+  "category": "dejiny-filosofie",
+  "text": "Co znamená u Mikuláše Kusánského coincidentia oppositorum?",
+  "options": [
+   "V nekonečnu se protiklady setkávají",
+   "Protiklady se navzájem ruší v nicotu",
+   "Každý spor lze rozhodnout rozumem",
+   "Svět je nekonečný a plný jiných světů"
+  ],
+  "correct": 0,
+  "explanation": "Kusánský ukazuje na kružnici: čím větší poloměr, tím je oblouk přímější, až v nekonečnu kruh a přímka splynou. Podobně v Bohu, jenž je nekonečný, mizí protiklady, které rozum drží oddělené. Poznání proto vrcholí v učené nevědomosti, docta ignorantia.",
+  "source": "Mikuláš Kusánský, O učené nevědomosti",
+  "seedElo": 2040
+ },
+ {
+  "id": "dfi-A27",
+  "type": "K",
+  "category": "dejiny-filosofie",
+  "text": "Co plyne z Ockhamovy zásady nerozmnožovat jsoucna bez nutnosti?",
+  "options": [
+   "Že stačí jednotliviny a znaky v mysli",
+   "Že obecniny musejí být reálné formy",
+   "Že Bůh je nutně poznatelný rozumem",
+   "Že duše se skládá ze tří odlišných forem"
+  ],
+  "correct": 0,
+  "explanation": "Ockham škrtá vrstvu obecných entit mezi věcí a myslí: existují jen jednotlivé věci a pojmy, které jsou přirozenými znaky zastupujícími mnoho jednotlivin. Poznání začíná intuitivním uchopením jednotliviny, nikoli obecnou formou. Zásada úspornosti se dodnes cituje jako Ockhamova břitva.",
+  "source": "Vilém Ockham, Summa logicae",
+  "seedElo": 2050
+ },
+ {
+  "id": "dfi-B29",
+  "type": "K",
+  "category": "dejiny-filosofie",
+  "text": "Jak Schelling ve filosofii přírody chápe vztah přírody a ducha?",
+  "options": [
+   "příroda je viditelný duch a duch je neviditelná příroda",
+   "příroda je mrtvý mechanismus, jejž duch teprve oživuje",
+   "příroda je ne-já, které já klade jako mez svého jednání",
+   "příroda je souhrn jevů, které rozvažování pořádá zákony"
+  ],
+  "correct": 0,
+  "explanation": "Schelling odmítá jak Fichtovo podřízení přírody já, tak její newtonovské pojetí jako mrtvého stroje. Příroda je pro něj sama produktivní silou, sledem stupňů, v nichž totéž tvořivé dění postupně dospívá k vědomí sebe sama. Odtud jeho formulace, že příroda je viditelný duch a duch neviditelná příroda, i vliv na romantické přírodovědce.",
+  "source": "Schelling, Ideje k filosofii přírody (1797)",
+  "seedElo": 2050
+ },
+ {
+  "id": "dfi-B32",
+  "type": "F",
+  "category": "dejiny-filosofie",
+  "text": "Čím Rousseau ve své první rozpravě pobouřil osvícenské současníky?",
+  "options": [
+   "tvrdil, že vzdělání má být dostupné všem bez rozdílu stavu",
+   "žádal, aby se vědy napříště podřídily dohledu církevní autority",
+   "prohlásil lidský rozum za pouhého otroka a sluhu vášní",
+   "tvrdil, že pokrok věd a umění mravy spíše kazil, než zlepšil"
+  ],
+  "correct": 3,
+  "explanation": "Dijonská akademie se roku 1750 ptala, zda obnova věd a umění přispěla k očistě mravů, a Rousseau odpověděl, že nikoli — a cenu za to dostal. Pokrok podle něj plodí přepych, přetvářku a závislost na mínění druhých. Byla to první velká kritika osvícenství zevnitř, od člověka, který sám psal hesla do Encyklopedie.",
+  "source": "Rousseau, Rozprava o vědách a umění (1750)",
+  "seedElo": 2050
+ },
+ {
+  "id": "dfi-C23",
+  "type": "K",
+  "category": "dejiny-filosofie",
+  "text": "Co dekonstrukce podle Derridy skutečně dělá?",
+  "options": [
+   "Ukazuje, jak text sám podrývá hierarchie protikladů, na nichž stojí",
+   "Tvrdí, že texty nic neznamenají a číst je lze zcela libovolně",
+   "Nahrazuje filosofii literární kritikou a odmítá pojmovou práci",
+   "Odhaluje skrytý pravý smysl, který autor v textu záměrně ukryl"
+  ],
+  "correct": 0,
+  "explanation": "Derrida čte texty pomalu a přesně a hledá místa, kde se jejich vlastní opozice, například mluva a písmo nebo doslovné a přenesené, obracejí a rozpadají. Slavná věta o tom, že mimo text není nic, netvrdí neexistenci světa, nýbrž že vše je přístupné jen v kontextu a odkazování. Dekonstrukce proto není libovůle, ale krajně disciplinovaná četba.",
+  "source": "Derrida: O gramatologii; Psaní a diference",
+  "seedElo": 2050
  }
 ]

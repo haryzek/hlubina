@@ -1,0 +1,962 @@
+[
+ {
+  "id": "cra-A01",
+  "text": "Který z těchto vynálezů byl patentován dřív než telefon (1876)?",
+  "options": [
+   "přístroj přenášející obraz po drátě, tedy fax (patent 1843)",
+   "gramofon pro mechanický záznam a reprodukci zvuku (1877)",
+   "žárovka s uhlíkovým vláknem v Edisonově podání (1879)",
+   "bezdrátový telegraf pro přenos zpráv na dálku (1896)"
+  ]
+ },
+ {
+  "id": "cra-A02",
+  "text": "Poslední poprava gilotinou ve Francii (Hamida Djandoubi, Marseille) proběhla ve stejném roce jako:",
+  "options": [
+   "první přistání člověka na Měsíci a festival Woodstock",
+   "premiéra prvního Star Wars a otevření Centre Pompidou",
+   "pád Berlínské zdi a sametová revoluce v Československu",
+   "vyhlášení nezávislosti Alžírska a karibská raketová krize"
+  ]
+ },
+ {
+  "id": "cra-A03",
+  "text": "V jakém vztahu jsou data narození Anne Frankové a Martina Luthera Kinga?",
+  "options": [
+   "dělí je dvacet let, Anne patřila ke generaci jeho rodičů",
+   "dělí je patnáct let, King byl podstatně starší než ona",
+   "narodili se oba roku 1929, byli tedy přesní vrstevníci",
+   "narodili se oba roku 1912, King byl o pár měsíců mladší"
+  ]
+ },
+ {
+  "id": "cra-A04",
+  "text": "Firma Nintendo byla založena roku 1889. Čím se tehdy zabývala?",
+  "options": [
+   "výrobou rýžového papíru a levných školních sešitů",
+   "provozem sítě veřejných lázní a hostinců v Kjótu",
+   "výrobou dřevěných hraček a stavebnic pro malé děti",
+   "výrobou ručně malovaných hracích karet hanafuda"
+  ]
+ },
+ {
+  "id": "cra-A05",
+  "text": "Co je na tradičním vyprávění o nizozemské tulipánové mánii (1636–37) podle novějšího bádání mýtus?",
+  "options": [
+   "krach cen zruinoval nizozemskou ekonomiku a vyvolal vlnu sebevražd",
+   "obchodování se soustředilo v úzkém okruhu movitých kupců a řemeslníků",
+   "s cibulemi se běžně obchodovalo formou smluv o budoucí dodávce",
+   "nejdražší byly cibule s pestrým žíháním, které způsobuje virus"
+  ]
+ },
+ {
+  "id": "cra-A06",
+  "text": "Když Británie roku 1752 přešla na gregoriánský kalendář, stalo se co?",
+  "options": [
+   "z února zmizelo deset dní, po 4. únoru následoval 15. únor",
+   "ze září zmizelo jedenáct dní, po 2. září následoval 14. září",
+   "z března zmizel celý týden, po 24. březnu následoval 1. duben",
+   "z prosince zmizelo dvanáct dní a rok skončil už 19. prosince"
+  ]
+ },
+ {
+  "id": "cra-A07",
+  "text": "Erupce sopky Tambora (1815) způsobila v Evropě „rok bez léta“ 1816. Co se toho studeného deštivého léta zrodilo u Ženevského jezera?",
+  "options": [
+   "Beethovenova Devátá symfonie, dokončená v deštivém ústraní",
+   "první fotografie na světě, pořízená v době mimořádné oblačnosti",
+   "první nápady na Frankensteina a na povídku Upír, praotce žánru",
+   "myšlenka Červeného kříže, zrozená z hladomoru ve Švýcarsku"
+  ]
+ },
+ {
+  "id": "cra-A08",
+  "text": "Datum 30. února se v dějinách skutečně jednou vyskytlo. Kde a proč?",
+  "options": [
+   "v Rusku roku 1918 při přechodu na gregoriánský kalendář",
+   "ve Francii roku 1793 v revolučním kalendáři o třiceti dnech",
+   "v Anglii roku 1752, aby se vyrovnal rozdíl jedenácti dnů",
+   "ve Švédsku roku 1712 při návratu k juliánskému kalendáři"
+  ]
+ },
+ {
+  "id": "cra-A09",
+  "text": "Jak dopadla australská „emu válka“ z roku 1932, kdy vojáci s kulomety zasáhli proti přemnoženým emu?",
+  "options": [
+   "vojáci operaci po několika týdnech vzdali, ptáci přežili",
+   "emuové byli během měsíce prakticky vyhubeni v celém státě",
+   "operace uspěla a stala se vzorem i pro sousední australské státy",
+   "akce byla hned na začátku zrušena kvůli protestům veřejnosti"
+  ]
+ },
+ {
+  "id": "cra-A10",
+  "text": "Slovo „robot“ dal světu Karel Čapek ve hře R.U.R. (1920). Kdo ho ale vymyslel?",
+  "options": [
+   "sám Karel Čapek, a to jako zkratku z latinského laborare",
+   "jeho bratr Josef, malíř; Karel sám chtěl výraz „laboři“",
+   "dramaturg Národního divadla při přípravě premiéry hry",
+   "překladatel prvního anglického vydání R.U.R. z roku 1922"
+  ]
+ },
+ {
+  "id": "cra-A11",
+  "text": "Odkud pochází název měny „dolar“?",
+  "options": [
+   "ze španělského doblónu, zlaté mince ražené v Seville",
+   "z nizozemského daalder, pojmenovaného podle přístavu Delft",
+   "z tolaru, stříbrné mince ražené v českém Jáchymově",
+   "z latinského dolare, „štípat“, podle dělených prutů stříbra"
+  ]
+ },
+ {
+  "id": "cra-A12",
+  "text": "Které z těchto slov se do světových jazyků dostalo z češtiny?",
+  "options": [
+   "granát — z českého „hranice“, tedy vojenské pohraničí",
+   "husar — z českého „husa“ podle znaku na praporcích jízdy",
+   "kordík — z českého „kord“, tedy krátká bodná zbraň",
+   "pistole — z husitské „píšťaly“, ruční palné zbraně"
+  ]
+ },
+ {
+  "id": "cra-A13",
+  "text": "Latinské salarium (odtud anglické salary, mzda) souvisí se solí. Co k tomu dodávají historikové?",
+  "options": [
+   "souvislost se solí je jistá, ale výplata soli vojákům doložená není",
+   "legionáři skutečně dostávali místo části žoldu měsíční příděl soli",
+   "sůl byla v Římě státním monopolem a běžně sloužila jako platidlo",
+   "slovo vzniklo až ve středověku z italského salario za obchod se solí"
+  ]
+ },
+ {
+  "id": "cra-A14",
+  "text": "Čím je pozoruhodný amazonský jazyk pirahã?",
+  "options": [
+   "nemá žádné souhlásky kromě rázu a dvou nosových hlásek",
+   "nemá slova pro přesné počty, jen výrazy typu „málo“ a „hodně“",
+   "má přes čtyřicet gramatických pádů a tucet slovesných tříd",
+   "nemá slovesa, jejich roli přebírají složené jmenné tvary"
+  ]
+ },
+ {
+  "id": "cra-A15",
+  "text": "Berlin a Kay (1969) popsali pravidelnost v tom, jak jazyky pojmenovávají barvy. Jaká je?",
+  "options": [
+   "má-li jazyk jen tři základní názvy barev, jsou to černá, bílá a modrá",
+   "pořadí, v jakém základní názvy barev přibývají, se u jazyků liší náhodně",
+   "má-li jazyk jen tři základní názvy barev, jsou to černá, bílá a červená",
+   "každý doložený jazyk světa má nejméně šest základních názvů barev"
+  ]
+ },
+ {
+  "id": "cra-A16",
+  "text": "Čím se liší popis prostoru u mluvčích australského jazyka guugu yimithirr?",
+  "options": [
+   "nemají výrazy pro polohu vůbec a nahrazují je ukazováním",
+   "rozlišují jen „blízko“ a „daleko“, směr nijak nevyjadřují",
+   "užívají výhradně orientaci vůči tělu mluvčího, nikdy vůči krajině",
+   "místo „vlevo/vpravo“ užívají světové strany, i o věcech na stole"
+  ]
+ },
+ {
+  "id": "cra-A17",
+  "text": "Co obsahují nejstarší dochované mezopotamské texty (asi 3300 př. n. l.)?",
+  "options": [
+   "účetní záznamy o přídělech obilí, piva a o pracovní síle",
+   "modlitby k bohům a popisy obřadů chrámových kněží",
+   "královské zákoníky a soupisy vojenských vítězství panovníka",
+   "mýtus o stvoření světa a vyprávění o velké potopě"
+  ]
+ },
+ {
+  "id": "cra-A18",
+  "text": "Za nejstarší známou zákaznickou stížnost se pokládá klínopisná tabulka z Uru (asi 1750 př. n. l.). Čeho se týká?",
+  "options": [
+   "zkaženého piva dodaného chrámové sýpce ve městě Uruk",
+   "nekvalitní mědi a hrubého jednání obchodníka jménem Ea-nasir",
+   "krádeže dobytka sousedem a odmítnutí místního soudce věc řešit",
+   "špatně postaveného domu, který se po jediném roce zbortil"
+  ]
+ },
+ {
+  "id": "cra-A19",
+  "text": "Sekvoja sestavil kolem roku 1821 písmo pro čerokézštinu. Co je na tom nejpozoruhodnější?",
+  "options": [
+   "písmo vzniklo až po jeho smrti z nedokončených poznámek",
+   "šlo o hláskovou abecedu odvozenou přímo z anglické latinky",
+   "sám neuměl číst ani psát v žádném jazyce, když s prací začal",
+   "písmo se nikdy nerozšířilo a zůstalo jen v úzkém rodinném užití"
+  ]
+ },
+ {
+  "id": "cra-A20",
+  "text": "Co je vlastně napsáno na Rosettské desce, klíči k rozluštění hieroglyfů?",
+  "options": [
+   "dvojjazyčná smlouva mezi Egyptem a Římem o dodávkách obilí a lnu",
+   "seznam faraonů od nejstarších dynastií až po Ptolemaiovce",
+   "náhrobní nápis kněze, zopakovaný v řečtině a v hebrejštině",
+   "kněžský dekret na počest Ptolemaia V., zapsaný třemi písmy"
+  ]
+ },
+ {
+  "id": "cra-A21",
+  "text": "Jak byla v Evropě přijímána vidlička, když se od 11. století začínala objevovat u stolu?",
+  "options": [
+   "byla odmítána jako zbytečná výstřednost, ba i jako urážka Boha",
+   "byla ihned přijata jako praktičtější náhrada za lžíci a nůž",
+   "byla zákonem vyhrazena jen šlechtě a vysokému duchovenstvu",
+   "byla považována za lékařský nástroj chránící před otravami"
+  ]
+ },
+ {
+  "id": "cra-A22",
+  "text": "Anglický kronikář si na dánských osadnících ve středověké Anglii stěžoval, že:",
+  "options": [
+   "odmítají se mýt a roznášejí po vsích nemoci a nesnesitelný zápach",
+   "se každou sobotu koupou a češou, a tím jim svádějí anglické ženy",
+   "odmítají se stříhat a nosí vlasy až po pás jako pohanští kněží",
+   "spí přes den a všechnu práci vyřizují až po západu slunce"
+  ]
+ },
+ {
+  "id": "cra-A23",
+  "text": "Co přivedlo inženýra Percyho Spencera roku 1945 na myšlenku mikrovlnné trouby?",
+  "options": [
+   "pokus s velmi rychlým ohřevem vody pro posádku ponorky",
+   "porucha rentgenového přístroje, která spálila zásobu filmů",
+   "roztátá čokoládová tyčinka v kapse u běžícího magnetronu",
+   "experiment s konzervací masa pomocí vysokého napětí"
+  ]
+ },
+ {
+  "id": "cra-A24",
+  "text": "Bublinková fólie byla roku 1957 vyrobena původně jako:",
+  "options": [
+   "izolace do skleníků; jako obalový materiál se ujala hned",
+   "výplň matrací; obalem se stala až v osmdesátých letech",
+   "plovací pomůcka pro děti, teprve pak se z ní staly obaly",
+   "moderní tapeta na stěny; obal z ní udělal až pozdější nápad"
+  ]
+ },
+ {
+  "id": "cra-A25",
+  "text": "Odkud pochází slovo „kečup“?",
+  "options": [
+   "z názvu jihovýchodoasijské omáčky z kvašených ryb, tedy bez rajčat",
+   "ze jména amerického kuchaře, který omáčku roku 1876 uvedl na trh",
+   "z nahuatlského výrazu pro rajče smíchané s pálivým kořením",
+   "z anglického catch up, tedy „dohnat“, z dobového reklamního sloganu"
+  ]
+ },
+ {
+  "id": "cra-A26",
+  "text": "Traduje se, že croissant vznikl roku 1683 jako oslava porážky Turků u Vídně. Jak to doopravdy je?",
+  "options": [
+   "je to doloženo v cechovních záznamech vídeňských pekařů z té doby",
+   "je to legenda z 19. století; předchůdcem je vídeňské pečivo kipferl",
+   "platí to jen zčásti: pekaři pečivo upekli až o rok později v Budíně",
+   "croissant vznikl v Paříži už v 15. století a s Vídní vůbec nesouvisí"
+  ]
+ },
+ {
+  "id": "cra-A27",
+  "text": "Nejhorší doloženou hyperinflaci v dějinách zažilo:",
+  "options": [
+   "Německo roku 1923, kde se ceny zdvojnásobovaly zhruba za tři dny",
+   "Rakousko roku 1922, kde se ceny zdvojnásobovaly zhruba za týden",
+   "Maďarsko roku 1946, kde se ceny zdvojnásobovaly asi za 15 hodin",
+   "Zimbabwe roku 2008, kde se ceny zdvojnásobovaly zhruba za den"
+  ]
+ },
+ {
+  "id": "cra-A28",
+  "text": "Za nejstarší doloženou firmu, která fungovala nepřetržitě až do dnešní doby, se pokládá:",
+  "options": [
+   "rakouská zvonařská dílna, založená roku 1180 v Innsbrucku",
+   "italská vinařská rodina z Toskánska, doložená od roku 1141",
+   "anglická mincovna Royal Mint, jejíž provoz začal roku 886",
+   "japonská stavební firma z roku 578, stavitel buddhistických chrámů"
+  ]
+ },
+ {
+  "id": "cra-A29",
+  "text": "Co zásadně přispělo k tomu, že se Mona Lisa stala nejslavnějším obrazem světa?",
+  "options": [
+   "roku 1911 ji ukradl zaměstnanec Louvru a pátralo se po ní dva roky",
+   "roku 1911 ji poškodil vandal a restaurování sledoval celý svět",
+   "roku 1867 ji akademie prohlásila za falzum a strhla se dlouhá pře",
+   "roku 1919 ji koupil americký sběratel a Louvre ji musel vykoupit"
+  ]
+ },
+ {
+  "id": "cra-A30",
+  "text": "Za co se na olympijských hrách v letech 1912 až 1948 udělovaly medaile kromě sportu?",
+  "options": [
+   "za letecké akrobatické sestavy a za závody balonů",
+   "za umění — architekturu, literaturu, hudbu a malbu",
+   "za šachy, bridž a další soutěžní hry ducha a strategie",
+   "za vědecké objevy v oblasti tělovýchovy a hygieny"
+  ]
+ },
+ {
+  "id": "cra-A31",
+  "text": "Věta „Nemají chleba? Ať jedí koláče“ se připisuje Marii Antoinettě. Jak je to doopravdy?",
+  "options": [
+   "pronesla ji její matka Marie Terezie za hladomoru v Uhrách",
+   "vymysleli ji revoluční pamfletisté až po jejím zatčení roku 1792",
+   "zapsal ji Rousseau o „velké princezně“ v době, kdy byla ještě dítě",
+   "řekla ji o generaci dřív madame de Pompadour u dvora Ludvíka XV."
+  ]
+ },
+ {
+  "id": "cra-A32",
+  "text": "Výrok „Nesouhlasím s tím, co říkáte, ale budu bránit vaše právo to říkat“ pochází od:",
+  "options": [
+   "Voltaira, a to z jeho dopisu Rousseauovi z roku 1760",
+   "Johna Stuarta Milla, z jeho spisu O svobodě z roku 1859",
+   "Denise Diderota, z předmluvy k Encyklopedii z roku 1751",
+   "Evelyn Beatrice Hallové, jeho životopiskyně, z roku 1906"
+  ]
+ },
+ {
+  "id": "cra-B01",
+  "text": "Kdyby existoval dost velký oceán, Saturn by v něm plaval na hladině. Důvodem je, že:",
+  "options": [
+   "je z převážné většiny tvořen vodním ledem",
+   "jeho prstence by fungovaly jako obří plovák",
+   "jeho průměrná hustota je nižší než hustota vody",
+   "jeho rychlá rotace výrazně snižuje efektivní tíhu"
+  ]
+ },
+ {
+  "id": "cra-B02",
+  "text": "Voda je mezi běžnými látkami výjimkou: v pevném skupenství je lehčí než v kapalném. Příčinou je:",
+  "options": [
+   "otevřená hexagonální síť vodíkových vazeb v ledu",
+   "vzduchové bublinky, které v ledu zůstanou uzavřené",
+   "nižší hmotnost molekul vody po zmrznutí kapaliny",
+   "smršťování atomů kyslíku při poklesu teploty pod nulu"
+  ]
+ },
+ {
+  "id": "cra-B03",
+  "text": "Největší poušť světa neleží v Africe ani v Asii. Je jí:",
+  "options": [
+   "Sahara se srážkovým úhrnem pod 100 mm",
+   "poušť Gobi na hranici Číny a Mongolska",
+   "arabská poušť Rub al-Chálí ve třech státech",
+   "Antarktida se srážkovým úhrnem pod 200 mm"
+  ]
+ },
+ {
+  "id": "cra-B04",
+  "text": "Kdyby Slunce v tuto chvíli zhaslo, na Zemi by se setmělo přibližně za:",
+  "options": [
+   "1 minutu a 40 sekund",
+   "8 minut a 20 sekund",
+   "22 minut a 10 sekund",
+   "43 minut a 30 sekund"
+  ]
+ },
+ {
+  "id": "cra-B05",
+  "text": "Rusko se rozkládá přes tolik časových pásem, že když je na západě ráno, na východě už končí den. Kolik pásem stát používá?",
+  "options": [
+   "11 časových pásem",
+   "7 časových pásem",
+   "9 časových pásem",
+   "15 časových pásem"
+  ]
+ },
+ {
+  "id": "cra-B06",
+  "text": "Jaký podíl veškeré vody na Zemi tvoří slaná mořská voda?",
+  "options": [
+   "zhruba 60 procent",
+   "zhruba 78 procent",
+   "zhruba 87 procent",
+   "zhruba 97 procent"
+  ]
+ },
+ {
+  "id": "cra-B07",
+  "text": "Teplota vzduchu v kanálu blesku dosahuje kolem 30 000 °C. Ve srovnání s viditelným povrchem Slunce je to:",
+  "options": [
+   "prakticky stejná teplota",
+   "asi pětkrát vyšší teplota",
+   "asi desetkrát nižší teplota",
+   "asi třikrát nižší teplota"
+  ]
+ },
+ {
+  "id": "cra-B08",
+  "text": "Nejjižnější bod africké pevniny není mys Dobré naděje, ale:",
+  "options": [
+   "Kapský poloostrov s mysem Cape Point",
+   "mys Columbine severně od Kapského Města",
+   "mys Agulhas asi 150 km jihovýchodně od něj",
+   "mys Recife u Port Elizabeth na východě"
+  ]
+ },
+ {
+  "id": "cra-B09",
+  "text": "Nepál má časové pásmo, jaké nemá žádný jiný stát na světě. Které to je?",
+  "options": [
+   "UTC+5:30, stejné jako v Indii",
+   "UTC+6:00, sdílené s Bangladéšem",
+   "UTC+5:00, sdílené s Pákistánem",
+   "UTC+5:45, unikátní na světě"
+  ]
+ },
+ {
+  "id": "cra-B10",
+  "text": "Nejsilnější zemětřesení naměřené moderními přístroji zasáhlo v roce 1960:",
+  "options": [
+   "Aljašku, magnitudo 9,2",
+   "Chile, magnitudo 9,5",
+   "Japonsko, magnitudo 9,1",
+   "Sumatru, magnitudo 9,1"
+  ]
+ },
+ {
+  "id": "cra-B11",
+  "text": "Rok 1816 vešel do dějin jako „rok bez léta“ se sněhem v červnu a neúrodou v Evropě i Severní Americe. Na vině byla:",
+  "options": [
+   "erupce islandské sopky Laki v roce 1783",
+   "erupce Krakatoy v Indonésii v roce 1883",
+   "erupce sopky Tambora v Indonésii roku 1815",
+   "erupce sopky Vesuv v Itálii v roce 1631"
+  ]
+ },
+ {
+  "id": "cra-B12",
+  "text": "Nejnižší teplota naměřená přímo na povrchu Země (stanice Vostok v Antarktidě, červenec 1983) činila:",
+  "options": [
+   "−89,2 °C",
+   "−79,2 °C",
+   "−84,6 °C",
+   "−94,7 °C"
+  ]
+ },
+ {
+  "id": "cra-B13",
+  "text": "Kolonie Pando ve státě Utah je považována za jediný organismus. Tvoří ji:",
+  "options": [
+   "propojená síť kořenů několika druhů borovic",
+   "asi 47 000 geneticky totožných kmenů osiky",
+   "obří houbové podhoubí pod pásem jehličnanů",
+   "kolonie mechů pokrývající svah nad jezerem"
+  ]
+ },
+ {
+  "id": "cra-B14",
+  "text": "Křemičitý aerogel patří k nejlehčím pevným látkám. Jeho objem tvoří vzduch zhruba z:",
+  "options": [
+   "zhruba 70 % objemu",
+   "zhruba 85 % objemu",
+   "zhruba 99,8 % objemu",
+   "zhruba 95 % objemu"
+  ]
+ },
+ {
+  "id": "cra-B15",
+  "text": "Na Merkuru trvá jeden sluneční den déle než jeho vlastní rok. Sluneční den tam trvá:",
+  "options": [
+   "asi 176 pozemských dní",
+   "asi 59 pozemských dní",
+   "asi 88 pozemských dní",
+   "asi 243 pozemských dní"
+  ]
+ },
+ {
+  "id": "cra-B16",
+  "text": "Nejhlubší známé místo oceánu, Challenger Deep v Marianském příkopu, leží v hloubce zhruba:",
+  "options": [
+   "8 900 metrů pod hladinou",
+   "13 400 metrů pod hladinou",
+   "9 600 metrů pod hladinou",
+   "10 900 metrů pod hladinou"
+  ]
+ },
+ {
+  "id": "cra-B17",
+  "text": "Aljaška je nejsevernější i nejzápadnější stát USA. Zároveň je ale i:",
+  "options": [
+   "nejvýchodnější, díky Aleutám za 180. poledníkem",
+   "nejjižnější, díky ostrovům v Beringově moři",
+   "nejmenší z hlediska délky pobřežní čáry v USA",
+   "jediný stát bez pevninského spojení se světem"
+  ]
+ },
+ {
+  "id": "cra-B18",
+  "text": "Litosférické desky se vůči sobě posouvají rychlostí řádově srovnatelnou s:",
+  "options": [
+   "růstem lidských vlasů, tedy decimetry za rok",
+   "růstem korálového útesu, tedy milimetry za rok",
+   "růstem lidských nehtů, tedy centimetry za rok",
+   "pohybem hodinové ručičky, tedy metry za rok"
+  ]
+ },
+ {
+  "id": "cra-B19",
+  "text": "Nejvyšší oficiálně uznávaná teplota vzduchu na Zemi byla naměřena v kalifornském Údolí smrti v roce 1913 a činila:",
+  "options": [
+   "52,1 °C",
+   "56,7 °C",
+   "61,4 °C",
+   "58,3 °C"
+  ]
+ },
+ {
+  "id": "cra-B20",
+  "text": "Nevadské město Reno leží vůči Los Angeles překvapivě:",
+  "options": [
+   "leží přesně na stejném poledníku",
+   "o dvě časová pásma východněji",
+   "jižněji o zhruba sto kilometrů",
+   "západněji, ačkoli leží severněji"
+  ]
+ },
+ {
+  "id": "cra-B21",
+  "text": "Výbuch Krakatoy v roce 1883 patří k nejhlasitějším doloženým zvukům. Lidé jej slyšeli až:",
+  "options": [
+   "v okolí sopky do vzdálenosti asi 300 km",
+   "na Jávě a Sumatře, asi 800 km daleko",
+   "v Austrálii, zhruba 2 000 km daleko",
+   "na ostrově Rodrigues, přes 4 800 km daleko"
+  ]
+ },
+ {
+  "id": "cra-B22",
+  "text": "Za největší známý organismus světa je dnes považován:",
+  "options": [
+   "podhoubí václavky v Oregonu o rozloze asi 9 km²",
+   "plejtvák obrovský o délce přes třicet metrů",
+   "korálový útes u australského Queenslandu",
+   "sekvojovec obrovský v pohoří Sierra Nevada"
+  ]
+ },
+ {
+  "id": "cra-B23",
+  "text": "Obec Baarle na belgicko-nizozemské hranici je mezi geografy proslulá tím, že:",
+  "options": [
+   "leží přesně na hranici, která ji dělí na půl",
+   "hranice mezi státy tudy vede pod zemí tunelem",
+   "belgické exklávy tu obsahují nizozemské enklávy",
+   "obyvatelé si smějí sami volit státní příslušnost"
+  ]
+ },
+ {
+  "id": "cra-B24",
+  "text": "Kiribati v roce 1995 posunulo průběh datové hranice. Důsledkem je, že:",
+  "options": [
+   "stát je rozdělen mezi dvě kalendářní data",
+   "jeho východní ostrovy mají pásmo UTC+14",
+   "na jeho území se datum mění dvakrát denně",
+   "stát vůbec nepoužívá letní ani zimní čas"
+  ]
+ },
+ {
+  "id": "cra-B25",
+  "text": "Který vrchol je bodem zemského povrchu nejvzdálenějším od středu Země?",
+  "options": [
+   "Denali na severu Aljašky",
+   "Kilimandžáro v Tanzanii",
+   "Chimborazo v Ekvádoru",
+   "Aconcagua v Argentině"
+  ]
+ },
+ {
+  "id": "cra-B26",
+  "text": "Měřeno od paty na mořském dně až po vrchol je nejvyšší horou světa:",
+  "options": [
+   "Kilimandžáro v Tanzanii, asi 5 900 metrů",
+   "Denali na Aljašce, zhruba 6 200 metrů",
+   "Aconcagua v Andách, téměř 7 000 metrů",
+   "Mauna Kea na Havaji, přes 10 000 metrů"
+  ]
+ },
+ {
+  "id": "cra-B27",
+  "text": "Za běžné pokojové teploty a normálního tlaku platí o dvou formách uhlíku, že:",
+  "options": [
+   "stabilnější formou je grafit, diamant je metastabilní",
+   "stabilnější formou je diamant díky pevnějším vazbám",
+   "obě formy jsou energeticky naprosto rovnocenné",
+   "grafit se samovolně mění na diamant jen pod tlakem"
+  ]
+ },
+ {
+  "id": "cra-B28",
+  "text": "Průměrná hloubka světového oceánu činí zhruba:",
+  "options": [
+   "1 200 metrů",
+   "3 700 metrů",
+   "6 100 metrů",
+   "8 300 metrů"
+  ]
+ },
+ {
+  "id": "cra-B29",
+  "text": "Nejstarší dosud nalezený materiál pozemského původu jsou zirkonová zrna z pohoří Jack Hills v Austrálii. Jejich stáří je asi:",
+  "options": [
+   "3,5 miliardy let",
+   "4,4 miliardy let",
+   "2,9 miliardy let",
+   "4,0 miliardy let"
+  ]
+ },
+ {
+  "id": "cra-B30",
+  "text": "Rozptyl světla v atmosféře je nejsilnější pro fialovou barvu. Obloha přesto vypadá modře hlavně proto, že:",
+  "options": [
+   "fialové světlo se v atmosféře zcela pohltí ozonem",
+   "fialová se rozptyluje až vysoko nad troposférou",
+   "modrá se od hladiny oceánů odráží zpět k obloze",
+   "Slunce vyzařuje méně fialové a oko ji hůř vnímá"
+  ]
+ },
+ {
+  "id": "cra-B31",
+  "text": "Porovnejte dvě čísla: počet molekul vody v jedné sklenici a počet takových sklenic, kolik by naplnil celý světový oceán. Platí, že:",
+  "options": [
+   "obě čísla vycházejí zhruba stejně velká",
+   "sklenic v oceánu je řádově tisíckrát více",
+   "molekul ve sklenici je řádově tisíckrát více",
+   "sklenic v oceánu je řádově milionkrát více"
+  ]
+ },
+ {
+  "id": "cra-B32",
+  "text": "Kolik mimozemské hmoty, tedy kosmického prachu a mikrometeoritů, dopadne na Zemi za jeden rok?",
+  "options": [
+   "řádově tisíce tun ročně",
+   "řádově miliony tun ročně",
+   "řádově desítky tun ročně",
+   "řádově miliardy tun ročně"
+  ]
+ },
+ {
+  "id": "cra-C01",
+  "text": "Dlouho se opakovalo, že bakterií je v našem těle desetkrát víc než vlastních buněk. Jaký poměr dávají dnešní odhady?",
+  "options": [
+   "1:1, tedy zhruba stejný počet",
+   "10:1 ve prospěch bakterií",
+   "100:1 ve prospěch bakterií",
+   "1:10 ve prospěch lidských buněk"
+  ]
+ },
+ {
+  "id": "cra-C02",
+  "text": "Kolik kostí má novorozenec ve srovnání s dospělým člověkem?",
+  "options": [
+   "asi 250 kostí, dospělý jich má 206",
+   "asi 206 kostí, dospělý jich má 300",
+   "asi 300 kostí, dospělý jich má 206",
+   "asi 180 kostí, dospělý jich má 206"
+  ]
+ },
+ {
+  "id": "cra-C03",
+  "text": "Ignaz Semmelweis prosadil roku 1847 ve vídeňské porodnici dezinfekci rukou chlorovým vápnem. Z jakého pozorování vyšel?",
+  "options": [
+   "rodičky umíraly víc v létě než v zimě",
+   "oddělení s mediky mělo vyšší úmrtnost",
+   "úmrtnost stoupala s počtem porodů",
+   "porodní báby měly horší výsledky"
+  ]
+ },
+ {
+  "id": "cra-C04",
+  "text": "Alexander Fleming si účinku plísně Penicillium všiml roku 1928. Proč se penicilin dostal k pacientům až ve 40. letech?",
+  "options": [
+   "Fleming svůj objev tajil až do války",
+   "plíseň nešla nikde v Evropě sehnat",
+   "bránily tomu vleklé patentové spory",
+   "chyběl způsob výroby čisté látky"
+  ]
+ },
+ {
+  "id": "cra-C05",
+  "text": "Do provozního deníku počítače Harvard Mark II byla roku 1947 vlepena můra s poznámkou o „prvním skutečném případu nalezeného bugu“. Co z toho plyne?",
+  "options": [
+   "slovo bug tím vzniklo, dřív se nepoužívalo",
+   "šlo o žert, žádná můra ve stroji nebyla",
+   "slovo bug se pro poruchy užívalo už dřív",
+   "poznámku připsal až historik v 70. letech"
+  ]
+ },
+ {
+  "id": "cra-C06",
+  "text": "Kolik paměti měl počítač Apollo Guidance Computer, který navigoval Apollo 11 k Měsíci?",
+  "options": [
+   "desítky kilobajtů: asi 4 KB RAM a 72 KB ROM",
+   "necelý megabajt: 512 KB RAM a 256 KB ROM",
+   "jednotky kilobajtů: 1 KB RAM a 2 KB ROM",
+   "stovky kilobajtů: 128 KB RAM a 512 KB ROM"
+  ]
+ },
+ {
+  "id": "cra-C07",
+  "text": "Co ukazuje dnešní historický výzkum o vzniku klávesového rozložení QWERTY?",
+  "options": [
+   "vzniklo, aby písaře záměrně zpomalilo",
+   "navrhli ho až evropští výrobci kolem 1900",
+   "vzešlo z pokusů o nejrychlejší psaní",
+   "utvářely ho i požadavky telegrafistů"
+  ]
+ },
+ {
+  "id": "cra-C08",
+  "text": "Kdo jako první prolomil šifrování vojenské Enigmy?",
+  "options": [
+   "britský tým v Bletchley Parku roku 1940",
+   "polští matematici z Biura šifer roku 1932",
+   "francouzská rozvědka díky agentovi 1931",
+   "americká kryptoanalýza námořnictva 1942"
+  ]
+ },
+ {
+  "id": "cra-C09",
+  "text": "Kdo v roce 1956 odstartoval éru kontejnerové námořní dopravy?",
+  "options": [
+   "britská loděnice hledající levnější trupy",
+   "americká armáda při zásobování v Koreji",
+   "přístav v Rotterdamu kvůli nedostatku míst",
+   "majitel kamionové firmy Malcom McLean"
+  ]
+ },
+ {
+  "id": "cra-C10",
+  "text": "Prvním zbožím naskenovaným čárovým kódem v běžném obchodě bylo v roce 1974:",
+  "options": [
+   "balení pracího prášku v Chicagu",
+   "balení žvýkaček Wrigley's v Ohiu",
+   "krabice cereálií v New Jersey",
+   "láhev Coca-Coly v obchodě v Atlantě"
+  ]
+ },
+ {
+  "id": "cra-C11",
+  "text": "Jakou cestou putuje drtivá většina mezikontinentálního internetového provozu?",
+  "options": [
+   "podmořskými optickými kabely",
+   "přes družice na oběžné dráze",
+   "radiovými spoji přes horizont",
+   "půl na půl družicemi a kabely"
+  ]
+ },
+ {
+  "id": "cra-C12",
+  "text": "Proč vůbec vznikl problém roku 2000, takzvaný Y2K?",
+  "options": [
+   "kalendáře v čipech uměly jen 20. století",
+   "systémy měřily čas od roku 1900 v sekundách",
+   "roky se ukládaly jen dvěma číslicemi",
+   "starší procesory neuměly dělit tisícem"
+  ]
+ },
+ {
+  "id": "cra-C13",
+  "text": "Co ukázaly studie s takzvaným otevřeným placebem, kde pacient předem ví, že dostává placebo?",
+  "options": [
+   "účinek zcela mizí, jakmile to pacient ví",
+   "část potíží se zmírní i při vědomí pacienta",
+   "pacienti hlásí zhoršení oproti nelečeným",
+   "výsledky se nedaly nikdy zopakovat jinde"
+  ]
+ },
+ {
+  "id": "cra-C14",
+  "text": "Studie SAMSON (2020) nechala pacienty, kteří kvůli bolestem svalů přestali brát statiny, střídat měsíce s lékem, s placebem a bez tablet. Jak to dopadlo?",
+  "options": [
+   "potíže byly jen v měsících se statinem",
+   "placebo potíže naopak výrazně tlumilo",
+   "bez tablet byly potíže vůbec největší",
+   "potíže byly podobné se statinem i placebem"
+  ]
+ },
+ {
+  "id": "cra-C15",
+  "text": "V klasických pokusech Elizabeth Loftusové stačilo ke zkreslení vzpomínky svědků na dopravní nehodu:",
+  "options": [
+   "ukázat svědkům snímky jiné nehody",
+   "nechat je vypovídat s odstupem let",
+   "změnit jediné sloveso v otázce",
+   "vyplatit jim za výpověď odměnu"
+  ]
+ },
+ {
+  "id": "cra-C16",
+  "text": "Co se výzkumníkům roku 2021 poprvé podařilo doložit u lucidně snících lidí?",
+  "options": [
+   "odpovídali na otázky pohyby očí přímo ze snu",
+   "dokázali se ve snu probudit na povel z venku",
+   "sen šlo z mozkové aktivity přehrát jako film",
+   "hovořili nahlas srozumitelnými větami ze snu"
+  ]
+ },
+ {
+  "id": "cra-C17",
+  "text": "Jak vypadají sny lidí, kteří jsou slepí od narození?",
+  "options": [
+   "bez obrazů, zato bohaté na zvuky a doteky",
+   "obrazové stejně jako u vidoucích lidí",
+   "obvykle si žádné sny vůbec nepamatují",
+   "objevují se jim jen ve světlých barvách"
+  ]
+ },
+ {
+  "id": "cra-C18",
+  "text": "Rozsah lidského sluchu se uvádí zhruba 20 Hz až 20 kHz. Co se s ním děje během života?",
+  "options": [
+   "horní hranice se s věkem posouvá výš",
+   "mění se hlavně dolní hranice slyšení",
+   "zůstává stejný, mění se jen hlasitost",
+   "horní hranice s věkem výrazně klesá"
+  ]
+ },
+ {
+  "id": "cra-C19",
+  "text": "Co dnes víme o lidské tetrachromacii, tedy o čtvrtém typu čípku v oku?",
+  "options": [
+   "vyskytuje se zhruba u desetiny všech žen",
+   "nositelka bývá žena, funkčnost je vzácná",
+   "byla popsána výhradně u mužů s daltonismem",
+   "jde o hypotézu, kterou nikdo nedoložil"
+  ]
+ },
+ {
+  "id": "cra-C20",
+  "text": "Při McGurkově efektu člověk slyší jinou slabiku, než jaká skutečně zazní. Čím je to způsobeno?",
+  "options": [
+   "ozvěnou v místnosti, kde se poslouchá",
+   "únavou sluchového nervu při opakování",
+   "pohledem na ústa mluvčího, který se liší",
+   "očekáváním daným předchozí větou textu"
+  ]
+ },
+ {
+  "id": "cra-C21",
+  "text": "Jak je to s uložením jazykových center v mozku u leváků?",
+  "options": [
+   "mají je zrcadlově vpravo, opačně než praváci",
+   "mají je rozložená rovnoměrně do obou stran",
+   "většina má centrum vlevo jako praváci",
+   "jazyk u nich sídlí v týlním laloku vzadu"
+  ]
+ },
+ {
+  "id": "cra-C22",
+  "text": "Šlacha svalu musculus palmaris longus, kterou si řada lidí umí vyklenout na zápěstí, je zvláštní tím, že:",
+  "options": [
+   "vzniká až po dvacátém roce života",
+   "u části lidí zcela chybí, aniž by vadila",
+   "objevuje se jen u vrcholových sportovců",
+   "roste znovu i po chirurgickém odebrání"
+  ]
+ },
+ {
+  "id": "cra-C23",
+  "text": "Husí kůže vzniká stažením drobných svalů u chlupů. K čemu nám tato reakce vlastně je?",
+  "options": [
+   "urychluje odpar potu z povrchu kůže",
+   "pomáhá kůži rychleji vstřebávat teplo",
+   "brání drobným poraněním pokožky",
+   "je pozůstatkem naježení srsti u předků"
+  ]
+ },
+ {
+  "id": "cra-C24",
+  "text": "Traduje se, že se celé tělo obmění zhruba jednou za sedm let. Co je na tom nejvíc špatně?",
+  "options": [
+   "buňky oční čočky vydrží celý život",
+   "ve skutečnosti to trvá dvacet let",
+   "obměňuje se pouze kůže, vlasy a nehty",
+   "všechny tkáně se obnovují stejně"
+  ]
+ },
+ {
+  "id": "cra-C25",
+  "text": "Jak velký je rozdíl v genomu dvou náhodně vybraných lidí?",
+  "options": [
+   "kolem jednoho procenta bází",
+   "zhruba jedna tisícina bází",
+   "asi pět procent všech bází",
+   "kolem tří setin procenta bází"
+  ]
+ },
+ {
+  "id": "cra-C26",
+  "text": "Co znamená pojem mitochondriální Eva?",
+  "options": [
+   "ženu, od níž máme mitochondriální DNA",
+   "první ženu druhu Homo sapiens v Africe",
+   "jedinou ženu, která přežila katastrofu",
+   "ženu, s níž žil v jedné době i tzv. Adam"
+  ]
+ },
+ {
+  "id": "cra-C27",
+  "text": "Veřejná ukázka první úspěšné narkózy éterem proběhla roku 1846:",
+  "options": [
+   "v Londýně, předvedl ji Joseph Lister",
+   "v Paříži, předvedl ji Louis Pasteur",
+   "v Bostonu, předvedl ji William Morton",
+   "ve Vídni, předvedl ji Theodor Billroth"
+  ]
+ },
+ {
+  "id": "cra-C28",
+  "text": "Warfarin, dodnes užívaný lék na ředění krve, se do medicíny dostal:",
+  "options": [
+   "z bylinné medicíny čínských lékařů",
+   "z výzkumu bojových otravných látek",
+   "jako vedlejší produkt výroby barviv",
+   "z pátrání po příčině krvácení skotu"
+  ]
+ },
+ {
+  "id": "cra-C29",
+  "text": "Firma Bayer uvedla roku 1899 na trh aspirin. Krátce předtím prodávala pod ochrannou známkou také:",
+  "options": [
+   "kokain jako prostředek proti únavě",
+   "rtuťovou mast na plicní záněty",
+   "arsen jako přípravek na chudokrevnost",
+   "heroin jako lék na kašel a bolest"
+  ]
+ },
+ {
+  "id": "cra-C30",
+  "text": "Eliud Kipchoge zaběhl roku 2019 ve Vídni maraton pod dvě hodiny. Proč to není světový rekord?",
+  "options": [
+   "trať byla o něco kratší než 42,195 km",
+   "výkon nebyl změřen oficiálními hodinami",
+   "šlo o akci s vodiči a mimo řádný závod",
+   "startoval mimo svou věkovou kategorii"
+  ]
+ },
+ {
+  "id": "cra-C31",
+  "text": "Jak dlouho dokáže trénovaný člověk zadržet dech ve statické apnoi bez předchozího dýchání čistého kyslíku?",
+  "options": [
+   "něco přes jedenáct minut",
+   "sotva o něco přes tři minuty",
+   "zhruba dvacet pět minut",
+   "více než půl hodiny v klidu"
+  ]
+ },
+ {
+  "id": "cra-C32",
+  "text": "Australský lékař Barry Marshall roku 1984 přesvědčivě podpořil hypotézu, že žaludeční vředy může způsobovat bakterie, tím, že:",
+  "options": [
+   "prozkoumal tisíc vzorků z pitev",
+   "vypil kulturu bakterie sám na sobě",
+   "sledoval pacienty po dobu dvaceti let",
+   "očkoval bakterií laboratorní myši"
+  ]
+ }
+]

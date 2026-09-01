@@ -1,0 +1,514 @@
+[
+  {
+    "id": "dfi-C01",
+    "type": "F",
+    "category": "dejiny-filosofie",
+    "text": "Marx v Ekonomicko-filosofických rukopisech popisuje odcizení práce. Který popis odpovídá jeho analýze?",
+    "options": [
+      "Dělník je odcizen především tím, že mu chybí vzdělání a kultura",
+      "Odcizení vzniká hlavně z přílišné dělby náboženských rolí",
+      "Dělník je odcizen produktu, vlastní činnosti, druhým i rodové podstatě",
+      "Odcizení je stav mysli, který lze odstranit změnou postoje k práci"
+    ],
+    "correct": 2,
+    "explanation": "Mladý Marx rozlišuje čtyři vrstvy odcizení: od produktu práce, který dělníkovi stojí proti jako cizí moc, od samotné činnosti, od rodové podstaty člověka jako tvořící bytosti a od druhých lidí. Není to psychologický stav ani nedostatek vzdělání, ale strukturní důsledek podmínek, za nichž se pracuje. Proto se odcizení podle Marxe neruší postojem, nýbrž změnou těchto podmínek.",
+    "source": "Marx: Ekonomicko-filosofické rukopisy z roku 1844",
+    "seedElo": 1600
+  },
+  {
+    "id": "dfi-C02",
+    "type": "F",
+    "category": "dejiny-filosofie",
+    "text": "Marx říká, že Hegelovu dialektiku našel stojící na hlavě a postavil ji na nohy. Co tím míní?",
+    "options": [
+      "Že hybnou silou dějin nejsou ideje, ale materiální podmínky výroby",
+      "Že Hegelova logika obsahuje formální chyby v odvození svých kategorií",
+      "Že dialektika platí v přírodě, ale nikoli v lidských dějinách",
+      "Že dějiny nemají směr a rozpory se v nich nikdy nerozvíjejí"
+    ],
+    "correct": 0,
+    "explanation": "Marx převzal dialektickou formu pohybu skrze rozpor, ale vyměnil její nositele: nikoli sebepohyb ducha, nýbrž rozvoj výrobních sil a jejich střet s výrobními vztahy. Vědomí je pak podle něj utvářeno společenským bytím, ne naopak. Obraz „postavení na nohy\" tedy míří na materialistické převrácení, ne na opravu Hegelovy logiky.",
+    "source": "Marx: Kapitál, doslov k 2. vydání",
+    "seedElo": 1700
+  },
+  {
+    "id": "dfi-C03",
+    "type": "K",
+    "category": "dejiny-filosofie",
+    "text": "Co znamená v Marxově pojetí, že ideologie je „falešné vědomí\"?",
+    "options": [
+      "Že vládnoucí třída vědomě lže o svých skutečných hospodářských zájmech",
+      "Že veškeré myšlení je nutně nepravdivé a nelze mu vůbec věřit",
+      "Že idejím se má rozumět výhradně z jejich vlastní vnitřní logiky",
+      "Že myšlenky se jeví jako obecně platné, ač vyjadřují zájmy třídy"
+    ],
+    "correct": 3,
+    "explanation": "Ideologie není podle Marxe úmyslná lež, ale zdání obecnosti: partikulární zájem vládnoucí třídy se prezentuje a upřímně prožívá jako zájem všech. Kritika ideologie proto nespočívá v odhalení lhářů, ale ve výkladu myšlenek z jejich společenské pozice. Termín „falešné vědomí\" pochází od Engelse, Marx sám mluví spíš o obrácení skutečnosti jako v camaře obscuře.",
+    "source": "Marx a Engels: Německá ideologie",
+    "seedElo": 1850
+  },
+  {
+    "id": "dfi-C04",
+    "type": "F",
+    "category": "dejiny-filosofie",
+    "text": "Comtův zákon tří stadií popisuje vývoj lidského poznání. Jak zní jeho pořadí?",
+    "options": [
+      "Metafyzické, teologické a nakonec pozitivní (vědecké) stadium",
+      "Teologické, metafyzické a nakonec pozitivní (vědecké) stadium",
+      "Pozitivní, teologické a nakonec metafyzické (spekulativní) stadium",
+      "Teologické, pozitivní a nakonec metafyzické (spekulativní) stadium"
+    ],
+    "correct": 1,
+    "explanation": "Comte tvrdí, že lidský duch vysvětluje jevy nejprve nadpřirozenými vůlemi, pak abstraktními silami a esencemi a nakonec se vzdá otázky proč a hledá jen zákonité vztahy mezi jevy. Pozitivní stadium tedy neznamená více metafyziky, ale její rezignaci ve prospěch popisu a předvídání. Na tento program navazuje i Comtova sociologie jako věda o společnosti.",
+    "source": "Comte: Kurs pozitivní filosofie",
+    "seedElo": 1600
+  },
+  {
+    "id": "dfi-C05",
+    "type": "F",
+    "category": "dejiny-filosofie",
+    "text": "Peircova pragmatická maxima říká, jak vyjasnit význam pojmu. Jak?",
+    "options": [
+      "Zvážením všech myslitelných praktických účinků předmětu pojmu",
+      "Zjištěním, jaké příjemné pocity v nás užívání pojmu vyvolává",
+      "Nalezením slovníkové definice, na níž se shodne většina mluvčích",
+      "Odvozením pojmu z apriorních kategorií čistého rozvažování"
+    ],
+    "correct": 0,
+    "explanation": "Peirce navrhuje uvážit, jaké představitelné účinky s praktickým dosahem předmět pojmu má; celek těchto účinků je celým významem pojmu. Je to metoda vyjasňování idejí, nikoli teorie pravdy jako užitečnosti. Peirce se od Jamesova volnějšího výkladu později distancoval a svou nauku raději nazval pragmaticismem.",
+    "source": "Peirce: Jak učinit naše ideje jasnými",
+    "seedElo": 1900
+  },
+  {
+    "id": "dfi-C06",
+    "type": "F",
+    "category": "dejiny-filosofie",
+    "text": "Jak William James chápe pravdu v rámci pragmatismu?",
+    "options": [
+      "Pravda je věčná shoda ideje s neměnnou podstatou věci",
+      "Pravda je to, co je příjemné věřit, bez ohledu na následky",
+      "Pravda je vlastnost, kterou věty mají nezávisle na zkušenosti",
+      "Pravda je to, co se v běhu zkušenosti osvědčí a obstojí"
+    ],
+    "correct": 3,
+    "explanation": "James chápe pravdu jako událost, která se ideji přihodí: idea se stává pravdivou tím, že nás spolehlivě vede zkušeností a obstojí v jejím dalším průběhu. Nejde o libovolné příjemné mínění, protože ověřování je veřejné a idea může selhat. Kritici mu přesto vytýkali, že hranici mezi osvědčením a pohodlím drží příliš volně.",
+    "source": "James: Pragmatismus",
+    "seedElo": 1800
+  },
+  {
+    "id": "dfi-C07",
+    "type": "F",
+    "category": "dejiny-filosofie",
+    "text": "Deweyův instrumentalismus chápe myšlení především jako:",
+    "options": [
+      "kontemplaci věčných forem, jež jsou zcela nezávislé na jednání",
+      "nástroj řešení problémů, jimiž se organismus vyrovnává se světem",
+      "soukromý vnitřní proces zcela oddělený od výchovy i od společnosti",
+      "systém pravidel odvozených z jistých a nezpochybnitelných axiomů"
+    ],
+    "correct": 1,
+    "explanation": "Dewey vychází z biologického vztahu organismu a prostředí: myšlení se probouzí tam, kde je rutina narušena problematickou situací, a jeho úkolem je situaci znovu učinit srozumitelnou a zvládnutelnou. Ideje jsou proto plány jednání, nikoli obrazy hotové skutečnosti. Odtud plyne i jeho důraz na zkušenostní vzdělávání a demokracii jako formu sdíleného života.",
+    "source": "Dewey: Demokracie a výchova; Logika: teorie zkoumání",
+    "seedElo": 1750
+  },
+  {
+    "id": "dfi-C08",
+    "type": "F",
+    "category": "dejiny-filosofie",
+    "text": "Co Husserl označuje pojmem epoché (fenomenologická redukce)?",
+    "options": [
+      "Popření existence vnějšího světa coby pouhé iluze vědomí",
+      "Přísně experimentální zkoumání mozkových procesů vnímání",
+      "Zdržení se soudu o existenci světa a obrat k tomu, jak se jeví",
+      "Vysvětlení prožitků z jejich příčin v dějinách a ve společnosti"
+    ],
+    "correct": 2,
+    "explanation": "Epoché uzávorkuje přirozený postoj, tedy samozřejmou víru v existenci světa, a nechá vystoupit svět tak, jak se dává vědomí. Není to popření reality ani skepse, ale změna zaměření pohledu. Teprve v tomto postoji lze podle Husserla popisovat struktury zkušenosti bez skrytých předpokladů převzatých z věd.",
+    "source": "Husserl: Ideje k čisté fenomenologii",
+    "seedElo": 1700
+  },
+  {
+    "id": "dfi-C09",
+    "type": "F",
+    "category": "dejiny-filosofie",
+    "text": "Co Arendtová míní „banalitou zla\" ve zprávě z Eichmannova procesu?",
+    "options": [
+      "Že Eichmannovy zločiny nebyly ve skutečnosti nijak závažné",
+      "Že zlo je vrozená vlastnost, kterou nelze nijak vysvětlit",
+      "Že za zlem stojí vždy démonická nenávist a hluboká lidská zvrácenost",
+      "Že obludné zločiny může páchat úředník neschopný samostatně myslet"
+    ],
+    "correct": 3,
+    "explanation": "Arendtová netvrdí, že zlo je malé, nýbrž že jeho pachatel může být nápadně obyčejný: Eichmann jí připadal jako kariérista mluvící v klišé, bez schopnosti představit si svět z místa druhého. Banalita se týká motivu a osoby, ne rozsahu činu. Proto Arendtová klade myšlení a soudnost mezi politické, nejen intelektuální schopnosti.",
+    "source": "Arendtová: Eichmann v Jeruzalémě",
+    "seedElo": 1650
+  },
+  {
+    "id": "dfi-C10",
+    "type": "F",
+    "category": "dejiny-filosofie",
+    "text": "Co míní pozdní Husserl pojmem životní svět (Lebenswelt)?",
+    "options": [
+      "Souhrn biologických potřeb, které určují chování organismu",
+      "Předvědecký svět bezprostřední zkušenosti, z něhož věda vyrůstá",
+      "Ideální svět matematických předmětů, jenž zakládá platnost všech věd",
+      "Sociální řád, který si jedinci mezi sebou dohodli smlouvou"
+    ],
+    "correct": 1,
+    "explanation": "Životní svět je samozřejmá půda vnímané zkušenosti, v níž se pohybujeme dříve, než začneme měřit a idealizovat. Krize evropských věd podle Husserla spočívá v tom, že matematizovaná příroda se vydává za skutečnost samu a zapomíná na svůj původ v této půdě. Fenomenologie má tento zapomenutý základ znovu zpřístupnit.",
+    "source": "Husserl: Krize evropských věd a transcendentální fenomenologie",
+    "seedElo": 1900
+  },
+  {
+    "id": "dfi-C11",
+    "type": "K",
+    "category": "dejiny-filosofie",
+    "text": "Proč Heidegger nazývá člověka „Dasein\" (pobyt) místo „subjekt\" či „vědomí\"?",
+    "options": [
+      "Protože jde o bytí, jemuž v jeho bytí o toto bytí samo jde",
+      "Protože chce zdůraznit, že člověk je jen shluk fyzických dějů",
+      "Protože pobyt je nadčasová duše, jež stojí mimo dějiny a svět",
+      "Protože slovo subjekt je německy nesrozumitelné a nepřesné"
+    ],
+    "correct": 0,
+    "explanation": "Slovo subjekt nese dědictví izolované věci s vlastnostmi, která stojí proti světu objektů. Heidegger chce naopak vystihnout jsoucno, které nemá své bytí jako danost, ale jako úkol a starost: rozumí bytí a je vždy už bytím-ve-světě. Dasein proto není označení pro vědomí ani pro člověka jako druh, nýbrž pro tento způsob bytí.",
+    "source": "Heidegger: Bytí a čas",
+    "seedElo": 1850
+  },
+  {
+    "id": "dfi-C12",
+    "type": "F",
+    "category": "dejiny-filosofie",
+    "text": "Heideggerovo rozlišení příručního (Zuhandenes) a výskytového (Vorhandenes) znamená:",
+    "options": [
+      "příruční jsou věci malé a přenosné, výskytové jsou velké a těžké",
+      "příruční je vše duševní, výskytové je vše hmotné a měřitelné",
+      "věc je nejprve nástroj v použití, teprve poruchou se stane předmětem",
+      "výskytové je původnější, protože věda popisuje svět nejpřesněji"
+    ],
+    "correct": 2,
+    "explanation": "Kladivo se v práci nedává jako předmět s vlastnostmi, ale mizí ve svém k-čemu, v odkazovém celku dílny. Teprve když se rozbije, chybí nebo překáží, vystoupí jako pouhá věc, kterou lze nezúčastněně popisovat. Výskytovost je tedy odvozený, nikoli základní způsob setkávání s věcmi.",
+    "source": "Heidegger: Bytí a čas, § 15–16",
+    "seedElo": 1900
+  },
+  {
+    "id": "dfi-C13",
+    "type": "K",
+    "category": "dejiny-filosofie",
+    "text": "Heideggerova „vlastnost\" (Eigentlichkeit, autenticita) se často zaměňuje s mravním ideálem. Jak ji chápe on sám?",
+    "options": [
+      "Jako mravní dokonalost, jíž se člověk stává lepším než ostatní",
+      "Jako způsob, jímž pobyt přebírá své vlastní bytí, ne jako ctnost",
+      "Jako naprosté vystoupení ze společnosti a odmítnutí všech svých rolí",
+      "Jako trvalý stav, jehož se dosáhne jednou provždy a nezvratně"
+    ],
+    "correct": 1,
+    "explanation": "Vlastnost a nevlastnost jsou u Heideggera ontologické mody bytí pobytu, nikoli známky z chování. Nevlastnost, tedy rozptýlení do neurčitého „ono se\", je normální a nepostradatelný výchozí stav, z něhož se pobyt může vždy jen nakrátko probrat, například ve zkušenosti úzkosti a bytí k smrti. Nejde tedy o hrdinský stav ani o odchod ze společnosti.",
+    "source": "Heidegger: Bytí a čas, § 27 a § 54–60",
+    "seedElo": 2000
+  },
+  {
+    "id": "dfi-C14",
+    "type": "F",
+    "category": "dejiny-filosofie",
+    "text": "Co Heidegger míní „zapomenutostí bytí\" a ontologickou diferencí?",
+    "options": [
+      "Že moderní člověk zapomněl na Boha a je třeba obnovit víru",
+      "Že filosofie zapomněla na etiku a zabývá se výhradně teorií poznání",
+      "Že jsoucna mizí z dohledu, protože se mluví jen o bytí vůbec",
+      "Že se metafyzika ptá na jsoucno a bytí samo přitom nechává stranou"
+    ],
+    "correct": 3,
+    "explanation": "Ontologická diference je rozdíl mezi jsoucnem, tedy tím, co jest, a bytím, tedy tím, že a jak jest. Podle Heideggera evropská metafyzika od počátku odpovídá na otázku po bytí tím, že vykládá bytí jako nejvyšší jsoucno nebo jako trvalou přítomnost, a otázku samu tak přehlíží. Zapomenutost není lidská nedbalost, ale dějinný osud myšlení.",
+    "source": "Heidegger: Bytí a čas, úvod; Úvod do metafyziky",
+    "seedElo": 1950
+  },
+  {
+    "id": "dfi-C15",
+    "type": "F",
+    "category": "dejiny-filosofie",
+    "text": "Merleau-Pontyho fenomenologie vnímání staví do středu:",
+    "options": [
+      "čisté vědomí, jež je od těla principiálně oddělitelné a soběstačné",
+      "jazyk jako jediné médium, jímž je nám svět vůbec přístupný",
+      "vlastní tělo jako subjekt vnímání, ne jako předmět mezi předměty",
+      "nevědomé pudy, jež určují vnímání i myšlení každého člověka"
+    ],
+    "correct": 2,
+    "explanation": "Merleau-Ponty ukazuje, že tělo není jen věc ve světě, ale nulový bod perspektivy, jímž se svět otevírá. Vnímání má proto vždy tělesné schéma, motorickou intencionalitu a horizont, který nelze rozložit na počitky. Tím míří mezi karteziánský dualismus a objektivistickou psychologii, protože obě podle něj tělo přehlížejí jako subjekt.",
+    "source": "Merleau-Ponty: Fenomenologie vnímání",
+    "seedElo": 1850
+  },
+  {
+    "id": "dfi-C16",
+    "type": "F",
+    "category": "dejiny-filosofie",
+    "text": "Jak Sartre v Bytí a nicotě rozlišuje bytí o sobě a bytí pro sebe?",
+    "options": [
+      "O sobě je plné a totožné se sebou, pro sebe je vědomí nesoucí nicotu",
+      "O sobě je vědomí sebe sama, pro sebe je vnější svět věcí a hmoty",
+      "O sobě je Bůh jako dokonalé jsoucno, pro sebe je příroda a život",
+      "O sobě je nevědomí, pro sebe je vědomá část duševního života"
+    ],
+    "correct": 0,
+    "explanation": "Bytí o sobě je masivní, neprůhledné a beze zbytku to, co je; bytí pro sebe je vědomí, které se od sebe odděluje nicotou a proto nikdy nesplývá se svou vlastní podstatou. Právě tato trhlina je zdrojem svobody i neklidu. Marnou touhou vědomí je podle Sartra stát se o sobě i pro sebe zároveň, tedy Bohem, což je rozpor.",
+    "source": "Sartre: Bytí a nicota",
+    "seedElo": 1900
+  },
+  {
+    "id": "dfi-C17",
+    "type": "F",
+    "category": "dejiny-filosofie",
+    "text": "Co je Sartrova „zlá víra\" (mauvaise foi)?",
+    "options": [
+      "Vědomá lež druhým o tom, jaké jsou skutečné motivy mého vlastního jednání",
+      "Náboženská víra přijatá bez důkazů a proti hlasu rozumu i zkušenosti",
+      "Útěk před svobodou, kdy si sám sebe vykládám jako pouhou věc či roli",
+      "Nevědomé potlačení přání, jež je pro subjekt zcela nepřijatelné"
+    ],
+    "correct": 2,
+    "explanation": "Zlá víra je lež sobě samému: člověk využívá dvojznačnosti své fakticity a transcendence, aby si namluvil, že nemá na vybranou. Sartre ji ilustruje číšníkem, který hraje číšníka až příliš dokonale, nebo ženou, jež nechá svou ruku ležet v cizí dlani jako neutrální předmět. Nejde o freudovské potlačení, protože Sartre jednotu vědomí neštěpí na cenzora a potlačené.",
+    "source": "Sartre: Bytí a nicota, kapitola o zlé víře",
+    "seedElo": 1800
+  },
+  {
+    "id": "dfi-C18",
+    "type": "F",
+    "category": "dejiny-filosofie",
+    "text": "Známá věta „Ženou se člověk nerodí, ženou se stává\" u Beauvoirové znamená:",
+    "options": [
+      "že biologické pohlaví neexistuje a tělo nehraje vůbec žádnou roli",
+      "že ženství je situace utvářená kulturou, jež ženu klade jako Druhou",
+      "že společenské role žen jsou dány přírodou a nelze je nijak měnit",
+      "že rozdíly mezi pohlavími jsou dány výhradně biologickou dědičností těla"
+    ],
+    "correct": 1,
+    "explanation": "Beauvoirová nepopírá tělo, ale odmítá, že by z něj plynul osud: tělo je situace, kterou teprve výchova, mýty a instituce vykládají. Muž je v této struktuře kladen jako norma a subjekt, žena jako Druhá, definovaná vztahem k němu. Existencialistický rámec zde slouží k tomu, aby se ženství ukázalo jako dějinný projekt, ne jako esence.",
+    "source": "Beauvoirová: Druhé pohlaví",
+    "seedElo": 1750
+  },
+  {
+    "id": "dfi-C19",
+    "type": "K",
+    "category": "dejiny-filosofie",
+    "text": "V čem se Camusovo pojetí absurdna liší od Sartrovy filosofie svobody?",
+    "options": [
+      "Camus vidí v absurdnu důkaz Boží existence, Sartre je ateista",
+      "Camus považuje sebevraždu za jediné důsledné řešení absurdna",
+      "Camus buduje soustavnou ontologii vědomí, zatímco Sartre píše eseje",
+      "Camus odmítá skok k projektu a smyslu a trvá na napětí absurdna"
+    ],
+    "correct": 3,
+    "explanation": "Pro Sartra je vědomí odsouzeno k tomu, aby si svobodně volilo projekt, jímž vytváří vlastní smysl. Camus naopak trvá na tom, že absurdno je vztah mezi lidskou touhou po smyslu a mlčením světa, a jakékoli dodání smyslu, náboženské i existencialistické, je filosofickou sebevraždou, tedy únikem. Absurdno se má udržet, ne vyřešit.",
+    "source": "Camus: Mýtus o Sisyfovi",
+    "seedElo": 1950
+  },
+  {
+    "id": "dfi-C20",
+    "type": "F",
+    "category": "dejiny-filosofie",
+    "text": "Ústřední teze Dialektiky osvícenství (Horkheimer, Adorno) zní:",
+    "options": [
+      "Rozum osvobozující od mýtu se sám mění v nástroj ovládání a nový mýtus",
+      "Osvícenství selhalo proto, že nebylo dost důsledné v šíření vědy",
+      "Mýtus je vyšší formou poznání a osvícenství je třeba opustit",
+      "Dějiny nutně směřují k rozumnému uspořádání lidské společnosti"
+    ],
+    "correct": 0,
+    "explanation": "Autoři tvrdí, že osvícenský rozum, redukovaný na účelovou racionalitu ovládání přírody, se obrací proti člověku a plodí nové formy panství i vlastní mytologii. Mýtus už byl osvícenstvím a osvícenství se vrací do mýtu. Kniha přitom nechce osvícenství opustit, nýbrž zachránit tím, že mu podrží zrcadlo jeho vlastní kritiky.",
+    "source": "Horkheimer a Adorno: Dialektika osvícenství",
+    "seedElo": 1900
+  },
+  {
+    "id": "dfi-C21",
+    "type": "F",
+    "category": "dejiny-filosofie",
+    "text": "Habermasovo komunikativní jednání se od strategického liší tím, že:",
+    "options": [
+      "sleduje účel co nejúčinněji a druhého bere jako prostředek",
+      "míří k dorozumění a opírá se o nároky na platnost vznášené v řeči",
+      "je zcela nezávislé na jazyce a zakládá se na sdíleném citovém prožitku",
+      "vylučuje jakoukoli kritiku, protože usiluje o rychlý konsensus"
+    ],
+    "correct": 1,
+    "explanation": "Habermas ukazuje, že kdo mluví s cílem dorozumět se, nutně vznáší nároky na pravdivost, správnost a pravdivost úmyslu, které lze zpochybnit a obhájit argumenty. Tím vrací kritické teorii pozitivní základ, který podle něj Adornovi chyběl: rozum není jen nástroj ovládání, ale i médium dorozumění. Kritika systému pak zní jako kolonizace životního světa penězi a mocí.",
+    "source": "Habermas: Teorie komunikativního jednání",
+    "seedElo": 1950
+  },
+  {
+    "id": "dfi-C22",
+    "type": "F",
+    "category": "dejiny-filosofie",
+    "text": "Saussurova teze o arbitrárnosti znaku říká, že:",
+    "options": [
+      "znak je libovolný, takže si každý mluvčí může slova volit sám",
+      "označující a označované jsou dvě zcela nezávislé a oddělitelné věci",
+      "spojení označujícího a označovaného není dáno přirozenou podobou",
+      "jazyk je pouhý soupis jmen, jež byla přiřazena hotovým věcem"
+    ],
+    "correct": 2,
+    "explanation": "Arbitrárnost znamená nemotivovanost vztahu mezi zvukovým obrazem a pojmem, nikoli svobodu jednotlivce: pro mluvčího je znak naopak závazný, protože jej ustavuje jazykový systém. Hodnota znaku plyne z jeho rozdílu vůči ostatním znakům téhož systému, ne z podobnosti s věcí. Odtud pochází strukturalistická zásada, že smysl vzniká z diferencí.",
+    "source": "Saussure: Kurs obecné lingvistiky",
+    "seedElo": 1650
+  },
+  {
+    "id": "dfi-C23",
+    "type": "K",
+    "category": "dejiny-filosofie",
+    "text": "Co dekonstrukce podle Derridy skutečně dělá?",
+    "options": [
+      "Ukazuje, jak text sám podrývá hierarchie protikladů, na nichž stojí",
+      "Tvrdí, že texty nic neznamenají a číst je lze zcela libovolně",
+      "Nahrazuje filosofii literární kritikou a odmítá pojmovou práci",
+      "Odhaluje skrytý pravý smysl, který autor v textu záměrně ukryl"
+    ],
+    "correct": 0,
+    "explanation": "Derrida čte texty pomalu a přesně a hledá místa, kde se jejich vlastní opozice, například mluva a písmo nebo doslovné a přenesené, obracejí a rozpadají. Slavná věta o tom, že mimo text není nic, netvrdí neexistenci světa, nýbrž že vše je přístupné jen v kontextu a odkazování. Dekonstrukce proto není libovůle, ale krajně disciplinovaná četba.",
+    "source": "Derrida: O gramatologii; Psaní a diference",
+    "seedElo": 2050
+  },
+  {
+    "id": "dfi-C24",
+    "type": "K",
+    "category": "dejiny-filosofie",
+    "text": "Foucaultova teze o moci a vědění tvrdí, že:",
+    "options": [
+      "moc je majetek státu, který ji shora vykonává nad poddanými",
+      "vědění je vždy nezávislé na moci, je-li získáno vědeckou metodou",
+      "moc jen potlačuje a zakazuje, nikdy nic nového neprodukuje",
+      "moc a vědění se navzájem plodí a moc utváří i subjekty a pravdu"
+    ],
+    "correct": 3,
+    "explanation": "Foucault odmítá jak představu moci jako vlastnictví, tak čistě represivní model: moc je vztahová, kapilární a především produktivní, vytváří vědní obory, normy i samotné subjekty, kterými se stáváme. Disciplína v podobě dohledu, výcviku a zkoušky vyrábí poslušná těla a s nimi celou psychologii jedince. Genealogie pak ukazuje nahodilý původ toho, co se jeví jako přirozené.",
+    "source": "Foucault: Dohlížet a trestat; Vůle k vědění",
+    "seedElo": 2000
+  },
+  {
+    "id": "dfi-C25",
+    "type": "F",
+    "category": "dejiny-filosofie",
+    "text": "Lyotardova diagnóza postmoderny jako „nedůvěry k velkým vyprávěním\" znamená:",
+    "options": [
+      "Ztrátu důvěry v příběhy, jež legitimovaly vědění, jako pokrok či emancipace",
+      "Odmítnutí veškerého vyprávění, románů a literatury jako formy poznání",
+      "Tvrzení, že věda je s konečnou platností nahrazena náboženstvím",
+      "Návrat k jednomu sjednocujícímu příběhu, který spojí všechny vědy"
+    ],
+    "correct": 0,
+    "explanation": "Lyotard sleduje, čím se legitimuje vědění: dříve to byla velká vyprávění o osvobození lidstva nebo o spekulativní jednotě ducha. V postmoderní situaci tyto příběhy ztratily důvěryhodnost a jejich místo zaujímají lokální jazykové hry a výkonnostní kritérium efektivity. Malá vyprávění nemizejí, mizí jen jejich nárok zaštítit celek.",
+    "source": "Lyotard: O postmodernismu",
+    "seedElo": 1600
+  },
+  {
+    "id": "dfi-C26",
+    "type": "K",
+    "category": "dejiny-filosofie",
+    "text": "Deleuze a Guattari staví pojem rhizomu proti obrazu stromu, protože:",
+    "options": [
+      "rhizom je mnohem přesnější metafora pro hierarchii vědních oborů",
+      "rhizom označuje návrat k pevnému základu a jedinému kořeni",
+      "myšlení má mít podobu sítě spojení bez centra a bez hierarchie",
+      "biologie prokázala, že oddenky jsou vývojově starší než stromy"
+    ],
+    "correct": 2,
+    "explanation": "Stromový obraz vědění předpokládá kořen, kmen a řád odvozování od jednoho principu. Rhizom, oddenek, se naproti tomu větví v libovolných bodech, dá se přetrhnout a znovu naváže jinde. Deleuzovi jde přitom o víc než o metaforu: jeho ontologie klade na první místo diferenci a mnohost, nikoli identitu a totožnost.",
+    "source": "Deleuze a Guattari: Tisíc plošin; Deleuze: Diference a opakování",
+    "seedElo": 2000
+  },
+  {
+    "id": "dfi-C27",
+    "type": "F",
+    "category": "dejiny-filosofie",
+    "text": "Fregeho rozlišení smyslu (Sinn) a významu (Bedeutung) vysvětluje, proč:",
+    "options": [
+      "věta „Jitřenka je Jitřenka\" nese více informace než pozorování hvězd",
+      "vlastní jména nemohou vůbec označovat žádné skutečné předměty",
+      "logika musí být převedena na psychologické zákony myšlení",
+      "„Jitřenka je Večernice\" je poučné, ač jde o týž nebeský předmět"
+    ],
+    "correct": 3,
+    "explanation": "Obě jména označují Venuši, tedy mají týž význam, ale liší se způsobem danosti předmětu, tedy smyslem. Identita proto může být objevem, nikoli triviální tautologií. Toto rozlišení zakládá moderní filosofii jazyka a Frege k němu připojuje důrazný odpor proti psychologizaci logiky.",
+    "source": "Frege: O smyslu a významu",
+    "seedElo": 1750
+  },
+  {
+    "id": "dfi-C28",
+    "type": "F",
+    "category": "dejiny-filosofie",
+    "text": "Russellova teorie určitých deskripcí řeší větu „Současný král Francie je plešatý\" tím, že:",
+    "options": [
+      "připisuje králi Francie zvláštní způsob neexistujícího bytí",
+      "rozloží ji na tvrzení o existenci a jedinečnosti, takže je nepravdivá",
+      "prohlásí ji za nesmyslnou, protože nemá žádnou gramatickou formu",
+      "považuje ji za pravdivou, neboť o neexistujícím lze tvrdit vše"
+    ],
+    "correct": 1,
+    "explanation": "Russell ukazuje, že gramatický tvar věty klame: logicky jde o tvrzení, že existuje právě jedna věc, jež je králem Francie, a ta je plešatá. Protože první podmínka neplatí, je věta prostě nepravdivá a není třeba zavádět podivná jsoucna po vzoru Meinonga. Tento rozbor se stal učebnicovým příkladem logické analýzy jazyka.",
+    "source": "Russell: O označování (On Denoting)",
+    "seedElo": 1950
+  },
+  {
+    "id": "dfi-C29",
+    "type": "F",
+    "category": "dejiny-filosofie",
+    "text": "Verifikační kritérium významu Vídeňského kroužku vede k závěru, že:",
+    "options": [
+      "matematické věty jsou nesmyslné, neboť je nelze ověřit smysly",
+      "věty o pozorování jsou nesmyslné, protože jsou vždy nejisté",
+      "metafyzické věty nejsou nepravdivé, nýbrž postrádají smysl",
+      "věda a metafyzika se liší pouze mírou dosažené přesnosti"
+    ],
+    "correct": 2,
+    "explanation": "Podle logických empiristů má smysl jen věta analytická, tedy pravdivá z logiky a definic, nebo empiricky ověřitelná. Metafyzické výroky nesplňují ani jedno, takže se podle Carnapa nemají vyvracet, ale odhalovat jako zdánlivé věty, blíže hudbě než poznání. Matematika je zachráněna právě jako analytická. Kritérium samo se ovšem ukázalo jako obtížně formulovatelné a nakonec padlo.",
+    "source": "Carnap: Překonání metafyziky logickou analýzou jazyka",
+    "seedElo": 1700
+  },
+  {
+    "id": "dfi-C30",
+    "type": "K",
+    "category": "dejiny-filosofie",
+    "text": "K čemu míří argument pozdního Wittgensteina o soukromém jazyce?",
+    "options": [
+      "Že by chyběl rozdíl mezi tím, co se zdá správné, a tím, co správné je",
+      "Že člověk nemůže mít bolest, dokud ji někomu jinému nesdělí",
+      "Že o vnitřních prožitcích nelze mluvit vůbec, jsou nevyslovitelné",
+      "Že každý má vlastní jazyk a dorozumění je proto pouhá iluze"
+    ],
+    "correct": 0,
+    "explanation": "Wittgenstein zkoumá myšlenku jazyka, jehož slova by odkazovala k prožitkům přístupným jedině mluvčímu. Takový jazyk by neměl žádné nezávislé kritérium správného užití, a proto by mluvení ztratilo rozdíl mezi dodržením a porušením pravidla. Nepopírá tím vnitřní život, ale představu, že význam slova bolest vzniká soukromým pojmenováním prožitku.",
+    "source": "Wittgenstein: Filosofická zkoumání, § 243–271",
+    "seedElo": 1950
+  },
+  {
+    "id": "dfi-C31",
+    "type": "F",
+    "category": "dejiny-filosofie",
+    "text": "Co Quine napadá ve „Dvou dogmatech empirismu\"?",
+    "options": [
+      "Tvrzení, že vědecké teorie jsou vždy nedourčené empirickými daty",
+      "Tvrzení, že logika je zcela nezávislá na psychologických zákonech",
+      "Tvrzení, že smysl a význam jména je třeba pečlivě rozlišovat",
+      "Rozdíl analytické a syntetické pravdy a redukci vět na zkušenost"
+    ],
+    "correct": 3,
+    "explanation": "Quine ukazuje, že pojem analytičnosti se dá vysvětlit jen kruhem přes synonymii a definici, a že jednotlivá věta se nedá konfrontovat se zkušeností izolovaně. Zkušenosti čelí celá soustava vědění najednou, takže tváří v tvář protikladné zkušenosti lze revidovat kteroukoli její část. Tím padá základ programu Vídeňského kroužku a rodí se holismus a naturalizovaná epistemologie.",
+    "source": "Quine: Dvě dogmata empirismu",
+    "seedElo": 2050
+  },
+  {
+    "id": "dfi-C32",
+    "type": "F",
+    "category": "dejiny-filosofie",
+    "text": "Popper v Otevřené společnosti kritizuje historicismus. Co jím míní?",
+    "options": [
+      "Přílišný zájem o dějiny filosofie, jenž odvádí pozornost od vědy",
+      "Nárok předpovídat nutný běh dějin a podle něj řídit společnost",
+      "Metodu, jež hledá v pramenech doslovný smysl minulých textů",
+      "Názor, že společnost lze zlepšovat jen postupnými dílčími reformami"
+    ],
+    "correct": 1,
+    "explanation": "Historicismem Popper nazývá přesvědčení, že dějiny mají odhalitelné zákony vývoje, z nichž lze odvodit jejich cíl, a že politika má tomuto cíli sloužit. Vidí v něm kořen uzavřených společností a totalitní pokušení, protože ospravedlňuje libovolnou oběť budoucností. Proti němu staví postupné kusé inženýrství a instituce umožňující odvolat vládu bez násilí.",
+    "source": "Popper: Otevřená společnost a její nepřátelé; Bída historicismu",
+    "seedElo": 1700
+  }
+]

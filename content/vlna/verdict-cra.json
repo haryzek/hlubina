@@ -1,0 +1,482 @@
+[
+ {
+  "id": "cra-A01",
+  "answer": 0,
+  "confidence": "high"
+ },
+ {
+  "id": "cra-A02",
+  "answer": 1,
+  "confidence": "high"
+ },
+ {
+  "id": "cra-A03",
+  "answer": 2,
+  "confidence": "high"
+ },
+ {
+  "id": "cra-A04",
+  "answer": 3,
+  "confidence": "high"
+ },
+ {
+  "id": "cra-A05",
+  "answer": 0,
+  "confidence": "high"
+ },
+ {
+  "id": "cra-A06",
+  "answer": 1,
+  "confidence": "high"
+ },
+ {
+  "id": "cra-A07",
+  "answer": 2,
+  "confidence": "high"
+ },
+ {
+  "id": "cra-A08",
+  "answer": 3,
+  "confidence": "high"
+ },
+ {
+  "id": "cra-A09",
+  "answer": 0,
+  "confidence": "high"
+ },
+ {
+  "id": "cra-A10",
+  "answer": 1,
+  "confidence": "high"
+ },
+ {
+  "id": "cra-A11",
+  "answer": 2,
+  "confidence": "high"
+ },
+ {
+  "id": "cra-A12",
+  "answer": -1,
+  "confidence": "low"
+ },
+ {
+  "id": "cra-A13",
+  "answer": 0,
+  "confidence": "high"
+ },
+ {
+  "id": "cra-A14",
+  "answer": -1,
+  "confidence": "low"
+ },
+ {
+  "id": "cra-A15",
+  "answer": 2,
+  "confidence": "high"
+ },
+ {
+  "id": "cra-A16",
+  "answer": 3,
+  "confidence": "high"
+ },
+ {
+  "id": "cra-A17",
+  "answer": 0,
+  "confidence": "high"
+ },
+ {
+  "id": "cra-A18",
+  "answer": 1,
+  "confidence": "high"
+ },
+ {
+  "id": "cra-A19",
+  "answer": 2,
+  "confidence": "high"
+ },
+ {
+  "id": "cra-A20",
+  "answer": 3,
+  "confidence": "high"
+ },
+ {
+  "id": "cra-A21",
+  "answer": 0,
+  "confidence": "high"
+ },
+ {
+  "id": "cra-A22",
+  "answer": 1,
+  "confidence": "high"
+ },
+ {
+  "id": "cra-A23",
+  "answer": 2,
+  "confidence": "high"
+ },
+ {
+  "id": "cra-A24",
+  "answer": 3,
+  "confidence": "high"
+ },
+ {
+  "id": "cra-A25",
+  "answer": 0,
+  "confidence": "high"
+ },
+ {
+  "id": "cra-A26",
+  "answer": 1,
+  "confidence": "high"
+ },
+ {
+  "id": "cra-A27",
+  "answer": 2,
+  "confidence": "high"
+ },
+ {
+  "id": "cra-A28",
+  "answer": -1,
+  "confidence": "low"
+ },
+ {
+  "id": "cra-A29",
+  "answer": 0,
+  "confidence": "high"
+ },
+ {
+  "id": "cra-A30",
+  "answer": 1,
+  "confidence": "high"
+ },
+ {
+  "id": "cra-A31",
+  "answer": 2,
+  "confidence": "high"
+ },
+ {
+  "id": "cra-A32",
+  "answer": 3,
+  "confidence": "high"
+ },
+ {
+  "id": "cra-B01",
+  "answer": 2,
+  "confidence": "high"
+ },
+ {
+  "id": "cra-B02",
+  "answer": 0,
+  "confidence": "high"
+ },
+ {
+  "id": "cra-B03",
+  "answer": 3,
+  "confidence": "high"
+ },
+ {
+  "id": "cra-B04",
+  "answer": 1,
+  "confidence": "high"
+ },
+ {
+  "id": "cra-B05",
+  "answer": 0,
+  "confidence": "high"
+ },
+ {
+  "id": "cra-B06",
+  "answer": 3,
+  "confidence": "high"
+ },
+ {
+  "id": "cra-B07",
+  "answer": 1,
+  "confidence": "high"
+ },
+ {
+  "id": "cra-B08",
+  "answer": 2,
+  "confidence": "high"
+ },
+ {
+  "id": "cra-B09",
+  "answer": 3,
+  "confidence": "high"
+ },
+ {
+  "id": "cra-B10",
+  "answer": 1,
+  "confidence": "high"
+ },
+ {
+  "id": "cra-B11",
+  "answer": 2,
+  "confidence": "high"
+ },
+ {
+  "id": "cra-B12",
+  "answer": 0,
+  "confidence": "high"
+ },
+ {
+  "id": "cra-B13",
+  "answer": 1,
+  "confidence": "high"
+ },
+ {
+  "id": "cra-B14",
+  "answer": 2,
+  "confidence": "high"
+ },
+ {
+  "id": "cra-B15",
+  "answer": 0,
+  "confidence": "high"
+ },
+ {
+  "id": "cra-B16",
+  "answer": 3,
+  "confidence": "high"
+ },
+ {
+  "id": "cra-B17",
+  "answer": 0,
+  "confidence": "high"
+ },
+ {
+  "id": "cra-B18",
+  "answer": 2,
+  "confidence": "high"
+ },
+ {
+  "id": "cra-B19",
+  "answer": 1,
+  "confidence": "high"
+ },
+ {
+  "id": "cra-B20",
+  "answer": 3,
+  "confidence": "high"
+ },
+ {
+  "id": "cra-B21",
+  "answer": 3,
+  "confidence": "high"
+ },
+ {
+  "id": "cra-B22",
+  "answer": -1,
+  "confidence": "low"
+ },
+ {
+  "id": "cra-B23",
+  "answer": 2,
+  "confidence": "high"
+ },
+ {
+  "id": "cra-B24",
+  "answer": 1,
+  "confidence": "high"
+ },
+ {
+  "id": "cra-B25",
+  "answer": 2,
+  "confidence": "high"
+ },
+ {
+  "id": "cra-B26",
+  "answer": 3,
+  "confidence": "high"
+ },
+ {
+  "id": "cra-B27",
+  "answer": 0,
+  "confidence": "high"
+ },
+ {
+  "id": "cra-B28",
+  "answer": 1,
+  "confidence": "high"
+ },
+ {
+  "id": "cra-B29",
+  "answer": 1,
+  "confidence": "high"
+ },
+ {
+  "id": "cra-B30",
+  "answer": 3,
+  "confidence": "high"
+ },
+ {
+  "id": "cra-B31",
+  "answer": -1,
+  "confidence": "low"
+ },
+ {
+  "id": "cra-B32",
+  "answer": -1,
+  "confidence": "low"
+ },
+ {
+  "id": "cra-C01",
+  "answer": 0,
+  "confidence": "high"
+ },
+ {
+  "id": "cra-C02",
+  "answer": 2,
+  "confidence": "high"
+ },
+ {
+  "id": "cra-C03",
+  "answer": 1,
+  "confidence": "high"
+ },
+ {
+  "id": "cra-C04",
+  "answer": 3,
+  "confidence": "high"
+ },
+ {
+  "id": "cra-C05",
+  "answer": 2,
+  "confidence": "high"
+ },
+ {
+  "id": "cra-C06",
+  "answer": 0,
+  "confidence": "high"
+ },
+ {
+  "id": "cra-C07",
+  "answer": 3,
+  "confidence": "high"
+ },
+ {
+  "id": "cra-C08",
+  "answer": 1,
+  "confidence": "high"
+ },
+ {
+  "id": "cra-C09",
+  "answer": 3,
+  "confidence": "high"
+ },
+ {
+  "id": "cra-C10",
+  "answer": 1,
+  "confidence": "high"
+ },
+ {
+  "id": "cra-C11",
+  "answer": 0,
+  "confidence": "high"
+ },
+ {
+  "id": "cra-C12",
+  "answer": 2,
+  "confidence": "high"
+ },
+ {
+  "id": "cra-C13",
+  "answer": 1,
+  "confidence": "high"
+ },
+ {
+  "id": "cra-C14",
+  "answer": 3,
+  "confidence": "high"
+ },
+ {
+  "id": "cra-C15",
+  "answer": 2,
+  "confidence": "high"
+ },
+ {
+  "id": "cra-C16",
+  "answer": 0,
+  "confidence": "high"
+ },
+ {
+  "id": "cra-C17",
+  "answer": 0,
+  "confidence": "high"
+ },
+ {
+  "id": "cra-C18",
+  "answer": 3,
+  "confidence": "high"
+ },
+ {
+  "id": "cra-C19",
+  "answer": 1,
+  "confidence": "high"
+ },
+ {
+  "id": "cra-C20",
+  "answer": 2,
+  "confidence": "high"
+ },
+ {
+  "id": "cra-C21",
+  "answer": 2,
+  "confidence": "high"
+ },
+ {
+  "id": "cra-C22",
+  "answer": 1,
+  "confidence": "high"
+ },
+ {
+  "id": "cra-C23",
+  "answer": 3,
+  "confidence": "high"
+ },
+ {
+  "id": "cra-C24",
+  "answer": -1,
+  "confidence": "low"
+ },
+ {
+  "id": "cra-C25",
+  "answer": 1,
+  "confidence": "high"
+ },
+ {
+  "id": "cra-C26",
+  "answer": 0,
+  "confidence": "high"
+ },
+ {
+  "id": "cra-C27",
+  "answer": 2,
+  "confidence": "high"
+ },
+ {
+  "id": "cra-C28",
+  "answer": 3,
+  "confidence": "high"
+ },
+ {
+  "id": "cra-C29",
+  "answer": 3,
+  "confidence": "high"
+ },
+ {
+  "id": "cra-C30",
+  "answer": 2,
+  "confidence": "high"
+ },
+ {
+  "id": "cra-C31",
+  "answer": 0,
+  "confidence": "high"
+ },
+ {
+  "id": "cra-C32",
+  "answer": 1,
+  "confidence": "high"
+ }
+]

@@ -1,0 +1,514 @@
+[
+  {
+    "id": "dfi-A01",
+    "type": "F",
+    "category": "dejiny-filosofie",
+    "text": "Co je apeiron, počátek všeho podle Anaximandra z Mílétu?",
+    "options": [
+      "Neurčitá a bezmezná pralátka všeho",
+      "Nejjemnější vzduch prostupující kosmem",
+      "Věčný oheň proměňující se v prvky",
+      "Nedělitelné částice v prázdném prostoru"
+    ],
+    "correct": 0,
+    "explanation": "Anaximandros odmítl ztotožnit počátek s některým z živlů a zavedl apeiron, tedy to bezmezné a neurčité, z čeho se vyděluje vše ostatní. Právě proto, že samo nemá určitou povahu, může z něj vzejít teplé i studené, suché i vlhké. Vzduch jako počátek hlásal až Anaximenés, oheň Hérakleitos.",
+    "source": "Anaximandros (zlomky u Simplikia)",
+    "seedElo": 1580
+  },
+  {
+    "id": "dfi-A02",
+    "type": "F",
+    "category": "dejiny-filosofie",
+    "text": "Co bylo podle pythagorejců podstatou a pořádkem všech věcí?",
+    "options": [
+      "Neviditelný oheň ve středu světa",
+      "Číslo a harmonické poměry mezi nimi",
+      "Nekonečné množství drobných semen",
+      "Láska a svár mísící čtyři živly"
+    ],
+    "correct": 1,
+    "explanation": "Pythagorejci objevili, že souzvučné intervaly odpovídají jednoduchým poměrům délek struny, a zobecnili to na celý kosmos: číslo je principem věcí. Odtud pochází i slovo kosmos ve významu řád. Centrální oheň patří k jejich astronomii, ne k nauce o principu.",
+    "source": "Aristotelés, Metafyzika I",
+    "seedElo": 1620
+  },
+  {
+    "id": "dfi-A03",
+    "type": "K",
+    "category": "dejiny-filosofie",
+    "text": "Co u Empedokla působí vznik a zánik věcí ze čtyř kořenů?",
+    "options": [
+      "Zhušťování a zřeďování jediné pralátky vzduchu",
+      "Střídavá převaha Lásky a Sváru nad živly",
+      "Vířivý pohyb nekonečně mnoha atomů v prázdnu",
+      "Rozumné roztřídění nesčetných semen myslí"
+    ],
+    "correct": 1,
+    "explanation": "Empedoklés má čtyři nezničitelné kořeny (oheň, vzduch, voda, země) a dvě hybné síly: Lásku, jež je spojuje, a Svár, jenž je rozděluje. Vznik a zánik je tedy pouze mísení a rozlučování toho, co samo trvá. Kosmos podle něj prochází cyklem převahy jedné a druhé síly.",
+    "source": "Empedoklés, O přírodě (zlomky)",
+    "seedElo": 1750
+  },
+  {
+    "id": "dfi-A04",
+    "type": "F",
+    "category": "dejiny-filosofie",
+    "text": "Jakou roli hraje nús, tedy mysl, v Anaxagorově výkladu světa?",
+    "options": [
+      "Splývá s látkou a je s ní odjakživa smíšena",
+      "Je nesmíšená a uvádí prasměs do vířivého pohybu",
+      "Je jen jiným jménem pro náhodné srážky atomů",
+      "Vzniká teprve z původní směsi semen všech věcí"
+    ],
+    "correct": 1,
+    "explanation": "U Anaxagory je na počátku směs, v níž je vše ve všem, a jediné, co s ničím smíšeno není, je nús. Ten uvede směs do víru a tím rozliší věci. Sókratés si podle Platónova Faidóna sliboval, že nús vysvětlí, proč je vše k nejlepšímu, a byl zklamán, že Anaxagorás ho použil jen mechanicky.",
+    "source": "Platón, Faidón 97b–98c",
+    "seedElo": 1900
+  },
+  {
+    "id": "dfi-A05",
+    "type": "F",
+    "category": "dejiny-filosofie",
+    "text": "Co podle Leukippa a Démokrita existuje vedle atomů?",
+    "options": [
+      "Bezmezné apeiron obklopující zrozené světy",
+      "Kosmická mysl řídící vzájemné srážky atomů",
+      "Prázdno, tedy nejsoucno, které přesto jest",
+      "Čtyři živly slučované působením lásky"
+    ],
+    "correct": 2,
+    "explanation": "Atomisté učinili odvážný krok: prohlásili za skutečné i nejsoucno, totiž prázdno, bez něhož by nebyl možný pohyb. Atomy se liší jen tvarem, polohou a uspořádáním; barvy a chutě jsou podle Démokrita jen naším zvykem. Tím obešli Parmenidův zákaz nejsoucna, aniž se vzdali mnohosti.",
+    "source": "Démokritos (zlomky), Aristotelés, Metafyzika I",
+    "seedElo": 1780
+  },
+  {
+    "id": "dfi-A06",
+    "type": "K",
+    "category": "dejiny-filosofie",
+    "text": "Jaký smysl měly Zenónovy aporie o pohybu a mnohosti?",
+    "options": [
+      "Dokázat, že pohyb je jedinou skutečností",
+      "Založit matematiku na pojmu nekonečna",
+      "Hájit Parmenida útokem na jeho odpůrce",
+      "Vyvrátit učení atomistů o prázdném prostoru"
+    ],
+    "correct": 2,
+    "explanation": "Zenón nedokazoval přímo, že jsoucno je jedno, nýbrž ukazoval, že předpoklad mnohosti a pohybu vede k ještě horším rozporům. Jde tedy o nepřímou obranu učitele metodou sporu. Aristotelés jej proto označuje za vynálezce dialektiky.",
+    "source": "Platón, Parmenidés 128c–d",
+    "seedElo": 1880
+  },
+  {
+    "id": "dfi-A07",
+    "type": "F",
+    "category": "dejiny-filosofie",
+    "text": "Co tvrdí Parmenidova takzvaná cesta pravdy?",
+    "options": [
+      "Jsoucno je jedno, nezrozené a nehybné",
+      "Vše plyne a nic nezůstává v témže stavu",
+      "Jsoucno se rodí ze sváru protikladů",
+      "Poznání je vždy jen věcí lidského mínění"
+    ],
+    "correct": 0,
+    "explanation": "Podle Parmenida lze myslet a vyslovit jen to, co jest; nejsoucno je nemyslitelné. Z toho plyne, že jsoucno nemohlo vzniknout ani zaniknout a nemůže se dělit ani pohybovat. Vedle cesty pravdy podává báseň i cestu mínění, tedy zdánlivý svět smyslů.",
+    "source": "Parmenidés, O přírodě (zlomek B8)",
+    "seedElo": 1650
+  },
+  {
+    "id": "dfi-A08",
+    "type": "F",
+    "category": "dejiny-filosofie",
+    "text": "Jak Platón v Theaitétovi vykládá Prótagorovu větu o člověku jako míře?",
+    "options": [
+      "Jako výzvu k hledání obecných definic",
+      "Jako důkaz, že jsoucno je pouze jedno",
+      "Jako tvrzení, že bohové jsou lidský výmysl",
+      "Jako relativismus: jak se komu co jeví"
+    ],
+    "correct": 3,
+    "explanation": "Prótagorova věta říká, že člověk je mírou všech věcí, jsoucích i nejsoucích. Platón ji čte jako tezi, že pravdivé je pro každého to, co se mu jeví, a obrací ji proti ní samé: pak je pravdivé i mínění těch, kdo Prótagoru odmítají. O bozích se Prótagorás vyjadřoval zvlášť, agnosticky.",
+    "source": "Platón, Theaitétos 152a",
+    "seedElo": 1720
+  },
+  {
+    "id": "dfi-A09",
+    "type": "K",
+    "category": "dejiny-filosofie",
+    "text": "Které tvrzení patří ke Gorgiovým třem tezím ze spisu O nejsoucnu?",
+    "options": [
+      "Jsoucno je věčné, a proto plně poznatelné",
+      "Řeč věrně zobrazuje pravou podstatu věcí",
+      "I kdyby něco bylo, nešlo by to druhému sdělit",
+      "Člověk je mírou všech jsoucích skutečností"
+    ],
+    "correct": 2,
+    "explanation": "Gorgiás postupuje ve třech stupních: nic není; kdyby něco bylo, nebylo by to poznatelné; a kdyby to poznatelné bylo, nešlo by to sdělit. Bývá sporné, zda jde o vážnou nauku, nebo o rétorickou parodii eleatských důkazů. Poslední teze stojí na tom, že řeč je něco jiného než věc.",
+    "source": "Gorgiás, O nejsoucnu (u Sexta Empirika)",
+    "seedElo": 1920
+  },
+  {
+    "id": "dfi-A10",
+    "type": "K",
+    "category": "dejiny-filosofie",
+    "text": "Co označuje badatelský termín sókratovská otázka?",
+    "options": [
+      "Problém rekonstrukce Sókrata z pramenů",
+      "Spor o Sókratovu vinu v athénském procesu",
+      "Otázku po autorství Platónových sedmi listů",
+      "Spor o to, zda lze ctnostem vůbec vyučovat"
+    ],
+    "correct": 0,
+    "explanation": "Sókratés nic nenapsal a naše prameny se rozcházejí: Platónův Sókratés filosofuje o idejích, Xenofóntův je střízlivý mravokárce a Aristofanés z něj dělá karikaturu přírodozpytce a sofisty. Otázka, který obraz je historický, se v bádání nazývá sókratovskou otázkou a nemá shodné řešení.",
+    "source": "Platón, Xenofón, Aristofanés (Oblaky)",
+    "seedElo": 1700
+  },
+  {
+    "id": "dfi-A11",
+    "type": "F",
+    "category": "dejiny-filosofie",
+    "text": "Čím se vyznačují Platónovy pozdní dialogy, například Sofistés a Filébos?",
+    "options": [
+      "Sókratés v nich vede jen krátký zkušební výslech",
+      "Zaměřují se na obranu Sókrata před athénským soudem",
+      "Končí zpravidla nerozhodnou aporií bez definice",
+      "Sókratés ustupuje do pozadí a řeší se metoda dělení"
+    ],
+    "correct": 3,
+    "explanation": "V pozdních dialozích už hlavní slovo nemá Sókratés, ale Host z Eleje či Timaios, a rozhovor je spíše školním výkladem než zápasem. Nastupuje metoda dihairese, tedy dělení rodů na druhy, a rozbor nejobecnějších pojmů. Nerozhodná aporie je naopak znakem raných dialogů.",
+    "source": "Platón, Sofistés, Filébos",
+    "seedElo": 1860
+  },
+  {
+    "id": "dfi-A12",
+    "type": "F",
+    "category": "dejiny-filosofie",
+    "text": "Co má dokládat geometrický pokus s otrokem v dialogu Menón?",
+    "options": [
+      "Že geometrii se lze naučit pouze výkladem",
+      "Že poznání je rozpomínáním se duše",
+      "Že ctnost je totožná s uměním měřit",
+      "Že smysly jsou spolehlivým zdrojem vědění"
+    ],
+    "correct": 1,
+    "explanation": "Sókratés vede neškoleného chlapce pouhými otázkami k tomu, aby sám nalezl stranu dvojnásobného čtverce. Protože mu nic nesdělil, musel prý chlapec vědění mít v sobě už dřív. Tak Platón zavádí anamnésis, rozpomínání duše na to, co viděla před zrozením.",
+    "source": "Platón, Menón 82b–86b",
+    "seedElo": 1870
+  },
+  {
+    "id": "dfi-A13",
+    "type": "F",
+    "category": "dejiny-filosofie",
+    "text": "Jakou úlohu má v Platónově Timaiovi démiúrgos?",
+    "options": [
+      "Stvořil svět z ničeho pouhým svým slovem",
+      "Je totožný s ideou dobra a se samým Jedním",
+      "Je prvním z řady emanací vystupujících z Jedna",
+      "Utváří svět podle vzoru idejí z neuspořádaného"
+    ],
+    "correct": 3,
+    "explanation": "Démiúrgos je řemeslník, nikoli stvořitel z ničeho: nachází neuspořádanou nutnost a vtiskuje jí řád podle věčného vzoru idejí. Protože je dobrý, chce, aby svět byl co nejpodobnější vzoru, a činí z něj živou bytost s duší. Emanace je až plótínovský motiv, stvoření z ničeho židovsko-křesťanský.",
+    "source": "Platón, Timaios 28a–30c",
+    "seedElo": 1560
+  },
+  {
+    "id": "dfi-A14",
+    "type": "K",
+    "category": "dejiny-filosofie",
+    "text": "Jaká námitka proti teorii idejí zaznívá v Platónově dialogu Parmenidés?",
+    "options": [
+      "Ideje nelze poznat žádnou rozumovou úvahou",
+      "Ideje existují pouze v mysli boha stvořitele",
+      "Účast věcí na ideji vede k nekonečnému regresu",
+      "Idejí musí být nutně právě tolik jako věcí"
+    ],
+    "correct": 2,
+    "explanation": "Argument zvaný třetí člověk zní: je-li mnoho velkých věcí podobných ideji velikosti, musí být další idea zahrnující je i onu ideu, a tak dále bez konce. Platón tu kritizuje vlastní nauku ústy Parmenida a mladého Sókrata nechává bez odpovědi. Aristotelés námitku později přebírá jako svou.",
+    "source": "Platón, Parmenidés 132a–b",
+    "seedElo": 1760
+  },
+  {
+    "id": "dfi-A15",
+    "type": "F",
+    "category": "dejiny-filosofie",
+    "text": "Co je u Aristotela příčina účelová, tedy finální?",
+    "options": [
+      "Látka, z níž je věc zhotovena a složena",
+      "To, k čemu věc směřuje jako ke svému dobru",
+      "Tvar, který činí věc právě tímto jsoucnem",
+      "Původce pohybu, jenž změnu uvádí do chodu"
+    ],
+    "correct": 1,
+    "explanation": "Aristotelés rozlišuje příčinu látkovou, tvarovou, působící a účelovou; teprve všechny čtyři dohromady dávají úplné vysvětlení. Účelová příčina odpovídá na otázku proč ve smyslu k čemu a v přírodě nepředpokládá vědomý záměr. Právě ji novověká věda z výkladu přírody vyloučila.",
+    "source": "Aristotelés, Fyzika II, 3",
+    "seedElo": 1930
+  },
+  {
+    "id": "dfi-A16",
+    "type": "F",
+    "category": "dejiny-filosofie",
+    "text": "Jak Aristotelés pomocí aktu a potence vysvětluje možnost změny?",
+    "options": [
+      "Jako přechod z možnosti k uskutečnění",
+      "Jako střídání zhušťování a zřeďování",
+      "Jako pouhý zdánlivý jev pro naše smysly",
+      "Jako slučování a rozlučování atomů"
+    ],
+    "correct": 0,
+    "explanation": "Eleaté tvrdili, že nic nemůže vzniknout ani z jsoucího, ani z nejsoucího. Aristotelés zavádí třetí možnost: co je určitým způsobem jsoucí v možnosti, se stává jsoucím ve skutečnosti. Semeno není strom skutečně, ale možností, a změna je právě uskutečňováním této možnosti.",
+    "source": "Aristotelés, Fyzika I, 8; Metafyzika IX",
+    "seedElo": 1890
+  },
+  {
+    "id": "dfi-A17",
+    "type": "F",
+    "category": "dejiny-filosofie",
+    "text": "Co znamená Aristotelova definice duše jako entelechie přirozeného těla?",
+    "options": [
+      "Duše je uskutečněním možností živého těla",
+      "Duše je jemná látka rozptýlená v celém těle",
+      "Duše je v těle vězněna a touží z něho uniknout",
+      "Duše je samostatnou a nesmrtelnou bytostí"
+    ],
+    "correct": 0,
+    "explanation": "Duše není u Aristotela věc uložená v těle, nýbrž jeho forma, tedy to, čím tělo je živé a schopné svých úkonů. Ptát se, zda jsou duše a tělo jedno, je pak podle něj stejně zbytečné jako ptát se, zda jsou jedno vosk a jeho tvar. Vězení duše v těle je naopak orficko-platónský obraz.",
+    "source": "Aristotelés, O duši II, 1",
+    "seedElo": 1800
+  },
+  {
+    "id": "dfi-A18",
+    "type": "K",
+    "category": "dejiny-filosofie",
+    "text": "Jak podle Aristotela působí první nehybný hybatel na svět?",
+    "options": [
+      "Tlačí nebeské sféry svým přímým dotykem",
+      "Stvořil svět a od té doby jej sám řídí",
+      "Vlévá do věcí formy z oblasti věčných idejí",
+      "Pohybuje jako předmět touhy a milování"
+    ],
+    "correct": 3,
+    "explanation": "Kdyby hybatel působil dotykem, byl by sám uváděn do pohybu a hledali bychom hybatele dalšího. Aristotelés proto zavádí působení cílem: hybatel hýbe tak, jak hýbe milované milujícím, tedy aniž se sám mění. Sám je čirou skutečností a jeho činností je myšlení myslící sebe samo.",
+    "source": "Aristotelés, Metafyzika XII, 7",
+    "seedElo": 2000
+  },
+  {
+    "id": "dfi-A19",
+    "type": "K",
+    "category": "dejiny-filosofie",
+    "text": "Co označuje pojem haecceitas u Jana Dunse Scota?",
+    "options": [
+      "Obecnou formu společnou celému druhu",
+      "To, čím je jednotlivina právě touto",
+      "Látku jako princip veškeré jednotlivosti",
+      "Boží ideu, podle níž je věc utvořena"
+    ],
+    "correct": 1,
+    "explanation": "Scotus odmítl tomistické řešení, podle něhož jednotlivce vymezuje látka, a zavedl haecceitas, tedy tatost: pozitivní určení, jímž je tato bytost právě sebou. Souvisí to s jeho naukou o jednoznačnosti pojmu jsoucna, který se o Bohu i tvorech vypovídá ve stejném významu. Pro jemnost svých rozlišení byl nazýván doctor subtilis.",
+    "source": "Duns Scotus, Ordinatio II",
+    "seedElo": 1910
+  },
+  {
+    "id": "dfi-A20",
+    "type": "F",
+    "category": "dejiny-filosofie",
+    "text": "Co znamená v antickém skepticismu epoché?",
+    "options": [
+      "Poznání dosažené pomocí kritéria pravdy",
+      "Zkoumání příčin vedoucí ke konečné jistotě",
+      "Zdržení se soudu vedoucí ke klidu duše",
+      "Popření existence vnějšího světa vůbec"
+    ],
+    "correct": 2,
+    "explanation": "Skeptik podle Pyrrhónovy tradice staví proti každému tvrzení stejně silné tvrzení opačné; z této rovnováhy plyne zdržení se soudu, epoché. Ataraxie prý nastane sama, jako stín, a nikoli jako výsledek úsilí. Skeptik přitom nepopírá jevy, jen odmítá tvrdit, jaké věci jsou samy o sobě.",
+    "source": "Sextus Empiricus, Základy pyrrhónismu I",
+    "seedElo": 1730
+  },
+  {
+    "id": "dfi-A21",
+    "type": "K",
+    "category": "dejiny-filosofie",
+    "text": "Co Giordano Bruno tvrdil o rozsahu a uspořádání vesmíru?",
+    "options": [
+      "Že vesmír je konečný a má pevný střed",
+      "Že hvězdy jsou otvory v nebeské klenbě",
+      "Že vesmír je nekonečný a světů je mnoho",
+      "Že Země stojí a Slunce kolem ní obíhá"
+    ],
+    "correct": 2,
+    "explanation": "Bruno domyslel Koperníka dál, než byl Koperník ochoten jít: zrušil vnější sféru stálic a prohlásil vesmír za nekonečný, s nesčetnými slunci a obydlenými světy. Spojil to s panteistickým pojetím jediné božské substance oživující vše. Roku 1600 byl v Římě upálen.",
+    "source": "Bruno, O nekonečnu, vesmíru a světech",
+    "seedElo": 1940
+  },
+  {
+    "id": "dfi-A22",
+    "type": "F",
+    "category": "dejiny-filosofie",
+    "text": "Jaké je pořadí hypostazí v Plótínově nauce o emanaci?",
+    "options": [
+      "Jedno, duch čili nús, duše, potom svět",
+      "Bůh, andělé, člověk a nakonec zvířata",
+      "Duše, jedno, duch a nakonec pouhá látka",
+      "Látka, forma, duše a nakonec teprve jedno"
+    ],
+    "correct": 0,
+    "explanation": "Z Jedna, jež je nad jsoucnem i nad myšlením, vytéká jako světlo ze zdroje duch, z ducha duše a z duše smyslový svět. Emanace není rozhodnutí ani stvoření: Jedno tvoří z přebytku, aniž se tím zmenšuje. Cesta člověka pak vede opačným směrem, návratem k Jednu.",
+    "source": "Plótínos, Enneady V",
+    "seedElo": 1640
+  },
+  {
+    "id": "dfi-A23",
+    "type": "K",
+    "category": "dejiny-filosofie",
+    "text": "Které Órigenovo učení bylo později církví odsouzeno jako bludné?",
+    "options": [
+      "Že Kristus nikdy netrpěl svým vlastním tělem",
+      "Že Písmo se má vykládat pouze doslovně",
+      "Že hmota je výtvorem zlého demiurga světa",
+      "Že se všechny duše nakonec navrátí k Bohu"
+    ],
+    "correct": 3,
+    "explanation": "Órigenés učil apokatastasi, obnovu všeho, při níž se i padlé duchovní bytosti nakonec vrátí k Bohu, a spolu s tím předexistenci duší. Roku 553 byly tyto teze odsouzeny. Přitom právě on prosazoval vedle doslovného také duchovní, alegorický smysl Písma.",
+    "source": "Órigenés, O základech (De principiis)",
+    "seedElo": 1950
+  },
+  {
+    "id": "dfi-A24",
+    "type": "K",
+    "category": "dejiny-filosofie",
+    "text": "Kde podle Augustinova rozboru času existuje minulost a budoucnost?",
+    "options": [
+      "V samotném pohybu nebeských těles",
+      "V duši jako vzpomínka a očekávání",
+      "Ve věčné mysli Boží mimo stvoření",
+      "V nekonečném prázdném trvání světa"
+    ],
+    "correct": 1,
+    "explanation": "Augustin ukazuje, že minulost už není a budoucnost ještě není, takže vlastně jest jen přítomnost. Skutečné jsou proto tři přítomnosti v duši: přítomnost minulého jako paměť, přítomnost přítomného jako pozornost a přítomnost budoucího jako očekávání. Čas se tak měří v duši, nikoli na obloze.",
+    "source": "Augustin, Vyznání XI",
+    "seedElo": 2020
+  },
+  {
+    "id": "dfi-A25",
+    "type": "F",
+    "category": "dejiny-filosofie",
+    "text": "Co ve sporu o univerzálie tvrdí důsledný nominalismus?",
+    "options": [
+      "Obecniny existují před věcmi v mysli Boží",
+      "Obecné je pouhé jméno, reálné je jednotlivé",
+      "Obecniny jsou pojmy vzniklé v lidské mysli",
+      "Obecniny existují ve věcech jako jejich forma"
+    ],
+    "correct": 1,
+    "explanation": "Nominalismus popírá, že by obecninám odpovídalo cokoli mimo jednotlivé věci; obecné je jen jméno, u Roscellina dokonce pouhý zvuk hlasu. Realismus naopak klade obecniny před věci nebo ve věcech, konceptualismus je umisťuje do mysli jako pojmy. Spor rozhodoval i o tom, co vlastně věda poznává.",
+    "source": "středověký spor o univerzálie (Roscellinus)",
+    "seedElo": 1770
+  },
+  {
+    "id": "dfi-A26",
+    "type": "F",
+    "category": "dejiny-filosofie",
+    "text": "Jaké řešení sporu o univerzálie navrhl Petr Abélard?",
+    "options": [
+      "Obecniny jsou věčné ideje v samotné mysli Boží",
+      "Obecniny jsou reálné části všech jednotlivin",
+      "Obecniny jsou pouhé zvuky vydávané lidským hlasem",
+      "Obecné je význam slova získaný abstrahováním"
+    ],
+    "correct": 3,
+    "explanation": "Abélard odmítl jak realismus svého učitele Viléma ze Champeaux, tak krajní nominalismus: obecné není věc, ale ani prázdný zvuk. Je to sermo, slovo nesoucí význam, jejž mysl získává abstrakcí od podobností mezi jednotlivinami. Tento postoj bývá označován jako konceptualismus.",
+    "source": "Abélard, Logica ingredientibus",
+    "seedElo": 1900
+  },
+  {
+    "id": "dfi-A27",
+    "type": "K",
+    "category": "dejiny-filosofie",
+    "text": "Co plyne z Ockhamovy zásady nerozmnožovat jsoucna bez nutnosti?",
+    "options": [
+      "Že stačí jednotliviny a znaky v mysli",
+      "Že obecniny musejí být reálné formy",
+      "Že Bůh je nutně poznatelný rozumem",
+      "Že duše se skládá ze tří odlišných forem"
+    ],
+    "correct": 0,
+    "explanation": "Ockham škrtá vrstvu obecných entit mezi věcí a myslí: existují jen jednotlivé věci a pojmy, které jsou přirozenými znaky zastupujícími mnoho jednotlivin. Poznání začíná intuitivním uchopením jednotliviny, nikoli obecnou formou. Zásada úspornosti se dodnes cituje jako Ockhamova břitva.",
+    "source": "Vilém Ockham, Summa logicae",
+    "seedElo": 2050
+  },
+  {
+    "id": "dfi-A28",
+    "type": "K",
+    "category": "dejiny-filosofie",
+    "text": "Jakou námitku vznesl mnich Gaunilo proti Anselmovu důkazu Boží existence?",
+    "options": [
+      "Že pojem Boha je sám v sobě rozporný",
+      "Že o Bohu nelze mluvit vůbec nijak",
+      "Že stejně by šlo dokázat dokonalý ostrov",
+      "Že existence Boha se dokazuje z pohybu"
+    ],
+    "correct": 2,
+    "explanation": "Anselm usuzoval, že to, nad co nelze myslet nic většího, musí existovat i mimo mysl, jinak by to nebylo největší. Gaunilo ve spisu Za blázna namítl, že týmž postupem by bylo možné dokázat existenci nejdokonalejšího ostrova. Anselm odpověděl, že jeho argument platí jedině o bytosti nutné.",
+    "source": "Anselm, Proslogion; Gaunilo, Liber pro insipiente",
+    "seedElo": 1790
+  },
+  {
+    "id": "dfi-A29",
+    "type": "F",
+    "category": "dejiny-filosofie",
+    "text": "Která z pěti cest Tomáše Akvinského vychází z toho, že věci směřují k cíli?",
+    "options": [
+      "Cesta od pohybu k prvnímu hybateli",
+      "Cesta ze stupňů dokonalosti jsoucen",
+      "Cesta od nahodilosti k nutnému jsoucnu",
+      "Cesta z účelnosti k rozumnému správci"
+    ],
+    "correct": 3,
+    "explanation": "Pátá cesta vychází z pozorování, že i nerozumné věci jednají pravidelně k cíli, což předpokládá rozum, jenž je k němu zaměřuje. Tomáš zde přejímá aristotelskou účelovou příčinu a dovádí ji k Bohu jako řídící inteligenci. Ostatní cesty vycházejí z pohybu, příčin, nahodilosti a stupňů dokonalosti.",
+    "source": "Tomáš Akvinský, Summa theologiae I, q. 2, a. 3",
+    "seedElo": 1860
+  },
+  {
+    "id": "dfi-A30",
+    "type": "K",
+    "category": "dejiny-filosofie",
+    "text": "Co tvrdí Avicenna o vztahu esence a existence u stvořených věcí?",
+    "options": [
+      "Že u nich esence a existence zcela splývají",
+      "Že esence vzniká teprve spojením s látkou",
+      "Že existence je jen jménem bez vlastní věci",
+      "Že existence k jejich esenci přistupuje"
+    ],
+    "correct": 3,
+    "explanation": "Podle Avicenny lze pochopit, co je kůň, aniž víme, zda nějaký kůň jest; existence tedy k esenci nepatří nutně a musí být udělena zvenčí. Jedině u nutného jsoucna, u Boha, esence a existence splývají. Toto rozlišení převzal a přepracoval Tomáš Akvinský.",
+    "source": "Avicenna, Kniha uzdravení (Metafyzika)",
+    "seedElo": 2010
+  },
+  {
+    "id": "dfi-A31",
+    "type": "F",
+    "category": "dejiny-filosofie",
+    "text": "Jak podle Maimonida ve Vůdci tápajících můžeme mluvit o Bohu?",
+    "options": [
+      "Pomocí kladných výroků o jeho vlastnostech",
+      "Pomocí obrazů přejatých z lidských citů",
+      "Pomocí záporů, protože kladné výroky selhávají",
+      "Pomocí důkazů z pohybu i z nahodilosti věcí"
+    ],
+    "correct": 2,
+    "explanation": "Maimonides odmítá připisovat Bohu kladné vlastnosti, protože by tím do jeho jednoduchosti vnášely mnohost. Zbývá teologie záporná: říkáme, čím Bůh není, a tím se k němu přibližujeme. Ve stejném duchu vykládá tělesné výrazy o Bohu v Písmu jako podobenství pro nezasvěcené.",
+    "source": "Maimonides, Vůdce tápajících I",
+    "seedElo": 1880
+  },
+  {
+    "id": "dfi-A32",
+    "type": "K",
+    "category": "dejiny-filosofie",
+    "text": "Co znamená u Mikuláše Kusánského coincidentia oppositorum?",
+    "options": [
+      "V nekonečnu se protiklady setkávají",
+      "Protiklady se navzájem ruší v nicotu",
+      "Každý spor lze rozhodnout rozumem",
+      "Svět je nekonečný a plný jiných světů"
+    ],
+    "correct": 0,
+    "explanation": "Kusánský ukazuje na kružnici: čím větší poloměr, tím je oblouk přímější, až v nekonečnu kruh a přímka splynou. Podobně v Bohu, jenž je nekonečný, mizí protiklady, které rozum drží oddělené. Poznání proto vrcholí v učené nevědomosti, docta ignorantia.",
+    "source": "Mikuláš Kusánský, O učené nevědomosti",
+    "seedElo": 2040
+  }
+]

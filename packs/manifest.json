@@ -108,8 +108,8 @@
   "id": "dejiny-filosofie",
   "file": "dejiny-filosofie.json",
   "title": "Dějiny filosofie",
-  "count": 20,
-  "version": 1,
+  "count": 100,
+  "version": 2,
   "obor": "filosofie"
  },
  {
@@ -180,8 +180,8 @@
   "id": "crazy-fakta",
   "file": "crazy-fakta.json",
   "title": "Crazy fakta",
-  "count": 20,
-  "version": 1,
+  "count": 100,
+  "version": 2,
   "obor": "general"
  }
 ]
