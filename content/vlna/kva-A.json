@@ -1,0 +1,514 @@
+[
+  {
+    "id": "kva-A01",
+    "type": "F",
+    "category": "kvantovka",
+    "text": "Mnohosvětovou interpretaci kvantové mechaniky poprvé formuloval:",
+    "options": [
+      "Niels Bohr ve své slavné přednášce v italském Comu roku 1927",
+      "John von Neumann v knize Matematické základy z roku 1932",
+      "David Bohm ve dvojici článků v Physical Review roku 1952",
+      "Hugh Everett III. ve své princetonské disertaci roku 1957"
+    ],
+    "correct": 3,
+    "explanation": "Everett v disertaci (a v článku Relative State Formulation, 1957) navrhl vypustit kolaps a nechat platit jen Schrödingerovu rovnici; název „mnoho světů“ dal jeho výkladu až později Bryce DeWitt. Bohr v Comu naopak formuloval komplementaritu, von Neumann zavedl kolaps jako druhý typ vývoje a Bohm publikoval teorii skrytých parametrů s trajektoriemi.",
+    "source": "Hugh Everett III., „Relative State\" Formulation of Quantum Mechanics, Rev. Mod. Phys. 29 (1957)",
+    "seedElo": 1450
+  },
+  {
+    "id": "kva-A02",
+    "type": "F",
+    "category": "kvantovka",
+    "text": "Nobelovu cenu za fyziku 2022 dostali Alain Aspect, John Clauser a Anton Zeilinger za:",
+    "options": [
+      "experimenty s provázanými fotony, které porušily Bellovy nerovnosti",
+      "první experimentální potvrzení existence kvantového tunelového jevu",
+      "sestrojení prvního funkčního kvantového počítače s desítkami qubitů",
+      "přímé pozorování kolapsu vlnové funkce v jednotlivých supravodivých obvodech"
+    ],
+    "correct": 0,
+    "explanation": "Cena byla udělena za experimenty s provázanými fotony, prokázání porušení Bellových nerovností a průkopnictví kvantové informatiky. Clauser provedl první test (1972), Aspect uzavřel mezeru s volbou nastavení (1982) a Zeilinger rozvinul teleportaci a entanglement swapping. Tunelování, kvantové počítače ani „měření kolapsu“ v citaci nefigurují.",
+    "source": "Nobelova cena za fyziku 2022, oficiální zdůvodnění Královské švédské akademie věd",
+    "seedElo": 1500
+  },
+  {
+    "id": "kva-A03",
+    "type": "K",
+    "category": "kvantovka",
+    "text": "Čím je vlnová funkce v de Broglie–Bohmově teorii?",
+    "options": [
+      "Pouhým výpočetním nástrojem bez jakéhokoli fyzikálního obsahu",
+      "Popisem statistického souboru částic, nikoli jedné částice",
+      "Reálným pilotním polem, které vede částici s určitou polohou",
+      "Objektem, jenž při měření kolabuje na vlastní stav přístroje"
+    ],
+    "correct": 2,
+    "explanation": "V bohmovské mechanice existují navíc k vlnové funkci i částice s vždy určitými polohami; vlnová funkce je reálné pole, které jejich pohyb řídí vodicí rovnicí a nikdy nekolabuje. Právě proto teorie nepotřebuje zvláštní postulát měření: „kolaps“ je jen efektivní popis toho, že se ostatní větve vlnové funkce přestanou překrývat.",
+    "source": "David Bohm, A Suggested Interpretation of the Quantum Theory in Terms of \"Hidden\" Variables I–II (1952)",
+    "seedElo": 1450
+  },
+  {
+    "id": "kva-A04",
+    "type": "F",
+    "category": "kvantovka",
+    "text": "Teorém o nemožnosti klonování (no-cloning) říká, že nelze:",
+    "options": [
+      "změřit současně polohu a hybnost jedné částice s libovolnou přesností",
+      "vyrobit přesnou kopii libovolného předem neznámého kvantového stavu",
+      "přenést kvantový stav na vzdálené místo bez klasického kanálu",
+      "připravit dvě částice v dokonale stejném, předem zvoleném stavu"
+    ],
+    "correct": 1,
+    "explanation": "Zákaz plyne přímo z linearity kvantového vývoje: kopírovací operace, která by fungovala pro dva neortogonální stavy, by nebyla lineární. Známé stavy naopak kopírovat lze — stačí přípravu prostě zopakovat. Ostatní možnosti popisují relace neurčitosti a nutnost klasického kanálu při teleportaci, což jsou jiná tvrzení.",
+    "source": "Wootters & Zurek, A single quantum cannot be cloned, Nature 299 (1982); Dieks (1982)",
+    "seedElo": 1500
+  },
+  {
+    "id": "kva-A05",
+    "type": "F",
+    "category": "kvantovka",
+    "text": "Kvantový Zenonův jev znamená, že:",
+    "options": [
+      "velmi časté měření zmrazí systém v jeho původním stavu",
+      "měřením lze rozpad nestabilního jádra libovolně urychlit",
+      "provázaná dvojice se pozorováním okamžitě rozpadne na dvě",
+      "částice v pohybu nikdy nedosáhne detektoru kvůli tunelování"
+    ],
+    "correct": 0,
+    "explanation": "Pravděpodobnost odchodu z počátečního stavu roste ve velmi krátkých časech kvadraticky, takže opakované resetování měřením potlačí vývoj; Misra a Sudarshan to popsali roku 1977 a Itano se spolupracovníky to změřili na iontech roku 1990. Existuje i opačný anti-Zenonův režim, kde měření vývoj naopak urychlí — ale to není obecné pravidlo.",
+    "source": "Misra & Sudarshan (1977); Itano, Heinzen, Bollinger & Wineland, Phys. Rev. A 41 (1990)",
+    "seedElo": 1550
+  },
+  {
+    "id": "kva-A06",
+    "type": "F",
+    "category": "kvantovka",
+    "text": "Kvantová teleportace přenese stav qubitu, ale vždy potřebuje navíc:",
+    "options": [
+      "aby obě strany předem znaly stav, který se má přenášet",
+      "aby vzdálenost stran byla menší než koherenční délka zdroje",
+      "aby původní qubit zůstal po přenosu uchován jako záložní kopie",
+      "aby odesílatel poslal dva klasické bity běžným kanálem"
+    ],
+    "correct": 3,
+    "explanation": "Bellovo měření dá odesílateli jeden ze čtyř výsledků a příjemce musí podle dvou klasických bitů provést odpovídající korekci; bez této zprávy má jen náhodnou směs. Stav se nikdy nezná ani neduplikuje — původní qubit je měřením zničen, což je přesně v souladu s teorémem o neklonování.",
+    "source": "Bennett et al., Teleporting an unknown quantum state…, Phys. Rev. Lett. 70 (1993)",
+    "seedElo": 1550
+  },
+  {
+    "id": "kva-A07",
+    "type": "F",
+    "category": "kvantovka",
+    "text": "Hlavní důvod, proč většina fyziků odmítá von Neumann–Wignerovu hypotézu o kolapsu vědomím:",
+    "options": [
+      "byla vyvrácena přímým experimentem s pozorovateli v Delftu",
+      "nedefinuje, co vědomí je, a nedává testovatelnou předpověď",
+      "odporuje zákonu zachování energie při každém aktu měření",
+      "předpokládá nelokální působení, které Bellovy testy vylučují"
+    ],
+    "correct": 1,
+    "explanation": "Hypotéza umisťuje řez do nedefinovaného pojmu a nedává žádnou předpověď, která by se lišila od standardní kvantové mechaniky; navíc dekoherence vysvětlí potlačení interference dávno předtím, než se výsledek dostane k jakémukoli pozorovateli. Sám Wigner ji později opustil. Žádný experiment ji přímo nevyvrátil a s Bellovými testy nesouvisí.",
+    "source": "Eugene Wigner, Remarks on the Mind-Body Question (1961); von Neumann (1932)",
+    "seedElo": 1600
+  },
+  {
+    "id": "kva-A08",
+    "type": "K",
+    "category": "kvantovka",
+    "text": "Co dekoherence sama o sobě nevysvětluje?",
+    "options": [
+      "Proč interferenční členy v hustotní matici prakticky mizí",
+      "Proč se u makroskopických těles vybírá poloha jako preferovaná báze",
+      "Proč z mnoha možností nakonec nastane právě jeden výsledek",
+      "Proč je dekoherence tím rychlejší, čím větší je daný objekt"
+    ],
+    "correct": 2,
+    "explanation": "Dekoherence převede superpozici na velmi přesnou zdánlivou směs a einselection vysvětlí i výběr preferované báze, protože interakce s prostředím je typicky polohová. Zůstane ale směs možností, ne jeden fakt — to je „problém výsledků“, který si každá interpretace musí dořešit po svém. Zurek i Joos na to sami výslovně upozorňují.",
+    "source": "Zurek, Decoherence, einselection and the quantum origins of the classical, Rev. Mod. Phys. 75 (2003)",
+    "seedElo": 1600
+  },
+  {
+    "id": "kva-A09",
+    "type": "F",
+    "category": "kvantovka",
+    "text": "Odhady časů dekoherence pro makroskopické těleso v běžném prostředí ukazují, že:",
+    "options": [
+      "čas dekoherence je srovnatelný s dobou lidského pozorování",
+      "dekoherence nastane teprve po interakci s vědomým pozorovatelem měření",
+      "čas dekoherence je o mnoho řádů kratší než jakýkoli měřitelný děj",
+      "dekoherence se zpomaluje úměrně s rostoucí hmotností tělesa"
+    ],
+    "correct": 2,
+    "explanation": "Joos a Zeh spočítali, že prachové zrnko ozařované byť jen reliktním zářením ztratí koherenci v nepředstavitelně krátkém čase; se vzdáleností superpozice a hmotností se rychlost dekoherence prudce zvyšuje, nikoli snižuje. Proto se makroskopická superpozice nikdy nestihne projevit a experimenty s velkými molekulami vyžadují extrémní vakuum a chlazení.",
+    "source": "Joos & Zeh, The emergence of classical properties…, Z. Phys. B 59 (1985)",
+    "seedElo": 1650
+  },
+  {
+    "id": "kva-A10",
+    "type": "F",
+    "category": "kvantovka",
+    "text": "V myšlenkovém experimentu Wignerův přítel vzniká rozpor v tom, že:",
+    "options": [
+      "přítel i Wigner naměří na téže částici dva odlišné výsledky",
+      "pro přítele výsledek už nastal, pro Wignera je laboratoř v superpozici",
+      "přítel nemůže o svém výsledku podat Wignerovi žádnou zprávu",
+      "Wignerovo měření zpětně přepíše ten výsledek, který přítel skutečně viděl"
+    ],
+    "correct": 1,
+    "explanation": "Přítel uvnitř zavřené laboratoře podle sebe dostal určitý výsledek, zatímco Wigner venku popisuje celou laboratoř i s přítelem unitárně jako superpozici. Konflikt tedy není ve dvou různých naměřených hodnotách, ale ve dvou neslučitelných popisech téže situace — a odpověď na něj rozděluje interpretace: kdo tvrdí, že kolaps je fyzikální, a kdo, že je relativní vůči pozorovateli.",
+    "source": "Eugene Wigner, Remarks on the Mind-Body Question (1961)",
+    "seedElo": 1650
+  },
+  {
+    "id": "kva-A11",
+    "type": "F",
+    "category": "kvantovka",
+    "text": "Jaké nejvyšší hodnoty může v CHSH nerovnosti dosáhnout kvantová mechanika?",
+    "options": [
+      "Libovolně velké, omezena je jen přesností detektorů",
+      "Přesně 2, stejně jako každá lokálně realistická teorie",
+      "Hodnoty 4, tedy algebraického maxima tohoto výrazu",
+      "Hodnoty 2√2, označované jako Tsirelsonova mez"
+    ],
+    "correct": 3,
+    "explanation": "Lokálně realistické teorie splňují |S| ≤ 2, kvantová mechanika dosáhne nejvýše 2√2 ≈ 2,83 (Tsirelsonova mez) a hodnotu 4 by dovolily jen hypotetické „nadkvantové“ korelace, například Popescu–Rohrlichova krabice. Právě to, že příroda nejde až na algebraické maximum, je jedna z otevřených otázek kvantových základů.",
+    "source": "Clauser, Horne, Shimony & Holt (1969); Cirel'son, Lett. Math. Phys. 4 (1980)",
+    "seedElo": 1700
+  },
+  {
+    "id": "kva-A12",
+    "type": "F",
+    "category": "kvantovka",
+    "text": "Cenou, kterou de Broglie–Bohmova teorie platí za určité trajektorie částic, je:",
+    "options": [
+      "explicitní nelokalita — rychlost částice závisí na vzdáleném přístroji",
+      "rozpor s předpověďmi standardní kvantové mechaniky v silných polích",
+      "nutnost vzdát se vlnové funkce jako reálného fyzikálního objektu v prostoru",
+      "porušení zachování energie při každém průchodu částice štěrbinou"
+    ],
+    "correct": 0,
+    "explanation": "Vodicí rovnice pro jednu částici obsahuje okamžitě polohy všech ostatních, takže teorie je manifestně nelokální — což je přesně to, co Bellův teorém pro každou takovou teorii vyžaduje. Empiricky je přitom ekvivalentní standardní kvantové mechanice (v nerelativistickém režimu) a vlnovou funkci naopak bere velmi vážně jako reálné pole.",
+    "source": "John S. Bell, Speakable and Unspeakable in Quantum Mechanics (1987), kap. o bohmovské mechanice",
+    "seedElo": 1700
+  },
+  {
+    "id": "kva-A13",
+    "type": "K",
+    "category": "kvantovka",
+    "text": "Čím se liší teorém o neklonování od teorému o nemožnosti signalizace?",
+    "options": [
+      "První plyne z linearity, druhý z nezávislosti lokální statistiky",
+      "První platí jen pro fotony, druhý pro všechny kvantové systémy",
+      "První je přímým důsledkem druhého a plyne z něj krátkým odvozením",
+      "První je experimentální fakt, druhý jen pracovní předpoklad"
+    ],
+    "correct": 0,
+    "explanation": "No-cloning plyne z linearity vývoje, kdežto no-communication z toho, že redukovaná matice hustoty jedné strany se měřením na druhé straně nezmění. Historicky spolu ale souvisejí: Nick Herbert navrhl roku 1981 superluminální schéma FLASH právě s klonovacím zesilovačem, a snaha ukázat, proč nefunguje, vedla k důkazům teorému o neklonování.",
+    "source": "Nick Herbert, FLASH — A superluminal communicator… , Found. Phys. 12 (1982); Wootters & Zurek (1982)",
+    "seedElo": 1700
+  },
+  {
+    "id": "kva-A14",
+    "type": "F",
+    "category": "kvantovka",
+    "text": "Wheelerův experiment s oddálenou volbou podle standardní kvantové mechaniky ukazuje, že:",
+    "options": [
+      "volba přístroje ovlivňuje minulost fotonu zpětnou kauzalitou",
+      "foton se hned při vstupu do přístroje rozhodne, zda se chová jako vlna",
+      "přisuzovat fotonu dráhu či vlnu před dokončením měření nemá smysl",
+      "interference zmizí vždy, když se volba provede po vstupu fotonu"
+    ],
+    "correct": 2,
+    "explanation": "Wheeler ukázal, že rozhodnutí o zapojení druhého děliče lze udělat až poté, co foton vstoupil do interferometru — a výsledky přesto odpovídají zvolené konfiguraci. Standardní čtení není zpětné působení na minulost, ale to, že mluvit o „dráze“ nezávisle na celém uspořádání měření je bezobsažné. Experimentálně to potvrdila Jacquesova skupina roku 2007.",
+    "source": "J. A. Wheeler, The 'Past' and the 'Delayed-Choice' Double-Slit Experiment (1978); Jacques et al., Science 315 (2007)",
+    "seedElo": 1750
+  },
+  {
+    "id": "kva-A15",
+    "type": "K",
+    "category": "kvantovka",
+    "text": "Von Neumannův „řetěz“ měření vede k závěru, že hranice mezi kvantovým a klasickým popisem:",
+    "options": [
+      "leží u hmotnosti odpovídající zhruba Planckově hmotnosti",
+      "se dá posunout kamkoli po řetězci, aniž se změní předpovědi",
+      "je dána počtem stupňů volnosti měřicího přístroje",
+      "je pevně určena teplotou okolního prostředí přístroje"
+    ],
+    "correct": 1,
+    "explanation": "Von Neumann ukázal, že řez lze umístit mezi částici a přístroj, mezi přístroj a oko, nebo kamkoli dál — statistické předpovědi vyjdou stejně. Právě tato libovolnost je jádrem sporu: teorie neříká, kde se má řez udělat, jen že se udělat musí. Modely typu GRW naopak řez určují fyzikálním parametrem, nikoli volbou popisu.",
+    "source": "John von Neumann, Mathematische Grundlagen der Quantenmechanik (1932), kap. VI",
+    "seedElo": 1750
+  },
+  {
+    "id": "kva-A16",
+    "type": "F",
+    "category": "kvantovka",
+    "text": "Co ukazuje historický výzkum o takzvané „kodaňské interpretaci“?",
+    "options": [
+      "Byla Bohrem a Heisenbergem sepsána jako společný text roku 1927",
+      "Shodovala se s von Neumannovým výkladem kolapsu vlnové funkce",
+      "Byla přijata na Solvayském kongresu hlasováním fyziků roku 1930",
+      "Jde o pozdější nálepku pro odlišné názory Bohra a Heisenberga"
+    ],
+    "correct": 3,
+    "explanation": "Označení se rozšířilo až v padesátých letech, patrně v Heisenbergově podání, a zastřelo skutečné rozdíly: Bohr trval na klasickém popisu celého experimentálního uspořádání a o kolapsu jako fyzikálním ději nemluvil, zatímco Heisenberg pracoval s přechodem od možnosti ke skutečnosti a von Neumann s kolapsem jako druhým typem vývoje.",
+    "source": "Don Howard, Who Invented the „Copenhagen Interpretation\"?, Philosophy of Science 71 (2004)",
+    "seedElo": 1600
+  },
+  {
+    "id": "kva-A17",
+    "type": "K",
+    "category": "kvantovka",
+    "text": "Podle QBismu (Fuchs, Mermin, Schack) vlnová funkce vyjadřuje:",
+    "options": [
+      "objektivní stav systému, jenž existuje nezávisle na agentovi",
+      "osobní míru očekávání agenta ohledně výsledků jeho měření",
+      "statistické rozdělení skrytých parametrů v souboru systémů",
+      "informaci sdílenou všemi pozorovateli daného experimentu"
+    ],
+    "correct": 1,
+    "explanation": "QBism čte kvantový stav jako bayesovské osobní přesvědčení jednoho agenta, takže „kolaps“ je jen aktualizace jeho očekávání po zkušenosti — proto v něm nevzniká problém měření v obvyklé podobě. Liší se tím od starších epistemických výkladů souborového typu i od představy stavu jako veřejné informace: dva agenti mohou mít legitimně různé stavy pro tentýž systém.",
+    "source": "Fuchs, Mermin & Schack, An introduction to QBism…, Am. J. Phys. 82 (2014)",
+    "seedElo": 1650
+  },
+  {
+    "id": "kva-A18",
+    "type": "F",
+    "category": "kvantovka",
+    "text": "Model GRW (Ghirardi–Rimini–Weber) se od standardní kvantové mechaniky liší tím, že:",
+    "options": [
+      "přidává náhodné spontánní lokalizace, jež u velkých těles rychle sílí",
+      "zavádí skryté proměnné určující výsledek každého jednotlivého měření",
+      "popírá platnost Schrödingerovy rovnice pro mikroskopické systémy",
+      "vyžaduje k dokončení kolapsu vědomého pozorovatele v laboratoři"
+    ],
+    "correct": 0,
+    "explanation": "GRW mění samotnou dynamiku: každá částice podléhá velmi vzácné náhodné lokalizaci, ale u tělesa z mnoha částic se četnost násobí, takže makroskopická superpozice zanikne prakticky okamžitě. Jde tedy o objektivní kolaps bez pozorovatele i bez skrytých proměnných — a protože mění předpovědi, je na rozdíl od interpretací experimentálně testovatelný.",
+    "source": "Ghirardi, Rimini & Weber, Unified dynamics for microscopic and macroscopic systems, Phys. Rev. D 34 (1986)",
+    "seedElo": 1750
+  },
+  {
+    "id": "kva-A19",
+    "type": "F",
+    "category": "kvantovka",
+    "text": "Co bylo hlavním přínosem Bellova testu skupiny Ronalda Hansona v Delftu roku 2015?",
+    "options": [
+      "poprvé prokázal porušení Bellovy nerovnosti u fotonových párů",
+      "poprvé změřil Tsirelsonovu mez s přesností na čtyři desetinná místa",
+      "poprvé ukázal, že provázanost lze udržet na vzdálenost přes tisíc km",
+      "poprvé uzavřel mezeru detekce i lokality v jediném experimentu"
+    ],
+    "correct": 3,
+    "explanation": "Dřívější testy zavíraly mezeru detekce (ionty) nebo mezeru lokality (fotony), ale nikdy obě najednou. Delftský experiment s NV centry v diamantu, propojenými přes entanglement swapping na 1,3 km, to zvládl současně; téhož roku ho potvrdily skupiny ve Vídni a v NIST s fotony. Test u fotonů provedl už Clauser roku 1972.",
+    "source": "Hensen et al., Loophole-free Bell inequality violation…, Nature 526 (2015)",
+    "seedElo": 1800
+  },
+  {
+    "id": "kva-A20",
+    "type": "K",
+    "category": "kvantovka",
+    "text": "Které tvrzení nejpřesněji vystihuje, co Bellův teorém vylučuje?",
+    "options": [
+      "Že by částice měly před měřením jakékoli určité vlastnosti",
+      "Že by kvantová mechanika mohla být doplněna skrytými parametry",
+      "Teorie splňující lokální kauzalitu a nezávislost volby měření",
+      "Že by výsledky měření byly ovlivněny nastavením obou přístrojů"
+    ],
+    "correct": 2,
+    "explanation": "Bell odvodil svou nerovnost z lokální kauzality plus pomocných předpokladů, hlavně statistické nezávislosti nastavení; porušení nerovnosti proto vyřazuje celou tuto třídu teorií, ne „realismus“ samostatně. Skryté parametry samy o sobě zakázány nejsou — bohmovská mechanika je má, jen je nelokální. Právě tento rozdíl bývá v populárních výkladech nejčastěji zkreslen.",
+    "source": "J. S. Bell, On the Einstein Podolsky Rosen Paradox, Physics 1 (1964); Norsen, Bell Locality (2011)",
+    "seedElo": 1800
+  },
+  {
+    "id": "kva-A21",
+    "type": "F",
+    "category": "kvantovka",
+    "text": "Superdeterministické modely obcházejí Bellův teorém tím, že popírají:",
+    "options": [
+      "platnost kvantových předpovědí pro vzdálené provázané páry",
+      "existenci jakýchkoli skrytých parametrů pod kvantovým popisem",
+      "možnost popsat výsledek měření jednou globální vlnovou funkcí",
+      "nezávislost volby nastavení přístrojů na skrytých parametrech"
+    ],
+    "correct": 3,
+    "explanation": "Bellovo odvození předpokládá, že nastavení přístrojů nekoreluje se skrytými parametry páru; superdeterminismus tento předpoklad odmítne a lokalitu si tím zachová. Cenou je, že korelace mezi volbami a stavem musí být jemně sladěné, a kritici namítají, že to podkopává samu možnost kontrolovaného experimentu. Zastánci jako 't Hooft a Hossenfelderová to považují za přijatelnou daň.",
+    "source": "Gerard 't Hooft, The Cellular Automaton Interpretation of Quantum Mechanics (2016); Bell, Free variables and local causality (1977)",
+    "seedElo": 1800
+  },
+  {
+    "id": "kva-A22",
+    "type": "F",
+    "category": "kvantovka",
+    "text": "V experimentu s oddálenou kvantovou gumou platí, že:",
+    "options": [
+      "celkový obrazec na stínítku se po vymazání informace změní",
+      "interference se objeví až v podmnožinách vybraných koincidencí",
+      "vymazání dráhové informace zpětně mění minulost signálního fotonu",
+      "signální foton nese interferenci vždy, i bez měření partnera"
+    ],
+    "correct": 1,
+    "explanation": "Souhrnný obrazec signálních fotonů žádnou interferenci nevykazuje a vykazovat nemůže — jinak by šlo signalizovat rychleji než světlo. Proužky (a doplňkové antiproužky) se objeví teprve tehdy, když se data roztřídí podle toho, na kterém detektoru skončil partnerský foton. Žádná změna minulosti se nekoná, jde o klasické třídění již pořízených dat.",
+    "source": "Kim, Yu, Kulik, Shih & Scully, Delayed \"Choice\" Quantum Eraser, Phys. Rev. Lett. 84 (2000)",
+    "seedElo": 1850
+  },
+  {
+    "id": "kva-A23",
+    "type": "F",
+    "category": "kvantovka",
+    "text": "Slabá hodnota (Aharonov, Albert, Vaidman 1988) vzniká tak, že:",
+    "options": [
+      "mezi předvýběrem a povýběrem se provede jen velmi slabá vazba",
+      "se táž veličina měří mnohokrát opakovaně na jediném systému",
+      "se výsledek silného měření zprůměruje přes všechny výstupy",
+      "se z provázaného páru odečte jen jeden ze dvou detektorů"
+    ],
+    "correct": 0,
+    "explanation": "Systém se připraví v jednom stavu, slabě se na něj naváže ukazatel (takže se stav téměř nenaruší) a nakonec se vybere jen podsoubor s určitým koncovým výsledkem. Průměr ukazatele v tomto podsouboru může ležet i mimo spektrum operátoru — proslulá „hodnota 100“ u spinu 1/2. Slabé hodnoty jsou statistický efekt postselekce, nikoli hodnota naměřená na jednom běhu.",
+    "source": "Aharonov, Albert & Vaidman, Phys. Rev. Lett. 60 (1988)",
+    "seedElo": 1850
+  },
+  {
+    "id": "kva-A24",
+    "type": "K",
+    "category": "kvantovka",
+    "text": "Čím kvantový darwinismus (Zurek) rozšiřuje samotnou teorii dekoherence?",
+    "options": [
+      "Zavádí nelineární člen, který dokončuje kolaps vlnové funkce",
+      "Odvozuje Bornovo pravidlo z četnosti výskytu ve větvích světa",
+      "Vysvětluje, proč tutéž informaci čte nezávisle mnoho pozorovatelů",
+      "Ukazuje, že prostředí je vždy v dokonalé tepelné rovnováze se systémem"
+    ],
+    "correct": 2,
+    "explanation": "Dekoherence popisuje, jak prostředí zničí koherenci; kvantový darwinismus dodává, že informace o pointerových stavech se v prostředí navíc mnohonásobně replikuje, takže si ji nezávislí pozorovatelé mohou přečíst z různých fragmentů a shodnou se. Právě tato redundance dělá vlastnost „objektivní“ v běžném smyslu. Kolaps to ale stále nepřidává.",
+    "source": "W. H. Zurek, Quantum Darwinism, Nature Physics 5 (2009)",
+    "seedElo": 1850
+  },
+  {
+    "id": "kva-A25",
+    "type": "F",
+    "category": "kvantovka",
+    "text": "Maudlinova ostrá formulace problému měření ukazuje, že nemohou platit současně tři věci. Které?",
+    "options": [
+      "Linearita, nelokalita a existence skrytých parametrů částic",
+      "Unitarita, zachování energie a určitost výsledků měření",
+      "Úplnost vlnové funkce, unitární vývoj a určité výsledky",
+      "Lokalita, kontextualita a platnost Bornova pravidla"
+    ],
+    "correct": 2,
+    "explanation": "Maudlin ukázal, že tato trojice je nekonzistentní, a rovnou tím roztřídil interpretace: bohmovská mechanika obětuje úplnost vlnové funkce, GRW obětuje vždy unitární vývoj a everettovská interpretace obětuje jedinost výsledku. Síla formulace je v tom, že nejde o nejasnou „záhadu“, ale o tři explicitní předpoklady, z nichž jeden musí padnout.",
+    "source": "Tim Maudlin, Three Measurement Problems, Topoi 14 (1995)",
+    "seedElo": 1900
+  },
+  {
+    "id": "kva-A26",
+    "type": "F",
+    "category": "kvantovka",
+    "text": "Hlavní obtíž mnohosvětové interpretace, na niž míří práce Deutsche a Wallace, je:",
+    "options": [
+      "že se větve světa mohou po dekoherenci znovu setkat a interferovat",
+      "že energie celého multiverza roste s každým dalším štěpením větví",
+      "že se v ní nedá definovat preferovaná báze pro rozdělení větví",
+      "že v ní není jasné, co znamená pravděpodobnost, když nastane vše"
+    ],
+    "correct": 3,
+    "explanation": "Nastanou-li všechny výsledky, ztrácí smysl mluvit o šanci — a přesto musí vyjít Bornovo pravidlo. Deutsch a Wallace se to pokusili vyřešit rozhodovací teorií: racionální agent, který neví, ve které větvi skončí, má sázet přesně podle |ψ|². Zda je odvození bezesporné, je dodnes sporné. Preferovanou bázi naopak everettovci řeší právě dekoherencí.",
+    "source": "David Wallace, The Emergent Multiverse (2012); Deutsch, Proc. R. Soc. A 455 (1999)",
+    "seedElo": 1900
+  },
+  {
+    "id": "kva-A27",
+    "type": "F",
+    "category": "kvantovka",
+    "text": "Čím se argument GHZ (Greenberger, Horne, Zeilinger) liší od původního Bellova?",
+    "options": [
+      "Rozpor s lokálním realismem plyne z jediného měření, ne ze statistiky",
+      "Používá dvě částice místo tří a vystačí si s jediným detektorem",
+      "Platí pouze pro fotony, protože využívá výhradně jejich polarizaci",
+      "Nevyžaduje předpoklad nezávislosti volby nastavení měřicích přístrojů"
+    ],
+    "correct": 0,
+    "explanation": "U tří provázaných částic ve stavu GHZ vede lokálně realistické uvažování k předpovědi, která je přesně opačná než kvantová — jde tedy o rozpor „vše nebo nic“, nikoli o nerovnost mezi průměry. V ideálním případě by stačil jediný běh; skutečné experimenty samozřejmě statistiku potřebují kvůli šumu. Předpoklad volnosti volby zůstává i zde.",
+    "source": "Greenberger, Horne, Shimony & Zeilinger, Am. J. Phys. 58 (1990); Mermin, Phys. Today 43 (1990)",
+    "seedElo": 1900
+  },
+  {
+    "id": "kva-A28",
+    "type": "K",
+    "category": "kvantovka",
+    "text": "Leggett–Gargovy nerovnosti se od Bellových liší tím, že testují:",
+    "options": [
+      "korelace mezi dvěma vzdálenými částicemi v jednom okamžiku",
+      "korelace téhož systému v různých časech proti makrorealismu",
+      "shodu předpovědi a měření v souborech mnoha stejných částic",
+      "závislost výsledku na kontextu současně měřených veličin"
+    ],
+    "correct": 1,
+    "explanation": "Leggett a Garg nahradili prostorovou separaci časovou: předpokládají makrorealismus (systém je vždy v jednom z dostupných stavů) a neinvazivní měřitelnost, a z toho odvodí nerovnost pro korelace mezi měřeními v různých časech. Proto se jim říká „Bellovy nerovnosti v čase“. Slabým místem je právě předpoklad neinvazivního měření.",
+    "source": "Leggett & Garg, Quantum mechanics versus macroscopic realism, Phys. Rev. Lett. 54 (1985)",
+    "seedElo": 1900
+  },
+  {
+    "id": "kva-A29",
+    "type": "F",
+    "category": "kvantovka",
+    "text": "Kochen–Speckerův teorém vylučuje modely, které:",
+    "options": [
+      "přiřazují každé veličině hodnotu závislou na měřicím kontextu",
+      "přiřazují všem veličinám hodnoty nezávisle na měřicím kontextu",
+      "připouštějí nelokální vliv mezi vzdálenými částicemi páru",
+      "popisují stav systému vlnovou funkcí v Hilbertově prostoru"
+    ],
+    "correct": 1,
+    "explanation": "V Hilbertově prostoru dimenze alespoň tři nelze všem projektorům konzistentně přiřadit hodnoty 0/1 tak, aby výsledek nezávisel na tom, s jakými dalšími veličinami se daná veličina měří. Na rozdíl od Bellova teorému nepotřebuje předpoklad lokality ani dvě oddělené laboratoře — jde o čistě algebraický důkaz. Kontextuální modely, jako bohmovská mechanika, tedy přežívají.",
+    "source": "Kochen & Specker, The Problem of Hidden Variables in Quantum Mechanics, J. Math. Mech. 17 (1967)",
+    "seedElo": 1950
+  },
+  {
+    "id": "kva-A30",
+    "type": "F",
+    "category": "kvantovka",
+    "text": "Pusey–Barrett–Rudolphův teorém (2012) za jistých předpokladů ukazuje, že:",
+    "options": [
+      "žádná teorie se skrytými parametry nemůže reprodukovat kvantové předpovědi",
+      "kvantový stav lze vždy určit jediným měřením na jediné kopii systému",
+      "kvantový stav nemůže být jen neúplnou informací o skutečném stavu",
+      "provázané stavy porušují Tsirelsonovu mez v systémech vyšší dimenze"
+    ],
+    "correct": 2,
+    "explanation": "PBR ukazuje, že za předpokladu existence objektivního stavu a nezávislosti nezávisle připravených systémů nemohou dvě různé vlnové funkce odpovídat témuž skutečnému stavu — vlnová funkce je tedy „ψ-ontická“, ne pouhá znalost. Únikem zůstávají výklady, které předpoklad nezávislé přípravy odmítnou, nebo ty, které objektivní stav vůbec nepředpokládají, jako QBism.",
+    "source": "Pusey, Barrett & Rudolph, On the reality of the quantum state, Nature Physics 8 (2012)",
+    "seedElo": 1950
+  },
+  {
+    "id": "kva-A31",
+    "type": "F",
+    "category": "kvantovka",
+    "text": "Proč bohmovská mechanika reprodukuje Bornovo pravidlo?",
+    "options": [
+      "Předpokládá počáteční rozdělení poloh podle |ψ|², jež se pak zachová",
+      "Bornovo pravidlo v ní plyne přímo z tvaru vodicí rovnice pro pohyb částic",
+      "Trajektorie částic jsou náhodné s rozdělením daným Gaussovou funkcí",
+      "Pilotní vlna při měření kolabuje stejně jako v kodaňském výkladu"
+    ],
+    "correct": 0,
+    "explanation": "Vodicí rovnice sama pravděpodobnosti nediktuje; potřeba je navíc hypotéza kvantové rovnováhy, tedy že polohy jsou na počátku rozděleny podle |ψ|². Rovnice kontinuity pak zajistí, že se toto rozdělení udrží navždy — proto je stav rovnováhy „ekvivariantní“. Valentini zkoumal, zda by se nerovnovážné rozdělení dalo někde v přírodě najít; zatím marně.",
+    "source": "Dürr, Goldstein & Zanghì, Quantum Equilibrium and the Origin of Absolute Uncertainty, J. Stat. Phys. 67 (1992)",
+    "seedElo": 1950
+  },
+  {
+    "id": "kva-A32",
+    "type": "K",
+    "category": "kvantovka",
+    "text": "Argument Frauchigera a Rennera (2018) je konstruován tak, aby ukázal:",
+    "options": [
+      "že dekoherence probíhá pomaleji, než předpovídají standardní modely",
+      "že vlnová funkce musí být reálným polem, nikoli popisem znalosti",
+      "že provázanost tří a více částic porušuje podmínku nesignalizace",
+      "že soubor běžných předpokladů o měření vede k rozporným závěrům"
+    ],
+    "correct": 3,
+    "explanation": "Rozšířený Wignerův přítel se dvěma laboratořemi ukazuje, že nelze současně držet univerzální platnost kvantové teorie, jedinost výsledků a konzistenci úsudků agentů o úsudcích jiných agentů. Autoři netvrdí, že je teorie špatná — ukazují, že každá interpretace musí jeden z předpokladů obětovat, a různé interpretace obětují různé.",
+    "source": "Frauchiger & Renner, Quantum theory cannot consistently describe the use of itself, Nature Communications 9 (2018)",
+    "seedElo": 1950
+  }
+]

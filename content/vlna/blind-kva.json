@@ -1,0 +1,962 @@
+[
+ {
+  "id": "kva-A01",
+  "text": "Mnohosvětovou interpretaci kvantové mechaniky poprvé formuloval:",
+  "options": [
+   "Niels Bohr ve své slavné přednášce v italském Comu roku 1927",
+   "John von Neumann v knize Matematické základy z roku 1932",
+   "David Bohm ve dvojici článků v Physical Review roku 1952",
+   "Hugh Everett III. ve své princetonské disertaci roku 1957"
+  ]
+ },
+ {
+  "id": "kva-A02",
+  "text": "Nobelovu cenu za fyziku 2022 dostali Alain Aspect, John Clauser a Anton Zeilinger za:",
+  "options": [
+   "experimenty s provázanými fotony, které porušily Bellovy nerovnosti",
+   "první experimentální potvrzení existence kvantového tunelového jevu",
+   "sestrojení prvního funkčního kvantového počítače s desítkami qubitů",
+   "přímé pozorování kolapsu vlnové funkce v jednotlivých supravodivých obvodech"
+  ]
+ },
+ {
+  "id": "kva-A03",
+  "text": "Čím je vlnová funkce v de Broglie–Bohmově teorii?",
+  "options": [
+   "Pouhým výpočetním nástrojem bez jakéhokoli fyzikálního obsahu",
+   "Popisem statistického souboru částic, nikoli jedné částice",
+   "Reálným pilotním polem, které vede částici s určitou polohou",
+   "Objektem, jenž při měření kolabuje na vlastní stav přístroje"
+  ]
+ },
+ {
+  "id": "kva-A04",
+  "text": "Teorém o nemožnosti klonování (no-cloning) říká, že nelze:",
+  "options": [
+   "změřit současně polohu a hybnost jedné částice s libovolnou přesností",
+   "vyrobit přesnou kopii libovolného předem neznámého kvantového stavu",
+   "přenést kvantový stav na vzdálené místo bez klasického kanálu",
+   "připravit dvě částice v dokonale stejném, předem zvoleném stavu"
+  ]
+ },
+ {
+  "id": "kva-A05",
+  "text": "Kvantový Zenonův jev znamená, že:",
+  "options": [
+   "velmi časté měření zmrazí systém v jeho původním stavu",
+   "měřením lze rozpad nestabilního jádra libovolně urychlit",
+   "provázaná dvojice se pozorováním okamžitě rozpadne na dvě",
+   "částice v pohybu nikdy nedosáhne detektoru kvůli tunelování"
+  ]
+ },
+ {
+  "id": "kva-A06",
+  "text": "Kvantová teleportace přenese stav qubitu, ale vždy potřebuje navíc:",
+  "options": [
+   "aby obě strany předem znaly stav, který se má přenášet",
+   "aby vzdálenost stran byla menší než koherenční délka zdroje",
+   "aby původní qubit zůstal po přenosu uchován jako záložní kopie",
+   "aby odesílatel poslal dva klasické bity běžným kanálem"
+  ]
+ },
+ {
+  "id": "kva-A07",
+  "text": "Hlavní důvod, proč většina fyziků odmítá von Neumann–Wignerovu hypotézu o kolapsu vědomím:",
+  "options": [
+   "byla vyvrácena přímým experimentem s pozorovateli v Delftu",
+   "nedefinuje, co vědomí je, a nedává testovatelnou předpověď",
+   "odporuje zákonu zachování energie při každém aktu měření",
+   "předpokládá nelokální působení, které Bellovy testy vylučují"
+  ]
+ },
+ {
+  "id": "kva-A08",
+  "text": "Co dekoherence sama o sobě nevysvětluje?",
+  "options": [
+   "Proč interferenční členy v hustotní matici prakticky mizí",
+   "Proč se u makroskopických těles vybírá poloha jako preferovaná báze",
+   "Proč z mnoha možností nakonec nastane právě jeden výsledek",
+   "Proč je dekoherence tím rychlejší, čím větší je daný objekt"
+  ]
+ },
+ {
+  "id": "kva-A09",
+  "text": "Odhady časů dekoherence pro makroskopické těleso v běžném prostředí ukazují, že:",
+  "options": [
+   "čas dekoherence je srovnatelný s dobou lidského pozorování",
+   "dekoherence nastane teprve po interakci s vědomým pozorovatelem měření",
+   "čas dekoherence je o mnoho řádů kratší než jakýkoli měřitelný děj",
+   "dekoherence se zpomaluje úměrně s rostoucí hmotností tělesa"
+  ]
+ },
+ {
+  "id": "kva-A10",
+  "text": "V myšlenkovém experimentu Wignerův přítel vzniká rozpor v tom, že:",
+  "options": [
+   "přítel i Wigner naměří na téže částici dva odlišné výsledky",
+   "pro přítele výsledek už nastal, pro Wignera je laboratoř v superpozici",
+   "přítel nemůže o svém výsledku podat Wignerovi žádnou zprávu",
+   "Wignerovo měření zpětně přepíše ten výsledek, který přítel skutečně viděl"
+  ]
+ },
+ {
+  "id": "kva-A11",
+  "text": "Jaké nejvyšší hodnoty může v CHSH nerovnosti dosáhnout kvantová mechanika?",
+  "options": [
+   "Libovolně velké, omezena je jen přesností detektorů",
+   "Přesně 2, stejně jako každá lokálně realistická teorie",
+   "Hodnoty 4, tedy algebraického maxima tohoto výrazu",
+   "Hodnoty 2√2, označované jako Tsirelsonova mez"
+  ]
+ },
+ {
+  "id": "kva-A12",
+  "text": "Cenou, kterou de Broglie–Bohmova teorie platí za určité trajektorie částic, je:",
+  "options": [
+   "explicitní nelokalita — rychlost částice závisí na vzdáleném přístroji",
+   "rozpor s předpověďmi standardní kvantové mechaniky v silných polích",
+   "nutnost vzdát se vlnové funkce jako reálného fyzikálního objektu v prostoru",
+   "porušení zachování energie při každém průchodu částice štěrbinou"
+  ]
+ },
+ {
+  "id": "kva-A13",
+  "text": "Čím se liší teorém o neklonování od teorému o nemožnosti signalizace?",
+  "options": [
+   "První plyne z linearity, druhý z nezávislosti lokální statistiky",
+   "První platí jen pro fotony, druhý pro všechny kvantové systémy",
+   "První je přímým důsledkem druhého a plyne z něj krátkým odvozením",
+   "První je experimentální fakt, druhý jen pracovní předpoklad"
+  ]
+ },
+ {
+  "id": "kva-A14",
+  "text": "Wheelerův experiment s oddálenou volbou podle standardní kvantové mechaniky ukazuje, že:",
+  "options": [
+   "volba přístroje ovlivňuje minulost fotonu zpětnou kauzalitou",
+   "foton se hned při vstupu do přístroje rozhodne, zda se chová jako vlna",
+   "přisuzovat fotonu dráhu či vlnu před dokončením měření nemá smysl",
+   "interference zmizí vždy, když se volba provede po vstupu fotonu"
+  ]
+ },
+ {
+  "id": "kva-A15",
+  "text": "Von Neumannův „řetěz“ měření vede k závěru, že hranice mezi kvantovým a klasickým popisem:",
+  "options": [
+   "leží u hmotnosti odpovídající zhruba Planckově hmotnosti",
+   "se dá posunout kamkoli po řetězci, aniž se změní předpovědi",
+   "je dána počtem stupňů volnosti měřicího přístroje",
+   "je pevně určena teplotou okolního prostředí přístroje"
+  ]
+ },
+ {
+  "id": "kva-A16",
+  "text": "Co ukazuje historický výzkum o takzvané „kodaňské interpretaci“?",
+  "options": [
+   "Byla Bohrem a Heisenbergem sepsána jako společný text roku 1927",
+   "Shodovala se s von Neumannovým výkladem kolapsu vlnové funkce",
+   "Byla přijata na Solvayském kongresu hlasováním fyziků roku 1930",
+   "Jde o pozdější nálepku pro odlišné názory Bohra a Heisenberga"
+  ]
+ },
+ {
+  "id": "kva-A17",
+  "text": "Podle QBismu (Fuchs, Mermin, Schack) vlnová funkce vyjadřuje:",
+  "options": [
+   "objektivní stav systému, jenž existuje nezávisle na agentovi",
+   "osobní míru očekávání agenta ohledně výsledků jeho měření",
+   "statistické rozdělení skrytých parametrů v souboru systémů",
+   "informaci sdílenou všemi pozorovateli daného experimentu"
+  ]
+ },
+ {
+  "id": "kva-A18",
+  "text": "Model GRW (Ghirardi–Rimini–Weber) se od standardní kvantové mechaniky liší tím, že:",
+  "options": [
+   "přidává náhodné spontánní lokalizace, jež u velkých těles rychle sílí",
+   "zavádí skryté proměnné určující výsledek každého jednotlivého měření",
+   "popírá platnost Schrödingerovy rovnice pro mikroskopické systémy",
+   "vyžaduje k dokončení kolapsu vědomého pozorovatele v laboratoři"
+  ]
+ },
+ {
+  "id": "kva-A19",
+  "text": "Co bylo hlavním přínosem Bellova testu skupiny Ronalda Hansona v Delftu roku 2015?",
+  "options": [
+   "poprvé prokázal porušení Bellovy nerovnosti u fotonových párů",
+   "poprvé změřil Tsirelsonovu mez s přesností na čtyři desetinná místa",
+   "poprvé ukázal, že provázanost lze udržet na vzdálenost přes tisíc km",
+   "poprvé uzavřel mezeru detekce i lokality v jediném experimentu"
+  ]
+ },
+ {
+  "id": "kva-A20",
+  "text": "Které tvrzení nejpřesněji vystihuje, co Bellův teorém vylučuje?",
+  "options": [
+   "Že by částice měly před měřením jakékoli určité vlastnosti",
+   "Že by kvantová mechanika mohla být doplněna skrytými parametry",
+   "Teorie splňující lokální kauzalitu a nezávislost volby měření",
+   "Že by výsledky měření byly ovlivněny nastavením obou přístrojů"
+  ]
+ },
+ {
+  "id": "kva-A21",
+  "text": "Superdeterministické modely obcházejí Bellův teorém tím, že popírají:",
+  "options": [
+   "platnost kvantových předpovědí pro vzdálené provázané páry",
+   "existenci jakýchkoli skrytých parametrů pod kvantovým popisem",
+   "možnost popsat výsledek měření jednou globální vlnovou funkcí",
+   "nezávislost volby nastavení přístrojů na skrytých parametrech"
+  ]
+ },
+ {
+  "id": "kva-A22",
+  "text": "V experimentu s oddálenou kvantovou gumou platí, že:",
+  "options": [
+   "celkový obrazec na stínítku se po vymazání informace změní",
+   "interference se objeví až v podmnožinách vybraných koincidencí",
+   "vymazání dráhové informace zpětně mění minulost signálního fotonu",
+   "signální foton nese interferenci vždy, i bez měření partnera"
+  ]
+ },
+ {
+  "id": "kva-A23",
+  "text": "Slabá hodnota (Aharonov, Albert, Vaidman 1988) vzniká tak, že:",
+  "options": [
+   "mezi předvýběrem a povýběrem se provede jen velmi slabá vazba",
+   "se táž veličina měří mnohokrát opakovaně na jediném systému",
+   "se výsledek silného měření zprůměruje přes všechny výstupy",
+   "se z provázaného páru odečte jen jeden ze dvou detektorů"
+  ]
+ },
+ {
+  "id": "kva-A24",
+  "text": "Čím kvantový darwinismus (Zurek) rozšiřuje samotnou teorii dekoherence?",
+  "options": [
+   "Zavádí nelineární člen, který dokončuje kolaps vlnové funkce",
+   "Odvozuje Bornovo pravidlo z četnosti výskytu ve větvích světa",
+   "Vysvětluje, proč tutéž informaci čte nezávisle mnoho pozorovatelů",
+   "Ukazuje, že prostředí je vždy v dokonalé tepelné rovnováze se systémem"
+  ]
+ },
+ {
+  "id": "kva-A25",
+  "text": "Maudlinova ostrá formulace problému měření ukazuje, že nemohou platit současně tři věci. Které?",
+  "options": [
+   "Linearita, nelokalita a existence skrytých parametrů částic",
+   "Unitarita, zachování energie a určitost výsledků měření",
+   "Úplnost vlnové funkce, unitární vývoj a určité výsledky",
+   "Lokalita, kontextualita a platnost Bornova pravidla"
+  ]
+ },
+ {
+  "id": "kva-A26",
+  "text": "Hlavní obtíž mnohosvětové interpretace, na niž míří práce Deutsche a Wallace, je:",
+  "options": [
+   "že se větve světa mohou po dekoherenci znovu setkat a interferovat",
+   "že energie celého multiverza roste s každým dalším štěpením větví",
+   "že se v ní nedá definovat preferovaná báze pro rozdělení větví",
+   "že v ní není jasné, co znamená pravděpodobnost, když nastane vše"
+  ]
+ },
+ {
+  "id": "kva-A27",
+  "text": "Čím se argument GHZ (Greenberger, Horne, Zeilinger) liší od původního Bellova?",
+  "options": [
+   "Rozpor s lokálním realismem plyne z jediného měření, ne ze statistiky",
+   "Používá dvě částice místo tří a vystačí si s jediným detektorem",
+   "Platí pouze pro fotony, protože využívá výhradně jejich polarizaci",
+   "Nevyžaduje předpoklad nezávislosti volby nastavení měřicích přístrojů"
+  ]
+ },
+ {
+  "id": "kva-A28",
+  "text": "Leggett–Gargovy nerovnosti se od Bellových liší tím, že testují:",
+  "options": [
+   "korelace mezi dvěma vzdálenými částicemi v jednom okamžiku",
+   "korelace téhož systému v různých časech proti makrorealismu",
+   "shodu předpovědi a měření v souborech mnoha stejných částic",
+   "závislost výsledku na kontextu současně měřených veličin"
+  ]
+ },
+ {
+  "id": "kva-A29",
+  "text": "Kochen–Speckerův teorém vylučuje modely, které:",
+  "options": [
+   "přiřazují každé veličině hodnotu závislou na měřicím kontextu",
+   "přiřazují všem veličinám hodnoty nezávisle na měřicím kontextu",
+   "připouštějí nelokální vliv mezi vzdálenými částicemi páru",
+   "popisují stav systému vlnovou funkcí v Hilbertově prostoru"
+  ]
+ },
+ {
+  "id": "kva-A30",
+  "text": "Pusey–Barrett–Rudolphův teorém (2012) za jistých předpokladů ukazuje, že:",
+  "options": [
+   "žádná teorie se skrytými parametry nemůže reprodukovat kvantové předpovědi",
+   "kvantový stav lze vždy určit jediným měřením na jediné kopii systému",
+   "kvantový stav nemůže být jen neúplnou informací o skutečném stavu",
+   "provázané stavy porušují Tsirelsonovu mez v systémech vyšší dimenze"
+  ]
+ },
+ {
+  "id": "kva-A31",
+  "text": "Proč bohmovská mechanika reprodukuje Bornovo pravidlo?",
+  "options": [
+   "Předpokládá počáteční rozdělení poloh podle |ψ|², jež se pak zachová",
+   "Bornovo pravidlo v ní plyne přímo z tvaru vodicí rovnice pro pohyb částic",
+   "Trajektorie částic jsou náhodné s rozdělením daným Gaussovou funkcí",
+   "Pilotní vlna při měření kolabuje stejně jako v kodaňském výkladu"
+  ]
+ },
+ {
+  "id": "kva-A32",
+  "text": "Argument Frauchigera a Rennera (2018) je konstruován tak, aby ukázal:",
+  "options": [
+   "že dekoherence probíhá pomaleji, než předpovídají standardní modely",
+   "že vlnová funkce musí být reálným polem, nikoli popisem znalosti",
+   "že provázanost tří a více částic porušuje podmínku nesignalizace",
+   "že soubor běžných předpokladů o měření vede k rozporným závěrům"
+  ]
+ },
+ {
+  "id": "kva-B01",
+  "text": "Co je jádrem Shorova algoritmu — úloha, kterou kvantová část skutečně řeší?",
+  "options": [
+   "Nalezení periody funkce a^x mod N pomocí kvantové Fourierovy transformace",
+   "Postupné dělení čísla N všemi prvočísly menšími než jeho odmocnina",
+   "Prohledání seznamu všech možných dělitelů N v jediném kroku měření",
+   "Rozklad čísla N na součin dvou faktorů přímým řešením kvadratické rovnice"
+  ]
+ },
+ {
+  "id": "kva-B02",
+  "text": "Které dnes běžné kryptosystémy by dostatečně velký kvantový počítač se Shorovým algoritmem prolomil?",
+  "options": [
+   "Jen RSA; Diffie-Hellman a eliptické křivky zůstávají zcela bezpečné",
+   "RSA, Diffie-Hellmana i kryptografii nad eliptickými křivkami",
+   "Všechny šifry včetně AES-256, u nějž klesne bezpečnost na nulu",
+   "Pouze hašovací funkce typu SHA-256 a na nich stavěné podpisy"
+  ]
+ },
+ {
+  "id": "kva-B03",
+  "text": "Jaké zrychlení nabízí Groverův algoritmus při prohledávání nesetříděné databáze?",
+  "options": [
+   "Exponenciální: z N kroků na log N, podobně jako Shorův algoritmus",
+   "Žádné prokazatelné; jde jen o heuristiku bez důkazu dolní meze",
+   "Kvadratické: místo řádu N kroků stačí řád odmocniny z N",
+   "Lineární: konstantně zrychlí prohledávání zhruba o faktor deset"
+  ]
+ },
+ {
+  "id": "kva-B04",
+  "text": "Proč se kvůli Groverovu algoritmu doporučuje u symetrických šifer zdvojnásobit délku klíče?",
+  "options": [
+   "Protože Grover snižuje efektivní bezpečnost klíče zhruba na polovinu bitů",
+   "Protože Grover umí odvodit klíč přímo z jediného páru vstup–výstup",
+   "Protože Grover dokáže obejít lavinový efekt v každé blokové šifře",
+   "Protože Grover rozkládá klíč na prvočinitele stejně jako Shorův postup"
+  ]
+ },
+ {
+  "id": "kva-B05",
+  "text": "Proč nelze kvantovou informaci chránit prostým zkopírováním qubitu do tří kopií?",
+  "options": [
+   "Protože kvantové kopírky by porušily zákon zachování energie v obvodu",
+   "Protože teorém o nemožnosti klonování zakazuje kopii neznámého stavu",
+   "Protože každý qubit lze zkopírovat nejvýše dvakrát, nikdy však třikrát",
+   "Protože kopírování je možné, jen je pro dnešní hardware příliš pomalé"
+  ]
+ },
+ {
+  "id": "kva-B06",
+  "text": "Co tvrdí prahový teorém (threshold theorem) kvantové chybové korekce?",
+  "options": [
+   "Existuje práh, pod který nelze chybovost fyzických hradel nikdy stlačit",
+   "Po překročení tisíce qubitů začnou chyby klesat samovolně s velikostí",
+   "Korekci lze provádět jen tehdy, je-li počet qubitů mocninou dvojky",
+   "Klesne-li chybovost operací pod jistý práh, lze chybu potlačit libovolně"
+  ]
+ },
+ {
+  "id": "kva-B07",
+  "text": "Co je logický qubit ve srovnání s fyzickým qubitem?",
+  "options": [
+   "Fyzický qubit, který byl softwarově přejmenován kvůli přehlednosti kódu",
+   "Qubit uložený v klasické paměti počítače, jenž řídí kvantový procesor",
+   "Jediný obzvlášť kvalitní fyzický qubit vybraný z čipu jako referenční",
+   "Stav rozprostřený přes mnoho fyzických qubitů, chráněný korekčním kódem"
+  ]
+ },
+ {
+  "id": "kva-B08",
+  "text": "Co v žargonu supravodivých qubitů rozlišují časy T1 a T2?",
+  "options": [
+   "T1 je délka jednoho hradla, T2 délka celého kvantového obvodu v čipu",
+   "T1 je teplota kryostatu, T2 teplota vlastního čipu měřená termistorem",
+   "T1 je doba relaxace energie, T2 doba ztráty fázové soudržnosti stavu",
+   "T1 je doba čtení výsledku, T2 doba přípravy qubitu do základního stavu"
+  ]
+ },
+ {
+  "id": "kva-B09",
+  "text": "Za jakých podmínek pracují supravodivé transmonové qubity?",
+  "options": [
+   "Při pokojové teplotě, řízeny viditelným světlem z polovodičové diody",
+   "Při desítkách milikelvinů, řízeny mikrovlnnými pulzy v řádu gigahertzů",
+   "Při teplotě kapalného dusíku, řízeny stejnosměrným napěťovým pulzem",
+   "Ve vysokém vakuu za pokojové teploty, řízeny fokusovaným svazkem iontů"
+  ]
+ },
+ {
+  "id": "kva-B10",
+  "text": "Čím se iontové pasti typicky liší od supravodivých qubitů?",
+  "options": [
+   "Mají výrazně delší koherenci a přesnější hradla, ale pomalejší operace",
+   "Mají kratší koherenci i horší hradla, zato pracují za pokojové teploty",
+   "Nepotřebují lasery ani vakuum, protože ionty drží pevná krystalová mřížka",
+   "Umožňují jen měření, nikoli provádění dvouqubitových logických hradel"
+  ]
+ },
+ {
+  "id": "kva-B11",
+  "text": "Co je hlavní potíží fotonických kvantových počítačů?",
+  "options": [
+   "Fotony rychle dekoherují už po několika centimetrech letu ve vlákně",
+   "Fotony spolu prakticky neinteragují, takže dvoufotonová hradla jsou těžká",
+   "Fotony nelze detekovat jednotlivě, měří se vždy jen intenzita svazku",
+   "Fotony vyžadují chlazení pod jeden milikelvin, jinak se rozpadají"
+  ]
+ },
+ {
+  "id": "kva-B12",
+  "text": "Na čem staví naděje vkládané do topologických qubitů?",
+  "options": [
+   "Na tom, že informace je uložena v nelokálních vlastnostech odolných k šumu",
+   "Na tom, že jejich výroba je levná a zvládne ji běžná křemíková továrna",
+   "Na tom, že nepotřebují žádnou chybovou korekci ani měření syndromu",
+   "Na tom, že jediný takový qubit nahradí celý klasický superpočítač"
+  ]
+ },
+ {
+  "id": "kva-B13",
+  "text": "Co označuje pojem NISQ, který zavedl John Preskill?",
+  "options": [
+   "Normu pro měření kvality qubitů přijatou americkým úřadem NIST",
+   "Éru strojů s desítkami až stovkami zašuměných qubitů bez plné korekce",
+   "Třídu úloh, jež kvantový počítač vyřeší rychleji než klasický stroj",
+   "Standardní rozhraní pro programování kvantových obvodů v Pythonu"
+  ]
+ },
+ {
+  "id": "kva-B14",
+  "text": "Co konkrétně Google v roce 2019 tvrdil o procesoru Sycamore a jak zněla hlavní námitka?",
+  "options": [
+   "Že rozložil 2048bitové RSA; kritici namítli, že šlo o klasickou simulaci",
+   "Že splnil úlohu za dny místo let; kritici uvedli chybu v kalibraci čipu",
+   "Že úlohu zvládl za minuty místo tisíců let; IBM odhadla jen dny",
+   "Že poprvé provozoval logický qubit; kritici zpochybnili čistotu hradel"
+  ]
+ },
+ {
+  "id": "kva-B15",
+  "text": "Na čem stojí bezpečnost protokolu BB84 pro distribuci klíče?",
+  "options": [
+   "Na výpočetní obtížnosti rozkladu velkých čísel na prvočinitele",
+   "Na tom, že odposlech nutně naruší stavy a zvýší chybovost přenosu",
+   "Na tom, že fotony putují rychleji než jakýkoli myslitelný odposlech",
+   "Na sdíleném tajném klíči, který strany získaly osobním setkáním"
+  ]
+ },
+ {
+  "id": "kva-B16",
+  "text": "Jakou roli hraje teorém o nemožnosti klonování v kvantové kryptografii?",
+  "options": [
+   "Znemožňuje útočníkovi pořídit si věrnou kopii letících kvantových stavů",
+   "Zaručuje, že klíč vygenerovaný protokolem bude vždy dokonale náhodný",
+   "Umožňuje příjemci ověřit totožnost odesílatele bez sdíleného tajemství",
+   "Dovoluje zvýšit dosah spoje opakovaným zesílením signálu ve vlákně"
+  ]
+ },
+ {
+  "id": "kva-B17",
+  "text": "Jaký je zásadní rozdíl mezi kvantovou distribucí klíče a postkvantovou kryptografií?",
+  "options": [
+   "QKD i postkvantová kryptografie shodně vyžadují speciální optické vlákno",
+   "QKD je klasický software, postkvantová kryptografie vyžaduje kvantový hardware",
+   "QKD potřebuje speciální hardware, postkvantová kryptografie je jen software",
+   "Obojí prolomí Shorův algoritmus, liší se pouze délkou používaného klíče"
+  ]
+ },
+ {
+  "id": "kva-B18",
+  "text": "Na jaké matematické problémy sází většina algoritmů vybraných v soutěži NIST na postkvantovou kryptografii?",
+  "options": [
+   "Na rozklad součinu dvou velkých prvočísel, jen s mnohem delšími klíči",
+   "Na diskrétní logaritmus v grupách bodů na eliptických křivkách nad tělesy",
+   "Na fyzikální nemožnost změřit kvantový stav bez jeho současného narušení",
+   "Na obtížné úlohy v bodových mřížkách, hlavně na hledání krátkých vektorů"
+  ]
+ },
+ {
+  "id": "kva-B19",
+  "text": "Jak je od roku 1967 definována sekunda v soustavě SI?",
+  "options": [
+   "Jako 1/86400 středního slunečního dne měřeného na greenwichském poledníku",
+   "Jako doba, za kterou světlo urazí ve vakuu přesně 299 792 458 metrů",
+   "Jako 9 192 631 770 period záření odpovídajícího přechodu v atomu cesia",
+   "Jako perioda kmitů křemenného krystalu ochlazeného na absolutní nulu"
+  ]
+ },
+ {
+  "id": "kva-B20",
+  "text": "Co dokážou dnešní optické atomové hodiny předvést kromě lepšího měření času?",
+  "options": [
+   "Změřit hmotnost jednotlivého atomu s přesností na jeden elektron",
+   "Zaznamenat průchod gravitační vlny bez použití laserového interferometru",
+   "Určit polohu na Zemi s přesností pod jeden milimetr bez družic",
+   "Ukázat rozdíl v běhu času při zvednutí hodin o pouhé centimetry"
+  ]
+ },
+ {
+  "id": "kva-B21",
+  "text": "K čemu slouží SQUID a na jakém jevu stojí?",
+  "options": [
+   "K měření nepatrných magnetických polí; využívá Josephsonovy přechody",
+   "K chlazení qubitů pod milikelvin; využívá adiabatickou demagnetizaci",
+   "K zesílení slabých rádiových signálů; využívá lavinový průraz diody",
+   "K měření teploty v kryostatu; využívá odpor supravodivého filmu"
+  ]
+ },
+ {
+  "id": "kva-B22",
+  "text": "Jak kvantová optika pomohla zlepšit citlivost detektorů gravitačních vln?",
+  "options": [
+   "Nahrazením zrcadel supravodivými plochami, jež odrážejí naprosto vše světlo",
+   "Vstřikováním stlačeného světla, které potlačí kvantový šum měření fáze",
+   "Použitím provázaných fotonů putujících oběma rameny interferometru",
+   "Chlazením laserového svazku na milikelvinové teploty před vysláním"
+  ]
+ },
+ {
+  "id": "kva-B23",
+  "text": "Jak dnes vypadá stav důkazů o takzvané kvantové koherenci ve fotosyntetických komplexech?",
+  "options": [
+   "Dlouhotrvající elektronová koherence je prokázána i za pokojové teploty",
+   "Koherence byla vyvrácena, měřené signály pocházely z chyby přístroje",
+   "Původní signály jsou dnes vykládány spíše jako vibrační, ne elektronové",
+   "Koherence je doložena jen u rostlin, nikoli u fotosyntetických bakterií"
+  ]
+ },
+ {
+  "id": "kva-B24",
+  "text": "Co říká hypotéza radikálových párů o magnetickém smyslu ptáků?",
+  "options": [
+   "Železné krystalky v zobáku se natáčejí podle siločar magnetického pole",
+   "Pták vnímá indukované napětí vznikající při letu napříč siločarami",
+   "Magnetické pole mění rychlost nervových vzruchů v optickém nervu",
+   "Pole ovlivňuje spinový stav dvojice radikálů v očním kryptochromu"
+  ]
+ },
+ {
+  "id": "kva-B25",
+  "text": "Čemu vděčí rastrovací tunelový mikroskop za svou atomární rozlišovací schopnost?",
+  "options": [
+   "Vlnová délka použitých elektronů je menší než rozměr jednoho atomu",
+   "Hrot se povrchu dotýká a měří elektrický odpor kontaktu s jednotlivými atomy",
+   "Tunelový proud klesá s rostoucí mezerou exponenciálně, tedy velmi prudce",
+   "Detekuje rentgenové záření vznikající dopadem elektronů na povrch"
+  ]
+ },
+ {
+  "id": "kva-B26",
+  "text": "Který kvantový jev popsaný Einsteinem už v roce 1917 stojí za funkcí laseru?",
+  "options": [
+   "Stimulovaná emise: foton vyvolá vyzáření dalšího fotonu téže fáze",
+   "Fotoelektrický jev: dopadající foton vyrazí z kovu volný elektron",
+   "Comptonův rozptyl: foton předá část energie vázanému elektronu",
+   "Spontánní emise: excitovaný atom vyzáří foton v náhodném směru"
+  ]
+ },
+ {
+  "id": "kva-B27",
+  "text": "Proč se elektrony v supravodiči párují, ačkoli se navzájem odpuzují?",
+  "options": [
+   "Silné magnetické pole je k sobě přitiskne přes jejich spinové momenty",
+   "Při velmi nízké teplotě jejich efektivní náboj klesá, odpuzování zmizí",
+   "Páry drží pohromadě výměna virtuálních fotonů mezi dvěma elektrony",
+   "Zprostředkuje to mřížka: kmity iontů dají slabou efektivní přitažlivost"
+  ]
+ },
+ {
+  "id": "kva-B28",
+  "text": "Co se stane s plynem bosonů ochlazeným pod kritickou teplotu?",
+  "options": [
+   "Rozpadne se na jednotlivé fermiony a začne se chovat jako kov",
+   "Makroskopická část atomů obsadí týž nejnižší kvantový stav",
+   "Atomy se uspořádají do pravidelné krystalové mřížky jako v ledu",
+   "Jeho atomy ztratí spin a přestanou reagovat na magnetické pole"
+  ]
+ },
+ {
+  "id": "kva-B29",
+  "text": "Proč je celočíselný kvantový Hallův jev důležitý pro metrologii?",
+  "options": [
+   "Umožňuje měřit teplotu vzorku nezávisle na použitém termočlánku",
+   "Dovoluje určit hmotnost elektronu přímo z tvaru naměřené křivky",
+   "Dává absolutní stupnici magnetické indukce nezávislou na geometrii",
+   "Hallův odpor nabývá hodnot h/(ie²) téměř nezávisle na vzorku"
+  ]
+ },
+ {
+  "id": "kva-B30",
+  "text": "Co je Casimirův jev?",
+  "options": [
+   "Přitažlivá síla mezi dvěma blízkými nenabitými vodivými deskami ve vakuu",
+   "Odpudivá síla mezi dvěma souhlasně nabitými deskami ponořenými do plynu",
+   "Zeslabení světla procházejícího velmi úzkou štěrbinou mezi kovovými deskami",
+   "Zahřívání kovových desek vlivem dopadu reliktního mikrovlnného záření"
+  ]
+ },
+ {
+  "id": "kva-B31",
+  "text": "Co tvrdí Landauerův princip?",
+  "options": [
+   "Každá logická operace musí rozptýlit alespoň kT ln 2 energie do okolí",
+   "Rychlost výpočtu je shora omezena energií uloženou v procesoru",
+   "Smazání jednoho bitu informace stojí nejméně kT ln 2 vyzářeného tepla",
+   "Informaci nelze přenést rychleji, než dovoluje šířka pásma kanálu"
+  ]
+ },
+ {
+  "id": "kva-B32",
+  "text": "Jak se dnes řeší paradox Maxwellova démona?",
+  "options": [
+   "Démon by musel být rychlejší než světlo, což fyzika zakazuje",
+   "Molekuly nelze rozlišit podle rychlosti, protože jsou nerozlišitelné",
+   "Dvířka by musela mít nulovou hmotnost, jinak práci nezískáme",
+   "Démonova paměť se plní; její mazání vrátí entropii zpět do systému"
+  ]
+ },
+ {
+  "id": "kva-C01",
+  "text": "Co se skrývá pod pojmem „ultrafialová katastrofa“?",
+  "options": [
+   "Klasická fyzika předpovídala nekonečné vyzařování na krátkých vlnách.",
+   "Ultrafialové záření hvězd nešlo změřit tehdejšími přístroji vůbec.",
+   "Zdroje ultrafialového světla v laboratořích tehdy neustále selhávaly.",
+   "Ultrafialová část spektra horkých těles v měřeních zcela chyběla."
+  ]
+ },
+ {
+  "id": "kva-C02",
+  "text": "Za co dostal Albert Einstein Nobelovu cenu za fyziku?",
+  "options": [
+   "Za obecnou teorii relativity a ohyb světla v poli Slunce.",
+   "Za objev zákona fotoelektrického jevu a zásluhy o fyziku.",
+   "Za speciální teorii relativity a vztah mezi hmotou a energií.",
+   "Za vysvětlení Brownova pohybu pomocí molekulární teorie tepla."
+  ]
+ },
+ {
+  "id": "kva-C03",
+  "text": "V čem selhával Bohrův model atomu z roku 1913?",
+  "options": [
+   "Nedokázal vysvětlit čárové spektrum atomu vodíku.",
+   "Předpokládal, že atom nemá žádné kladné jádro.",
+   "Selhával už u helia, tedy u dvou elektronů v atomu.",
+   "Vylučoval existenci prvků těžších než uhlík."
+  ]
+ },
+ {
+  "id": "kva-C04",
+  "text": "S jakým nápadem přišel Louis de Broglie ve své disertaci z roku 1924?",
+  "options": [
+   "Že světlo se v prázdném prostoru šíří vlnou zvanou éter.",
+   "Že elektron je ve skutečnosti bodová částice bez rozměru.",
+   "Že energie atomu klesá se čtvercem vzdálenosti od jádra.",
+   "Že i hmotná částice má vlnovou délku danou svou hybností."
+  ]
+ },
+ {
+  "id": "kva-C05",
+  "text": "Jak dopadlo soupeření maticové a vlnové mechaniky v letech 1925–1926?",
+  "options": [
+   "Ukázalo se, že jde o dvě podoby jedné a téže teorie.",
+   "Maticovou mechaniku brzy vyvrátily experimenty s atomy.",
+   "Vlnová mechanika platí pro světlo, maticová pro hmotu.",
+   "Obě byly opuštěny a nahradil je vylepšený Bohrův model."
+  ]
+ },
+ {
+  "id": "kva-C06",
+  "text": "Čím doplnil Max Born v roce 1926 Schrödingerovu vlnovou funkci?",
+  "options": [
+   "Odvodil z ní přesnou dráhu elektronu kolem jádra atomu.",
+   "Vyložil ji jako veličinu, z níž plyne pravděpodobnost.",
+   "Dokázal, že vlnová funkce je hustota náboje v prostoru.",
+   "Ukázal, že vlnová funkce je jen matematická pomůcka."
+  ]
+ },
+ {
+  "id": "kva-C07",
+  "text": "Čemu byla věnována pátá Solvayská konference v Bruselu roku 1927?",
+  "options": [
+   "Stavbě prvního velkého urychlovače částic v Evropě.",
+   "Sjednocení gravitace s elektromagnetickým polem.",
+   "Elektronům a fotonům, tedy nové kvantové teorii.",
+   "Novému mezinárodnímu měření rychlosti světla."
+  ]
+ },
+ {
+  "id": "kva-C08",
+  "text": "Co Einsteinovi na nové kvantové mechanice vadilo nejvíc?",
+  "options": [
+   "Že používá příliš složitou matematiku matic a operátorů.",
+   "Že popírá existenci atomů jako reálných objektů.",
+   "Že nedokáže spočítat spektrum atomu vodíku přesně.",
+   "Že podle ní je náhoda v přírodě něčím zcela základním."
+  ]
+ },
+ {
+  "id": "kva-C09",
+  "text": "Co tvrdil slavný článek Einsteina, Podolského a Rosena z roku 1935?",
+  "options": [
+   "Že kvantový popis reality nemůže být úplný.",
+   "Že v kvantové mechanice je matematická chyba.",
+   "Že v atomu nelze překročit rychlost světla.",
+   "Že pravděpodobnosti nedávají v součtu jedničku."
+  ]
+ },
+ {
+  "id": "kva-C10",
+  "text": "Odkud pochází Einsteinovo „strašidelné působení na dálku“?",
+  "options": [
+   "Z Einsteinovy přednášky na Solvayské konferenci 1927.",
+   "Z Einsteinova dopisu Maxi Bornovi z roku 1947.",
+   "Z původního článku Einsteina, Podolského a Rosena.",
+   "Z Bohrovy odpovědi Einsteinovi na stránkách Nature."
+  ]
+ },
+ {
+  "id": "kva-C11",
+  "text": "Proč byla práce Johna Bella z roku 1964 zlomová?",
+  "options": [
+   "Dokázala, že kvantová mechanika je vnitřně sporná.",
+   "Umožnila poprvé přesně spočítat energii atomu helia.",
+   "Ukázala, že filosofický spor lze rozhodnout pokusem.",
+   "Vysvětlila, proč elektron nese poloviční spin."
+  ]
+ },
+ {
+  "id": "kva-C12",
+  "text": "Co říká Pauliho vylučovací princip z roku 1925?",
+  "options": [
+   "Elektron nesmí obíhat blíž než v nejnižší dráze.",
+   "Dva atomy nemohou zaujmout stejné místo v prostoru.",
+   "Světlo nemůže mít větší energii než jádro atomu.",
+   "Dva elektrony nemohou být ve stejném kvantovém stavu."
+  ]
+ },
+ {
+  "id": "kva-C13",
+  "text": "Co spin elektronu rozhodně NENÍ?",
+  "options": [
+   "Skutečné roztočení kuličky elektronu kolem vlastní osy.",
+   "Vlastní moment hybnosti, který elektron nese vždy s sebou.",
+   "Veličina, která nabývá jen několika oddělených hodnot.",
+   "Zdroj magnetického momentu, jímž elektron reaguje na pole."
+  ]
+ },
+ {
+  "id": "kva-C14",
+  "text": "Co se stalo ve Sternově–Gerlachově pokusu v roce 1922?",
+  "options": [
+   "Svazek atomů prošel magnetem zcela bez jakékoli změny.",
+   "Svazek stříbrných atomů se rozdělil na dva oddělené pruhy.",
+   "Atomy stříbra se v silném magnetickém poli zcela rozpadly.",
+   "Svazek se rozmazal do spojitého pásu, jak čekala fyzika."
+  ]
+ },
+ {
+  "id": "kva-C15",
+  "text": "Co nečekaného plynulo z Diracovy rovnice z roku 1928?",
+  "options": [
+   "Že elektron nemůže mít žádnou klidovou hmotnost.",
+   "Že se elektron pohybuje vždy rychlostí světla.",
+   "Že ke každé částici existuje její antičástice.",
+   "Že jádro atomu musí obsahovat i volné elektrony."
+  ]
+ },
+ {
+  "id": "kva-C16",
+  "text": "Jak laicky popsat Feynmanovy dráhové integrály?",
+  "options": [
+   "Částice si vybere nejkratší dráhu a tou vždy projde.",
+   "Dráha částice se počítá zpětně až po jejím dopadu.",
+   "Částice se pohybuje po dráze s nejmenší energií.",
+   "Sečteme příspěvky všech myslitelných drah mezi body."
+  ]
+ },
+ {
+  "id": "kva-C17",
+  "text": "Co znamená renormalizace v kvantové teorii pole?",
+  "options": [
+   "Postup, jak nekonečna schovat do měřené hmotnosti a náboje.",
+   "Metoda, jak zaokrouhlit výsledky na měřitelný počet číslic.",
+   "Přepočet výsledků z jedné soustavy jednotek do druhé.",
+   "Způsob, jak z teorie odstranit záporné pravděpodobnosti."
+  ]
+ },
+ {
+  "id": "kva-C18",
+  "text": "Čím je proslulá kvantová elektrodynamika?",
+  "options": [
+   "Je jedinou teorií, která spojuje gravitaci s kvanty.",
+   "Její předpověď souhlasí s měřením na dvanáct číslic.",
+   "Je to teorie fyziky bez jediného volného parametru.",
+   "Jako jediná popisuje i chování atomových jader."
+  ]
+ },
+ {
+  "id": "kva-C19",
+  "text": "Co znamená druhá mocnina velikosti amplitudy vlnové funkce?",
+  "options": [
+   "Celkovou energii, kterou částice v daném bodě nese.",
+   "Rychlost, s jakou se vlnová funkce v prostoru šíří.",
+   "Pravděpodobnost, že částici najdeme právě v tom bodě.",
+   "Náboj, který částice v daném místě prostoru rozprostírá."
+  ]
+ },
+ {
+  "id": "kva-C20",
+  "text": "Co je Hilbertův prostor v kvantové teorii?",
+  "options": [
+   "Trojrozměrný prostor, v němž se částice reálně pohybuje.",
+   "Zvláštní oblast kolem jádra, kde smí být jen elektrony.",
+   "Prostor mezi dvěma zrcadly, v němž se skládají vlny.",
+   "Abstraktní prostor, jehož body jsou možné stavy systému."
+  ]
+ },
+ {
+  "id": "kva-C21",
+  "text": "Co laicky říkají komutační relace mezi polohou a hybností?",
+  "options": [
+   "Že na pořadí obou měření či operací opravdu záleží.",
+   "Že poloha i hybnost jsou vždy celočíselné násobky.",
+   "Že poloha a hybnost spolu nijak nesouvisejí.",
+   "Že součin polohy a hybnosti je stálou veličinou."
+  ]
+ },
+ {
+  "id": "kva-C22",
+  "text": "Co požaduje Bohrův princip korespondence?",
+  "options": [
+   "Aby každá kvantová veličina měla klasický protějšek.",
+   "Aby teorie v mezním případě dala klasické výsledky.",
+   "Aby se všechny konstanty teorie daly odvodit z pozorování.",
+   "Aby dvě soupeřící teorie používaly stejné označení veličin."
+  ]
+ },
+ {
+  "id": "kva-C23",
+  "text": "Co říká Ehrenfestův teorém z roku 1927?",
+  "options": [
+   "Že každá kvantová veličina má nejistotu danou konstantou.",
+   "Že se vlnová funkce s časem nutně rozplývá do prostoru.",
+   "Že střední hodnoty veličin se řídí klasickými rovnicemi.",
+   "Že energii systému nelze změřit rychleji než za jistý čas."
+  ]
+ },
+ {
+  "id": "kva-C24",
+  "text": "Co spolu spojuje teorém Emmy Noetherové z roku 1918?",
+  "options": [
+   "Hmotnost tělesa s energií, kterou v klidu obsahuje.",
+   "Teplotu plynu se střední rychlostí jeho molekul.",
+   "Náboj částice se silou, jíž působí na jinou částici.",
+   "Symetrii zákona se zachovávající se veličinou."
+  ]
+ },
+ {
+  "id": "kva-C25",
+  "text": "Čím je standardní model částicové fyziky?",
+  "options": [
+   "Kvantovou teorií pole popisující tři ze čtyř sil.",
+   "Klasickou teorií pole, z níž plyne i gravitace.",
+   "Statistickým modelem chování plynů při nízkých teplotách.",
+   "Souborem tabulek naměřených hmotností všech částic."
+  ]
+ },
+ {
+  "id": "kva-C26",
+  "text": "V kterém roce představil Max Planck svůj vyzařovací zákon?",
+  "options": [
+   "1887",
+   "1900",
+   "1913",
+   "1925"
+  ]
+ },
+ {
+  "id": "kva-C27",
+  "text": "Co ukázal Comptonův pokus z roku 1923?",
+  "options": [
+   "Že se rentgenové záření v kovu beze zbytku pohltí.",
+   "Že se elektron při srážce se zářením mění na foton.",
+   "Že se foton sráží s elektronem jako částice.",
+   "Že světlo mění barvu podle rychlosti svého zdroje."
+  ]
+ },
+ {
+  "id": "kva-C28",
+  "text": "Podle čeho se částice dělí na fermiony a bosony?",
+  "options": [
+   "Podle toho, zda nesou elektrický náboj, nebo ne.",
+   "Podle své hmotnosti, hranicí je hmotnost protonu.",
+   "Podle toho, zda mohou existovat i mimo atomové jádro.",
+   "Podle spinu: poločíselného, nebo celočíselného."
+  ]
+ },
+ {
+  "id": "kva-C29",
+  "text": "Čím Arnold Sommerfeld v roce 1916 rozšířil Bohrův model?",
+  "options": [
+   "Přidal eliptické dráhy a vysvětlil jemnou strukturu čar.",
+   "Nahradil elektrony vlnovými balíky s konečnou šířkou.",
+   "Zavedl do modelu atomu druhé, záporně nabité jádro.",
+   "Dokázal, že elektron obíhá rychleji, než se šíří světlo."
+  ]
+ },
+ {
+  "id": "kva-C30",
+  "text": "Čím přispěl John von Neumann knihou z roku 1932?",
+  "options": [
+   "Poprvé experimentálně změřil spin volného elektronu.",
+   "Dal kvantové mechanice přesný matematický základ.",
+   "Odvodil z kvantové teorie hodnotu Planckovy konstanty.",
+   "Ukázal, že kvantová mechanika je vnitřně rozporná."
+  ]
+ },
+ {
+  "id": "kva-C31",
+  "text": "Co Niels Bohr nazýval komplementaritou?",
+  "options": [
+   "Že se dvě různé částice mohou doplnit na jeden celek.",
+   "Že součet pravděpodobností všech výsledků dává jedničku.",
+   "Že vlnový a částicový popis se doplňují, ale nesejdou.",
+   "Že každý zákon fyziky má svůj zrcadlový protějšek."
+  ]
+ },
+ {
+  "id": "kva-C32",
+  "text": "Za co byla udělena Nobelova cena za fyziku za rok 1965?",
+  "options": [
+   "Za objev antiprotonu při pokusech v laboratoři v Berkeley.",
+   "Za teorii supravodivosti a její experimentální potvrzení.",
+   "Za objev reliktního záření pocházejícího z raného vesmíru.",
+   "Za dotažení kvantové elektrodynamiky včetně renormalizace."
+  ]
+ }
+]

@@ -1,0 +1,514 @@
+[
+  {
+    "id": "kva-B01",
+    "type": "F",
+    "category": "kvantovka",
+    "text": "Co je jádrem Shorova algoritmu — úloha, kterou kvantová část skutečně řeší?",
+    "options": [
+      "Nalezení periody funkce a^x mod N pomocí kvantové Fourierovy transformace",
+      "Postupné dělení čísla N všemi prvočísly menšími než jeho odmocnina",
+      "Prohledání seznamu všech možných dělitelů N v jediném kroku měření",
+      "Rozklad čísla N na součin dvou faktorů přímým řešením kvadratické rovnice"
+    ],
+    "correct": 0,
+    "explanation": "Shorův algoritmus není kvantová 'faktorizační mašina'. Rozklad se klasicky převede na hledání periody funkce a^x mod N a teprve tuhle periodu najde kvantový obvod pomocí Fourierovy transformace. Zbytek výpočtu — včetně největšího společného dělitele — běží na obyčejném procesoru.",
+    "seedElo": 1500,
+    "source": "Peter Shor, Algorithms for Quantum Computation: Discrete Logarithms and Factoring (FOCS 1994)"
+  },
+  {
+    "id": "kva-B02",
+    "type": "F",
+    "category": "kvantovka",
+    "text": "Které dnes běžné kryptosystémy by dostatečně velký kvantový počítač se Shorovým algoritmem prolomil?",
+    "options": [
+      "Jen RSA; Diffie-Hellman a eliptické křivky zůstávají zcela bezpečné",
+      "RSA, Diffie-Hellmana i kryptografii nad eliptickými křivkami",
+      "Všechny šifry včetně AES-256, u nějž klesne bezpečnost na nulu",
+      "Pouze hašovací funkce typu SHA-256 a na nich stavěné podpisy"
+    ],
+    "correct": 1,
+    "explanation": "Shorův algoritmus umí efektivně nejen faktorizovat, ale i řešit diskrétní logaritmus — a na tom stojí Diffie-Hellman i eliptické křivky. Padá tedy celá dnešní veřejnoklíčová infrastruktura. Symetrické šifry a haše padají jen 'napůl', a to kvůli Groverovi, ne Shorovi.",
+    "seedElo": 1600,
+    "source": "Peter Shor (1994/1997); NIST IR 8105, Report on Post-Quantum Cryptography"
+  },
+  {
+    "id": "kva-B03",
+    "type": "F",
+    "category": "kvantovka",
+    "text": "Jaké zrychlení nabízí Groverův algoritmus při prohledávání nesetříděné databáze?",
+    "options": [
+      "Exponenciální: z N kroků na log N, podobně jako Shorův algoritmus",
+      "Žádné prokazatelné; jde jen o heuristiku bez důkazu dolní meze",
+      "Kvadratické: místo řádu N kroků stačí řád odmocniny z N",
+      "Lineární: konstantně zrychlí prohledávání zhruba o faktor deset"
+    ],
+    "correct": 2,
+    "explanation": "Grover dává pouze kvadratické zrychlení — z N na zhruba odmocninu z N dotazů. Navíc je dokázáno, že lépe to nejde: jde o optimum pro černou skříňku. Populární představa 'kvantový počítač prohledá všechno naráz' je tedy mylná i u té nejtypičtější vyhledávací úlohy.",
+    "seedElo": 1500,
+    "source": "Lov Grover, A Fast Quantum Mechanical Algorithm for Database Search (1996); Bennett–Bernstein–Brassard–Vazirani (1997)"
+  },
+  {
+    "id": "kva-B04",
+    "type": "F",
+    "category": "kvantovka",
+    "text": "Proč se kvůli Groverovu algoritmu doporučuje u symetrických šifer zdvojnásobit délku klíče?",
+    "options": [
+      "Protože Grover snižuje efektivní bezpečnost klíče zhruba na polovinu bitů",
+      "Protože Grover umí odvodit klíč přímo z jediného páru vstup–výstup",
+      "Protože Grover dokáže obejít lavinový efekt v každé blokové šifře",
+      "Protože Grover rozkládá klíč na prvočinitele stejně jako Shorův postup"
+    ],
+    "correct": 0,
+    "explanation": "Hrubá síla nad klíčem délky n bitů znamená 2^n pokusů; Grover je zredukuje na řád 2^(n/2). Ze 128bitového klíče se tak stane efektivně 64bitový, proto se doporučuje AES-256. V praxi je i tak Groverovo zrychlení sporné, protože vyžaduje obrovský sériový kvantový obvod.",
+    "seedElo": 1700,
+    "source": "NIST IR 8105; Grassl, Langenberg, Roetteler, Steinwandt, Applying Grover's Algorithm to AES (2016)"
+  },
+  {
+    "id": "kva-B05",
+    "type": "F",
+    "category": "kvantovka",
+    "text": "Proč nelze kvantovou informaci chránit prostým zkopírováním qubitu do tří kopií?",
+    "options": [
+      "Protože kvantové kopírky by porušily zákon zachování energie v obvodu",
+      "Protože teorém o nemožnosti klonování zakazuje kopii neznámého stavu",
+      "Protože každý qubit lze zkopírovat nejvýše dvakrát, nikdy však třikrát",
+      "Protože kopírování je možné, jen je pro dnešní hardware příliš pomalé"
+    ],
+    "correct": 1,
+    "explanation": "Lineární povaha kvantové evoluce vylučuje univerzální kopírku neznámých stavů. Kvantová chybová korekce proto informaci nekopíruje, ale rozprostírá ji do provázaného stavu více qubitů a měří jen takzvané syndromy — údaje o chybě, které samotný chráněný stav neprozradí.",
+    "seedElo": 1650,
+    "source": "Wootters & Zurek, A single quantum cannot be cloned, Nature (1982)"
+  },
+  {
+    "id": "kva-B06",
+    "type": "K",
+    "category": "kvantovka",
+    "text": "Co tvrdí prahový teorém (threshold theorem) kvantové chybové korekce?",
+    "options": [
+      "Existuje práh, pod který nelze chybovost fyzických hradel nikdy stlačit",
+      "Po překročení tisíce qubitů začnou chyby klesat samovolně s velikostí",
+      "Korekci lze provádět jen tehdy, je-li počet qubitů mocninou dvojky",
+      "Klesne-li chybovost operací pod jistý práh, lze chybu potlačit libovolně"
+    ],
+    "correct": 3,
+    "explanation": "Prahový teorém je důvod, proč se kvantové počítače vůbec berou vážně: pokud fyzická chybovost klesne pod určitou mez (podle modelu typicky kolem 10^-2 až 10^-4), lze přidáváním dalších qubitů snižovat logickou chybovost exponenciálně. Cenou je obrovská režie fyzických qubitů na jeden logický.",
+    "seedElo": 1850,
+    "source": "Aharonov & Ben-Or (1997); Knill, Laflamme & Zurek, Resilient Quantum Computation (1998)"
+  },
+  {
+    "id": "kva-B07",
+    "type": "K",
+    "category": "kvantovka",
+    "text": "Co je logický qubit ve srovnání s fyzickým qubitem?",
+    "options": [
+      "Fyzický qubit, který byl softwarově přejmenován kvůli přehlednosti kódu",
+      "Qubit uložený v klasické paměti počítače, jenž řídí kvantový procesor",
+      "Jediný obzvlášť kvalitní fyzický qubit vybraný z čipu jako referenční",
+      "Stav rozprostřený přes mnoho fyzických qubitů, chráněný korekčním kódem"
+    ],
+    "correct": 3,
+    "explanation": "Logický qubit je zakódovaný stav uložený redundantně v mřížce fyzických qubitů, u nichž se průběžně měří syndromy a chyby se opravují. U povrchového kódu se pro prakticky užitečnou logickou chybovost odhadují stovky až tisíce fyzických qubitů na jeden logický — proto je propast mezi 'počtem qubitů' v tiskové zprávě a užitečným výkonem tak velká.",
+    "seedElo": 1800,
+    "source": "Fowler, Mariantoni, Martinis & Cleland, Surface codes: Towards practical large-scale quantum computation, PRA (2012)"
+  },
+  {
+    "id": "kva-B08",
+    "type": "F",
+    "category": "kvantovka",
+    "text": "Co v žargonu supravodivých qubitů rozlišují časy T1 a T2?",
+    "options": [
+      "T1 je délka jednoho hradla, T2 délka celého kvantového obvodu v čipu",
+      "T1 je teplota kryostatu, T2 teplota vlastního čipu měřená termistorem",
+      "T1 je doba relaxace energie, T2 doba ztráty fázové soudržnosti stavu",
+      "T1 je doba čtení výsledku, T2 doba přípravy qubitu do základního stavu"
+    ],
+    "correct": 2,
+    "explanation": "T1 měří, jak dlouho qubit vydrží v excitovaném stavu, než energii odevzdá okolí. T2 měří, jak dlouho si udrží definovaný fázový vztah mezi svými složkami; vždy platí T2 nejvýše 2·T1. Pro výpočet je klíčový poměr těchto časů k délce jednoho hradla — ten určuje, kolik operací se stihne.",
+    "seedElo": 1700,
+    "source": "Krantz et al., A Quantum Engineer's Guide to Superconducting Qubits, Applied Physics Reviews (2019)"
+  },
+  {
+    "id": "kva-B09",
+    "type": "F",
+    "category": "kvantovka",
+    "text": "Za jakých podmínek pracují supravodivé transmonové qubity?",
+    "options": [
+      "Při pokojové teplotě, řízeny viditelným světlem z polovodičové diody",
+      "Při desítkách milikelvinů, řízeny mikrovlnnými pulzy v řádu gigahertzů",
+      "Při teplotě kapalného dusíku, řízeny stejnosměrným napěťovým pulzem",
+      "Ve vysokém vakuu za pokojové teploty, řízeny fokusovaným svazkem iontů"
+    ],
+    "correct": 1,
+    "explanation": "Transmon je nelineární obvod s Josephsonovým přechodem, jehož dva nejnižší energetické stavy dělí energie odpovídající zhruba 5 GHz. Aby tepelný šum stav nepřebíjel, musí být čip v ředicím kryostatu na několika desítkách milikelvinů. Řídí se mikrovlnnými pulzy dlouhými desítky nanosekund.",
+    "seedElo": 1650,
+    "source": "Koch et al., Charge-insensitive qubit design derived from the Cooper pair box, PRA (2007)"
+  },
+  {
+    "id": "kva-B10",
+    "type": "F",
+    "category": "kvantovka",
+    "text": "Čím se iontové pasti typicky liší od supravodivých qubitů?",
+    "options": [
+      "Mají výrazně delší koherenci a přesnější hradla, ale pomalejší operace",
+      "Mají kratší koherenci i horší hradla, zato pracují za pokojové teploty",
+      "Nepotřebují lasery ani vakuum, protože ionty drží pevná krystalová mřížka",
+      "Umožňují jen měření, nikoli provádění dvouqubitových logických hradel"
+    ],
+    "correct": 0,
+    "explanation": "Zachycené ionty jsou identické od přírody, mají koherenční časy v řádu sekund i déle a dosahují nejvyšších věrností hradel. Platí se za to rychlostí: laserem řízená hradla trvají mikrosekundy až desítky mikrosekund, tedy o tři řády déle než u supravodivých čipů. Škálování na velké registry je zde hlavní překážkou.",
+    "seedElo": 1700,
+    "source": "Cirac & Zoller (1995); Bruzewicz, Chiaverini, McConnell & Sage, Trapped-ion quantum computing, Applied Physics Reviews (2019)"
+  },
+  {
+    "id": "kva-B11",
+    "type": "K",
+    "category": "kvantovka",
+    "text": "Co je hlavní potíží fotonických kvantových počítačů?",
+    "options": [
+      "Fotony rychle dekoherují už po několika centimetrech letu ve vlákně",
+      "Fotony spolu prakticky neinteragují, takže dvoufotonová hradla jsou těžká",
+      "Fotony nelze detekovat jednotlivě, měří se vždy jen intenzita svazku",
+      "Fotony vyžadují chlazení pod jeden milikelvin, jinak se rozpadají"
+    ],
+    "correct": 1,
+    "explanation": "Slabá interakce je pro fotony požehnání i prokletí: skvěle drží koherenci a snadno se přenášejí, ale právě proto se z nich těžko staví podmíněná hradla. Řešení KLM ukázalo, že to jde s pomocí měření a pomocných fotonů — za cenu pravděpodobnostního chodu a obrovských nároků na zdroje a detektory.",
+    "seedElo": 1800,
+    "source": "Knill, Laflamme & Milburn, A scheme for efficient quantum computation with linear optics, Nature (2001)"
+  },
+  {
+    "id": "kva-B12",
+    "type": "F",
+    "category": "kvantovka",
+    "text": "Na čem staví naděje vkládané do topologických qubitů?",
+    "options": [
+      "Na tom, že informace je uložena v nelokálních vlastnostech odolných k šumu",
+      "Na tom, že jejich výroba je levná a zvládne ji běžná křemíková továrna",
+      "Na tom, že nepotřebují žádnou chybovou korekci ani měření syndromu",
+      "Na tom, že jediný takový qubit nahradí celý klasický superpočítač"
+    ],
+    "correct": 0,
+    "explanation": "Kitaevova myšlenka je uložit informaci do globální, topologické vlastnosti systému (například vzájemné polohy Majoranových kvazičástic), kterou lokální porucha nezmění. Hardwarová odolnost by dramaticky snížila režii korekce. Zádrhel je experimentální: existence a ovladatelnost potřebných kvazičástic zůstává předmětem sporů.",
+    "seedElo": 1850,
+    "source": "Alexei Kitaev, Fault-tolerant quantum computation by anyons, Annals of Physics (2003)"
+  },
+  {
+    "id": "kva-B13",
+    "type": "F",
+    "category": "kvantovka",
+    "text": "Co označuje pojem NISQ, který zavedl John Preskill?",
+    "options": [
+      "Normu pro měření kvality qubitů přijatou americkým úřadem NIST",
+      "Éru strojů s desítkami až stovkami zašuměných qubitů bez plné korekce",
+      "Třídu úloh, jež kvantový počítač vyřeší rychleji než klasický stroj",
+      "Standardní rozhraní pro programování kvantových obvodů v Pythonu"
+    ],
+    "correct": 1,
+    "explanation": "NISQ znamená 'noisy intermediate-scale quantum' — dnešní procesory jsou dost velké, aby se nedaly snadno simulovat, ale příliš zašuměné na chybovou korekci. Preskill sám varoval, že NISQ stroje pravděpodobně nepřinesou komerčně převratné aplikace a jsou spíš mezistupněm k odolným strojům.",
+    "seedElo": 1700,
+    "source": "John Preskill, Quantum Computing in the NISQ era and beyond, Quantum 2, 79 (2018)"
+  },
+  {
+    "id": "kva-B14",
+    "type": "F",
+    "category": "kvantovka",
+    "text": "Co konkrétně Google v roce 2019 tvrdil o procesoru Sycamore a jak zněla hlavní námitka?",
+    "options": [
+      "Že rozložil 2048bitové RSA; kritici namítli, že šlo o klasickou simulaci",
+      "Že splnil úlohu za dny místo let; kritici uvedli chybu v kalibraci čipu",
+      "Že úlohu zvládl za minuty místo tisíců let; IBM odhadla jen dny",
+      "Že poprvé provozoval logický qubit; kritici zpochybnili čistotu hradel"
+    ],
+    "correct": 2,
+    "explanation": "Sycamore s 53 qubity vzorkoval výstupy náhodných obvodů za zhruba 200 sekund; Google odhadl klasický ekvivalent na 10 000 let. IBM vzápětí ukázala, že s chytrým využitím diskového úložiště by superpočítač Summit zvládl totéž za dny. Pozdější klasické algoritmy náskok stlačily ještě víc — a úloha sama nemá praktické využití.",
+    "seedElo": 1800,
+    "source": "Arute et al., Quantum supremacy using a programmable superconducting processor, Nature 574 (2019); Pednault et al. (IBM), arXiv:1910.09534"
+  },
+  {
+    "id": "kva-B15",
+    "type": "F",
+    "category": "kvantovka",
+    "text": "Na čem stojí bezpečnost protokolu BB84 pro distribuci klíče?",
+    "options": [
+      "Na výpočetní obtížnosti rozkladu velkých čísel na prvočinitele",
+      "Na tom, že odposlech nutně naruší stavy a zvýší chybovost přenosu",
+      "Na tom, že fotony putují rychleji než jakýkoli myslitelný odposlech",
+      "Na sdíleném tajném klíči, který strany získaly osobním setkáním"
+    ],
+    "correct": 1,
+    "explanation": "Bennett a Brassard nechávají odesílatele kódovat bity náhodně ve dvou neslučitelných bázích. Odposlouchávající musí měřit, aniž ví, kterou bázi zvolit, a tím zanáší chyby. Strany si veřejně porovnají vzorek bitů: pokud je chybovost nad prahem, klíč zahodí. Bezpečnost tedy plyne z fyziky, ne z výpočetní složitosti.",
+    "seedElo": 1600,
+    "source": "Bennett & Brassard, Quantum cryptography: Public key distribution and coin tossing (1984)"
+  },
+  {
+    "id": "kva-B16",
+    "type": "K",
+    "category": "kvantovka",
+    "text": "Jakou roli hraje teorém o nemožnosti klonování v kvantové kryptografii?",
+    "options": [
+      "Znemožňuje útočníkovi pořídit si věrnou kopii letících kvantových stavů",
+      "Zaručuje, že klíč vygenerovaný protokolem bude vždy dokonale náhodný",
+      "Umožňuje příjemci ověřit totožnost odesílatele bez sdíleného tajemství",
+      "Dovoluje zvýšit dosah spoje opakovaným zesílením signálu ve vlákně"
+    ],
+    "correct": 0,
+    "explanation": "Kdyby šlo stavy klonovat, útočník by si jednu kopii uložil, druhou poslal dál a po zveřejnění bází si klíč v klidu dopočítal — odposlech by nezanechal stopu. Zákaz klonování je tedy podmínkou bezpečnosti. Zároveň je to prokletí praxe: klasický optický zesilovač je vlastně kopírka, takže dosah QKD nelze prodlužovat běžnými opakovači.",
+    "seedElo": 1800,
+    "source": "Wootters & Zurek, Nature (1982); Bennett & Brassard (1984)"
+  },
+  {
+    "id": "kva-B17",
+    "type": "F",
+    "category": "kvantovka",
+    "text": "Jaký je zásadní rozdíl mezi kvantovou distribucí klíče a postkvantovou kryptografií?",
+    "options": [
+      "QKD i postkvantová kryptografie shodně vyžadují speciální optické vlákno",
+      "QKD je klasický software, postkvantová kryptografie vyžaduje kvantový hardware",
+      "QKD potřebuje speciální hardware, postkvantová kryptografie je jen software",
+      "Obojí prolomí Shorův algoritmus, liší se pouze délkou používaného klíče"
+    ],
+    "correct": 2,
+    "explanation": "Postkvantová kryptografie jsou klasické algoritmy postavené na matematických problémech, o nichž se soudí, že je kvantový počítač neumí zrychlit — nasadí se výměnou knihovny. QKD naopak vyžaduje fotonickou linku, detektory a autentizovaný klasický kanál. Řada bezpečnostních agentur proto pro běžné nasazení doporučuje postkvantovou kryptografii.",
+    "seedElo": 1750,
+    "source": "NIST IR 8105; NCSC (UK) guidance on Quantum Key Distribution (2020)"
+  },
+  {
+    "id": "kva-B18",
+    "type": "F",
+    "category": "kvantovka",
+    "text": "Na jaké matematické problémy sází většina algoritmů vybraných v soutěži NIST na postkvantovou kryptografii?",
+    "options": [
+      "Na rozklad součinu dvou velkých prvočísel, jen s mnohem delšími klíči",
+      "Na diskrétní logaritmus v grupách bodů na eliptických křivkách nad tělesy",
+      "Na fyzikální nemožnost změřit kvantový stav bez jeho současného narušení",
+      "Na obtížné úlohy v bodových mřížkách, hlavně na hledání krátkých vektorů"
+    ],
+    "correct": 3,
+    "explanation": "Vítězný ML-KEM (dříve CRYSTALS-Kyber) i podpisové ML-DSA stojí na mřížkových problémech typu Learning With Errors, pro něž není znám efektivní kvantový algoritmus. Doplňkově NIST standardizoval podpisy založené na hašovacích funkcích. Naopak schémata z izogenií eliptických křivek — SIKE — padla roku 2022 na obyčejném notebooku.",
+    "seedElo": 1850,
+    "source": "NIST FIPS 203/204/205 (2024); Castryck & Decru, An efficient key recovery attack on SIDH (2022)"
+  },
+  {
+    "id": "kva-B19",
+    "type": "F",
+    "category": "kvantovka",
+    "text": "Jak je od roku 1967 definována sekunda v soustavě SI?",
+    "options": [
+      "Jako 1/86400 středního slunečního dne měřeného na greenwichském poledníku",
+      "Jako doba, za kterou světlo urazí ve vakuu přesně 299 792 458 metrů",
+      "Jako 9 192 631 770 period záření odpovídajícího přechodu v atomu cesia",
+      "Jako perioda kmitů křemenného krystalu ochlazeného na absolutní nulu"
+    ],
+    "correct": 2,
+    "explanation": "Sekunda je od 13. generální konference pro váhy a míry svázána s přechodem mezi dvěma hladinami velmi jemné struktury základního stavu atomu cesia-133. Kvantový přechod je definičně stejný pro každý atom ve vesmíru, takže etalon nikam neputuje a nestárne — to je důvod, proč se od astronomických definic ustoupilo.",
+    "seedElo": 1450,
+    "source": "13. CGPM (1967/68), rezoluce 1; SI Brochure, BIPM"
+  },
+  {
+    "id": "kva-B20",
+    "type": "K",
+    "category": "kvantovka",
+    "text": "Co dokážou dnešní optické atomové hodiny předvést kromě lepšího měření času?",
+    "options": [
+      "Změřit hmotnost jednotlivého atomu s přesností na jeden elektron",
+      "Zaznamenat průchod gravitační vlny bez použití laserového interferometru",
+      "Určit polohu na Zemi s přesností pod jeden milimetr bez družic",
+      "Ukázat rozdíl v běhu času při zvednutí hodin o pouhé centimetry"
+    ],
+    "correct": 3,
+    "explanation": "Optické hodiny s ionty nebo mřížkou neutrálních atomů dosahují relativní nejistoty pod 10^-18. Při takové přesnosti je gravitační dilatace času měřitelná na výškovém rozdílu centimetrů — a v jednom mračnu ultrachladných atomů dokonce napříč milimetrem. Vzniká tak 'relativistická geodézie': hodiny měří rozdíly gravitačního potenciálu.",
+    "seedElo": 1900,
+    "source": "Chou, Hume, Rosenband & Wineland, Optical Clocks and Relativity, Science 329 (2010); Bothwell et al., Nature 602 (2022)"
+  },
+  {
+    "id": "kva-B21",
+    "type": "F",
+    "category": "kvantovka",
+    "text": "K čemu slouží SQUID a na jakém jevu stojí?",
+    "options": [
+      "K měření nepatrných magnetických polí; využívá Josephsonovy přechody",
+      "K chlazení qubitů pod milikelvin; využívá adiabatickou demagnetizaci",
+      "K zesílení slabých rádiových signálů; využívá lavinový průraz diody",
+      "K měření teploty v kryostatu; využívá odpor supravodivého filmu"
+    ],
+    "correct": 0,
+    "explanation": "SQUID je supravodivá smyčka přerušená Josephsonovými přechody. Magnetický tok smyčkou je kvantován a proud smyčkou na něj reaguje periodicky, takže přístroj rozliší zlomky kvanta toku. Používá se v magnetoencefalografii, v geofyzice i jako mimořádně tichý zesilovač pro čtení supravodivých qubitů.",
+    "seedElo": 1650,
+    "source": "Josephson (1962); Jaklevic, Lambe, Silver & Mercereau, PRL 12 (1964)"
+  },
+  {
+    "id": "kva-B22",
+    "type": "F",
+    "category": "kvantovka",
+    "text": "Jak kvantová optika pomohla zlepšit citlivost detektorů gravitačních vln?",
+    "options": [
+      "Nahrazením zrcadel supravodivými plochami, jež odrážejí naprosto vše světlo",
+      "Vstřikováním stlačeného světla, které potlačí kvantový šum měření fáze",
+      "Použitím provázaných fotonů putujících oběma rameny interferometru",
+      "Chlazením laserového svazku na milikelvinové teploty před vysláním"
+    ],
+    "correct": 1,
+    "explanation": "Citlivost interferometru je limitována kvantovým šumem světla. Stlačený (squeezed) stav umožňuje přerozdělit neurčitost mezi fází a amplitudou tak, že šum ve sledované veličině klesne pod běžnou mez. LIGO a Virgo takové světlo rutinně vstřikují od roku 2019 a rozšířily tím dosah detekce o desítky procent.",
+    "seedElo": 1950,
+    "source": "Caves, Quantum-mechanical noise in an interferometer, PRD (1981); Tse et al., PRL 123 (2019)"
+  },
+  {
+    "id": "kva-B23",
+    "type": "F",
+    "category": "kvantovka",
+    "text": "Jak dnes vypadá stav důkazů o takzvané kvantové koherenci ve fotosyntetických komplexech?",
+    "options": [
+      "Dlouhotrvající elektronová koherence je prokázána i za pokojové teploty",
+      "Koherence byla vyvrácena, měřené signály pocházely z chyby přístroje",
+      "Původní signály jsou dnes vykládány spíše jako vibrační, ne elektronové",
+      "Koherence je doložena jen u rostlin, nikoli u fotosyntetických bakterií"
+    ],
+    "correct": 2,
+    "explanation": "Práce z let 2007 a dále ukázaly ve dvourozměrné spektroskopii komplexu FMO oscilační signály, které byly interpretovány jako dlouhá elektronová koherence pomáhající přenosu energie. Novější měření a analýzy je připisují převážně vibračním pohybům jader a odhadují elektronovou koherenci na desítky femtosekund. Kvantové efekty v přenosu tedy nejsou popřeny, ale role 'kvantového urychlení' je dnes hodnocena mnohem střízlivěji.",
+    "seedElo": 1900,
+    "source": "Engel et al., Nature 446 (2007); Duan et al., PNAS 114 (2017); Cao et al., Science Advances 6 (2020)"
+  },
+  {
+    "id": "kva-B24",
+    "type": "K",
+    "category": "kvantovka",
+    "text": "Co říká hypotéza radikálových párů o magnetickém smyslu ptáků?",
+    "options": [
+      "Železné krystalky v zobáku se natáčejí podle siločar magnetického pole",
+      "Pták vnímá indukované napětí vznikající při letu napříč siločarami",
+      "Magnetické pole mění rychlost nervových vzruchů v optickém nervu",
+      "Pole ovlivňuje spinový stav dvojice radikálů v očním kryptochromu"
+    ],
+    "correct": 3,
+    "explanation": "Podle Schultenovy hypotézy vytvoří světlo v bílkovině kryptochrom dvojici radikálů se spřaženými spiny; slabé magnetické pole mění poměr singletového a tripletového stavu, a tím výtěžek reakce. Sedí to s tím, že orientace tažných ptáků závisí na světle a ruší ji slabá radiofrekvenční pole. Doloženo je, že kryptochrom CRY4 je na pole citlivý in vitro; celý smyslový řetězec v živém ptákovi ale prokázán není.",
+    "seedElo": 1950,
+    "source": "Ritz, Adem & Schulten, Biophysical Journal 78 (2000); Xu et al., Nature 594 (2021); Hore & Mouritsen, Annual Review of Biophysics (2016)"
+  },
+  {
+    "id": "kva-B25",
+    "type": "F",
+    "category": "kvantovka",
+    "text": "Čemu vděčí rastrovací tunelový mikroskop za svou atomární rozlišovací schopnost?",
+    "options": [
+      "Vlnová délka použitých elektronů je menší než rozměr jednoho atomu",
+      "Hrot se povrchu dotýká a měří elektrický odpor kontaktu s jednotlivými atomy",
+      "Tunelový proud klesá s rostoucí mezerou exponenciálně, tedy velmi prudce",
+      "Detekuje rentgenové záření vznikající dopadem elektronů na povrch"
+    ],
+    "correct": 2,
+    "explanation": "Proud mezi hrotem a vzorkem klesá zhruba o řád na každý ångström vzdálenosti. Prakticky celý proud proto teče jediným nejbližším atomem hrotu, což dává boční rozlišení pod velikost atomu a výškové ještě lepší. Binnig a Rohrer za to dostali roku 1986 Nobelovu cenu.",
+    "seedElo": 1650,
+    "source": "Binnig, Rohrer, Gerber & Weibel, Surface Studies by Scanning Tunneling Microscopy, PRL 49 (1982)"
+  },
+  {
+    "id": "kva-B26",
+    "type": "F",
+    "category": "kvantovka",
+    "text": "Který kvantový jev popsaný Einsteinem už v roce 1917 stojí za funkcí laseru?",
+    "options": [
+      "Stimulovaná emise: foton vyvolá vyzáření dalšího fotonu téže fáze",
+      "Fotoelektrický jev: dopadající foton vyrazí z kovu volný elektron",
+      "Comptonův rozptyl: foton předá část energie vázanému elektronu",
+      "Spontánní emise: excitovaný atom vyzáří foton v náhodném směru"
+    ],
+    "correct": 0,
+    "explanation": "Einstein zavedl koeficienty popisující absorpci, spontánní a stimulovanou emisi, aby odvodil Planckův zákon záření. Stimulovaná emise vytváří fotony shodné ve frekvenci, fázi i směru — odtud koherence laserového svazku. Podmínkou zesilování je inverze populace, tedy více atomů v excitovaném než v základním stavu.",
+    "seedElo": 1500,
+    "source": "Albert Einstein, Zur Quantentheorie der Strahlung (1917); Maiman, Nature 187 (1960)"
+  },
+  {
+    "id": "kva-B27",
+    "type": "F",
+    "category": "kvantovka",
+    "text": "Proč se elektrony v supravodiči párují, ačkoli se navzájem odpuzují?",
+    "options": [
+      "Silné magnetické pole je k sobě přitiskne přes jejich spinové momenty",
+      "Při velmi nízké teplotě jejich efektivní náboj klesá, odpuzování zmizí",
+      "Páry drží pohromadě výměna virtuálních fotonů mezi dvěma elektrony",
+      "Zprostředkuje to mřížka: kmity iontů dají slabou efektivní přitažlivost"
+    ],
+    "correct": 3,
+    "explanation": "Letící elektron mírně stáhne k sobě kladné ionty mřížky; vzniklý přebytek náboje přitáhne druhý elektron. Tato fononem zprostředkovaná interakce je slabá, ale stačí, aby se elektrony spárovaly. Cooperovy páry mají celočíselný spin, chovají se jako bosony a mohou obsadit společný stav — odtud bezodporový tok proudu.",
+    "seedElo": 1700,
+    "source": "Bardeen, Cooper & Schrieffer, Theory of Superconductivity, Physical Review 108 (1957)"
+  },
+  {
+    "id": "kva-B28",
+    "type": "K",
+    "category": "kvantovka",
+    "text": "Co se stane s plynem bosonů ochlazeným pod kritickou teplotu?",
+    "options": [
+      "Rozpadne se na jednotlivé fermiony a začne se chovat jako kov",
+      "Makroskopická část atomů obsadí týž nejnižší kvantový stav",
+      "Atomy se uspořádají do pravidelné krystalové mřížky jako v ledu",
+      "Jeho atomy ztratí spin a přestanou reagovat na magnetické pole"
+    ],
+    "correct": 1,
+    "explanation": "Bose s Einsteinem to předpověděli už roku 1925: pod kritickou teplotou skokově naroste obsazení základního stavu a vznikne jediná makroskopická vlna. Experimentálně to bylo dosaženo v roce 1995 u rubidia a sodíku při teplotách kolem sto nanokelvinů, což vyneslo Cornellovi, Wiemanovi a Ketterlemu Nobelovu cenu.",
+    "seedElo": 1550,
+    "source": "Anderson, Ensher, Matthews, Wieman & Cornell, Science 269 (1995); Davis et al. (Ketterle), PRL 75 (1995)"
+  },
+  {
+    "id": "kva-B29",
+    "type": "F",
+    "category": "kvantovka",
+    "text": "Proč je celočíselný kvantový Hallův jev důležitý pro metrologii?",
+    "options": [
+      "Umožňuje měřit teplotu vzorku nezávisle na použitém termočlánku",
+      "Dovoluje určit hmotnost elektronu přímo z tvaru naměřené křivky",
+      "Dává absolutní stupnici magnetické indukce nezávislou na geometrii",
+      "Hallův odpor nabývá hodnot h/(ie²) téměř nezávisle na vzorku"
+    ],
+    "correct": 3,
+    "explanation": "Von Klitzing roku 1980 zjistil, že Hallův odpor dvourozměrného elektronového plynu ve schodech přesně odpovídá podílu Planckovy konstanty a druhé mocniny náboje elektronu, děleno celým číslem. Reprodukovatelnost je taková, že se od roku 1990 používá jako etalon odporu; s ním souvisejícím způsobem se dnes definuje i ampér.",
+    "seedElo": 1950,
+    "source": "von Klitzing, Dorda & Pepper, PRL 45 (1980); BIPM, mise en pratique for the ohm"
+  },
+  {
+    "id": "kva-B30",
+    "type": "F",
+    "category": "kvantovka",
+    "text": "Co je Casimirův jev?",
+    "options": [
+      "Přitažlivá síla mezi dvěma blízkými nenabitými vodivými deskami ve vakuu",
+      "Odpudivá síla mezi dvěma souhlasně nabitými deskami ponořenými do plynu",
+      "Zeslabení světla procházejícího velmi úzkou štěrbinou mezi kovovými deskami",
+      "Zahřívání kovových desek vlivem dopadu reliktního mikrovlnného záření"
+    ],
+    "correct": 0,
+    "explanation": "Mezi deskami vzdálenými zlomky mikrometru se mohou uplatnit jen některé módy elektromagnetického pole, takže tlak zvenčí převáží a desky se přitahují. Síla roste se čtvrtou mocninou převrácené vzdálenosti. Kvantitativně byla změřena v 90. letech a v mikroelektromechanických systémech působí jako reálná rušivá síla.",
+    "seedElo": 1550,
+    "source": "Hendrik Casimir (1948); Lamoreaux, PRL 78 (1997)"
+  },
+  {
+    "id": "kva-B31",
+    "type": "F",
+    "category": "kvantovka",
+    "text": "Co tvrdí Landauerův princip?",
+    "options": [
+      "Každá logická operace musí rozptýlit alespoň kT ln 2 energie do okolí",
+      "Rychlost výpočtu je shora omezena energií uloženou v procesoru",
+      "Smazání jednoho bitu informace stojí nejméně kT ln 2 vyzářeného tepla",
+      "Informaci nelze přenést rychleji, než dovoluje šířka pásma kanálu"
+    ],
+    "correct": 2,
+    "explanation": "Nevratné je až mazání, ne počítání: logicky vratné operace mohou v principu běžet s libovolně malou disipací. Zahození bitu ale sníží entropii paměti, a ta se musí objevit v okolí jako teplo nejméně kT ln 2 — při pokojové teplotě zhruba 3·10^-21 joulu. Experimentálně byl tento limit potvrzen v roce 2012 na koloidní částici v optické pasti.",
+    "seedElo": 1850,
+    "source": "Rolf Landauer, IBM Journal of Research and Development (1961); Bérut et al., Nature 483 (2012)"
+  },
+  {
+    "id": "kva-B32",
+    "type": "K",
+    "category": "kvantovka",
+    "text": "Jak se dnes řeší paradox Maxwellova démona?",
+    "options": [
+      "Démon by musel být rychlejší než světlo, což fyzika zakazuje",
+      "Molekuly nelze rozlišit podle rychlosti, protože jsou nerozlišitelné",
+      "Dvířka by musela mít nulovou hmotnost, jinak práci nezískáme",
+      "Démonova paměť se plní; její mazání vrátí entropii zpět do systému"
+    ],
+    "correct": 3,
+    "explanation": "Szilard ukázal, že démon získává práci díky informaci, a dlouho se soudilo, že cenu platí měření. Bennett to opravil: měřit lze v principu vratně, ale démon má konečnou paměť, a jakmile ji musí uvolnit, zaplatí Landauerovu daň. Účetnictví druhého zákona se tak uzavře — informace je zde fyzikální veličinou, ne metaforou.",
+    "seedElo": 1950,
+    "source": "Leó Szilárd (1929); Charles Bennett, The Thermodynamics of Computation — a Review, IJTP 21 (1982)"
+  }
+]

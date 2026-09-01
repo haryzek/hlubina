@@ -1,0 +1,514 @@
+[
+  {
+    "id": "kva-C01",
+    "type": "F",
+    "category": "kvantovka",
+    "text": "Co se skrývá pod pojmem „ultrafialová katastrofa“?",
+    "options": [
+      "Klasická fyzika předpovídala nekonečné vyzařování na krátkých vlnách.",
+      "Ultrafialové záření hvězd nešlo změřit tehdejšími přístroji vůbec.",
+      "Zdroje ultrafialového světla v laboratořích tehdy neustále selhávaly.",
+      "Ultrafialová část spektra horkých těles v měřeních zcela chyběla."
+    ],
+    "correct": 0,
+    "explanation": "Rayleighův–Jeansův zákon, odvozený z klasické fyziky, dával pro zahřáté těleso energii rostoucí nade všechny meze směrem ke krátkým vlnovým délkám. Měření nic takového neukazovala. Sám název „ultrafialová katastrofa“ zavedl až Paul Ehrenfest v roce 1911, tedy dobrých deset let po Planckově práci.",
+    "source": "Paul Ehrenfest, Annalen der Physik, 1911; Rayleigh 1900 / Jeans 1905",
+    "seedElo": 1450
+  },
+  {
+    "id": "kva-C02",
+    "type": "F",
+    "category": "kvantovka",
+    "text": "Za co dostal Albert Einstein Nobelovu cenu za fyziku?",
+    "options": [
+      "Za obecnou teorii relativity a ohyb světla v poli Slunce.",
+      "Za objev zákona fotoelektrického jevu a zásluhy o fyziku.",
+      "Za speciální teorii relativity a vztah mezi hmotou a energií.",
+      "Za vysvětlení Brownova pohybu pomocí molekulární teorie tepla."
+    ],
+    "correct": 1,
+    "explanation": "Cena za rok 1921 (předaná roku 1922) zněla na „zásluhy o teoretickou fyziku, zvláště za objev zákona fotoelektrického jevu“. Relativita se ve zdůvodnění vůbec neobjevila — byla tehdy považována za příliš spornou. Ironicky tak Einstein dostal cenu právě za práci, která pomohla nastartovat kvantovou teorii, k níž se později stavěl kriticky.",
+    "source": "Nobelova nadace, zdůvodnění ceny za fyziku 1921",
+    "seedElo": 1500
+  },
+  {
+    "id": "kva-C03",
+    "type": "F",
+    "category": "kvantovka",
+    "text": "V čem selhával Bohrův model atomu z roku 1913?",
+    "options": [
+      "Nedokázal vysvětlit čárové spektrum atomu vodíku.",
+      "Předpokládal, že atom nemá žádné kladné jádro.",
+      "Selhával už u helia, tedy u dvou elektronů v atomu.",
+      "Vylučoval existenci prvků těžších než uhlík."
+    ],
+    "correct": 2,
+    "explanation": "Pro vodík s jediným elektronem model trefil spektrální čáry pozoruhodně přesně, a to mu získalo slávu. Jakmile se ale přidal druhý elektron, jako u helia, výpočty se rozešly s měřením. Byla to jedna z hlavních pohnutek, proč Heisenberg a Schrödinger o dvanáct let později hledali úplně jiný formalismus.",
+    "source": "Niels Bohr, On the Constitution of Atoms and Molecules, Philosophical Magazine, 1913",
+    "seedElo": 1600
+  },
+  {
+    "id": "kva-C04",
+    "type": "F",
+    "category": "kvantovka",
+    "text": "S jakým nápadem přišel Louis de Broglie ve své disertaci z roku 1924?",
+    "options": [
+      "Že světlo se v prázdném prostoru šíří vlnou zvanou éter.",
+      "Že elektron je ve skutečnosti bodová částice bez rozměru.",
+      "Že energie atomu klesá se čtvercem vzdálenosti od jádra.",
+      "Že i hmotná částice má vlnovou délku danou svou hybností."
+    ],
+    "correct": 3,
+    "explanation": "De Broglie obrátil Einsteinovu myšlenku: když se světlo chová i jako částice, proč by se částice nemohla chovat i jako vlna? Přiřadil elektronu vlnovou délku rovnou Planckově konstantě dělené hybností. Za tři roky Davisson a Germer skutečně naměřili ohyb elektronů na krystalu a de Broglie dostal roku 1929 Nobelovu cenu.",
+    "source": "Louis de Broglie, Recherches sur la théorie des quanta, disertace, Paříž 1924",
+    "seedElo": 1550
+  },
+  {
+    "id": "kva-C05",
+    "type": "F",
+    "category": "kvantovka",
+    "text": "Jak dopadlo soupeření maticové a vlnové mechaniky v letech 1925–1926?",
+    "options": [
+      "Ukázalo se, že jde o dvě podoby jedné a téže teorie.",
+      "Maticovou mechaniku brzy vyvrátily experimenty s atomy.",
+      "Vlnová mechanika platí pro světlo, maticová pro hmotu.",
+      "Obě byly opuštěny a nahradil je vylepšený Bohrův model."
+    ],
+    "correct": 0,
+    "explanation": "Heisenberg s Bornem a Jordanem vybudovali roku 1925 abstraktní maticovou mechaniku, Schrödinger o rok později názornější vlnovou rovnici. Zprvu si obě školy vzájemně nadávaly do ošklivé matematiky a naivních obrázků. Ještě v roce 1926 se ale ukázalo, že popisují totéž a dají se do sebe převést.",
+    "source": "Erwin Schrödinger, Über das Verhältnis der Heisenberg-Born-Jordanschen Quantenmechanik zu der meinen, 1926",
+    "seedElo": 1700
+  },
+  {
+    "id": "kva-C06",
+    "type": "F",
+    "category": "kvantovka",
+    "text": "Čím doplnil Max Born v roce 1926 Schrödingerovu vlnovou funkci?",
+    "options": [
+      "Odvodil z ní přesnou dráhu elektronu kolem jádra atomu.",
+      "Vyložil ji jako veličinu, z níž plyne pravděpodobnost.",
+      "Dokázal, že vlnová funkce je hustota náboje v prostoru.",
+      "Ukázal, že vlnová funkce je jen matematická pomůcka."
+    ],
+    "correct": 1,
+    "explanation": "Schrödinger sám doufal, že vlnová funkce popisuje rozprostřenou hmotu nebo náboj. Born při studiu rozptylu částic navrhl jiný výklad — vlnová funkce udává, s jakou pravděpodobností dopadne výsledek. Návrh se vešel do poznámky pod čarou a Nobelovu cenu za něj Born dostal až v roce 1954.",
+    "source": "Max Born, Zur Quantenmechanik der Stoßvorgänge, Zeitschrift für Physik, 1926",
+    "seedElo": 1600
+  },
+  {
+    "id": "kva-C07",
+    "type": "F",
+    "category": "kvantovka",
+    "text": "Čemu byla věnována pátá Solvayská konference v Bruselu roku 1927?",
+    "options": [
+      "Stavbě prvního velkého urychlovače částic v Evropě.",
+      "Sjednocení gravitace s elektromagnetickým polem.",
+      "Elektronům a fotonům, tedy nové kvantové teorii.",
+      "Novému mezinárodnímu měření rychlosti světla."
+    ],
+    "correct": 2,
+    "explanation": "Konference nesla název „Elektrony a fotony“ a sešla se na ní prakticky celá zakladatelská generace kvantové fyziky. Ze slavné skupinové fotografie devětadvaceti účastníků jich sedmnáct získalo Nobelovu cenu. Právě zde proběhla první kola veřejné rozepře mezi Einsteinem a Bohrem.",
+    "source": "Institut International de Physique Solvay, Électrons et photons, Brusel 1927",
+    "seedElo": 1500
+  },
+  {
+    "id": "kva-C08",
+    "type": "K",
+    "category": "kvantovka",
+    "text": "Co Einsteinovi na nové kvantové mechanice vadilo nejvíc?",
+    "options": [
+      "Že používá příliš složitou matematiku matic a operátorů.",
+      "Že popírá existenci atomů jako reálných objektů.",
+      "Že nedokáže spočítat spektrum atomu vodíku přesně.",
+      "Že podle ní je náhoda v přírodě něčím zcela základním."
+    ],
+    "correct": 3,
+    "explanation": "Einstein nikdy nepopíral, že teorie funguje a dává správná čísla. Vadilo mu, že ji její tvůrci prohlašovali za konečnou, přestože o jednotlivém výsledku rozhoduje čirá náhoda. Věřil, že pod ní musí ležet hlubší, deterministický popis — a tuto naději nesl až do konce života.",
+    "source": "Korespondence Einstein–Born, 1926–1955 (Born-Einstein Letters)",
+    "seedElo": 1750
+  },
+  {
+    "id": "kva-C09",
+    "type": "F",
+    "category": "kvantovka",
+    "text": "Co tvrdil slavný článek Einsteina, Podolského a Rosena z roku 1935?",
+    "options": [
+      "Že kvantový popis reality nemůže být úplný.",
+      "Že v kvantové mechanice je matematická chyba.",
+      "Že v atomu nelze překročit rychlost světla.",
+      "Že pravděpodobnosti nedávají v součtu jedničku."
+    ],
+    "correct": 0,
+    "explanation": "Autoři nechtěli teorii vyvrátit, nýbrž ukázat, že něco vynechává. Na dvojici korelovaných částic argumentovali, že bychom mohli znát vlastnost vzdálené částice, aniž bychom ji rušili — takže ta vlastnost musí být skutečná už předtím. Titul článku se ptal přímo: lze kvantový popis považovat za úplný?",
+    "source": "Einstein, Podolsky, Rosen, Physical Review 47, 777, 1935",
+    "seedElo": 1700
+  },
+  {
+    "id": "kva-C10",
+    "type": "F",
+    "category": "kvantovka",
+    "text": "Odkud pochází Einsteinovo „strašidelné působení na dálku“?",
+    "options": [
+      "Z Einsteinovy přednášky na Solvayské konferenci 1927.",
+      "Z Einsteinova dopisu Maxi Bornovi z roku 1947.",
+      "Z původního článku Einsteina, Podolského a Rosena.",
+      "Z Bohrovy odpovědi Einsteinovi na stránkách Nature."
+    ],
+    "correct": 1,
+    "explanation": "Německé „spukhafte Fernwirkung“ Einstein použil v soukromé korespondenci s Maxem Bornem, nikoli v odborném článku. Vysvětloval v ní, proč nemůže přijmout obraz, v němž zásah na jednom místě okamžitě zasahuje do popisu vzdáleného systému. Fráze se ujala až mnohem později jako populární označení celého sporu.",
+    "source": "Dopis A. Einsteina M. Bornovi, 3. března 1947 (Born-Einstein Letters)",
+    "seedElo": 1800
+  },
+  {
+    "id": "kva-C11",
+    "type": "F",
+    "category": "kvantovka",
+    "text": "Proč byla práce Johna Bella z roku 1964 zlomová?",
+    "options": [
+      "Dokázala, že kvantová mechanika je vnitřně sporná.",
+      "Umožnila poprvé přesně spočítat energii atomu helia.",
+      "Ukázala, že filosofický spor lze rozhodnout pokusem.",
+      "Vysvětlila, proč elektron nese poloviční spin."
+    ],
+    "correct": 2,
+    "explanation": "Téměř třicet let se hádka o EPR pokládala za věc názoru, kterou žádný přístroj nerozsoudí. Bell ukázal, že mezi předpoklady Einsteinova tábora a předpověďmi kvantové mechaniky je měřitelný rozdíl. Filosofická otázka se tím proměnila v laboratorní úlohu — a experimenty ji od sedmdesátých let postupně rozhodly.",
+    "source": "John S. Bell, On the Einstein Podolsky Rosen Paradox, Physics 1, 195, 1964",
+    "seedElo": 1800
+  },
+  {
+    "id": "kva-C12",
+    "type": "F",
+    "category": "kvantovka",
+    "text": "Co říká Pauliho vylučovací princip z roku 1925?",
+    "options": [
+      "Elektron nesmí obíhat blíž než v nejnižší dráze.",
+      "Dva atomy nemohou zaujmout stejné místo v prostoru.",
+      "Světlo nemůže mít větší energii než jádro atomu.",
+      "Dva elektrony nemohou být ve stejném kvantovém stavu."
+    ],
+    "correct": 3,
+    "explanation": "Princip vysvětluje, proč se elektrony v atomu vrství do slupek místo aby se všechny nashromáždily nejníže. Odtud plyne stavba periodické tabulky i to, proč hmota vůbec zabírá objem a nedá se libovolně stlačit. Pauli za něj dostal Nobelovu cenu v roce 1945.",
+    "source": "Wolfgang Pauli, Zeitschrift für Physik 31, 765, 1925",
+    "seedElo": 1550
+  },
+  {
+    "id": "kva-C13",
+    "type": "K",
+    "category": "kvantovka",
+    "text": "Co spin elektronu rozhodně NENÍ?",
+    "options": [
+      "Skutečné roztočení kuličky elektronu kolem vlastní osy.",
+      "Vlastní moment hybnosti, který elektron nese vždy s sebou.",
+      "Veličina, která nabývá jen několika oddělených hodnot.",
+      "Zdroj magnetického momentu, jímž elektron reaguje na pole."
+    ],
+    "correct": 0,
+    "explanation": "Uhlenbeck a Goudsmit spin roku 1925 zavedli právě s obrazem rotující kuličky a Pauli je za to zpražil: aby elektron dal pozorovaný moment, musel by se na povrchu točit rychleji než světlo. Spin je vnitřní vlastnost částice bez klasické obdoby, podobně jako náboj. Obraz vrtící se kuličky přežívá jen jako mnemotechnická berlička.",
+    "source": "Uhlenbeck & Goudsmit, Naturwissenschaften 13, 953, 1925",
+    "seedElo": 1750
+  },
+  {
+    "id": "kva-C14",
+    "type": "F",
+    "category": "kvantovka",
+    "text": "Co se stalo ve Sternově–Gerlachově pokusu v roce 1922?",
+    "options": [
+      "Svazek atomů prošel magnetem zcela bez jakékoli změny.",
+      "Svazek stříbrných atomů se rozdělil na dva oddělené pruhy.",
+      "Atomy stříbra se v silném magnetickém poli zcela rozpadly.",
+      "Svazek se rozmazal do spojitého pásu, jak čekala fyzika."
+    ],
+    "correct": 1,
+    "explanation": "Klasická představa předpovídala rozmazaný pás, protože magnetické momenty atomů by měly mířit do všech směrů. Místo toho se na sklíčku objevily dvě zřetelné stopy. Pokus byl původně zamýšlen jako test Bohrovy–Sommerfeldovy kvantizace a jeho dnešní výklad pomocí spinu elektronu vznikl až o tři roky později.",
+    "source": "Otto Stern & Walther Gerlach, Zeitschrift für Physik 9, 349, 1922",
+    "seedElo": 1850
+  },
+  {
+    "id": "kva-C15",
+    "type": "F",
+    "category": "kvantovka",
+    "text": "Co nečekaného plynulo z Diracovy rovnice z roku 1928?",
+    "options": [
+      "Že elektron nemůže mít žádnou klidovou hmotnost.",
+      "Že se elektron pohybuje vždy rychlostí světla.",
+      "Že ke každé částici existuje její antičástice.",
+      "Že jádro atomu musí obsahovat i volné elektrony."
+    ],
+    "correct": 2,
+    "explanation": "Dirac hledal rovnici pro elektron slučitelnou se speciální relativitou a vyšla mu řešení se zápornou energií, kterých se nedokázal zbavit. Roku 1931 je vyložil jako částici se stejnou hmotností a opačným nábojem. Carl Anderson pozitron skutečně nalezl ve stopách kosmického záření už v roce 1932.",
+    "source": "P. A. M. Dirac, Proceedings of the Royal Society A 117, 610, 1928; Anderson 1932",
+    "seedElo": 1700
+  },
+  {
+    "id": "kva-C16",
+    "type": "F",
+    "category": "kvantovka",
+    "text": "Jak laicky popsat Feynmanovy dráhové integrály?",
+    "options": [
+      "Částice si vybere nejkratší dráhu a tou vždy projde.",
+      "Dráha částice se počítá zpětně až po jejím dopadu.",
+      "Částice se pohybuje po dráze s nejmenší energií.",
+      "Sečteme příspěvky všech myslitelných drah mezi body."
+    ],
+    "correct": 3,
+    "explanation": "Místo jediné trajektorie přisoudí Feynmanův přístup každé představitelné cestě z bodu A do bodu B jistý příspěvek a všechny je sečte. Většina se navzájem vyruší a přežije okolí té dráhy, kterou by zvolila klasická fyzika. Metodu Feynman rozvinul ve své disertaci z roku 1942, navazuje na starší poznámku Diracovu.",
+    "source": "R. P. Feynman, Reviews of Modern Physics 20, 367, 1948 (disertace Princeton 1942)",
+    "seedElo": 1850
+  },
+  {
+    "id": "kva-C17",
+    "type": "F",
+    "category": "kvantovka",
+    "text": "Co znamená renormalizace v kvantové teorii pole?",
+    "options": [
+      "Postup, jak nekonečna schovat do měřené hmotnosti a náboje.",
+      "Metoda, jak zaokrouhlit výsledky na měřitelný počet číslic.",
+      "Přepočet výsledků z jedné soustavy jednotek do druhé.",
+      "Způsob, jak z teorie odstranit záporné pravděpodobnosti."
+    ],
+    "correct": 0,
+    "explanation": "První výpočty v kvantové elektrodynamice dávaly na řadě míst nekonečné hodnoty. Renormalizace ukázala, že tyto nekonečné příspěvky lze beze zbytku vstřebat do definice hmotnosti a náboje, které stejně známe jen z měření. Zbytek teorie pak dává konečné a velmi přesné předpovědi.",
+    "source": "Tomonaga, Schwinger a Feynman, práce z let 1946–1949",
+    "seedElo": 1900
+  },
+  {
+    "id": "kva-C18",
+    "type": "F",
+    "category": "kvantovka",
+    "text": "Čím je proslulá kvantová elektrodynamika?",
+    "options": [
+      "Je jedinou teorií, která spojuje gravitaci s kvanty.",
+      "Její předpověď souhlasí s měřením na dvanáct číslic.",
+      "Je to teorie fyziky bez jediného volného parametru.",
+      "Jako jediná popisuje i chování atomových jader."
+    ],
+    "correct": 1,
+    "explanation": "Nejslavnějším testem je anomální magnetický moment elektronu, kde se teoretická hodnota a měření shodují na řádově dvanáct platných číslic. Jde o nejpřesněji ověřenou předpověď v dějinách fyziky. Feynman to přirovnával k měření vzdálenosti přes celé Spojené státy s přesností na tloušťku lidského vlasu.",
+    "source": "R. P. Feynman, QED: The Strange Theory of Light and Matter, 1985",
+    "seedElo": 1800
+  },
+  {
+    "id": "kva-C19",
+    "type": "F",
+    "category": "kvantovka",
+    "text": "Co znamená druhá mocnina velikosti amplitudy vlnové funkce?",
+    "options": [
+      "Celkovou energii, kterou částice v daném bodě nese.",
+      "Rychlost, s jakou se vlnová funkce v prostoru šíří.",
+      "Pravděpodobnost, že částici najdeme právě v tom bodě.",
+      "Náboj, který částice v daném místě prostoru rozprostírá."
+    ],
+    "correct": 2,
+    "explanation": "Sama vlnová funkce je komplexní číslo a nedá se přímo měřit. Fyzikální smysl má až druhá mocnina její velikosti, která udává hustotu pravděpodobnosti — tomu se říká Bornovo pravidlo. Právě proto se amplitudy skládají jinak než pravděpodobnosti a mohou se navzájem zesilovat i rušit.",
+    "source": "Max Born, Zeitschrift für Physik 37, 863, 1926",
+    "seedElo": 1650
+  },
+  {
+    "id": "kva-C20",
+    "type": "K",
+    "category": "kvantovka",
+    "text": "Co je Hilbertův prostor v kvantové teorii?",
+    "options": [
+      "Trojrozměrný prostor, v němž se částice reálně pohybuje.",
+      "Zvláštní oblast kolem jádra, kde smí být jen elektrony.",
+      "Prostor mezi dvěma zrcadly, v němž se skládají vlny.",
+      "Abstraktní prostor, jehož body jsou možné stavy systému."
+    ],
+    "correct": 3,
+    "explanation": "Není to místo, kde by se něco odehrávalo — je to matematická scéna, na níž každý možný stav systému odpovídá jednomu směru či bodu. Můžeme v něm sčítat stavy a měřit „úhly“ mezi nimi, což dává pravidla pro pravděpodobnosti. Do kvantové mechaniky ho systematicky zavedl John von Neumann roku 1932.",
+    "source": "John von Neumann, Mathematische Grundlagen der Quantenmechanik, 1932",
+    "seedElo": 1900
+  },
+  {
+    "id": "kva-C21",
+    "type": "K",
+    "category": "kvantovka",
+    "text": "Co laicky říkají komutační relace mezi polohou a hybností?",
+    "options": [
+      "Že na pořadí obou měření či operací opravdu záleží.",
+      "Že poloha i hybnost jsou vždy celočíselné násobky.",
+      "Že poloha a hybnost spolu nijak nesouvisejí.",
+      "Že součin polohy a hybnosti je stálou veličinou."
+    ],
+    "correct": 0,
+    "explanation": "V běžné algebře platí, že tři krát pět je totéž co pět krát tři. V kvantové mechanice jsou veličiny operátory a u některých dvojic dá opačné pořadí jiný výsledek — rozdíl je úměrný Planckově konstantě. Právě z této nekomutativity plynou nejpodivnější rysy teorie a byla to i výchozí myšlenka maticové mechaniky.",
+    "source": "Born, Heisenberg, Jordan, Zur Quantenmechanik II, Zeitschrift für Physik 35, 557, 1926",
+    "seedElo": 1900
+  },
+  {
+    "id": "kva-C22",
+    "type": "F",
+    "category": "kvantovka",
+    "text": "Co požaduje Bohrův princip korespondence?",
+    "options": [
+      "Aby každá kvantová veličina měla klasický protějšek.",
+      "Aby teorie v mezním případě dala klasické výsledky.",
+      "Aby se všechny konstanty teorie daly odvodit z pozorování.",
+      "Aby dvě soupeřící teorie používaly stejné označení veličin."
+    ],
+    "correct": 1,
+    "explanation": "Nová teorie nesmí popřít to, co stará teorie dobře popisovala. Pro velká kvantová čísla, těžké objekty a velké soustavy musí kvantová mechanika přejít v obvyklou fyziku Newtona a Maxwella. Bohr tento požadavek používal jako vodítko už při hledání pravidel pro atom.",
+    "source": "Niels Bohr, práce o principu korespondence, 1920",
+    "seedElo": 1750
+  },
+  {
+    "id": "kva-C23",
+    "type": "K",
+    "category": "kvantovka",
+    "text": "Co říká Ehrenfestův teorém z roku 1927?",
+    "options": [
+      "Že každá kvantová veličina má nejistotu danou konstantou.",
+      "Že se vlnová funkce s časem nutně rozplývá do prostoru.",
+      "Že střední hodnoty veličin se řídí klasickými rovnicemi.",
+      "Že energii systému nelze změřit rychleji než za jistý čas."
+    ],
+    "correct": 2,
+    "explanation": "Ehrenfest ukázal, že průměrné hodnoty polohy a hybnosti splňují vztahy formálně shodné s Newtonovými zákony. Je to jeden z konkrétních mostů mezi kvantovým a klasickým popisem světa. Neznamená to ovšem, že se kvantový systém chová klasicky — platí to o průměrech, ne o jednotlivých výsledcích.",
+    "source": "Paul Ehrenfest, Zeitschrift für Physik 45, 455, 1927",
+    "seedElo": 1950
+  },
+  {
+    "id": "kva-C24",
+    "type": "F",
+    "category": "kvantovka",
+    "text": "Co spolu spojuje teorém Emmy Noetherové z roku 1918?",
+    "options": [
+      "Hmotnost tělesa s energií, kterou v klidu obsahuje.",
+      "Teplotu plynu se střední rychlostí jeho molekul.",
+      "Náboj částice se silou, jíž působí na jinou částici.",
+      "Symetrii zákona se zachovávající se veličinou."
+    ],
+    "correct": 3,
+    "explanation": "Každé spojité symetrii fyzikálního zákona odpovídá zachovávaná veličina: z neměnnosti v čase plyne zachování energie, z neměnnosti v prostoru zachování hybnosti. Teorém se stal páteří moderní teoretické fyziky, kvantovou teorii pole nevyjímaje. Noetherová jej publikovala v Göttingenu roku 1918.",
+    "source": "Emmy Noether, Invariante Variationsprobleme, Göttingen 1918",
+    "seedElo": 1650
+  },
+  {
+    "id": "kva-C25",
+    "type": "F",
+    "category": "kvantovka",
+    "text": "Čím je standardní model částicové fyziky?",
+    "options": [
+      "Kvantovou teorií pole popisující tři ze čtyř sil.",
+      "Klasickou teorií pole, z níž plyne i gravitace.",
+      "Statistickým modelem chování plynů při nízkých teplotách.",
+      "Souborem tabulek naměřených hmotností všech částic."
+    ],
+    "correct": 0,
+    "explanation": "Standardní model je kvantová teorie pole, v níž jsou částice vybuzeními polí prostupujících celý prostor. Zahrnuje elektromagnetickou, slabou a silnou interakci, gravitaci však nikoli. Jeho poslední chybějící dílek, Higgsův boson, byl na urychlovači LHC nalezen v roce 2012.",
+    "source": "Glashow, Weinberg, Salam (Nobelova cena 1979); CERN, objev Higgsova bosonu 2012",
+    "seedElo": 1700
+  },
+  {
+    "id": "kva-C26",
+    "type": "F",
+    "category": "kvantovka",
+    "text": "V kterém roce představil Max Planck svůj vyzařovací zákon?",
+    "options": [
+      "1887",
+      "1900",
+      "1913",
+      "1925"
+    ],
+    "correct": 1,
+    "explanation": "Planck přednesl svou práci Německé fyzikální společnosti 14. prosince 1900 a toto datum se často bere jako narozeniny kvantové fyziky. Sám ji považoval za nouzový matematický trik, kterým se dá vzorec srovnat s měřením. Trvalo mu roky, než přijal, že jde o rys skutečnosti, a Nobelovu cenu za ni dostal v roce 1918.",
+    "source": "Max Planck, Verhandlungen der Deutschen Physikalischen Gesellschaft, prosinec 1900",
+    "seedElo": 1450
+  },
+  {
+    "id": "kva-C27",
+    "type": "F",
+    "category": "kvantovka",
+    "text": "Co ukázal Comptonův pokus z roku 1923?",
+    "options": [
+      "Že se rentgenové záření v kovu beze zbytku pohltí.",
+      "Že se elektron při srážce se zářením mění na foton.",
+      "Že se foton sráží s elektronem jako částice.",
+      "Že světlo mění barvu podle rychlosti svého zdroje."
+    ],
+    "correct": 2,
+    "explanation": "Rozptýlené rentgenové záření mělo delší vlnovou délku, přesně podle výpočtu pro pružnou srážku dvou částic. To bylo mnohem těžší odbýt než fotoelektrický jev a přesvědčilo i skeptiky, že světelné kvantum nese hybnost. Compton za objev dostal Nobelovu cenu v roce 1927.",
+    "source": "Arthur H. Compton, Physical Review 21, 483, 1923",
+    "seedElo": 1600
+  },
+  {
+    "id": "kva-C28",
+    "type": "K",
+    "category": "kvantovka",
+    "text": "Podle čeho se částice dělí na fermiony a bosony?",
+    "options": [
+      "Podle toho, zda nesou elektrický náboj, nebo ne.",
+      "Podle své hmotnosti, hranicí je hmotnost protonu.",
+      "Podle toho, zda mohou existovat i mimo atomové jádro.",
+      "Podle spinu: poločíselného, nebo celočíselného."
+    ],
+    "correct": 3,
+    "explanation": "Částice s poločíselným spinem, jako elektron, se řídí Fermiho–Diracovou statistikou a platí pro ně Pauliho princip. Částice s celočíselným spinem, jako foton, se řídí Boseho–Einsteinovou statistikou a mohou se ve stejném stavu hromadit. Souvislost spinu a statistiky odvodil Pauli v roce 1940.",
+    "source": "Wolfgang Pauli, The Connection Between Spin and Statistics, Physical Review 58, 716, 1940",
+    "seedElo": 1850
+  },
+  {
+    "id": "kva-C29",
+    "type": "F",
+    "category": "kvantovka",
+    "text": "Čím Arnold Sommerfeld v roce 1916 rozšířil Bohrův model?",
+    "options": [
+      "Přidal eliptické dráhy a vysvětlil jemnou strukturu čar.",
+      "Nahradil elektrony vlnovými balíky s konečnou šířkou.",
+      "Zavedl do modelu atomu druhé, záporně nabité jádro.",
+      "Dokázal, že elektron obíhá rychleji, než se šíří světlo."
+    ],
+    "correct": 0,
+    "explanation": "Sommerfeld doplnil kruhové dráhy o eliptické a započítal relativistické opravy. Tím vysvětlil, proč se některé spektrální čáry při jemném rozlišení štěpí na několik blízkých. Při té příležitosti se v jeho výpočtech objevila konstanta jemné struktury, jedno z nejzáhadnějších čísel fyziky.",
+    "source": "Arnold Sommerfeld, Annalen der Physik 51, 1, 1916",
+    "seedElo": 1850
+  },
+  {
+    "id": "kva-C30",
+    "type": "K",
+    "category": "kvantovka",
+    "text": "Čím přispěl John von Neumann knihou z roku 1932?",
+    "options": [
+      "Poprvé experimentálně změřil spin volného elektronu.",
+      "Dal kvantové mechanice přesný matematický základ.",
+      "Odvodil z kvantové teorie hodnotu Planckovy konstanty.",
+      "Ukázal, že kvantová mechanika je vnitřně rozporná."
+    ],
+    "correct": 1,
+    "explanation": "Fyzikové v té době počítali obratně, ale matematicky nedbale — Diracova delta funkce byla dobrým příkladem. Von Neumann celý aparát postavil na pevný základ operátorů v Hilbertově prostoru a formuloval jej axiomaticky. Jeho kniha zůstala referenčním textem po celá desetiletí.",
+    "source": "John von Neumann, Mathematische Grundlagen der Quantenmechanik, Berlín 1932",
+    "seedElo": 1950
+  },
+  {
+    "id": "kva-C31",
+    "type": "K",
+    "category": "kvantovka",
+    "text": "Co Niels Bohr nazýval komplementaritou?",
+    "options": [
+      "Že se dvě různé částice mohou doplnit na jeden celek.",
+      "Že součet pravděpodobností všech výsledků dává jedničku.",
+      "Že vlnový a částicový popis se doplňují, ale nesejdou.",
+      "Že každý zákon fyziky má svůj zrcadlový protějšek."
+    ],
+    "correct": 2,
+    "explanation": "Bohr myšlenku poprvé veřejně přednesl v italském Comu roku 1927. Tvrdil, že oba popisy jsou k úplnému porozumění nutné, ale nikdy je nepoužijeme v jednom a témže uspořádání pokusu. Uspořádání experimentu podle něj rozhoduje o tom, který jazyk má vůbec smysl.",
+    "source": "Niels Bohr, přednáška v Comu 1927, publikováno v Nature 121, 580, 1928",
+    "seedElo": 1950
+  },
+  {
+    "id": "kva-C32",
+    "type": "F",
+    "category": "kvantovka",
+    "text": "Za co byla udělena Nobelova cena za fyziku za rok 1965?",
+    "options": [
+      "Za objev antiprotonu při pokusech v laboratoři v Berkeley.",
+      "Za teorii supravodivosti a její experimentální potvrzení.",
+      "Za objev reliktního záření pocházejícího z raného vesmíru.",
+      "Za dotažení kvantové elektrodynamiky včetně renormalizace."
+    ],
+    "correct": 3,
+    "explanation": "Cenu si rozdělili Šin'ičiró Tomonaga, Julian Schwinger a Richard Feynman za nezávisle vypracované verze konzistentní kvantové elektrodynamiky. Každý k ní došel jinou cestou, a přesto se výsledky shodovaly; Freeman Dyson později ukázal, že jde o tentýž formalismus. Právě tato práce udělala z nekonečen zvládnutelný technický problém.",
+    "source": "Nobelova nadace, cena za fyziku 1965",
+    "seedElo": 1950
+  }
+]

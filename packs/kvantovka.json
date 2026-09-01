@@ -96,6 +96,86 @@
   "seedElo": 1450
  },
  {
+  "id": "kva-A01",
+  "type": "F",
+  "category": "kvantovka",
+  "text": "Mnohosvětovou interpretaci kvantové mechaniky poprvé formuloval:",
+  "options": [
+   "Niels Bohr ve své slavné přednášce v italském Comu roku 1927",
+   "John von Neumann v knize Matematické základy z roku 1932",
+   "David Bohm ve dvojici článků v Physical Review roku 1952",
+   "Hugh Everett III. ve své princetonské disertaci roku 1957"
+  ],
+  "correct": 3,
+  "explanation": "Everett v disertaci (a v článku Relative State Formulation, 1957) navrhl vypustit kolaps a nechat platit jen Schrödingerovu rovnici; název „mnoho světů“ dal jeho výkladu až později Bryce DeWitt. Bohr v Comu naopak formuloval komplementaritu, von Neumann zavedl kolaps jako druhý typ vývoje a Bohm publikoval teorii skrytých parametrů s trajektoriemi.",
+  "source": "Hugh Everett III., „Relative State\" Formulation of Quantum Mechanics, Rev. Mod. Phys. 29 (1957)",
+  "seedElo": 1450
+ },
+ {
+  "id": "kva-A03",
+  "type": "K",
+  "category": "kvantovka",
+  "text": "Čím je vlnová funkce v de Broglie–Bohmově teorii?",
+  "options": [
+   "Pouhým výpočetním nástrojem bez jakéhokoli fyzikálního obsahu",
+   "Popisem statistického souboru částic, nikoli jedné částice",
+   "Reálným pilotním polem, které vede částici s určitou polohou",
+   "Objektem, jenž při měření kolabuje na vlastní stav přístroje"
+  ],
+  "correct": 2,
+  "explanation": "V bohmovské mechanice existují navíc k vlnové funkci i částice s vždy určitými polohami; vlnová funkce je reálné pole, které jejich pohyb řídí vodicí rovnicí a nikdy nekolabuje. Právě proto teorie nepotřebuje zvláštní postulát měření: „kolaps“ je jen efektivní popis toho, že se ostatní větve vlnové funkce přestanou překrývat.",
+  "source": "David Bohm, A Suggested Interpretation of the Quantum Theory in Terms of \"Hidden\" Variables I–II (1952)",
+  "seedElo": 1450
+ },
+ {
+  "id": "kva-B19",
+  "type": "F",
+  "category": "kvantovka",
+  "text": "Jak je od roku 1967 definována sekunda v soustavě SI?",
+  "options": [
+   "Jako 1/86400 středního slunečního dne měřeného na greenwichském poledníku",
+   "Jako doba, za kterou světlo urazí ve vakuu přesně 299 792 458 metrů",
+   "Jako 9 192 631 770 period záření odpovídajícího přechodu v atomu cesia",
+   "Jako perioda kmitů křemenného krystalu ochlazeného na absolutní nulu"
+  ],
+  "correct": 2,
+  "explanation": "Sekunda je od 13. generální konference pro váhy a míry svázána s přechodem mezi dvěma hladinami velmi jemné struktury základního stavu atomu cesia-133. Kvantový přechod je definičně stejný pro každý atom ve vesmíru, takže etalon nikam neputuje a nestárne — to je důvod, proč se od astronomických definic ustoupilo.",
+  "seedElo": 1450,
+  "source": "13. CGPM (1967/68), rezoluce 1; SI Brochure, BIPM"
+ },
+ {
+  "id": "kva-C01",
+  "type": "F",
+  "category": "kvantovka",
+  "text": "Co se skrývá pod pojmem „ultrafialová katastrofa“?",
+  "options": [
+   "Klasická fyzika předpovídala nekonečné vyzařování na krátkých vlnách.",
+   "Ultrafialové záření hvězd nešlo změřit tehdejšími přístroji vůbec.",
+   "Zdroje ultrafialového světla v laboratořích tehdy neustále selhávaly.",
+   "Ultrafialová část spektra horkých těles v měřeních zcela chyběla."
+  ],
+  "correct": 0,
+  "explanation": "Rayleighův–Jeansův zákon, odvozený z klasické fyziky, dával pro zahřáté těleso energii rostoucí nade všechny meze směrem ke krátkým vlnovým délkám. Měření nic takového neukazovala. Sám název „ultrafialová katastrofa“ zavedl až Paul Ehrenfest v roce 1911, tedy dobrých deset let po Planckově práci.",
+  "source": "Paul Ehrenfest, Annalen der Physik, 1911; Rayleigh 1900 / Jeans 1905",
+  "seedElo": 1450
+ },
+ {
+  "id": "kva-C26",
+  "type": "F",
+  "category": "kvantovka",
+  "text": "V kterém roce představil Max Planck svůj vyzařovací zákon?",
+  "options": [
+   "1887",
+   "1900",
+   "1913",
+   "1925"
+  ],
+  "correct": 1,
+  "explanation": "Planck přednesl svou práci Německé fyzikální společnosti 14. prosince 1900 a toto datum se často bere jako narozeniny kvantové fyziky. Sám ji považoval za nouzový matematický trik, kterým se dá vzorec srovnat s měřením. Trvalo mu roky, než přijal, že jde o rys skutečnosti, a Nobelovu cenu za ni dostal v roce 1918.",
+  "source": "Max Planck, Verhandlungen der Deutschen Physikalischen Gesellschaft, prosinec 1900",
+  "seedElo": 1450
+ },
+ {
   "id": "kva-07",
   "type": "F",
   "category": "kvantovka",
@@ -110,6 +190,102 @@
   "explanation": "U provázaných částic nelze stav každé z nich popsat zvlášť — existuje jen jeden společný kvantový popis obou dohromady. Změření jedné částice okamžitě určí, jaký výsledek dá měření druhé, ať jsou od sebe jakkoli daleko. Einstein tomu říkal „strašidelné působení na dálku“, ale experimenty potvrdily, že jde o reálný jev, ne o skryté předem dané hodnoty.",
   "source": "Erwin Schrödinger (1935); Anton Zeilinger, Nobelova přednáška (2022)",
   "seedElo": 1480
+ },
+ {
+  "id": "kva-A02",
+  "type": "F",
+  "category": "kvantovka",
+  "text": "Nobelovu cenu za fyziku 2022 dostali Alain Aspect, John Clauser a Anton Zeilinger za:",
+  "options": [
+   "experimenty s provázanými fotony, které porušily Bellovy nerovnosti",
+   "první experimentální potvrzení existence kvantového tunelového jevu",
+   "sestrojení prvního funkčního kvantového počítače s desítkami qubitů",
+   "přímé pozorování kolapsu vlnové funkce v jednotlivých supravodivých obvodech"
+  ],
+  "correct": 0,
+  "explanation": "Cena byla udělena za experimenty s provázanými fotony, prokázání porušení Bellových nerovností a průkopnictví kvantové informatiky. Clauser provedl první test (1972), Aspect uzavřel mezeru s volbou nastavení (1982) a Zeilinger rozvinul teleportaci a entanglement swapping. Tunelování, kvantové počítače ani „měření kolapsu“ v citaci nefigurují.",
+  "source": "Nobelova cena za fyziku 2022, oficiální zdůvodnění Královské švédské akademie věd",
+  "seedElo": 1500
+ },
+ {
+  "id": "kva-B01",
+  "type": "F",
+  "category": "kvantovka",
+  "text": "Co je jádrem Shorova algoritmu — úloha, kterou kvantová část skutečně řeší?",
+  "options": [
+   "Nalezení periody funkce a^x mod N pomocí kvantové Fourierovy transformace",
+   "Postupné dělení čísla N všemi prvočísly menšími než jeho odmocnina",
+   "Prohledání seznamu všech možných dělitelů N v jediném kroku měření",
+   "Rozklad čísla N na součin dvou faktorů přímým řešením kvadratické rovnice"
+  ],
+  "correct": 0,
+  "explanation": "Shorův algoritmus není kvantová 'faktorizační mašina'. Rozklad se klasicky převede na hledání periody funkce a^x mod N a teprve tuhle periodu najde kvantový obvod pomocí Fourierovy transformace. Zbytek výpočtu — včetně největšího společného dělitele — běží na obyčejném procesoru.",
+  "seedElo": 1500,
+  "source": "Peter Shor, Algorithms for Quantum Computation: Discrete Logarithms and Factoring (FOCS 1994)"
+ },
+ {
+  "id": "kva-B03",
+  "type": "F",
+  "category": "kvantovka",
+  "text": "Jaké zrychlení nabízí Groverův algoritmus při prohledávání nesetříděné databáze?",
+  "options": [
+   "Exponenciální: z N kroků na log N, podobně jako Shorův algoritmus",
+   "Žádné prokazatelné; jde jen o heuristiku bez důkazu dolní meze",
+   "Kvadratické: místo řádu N kroků stačí řád odmocniny z N",
+   "Lineární: konstantně zrychlí prohledávání zhruba o faktor deset"
+  ],
+  "correct": 2,
+  "explanation": "Grover dává pouze kvadratické zrychlení — z N na zhruba odmocninu z N dotazů. Navíc je dokázáno, že lépe to nejde: jde o optimum pro černou skříňku. Populární představa 'kvantový počítač prohledá všechno naráz' je tedy mylná i u té nejtypičtější vyhledávací úlohy.",
+  "seedElo": 1500,
+  "source": "Lov Grover, A Fast Quantum Mechanical Algorithm for Database Search (1996); Bennett–Bernstein–Brassard–Vazirani (1997)"
+ },
+ {
+  "id": "kva-B26",
+  "type": "F",
+  "category": "kvantovka",
+  "text": "Který kvantový jev popsaný Einsteinem už v roce 1917 stojí za funkcí laseru?",
+  "options": [
+   "Stimulovaná emise: foton vyvolá vyzáření dalšího fotonu téže fáze",
+   "Fotoelektrický jev: dopadající foton vyrazí z kovu volný elektron",
+   "Comptonův rozptyl: foton předá část energie vázanému elektronu",
+   "Spontánní emise: excitovaný atom vyzáří foton v náhodném směru"
+  ],
+  "correct": 0,
+  "explanation": "Einstein zavedl koeficienty popisující absorpci, spontánní a stimulovanou emisi, aby odvodil Planckův zákon záření. Stimulovaná emise vytváří fotony shodné ve frekvenci, fázi i směru — odtud koherence laserového svazku. Podmínkou zesilování je inverze populace, tedy více atomů v excitovaném než v základním stavu.",
+  "seedElo": 1500,
+  "source": "Albert Einstein, Zur Quantentheorie der Strahlung (1917); Maiman, Nature 187 (1960)"
+ },
+ {
+  "id": "kva-C02",
+  "type": "F",
+  "category": "kvantovka",
+  "text": "Za co dostal Albert Einstein Nobelovu cenu za fyziku?",
+  "options": [
+   "Za obecnou teorii relativity a ohyb světla v poli Slunce.",
+   "Za objev zákona fotoelektrického jevu a zásluhy o fyziku.",
+   "Za speciální teorii relativity a vztah mezi hmotou a energií.",
+   "Za vysvětlení Brownova pohybu pomocí molekulární teorie tepla."
+  ],
+  "correct": 1,
+  "explanation": "Cena za rok 1921 (předaná roku 1922) zněla na „zásluhy o teoretickou fyziku, zvláště za objev zákona fotoelektrického jevu“. Relativita se ve zdůvodnění vůbec neobjevila — byla tehdy považována za příliš spornou. Ironicky tak Einstein dostal cenu právě za práci, která pomohla nastartovat kvantovou teorii, k níž se později stavěl kriticky.",
+  "source": "Nobelova nadace, zdůvodnění ceny za fyziku 1921",
+  "seedElo": 1500
+ },
+ {
+  "id": "kva-C07",
+  "type": "F",
+  "category": "kvantovka",
+  "text": "Čemu byla věnována pátá Solvayská konference v Bruselu roku 1927?",
+  "options": [
+   "Stavbě prvního velkého urychlovače částic v Evropě.",
+   "Sjednocení gravitace s elektromagnetickým polem.",
+   "Elektronům a fotonům, tedy nové kvantové teorii.",
+   "Novému mezinárodnímu měření rychlosti světla."
+  ],
+  "correct": 2,
+  "explanation": "Konference nesla název „Elektrony a fotony“ a sešla se na ní prakticky celá zakladatelská generace kvantové fyziky. Ze slavné skupinové fotografie devětadvaceti účastníků jich sedmnáct získalo Nobelovu cenu. Právě zde proběhla první kola veřejné rozepře mezi Einsteinem a Bohrem.",
+  "source": "Institut International de Physique Solvay, Électrons et photons, Brusel 1927",
+  "seedElo": 1500
  },
  {
   "id": "kva-08",
@@ -144,6 +320,86 @@
   "seedElo": 1540
  },
  {
+  "id": "kva-A06",
+  "type": "F",
+  "category": "kvantovka",
+  "text": "Kvantová teleportace přenese stav qubitu, ale vždy potřebuje navíc:",
+  "options": [
+   "aby obě strany předem znaly stav, který se má přenášet",
+   "aby vzdálenost stran byla menší než koherenční délka zdroje",
+   "aby původní qubit zůstal po přenosu uchován jako záložní kopie",
+   "aby odesílatel poslal dva klasické bity běžným kanálem"
+  ],
+  "correct": 3,
+  "explanation": "Bellovo měření dá odesílateli jeden ze čtyř výsledků a příjemce musí podle dvou klasických bitů provést odpovídající korekci; bez této zprávy má jen náhodnou směs. Stav se nikdy nezná ani neduplikuje — původní qubit je měřením zničen, což je přesně v souladu s teorémem o neklonování.",
+  "source": "Bennett et al., Teleporting an unknown quantum state…, Phys. Rev. Lett. 70 (1993)",
+  "seedElo": 1550
+ },
+ {
+  "id": "kva-B28",
+  "type": "K",
+  "category": "kvantovka",
+  "text": "Co se stane s plynem bosonů ochlazeným pod kritickou teplotu?",
+  "options": [
+   "Rozpadne se na jednotlivé fermiony a začne se chovat jako kov",
+   "Makroskopická část atomů obsadí týž nejnižší kvantový stav",
+   "Atomy se uspořádají do pravidelné krystalové mřížky jako v ledu",
+   "Jeho atomy ztratí spin a přestanou reagovat na magnetické pole"
+  ],
+  "correct": 1,
+  "explanation": "Bose s Einsteinem to předpověděli už roku 1925: pod kritickou teplotou skokově naroste obsazení základního stavu a vznikne jediná makroskopická vlna. Experimentálně to bylo dosaženo v roce 1995 u rubidia a sodíku při teplotách kolem sto nanokelvinů, což vyneslo Cornellovi, Wiemanovi a Ketterlemu Nobelovu cenu.",
+  "seedElo": 1550,
+  "source": "Anderson, Ensher, Matthews, Wieman & Cornell, Science 269 (1995); Davis et al. (Ketterle), PRL 75 (1995)"
+ },
+ {
+  "id": "kva-B30",
+  "type": "F",
+  "category": "kvantovka",
+  "text": "Co je Casimirův jev?",
+  "options": [
+   "Přitažlivá síla mezi dvěma blízkými nenabitými vodivými deskami ve vakuu",
+   "Odpudivá síla mezi dvěma souhlasně nabitými deskami ponořenými do plynu",
+   "Zeslabení světla procházejícího velmi úzkou štěrbinou mezi kovovými deskami",
+   "Zahřívání kovových desek vlivem dopadu reliktního mikrovlnného záření"
+  ],
+  "correct": 0,
+  "explanation": "Mezi deskami vzdálenými zlomky mikrometru se mohou uplatnit jen některé módy elektromagnetického pole, takže tlak zvenčí převáží a desky se přitahují. Síla roste se čtvrtou mocninou převrácené vzdálenosti. Kvantitativně byla změřena v 90. letech a v mikroelektromechanických systémech působí jako reálná rušivá síla.",
+  "seedElo": 1550,
+  "source": "Hendrik Casimir (1948); Lamoreaux, PRL 78 (1997)"
+ },
+ {
+  "id": "kva-C04",
+  "type": "F",
+  "category": "kvantovka",
+  "text": "S jakým nápadem přišel Louis de Broglie ve své disertaci z roku 1924?",
+  "options": [
+   "Že světlo se v prázdném prostoru šíří vlnou zvanou éter.",
+   "Že elektron je ve skutečnosti bodová částice bez rozměru.",
+   "Že energie atomu klesá se čtvercem vzdálenosti od jádra.",
+   "Že i hmotná částice má vlnovou délku danou svou hybností."
+  ],
+  "correct": 3,
+  "explanation": "De Broglie obrátil Einsteinovu myšlenku: když se světlo chová i jako částice, proč by se částice nemohla chovat i jako vlna? Přiřadil elektronu vlnovou délku rovnou Planckově konstantě dělené hybností. Za tři roky Davisson a Germer skutečně naměřili ohyb elektronů na krystalu a de Broglie dostal roku 1929 Nobelovu cenu.",
+  "source": "Louis de Broglie, Recherches sur la théorie des quanta, disertace, Paříž 1924",
+  "seedElo": 1550
+ },
+ {
+  "id": "kva-C12",
+  "type": "F",
+  "category": "kvantovka",
+  "text": "Co říká Pauliho vylučovací princip z roku 1925?",
+  "options": [
+   "Elektron nesmí obíhat blíž než v nejnižší dráze.",
+   "Dva atomy nemohou zaujmout stejné místo v prostoru.",
+   "Světlo nemůže mít větší energii než jádro atomu.",
+   "Dva elektrony nemohou být ve stejném kvantovém stavu."
+  ],
+  "correct": 3,
+  "explanation": "Princip vysvětluje, proč se elektrony v atomu vrství do slupek místo aby se všechny nashromáždily nejníže. Odtud plyne stavba periodické tabulky i to, proč hmota vůbec zabírá objem a nedá se libovolně stlačit. Pauli za něj dostal Nobelovu cenu v roce 1945.",
+  "source": "Wolfgang Pauli, Zeitschrift für Physik 31, 765, 1925",
+  "seedElo": 1550
+ },
+ {
   "id": "kva-10",
   "type": "F",
   "category": "kvantovka",
@@ -176,6 +432,102 @@
   "seedElo": 1600
  },
  {
+  "id": "kva-A08",
+  "type": "K",
+  "category": "kvantovka",
+  "text": "Co dekoherence sama o sobě nevysvětluje?",
+  "options": [
+   "Proč interferenční členy v hustotní matici prakticky mizí",
+   "Proč se u makroskopických těles vybírá poloha jako preferovaná báze",
+   "Proč z mnoha možností nakonec nastane právě jeden výsledek",
+   "Proč je dekoherence tím rychlejší, čím větší je daný objekt"
+  ],
+  "correct": 2,
+  "explanation": "Dekoherence převede superpozici na velmi přesnou zdánlivou směs a einselection vysvětlí i výběr preferované báze, protože interakce s prostředím je typicky polohová. Zůstane ale směs možností, ne jeden fakt — to je „problém výsledků“, který si každá interpretace musí dořešit po svém. Zurek i Joos na to sami výslovně upozorňují.",
+  "source": "Zurek, Decoherence, einselection and the quantum origins of the classical, Rev. Mod. Phys. 75 (2003)",
+  "seedElo": 1600
+ },
+ {
+  "id": "kva-A16",
+  "type": "F",
+  "category": "kvantovka",
+  "text": "Co ukazuje historický výzkum o takzvané „kodaňské interpretaci“?",
+  "options": [
+   "Byla Bohrem a Heisenbergem sepsána jako společný text roku 1927",
+   "Shodovala se s von Neumannovým výkladem kolapsu vlnové funkce",
+   "Byla přijata na Solvayském kongresu hlasováním fyziků roku 1930",
+   "Jde o pozdější nálepku pro odlišné názory Bohra a Heisenberga"
+  ],
+  "correct": 3,
+  "explanation": "Označení se rozšířilo až v padesátých letech, patrně v Heisenbergově podání, a zastřelo skutečné rozdíly: Bohr trval na klasickém popisu celého experimentálního uspořádání a o kolapsu jako fyzikálním ději nemluvil, zatímco Heisenberg pracoval s přechodem od možnosti ke skutečnosti a von Neumann s kolapsem jako druhým typem vývoje.",
+  "source": "Don Howard, Who Invented the „Copenhagen Interpretation\"?, Philosophy of Science 71 (2004)",
+  "seedElo": 1600
+ },
+ {
+  "id": "kva-B02",
+  "type": "F",
+  "category": "kvantovka",
+  "text": "Které dnes běžné kryptosystémy by dostatečně velký kvantový počítač se Shorovým algoritmem prolomil?",
+  "options": [
+   "Jen RSA; Diffie-Hellman a eliptické křivky zůstávají zcela bezpečné",
+   "RSA, Diffie-Hellmana i kryptografii nad eliptickými křivkami",
+   "Všechny šifry včetně AES-256, u nějž klesne bezpečnost na nulu",
+   "Pouze hašovací funkce typu SHA-256 a na nich stavěné podpisy"
+  ],
+  "correct": 1,
+  "explanation": "Shorův algoritmus umí efektivně nejen faktorizovat, ale i řešit diskrétní logaritmus — a na tom stojí Diffie-Hellman i eliptické křivky. Padá tedy celá dnešní veřejnoklíčová infrastruktura. Symetrické šifry a haše padají jen 'napůl', a to kvůli Groverovi, ne Shorovi.",
+  "seedElo": 1600,
+  "source": "Peter Shor (1994/1997); NIST IR 8105, Report on Post-Quantum Cryptography"
+ },
+ {
+  "id": "kva-B15",
+  "type": "F",
+  "category": "kvantovka",
+  "text": "Na čem stojí bezpečnost protokolu BB84 pro distribuci klíče?",
+  "options": [
+   "Na výpočetní obtížnosti rozkladu velkých čísel na prvočinitele",
+   "Na tom, že odposlech nutně naruší stavy a zvýší chybovost přenosu",
+   "Na tom, že fotony putují rychleji než jakýkoli myslitelný odposlech",
+   "Na sdíleném tajném klíči, který strany získaly osobním setkáním"
+  ],
+  "correct": 1,
+  "explanation": "Bennett a Brassard nechávají odesílatele kódovat bity náhodně ve dvou neslučitelných bázích. Odposlouchávající musí měřit, aniž ví, kterou bázi zvolit, a tím zanáší chyby. Strany si veřejně porovnají vzorek bitů: pokud je chybovost nad prahem, klíč zahodí. Bezpečnost tedy plyne z fyziky, ne z výpočetní složitosti.",
+  "seedElo": 1600,
+  "source": "Bennett & Brassard, Quantum cryptography: Public key distribution and coin tossing (1984)"
+ },
+ {
+  "id": "kva-C03",
+  "type": "F",
+  "category": "kvantovka",
+  "text": "V čem selhával Bohrův model atomu z roku 1913?",
+  "options": [
+   "Nedokázal vysvětlit čárové spektrum atomu vodíku.",
+   "Předpokládal, že atom nemá žádné kladné jádro.",
+   "Selhával už u helia, tedy u dvou elektronů v atomu.",
+   "Vylučoval existenci prvků těžších než uhlík."
+  ],
+  "correct": 2,
+  "explanation": "Pro vodík s jediným elektronem model trefil spektrální čáry pozoruhodně přesně, a to mu získalo slávu. Jakmile se ale přidal druhý elektron, jako u helia, výpočty se rozešly s měřením. Byla to jedna z hlavních pohnutek, proč Heisenberg a Schrödinger o dvanáct let později hledali úplně jiný formalismus.",
+  "source": "Niels Bohr, On the Constitution of Atoms and Molecules, Philosophical Magazine, 1913",
+  "seedElo": 1600
+ },
+ {
+  "id": "kva-C06",
+  "type": "F",
+  "category": "kvantovka",
+  "text": "Čím doplnil Max Born v roce 1926 Schrödingerovu vlnovou funkci?",
+  "options": [
+   "Odvodil z ní přesnou dráhu elektronu kolem jádra atomu.",
+   "Vyložil ji jako veličinu, z níž plyne pravděpodobnost.",
+   "Dokázal, že vlnová funkce je hustota náboje v prostoru.",
+   "Ukázal, že vlnová funkce je jen matematická pomůcka."
+  ],
+  "correct": 1,
+  "explanation": "Schrödinger sám doufal, že vlnová funkce popisuje rozprostřenou hmotu nebo náboj. Born při studiu rozptylu částic navrhl jiný výklad — vlnová funkce udává, s jakou pravděpodobností dopadne výsledek. Návrh se vešel do poznámky pod čarou a Nobelovu cenu za něj Born dostal až v roce 1954.",
+  "source": "Max Born, Zur Quantenmechanik der Stoßvorgänge, Zeitschrift für Physik, 1926",
+  "seedElo": 1600
+ },
+ {
   "id": "kva-12",
   "type": "K",
   "category": "kvantovka",
@@ -190,6 +542,134 @@
   "explanation": "Kodaňská interpretace popisuje měření jako skutečný kolaps superpozice na jeden výsledek. Mnohosvětová interpretace naopak tvrdí, že žádný kolaps neexistuje — při měření se vesmír „rozvětví“ a všechny možné výsledky se realizují, každý ve své vlastní větvi. Obě dávají stejné předpovědi pro experimenty, liší se jen v tom, co se „doopravdy“ děje.",
   "source": "Hugh Everett III (1957); Sean Carroll, Something Deeply Hidden",
   "seedElo": 1630
+ },
+ {
+  "id": "kva-A09",
+  "type": "F",
+  "category": "kvantovka",
+  "text": "Odhady časů dekoherence pro makroskopické těleso v běžném prostředí ukazují, že:",
+  "options": [
+   "čas dekoherence je srovnatelný s dobou lidského pozorování",
+   "dekoherence nastane teprve po interakci s vědomým pozorovatelem měření",
+   "čas dekoherence je o mnoho řádů kratší než jakýkoli měřitelný děj",
+   "dekoherence se zpomaluje úměrně s rostoucí hmotností tělesa"
+  ],
+  "correct": 2,
+  "explanation": "Joos a Zeh spočítali, že prachové zrnko ozařované byť jen reliktním zářením ztratí koherenci v nepředstavitelně krátkém čase; se vzdáleností superpozice a hmotností se rychlost dekoherence prudce zvyšuje, nikoli snižuje. Proto se makroskopická superpozice nikdy nestihne projevit a experimenty s velkými molekulami vyžadují extrémní vakuum a chlazení.",
+  "source": "Joos & Zeh, The emergence of classical properties…, Z. Phys. B 59 (1985)",
+  "seedElo": 1650
+ },
+ {
+  "id": "kva-A10",
+  "type": "F",
+  "category": "kvantovka",
+  "text": "V myšlenkovém experimentu Wignerův přítel vzniká rozpor v tom, že:",
+  "options": [
+   "přítel i Wigner naměří na téže částici dva odlišné výsledky",
+   "pro přítele výsledek už nastal, pro Wignera je laboratoř v superpozici",
+   "přítel nemůže o svém výsledku podat Wignerovi žádnou zprávu",
+   "Wignerovo měření zpětně přepíše ten výsledek, který přítel skutečně viděl"
+  ],
+  "correct": 1,
+  "explanation": "Přítel uvnitř zavřené laboratoře podle sebe dostal určitý výsledek, zatímco Wigner venku popisuje celou laboratoř i s přítelem unitárně jako superpozici. Konflikt tedy není ve dvou různých naměřených hodnotách, ale ve dvou neslučitelných popisech téže situace — a odpověď na něj rozděluje interpretace: kdo tvrdí, že kolaps je fyzikální, a kdo, že je relativní vůči pozorovateli.",
+  "source": "Eugene Wigner, Remarks on the Mind-Body Question (1961)",
+  "seedElo": 1650
+ },
+ {
+  "id": "kva-A17",
+  "type": "K",
+  "category": "kvantovka",
+  "text": "Podle QBismu (Fuchs, Mermin, Schack) vlnová funkce vyjadřuje:",
+  "options": [
+   "objektivní stav systému, jenž existuje nezávisle na agentovi",
+   "osobní míru očekávání agenta ohledně výsledků jeho měření",
+   "statistické rozdělení skrytých parametrů v souboru systémů",
+   "informaci sdílenou všemi pozorovateli daného experimentu"
+  ],
+  "correct": 1,
+  "explanation": "QBism čte kvantový stav jako bayesovské osobní přesvědčení jednoho agenta, takže „kolaps“ je jen aktualizace jeho očekávání po zkušenosti — proto v něm nevzniká problém měření v obvyklé podobě. Liší se tím od starších epistemických výkladů souborového typu i od představy stavu jako veřejné informace: dva agenti mohou mít legitimně různé stavy pro tentýž systém.",
+  "source": "Fuchs, Mermin & Schack, An introduction to QBism…, Am. J. Phys. 82 (2014)",
+  "seedElo": 1650
+ },
+ {
+  "id": "kva-B05",
+  "type": "F",
+  "category": "kvantovka",
+  "text": "Proč nelze kvantovou informaci chránit prostým zkopírováním qubitu do tří kopií?",
+  "options": [
+   "Protože kvantové kopírky by porušily zákon zachování energie v obvodu",
+   "Protože teorém o nemožnosti klonování zakazuje kopii neznámého stavu",
+   "Protože každý qubit lze zkopírovat nejvýše dvakrát, nikdy však třikrát",
+   "Protože kopírování je možné, jen je pro dnešní hardware příliš pomalé"
+  ],
+  "correct": 1,
+  "explanation": "Lineární povaha kvantové evoluce vylučuje univerzální kopírku neznámých stavů. Kvantová chybová korekce proto informaci nekopíruje, ale rozprostírá ji do provázaného stavu více qubitů a měří jen takzvané syndromy — údaje o chybě, které samotný chráněný stav neprozradí.",
+  "seedElo": 1650,
+  "source": "Wootters & Zurek, A single quantum cannot be cloned, Nature (1982)"
+ },
+ {
+  "id": "kva-B09",
+  "type": "F",
+  "category": "kvantovka",
+  "text": "Za jakých podmínek pracují supravodivé transmonové qubity?",
+  "options": [
+   "Při pokojové teplotě, řízeny viditelným světlem z polovodičové diody",
+   "Při desítkách milikelvinů, řízeny mikrovlnnými pulzy v řádu gigahertzů",
+   "Při teplotě kapalného dusíku, řízeny stejnosměrným napěťovým pulzem",
+   "Ve vysokém vakuu za pokojové teploty, řízeny fokusovaným svazkem iontů"
+  ],
+  "correct": 1,
+  "explanation": "Transmon je nelineární obvod s Josephsonovým přechodem, jehož dva nejnižší energetické stavy dělí energie odpovídající zhruba 5 GHz. Aby tepelný šum stav nepřebíjel, musí být čip v ředicím kryostatu na několika desítkách milikelvinů. Řídí se mikrovlnnými pulzy dlouhými desítky nanosekund.",
+  "seedElo": 1650,
+  "source": "Koch et al., Charge-insensitive qubit design derived from the Cooper pair box, PRA (2007)"
+ },
+ {
+  "id": "kva-B25",
+  "type": "F",
+  "category": "kvantovka",
+  "text": "Čemu vděčí rastrovací tunelový mikroskop za svou atomární rozlišovací schopnost?",
+  "options": [
+   "Vlnová délka použitých elektronů je menší než rozměr jednoho atomu",
+   "Hrot se povrchu dotýká a měří elektrický odpor kontaktu s jednotlivými atomy",
+   "Tunelový proud klesá s rostoucí mezerou exponenciálně, tedy velmi prudce",
+   "Detekuje rentgenové záření vznikající dopadem elektronů na povrch"
+  ],
+  "correct": 2,
+  "explanation": "Proud mezi hrotem a vzorkem klesá zhruba o řád na každý ångström vzdálenosti. Prakticky celý proud proto teče jediným nejbližším atomem hrotu, což dává boční rozlišení pod velikost atomu a výškové ještě lepší. Binnig a Rohrer za to dostali roku 1986 Nobelovu cenu.",
+  "seedElo": 1650,
+  "source": "Binnig, Rohrer, Gerber & Weibel, Surface Studies by Scanning Tunneling Microscopy, PRL 49 (1982)"
+ },
+ {
+  "id": "kva-C19",
+  "type": "F",
+  "category": "kvantovka",
+  "text": "Co znamená druhá mocnina velikosti amplitudy vlnové funkce?",
+  "options": [
+   "Celkovou energii, kterou částice v daném bodě nese.",
+   "Rychlost, s jakou se vlnová funkce v prostoru šíří.",
+   "Pravděpodobnost, že částici najdeme právě v tom bodě.",
+   "Náboj, který částice v daném místě prostoru rozprostírá."
+  ],
+  "correct": 2,
+  "explanation": "Sama vlnová funkce je komplexní číslo a nedá se přímo měřit. Fyzikální smysl má až druhá mocnina její velikosti, která udává hustotu pravděpodobnosti — tomu se říká Bornovo pravidlo. Právě proto se amplitudy skládají jinak než pravděpodobnosti a mohou se navzájem zesilovat i rušit.",
+  "source": "Max Born, Zeitschrift für Physik 37, 863, 1926",
+  "seedElo": 1650
+ },
+ {
+  "id": "kva-C24",
+  "type": "F",
+  "category": "kvantovka",
+  "text": "Co spolu spojuje teorém Emmy Noetherové z roku 1918?",
+  "options": [
+   "Hmotnost tělesa s energií, kterou v klidu obsahuje.",
+   "Teplotu plynu se střední rychlostí jeho molekul.",
+   "Náboj částice se silou, jíž působí na jinou částici.",
+   "Symetrii zákona se zachovávající se veličinou."
+  ],
+  "correct": 3,
+  "explanation": "Každé spojité symetrii fyzikálního zákona odpovídá zachovávaná veličina: z neměnnosti v čase plyne zachování energie, z neměnnosti v prostoru zachování hybnosti. Teorém se stal páteří moderní teoretické fyziky, kvantovou teorii pole nevyjímaje. Noetherová jej publikovala v Göttingenu roku 1918.",
+  "source": "Emmy Noether, Invariante Variationsprobleme, Göttingen 1918",
+  "seedElo": 1650
  },
  {
   "id": "kva-13",
@@ -224,6 +704,166 @@
   "seedElo": 1690
  },
  {
+  "id": "kva-A11",
+  "type": "F",
+  "category": "kvantovka",
+  "text": "Jaké nejvyšší hodnoty může v CHSH nerovnosti dosáhnout kvantová mechanika?",
+  "options": [
+   "Libovolně velké, omezena je jen přesností detektorů",
+   "Přesně 2, stejně jako každá lokálně realistická teorie",
+   "Hodnoty 4, tedy algebraického maxima tohoto výrazu",
+   "Hodnoty 2√2, označované jako Tsirelsonova mez"
+  ],
+  "correct": 3,
+  "explanation": "Lokálně realistické teorie splňují |S| ≤ 2, kvantová mechanika dosáhne nejvýše 2√2 ≈ 2,83 (Tsirelsonova mez) a hodnotu 4 by dovolily jen hypotetické „nadkvantové“ korelace, například Popescu–Rohrlichova krabice. Právě to, že příroda nejde až na algebraické maximum, je jedna z otevřených otázek kvantových základů.",
+  "source": "Clauser, Horne, Shimony & Holt (1969); Cirel'son, Lett. Math. Phys. 4 (1980)",
+  "seedElo": 1700
+ },
+ {
+  "id": "kva-A12",
+  "type": "F",
+  "category": "kvantovka",
+  "text": "Cenou, kterou de Broglie–Bohmova teorie platí za určité trajektorie částic, je:",
+  "options": [
+   "explicitní nelokalita — rychlost částice závisí na vzdáleném přístroji",
+   "rozpor s předpověďmi standardní kvantové mechaniky v silných polích",
+   "nutnost vzdát se vlnové funkce jako reálného fyzikálního objektu v prostoru",
+   "porušení zachování energie při každém průchodu částice štěrbinou"
+  ],
+  "correct": 0,
+  "explanation": "Vodicí rovnice pro jednu částici obsahuje okamžitě polohy všech ostatních, takže teorie je manifestně nelokální — což je přesně to, co Bellův teorém pro každou takovou teorii vyžaduje. Empiricky je přitom ekvivalentní standardní kvantové mechanice (v nerelativistickém režimu) a vlnovou funkci naopak bere velmi vážně jako reálné pole.",
+  "source": "John S. Bell, Speakable and Unspeakable in Quantum Mechanics (1987), kap. o bohmovské mechanice",
+  "seedElo": 1700
+ },
+ {
+  "id": "kva-B04",
+  "type": "F",
+  "category": "kvantovka",
+  "text": "Proč se kvůli Groverovu algoritmu doporučuje u symetrických šifer zdvojnásobit délku klíče?",
+  "options": [
+   "Protože Grover snižuje efektivní bezpečnost klíče zhruba na polovinu bitů",
+   "Protože Grover umí odvodit klíč přímo z jediného páru vstup–výstup",
+   "Protože Grover dokáže obejít lavinový efekt v každé blokové šifře",
+   "Protože Grover rozkládá klíč na prvočinitele stejně jako Shorův postup"
+  ],
+  "correct": 0,
+  "explanation": "Hrubá síla nad klíčem délky n bitů znamená 2^n pokusů; Grover je zredukuje na řád 2^(n/2). Ze 128bitového klíče se tak stane efektivně 64bitový, proto se doporučuje AES-256. V praxi je i tak Groverovo zrychlení sporné, protože vyžaduje obrovský sériový kvantový obvod.",
+  "seedElo": 1700,
+  "source": "NIST IR 8105; Grassl, Langenberg, Roetteler, Steinwandt, Applying Grover's Algorithm to AES (2016)"
+ },
+ {
+  "id": "kva-B08",
+  "type": "F",
+  "category": "kvantovka",
+  "text": "Co v žargonu supravodivých qubitů rozlišují časy T1 a T2?",
+  "options": [
+   "T1 je délka jednoho hradla, T2 délka celého kvantového obvodu v čipu",
+   "T1 je teplota kryostatu, T2 teplota vlastního čipu měřená termistorem",
+   "T1 je doba relaxace energie, T2 doba ztráty fázové soudržnosti stavu",
+   "T1 je doba čtení výsledku, T2 doba přípravy qubitu do základního stavu"
+  ],
+  "correct": 2,
+  "explanation": "T1 měří, jak dlouho qubit vydrží v excitovaném stavu, než energii odevzdá okolí. T2 měří, jak dlouho si udrží definovaný fázový vztah mezi svými složkami; vždy platí T2 nejvýše 2·T1. Pro výpočet je klíčový poměr těchto časů k délce jednoho hradla — ten určuje, kolik operací se stihne.",
+  "seedElo": 1700,
+  "source": "Krantz et al., A Quantum Engineer's Guide to Superconducting Qubits, Applied Physics Reviews (2019)"
+ },
+ {
+  "id": "kva-B10",
+  "type": "F",
+  "category": "kvantovka",
+  "text": "Čím se iontové pasti typicky liší od supravodivých qubitů?",
+  "options": [
+   "Mají výrazně delší koherenci a přesnější hradla, ale pomalejší operace",
+   "Mají kratší koherenci i horší hradla, zato pracují za pokojové teploty",
+   "Nepotřebují lasery ani vakuum, protože ionty drží pevná krystalová mřížka",
+   "Umožňují jen měření, nikoli provádění dvouqubitových logických hradel"
+  ],
+  "correct": 0,
+  "explanation": "Zachycené ionty jsou identické od přírody, mají koherenční časy v řádu sekund i déle a dosahují nejvyšších věrností hradel. Platí se za to rychlostí: laserem řízená hradla trvají mikrosekundy až desítky mikrosekund, tedy o tři řády déle než u supravodivých čipů. Škálování na velké registry je zde hlavní překážkou.",
+  "seedElo": 1700,
+  "source": "Cirac & Zoller (1995); Bruzewicz, Chiaverini, McConnell & Sage, Trapped-ion quantum computing, Applied Physics Reviews (2019)"
+ },
+ {
+  "id": "kva-B13",
+  "type": "F",
+  "category": "kvantovka",
+  "text": "Co označuje pojem NISQ, který zavedl John Preskill?",
+  "options": [
+   "Normu pro měření kvality qubitů přijatou americkým úřadem NIST",
+   "Éru strojů s desítkami až stovkami zašuměných qubitů bez plné korekce",
+   "Třídu úloh, jež kvantový počítač vyřeší rychleji než klasický stroj",
+   "Standardní rozhraní pro programování kvantových obvodů v Pythonu"
+  ],
+  "correct": 1,
+  "explanation": "NISQ znamená 'noisy intermediate-scale quantum' — dnešní procesory jsou dost velké, aby se nedaly snadno simulovat, ale příliš zašuměné na chybovou korekci. Preskill sám varoval, že NISQ stroje pravděpodobně nepřinesou komerčně převratné aplikace a jsou spíš mezistupněm k odolným strojům.",
+  "seedElo": 1700,
+  "source": "John Preskill, Quantum Computing in the NISQ era and beyond, Quantum 2, 79 (2018)"
+ },
+ {
+  "id": "kva-B27",
+  "type": "F",
+  "category": "kvantovka",
+  "text": "Proč se elektrony v supravodiči párují, ačkoli se navzájem odpuzují?",
+  "options": [
+   "Silné magnetické pole je k sobě přitiskne přes jejich spinové momenty",
+   "Při velmi nízké teplotě jejich efektivní náboj klesá, odpuzování zmizí",
+   "Páry drží pohromadě výměna virtuálních fotonů mezi dvěma elektrony",
+   "Zprostředkuje to mřížka: kmity iontů dají slabou efektivní přitažlivost"
+  ],
+  "correct": 3,
+  "explanation": "Letící elektron mírně stáhne k sobě kladné ionty mřížky; vzniklý přebytek náboje přitáhne druhý elektron. Tato fononem zprostředkovaná interakce je slabá, ale stačí, aby se elektrony spárovaly. Cooperovy páry mají celočíselný spin, chovají se jako bosony a mohou obsadit společný stav — odtud bezodporový tok proudu.",
+  "seedElo": 1700,
+  "source": "Bardeen, Cooper & Schrieffer, Theory of Superconductivity, Physical Review 108 (1957)"
+ },
+ {
+  "id": "kva-C05",
+  "type": "F",
+  "category": "kvantovka",
+  "text": "Jak dopadlo soupeření maticové a vlnové mechaniky v letech 1925–1926?",
+  "options": [
+   "Ukázalo se, že jde o dvě podoby jedné a téže teorie.",
+   "Maticovou mechaniku brzy vyvrátily experimenty s atomy.",
+   "Vlnová mechanika platí pro světlo, maticová pro hmotu.",
+   "Obě byly opuštěny a nahradil je vylepšený Bohrův model."
+  ],
+  "correct": 0,
+  "explanation": "Heisenberg s Bornem a Jordanem vybudovali roku 1925 abstraktní maticovou mechaniku, Schrödinger o rok později názornější vlnovou rovnici. Zprvu si obě školy vzájemně nadávaly do ošklivé matematiky a naivních obrázků. Ještě v roce 1926 se ale ukázalo, že popisují totéž a dají se do sebe převést.",
+  "source": "Erwin Schrödinger, Über das Verhältnis der Heisenberg-Born-Jordanschen Quantenmechanik zu der meinen, 1926",
+  "seedElo": 1700
+ },
+ {
+  "id": "kva-C15",
+  "type": "F",
+  "category": "kvantovka",
+  "text": "Co nečekaného plynulo z Diracovy rovnice z roku 1928?",
+  "options": [
+   "Že elektron nemůže mít žádnou klidovou hmotnost.",
+   "Že se elektron pohybuje vždy rychlostí světla.",
+   "Že ke každé částici existuje její antičástice.",
+   "Že jádro atomu musí obsahovat i volné elektrony."
+  ],
+  "correct": 2,
+  "explanation": "Dirac hledal rovnici pro elektron slučitelnou se speciální relativitou a vyšla mu řešení se zápornou energií, kterých se nedokázal zbavit. Roku 1931 je vyložil jako částici se stejnou hmotností a opačným nábojem. Carl Anderson pozitron skutečně nalezl ve stopách kosmického záření už v roce 1932.",
+  "source": "P. A. M. Dirac, Proceedings of the Royal Society A 117, 610, 1928; Anderson 1932",
+  "seedElo": 1700
+ },
+ {
+  "id": "kva-C25",
+  "type": "F",
+  "category": "kvantovka",
+  "text": "Čím je standardní model částicové fyziky?",
+  "options": [
+   "Kvantovou teorií pole popisující tři ze čtyř sil.",
+   "Klasickou teorií pole, z níž plyne i gravitace.",
+   "Statistickým modelem chování plynů při nízkých teplotách.",
+   "Souborem tabulek naměřených hmotností všech částic."
+  ],
+  "correct": 0,
+  "explanation": "Standardní model je kvantová teorie pole, v níž jsou částice vybuzeními polí prostupujících celý prostor. Zahrnuje elektromagnetickou, slabou a silnou interakci, gravitaci však nikoli. Jeho poslední chybějící dílek, Higgsův boson, byl na urychlovači LHC nalezen v roce 2012.",
+  "source": "Glashow, Weinberg, Salam (Nobelova cena 1979); CERN, objev Higgsova bosonu 2012",
+  "seedElo": 1700
+ },
+ {
   "id": "kva-15",
   "type": "F",
   "category": "kvantovka",
@@ -256,6 +896,102 @@
   "seedElo": 1750
  },
  {
+  "id": "kva-A14",
+  "type": "F",
+  "category": "kvantovka",
+  "text": "Wheelerův experiment s oddálenou volbou podle standardní kvantové mechaniky ukazuje, že:",
+  "options": [
+   "volba přístroje ovlivňuje minulost fotonu zpětnou kauzalitou",
+   "foton se hned při vstupu do přístroje rozhodne, zda se chová jako vlna",
+   "přisuzovat fotonu dráhu či vlnu před dokončením měření nemá smysl",
+   "interference zmizí vždy, když se volba provede po vstupu fotonu"
+  ],
+  "correct": 2,
+  "explanation": "Wheeler ukázal, že rozhodnutí o zapojení druhého děliče lze udělat až poté, co foton vstoupil do interferometru — a výsledky přesto odpovídají zvolené konfiguraci. Standardní čtení není zpětné působení na minulost, ale to, že mluvit o „dráze“ nezávisle na celém uspořádání měření je bezobsažné. Experimentálně to potvrdila Jacquesova skupina roku 2007.",
+  "source": "J. A. Wheeler, The 'Past' and the 'Delayed-Choice' Double-Slit Experiment (1978); Jacques et al., Science 315 (2007)",
+  "seedElo": 1750
+ },
+ {
+  "id": "kva-A15",
+  "type": "K",
+  "category": "kvantovka",
+  "text": "Von Neumannův „řetěz“ měření vede k závěru, že hranice mezi kvantovým a klasickým popisem:",
+  "options": [
+   "leží u hmotnosti odpovídající zhruba Planckově hmotnosti",
+   "se dá posunout kamkoli po řetězci, aniž se změní předpovědi",
+   "je dána počtem stupňů volnosti měřicího přístroje",
+   "je pevně určena teplotou okolního prostředí přístroje"
+  ],
+  "correct": 1,
+  "explanation": "Von Neumann ukázal, že řez lze umístit mezi částici a přístroj, mezi přístroj a oko, nebo kamkoli dál — statistické předpovědi vyjdou stejně. Právě tato libovolnost je jádrem sporu: teorie neříká, kde se má řez udělat, jen že se udělat musí. Modely typu GRW naopak řez určují fyzikálním parametrem, nikoli volbou popisu.",
+  "source": "John von Neumann, Mathematische Grundlagen der Quantenmechanik (1932), kap. VI",
+  "seedElo": 1750
+ },
+ {
+  "id": "kva-A18",
+  "type": "F",
+  "category": "kvantovka",
+  "text": "Model GRW (Ghirardi–Rimini–Weber) se od standardní kvantové mechaniky liší tím, že:",
+  "options": [
+   "přidává náhodné spontánní lokalizace, jež u velkých těles rychle sílí",
+   "zavádí skryté proměnné určující výsledek každého jednotlivého měření",
+   "popírá platnost Schrödingerovy rovnice pro mikroskopické systémy",
+   "vyžaduje k dokončení kolapsu vědomého pozorovatele v laboratoři"
+  ],
+  "correct": 0,
+  "explanation": "GRW mění samotnou dynamiku: každá částice podléhá velmi vzácné náhodné lokalizaci, ale u tělesa z mnoha částic se četnost násobí, takže makroskopická superpozice zanikne prakticky okamžitě. Jde tedy o objektivní kolaps bez pozorovatele i bez skrytých proměnných — a protože mění předpovědi, je na rozdíl od interpretací experimentálně testovatelný.",
+  "source": "Ghirardi, Rimini & Weber, Unified dynamics for microscopic and macroscopic systems, Phys. Rev. D 34 (1986)",
+  "seedElo": 1750
+ },
+ {
+  "id": "kva-C08",
+  "type": "K",
+  "category": "kvantovka",
+  "text": "Co Einsteinovi na nové kvantové mechanice vadilo nejvíc?",
+  "options": [
+   "Že používá příliš složitou matematiku matic a operátorů.",
+   "Že popírá existenci atomů jako reálných objektů.",
+   "Že nedokáže spočítat spektrum atomu vodíku přesně.",
+   "Že podle ní je náhoda v přírodě něčím zcela základním."
+  ],
+  "correct": 3,
+  "explanation": "Einstein nikdy nepopíral, že teorie funguje a dává správná čísla. Vadilo mu, že ji její tvůrci prohlašovali za konečnou, přestože o jednotlivém výsledku rozhoduje čirá náhoda. Věřil, že pod ní musí ležet hlubší, deterministický popis — a tuto naději nesl až do konce života.",
+  "source": "Korespondence Einstein–Born, 1926–1955 (Born-Einstein Letters)",
+  "seedElo": 1750
+ },
+ {
+  "id": "kva-C13",
+  "type": "K",
+  "category": "kvantovka",
+  "text": "Co spin elektronu rozhodně NENÍ?",
+  "options": [
+   "Skutečné roztočení kuličky elektronu kolem vlastní osy.",
+   "Vlastní moment hybnosti, který elektron nese vždy s sebou.",
+   "Veličina, která nabývá jen několika oddělených hodnot.",
+   "Zdroj magnetického momentu, jímž elektron reaguje na pole."
+  ],
+  "correct": 0,
+  "explanation": "Uhlenbeck a Goudsmit spin roku 1925 zavedli právě s obrazem rotující kuličky a Pauli je za to zpražil: aby elektron dal pozorovaný moment, musel by se na povrchu točit rychleji než světlo. Spin je vnitřní vlastnost částice bez klasické obdoby, podobně jako náboj. Obraz vrtící se kuličky přežívá jen jako mnemotechnická berlička.",
+  "source": "Uhlenbeck & Goudsmit, Naturwissenschaften 13, 953, 1925",
+  "seedElo": 1750
+ },
+ {
+  "id": "kva-C22",
+  "type": "F",
+  "category": "kvantovka",
+  "text": "Co požaduje Bohrův princip korespondence?",
+  "options": [
+   "Aby každá kvantová veličina měla klasický protějšek.",
+   "Aby teorie v mezním případě dala klasické výsledky.",
+   "Aby se všechny konstanty teorie daly odvodit z pozorování.",
+   "Aby dvě soupeřící teorie používaly stejné označení veličin."
+  ],
+  "correct": 1,
+  "explanation": "Nová teorie nesmí popřít to, co stará teorie dobře popisovala. Pro velká kvantová čísla, těžké objekty a velké soustavy musí kvantová mechanika přejít v obvyklou fyziku Newtona a Maxwella. Bohr tento požadavek používal jako vodítko už při hledání pravidel pro atom.",
+  "source": "Niels Bohr, práce o principu korespondence, 1920",
+  "seedElo": 1750
+ },
+ {
   "id": "kva-17",
   "type": "F",
   "category": "kvantovka",
@@ -270,6 +1006,134 @@
   "explanation": "John Bell v roce 1964 odvodil nerovnost, kterou by musely splňovat výsledky měření, pokud by částice měly předem dané, jen skryté, takzvaně lokálně reálné vlastnosti nezávislé na vzdáleném měření. Experimenty opakovaně ukázaly, že tato nerovnost je porušena a výsledky odpovídají předpovědím kvantové mechaniky. Za experimentální potvrzení dostali Clauser, Aspect a Zeilinger Nobelovu cenu za fyziku 2022.",
   "source": "John Bell, Physics (1964); Nobelova cena za fyziku 2022",
   "seedElo": 1780
+ },
+ {
+  "id": "kva-A19",
+  "type": "F",
+  "category": "kvantovka",
+  "text": "Co bylo hlavním přínosem Bellova testu skupiny Ronalda Hansona v Delftu roku 2015?",
+  "options": [
+   "poprvé prokázal porušení Bellovy nerovnosti u fotonových párů",
+   "poprvé změřil Tsirelsonovu mez s přesností na čtyři desetinná místa",
+   "poprvé ukázal, že provázanost lze udržet na vzdálenost přes tisíc km",
+   "poprvé uzavřel mezeru detekce i lokality v jediném experimentu"
+  ],
+  "correct": 3,
+  "explanation": "Dřívější testy zavíraly mezeru detekce (ionty) nebo mezeru lokality (fotony), ale nikdy obě najednou. Delftský experiment s NV centry v diamantu, propojenými přes entanglement swapping na 1,3 km, to zvládl současně; téhož roku ho potvrdily skupiny ve Vídni a v NIST s fotony. Test u fotonů provedl už Clauser roku 1972.",
+  "source": "Hensen et al., Loophole-free Bell inequality violation…, Nature 526 (2015)",
+  "seedElo": 1800
+ },
+ {
+  "id": "kva-A20",
+  "type": "K",
+  "category": "kvantovka",
+  "text": "Které tvrzení nejpřesněji vystihuje, co Bellův teorém vylučuje?",
+  "options": [
+   "Že by částice měly před měřením jakékoli určité vlastnosti",
+   "Že by kvantová mechanika mohla být doplněna skrytými parametry",
+   "Teorie splňující lokální kauzalitu a nezávislost volby měření",
+   "Že by výsledky měření byly ovlivněny nastavením obou přístrojů"
+  ],
+  "correct": 2,
+  "explanation": "Bell odvodil svou nerovnost z lokální kauzality plus pomocných předpokladů, hlavně statistické nezávislosti nastavení; porušení nerovnosti proto vyřazuje celou tuto třídu teorií, ne „realismus“ samostatně. Skryté parametry samy o sobě zakázány nejsou — bohmovská mechanika je má, jen je nelokální. Právě tento rozdíl bývá v populárních výkladech nejčastěji zkreslen.",
+  "source": "J. S. Bell, On the Einstein Podolsky Rosen Paradox, Physics 1 (1964); Norsen, Bell Locality (2011)",
+  "seedElo": 1800
+ },
+ {
+  "id": "kva-B07",
+  "type": "K",
+  "category": "kvantovka",
+  "text": "Co je logický qubit ve srovnání s fyzickým qubitem?",
+  "options": [
+   "Fyzický qubit, který byl softwarově přejmenován kvůli přehlednosti kódu",
+   "Qubit uložený v klasické paměti počítače, jenž řídí kvantový procesor",
+   "Jediný obzvlášť kvalitní fyzický qubit vybraný z čipu jako referenční",
+   "Stav rozprostřený přes mnoho fyzických qubitů, chráněný korekčním kódem"
+  ],
+  "correct": 3,
+  "explanation": "Logický qubit je zakódovaný stav uložený redundantně v mřížce fyzických qubitů, u nichž se průběžně měří syndromy a chyby se opravují. U povrchového kódu se pro prakticky užitečnou logickou chybovost odhadují stovky až tisíce fyzických qubitů na jeden logický — proto je propast mezi 'počtem qubitů' v tiskové zprávě a užitečným výkonem tak velká.",
+  "seedElo": 1800,
+  "source": "Fowler, Mariantoni, Martinis & Cleland, Surface codes: Towards practical large-scale quantum computation, PRA (2012)"
+ },
+ {
+  "id": "kva-B11",
+  "type": "K",
+  "category": "kvantovka",
+  "text": "Co je hlavní potíží fotonických kvantových počítačů?",
+  "options": [
+   "Fotony rychle dekoherují už po několika centimetrech letu ve vlákně",
+   "Fotony spolu prakticky neinteragují, takže dvoufotonová hradla jsou těžká",
+   "Fotony nelze detekovat jednotlivě, měří se vždy jen intenzita svazku",
+   "Fotony vyžadují chlazení pod jeden milikelvin, jinak se rozpadají"
+  ],
+  "correct": 1,
+  "explanation": "Slabá interakce je pro fotony požehnání i prokletí: skvěle drží koherenci a snadno se přenášejí, ale právě proto se z nich těžko staví podmíněná hradla. Řešení KLM ukázalo, že to jde s pomocí měření a pomocných fotonů — za cenu pravděpodobnostního chodu a obrovských nároků na zdroje a detektory.",
+  "seedElo": 1800,
+  "source": "Knill, Laflamme & Milburn, A scheme for efficient quantum computation with linear optics, Nature (2001)"
+ },
+ {
+  "id": "kva-B14",
+  "type": "F",
+  "category": "kvantovka",
+  "text": "Co konkrétně Google v roce 2019 tvrdil o procesoru Sycamore a jak zněla hlavní námitka?",
+  "options": [
+   "Že rozložil 2048bitové RSA; kritici namítli, že šlo o klasickou simulaci",
+   "Že splnil úlohu za dny místo let; kritici uvedli chybu v kalibraci čipu",
+   "Že úlohu zvládl za minuty místo tisíců let; IBM odhadla jen dny",
+   "Že poprvé provozoval logický qubit; kritici zpochybnili čistotu hradel"
+  ],
+  "correct": 2,
+  "explanation": "Sycamore s 53 qubity vzorkoval výstupy náhodných obvodů za zhruba 200 sekund; Google odhadl klasický ekvivalent na 10 000 let. IBM vzápětí ukázala, že s chytrým využitím diskového úložiště by superpočítač Summit zvládl totéž za dny. Pozdější klasické algoritmy náskok stlačily ještě víc — a úloha sama nemá praktické využití.",
+  "seedElo": 1800,
+  "source": "Arute et al., Quantum supremacy using a programmable superconducting processor, Nature 574 (2019); Pednault et al. (IBM), arXiv:1910.09534"
+ },
+ {
+  "id": "kva-B16",
+  "type": "K",
+  "category": "kvantovka",
+  "text": "Jakou roli hraje teorém o nemožnosti klonování v kvantové kryptografii?",
+  "options": [
+   "Znemožňuje útočníkovi pořídit si věrnou kopii letících kvantových stavů",
+   "Zaručuje, že klíč vygenerovaný protokolem bude vždy dokonale náhodný",
+   "Umožňuje příjemci ověřit totožnost odesílatele bez sdíleného tajemství",
+   "Dovoluje zvýšit dosah spoje opakovaným zesílením signálu ve vlákně"
+  ],
+  "correct": 0,
+  "explanation": "Kdyby šlo stavy klonovat, útočník by si jednu kopii uložil, druhou poslal dál a po zveřejnění bází si klíč v klidu dopočítal — odposlech by nezanechal stopu. Zákaz klonování je tedy podmínkou bezpečnosti. Zároveň je to prokletí praxe: klasický optický zesilovač je vlastně kopírka, takže dosah QKD nelze prodlužovat běžnými opakovači.",
+  "seedElo": 1800,
+  "source": "Wootters & Zurek, Nature (1982); Bennett & Brassard (1984)"
+ },
+ {
+  "id": "kva-C10",
+  "type": "F",
+  "category": "kvantovka",
+  "text": "Odkud pochází Einsteinovo „strašidelné působení na dálku“?",
+  "options": [
+   "Z Einsteinovy přednášky na Solvayské konferenci 1927.",
+   "Z Einsteinova dopisu Maxi Bornovi z roku 1947.",
+   "Z původního článku Einsteina, Podolského a Rosena.",
+   "Z Bohrovy odpovědi Einsteinovi na stránkách Nature."
+  ],
+  "correct": 1,
+  "explanation": "Německé „spukhafte Fernwirkung“ Einstein použil v soukromé korespondenci s Maxem Bornem, nikoli v odborném článku. Vysvětloval v ní, proč nemůže přijmout obraz, v němž zásah na jednom místě okamžitě zasahuje do popisu vzdáleného systému. Fráze se ujala až mnohem později jako populární označení celého sporu.",
+  "source": "Dopis A. Einsteina M. Bornovi, 3. března 1947 (Born-Einstein Letters)",
+  "seedElo": 1800
+ },
+ {
+  "id": "kva-C11",
+  "type": "F",
+  "category": "kvantovka",
+  "text": "Proč byla práce Johna Bella z roku 1964 zlomová?",
+  "options": [
+   "Dokázala, že kvantová mechanika je vnitřně sporná.",
+   "Umožnila poprvé přesně spočítat energii atomu helia.",
+   "Ukázala, že filosofický spor lze rozhodnout pokusem.",
+   "Vysvětlila, proč elektron nese poloviční spin."
+  ],
+  "correct": 2,
+  "explanation": "Téměř třicet let se hádka o EPR pokládala za věc názoru, kterou žádný přístroj nerozsoudí. Bell ukázal, že mezi předpoklady Einsteinova tábora a předpověďmi kvantové mechaniky je měřitelný rozdíl. Filosofická otázka se tím proměnila v laboratorní úlohu — a experimenty ji od sedmdesátých let postupně rozhodly.",
+  "source": "John S. Bell, On the Einstein Podolsky Rosen Paradox, Physics 1, 195, 1964",
+  "seedElo": 1800
  },
  {
   "id": "kva-18",
@@ -304,6 +1168,150 @@
   "seedElo": 1840
  },
  {
+  "id": "kva-A23",
+  "type": "F",
+  "category": "kvantovka",
+  "text": "Slabá hodnota (Aharonov, Albert, Vaidman 1988) vzniká tak, že:",
+  "options": [
+   "mezi předvýběrem a povýběrem se provede jen velmi slabá vazba",
+   "se táž veličina měří mnohokrát opakovaně na jediném systému",
+   "se výsledek silného měření zprůměruje přes všechny výstupy",
+   "se z provázaného páru odečte jen jeden ze dvou detektorů"
+  ],
+  "correct": 0,
+  "explanation": "Systém se připraví v jednom stavu, slabě se na něj naváže ukazatel (takže se stav téměř nenaruší) a nakonec se vybere jen podsoubor s určitým koncovým výsledkem. Průměr ukazatele v tomto podsouboru může ležet i mimo spektrum operátoru — proslulá „hodnota 100“ u spinu 1/2. Slabé hodnoty jsou statistický efekt postselekce, nikoli hodnota naměřená na jednom běhu.",
+  "source": "Aharonov, Albert & Vaidman, Phys. Rev. Lett. 60 (1988)",
+  "seedElo": 1850
+ },
+ {
+  "id": "kva-A24",
+  "type": "K",
+  "category": "kvantovka",
+  "text": "Čím kvantový darwinismus (Zurek) rozšiřuje samotnou teorii dekoherence?",
+  "options": [
+   "Zavádí nelineární člen, který dokončuje kolaps vlnové funkce",
+   "Odvozuje Bornovo pravidlo z četnosti výskytu ve větvích světa",
+   "Vysvětluje, proč tutéž informaci čte nezávisle mnoho pozorovatelů",
+   "Ukazuje, že prostředí je vždy v dokonalé tepelné rovnováze se systémem"
+  ],
+  "correct": 2,
+  "explanation": "Dekoherence popisuje, jak prostředí zničí koherenci; kvantový darwinismus dodává, že informace o pointerových stavech se v prostředí navíc mnohonásobně replikuje, takže si ji nezávislí pozorovatelé mohou přečíst z různých fragmentů a shodnou se. Právě tato redundance dělá vlastnost „objektivní“ v běžném smyslu. Kolaps to ale stále nepřidává.",
+  "source": "W. H. Zurek, Quantum Darwinism, Nature Physics 5 (2009)",
+  "seedElo": 1850
+ },
+ {
+  "id": "kva-B06",
+  "type": "K",
+  "category": "kvantovka",
+  "text": "Co tvrdí prahový teorém (threshold theorem) kvantové chybové korekce?",
+  "options": [
+   "Existuje práh, pod který nelze chybovost fyzických hradel nikdy stlačit",
+   "Po překročení tisíce qubitů začnou chyby klesat samovolně s velikostí",
+   "Korekci lze provádět jen tehdy, je-li počet qubitů mocninou dvojky",
+   "Klesne-li chybovost operací pod jistý práh, lze chybu potlačit libovolně"
+  ],
+  "correct": 3,
+  "explanation": "Prahový teorém je důvod, proč se kvantové počítače vůbec berou vážně: pokud fyzická chybovost klesne pod určitou mez (podle modelu typicky kolem 10^-2 až 10^-4), lze přidáváním dalších qubitů snižovat logickou chybovost exponenciálně. Cenou je obrovská režie fyzických qubitů na jeden logický.",
+  "seedElo": 1850,
+  "source": "Aharonov & Ben-Or (1997); Knill, Laflamme & Zurek, Resilient Quantum Computation (1998)"
+ },
+ {
+  "id": "kva-B12",
+  "type": "F",
+  "category": "kvantovka",
+  "text": "Na čem staví naděje vkládané do topologických qubitů?",
+  "options": [
+   "Na tom, že informace je uložena v nelokálních vlastnostech odolných k šumu",
+   "Na tom, že jejich výroba je levná a zvládne ji běžná křemíková továrna",
+   "Na tom, že nepotřebují žádnou chybovou korekci ani měření syndromu",
+   "Na tom, že jediný takový qubit nahradí celý klasický superpočítač"
+  ],
+  "correct": 0,
+  "explanation": "Kitaevova myšlenka je uložit informaci do globální, topologické vlastnosti systému (například vzájemné polohy Majoranových kvazičástic), kterou lokální porucha nezmění. Hardwarová odolnost by dramaticky snížila režii korekce. Zádrhel je experimentální: existence a ovladatelnost potřebných kvazičástic zůstává předmětem sporů.",
+  "seedElo": 1850,
+  "source": "Alexei Kitaev, Fault-tolerant quantum computation by anyons, Annals of Physics (2003)"
+ },
+ {
+  "id": "kva-B18",
+  "type": "F",
+  "category": "kvantovka",
+  "text": "Na jaké matematické problémy sází většina algoritmů vybraných v soutěži NIST na postkvantovou kryptografii?",
+  "options": [
+   "Na rozklad součinu dvou velkých prvočísel, jen s mnohem delšími klíči",
+   "Na diskrétní logaritmus v grupách bodů na eliptických křivkách nad tělesy",
+   "Na fyzikální nemožnost změřit kvantový stav bez jeho současného narušení",
+   "Na obtížné úlohy v bodových mřížkách, hlavně na hledání krátkých vektorů"
+  ],
+  "correct": 3,
+  "explanation": "Vítězný ML-KEM (dříve CRYSTALS-Kyber) i podpisové ML-DSA stojí na mřížkových problémech typu Learning With Errors, pro něž není znám efektivní kvantový algoritmus. Doplňkově NIST standardizoval podpisy založené na hašovacích funkcích. Naopak schémata z izogenií eliptických křivek — SIKE — padla roku 2022 na obyčejném notebooku.",
+  "seedElo": 1850,
+  "source": "NIST FIPS 203/204/205 (2024); Castryck & Decru, An efficient key recovery attack on SIDH (2022)"
+ },
+ {
+  "id": "kva-C14",
+  "type": "F",
+  "category": "kvantovka",
+  "text": "Co se stalo ve Sternově–Gerlachově pokusu v roce 1922?",
+  "options": [
+   "Svazek atomů prošel magnetem zcela bez jakékoli změny.",
+   "Svazek stříbrných atomů se rozdělil na dva oddělené pruhy.",
+   "Atomy stříbra se v silném magnetickém poli zcela rozpadly.",
+   "Svazek se rozmazal do spojitého pásu, jak čekala fyzika."
+  ],
+  "correct": 1,
+  "explanation": "Klasická představa předpovídala rozmazaný pás, protože magnetické momenty atomů by měly mířit do všech směrů. Místo toho se na sklíčku objevily dvě zřetelné stopy. Pokus byl původně zamýšlen jako test Bohrovy–Sommerfeldovy kvantizace a jeho dnešní výklad pomocí spinu elektronu vznikl až o tři roky později.",
+  "source": "Otto Stern & Walther Gerlach, Zeitschrift für Physik 9, 349, 1922",
+  "seedElo": 1850
+ },
+ {
+  "id": "kva-C16",
+  "type": "F",
+  "category": "kvantovka",
+  "text": "Jak laicky popsat Feynmanovy dráhové integrály?",
+  "options": [
+   "Částice si vybere nejkratší dráhu a tou vždy projde.",
+   "Dráha částice se počítá zpětně až po jejím dopadu.",
+   "Částice se pohybuje po dráze s nejmenší energií.",
+   "Sečteme příspěvky všech myslitelných drah mezi body."
+  ],
+  "correct": 3,
+  "explanation": "Místo jediné trajektorie přisoudí Feynmanův přístup každé představitelné cestě z bodu A do bodu B jistý příspěvek a všechny je sečte. Většina se navzájem vyruší a přežije okolí té dráhy, kterou by zvolila klasická fyzika. Metodu Feynman rozvinul ve své disertaci z roku 1942, navazuje na starší poznámku Diracovu.",
+  "source": "R. P. Feynman, Reviews of Modern Physics 20, 367, 1948 (disertace Princeton 1942)",
+  "seedElo": 1850
+ },
+ {
+  "id": "kva-C28",
+  "type": "K",
+  "category": "kvantovka",
+  "text": "Podle čeho se částice dělí na fermiony a bosony?",
+  "options": [
+   "Podle toho, zda nesou elektrický náboj, nebo ne.",
+   "Podle své hmotnosti, hranicí je hmotnost protonu.",
+   "Podle toho, zda mohou existovat i mimo atomové jádro.",
+   "Podle spinu: poločíselného, nebo celočíselného."
+  ],
+  "correct": 3,
+  "explanation": "Částice s poločíselným spinem, jako elektron, se řídí Fermiho–Diracovou statistikou a platí pro ně Pauliho princip. Částice s celočíselným spinem, jako foton, se řídí Boseho–Einsteinovou statistikou a mohou se ve stejném stavu hromadit. Souvislost spinu a statistiky odvodil Pauli v roce 1940.",
+  "source": "Wolfgang Pauli, The Connection Between Spin and Statistics, Physical Review 58, 716, 1940",
+  "seedElo": 1850
+ },
+ {
+  "id": "kva-C29",
+  "type": "F",
+  "category": "kvantovka",
+  "text": "Čím Arnold Sommerfeld v roce 1916 rozšířil Bohrův model?",
+  "options": [
+   "Přidal eliptické dráhy a vysvětlil jemnou strukturu čar.",
+   "Nahradil elektrony vlnovými balíky s konečnou šířkou.",
+   "Zavedl do modelu atomu druhé, záporně nabité jádro.",
+   "Dokázal, že elektron obíhá rychleji, než se šíří světlo."
+  ],
+  "correct": 0,
+  "explanation": "Sommerfeld doplnil kruhové dráhy o eliptické a započítal relativistické opravy. Tím vysvětlil, proč se některé spektrální čáry při jemném rozlišení štěpí na několik blízkých. Při té příležitosti se v jeho výpočtech objevila konstanta jemné struktury, jedno z nejzáhadnějších čísel fyziky.",
+  "source": "Arnold Sommerfeld, Annalen der Physik 51, 1, 1916",
+  "seedElo": 1850
+ },
+ {
   "id": "kva-20",
   "type": "F",
   "category": "kvantovka",
@@ -318,5 +1326,277 @@
   "explanation": "Schrödingerova rovnice popisuje hladký, deterministický vývoj vlnové funkce v superpozici. Nikde v samotné teorii ale není zabudováno pravidlo, které by řeklo, přesně kdy a jak k „výběru“ jednoho výsledku při měření dochází — to se do teorie jen přidává jako dodatečný postulát. Různé interpretace, kodaňská, mnohosvětová, de Broglie-Bohmova a další, se snaží tuto mezeru vyplnit odlišnými způsoby, ale shoda mezi fyziky zatím neexistuje.",
   "source": "Sean Carroll, Something Deeply Hidden; Maximilian Schlosshauer, Decoherence and the Quantum-to-Classical Transition",
   "seedElo": 1870
+ },
+ {
+  "id": "kva-A25",
+  "type": "F",
+  "category": "kvantovka",
+  "text": "Maudlinova ostrá formulace problému měření ukazuje, že nemohou platit současně tři věci. Které?",
+  "options": [
+   "Linearita, nelokalita a existence skrytých parametrů částic",
+   "Unitarita, zachování energie a určitost výsledků měření",
+   "Úplnost vlnové funkce, unitární vývoj a určité výsledky",
+   "Lokalita, kontextualita a platnost Bornova pravidla"
+  ],
+  "correct": 2,
+  "explanation": "Maudlin ukázal, že tato trojice je nekonzistentní, a rovnou tím roztřídil interpretace: bohmovská mechanika obětuje úplnost vlnové funkce, GRW obětuje vždy unitární vývoj a everettovská interpretace obětuje jedinost výsledku. Síla formulace je v tom, že nejde o nejasnou „záhadu“, ale o tři explicitní předpoklady, z nichž jeden musí padnout.",
+  "source": "Tim Maudlin, Three Measurement Problems, Topoi 14 (1995)",
+  "seedElo": 1900
+ },
+ {
+  "id": "kva-A27",
+  "type": "F",
+  "category": "kvantovka",
+  "text": "Čím se argument GHZ (Greenberger, Horne, Zeilinger) liší od původního Bellova?",
+  "options": [
+   "Rozpor s lokálním realismem plyne z jediného měření, ne ze statistiky",
+   "Používá dvě částice místo tří a vystačí si s jediným detektorem",
+   "Platí pouze pro fotony, protože využívá výhradně jejich polarizaci",
+   "Nevyžaduje předpoklad nezávislosti volby nastavení měřicích přístrojů"
+  ],
+  "correct": 0,
+  "explanation": "U tří provázaných částic ve stavu GHZ vede lokálně realistické uvažování k předpovědi, která je přesně opačná než kvantová — jde tedy o rozpor „vše nebo nic“, nikoli o nerovnost mezi průměry. V ideálním případě by stačil jediný běh; skutečné experimenty samozřejmě statistiku potřebují kvůli šumu. Předpoklad volnosti volby zůstává i zde.",
+  "source": "Greenberger, Horne, Shimony & Zeilinger, Am. J. Phys. 58 (1990); Mermin, Phys. Today 43 (1990)",
+  "seedElo": 1900
+ },
+ {
+  "id": "kva-A28",
+  "type": "K",
+  "category": "kvantovka",
+  "text": "Leggett–Gargovy nerovnosti se od Bellových liší tím, že testují:",
+  "options": [
+   "korelace mezi dvěma vzdálenými částicemi v jednom okamžiku",
+   "korelace téhož systému v různých časech proti makrorealismu",
+   "shodu předpovědi a měření v souborech mnoha stejných částic",
+   "závislost výsledku na kontextu současně měřených veličin"
+  ],
+  "correct": 1,
+  "explanation": "Leggett a Garg nahradili prostorovou separaci časovou: předpokládají makrorealismus (systém je vždy v jednom z dostupných stavů) a neinvazivní měřitelnost, a z toho odvodí nerovnost pro korelace mezi měřeními v různých časech. Proto se jim říká „Bellovy nerovnosti v čase“. Slabým místem je právě předpoklad neinvazivního měření.",
+  "source": "Leggett & Garg, Quantum mechanics versus macroscopic realism, Phys. Rev. Lett. 54 (1985)",
+  "seedElo": 1900
+ },
+ {
+  "id": "kva-B20",
+  "type": "K",
+  "category": "kvantovka",
+  "text": "Co dokážou dnešní optické atomové hodiny předvést kromě lepšího měření času?",
+  "options": [
+   "Změřit hmotnost jednotlivého atomu s přesností na jeden elektron",
+   "Zaznamenat průchod gravitační vlny bez použití laserového interferometru",
+   "Určit polohu na Zemi s přesností pod jeden milimetr bez družic",
+   "Ukázat rozdíl v běhu času při zvednutí hodin o pouhé centimetry"
+  ],
+  "correct": 3,
+  "explanation": "Optické hodiny s ionty nebo mřížkou neutrálních atomů dosahují relativní nejistoty pod 10^-18. Při takové přesnosti je gravitační dilatace času měřitelná na výškovém rozdílu centimetrů — a v jednom mračnu ultrachladných atomů dokonce napříč milimetrem. Vzniká tak 'relativistická geodézie': hodiny měří rozdíly gravitačního potenciálu.",
+  "seedElo": 1900,
+  "source": "Chou, Hume, Rosenband & Wineland, Optical Clocks and Relativity, Science 329 (2010); Bothwell et al., Nature 602 (2022)"
+ },
+ {
+  "id": "kva-B23",
+  "type": "F",
+  "category": "kvantovka",
+  "text": "Jak dnes vypadá stav důkazů o takzvané kvantové koherenci ve fotosyntetických komplexech?",
+  "options": [
+   "Dlouhotrvající elektronová koherence je prokázána i za pokojové teploty",
+   "Koherence byla vyvrácena, měřené signály pocházely z chyby přístroje",
+   "Původní signály jsou dnes vykládány spíše jako vibrační, ne elektronové",
+   "Koherence je doložena jen u rostlin, nikoli u fotosyntetických bakterií"
+  ],
+  "correct": 2,
+  "explanation": "Práce z let 2007 a dále ukázaly ve dvourozměrné spektroskopii komplexu FMO oscilační signály, které byly interpretovány jako dlouhá elektronová koherence pomáhající přenosu energie. Novější měření a analýzy je připisují převážně vibračním pohybům jader a odhadují elektronovou koherenci na desítky femtosekund. Kvantové efekty v přenosu tedy nejsou popřeny, ale role 'kvantového urychlení' je dnes hodnocena mnohem střízlivěji.",
+  "seedElo": 1900,
+  "source": "Engel et al., Nature 446 (2007); Duan et al., PNAS 114 (2017); Cao et al., Science Advances 6 (2020)"
+ },
+ {
+  "id": "kva-C17",
+  "type": "F",
+  "category": "kvantovka",
+  "text": "Co znamená renormalizace v kvantové teorii pole?",
+  "options": [
+   "Postup, jak nekonečna schovat do měřené hmotnosti a náboje.",
+   "Metoda, jak zaokrouhlit výsledky na měřitelný počet číslic.",
+   "Přepočet výsledků z jedné soustavy jednotek do druhé.",
+   "Způsob, jak z teorie odstranit záporné pravděpodobnosti."
+  ],
+  "correct": 0,
+  "explanation": "První výpočty v kvantové elektrodynamice dávaly na řadě míst nekonečné hodnoty. Renormalizace ukázala, že tyto nekonečné příspěvky lze beze zbytku vstřebat do definice hmotnosti a náboje, které stejně známe jen z měření. Zbytek teorie pak dává konečné a velmi přesné předpovědi.",
+  "source": "Tomonaga, Schwinger a Feynman, práce z let 1946–1949",
+  "seedElo": 1900
+ },
+ {
+  "id": "kva-C20",
+  "type": "K",
+  "category": "kvantovka",
+  "text": "Co je Hilbertův prostor v kvantové teorii?",
+  "options": [
+   "Trojrozměrný prostor, v němž se částice reálně pohybuje.",
+   "Zvláštní oblast kolem jádra, kde smí být jen elektrony.",
+   "Prostor mezi dvěma zrcadly, v němž se skládají vlny.",
+   "Abstraktní prostor, jehož body jsou možné stavy systému."
+  ],
+  "correct": 3,
+  "explanation": "Není to místo, kde by se něco odehrávalo — je to matematická scéna, na níž každý možný stav systému odpovídá jednomu směru či bodu. Můžeme v něm sčítat stavy a měřit „úhly“ mezi nimi, což dává pravidla pro pravděpodobnosti. Do kvantové mechaniky ho systematicky zavedl John von Neumann roku 1932.",
+  "source": "John von Neumann, Mathematische Grundlagen der Quantenmechanik, 1932",
+  "seedElo": 1900
+ },
+ {
+  "id": "kva-A29",
+  "type": "F",
+  "category": "kvantovka",
+  "text": "Kochen–Speckerův teorém vylučuje modely, které:",
+  "options": [
+   "přiřazují každé veličině hodnotu závislou na měřicím kontextu",
+   "přiřazují všem veličinám hodnoty nezávisle na měřicím kontextu",
+   "připouštějí nelokální vliv mezi vzdálenými částicemi páru",
+   "popisují stav systému vlnovou funkcí v Hilbertově prostoru"
+  ],
+  "correct": 1,
+  "explanation": "V Hilbertově prostoru dimenze alespoň tři nelze všem projektorům konzistentně přiřadit hodnoty 0/1 tak, aby výsledek nezávisel na tom, s jakými dalšími veličinami se daná veličina měří. Na rozdíl od Bellova teorému nepotřebuje předpoklad lokality ani dvě oddělené laboratoře — jde o čistě algebraický důkaz. Kontextuální modely, jako bohmovská mechanika, tedy přežívají.",
+  "source": "Kochen & Specker, The Problem of Hidden Variables in Quantum Mechanics, J. Math. Mech. 17 (1967)",
+  "seedElo": 1950
+ },
+ {
+  "id": "kva-A30",
+  "type": "F",
+  "category": "kvantovka",
+  "text": "Pusey–Barrett–Rudolphův teorém (2012) za jistých předpokladů ukazuje, že:",
+  "options": [
+   "žádná teorie se skrytými parametry nemůže reprodukovat kvantové předpovědi",
+   "kvantový stav lze vždy určit jediným měřením na jediné kopii systému",
+   "kvantový stav nemůže být jen neúplnou informací o skutečném stavu",
+   "provázané stavy porušují Tsirelsonovu mez v systémech vyšší dimenze"
+  ],
+  "correct": 2,
+  "explanation": "PBR ukazuje, že za předpokladu existence objektivního stavu a nezávislosti nezávisle připravených systémů nemohou dvě různé vlnové funkce odpovídat témuž skutečnému stavu — vlnová funkce je tedy „ψ-ontická“, ne pouhá znalost. Únikem zůstávají výklady, které předpoklad nezávislé přípravy odmítnou, nebo ty, které objektivní stav vůbec nepředpokládají, jako QBism.",
+  "source": "Pusey, Barrett & Rudolph, On the reality of the quantum state, Nature Physics 8 (2012)",
+  "seedElo": 1950
+ },
+ {
+  "id": "kva-A31",
+  "type": "F",
+  "category": "kvantovka",
+  "text": "Proč bohmovská mechanika reprodukuje Bornovo pravidlo?",
+  "options": [
+   "Předpokládá počáteční rozdělení poloh podle |ψ|², jež se pak zachová",
+   "Bornovo pravidlo v ní plyne přímo z tvaru vodicí rovnice pro pohyb částic",
+   "Trajektorie částic jsou náhodné s rozdělením daným Gaussovou funkcí",
+   "Pilotní vlna při měření kolabuje stejně jako v kodaňském výkladu"
+  ],
+  "correct": 0,
+  "explanation": "Vodicí rovnice sama pravděpodobnosti nediktuje; potřeba je navíc hypotéza kvantové rovnováhy, tedy že polohy jsou na počátku rozděleny podle |ψ|². Rovnice kontinuity pak zajistí, že se toto rozdělení udrží navždy — proto je stav rovnováhy „ekvivariantní“. Valentini zkoumal, zda by se nerovnovážné rozdělení dalo někde v přírodě najít; zatím marně.",
+  "source": "Dürr, Goldstein & Zanghì, Quantum Equilibrium and the Origin of Absolute Uncertainty, J. Stat. Phys. 67 (1992)",
+  "seedElo": 1950
+ },
+ {
+  "id": "kva-A32",
+  "type": "K",
+  "category": "kvantovka",
+  "text": "Argument Frauchigera a Rennera (2018) je konstruován tak, aby ukázal:",
+  "options": [
+   "že dekoherence probíhá pomaleji, než předpovídají standardní modely",
+   "že vlnová funkce musí být reálným polem, nikoli popisem znalosti",
+   "že provázanost tří a více částic porušuje podmínku nesignalizace",
+   "že soubor běžných předpokladů o měření vede k rozporným závěrům"
+  ],
+  "correct": 3,
+  "explanation": "Rozšířený Wignerův přítel se dvěma laboratořemi ukazuje, že nelze současně držet univerzální platnost kvantové teorie, jedinost výsledků a konzistenci úsudků agentů o úsudcích jiných agentů. Autoři netvrdí, že je teorie špatná — ukazují, že každá interpretace musí jeden z předpokladů obětovat, a různé interpretace obětují různé.",
+  "source": "Frauchiger & Renner, Quantum theory cannot consistently describe the use of itself, Nature Communications 9 (2018)",
+  "seedElo": 1950
+ },
+ {
+  "id": "kva-B22",
+  "type": "F",
+  "category": "kvantovka",
+  "text": "Jak kvantová optika pomohla zlepšit citlivost detektorů gravitačních vln?",
+  "options": [
+   "Nahrazením zrcadel supravodivými plochami, jež odrážejí naprosto vše světlo",
+   "Vstřikováním stlačeného světla, které potlačí kvantový šum měření fáze",
+   "Použitím provázaných fotonů putujících oběma rameny interferometru",
+   "Chlazením laserového svazku na milikelvinové teploty před vysláním"
+  ],
+  "correct": 1,
+  "explanation": "Citlivost interferometru je limitována kvantovým šumem světla. Stlačený (squeezed) stav umožňuje přerozdělit neurčitost mezi fází a amplitudou tak, že šum ve sledované veličině klesne pod běžnou mez. LIGO a Virgo takové světlo rutinně vstřikují od roku 2019 a rozšířily tím dosah detekce o desítky procent.",
+  "seedElo": 1950,
+  "source": "Caves, Quantum-mechanical noise in an interferometer, PRD (1981); Tse et al., PRL 123 (2019)"
+ },
+ {
+  "id": "kva-B29",
+  "type": "F",
+  "category": "kvantovka",
+  "text": "Proč je celočíselný kvantový Hallův jev důležitý pro metrologii?",
+  "options": [
+   "Umožňuje měřit teplotu vzorku nezávisle na použitém termočlánku",
+   "Dovoluje určit hmotnost elektronu přímo z tvaru naměřené křivky",
+   "Dává absolutní stupnici magnetické indukce nezávislou na geometrii",
+   "Hallův odpor nabývá hodnot h/(ie²) téměř nezávisle na vzorku"
+  ],
+  "correct": 3,
+  "explanation": "Von Klitzing roku 1980 zjistil, že Hallův odpor dvourozměrného elektronového plynu ve schodech přesně odpovídá podílu Planckovy konstanty a druhé mocniny náboje elektronu, děleno celým číslem. Reprodukovatelnost je taková, že se od roku 1990 používá jako etalon odporu; s ním souvisejícím způsobem se dnes definuje i ampér.",
+  "seedElo": 1950,
+  "source": "von Klitzing, Dorda & Pepper, PRL 45 (1980); BIPM, mise en pratique for the ohm"
+ },
+ {
+  "id": "kva-B32",
+  "type": "K",
+  "category": "kvantovka",
+  "text": "Jak se dnes řeší paradox Maxwellova démona?",
+  "options": [
+   "Démon by musel být rychlejší než světlo, což fyzika zakazuje",
+   "Molekuly nelze rozlišit podle rychlosti, protože jsou nerozlišitelné",
+   "Dvířka by musela mít nulovou hmotnost, jinak práci nezískáme",
+   "Démonova paměť se plní; její mazání vrátí entropii zpět do systému"
+  ],
+  "correct": 3,
+  "explanation": "Szilard ukázal, že démon získává práci díky informaci, a dlouho se soudilo, že cenu platí měření. Bennett to opravil: měřit lze v principu vratně, ale démon má konečnou paměť, a jakmile ji musí uvolnit, zaplatí Landauerovu daň. Účetnictví druhého zákona se tak uzavře — informace je zde fyzikální veličinou, ne metaforou.",
+  "seedElo": 1950,
+  "source": "Leó Szilárd (1929); Charles Bennett, The Thermodynamics of Computation — a Review, IJTP 21 (1982)"
+ },
+ {
+  "id": "kva-C23",
+  "type": "K",
+  "category": "kvantovka",
+  "text": "Co říká Ehrenfestův teorém z roku 1927?",
+  "options": [
+   "Že každá kvantová veličina má nejistotu danou konstantou.",
+   "Že se vlnová funkce s časem nutně rozplývá do prostoru.",
+   "Že střední hodnoty veličin se řídí klasickými rovnicemi.",
+   "Že energii systému nelze změřit rychleji než za jistý čas."
+  ],
+  "correct": 2,
+  "explanation": "Ehrenfest ukázal, že průměrné hodnoty polohy a hybnosti splňují vztahy formálně shodné s Newtonovými zákony. Je to jeden z konkrétních mostů mezi kvantovým a klasickým popisem světa. Neznamená to ovšem, že se kvantový systém chová klasicky — platí to o průměrech, ne o jednotlivých výsledcích.",
+  "source": "Paul Ehrenfest, Zeitschrift für Physik 45, 455, 1927",
+  "seedElo": 1950
+ },
+ {
+  "id": "kva-C30",
+  "type": "K",
+  "category": "kvantovka",
+  "text": "Čím přispěl John von Neumann knihou z roku 1932?",
+  "options": [
+   "Poprvé experimentálně změřil spin volného elektronu.",
+   "Dal kvantové mechanice přesný matematický základ.",
+   "Odvodil z kvantové teorie hodnotu Planckovy konstanty.",
+   "Ukázal, že kvantová mechanika je vnitřně rozporná."
+  ],
+  "correct": 1,
+  "explanation": "Fyzikové v té době počítali obratně, ale matematicky nedbale — Diracova delta funkce byla dobrým příkladem. Von Neumann celý aparát postavil na pevný základ operátorů v Hilbertově prostoru a formuloval jej axiomaticky. Jeho kniha zůstala referenčním textem po celá desetiletí.",
+  "source": "John von Neumann, Mathematische Grundlagen der Quantenmechanik, Berlín 1932",
+  "seedElo": 1950
+ },
+ {
+  "id": "kva-C31",
+  "type": "K",
+  "category": "kvantovka",
+  "text": "Co Niels Bohr nazýval komplementaritou?",
+  "options": [
+   "Že se dvě různé částice mohou doplnit na jeden celek.",
+   "Že součet pravděpodobností všech výsledků dává jedničku.",
+   "Že vlnový a částicový popis se doplňují, ale nesejdou.",
+   "Že každý zákon fyziky má svůj zrcadlový protějšek."
+  ],
+  "correct": 2,
+  "explanation": "Bohr myšlenku poprvé veřejně přednesl v italském Comu roku 1927. Tvrdil, že oba popisy jsou k úplnému porozumění nutné, ale nikdy je nepoužijeme v jednom a témže uspořádání pokusu. Uspořádání experimentu podle něj rozhoduje o tom, který jazyk má vůbec smysl.",
+  "source": "Niels Bohr, přednáška v Comu 1927, publikováno v Nature 121, 580, 1928",
+  "seedElo": 1950
  }
 ]
