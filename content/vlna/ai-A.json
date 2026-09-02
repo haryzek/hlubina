@@ -1,0 +1,706 @@
+[
+  {
+    "id": "ai-A01",
+    "type": "K",
+    "category": "ai",
+    "text": "Hlavní důvod, proč transformery vytlačily rekurentní sítě u velkých jazykových modelů, je:",
+    "options": [
+      "výpočet přes všechny pozice sekvence lze provést paralelně",
+      "mají podstatně méně parametrů při srovnatelné kvalitě výstupu",
+      "nepotřebují při učení zpětné šíření chyby přes vrstvy",
+      "dokážou pracovat s libovolně dlouhým vstupem bez omezení"
+    ],
+    "correct": 0,
+    "explanation": "Rekurentní síť musí zpracovat token po tokenu, takže trénink nelze rozprostřít po sekvenci a moderní akcelerátory zůstávají nevyužité. Transformer spočítá pozornost pro všechny pozice najednou, což umožnilo škálovat na řádově větší korpusy. LSTM přitom vyřešily mizející gradient, ale sekvenční závislost jim zůstala; naopak transformer si za paralelizaci platí pevným kontextovým oknem.",
+    "source": "Vaswani et al., Attention Is All You Need, NeurIPS 2017",
+    "seedElo": 1550
+  },
+  {
+    "id": "ai-A02",
+    "type": "F",
+    "category": "ai",
+    "text": "Nastavení teploty na nulu při generování znamená, že model:",
+    "options": [
+      "vzorkuje rovnoměrně ze všech tokenů s nenulovou pravděpodobností",
+      "vždy vybere token s nejvyšší pravděpodobností, tedy greedy dekódování",
+      "přestane používat softmax a vrací rovnou surové hodnoty logitů",
+      "vybírá token náhodně ze stovky nejpravděpodobnějších kandidátů"
+    ],
+    "correct": 1,
+    "explanation": "Teplota dělí logity před softmaxem: čím nižší, tím špičatější rozdělení. V limitě k nule zbude jediný kandidát, takže vzorkování přejde v deterministický výběr maxima. Ani to ale nezaručí bitově shodné výstupy, protože pořadí operací na GPU se může lišit.",
+    "source": "Holtzman et al., The Curious Case of Neural Text Degeneration, ICLR 2020",
+    "seedElo": 1500
+  },
+  {
+    "id": "ai-A03",
+    "type": "F",
+    "category": "ai",
+    "text": "Nucleus sampling (top-p) se od top-k liší tím, že:",
+    "options": [
+      "váhuje kandidáty podle jejich pořadí, ne podle pravděpodobnosti",
+      "aplikuje se až po teplotě, zatímco top-k se aplikuje před ní",
+      "počet uvažovaných tokenů kolísá podle tvaru rozdělení v daném kroku",
+      "odřezává tokeny podle absolutního prahu pravděpodobnosti, ne pořadí"
+    ],
+    "correct": 2,
+    "explanation": "Top-k bere pevný počet nejlepších tokenů bez ohledu na to, jak ploché rozdělení zrovna je. Top-p bere nejmenší množinu, jejíž kumulativní pravděpodobnost překročí p, takže u jistého kroku to může být jediný token a u nejistého stovky. Holtzman zároveň ukázal, že čisté maximalizování pravděpodobnosti vede k degenerativnímu opakování.",
+    "source": "Holtzman et al., The Curious Case of Neural Text Degeneration, ICLR 2020",
+    "seedElo": 1580
+  },
+  {
+    "id": "ai-A04",
+    "type": "K",
+    "category": "ai",
+    "text": "RAG dodá modelu do promptu nalezené pasáže. Nejčastěji zmiňovaná mez tohoto postupu je, že:",
+    "options": [
+      "vyhledávač musí být trénován společně s modelem, jinak nefunguje",
+      "prodlužuje kontext natolik, že model ztrácí schopnost generovat",
+      "vektorové vyhledávání nedokáže pracovat s texty v jiných jazycích",
+      "model může nalezené pasáže ignorovat a odpovědět podle svých vah"
+    ],
+    "correct": 3,
+    "explanation": "Retrieval mění jen vstup a nemá kontrolu nad tím, co s ním model udělá: může pasážím odporovat, mísit je s naučeným, nebo přehlédnout to, co leží uprostřed dlouhého kontextu. Kvalita odpovědi je navíc shora omezená kvalitou vyhledávání, protože co se nenajde, to model nemá. RAG proto halucinace zmenšuje, ale neodstraňuje.",
+    "source": "Lewis et al., Retrieval-Augmented Generation, NeurIPS 2020; Liu et al., Lost in the Middle, TACL 2024",
+    "seedElo": 1600
+  },
+  {
+    "id": "ai-A05",
+    "type": "F",
+    "category": "ai",
+    "text": "Kvantizace jazykového modelu na čtyři bity především:",
+    "options": [
+      "zkracuje trénink tím, že vypouští část gradientních kroků",
+      "snižuje paměť potřebnou pro váhy za cenu mírné ztráty přesnosti",
+      "odstraňuje z modelu ty experty, kteří se při inferenci nepoužívají",
+      "převádí model na celočíselnou aritmetiku bez jakéhokoli dopadu"
+    ],
+    "correct": 1,
+    "explanation": "Váhy uložené v šestnáctibitovém formátu se přepočtou na hrubší mřížku, typicky osmi- nebo čtyřbitovou. Model se pak vejde do menší paměti a rychleji se z ní čte, přesnost ale mírně klesá. Ukázalo se, že klíčové jsou vzácné odlehlé aktivace, které je nutné držet ve vyšší přesnosti, jinak kvalita spadne prudce.",
+    "source": "Dettmers et al., LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale, NeurIPS 2022",
+    "seedElo": 1560
+  },
+  {
+    "id": "ai-A06",
+    "type": "K",
+    "category": "ai",
+    "text": "Předtrénování a doladění se u jazykových modelů liší hlavně tím, že:",
+    "options": [
+      "předtrénování jede na obřím neoznačeném korpusu, doladění na malé sadě",
+      "předtrénování používá jiný typ vrstev, které se při doladění odstraní",
+      "při doladění se mění pouze vstupní prompt, váhy modelu zůstávají stejné",
+      "předtrénování optimalizuje přesnost, doladění naopak rychlost inference"
+    ],
+    "correct": 0,
+    "explanation": "Předtrénování spolyká drtivou většinu výpočtu: jde o predikci dalšího tokenu na stovkách miliard tokenů běžného textu. Doladění pak stejné váhy posune na řádově menším, pečlivě sestaveném datasetu. Nepřidává přitom mnoho nových znalostí, spíš mění, jaké chování model preferuje.",
+    "source": "Radford et al., Improving Language Understanding by Generative Pre-Training (2018)",
+    "seedElo": 1520
+  },
+  {
+    "id": "ai-A07",
+    "type": "K",
+    "category": "ai",
+    "text": "Nejběžnější vysvětlení, proč řetěz úvah (chain of thought) zlepšuje výsledky:",
+    "options": [
+      "model tím dostane přístup k částem vah, které jinak nejsou aktivní",
+      "delší odpověď zvyšuje šanci, že se správné řešení objeví náhodou",
+      "explicitní postup umožní modelu ověřit odpověď proti vlastní paměti",
+      "mezikroky rozloží úlohu a dají modelu víc výpočtu na jeden problém"
+    ],
+    "correct": 3,
+    "explanation": "Na jeden token má model pevné množství výpočtu; napsaný mezikrok se ale stane vstupem dalšího kroku, takže hloubka výpočtu roste s délkou úvahy. Proto CoT pomáhá hlavně u vícekrokových úloh a u malých modelů skoro vůbec. Napsaná úvaha navíc nemusí věrně odpovídat tomu, co model doopravdy počítá.",
+    "source": "Wei et al., Chain-of-Thought Prompting Elicits Reasoning in Large Language Models, NeurIPS 2022",
+    "seedElo": 1600
+  },
+  {
+    "id": "ai-A08",
+    "type": "F",
+    "category": "ai",
+    "text": "Důvod, proč se pozornost počítá ve více hlavách místo v jedné velké:",
+    "options": [
+      "každá hlava zpracuje jiný úsek sekvence, takže se zkrátí kontext",
+      "hlavy se trénují postupně, což stabilizuje průběh učení modelu",
+      "hlavy mohou paralelně sledovat různé typy vztahů mezi tokeny",
+      "více hlav snižuje počet parametrů potřebných pro stejnou vrstvu"
+    ],
+    "correct": 2,
+    "explanation": "Jediná softmaxová distribuce nutí každou pozici vybrat v podstatě jedno těžiště pozornosti. Rozdělením do hlav, z nichž každá pracuje v nižší dimenzi, může vrstva zároveň sledovat syntaktickou vazbu, koreferenci i pozici. Celkový počet parametrů zůstává zhruba stejný, protože se dimenze mezi hlavy rozdělí.",
+    "source": "Vaswani et al., Attention Is All You Need, NeurIPS 2017",
+    "seedElo": 1700
+  },
+  {
+    "id": "ai-A09",
+    "type": "F",
+    "category": "ai",
+    "text": "Rozdíl mezi self-attention a cross-attention spočívá v tom, že:",
+    "options": [
+      "u cross-attention přicházejí klíče a hodnoty z jiné sekvence než dotazy",
+      "cross-attention se počítá bez softmaxu, jen jako skalární součin vektorů",
+      "self-attention pracuje uvnitř hlavy, cross-attention napříč všemi hlavami",
+      "u self-attention se nepoužívá maskování, u cross-attention je povinné"
+    ],
+    "correct": 0,
+    "explanation": "V obou případech jde o tentýž výpočet dotaz–klíč–hodnota a liší se jen původ vektorů. Self-attention míchá informaci uvnitř jedné sekvence, kdežto cross-attention nechá dekodér sáhnout do reprezentace enkodéru nebo obrazu u multimodálních modelů. Dekodérové jazykové modely typu GPT používají pouze maskovanou self-attention.",
+    "source": "Vaswani et al., Attention Is All You Need, NeurIPS 2017",
+    "seedElo": 1680
+  },
+  {
+    "id": "ai-A10",
+    "type": "F",
+    "category": "ai",
+    "text": "Byte pair encoding staví slovník tokenů tak, že:",
+    "options": [
+      "rozdělí text podle mezer a nejdelší slova zkrátí na pevnou délku",
+      "vybere nejčastější slova korpusu a zbytek nahradí značkou neznámý",
+      "hledá nejkratší popis textu pomocí komprese typu Lempel–Ziv",
+      "opakovaně slučuje nejčastější sousední dvojici jednotek do nové"
+    ],
+    "correct": 3,
+    "explanation": "Algoritmus začne u jednotlivých bajtů a v každém kroku spojí nejfrekventovanější sousedící dvojici; po zadaném počtu sloučení vznikne slovník. Častá slova tak skončí jako jeden token, vzácná se rozpadnou na kusy. Původně šlo o kompresní trik, do strojového překladu ho přenesl Sennrich.",
+    "source": "Sennrich, Haddow & Birch, Neural Machine Translation of Rare Words with Subword Units, ACL 2016",
+    "seedElo": 1650
+  },
+  {
+    "id": "ai-A11",
+    "type": "K",
+    "category": "ai",
+    "text": "Náklady self-attention rostou s délkou kontextu kvadraticky, protože:",
+    "options": [
+      "každá vrstva musí uložit celou sekvenci do paměti dvakrát za sebou",
+      "skóre se počítá pro každou dvojici pozic v celé vstupní sekvenci",
+      "počet vrstev modelu se musí zvětšovat úměrně délce vstupního textu",
+      "poziční kódování je nutné přepočítat pro každý nově přidaný token"
+    ],
+    "correct": 1,
+    "explanation": "Matice pozornosti má rozměr n krát n, takže dvojnásobný kontext znamená čtyřnásobek práce. FlashAttention snížila paměťovou náročnost chytrým řazením výpočtu po blocích, asymptotika počtu operací ale zůstává kvadratická. Proto se zkoumají řídké a lineární varianty pozornosti a proto je dlouhý kontext drahý.",
+    "source": "Dao et al., FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness, NeurIPS 2022",
+    "seedElo": 1720
+  },
+  {
+    "id": "ai-A12",
+    "type": "F",
+    "category": "ai",
+    "text": "KV cache při autoregresivním generování ukládá:",
+    "options": [
+      "hotové výstupní tokeny, aby se nemusely znovu převádět na text",
+      "gradienty z posledního kroku pro rychlejší doladění za běhu",
+      "klíčové a hodnotové vektory už zpracovaných pozic v každé vrstvě",
+      "pravděpodobnosti tokenů, které model v předchozích krocích zamítl"
+    ],
+    "correct": 2,
+    "explanation": "Bez cache by model při každém novém tokenu přepočítával pozornost pro celou historii. Uložením klíčů a hodnot se práce na krok scvrkne na jeden dotaz proti uložené minulosti. Cenou je paměť: cache roste lineárně s délkou kontextu, počtem vrstev i hlav a u dlouhých kontextů bývá hlavním omezením propustnosti.",
+    "source": "Pope et al., Efficiently Scaling Transformer Inference, MLSys 2023",
+    "seedElo": 1750
+  },
+  {
+    "id": "ai-A13",
+    "type": "F",
+    "category": "ai",
+    "text": "Model odměny v RLHF se učí:",
+    "options": [
+      "generovat lepší odpovědi, které pak nahradí výstupy původního modelu",
+      "odhadnout, kolik výpočtu bude odpověď na daný dotaz potřebovat",
+      "klasifikovat vstupy na bezpečné a nebezpečné podle pevného seznamu",
+      "předpovídat, kterou ze dvou odpovědí by člověk označil za lepší"
+    ],
+    "correct": 3,
+    "explanation": "Lidé nedávají číselné známky, ale porovnávají dvojice výstupů; z těchto srovnání se Bradleyho–Terryho ztrátou natrénuje model skalární odměny. Ten pak zastoupí člověka uvnitř RL smyčky, takže lze hodnotit libovolně mnoho vzorků. Slabina je, že se politika naučí zneužívat jeho chyby, a proto se přidává penalizace za odchýlení od výchozího modelu.",
+    "source": "Stiennon et al., Learning to Summarize from Human Feedback, NeurIPS 2020",
+    "seedElo": 1700
+  },
+  {
+    "id": "ai-A14",
+    "type": "F",
+    "category": "ai",
+    "text": "Direct preference optimization (DPO) se od PPO v RLHF liší tím, že:",
+    "options": [
+      "z preferenčních dvojic optimalizuje politiku přímo, bez modelu odměny",
+      "místo dvojic využívá číselné známky, které anotátoři přidělí odpovědím",
+      "trénuje dvě oddělené politiky a na konci jejich váhy zprůměruje v jednu",
+      "místo gradientu používá evoluční hledání v prostoru parametrů modelu"
+    ],
+    "correct": 0,
+    "explanation": "DPO ukazuje, že optimální politika a odměna jsou svázané uzavřeným vztahem, takže lze odměnu z rovnic vyloučit a trénovat rovnou klasifikační ztrátou na dvojicích lepší a horší. Odpadá vzorkování z politiky i nestabilita posilovaného učení. Platí se za to menší volností, protože bez online vzorkování se hůř sbírají nová data.",
+    "source": "Rafailov et al., Direct Preference Optimization: Your Language Model is Secretly a Reward Model, NeurIPS 2023",
+    "seedElo": 1750
+  },
+  {
+    "id": "ai-A15",
+    "type": "F",
+    "category": "ai",
+    "text": "Jádrem přístupu Constitutional AI je, že:",
+    "options": [
+      "model dostane pevný seznam zakázaných slov, který filtruje výstupy",
+      "pravidla se zapíšou do systémového promptu a při tréninku se nemění",
+      "model kritizuje a přepisuje vlastní odpovědi podle sepsaných principů",
+      "anotátoři při hodnocení postupují podle veřejně zveřejněné příručky"
+    ],
+    "correct": 2,
+    "explanation": "Místo aby škodlivé odpovědi označovali lidé, model sám podle explicitně sepsané ústavy najde na svém výstupu problém, přepíše ho a takto vzniklá data slouží k doladění. Ve druhé fázi model generuje i preferenční srovnání, takže RLHF přejde v RLAIF. Výhodou je, že pravidla lze zveřejnit a věcně o nich diskutovat.",
+    "source": "Bai et al., Constitutional AI: Harmlessness from AI Feedback (2022)",
+    "seedElo": 1680
+  },
+  {
+    "id": "ai-A16",
+    "type": "K",
+    "category": "ai",
+    "text": "Min a spol. (2022) zkoumali roli ukázek v promptu a zjistili, že:",
+    "options": [
+      "výkon prudce klesne, když se pořadí ukázek v promptu obrátí",
+      "náhodně přeházené štítky u ukázek zhorší výsledek překvapivě málo",
+      "modely se z ukázek učí jen tehdy, když se jimi zároveň doladí váhy",
+      "více než tři ukázky výkon soustavně zhoršují kvůli délce kontextu"
+    ],
+    "correct": 1,
+    "explanation": "Když v ukázkách zaměnili správné odpovědi za náhodné, přesnost klesla jen mírně, kdežto odstranění ukázek nebo změna formátu uškodily víc. Naznačuje to, že demonstrace hlavně ukazují formát a prostor možných odpovědí, nikoli mapování vstupu na výstup. Debata pokračuje: u některých úloh a u větších modelů skutečné štítky pomáhají znatelně.",
+    "source": "Min et al., Rethinking the Role of Demonstrations, EMNLP 2022",
+    "seedElo": 1700
+  },
+  {
+    "id": "ai-A17",
+    "type": "F",
+    "category": "ai",
+    "text": "Destilace znalostí podle Hintona přenáší schopnosti tak, že žák:",
+    "options": [
+      "kopíruje váhy učitele a nadbytečné vrstvy z modelu jednoduše vypustí",
+      "trénuje se na stejných datech jako učitel, jen s vyšší mírou učení",
+      "učí se napodobit celé rozdělení pravděpodobností, které dá učitel",
+      "dostává jen ty příklady, ve kterých se učitel při ověření zmýlil"
+    ],
+    "correct": 2,
+    "explanation": "Tvrdý štítek nese jedinou informaci, kdežto změkčené výstupy učitele prozrazují i to, které jiné odpovědi považoval za blízké; Hinton tomu říkal temná znalost. Žák se tak z téhož množství dat naučí víc. U jazykových modelů se dnes běžně destiluje i nepřímo, přes odpovědi vygenerované silnějším modelem.",
+    "source": "Hinton, Vinyals & Dean, Distilling the Knowledge in a Neural Network (2015)",
+    "seedElo": 1660
+  },
+  {
+    "id": "ai-A18",
+    "type": "F",
+    "category": "ai",
+    "text": "Ve vrstvě typu mixture of experts platí, že:",
+    "options": [
+      "na každý token se aktivuje jen malá část expertů vybraná směrovačem",
+      "experti se střídají po vrstvách, každá vrstva má právě jednoho z nich",
+      "všichni experti zpracují token a jejich výstupy se na konci sečtou",
+      "experti se specializují na jazyky a vybírá je detekce jazyka vstupu"
+    ],
+    "correct": 0,
+    "explanation": "Řídké směrování oddělí počet parametrů od výpočtu na token: model může mít stovky miliard vah, ale spočítá se jen několik procent z nich. Cenou je paměť pro všechny experty a nutnost hlídat vyváženost směrování. Bez pomocné ztráty se směrovač zhroutí na několik oblíbených expertů a zbytek kapacity leží ladem.",
+    "source": "Fedus, Zoph & Shazeer, Switch Transformers, JMLR 2022",
+    "seedElo": 1740
+  },
+  {
+    "id": "ai-A19",
+    "type": "F",
+    "category": "ai",
+    "text": "Difúzní model generuje obrázek tak, že:",
+    "options": [
+      "postupně skládá obraz po dlaždicích zleva doprava jako jazykový model",
+      "z čistého šumu opakovaně odhaduje a odečítá šum, až zbyde obraz",
+      "hledá v natrénované databázi nejbližší obrázek a ten pak upraví",
+      "soutěží s druhou sítí, která rozlišuje pravé snímky od vyrobených"
+    ],
+    "correct": 1,
+    "explanation": "Při tréninku se do obrázků přidává gaussovský šum v mnoha úrovních a síť se učí předpovědět, jaký šum byl přidán. Generování jde opačným směrem: z náhodného šumu se v desítkách kroků postupně odšumuje. Latentní difúze dělá totéž v komprimovaném prostoru autoenkodéru, což je výrazně levnější.",
+    "source": "Ho, Jain & Abbeel, Denoising Diffusion Probabilistic Models, NeurIPS 2020",
+    "seedElo": 1690
+  },
+  {
+    "id": "ai-A20",
+    "type": "F",
+    "category": "ai",
+    "text": "Diskontní faktor gama v posilovaném učení určuje:",
+    "options": [
+      "jak velký krok udělá optimalizátor při aktualizaci vah agenta",
+      "s jakou pravděpodobností agent zvolí náhodnou akci místo nejlepší",
+      "jak silně se odměna zmenší, když se prostředí změní během epizody",
+      "jak moc agent váží budoucí odměny oproti těm okamžitým"
+    ],
+    "correct": 3,
+    "explanation": "Návratnost je součet odměn, kde odměna o k kroků později se násobí gama na k-tou. Gama blízké nule vytvoří krátkozrakého agenta, blízké jedničce dalekozrakého, ale s pomalejším a méně stabilním učením. U úloh bez konce navíc zajišťuje, že součet vůbec konverguje.",
+    "source": "Sutton & Barto, Reinforcement Learning: An Introduction, 2. vydání (2018)",
+    "seedElo": 1650
+  },
+  {
+    "id": "ai-A21",
+    "type": "F",
+    "category": "ai",
+    "text": "Rotační poziční kódování (RoPE) se od původních sinusoid liší tím, že:",
+    "options": [
+      "rotuje dotazy a klíče, takže jejich součin nese relativní vzdálenost",
+      "přidává pozici až do výstupní vrstvy, kde se sečte s logity tokenů",
+      "poziční vektor se učí jako parametr a mění se v průběhu tréninku",
+      "nahrazuje pozici pořadím podle frekvence tokenu v trénovacím korpusu"
+    ],
+    "correct": 0,
+    "explanation": "Sinusoidy se k embeddingu přičítaly na vstupu, kdežto RoPE otáčí dotazy a klíče o úhel úměrný pozici, takže po skalárním součinu vyjde závislost pouze na rozdílu pozic. To se ukázalo jako robustnější a snáz se rozšiřuje na delší kontext přeškálováním úhlů. Dnes ho používá většina otevřených modelů.",
+    "source": "Su et al., RoFormer: Enhanced Transformer with Rotary Position Embedding (2021)",
+    "seedElo": 1850
+  },
+  {
+    "id": "ai-A22",
+    "type": "K",
+    "category": "ai",
+    "text": "Když se u modelu s RoPE prodlužuje kontextové okno nad trénovanou délku, obvykle se:",
+    "options": [
+      "poziční kódování úplně vypne a model se spolehne na pořadí tokenů",
+      "přidají nové vrstvy pozornosti určené výhradně pro vzdálené pozice",
+      "úhly rotace přeškálují dolů, aby delší vstup padl do známého rozsahu",
+      "kontext rozdělí na bloky a mezi nimi se vloží rekurentní paměť sítě"
+    ],
+    "correct": 2,
+    "explanation": "Prostá extrapolace za trénovanou délku selhává, protože model nikdy neviděl tak velké úhly a skóre pozornosti se rozpadne. Interpolace pozic je stlačí do naučeného rozsahu, takže po krátkém doladění model zvládne mnohonásobně delší vstup. Varianty jako NTK-aware škálování mění různé frekvence různě, aby se neztratilo rozlišení blízkých pozic.",
+    "source": "Chen et al., Extending Context Window of Large Language Models via Position Interpolation (2023)",
+    "seedElo": 1880
+  },
+  {
+    "id": "ai-A23",
+    "type": "F",
+    "category": "ai",
+    "text": "Chinchilla (2022) opravila starší škálovací zákony zjištěním, že tehdejší modely byly:",
+    "options": [
+      "trénované příliš dlouho, takže se přeučily na opakovaných datech",
+      "příliš malé vzhledem k množství dat, které během tréninku viděly",
+      "zbytečně hluboké, přičemž širší a mělčí architektura je výhodnější",
+      "příliš velké vzhledem k počtu tokenů, na kterých se trénovaly"
+    ],
+    "correct": 3,
+    "explanation": "Hoffmann a spol. protrénovali stovky modelů a vyšlo jim, že při daném rozpočtu výpočtu má počet parametrů a počet tokenů růst zhruba stejným tempem, orientačně dvacet tokenů na parametr. Chinchilla se sedmdesáti miliardami parametrů tak porazila čtyřikrát větší Gopher. Kaplanův dřívější odhad kladl větší váhu na velikost modelu.",
+    "source": "Hoffmann et al., Training Compute-Optimal Large Language Models, NeurIPS 2022",
+    "seedElo": 1820
+  },
+  {
+    "id": "ai-A24",
+    "type": "K",
+    "category": "ai",
+    "text": "Schaeffer a spol. (2023) argumentují, že skokové emergentní schopnosti mohou být:",
+    "options": [
+      "důsledkem toho, že se do trénovacích dat dostaly testovací úlohy",
+      "artefaktem nespojitých metrik, které nedávají za částečný pokrok nic",
+      "projevem fázového přechodu v geometrii reprezentací uvnitř modelu",
+      "chybou měření způsobenou příliš malým počtem testovaných příkladů"
+    ],
+    "correct": 1,
+    "explanation": "U metrik typu přesná shoda nedostane model za skoro správnou odpověď nic, takže se plynulé zlepšování projeví jako náhlý skok. Když titíž autoři přepočítali stejné úlohy spojitou metrikou, křivky se narovnaly. Nejde ovšem o důkaz, že žádná emergence neexistuje, a spor o to, které schopnosti jsou skokové doopravdy, pokračuje.",
+    "source": "Schaeffer, Miranda & Koyejo, Are Emergent Abilities of Large Language Models a Mirage?, NeurIPS 2023",
+    "seedElo": 1900
+  },
+  {
+    "id": "ai-A25",
+    "type": "K",
+    "category": "ai",
+    "text": "Kontaminace benchmarku znamená, že:",
+    "options": [
+      "testovací sada obsahuje chybně označené položky, které snižují skóre",
+      "modely se hodnotí jiným promptem, než na jaký byly původně laděny",
+      "testovací úlohy se objevily v trénovacích datech a skóre nadhodnocuje",
+      "benchmark měří jinou schopnost, než jakou jeho autoři zamýšleli měřit"
+    ],
+    "correct": 2,
+    "explanation": "Veřejné testy se sesbírají do trénovacích korpusů a model si je může zapamatovat, aniž by uměl zobecnit. Ověřuje se to například tvorbou nových úloh stejného typu: na GSM1k, čerstvé obdobě GSM8K, propadly některé rodiny modelů o několik procentních bodů, zatímco jiné obstály. Proto se dnes prosazují soukromé nebo průběžně obměňované sady.",
+    "source": "Zhang et al., A Careful Examination of Large Language Model Performance on Grade School Arithmetic (2024)",
+    "seedElo": 1800
+  },
+  {
+    "id": "ai-A26",
+    "type": "K",
+    "category": "ai",
+    "text": "Hlavní důvod, proč se prompt injection těžko opravuje, je:",
+    "options": [
+      "instrukce i data k modelu tečou jedním kanálem, který je nerozlišuje",
+      "útočné řetězce jsou tak dlouhé, že se nevejdou do filtrů na vstupu",
+      "modely nemají přístup k logům, takže útok nedokážou zpětně odhalit",
+      "obrana by vyžadovala trénink s lidským dohledem na každý typ útoku"
+    ],
+    "correct": 0,
+    "explanation": "Klasické počítače oddělují kód a data, kdežto jazykový model dostane jeden proud tokenů a nemá spolehlivý způsob, jak poznat, že věta uvnitř načtené stránky není příkazem od uživatele. Filtry a systémové prompty útok ztíží, ale nezaručí nic, protože prostor možných formulací je nekonečný. Nepřímá injekce přes dokumenty a web je proto trvalé riziko agentních systémů.",
+    "source": "Greshake et al., Not What You've Signed Up For: Compromising Real-World LLM-Integrated Applications, AISec 2023",
+    "seedElo": 1860
+  },
+  {
+    "id": "ai-A27",
+    "type": "F",
+    "category": "ai",
+    "text": "Řídké autoenkodéry se v interpretabilitě používají hlavně proto, aby:",
+    "options": [
+      "zmenšily model odstraněním neuronů, které nesou málo informace",
+      "rozložily aktivace na víc řídce aktivních a čitelnějších rysů",
+      "rekonstruovaly trénovací data a odhalily, co si model zapamatoval",
+      "nahradily pozornost jednodušší vrstvou, kterou lze číst přímo z vah"
+    ],
+    "correct": 1,
+    "explanation": "Jednotlivé neurony bývají polysémantické, tedy reagují na nesouvisející věci, takže je nelze číst přímo. Autoenkodér s řídkostní penalizací promítne aktivace do mnohem širšího prostoru, kde jednotlivé jednotky odpovídají srozumitelnějším pojmům a lze do nich i zasahovat. Zůstává otevřené, nakolik nalezené rysy odpovídají skutečné výpočetní struktuře sítě.",
+    "source": "Bricken et al., Towards Monosemanticity, Transformer Circuits (2023); Templeton et al., Scaling Monosemanticity (2024)",
+    "seedElo": 1900
+  },
+  {
+    "id": "ai-A28",
+    "type": "K",
+    "category": "ai",
+    "text": "Sondovací klasifikátor trénovaný na zmrazených reprezentacích má tu slabinu, že:",
+    "options": [
+      "vyžaduje přístup ke gradientům modelu, které bývají nedostupné",
+      "funguje jen u vrstev blízko vstupu, hlouběji přesnost rychle klesá",
+      "jeho výsledky nelze porovnat mezi modely s odlišnou dimenzí vrstev",
+      "vysoká přesnost nedokazuje, že model tu informaci sám opravdu používá"
+    ],
+    "correct": 3,
+    "explanation": "Sonda může informaci vydolovat i tehdy, když ji síť dál nikam nepředává, a dost silná sonda se naučí skoro cokoli. Hewitt a Liang proto navrhli kontrolní úlohy s náhodnými štítky: rozdíl mezi skutečnou a kontrolní přesností měří, kolik práce udělala sonda sama. Kauzální tvrzení vyžadují zásah do aktivací, ne jen jejich čtení.",
+    "source": "Hewitt & Liang, Designing and Interpreting Probes with Control Tasks, EMNLP 2019",
+    "seedElo": 1850
+  },
+  {
+    "id": "ai-A29",
+    "type": "F",
+    "category": "ai",
+    "text": "CLIP byl natrénován tak, že:",
+    "options": [
+      "postupně generoval popisky k obrázkům a učil se z chyb vlastního popisu",
+      "klasifikoval obrázky do tisíce tříd ručně anotovaného datasetu",
+      "předpovídal chybějící část obrázku z jeho zbytku i z popisku",
+      "sbližoval vektor obrázku s jeho popiskem a odtlačoval cizí dvojice"
+    ],
+    "correct": 3,
+    "explanation": "Ze čtyř set milionů dvojic obrázek a text se model učil kontrastivně: v každé dávce má být správné spárování skórováno výš než všechna ostatní. Vznikl tak sdílený prostor, ve kterém lze klasifikovat bez trénování na dané třídy, protože stačí třídy popsat větou. Táž dvojice enkodérů pak posloužila jako řídicí signál pro generátory obrázků.",
+    "source": "Radford et al., Learning Transferable Visual Models from Natural Language Supervision, ICML 2021",
+    "seedElo": 1810
+  },
+  {
+    "id": "ai-A30",
+    "type": "K",
+    "category": "ai",
+    "text": "Typický problém tréninku GAN, kterému se difúzní modely vyhýbají, je:",
+    "options": [
+      "nutnost mít pro každý obrázek přesný textový popis od anotátora",
+      "kolaps módů, kdy generátor vydává jen úzkou část možných výstupů",
+      "extrémní počet kroků při generování jediného obrázku z náhody",
+      "nemožnost pracovat s barevnými snímky ve větším než malém rozlišení"
+    ],
+    "correct": 1,
+    "explanation": "Generátor a diskriminátor se přetahují a rovnováha je křehká: generátor snadno najde pár výstupů, které diskriminátora klamou, a přestane pokrývat zbytek rozdělení. Difúze má oproti tomu stabilní regresní cíl a rozdělení pokrývá lépe, byť za cenu mnoha kroků při vzorkování. Od roku 2021 proto u syntézy obrazu převládly difúzní modely.",
+    "source": "Dhariwal & Nichol, Diffusion Models Beat GANs on Image Synthesis, NeurIPS 2021",
+    "seedElo": 1830
+  },
+  {
+    "id": "ai-A31",
+    "type": "F",
+    "category": "ai",
+    "text": "AlphaZero se od svého předchůdce AlphaGo lišila hlavně tím, že:",
+    "options": [
+      "začínala jen od pravidel hry a učila se výhradně hrou proti sobě",
+      "nahradila prohledávání stromu čistě dopřednou neuronovou sítí",
+      "místo neuronové sítě používala ručně napsanou hodnotící funkci",
+      "trénovala se na partiích profesionálů z veřejných herních archivů"
+    ],
+    "correct": 0,
+    "explanation": "AlphaGo startovala z databáze lidských partií, kdežto AlphaZero dostala jen pravidla a zlepšovala se v uzavřené smyčce: síť navádí prohledávání metodou Monte Carlo a výsledky partií pak trénují síť. Jedna společná architektura zvládla go, šachy i šógi. Ukázalo se tím, že doménové znalosti lze do velké míry nahradit výpočtem a hrou proti sobě.",
+    "source": "Silver et al., A general reinforcement learning algorithm that masters chess, shogi and Go through self-play, Science 2018",
+    "seedElo": 1820
+  },
+  {
+    "id": "ai-A32",
+    "type": "F",
+    "category": "ai",
+    "text": "Kolaps modelu při opakovaném trénování na vlastních výstupech se projeví nejdřív:",
+    "options": [
+      "prudkým nárůstem chyby na běžných, často zastoupených případech",
+      "tím, že model přestane generovat text a zůstane u prázdné odpovědi",
+      "ztrátou vzácných jevů z okrajů rozdělení, které se z dat vytratí",
+      "zvýšením počtu parametrů potřebných k dosažení stejné přesnosti"
+    ],
+    "correct": 2,
+    "explanation": "Vzorkování z modelu podceňuje řídké oblasti rozdělení; jakmile se takový výstup stane trénovacím vstupem další generace, chvost se dál ztenčuje, až zmizí. Teprve potom se začne rozpadat i jádro rozdělení a výstupy zplošťují. Autoři zdůrazňují, že se tomu dá bránit uchováním podílu původních lidských dat.",
+    "source": "Shumailov et al., AI models collapse when trained on recursively generated data, Nature 2024",
+    "seedElo": 1870
+  },
+  {
+    "id": "ai-A33",
+    "type": "F",
+    "category": "ai",
+    "text": "Technická zpráva ke GPT-4 uvádí o kalibraci na testu MMLU, že:",
+    "options": [
+      "kalibrace se po doladění preferencemi výrazně zlepšila proti základu",
+      "předtrénovaný model byl dobře kalibrovaný, po doladění se to zhoršilo",
+      "kalibrace byla u obou verzí stejná, lišila se jen samotná přesnost",
+      "model byl systematicky příliš nejistý a odpovědi zbytečně odmítal"
+    ],
+    "correct": 1,
+    "explanation": "Základní model přiřazoval odpovědím pravděpodobnosti, které dobře odpovídaly skutečné úspěšnosti, ale po doladění preferencemi se sebedůvěra od reality odtrhla. Je to jeden z konkrétních mechanismů, proč vyladěné modely tvrdí nepravdy sebejistě. Kalibraci lze částečně obnovit dalšími technikami, samotné doladění na užitečnost ji ale nijak nechrání.",
+    "source": "OpenAI, GPT-4 Technical Report (2023)",
+    "seedElo": 1880
+  },
+  {
+    "id": "ai-A34",
+    "type": "F",
+    "category": "ai",
+    "text": "Carlini a spol. při zkoumání memorizace v jazykových modelech zjistili, že:",
+    "options": [
+      "modely si pamatují jen texty, které viděly v posledních krocích tréninku",
+      "memorizaci lze zcela vyloučit tím, že se každý dokument použije jednou",
+      "zapamatované úseky jde získat pouze z modelu s otevřenými vahami",
+      "míra doslovného zapamatování roste s velikostí modelu i s duplicitou dat"
+    ],
+    "correct": 3,
+    "explanation": "Doslovné úryvky včetně osobních údajů šlo z modelu vytáhnout vhodnými prompty a jev byl tím silnější, čím větší byl model, čím častěji se text v korpusu opakoval a čím delší nápovědu útočník dal. Deduplikace korpusu riziko výrazně snižuje, ale neodstraní. Memorizace přitom není totéž co klasické přeučení, protože nastává i u modelů, které dobře zobecňují.",
+    "source": "Carlini et al., Extracting Training Data from Large Language Models, USENIX Security 2021; Quantifying Memorization (2022)",
+    "seedElo": 1840
+  },
+  {
+    "id": "ai-A35",
+    "type": "K",
+    "category": "ai",
+    "text": "Doladění na instrukcích se od RLHF liší tím, že:",
+    "options": [
+      "jde o učení s učitelem na dvojicích zadání a vzorové odpovědi",
+      "nevyžaduje žádná lidská data, protože si zadání generuje samo",
+      "mění pouze systémový prompt, zatímco váhy modelu zůstávají stejné",
+      "optimalizuje model proti naučené odměně místo proti pevným datům"
+    ],
+    "correct": 0,
+    "explanation": "Instruction tuning ukáže modelu, jak vypadá dobrá odpověď na zadání, a natrénuje ho běžnou křížovou entropií, čímž zásadně zlepší plnění i nevídaných instrukcí. RLHF přichází až potom a učí model preferovat to, co lidé hodnotí výš, včetně vlastností, které se špatně sepisují jako vzor. V praxi se obě fáze řetězí za sebou.",
+    "source": "Wei et al., Finetuned Language Models Are Zero-Shot Learners, ICLR 2022",
+    "seedElo": 1800
+  },
+  {
+    "id": "ai-A36",
+    "type": "K",
+    "category": "ai",
+    "text": "Takzvané reasoning modely posouvají výkon především tím, že:",
+    "options": [
+      "mají o řád víc parametrů než běžné modely stejné generace",
+      "sáhnou při každé odpovědi do externí databáze ověřených faktů",
+      "utratí při odpovídání víc výpočtu na delší vnitřní úvahu",
+      "generují odpověď v jednom průchodu bez mezikroků, ale hlouběji"
+    ],
+    "correct": 2,
+    "explanation": "Místo dalšího zvětšování modelu se škáluje výpočet v době inference: model je posilovaným učením veden k tomu, aby produkoval dlouhé řetězce úvah, případně jich zkoušel víc a vybíral. Zisky jsou největší u matematiky a programování, kde jde výsledek ověřit. Cenou je latence a cena za dotaz, které rostou s délkou úvahy.",
+    "source": "Snell et al., Scaling LLM Test-Time Compute Optimally (2024); OpenAI, Learning to Reason with LLMs (2024)",
+    "seedElo": 1890
+  },
+  {
+    "id": "ai-A37",
+    "type": "K",
+    "category": "ai",
+    "text": "Aritmetika velkých čísel dělá jazykovým modelům potíže mimo jiné proto, že:",
+    "options": [
+      "tokenizér seskupuje číslice nekonzistentně a řády se rozpadnou",
+      "čísla se v korpusu vyskytují příliš zřídka na naučení sčítání",
+      "pozornost neumí porovnat dva tokeny podle jejich číselné hodnoty",
+      "softmax na výstupu neumí reprezentovat víc než tisíc různých hodnot"
+    ],
+    "correct": 0,
+    "explanation": "BPE naučené na běžném textu spojí některé skupiny číslic do jednoho tokenu podle frekvence, takže se dvě podobná čísla rozpadnou úplně jinak a poziční hodnota číslic není v reprezentaci čitelná. Novější tokenizéry proto číslice štěpí po jedné nebo po pevných trojicích, což měřitelně pomáhá. Pomáhá i explicitní zápis mezikroků nebo volání kalkulačky.",
+    "source": "Singh & Strouse, Tokenization Counts: the Impact of Tokenization on Arithmetic in Frontier LLMs (2024)",
+    "seedElo": 1860
+  },
+  {
+    "id": "ai-A38",
+    "type": "F",
+    "category": "ai",
+    "text": "Skóre pozornosti se dělí odmocninou z dimenze klíčů, protože jinak:",
+    "options": [
+      "by se do skóre promítla délka sekvence a pozornost by se rozmělnila",
+      "by součiny nabývaly velkých hodnot a softmax by dal mizivý gradient",
+      "by jednotlivé hlavy nešlo na konci spojit do vektoru stejné velikosti",
+      "by hodnoty klíčů a dotazů nezůstaly během tréninku vzájemně kolmé"
+    ],
+    "correct": 1,
+    "explanation": "Pro nezávislé složky roste rozptyl skalárního součinu s dimenzí, takže při velkém rozměru klíčů by softmax spadl do extrémně špičatého režimu, kde jsou gradienty prakticky nulové. Dělení odmocninou z tohoto rozměru rozptyl normalizuje zpět. Je to drobnost, ale bez ní se hlubší transformery trénují podstatně hůř.",
+    "source": "Vaswani et al., Attention Is All You Need, NeurIPS 2017",
+    "seedElo": 1950
+  },
+  {
+    "id": "ai-A39",
+    "type": "F",
+    "category": "ai",
+    "text": "Grouped-query attention (GQA) byla navržena hlavně proto, aby:",
+    "options": [
+      "umožnila trénovat model na delších sekvencích bez ztráty přesnosti",
+      "nahradila poziční kódování sdílením informace mezi sousedními hlavami",
+      "zrychlila zpětný průchod tím, že sníží počet gradientů na hlavu",
+      "zmenšila KV cache sdílením klíčů a hodnot mezi skupinami hlav dotazů"
+    ],
+    "correct": 3,
+    "explanation": "Při generování je úzkým hrdlem přenos KV cache z paměti, nikoli aritmetika. Multi-query attention sdílí jediný pár klíčů a hodnot pro všechny hlavy a cache zmenší dramaticky, ale kvalita klesne; GQA je kompromis, kdy se hlavy dotazů rozdělí do skupin a každá má vlastní pár. Většina dnešních otevřených modelů ji používá.",
+    "source": "Ainslie et al., GQA: Training Generalized Multi-Query Transformer Models from Multi-Head Checkpoints, EMNLP 2023",
+    "seedElo": 2000
+  },
+  {
+    "id": "ai-A40",
+    "type": "F",
+    "category": "ai",
+    "text": "Pomocná ztráta pro vyvážení zátěže ve Switch Transformeru řeší to, že:",
+    "options": [
+      "experti by jinak dostávali tokeny v odlišném pořadí na každém GPU",
+      "směrovač by jinak volil experty náhodně a model by se neučil nic",
+      "směrovač by jinak posílal většinu tokenů několika oblíbeným expertům",
+      "experti by se jinak naučili identickou funkci a model by byl nadbytečný"
+    ],
+    "correct": 2,
+    "explanation": "Směrování je samo sebe posilující smyčka: expert vybíraný častěji se zlepšuje a je pak vybírán ještě častěji. Bez korekce zůstane většina expertů nevyužita, kapacita se plýtvá a při pevné kapacitě se přetečené tokeny zahazují. Pomocná ztráta tlačí rozdělení tokenů mezi experty k rovnoměrnosti.",
+    "source": "Fedus, Zoph & Shazeer, Switch Transformers, JMLR 2022",
+    "seedElo": 1980
+  },
+  {
+    "id": "ai-A41",
+    "type": "F",
+    "category": "ai",
+    "text": "Indukční hlavy popsané v řadě Transformer Circuits jsou obvody, které:",
+    "options": [
+      "dohledají dřívější výskyt tokenu a zopakují to, co po něm bylo",
+      "potlačí tokeny, které se v kontextu už jednou objevily, kvůli opakování",
+      "sledují pozici věty v odstavci a řídí podle ní délku výstupu modelu",
+      "porovnávají výstup modelu s promptem a hlásí rozpor mezi nimi"
+    ],
+    "correct": 0,
+    "explanation": "Dvouhlavý obvod, kde první hlava vloží do reprezentace informaci o předchozím tokenu a druhá podle ní vyhledá dřívější stejnou dvojici, umožňuje doplňovat vzory typu A B ... A následuje B. Vzniká v tréninku náhle a časově se kryje se skokem ve schopnosti učit se z kontextu. Je to jeden z nejlépe popsaných mechanismů in-context learningu.",
+    "source": "Olsson et al., In-context Learning and Induction Heads, Transformer Circuits (2022)",
+    "seedElo": 1970
+  },
+  {
+    "id": "ai-A42",
+    "type": "K",
+    "category": "ai",
+    "text": "Modely se dnes běžně trénují na výrazně víc tokenů, než doporučuje Chinchilla, protože:",
+    "options": [
+      "Chinchilla počítala jen s architekturami bez mechanismu pozornosti",
+      "delší trénink je jediný známý způsob, jak zvětšit kontextové okno modelu",
+      "pozdější měření ukázala, že původní odhad byl chybný v obou směrech",
+      "menší, déle trénovaný model je levnější provozovat při stejné kvalitě"
+    ],
+    "correct": 3,
+    "explanation": "Chinchilla optimalizuje kvalitu při daném rozpočtu na trénink, ale neříká nic o nákladech na inferenci. Pokud se model bude používat miliardkrát, vyplatí se zaplatit delší trénink menšího modelu, který se pak levněji obsluhuje; touto úvahou šla řada modelů Llama. Nejde tedy o vyvrácení Chinchilly, nýbrž o jiné optimalizační kritérium.",
+    "source": "Touvron et al., LLaMA: Open and Efficient Foundation Language Models (2023)",
+    "seedElo": 1960
+  },
+  {
+    "id": "ai-A43",
+    "type": "K",
+    "category": "ai",
+    "text": "Do cíle RLHF se přidává KL penalizace vůči výchozí politice hlavně proto, aby:",
+    "options": [
+      "se zrychlila konvergence tím, že se zmenší rozptyl odhadu gradientu",
+      "politika neutekla do oblastí, kde model odměny přestává být platný",
+      "se zabránilo tomu, aby model zapomněl jazyk, na kterém byl trénován",
+      "šlo model odměny trénovat souběžně s politikou na stejných datech"
+    ],
+    "correct": 1,
+    "explanation": "Model odměny je jen aproximace naučená z lidských srovnání a mimo rozdělení, na kterém vznikl, se dá snadno oklamat. Bez omezení politika najde bizarní výstupy s vysokou předpovězenou odměnou a nízkou skutečnou kvalitou, čemuž se říká přeoptimalizace odměny. Penalizace za odchýlení od výchozího doladěného modelu ji drží v oblasti, kde je odměna ještě důvěryhodná.",
+    "source": "Stiennon et al., Learning to Summarize from Human Feedback, NeurIPS 2020; Gao et al., Scaling Laws for Reward Model Overoptimization, ICML 2023",
+    "seedElo": 1990
+  },
+  {
+    "id": "ai-A44",
+    "type": "F",
+    "category": "ai",
+    "text": "Vektorové databáze používají přibližné hledání nejbližších sousedů, protože:",
+    "options": [
+      "přesné hledání vyžaduje, aby všechny vektory měly stejnou délku",
+      "kosinovou podobnost nelze ve vysokých dimenzích spočítat přesně",
+      "přesné procházení všech vektorů je při milionech položek pomalé",
+      "přibližné metody dávají lepší výsledky než přesné hledání sousedů"
+    ],
+    "correct": 2,
+    "explanation": "Struktury jako HNSW staví vícevrstvý graf, ve kterém se dotaz dostane k blízkým vektorům v čase zhruba logaritmickém místo lineárního. Platí se za to tím, že část skutečně nejbližších sousedů se nenajde, přičemž recall lze měnit parametry hledání proti latenci. Pro RAG to znamená, že i dokonalý embedding může relevantní pasáž minout.",
+    "source": "Malkov & Yashunin, Efficient and Robust Approximate Nearest Neighbor Search Using HNSW Graphs, IEEE TPAMI 2020",
+    "seedElo": 1950
+  }
+]

@@ -164,16 +164,16 @@
   "id": "technologie",
   "file": "technologie.json",
   "title": "Technologie",
-  "count": 20,
-  "version": 1,
+  "count": 100,
+  "version": 2,
   "obor": "general"
  },
  {
   "id": "ai",
   "file": "ai.json",
   "title": "AI",
-  "count": 20,
-  "version": 1,
+  "count": 100,
+  "version": 2,
   "obor": "general"
  },
  {

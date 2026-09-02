@@ -1,0 +1,882 @@
+[
+ {
+  "id": "tec-A01",
+  "text": "Takzvané von Neumannovo úzké hrdlo označuje především:",
+  "options": [
+   "nutnost překládat každou instrukci na sadu mikrooperací",
+   "pomalý přenos dat mezi grafickou kartou a operační pamětí",
+   "omezenou propustnost sběrnice mezi procesorem a hlavní pamětí",
+   "konečný počet registrů, které má jedno procesorové jádro"
+  ]
+ },
+ {
+  "id": "tec-A02",
+  "text": "Proč mívá cache L1 v moderních procesorech jen desítky kilobajtů?",
+  "options": [
+   "větší pole by mělo delší přístupovou dobu a zdrželo by celé jádro",
+   "výrobní proces neumožňuje umístit na jeden čip více statické paměti",
+   "operační systém neumí adresovat cache větší než šedesát čtyři kilobajty",
+   "větší L1 by musela být sdílená mezi všemi jádry daného procesoru"
+  ]
+ },
+ {
+  "id": "tec-A03",
+  "text": "K čemu slouží prediktor skoků (branch predictor) v procesoru?",
+  "options": [
+   "rozděluje instrukce mezi jednotlivá jádra podle jejich okamžité zátěže",
+   "překládá virtuální adresy cílů skoku na fyzické adresy v paměti",
+   "kontroluje, zda program neskáče mimo přidělený adresní prostor",
+   "hádá výsledek podmínky, aby pipeline nemusela čekat na její vyhodnocení"
+  ]
+ },
+ {
+  "id": "tec-A04",
+  "text": "Útoky Spectre a Meltdown se dostanou k cizím datům tak, že:",
+  "options": [
+   "přepíší stránkovací tabulky a získají zápisový přístup do jádra",
+   "vyčtou stopu spekulativního přístupu z časování paměťové cache",
+   "zneužijí chybu v generátoru náhodných čísel uvnitř procesoru",
+   "přetečením zásobníku podstrčí procesoru vlastní kód v jádře"
+  ]
+ },
+ {
+  "id": "tec-A05",
+  "text": "Jak dnešní procesory x86 zvládají složité instrukce sady CISC?",
+  "options": [
+   "rozkládají je uvnitř na jednodušší mikrooperace prováděné jádrem",
+   "spouštějí je v emulační vrstvě, kterou dodává operační systém",
+   "mají pro každou instrukci vlastní specializovaný obvod na čipu",
+   "předávají je koprocesoru, který zpracovává jen složité instrukce"
+  ]
+ },
+ {
+  "id": "tec-A06",
+  "text": "V čem se firma Arm zásadně liší od Intelu?",
+  "options": [
+   "sama vyrábí procesory, ale prodává je výhradně výrobcům mobilních telefonů",
+   "vlastní instrukční sadu, kterou smí kdokoli implementovat zdarma",
+   "vyvíjí pouze operační systémy a překladače pro procesory jiných firem",
+   "sama procesory nevyrábí, licencuje instrukční sadu a návrhy jader"
+  ]
+ },
+ {
+  "id": "tec-A07",
+  "text": "Proč bývají grafické procesory pomalé, když kód obsahuje hodně větvení?",
+  "options": [
+   "GPU nemají prediktor skoků, každý skok proto stojí plnou latenci paměti",
+   "vlákna ve skupině sdílí jeden řadič a obě větve se vykonají postupně",
+   "každé větvení vyvolá přesun dat mezi pamětí GPU a hlavní pamětí",
+   "překladač musí větvení převést na rekurzi, kterou GPU zpracuje pomalu"
+  ]
+ },
+ {
+  "id": "tec-A08",
+  "text": "Hlavní technický rozdíl mezi kontejnerem a plnohodnotným virtuálním strojem je, že:",
+  "options": [
+   "kontejner smí běžet jen jako jediný proces a nemá vlastní souborový systém",
+   "virtuální stroj nemá přístup k síti, dokud mu ji hypervizor výslovně nepřidělí",
+   "kontejnery sdílí jádro hostitele, virtuální stroj má vlastní jádro i systém",
+   "kontejner se od virtuálního stroje liší jen tím, jak se distribuuje obraz"
+  ]
+ },
+ {
+  "id": "tec-A09",
+  "text": "Sonda Mars Pathfinder v roce 1997 opakovaně restartovala kvůli inverzi priorit. Oč jde?",
+  "options": [
+   "plánovač přidělil dvěma nesouvisejícím úlohám omylem stejnou prioritu",
+   "úloha s vysokou prioritou spotřebovala veškerý čas a vyhladověla ostatní úlohy",
+   "přerušení od hardwaru dostalo vyšší prioritu než obsluha datové sběrnice",
+   "úloha nízké priority držela zámek, na který čekala úloha vysoké priority"
+  ]
+ },
+ {
+  "id": "tec-A10",
+  "text": "K čemu v procesoru slouží TLB (translation lookaside buffer)?",
+  "options": [
+   "ukládá naposledy dekódované instrukce, aby se nemusely překládat znovu",
+   "je cache překladů virtuálních adres na fyzické adresy v paměti",
+   "drží fronty zápisů čekajících na vyprázdnění do hlavní paměti",
+   "uchovává historii skoků pro potřeby prediktoru větvení v jádře"
+  ]
+ },
+ {
+  "id": "tec-A11",
+  "text": "Proč nemůže běžný program sáhnout na hardware přímo a musí volat jádro?",
+  "options": [
+   "procesor běží v omezeném režimu, kde privilegované instrukce neprojdou",
+   "překladače tyto instrukce z bezpečnostních důvodů odmítají přeložit",
+   "hardware rozumí jen příkazům, které mu pošle ovladač psaný v assembleru",
+   "operační systém drží hardware zamčený zámkem, jejž lze získat jen voláním"
+  ]
+ },
+ {
+  "id": "tec-A12",
+  "text": "Co vlastně garantuje žurnálování souborového systému při náhlém výpadku proudu?",
+  "options": [
+   "že se neztratí žádná data zapsaná v poslední minutě před výpadkem",
+   "že se soubory rozepsané v okamžiku výpadku samy dopíší po restartu",
+   "že metadata zůstanou konzistentní, ne že se dokončí rozepsaný zápis",
+   "že se poškozené sektory disku automaticky nahradí kopií z žurnálu systému"
+  ]
+ },
+ {
+  "id": "tec-A13",
+  "text": "Proč zvládnou souborové systémy jako ZFS nebo Btrfs vytvořit snímek okamžitě?",
+  "options": [
+   "obsah disku se předem komprimuje, takže se kopie vejde do paměti",
+   "pracují metodou copy-on-write, snímek jen zamkne stávající bloky",
+   "snímek se pořizuje na pozadí a je použitelný až po dokončení kopie",
+   "ukládají jen rozdíl proti poslednímu snímku pomocí komprese bloků"
+  ]
+ },
+ {
+  "id": "tec-A14",
+  "text": "Hashovací tabulka slibuje vyhledání v konstantním čase. Kdy tento slib neplatí?",
+  "options": [
+   "když tabulka obsahuje více než milion položek a nevejde se do cache",
+   "když se klíče ukládají jako řetězce, protože ty nelze hashovat rychle",
+   "když se mnoho klíčů sejde v jedné přihrádce a hledání degraduje na seznam",
+   "když se tabulka zvětšuje, protože každé vložení pak vyžaduje rehashování"
+  ]
+ },
+ {
+  "id": "tec-A15",
+  "text": "Proč databáze indexují B-stromy, a ne binárními vyhledávacími stromy?",
+  "options": [
+   "binární strom nelze uložit na disk, protože jeho uzly nemají pevnou velikost",
+   "B-strom umí jako jediný udržet záznamy setříděné podle více klíčů",
+   "binární strom vyžaduje při každém vložení kompletní přebudování stromu",
+   "uzel B-stromu má stovky potomků, takže hloubka i počet čtení jsou malé"
+  ]
+ },
+ {
+  "id": "tec-A16",
+  "text": "Quicksort má průměrnou složitost n log n. Jaká je v nejhorším případě?",
+  "options": [
+   "kvadratická, pokud pivot opakovaně rozdělí pole velmi nerovnoměrně",
+   "také n log n, protože rekurze má vždy logaritmickou hloubku dělení",
+   "exponenciální, protože počet rekurzivních volání roste s velikostí",
+   "lineární, protože už setříděné pole projde algoritmus jediným průchodem"
+  ]
+ },
+ {
+  "id": "tec-A17",
+  "text": "Co je jádrem otázky P versus NP, řekneme-li ji bez matematiky?",
+  "options": [
+   "zda je nalezení řešení vždy stejně snadné jako ověření hotového řešení",
+   "zda existuje úloha, kterou nedokáže vyřešit žádný počítačový program",
+   "zda lze každý program přepsat tak, aby běžel na paralelním hardwaru",
+   "zda kvantový počítač zvládne úlohy, na které klasické stroje nestačí ani teoreticky"
+  ]
+ },
+ {
+  "id": "tec-A18",
+  "text": "Která úloha byla jako první dokázána jako NP-úplná?",
+  "options": [
+   "problém obchodního cestujícího v rozhodovací podobě s daným limitem",
+   "problém zastavení, tedy otázka, zda se daný program někdy zastaví",
+   "splnitelnost výrokové formule, tedy problém známý jako SAT",
+   "rozklad velkého čísla na součin dvou přibližně stejných prvočísel"
+  ]
+ },
+ {
+  "id": "tec-A19",
+  "text": "Proč nemůže existovat bezztrátový kompresor, který zmenší každý vstupní soubor?",
+  "options": [
+   "protože v každém souboru zůstává aspoň jeden bit režie použitého formátu",
+   "protože kratších řetězců je méně a mapování by nebylo prosté",
+   "protože náhodná data obsahují entropii, kterou nelze uložit na disk",
+   "protože každý algoritmus musí uložit i vlastní dekompresní tabulku"
+  ]
+ },
+ {
+  "id": "tec-A20",
+  "text": "Huffmanovo kódování dává znakům kódy různé délky. Co zaručuje jednoznačné čtení?",
+  "options": [
+   "kódy jsou uloženy v tabulce, kterou dekodér prochází od konce zprávy",
+   "mezi jednotlivé kódy se vkládá speciální oddělovací bitová značka",
+   "všechny kódy mají délku dělitelnou osmi, takže lícují s bajty",
+   "žádný kód není předponou jiného, takže konec kódu je poznat rovnou"
+  ]
+ },
+ {
+  "id": "tec-A21",
+  "text": "Kde vzniká hlavní ztráta informace při kompresi obrázku do formátu JPEG?",
+  "options": [
+   "při převodu obrázku na osmibitovou paletu barevných odstínů a šedí",
+   "při závěrečném Huffmanově kódování, které zahazuje vzácné symboly",
+   "při rozdělení obrazu na bloky, jejichž okraje se navzájem částečně překrývají",
+   "při kvantování koeficientů kosinové transformace, hlavně těch vysokých"
+  ]
+ },
+ {
+  "id": "tec-A22",
+  "text": "Na jakém principu MP3 zahodí část zvuku, aniž si toho posluchač všimne?",
+  "options": [
+   "využívá maskování: hlasitý tón znepřístupní sluchu tiché tóny v okolí",
+   "odstraní ze signálu všechny frekvence nad hranicí šestnácti kilohertzů",
+   "sníží počet vzorků za sekundu na polovinu původní vzorkovací frekvence",
+   "zprůměruje levý a pravý kanál a rozdíl mezi nimi uloží jen přibližně"
+  ]
+ },
+ {
+  "id": "tec-A23",
+  "text": "Kolik bitů na znak používá původní kódování ASCII?",
+  "options": [
+   "osm bitů, tedy přesně jeden bajt a dvě stě padesát šest znaků",
+   "šest bitů, protože tehdejší děrné štítky víc míst neměly",
+   "sedm bitů, osmý sloužil jako paritní kontrola při přenosu",
+   "šestnáct bitů, aby se vešly i znaky evropských abeced"
+  ]
+ },
+ {
+  "id": "tec-A24",
+  "text": "Co dělá z UTF-8 tak povedený návrh kódování?",
+  "options": [
+   "má pevnou délku čtyř bajtů na znak, takže se v textu snadno indexuje",
+   "je zpětně kompatibilní s ASCII a ze začátku bajtu poznáte jeho roli",
+   "ukládá znaky v pořadí podle četnosti výskytu v anglických textech",
+   "umí kterýkoli znak Unicode zapsat vždy do dvou bajtů bez výjimek"
+  ]
+ },
+ {
+  "id": "tec-A25",
+  "text": "Proč nelze počet znaků v řetězci spolehlivě zjistit prostým počítáním kódových bodů?",
+  "options": [
+   "kódové body jsou proměnlivě dlouhé, takže se nedají spočítat naráz",
+   "co člověk vidí jako jeden znak, může být složeno z několika bodů",
+   "Unicode nemá pevný počet znaků, protože se každý rok rozšiřuje",
+   "v řetězci jsou uloženy i řídicí sekvence pro barvu a formátování"
+  ]
+ },
+ {
+  "id": "tec-A26",
+  "text": "Proč v mnoha jazycích 0.1 + 0.2 nevyjde přesně 0.3?",
+  "options": [
+   "protože sčítání ve dvojkové soustavě zaokrouhluje vždy směrem dolů",
+   "protože procesor počítá desetinná čísla jen na patnáct platných míst",
+   "protože překladač obě konstanty uloží jako zlomky s různým jmenovatelem",
+   "protože desetiny nemají ve dvojkové soustavě konečný rozvoj"
+  ]
+ },
+ {
+  "id": "tec-A27",
+  "text": "Jak se podle normy IEEE 754 chová hodnota NaN při porovnání sama se sebou?",
+  "options": [
+   "výsledek je nepravda, NaN se nerovná ničemu včetně sebe sama",
+   "výsledek je pravda, protože jde o bitově naprosto shodné hodnoty",
+   "porovnání vyvolá výjimku, kterou musí zachytit běhové prostředí",
+   "chování není určeno a liší se podle použitého procesoru a jazyka"
+  ]
+ },
+ {
+  "id": "tec-A28",
+  "text": "Podle čeho určuje git jméno objektu, který ukládá do svého úložiště?",
+  "options": [
+   "podle pořadového čísla, které přiděluje v okamžiku vytvoření commitu",
+   "podle jména souboru a času uložení, spojených do jednoho otisku",
+   "podle kryptografického otisku samotného obsahu daného objektu",
+   "podle jména větve a autora, z nichž vypočte jedinečný identifikátor"
+  ]
+ },
+ {
+  "id": "tec-A29",
+  "text": "V čem se git liší od starších systémů, které ukládaly historii jako řadu rozdílů?",
+  "options": [
+   "ukládá rozdíly, ale komprimuje je účinnějším algoritmem než jeho předchůdci",
+   "ukládá jen poslední verzi a starší stavy dopočítává zpětným během",
+   "commit odkazuje na kompletní strom stavu projektu, rozdíl se dopočítá",
+   "ukládá historii jako posloupnost příkazů, které se při obnově přehrají"
+  ]
+ },
+ {
+  "id": "tec-A30",
+  "text": "Proč bývá JIT překladač v některých případech rychlejší než dopředná kompilace?",
+  "options": [
+   "generuje kód rovnou v jazyce symbolických adres, a vynechá tak mezikroky",
+   "vidí skutečné chování běhu a může optimalizovat podle změřených dat",
+   "překládá jen ty funkce, které se nikdy nezavolají, a ušetří tím práci",
+   "spouští překlad na jiném vlákně, takže se program nikdy nezdrží čekáním"
+  ]
+ },
+ {
+  "id": "tec-A31",
+  "text": "Jakou zásadní slabinu má správa paměti počítáním referencí?",
+  "options": [
+   "nedokáže uvolnit paměť dřív, než skončí celý běžící program",
+   "vyžaduje zastavení všech vláken pokaždé, když se objekt uvolní",
+   "funguje pouze v jazycích, které mají statickou typovou kontrolu",
+   "neuvolní objekty, které se odkazují navzájem v uzavřeném kruhu"
+  ]
+ },
+ {
+  "id": "tec-A32",
+  "text": "Co znamená, že je funkce ve funkcionálním programování čistá?",
+  "options": [
+   "vrací pro stejné vstupy stejný výsledek a nemá vedlejší účinky",
+   "nemá žádné parametry a pracuje výhradně s globálním stavem programu",
+   "je zapsaná jedním výrazem a neobsahuje žádné pomocné proměnné",
+   "její kód nesmí obsahovat volání jiných funkcí ani rekurzivní volání"
+  ]
+ },
+ {
+  "id": "tec-A33",
+  "text": "Na které vrstvě modelu ISO/OSI pracuje klasický ethernetový přepínač (switch)?",
+  "options": [
+   "na druhé, spojové, protože rozhoduje podle MAC adres rámců",
+   "na třetí, síťové, protože rozhoduje podle cílových IP adres",
+   "na čtvrté, transportní, protože sleduje čísla portů spojení",
+   "na první, fyzické, protože jen zesiluje a rozvádí signál dál"
+  ]
+ },
+ {
+  "id": "tec-A34",
+  "text": "Co udělá rekurzivní DNS resolver, když poprvé překládá jméno neznámé domény?",
+  "options": [
+   "zeptá se přímo webového serveru, jakou adresu má jeho vlastní jméno",
+   "zeptá se postupně kořene, serveru domény nejvyšší úrovně a pak dalších",
+   "prohledá sdílenou databázi všech domén, kterou spravuje sdružení ICANN",
+   "rozešle dotaz všem sousedním resolverům a počká na první došlou odpověď"
+  ]
+ },
+ {
+  "id": "tec-A35",
+  "text": "Jak se u velkých sítí CDN dostane uživatel k nejbližšímu serveru?",
+  "options": [
+   "prohlížeč postupně změří odezvu všech serverů a vybere si ten nejrychlejší",
+   "provozovatel připojení přesměruje spojení na server ve své vlastní síti",
+   "stejnou adresu ohlašuje víc míst a směrování zvolí nejbližší z nich",
+   "obsah se šíří mezi uživateli navzájem, takže server není vůbec potřeba"
+  ]
+ },
+ {
+  "id": "tec-A36",
+  "text": "Proč nezrychlí přidání dalšího optického vlákna odezvu hry na vzdáleném serveru?",
+  "options": [
+   "protože odezvu určuje výhradně výkon procesoru na straně serveru",
+   "protože nová vlákna se využijí až po naplnění těch stávajících",
+   "protože protokoly datový tok uměle brzdí, aby nedošlo k zahlcení",
+   "protože propustnost roste, ale doba letu signálu zůstává stejná"
+  ]
+ },
+ {
+  "id": "tec-A37",
+  "text": "Jaký problém měl vyřešit překlad adres NAT a co tím zároveň způsobil?",
+  "options": [
+   "šifroval provoz v domácí síti, ale znemožnil filtrování obsahu",
+   "zrychlil směrování v páteři, ale zvýšil spotřebu adres na okraji",
+   "sjednotil formát adres, ale rozbil zpětnou kompatibilitu s IPv4",
+   "ušetřil veřejné adresy IPv4, ale rozbil přímé spojení mezi uzly"
+  ]
+ },
+ {
+  "id": "tec-A38",
+  "text": "Proč je směrovací protokol BGP považován za jedno z nejkřehčích míst internetu?",
+  "options": [
+   "provozuje ho jediná organizace, jejíž výpadek by zastavil globální provoz",
+   "posílá směrovací tabulky nešifrovaně, takže je lze cestou přečíst",
+   "ohlášením cizího rozsahu adres lze provoz svést jinam, stojí na důvěře",
+   "pracuje jen s adresami IPv4, a proto při přechodu na IPv6 selhává"
+  ]
+ },
+ {
+  "id": "tec-A39",
+  "text": "Jakou roli hraje asymetrická kryptografie při ustavení spojení TLS?",
+  "options": [
+   "ověří protistranu a ustaví klíč, dál se pak šifruje symetricky",
+   "šifruje veškerý přenášený obsah po celou dobu trvání spojení",
+   "vytváří otisk stránky, kterým prohlížeč kontroluje její celistvost",
+   "komprimuje data před šifrováním, aby se zmenšil objem přenosu"
+  ]
+ },
+ {
+  "id": "tec-A40",
+  "text": "V čem spočívá strukturální slabina systému certifikačních autorit?",
+  "options": [
+   "certifikáty vydané autoritou platí nejvýše několik měsíců, pak se musí obnovit",
+   "kterákoli důvěryhodná autorita může vydat certifikát na jakoukoli doménu",
+   "prohlížeče nedokážou ověřit, zda byl certifikát vydán platným postupem",
+   "soukromý klíč serveru musí být uložen i u vydávající certifikační autority"
+  ]
+ },
+ {
+  "id": "tec-A41",
+  "text": "Kolik zhruba pokusů stačí k nalezení kolize u hashovací funkce s 256bitovým výstupem?",
+  "options": [
+   "řádově dvě na dvě stě padesát šest, tedy tolik co uhodnutí výstupu",
+   "řádově dvě na dvě stě padesát pět, tedy polovina celého prostoru",
+   "řádově dvě na sto dvacet osm, kvůli narozeninovému paradoxu",
+   "řádově dvě na šedesát čtyři, protože kolize se hledají po dvojicích"
+  ]
+ },
+ {
+  "id": "tec-A42",
+  "text": "Co se při vytváření digitálního podpisu dokumentu vlastně provádí?",
+  "options": [
+   "dokument se zašifruje veřejným klíčem příjemce a připojí se k němu",
+   "z dokumentu a hesla podepisujícího se spočítá kód pomocí funkce HMAC",
+   "dokument se zašifruje symetrickou šifrou a klíč se uloží u autority",
+   "spočítá se otisk dokumentu a ten se zpracuje soukromým klíčem autora"
+  ]
+ },
+ {
+  "id": "tec-A43",
+  "text": "Co umožní Diffie-Hellmanova výměna dvěma stranám, které se nikdy nesetkaly?",
+  "options": [
+   "ověřit totožnost protistrany bez jakéhokoli zásahu třetí strany",
+   "dohodnout společné tajemství i přes kanál, který někdo odposlouchává",
+   "poslat zprávu tak, že ji nedokáže přečíst ani zamýšlený příjemce",
+   "přenést hotový klíč tak, aby ho nešlo cestou pozměnit ani zkopírovat"
+  ]
+ },
+ {
+  "id": "tec-A44",
+  "text": "Který algoritmus standardizoval NIST v roce 2024 jako hlavní nástroj pro výměnu klíčů?",
+  "options": [
+   "mřížkové schéma ML-KEM, vycházející z návrhu známého jako Kyber",
+   "podpisové schéma SPHINCS+, postavené na bezpečnosti hashovacích funkcí",
+   "kódové schéma Classic McEliece, které navrhl McEliece už v roce 1978",
+   "izogenní schéma SIKE, které staví na eliptických křivkách a izogeniích"
+  ]
+ },
+ {
+  "id": "tec-B01",
+  "text": "Jakou vlnovou délku používá EUV litografie, na níž stojí nejmodernější čipy?",
+  "options": [
+   "13,5 nm, vzniká z plazmatu kapiček roztaveného cínu",
+   "193 nm z argon-fluoridového excimerového laseru",
+   "10,6 µm z výkonného oxiduhličitého plynového laseru",
+   "365 nm, i-linie ze rtuťové výbojky starších stepperů"
+  ]
+ },
+ {
+  "id": "tec-B02",
+  "text": "Proč nemá ASML v dodávkách EUV skenerů prakticky žádnou konkurenci?",
+  "options": [
+   "Výhradní patent na EUV drží do roku 2035 jediná firma",
+   "Vývoz strojů EUV zakázaly Spojené státy úplně všem konkurentům",
+   "Spojila desítky let vývoje s unikátním dodavatelským řetězcem",
+   "Japonské firmy Nikon a Canon opustily litografii úplně"
+  ]
+ },
+ {
+  "id": "tec-B03",
+  "text": "Co dnes znamená označení „3nm proces“ v katalogu výrobce čipů?",
+  "options": [
+   "Délku hradla tranzistoru měřenou v nejužším místě",
+   "Marketingový název uzlu, žádný rozměr na čipu tak malý není",
+   "Rozteč kovových propojů v nejhustší vrstvě metalizace",
+   "Vlnovou délku světla použitého při expozici křemíku"
+  ]
+ },
+ {
+  "id": "tec-B04",
+  "text": "Čím se architektura tranzistoru GAA (nanosheet) liší od dosavadního FinFET?",
+  "options": [
+   "Pracuje s výrazně vyšším napájecím napětím jádra",
+   "Nahrazuje křemík v kanálu sloučeninou germania a cínu",
+   "Vede proud kolmo k povrchu destičky, ne podél něj",
+   "Hradlo obepíná kanál ze všech čtyř stran, ne ze tří"
+  ]
+ },
+ {
+  "id": "tec-B05",
+  "text": "Jaký typ tranzistoru předvedli Bardeen a Brattain v Bell Labs v prosinci 1947?",
+  "options": [
+   "Křemíkový plošný tranzistor s difundovanými přechody",
+   "Hrotový tranzistor z germania se dvěma kovovými kontakty",
+   "Unipolární tranzistor typu MOS s izolovaným kovovým hradlem",
+   "Germaniový bipolární tranzistor tažený z taveniny"
+  ]
+ },
+ {
+  "id": "tec-B06",
+  "text": "Proč musí paměť DRAM svůj obsah tisíckrát za sekundu obnovovat?",
+  "options": [
+   "Náboj v maličkém kondenzátoru buňky svodem uniká",
+   "Magnetická doména v buňce se sama náhodně překlápí",
+   "Čtení dat je nedestruktivní, ale zápis se rozostřuje",
+   "Tranzistor buňky se zahřátím trvale otevírá a zkratuje"
+  ]
+ },
+ {
+  "id": "tec-B07",
+  "text": "Jak se při zápisu dostane náboj do plovoucího hradla buňky NAND flash?",
+  "options": [
+   "Difuzí příměsí při zahřátí buňky nad sto stupňů Celsia",
+   "Magnetickou indukcí z cívky umístěné nad polem buněk",
+   "Optickou excitací nosičů náboje v tenké vrstvě křemíku",
+   "Tunelováním elektronů skrz tenkou vrstvu oxidu křemíku"
+  ]
+ },
+ {
+  "id": "tec-B08",
+  "text": "K čemu slouží wear leveling v řadiči SSD?",
+  "options": [
+   "Zrychluje čtení tím, že data drží v rychlé cache paměti",
+   "Opravuje chyby čtení pomocí redundantních kontrolních bitů",
+   "Rozprostírá zápisy tak, aby se buňky opotřebovaly stejně",
+   "Komprimuje bloky, aby se na disk vešlo víc uživatelských dat"
+  ]
+ },
+ {
+  "id": "tec-B09",
+  "text": "Na jakém principu udrží displej typu e-ink obraz i bez napájení?",
+  "options": [
+   "Tekuté krystaly zůstanou natočené i po odpojení napětí",
+   "Fosforová vrstva dosvítí ještě mnoho hodin po expozici",
+   "Obarvené částice zůstanou tam, kam je pole přesunulo",
+   "Organické diody svítí ze zbytkového náboje v pixelu"
+  ]
+ },
+ {
+  "id": "tec-B10",
+  "text": "V čem se panel OLED principiálně liší od panelu LCD?",
+  "options": [
+   "Má vyšší rozlišení, protože pixely jsou vždy menší",
+   "Používá tekuté krystaly bez barevných filtrů před nimi",
+   "Svítí odrazem okolního světla, proto šetří baterii",
+   "Každý pixel svítí sám, panel nepotřebuje podsvícení"
+  ]
+ },
+ {
+  "id": "tec-B11",
+  "text": "Proč se u snímačů CMOS objevuje zkreslení rychle se otáčejících vrtulí?",
+  "options": [
+   "Řádky se vyčítají postupně, scéna se mezitím pohne",
+   "Objektiv při krátkém času nestihne zaostřit na okraje",
+   "Barevná maska nad pixely nestíhá měnit propustnost",
+   "Mechanická závěrka se u CMOS otevírá jen jedním směrem"
+  ]
+ },
+ {
+  "id": "tec-B12",
+  "text": "Jak měří akcelerometr MEMS v telefonu zrychlení?",
+  "options": [
+   "Měří změnu odporu tenkého drátku ohřívaného proudem",
+   "Sleduje kapacitu mezi pružně zavěšenou hmotou a hřebeny",
+   "Počítá interferenční proužky laseru v mikroskopické dutině",
+   "Váží kapku rtuti umístěnou v uzavřené křemíkové komůrce"
+  ]
+ },
+ {
+  "id": "tec-B13",
+  "text": "Čím se lithium-železo-fosfátový článek (LFP) liší od článku typu NMC?",
+  "options": [
+   "Má vyšší napětí článku a snese hlubší podchlazení",
+   "Obsahuje víc kobaltu, zato vydrží mnohem víc cyklů",
+   "Nabízí větší hustotu energie za cenu kratší životnosti",
+   "Má nižší hustotu energie, je ale levnější a bezpečnější"
+  ]
+ },
+ {
+  "id": "tec-B14",
+  "text": "Co je hlavní překážkou sériové výroby článků s pevným elektrolytem?",
+  "options": [
+   "Pevný elektrolyt při běžné teplotě vůbec nevede ionty",
+   "Udržet dokonalý kontakt rozhraní a zabránit růstu dendritů",
+   "Kapalné elektrolyty mají principiálně vyšší napěťové okno",
+   "Materiál je radioaktivní a vyžaduje stíněnou montážní linku"
+  ]
+ },
+ {
+  "id": "tec-B15",
+  "text": "Co v lithiovém článku ubírá kapacitu tím, že tvoří pasivační vrstvu?",
+  "options": [
+   "Koroze hliníkového kolektoru na straně kladné elektrody",
+   "Postupné odpařování rozpouštědla skrz těsnění článku",
+   "Rozklad elektrolytu na povrchu anody, který váže lithium",
+   "Praskání separátoru, jež vede k trvalému vnitřnímu zkratu"
+  ]
+ },
+ {
+  "id": "tec-B16",
+  "text": "Kolik činí Shockleyův-Queisserův limit účinnosti jednopřechodového článku?",
+  "options": [
+   "Asi 33 % při optimální šířce zakázaného pásu kolem 1,3 eV",
+   "Asi 59 %, což odpovídá i teoretickému limitu větrných turbín",
+   "Asi 86 %, tedy hodnota daná teplotou povrchu Slunce",
+   "Asi 22 %, což je dnes běžná účinnost sériových panelů"
+  ]
+ },
+ {
+  "id": "tec-B17",
+  "text": "Která součástka umožnila stavět výkonné radary za druhé světové války?",
+  "options": [
+   "Krystalka z galenitu snímající odraz dlouhých vln",
+   "Dutinový magnetron, zdroj silných centimetrových vln",
+   "Germaniový tranzistor pracující v pásmu gigahertzů",
+   "Obrazovka s pamětí, jež udržela stopu cíle na stínítku"
+  ]
+ },
+ {
+  "id": "tec-B18",
+  "text": "Co říká Betzův limit o větrné turbíně?",
+  "options": [
+   "Otáčky listů nesmí překročit rychlost zvuku na konci listu",
+   "Výkon roste se čtvercem rychlosti větru, ne s třetí mocninou",
+   "Z proudu vzduchu lze odebrat nejvýš polovinu jeho energie",
+   "Z proudu vzduchu jde odebrat nejvýš asi 59,3 % jeho energie"
+  ]
+ },
+ {
+  "id": "tec-B19",
+  "text": "Čím se malé modulární reaktory (SMR) liší od velkých jaderných bloků?",
+  "options": [
+   "Mají spoléhat na pasivní chlazení a sériovou výrobu v továrně",
+   "Pracují zásadně na principu jaderné fúze místo štěpení",
+   "Nepotřebují žádné palivo obohacené uranem ani jeho výměnu",
+   "Produkují výhradně vodík, elektřinu do sítě nedodávají"
+  ]
+ },
+ {
+  "id": "tec-B20",
+  "text": "Jaký je rozdíl mezi magnetickým a inerciálním udržením fúzního plazmatu?",
+  "options": [
+   "První používá laser, druhý stlačuje palivo silným magnetem",
+   "První běží při pokojové teplotě, druhý potřebuje miliony stupňů",
+   "První drží řídké plazma dlouho, druhý stlačí terčík na okamžik",
+   "První spaluje uran, druhý slučuje jádra vodíkových izotopů"
+  ]
+ },
+ {
+  "id": "tec-B21",
+  "text": "Co přesně dokázal fúzní experiment na NIF v prosinci 2022?",
+  "options": [
+   "Fúze vydala 3,15 MJ, zatímco lasery dodaly do terčíku 2,05 MJ",
+   "Zařízení poprvé dodalo přebytečnou elektřinu do rozvodné sítě",
+   "Reakce vyrobila víc energie, než spotřebovala celá budova",
+   "Plazma hořelo soběstačně nepřetržitě po dobu několika minut"
+  ]
+ },
+ {
+  "id": "tec-B22",
+  "text": "Proč síti s velkým podílem fotovoltaiky chybí setrvačnost?",
+  "options": [
+   "Panely dodávají proud jen ve špičce, jinak je síť odpojí",
+   "Měniče nemají roztočené hmoty, které tlumí propady kmitočtu",
+   "Stejnosměrný proud z panelů nedokáže udržet stálé napětí",
+   "Panely mají příliš vysokou zkratovou odolnost pro ochrany"
+  ]
+ },
+ {
+  "id": "tec-B23",
+  "text": "Jaká je typická účinnost celého cyklu přečerpávací vodní elektrárny?",
+  "options": [
+   "Kolem 45 %, protože voda cestou ztrácí většinu energie",
+   "Kolem 98 %, ztráty jsou zanedbatelné jako u transformátoru",
+   "Kolem 75 až 80 % započítáno čerpání i následná výroba",
+   "Kolem 30 %, tedy zhruba stejně jako u tepelné elektrárny"
+  ]
+ },
+ {
+  "id": "tec-B24",
+  "text": "Co znamená v barevné taxonomii označení „šedý vodík“?",
+  "options": [
+   "Vodík z elektrolýzy vody hnané přebytky větrných elektráren",
+   "Vodík z uhlí, u něhož se oxid uhličitý ukládá pod zem",
+   "Vodík vzniklý jako vedlejší produkt při výrobě chloru",
+   "Vodík z parního reformingu zemního plynu bez záchytu CO2"
+  ]
+ },
+ {
+  "id": "tec-B25",
+  "text": "Kolik z původní elektřiny zbude na kolech auta s vodíkovým palivovým článkem?",
+  "options": [
+   "Zhruba polovina, tedy jen o málo méně než u bateriového auta",
+   "Zhruba 90 %, protože palivový článek nemá Carnotovo omezení",
+   "Zhruba čtvrtina až třetina, kdežto u bateriového kolem 70 %",
+   "Zhruba pětina u obou, rozdíl mezi nimi je zcela zanedbatelný"
+  ]
+ },
+ {
+  "id": "tec-B26",
+  "text": "Co udává topný faktor COP u tepelného čerpadla?",
+  "options": [
+   "Kolik tepla dodá na každou kilowatthodinu spotřebované elektřiny",
+   "Kolik procent paliva promění na teplo místo na ztráty",
+   "Jak dlouho vydrží čerpadlo běžet bez odstávky na odmrazení",
+   "O kolik stupňů dokáže ohřát vodu proti venkovní teplotě"
+  ]
+ },
+ {
+  "id": "tec-B27",
+  "text": "Jaká je typická účinnost moderního benzinového motoru v běžném provozu?",
+  "options": [
+   "Kolem 60 %, díky přeplňování a přímému vstřikování paliva",
+   "Kolem 5 %, zbytek odnese chlazení a horké výfukové plyny",
+   "Kolem 45 %, tedy zhruba srovnatelně s elektrickým pohonem",
+   "Kolem 25 %, elektrický pohon se přitom dostává nad 80 %"
+  ]
+ },
+ {
+  "id": "tec-B28",
+  "text": "Proč se pro PCR používá polymeráza z termofilní bakterie?",
+  "options": [
+   "Kopíruje DNA rychleji než kterýkoli jiný známý enzym",
+   "Přežije opakovaný ohřev na rozdělení dvojité šroubovice",
+   "Dokáže pracovat i s RNA, což běžné polymerázy neumějí",
+   "Nepotřebuje k práci žádné krátké startovací primery"
+  ]
+ },
+ {
+  "id": "tec-B29",
+  "text": "Proč selhal první transatlantický telegrafní kabel z roku 1858?",
+  "options": [
+   "Byl přetržen kotvou rybářské lodi hned v prvním týdnu",
+   "Voda pronikla izolací a rozpustila měděné jádro vodiče",
+   "Nikdo neuměl vyrobit dost citlivý přijímací přístroj",
+   "Vysoké napětí při snaze zesílit signál zničilo izolaci"
+  ]
+ },
+ {
+  "id": "tec-B30",
+  "text": "Jak čte sekvenátor typu nanopore pořadí bází v DNA?",
+  "options": [
+   "Měří barvu záblesku při zabudování každého nukleotidu",
+   "Váží fragmenty a z jejich hmotnosti odvodí složení",
+   "Sleduje změny proudu, když řetězec prochází pórem",
+   "Snímá elektronovým mikroskopem tvar dvojité šroubovice"
+  ]
+ },
+ {
+  "id": "tec-B31",
+  "text": "Proč se pro genovou terapii nejčastěji používá virus AAV?",
+  "options": [
+   "Dokáže do buňky vpravit celý lidský chromozom najednou",
+   "Je málo patogenní a svůj náklad většinou nevkládá do genomu",
+   "Množí se v těle sám, takže stačí podat jedinou částici",
+   "Cíleně stříhá vadný gen a nahradí jej správnou kopií"
+  ]
+ },
+ {
+  "id": "tec-B32",
+  "text": "K čemu se mRNA jako platforma zkouší mimo oblast očkování?",
+  "options": [
+   "Aby si tělo samo vyrobilo chybějící bílkovinu",
+   "Aby trvale přepsala vadné písmeno přímo v jaderné DNA",
+   "Aby nahradila antibiotika přímým rozkladem bakterií",
+   "Aby zesílila přenos nervových vzruchů v poraněné míše"
+  ]
+ },
+ {
+  "id": "tec-B33",
+  "text": "Co ukázal projekt syntetické buňky JCVI-syn3.0 z roku 2016?",
+  "options": [
+   "Bakterie žije s méně než 500 geny, u třetiny neznáme funkci",
+   "Syntetická buňka dokáže žít zcela bez ribozomů a bez RNA",
+   "Genom lze celý nahradit křemíkovým paměťovým čipem",
+   "Minimální živý genom vyžaduje nejméně deset tisíc genů"
+  ]
+ },
+ {
+  "id": "tec-B34",
+  "text": "Co v lidském těle vlastně snímá magnetická rezonance?",
+  "options": [
+   "Pohlcování rentgenového záření v hustých tkáních těla",
+   "Odraz ultrazvukových vln na rozhraní různých tkání",
+   "Rozpad podané radioaktivní látky nahromaděné v orgánu",
+   "Signál jader vodíku vracejících se po vypnutí pulzu"
+  ]
+ },
+ {
+  "id": "tec-B35",
+  "text": "Jak vzniká obraz řezu tělem u počítačové tomografie?",
+  "options": [
+   "Detektor snímá teplo vyzařované jednotlivými orgány",
+   "Silné magnetické pole vybere jedinou tenkou vrstvu tkáně",
+   "Z mnoha rentgenových průmětů se řez dopočítá výpočtem",
+   "Zdroj i detektor se zaostří do jediného bodu uvnitř"
+  ]
+ },
+ {
+  "id": "tec-B36",
+  "text": "Co měří dopplerovský ultrazvuk v cévě?",
+  "options": [
+   "Teplotu krve podle změny rychlosti šíření zvuku v ní",
+   "Rychlost toku podle posunu kmitočtu odražených vln",
+   "Tuhost stěny cévy podle útlumu odražené vlny",
+   "Okysličení krve podle barvy odraženého paprsku"
+  ]
+ },
+ {
+  "id": "tec-B37",
+  "text": "Co říká Ciolkovského raketová rovnice?",
+  "options": [
+   "Dosažitelná rychlost roste přímo úměrně hmotnosti paliva",
+   "Rychlost roste s logaritmem poměru startovní a suché hmotnosti",
+   "Tah motoru musí vždy převýšit gravitační zrychlení desetkrát",
+   "Spotřeba paliva roste se čtvercem vzdálenosti od Země"
+  ]
+ },
+ {
+  "id": "tec-B38",
+  "text": "Proč se rakety stavějí jako vícestupňové?",
+  "options": [
+   "Aby při poruše prvního motoru převzal řízení druhý stupeň",
+   "Aby každý stupeň mohl použít jiné, výrazně levnější palivo",
+   "Aby raketa odhodila prázdné nádrže a nevozila je dál",
+   "Aby se náklad dal rozdělit na několik různých oběžných drah"
+  ]
+ },
+ {
+  "id": "tec-B39",
+  "text": "Co je Hohmannův přechod?",
+  "options": [
+   "Manévr, při kterém se sonda otočí zády k cíli a brzdí",
+   "Průlet kolem planety, jenž změní směr letu bez paliva",
+   "Spirálovitý výstup s trvale zapnutým slabým motorem",
+   "Dva zážehy spojující dvě kruhové dráhy elipsou"
+  ]
+ },
+ {
+  "id": "tec-B40",
+  "text": "Čím se iontový motor liší od chemického raketového motoru?",
+  "options": [
+   "Má nepatrný tah, zato mnohem lépe hospodaří s palivem",
+   "Má obrovský tah, ale vydrží běžet jen několik minut",
+   "Nepotřebuje vůbec žádnou pracovní látku k vytvoření tahu",
+   "Funguje i v atmosféře, proto se hodí i pro start ze Země"
+  ]
+ },
+ {
+  "id": "tec-B41",
+  "text": "Odkud bere sonda energii při gravitačním praku?",
+  "options": [
+   "Ze slunečního větru, který ji urychlí kolem planety",
+   "Z krátkého zážehu motoru v nejnižším bodě průletu",
+   "Z oběžného pohybu planety, jež o nepatrný kus zpomalí",
+   "Z magnetického pole planety působícího na kovový trup sondy"
+  ]
+ },
+ {
+  "id": "tec-B42",
+  "text": "Co změnila kontejnerizace, kterou od roku 1956 prosadil Malcom McLean?",
+  "options": [
+   "Zrychlila plavbu lodí zhruba na dvojnásobek dřívější rychlosti",
+   "Srazila náklady na překládku v přístavu o víc než řád",
+   "Umožnila poprvé přepravovat po moři chlazené potraviny",
+   "Nahradila železnici jako hlavního přepravce po pevnině"
+  ]
+ },
+ {
+  "id": "tec-B43",
+  "text": "Proč se Haberův-Boschův proces řadí mezi nejdůležitější objevy techniky?",
+  "options": [
+   "Dusíkatá hnojiva z něj živí zhruba polovinu lidstva",
+   "Poprvé umožnil vyrábět ocel bez použití dřevěného uhlí",
+   "Otevřel cestu k levné výrobě hliníku elektrolýzou",
+   "Dodal chemii první průmyslově vyráběné antibiotikum"
+  ]
+ },
+ {
+  "id": "tec-B44",
+  "text": "Co dělá Bessemerův konvertor s roztaveným surovým železem?",
+  "options": [
+   "Přidává uhlík z koksu, aby železo získalo pevnost oceli",
+   "Elektrickým obloukem taví šrot na novou surovou ocel",
+   "Chladí lázeň proudem dusíku, aby se zjemnila struktura",
+   "Profukuje lázeň vzduchem, jenž uhlík spálí a lázeň ohřeje"
+  ]
+ }
+]

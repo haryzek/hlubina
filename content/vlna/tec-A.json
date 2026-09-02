@@ -1,0 +1,706 @@
+[
+  {
+    "id": "tec-A01",
+    "type": "F",
+    "category": "technologie",
+    "text": "Takzvané von Neumannovo úzké hrdlo označuje především:",
+    "options": [
+      "nutnost překládat každou instrukci na sadu mikrooperací",
+      "pomalý přenos dat mezi grafickou kartou a operační pamětí",
+      "omezenou propustnost sběrnice mezi procesorem a hlavní pamětí",
+      "konečný počet registrů, které má jedno procesorové jádro"
+    ],
+    "correct": 2,
+    "explanation": "Von Neumannova architektura vede instrukce i data přes jeden kanál do společné paměti, takže rychlost výpočtu je nakonec omezena přenosem k paměti, ne aritmetikou samotnou. Proto se staví hluboké hierarchie cache a proto Harvardská architektura odděluje sběrnici instrukcí a dat. Termín zpopularizoval John Backus v přednášce k Turingově ceně.",
+    "source": "John Backus, Can Programming Be Liberated from the von Neumann Style?, CACM 21 (1978)",
+    "seedElo": 1700
+  },
+  {
+    "id": "tec-A02",
+    "type": "K",
+    "category": "technologie",
+    "text": "Proč mívá cache L1 v moderních procesorech jen desítky kilobajtů?",
+    "options": [
+      "větší pole by mělo delší přístupovou dobu a zdrželo by celé jádro",
+      "výrobní proces neumožňuje umístit na jeden čip více statické paměti",
+      "operační systém neumí adresovat cache větší než šedesát čtyři kilobajty",
+      "větší L1 by musela být sdílená mezi všemi jádry daného procesoru"
+    ],
+    "correct": 0,
+    "explanation": "Doba přístupu roste s velikostí a asociativitou pole, a L1 musí odpovědět v jednotkách taktů, jinak by se protáhla celá pipeline. Kapacita se proto řeší hierarchií: malá a bleskurychlá L1, větší a pomalejší L2, sdílená L3. Je to klasický kompromis mezi latencí a kapacitou.",
+    "source": "Hennessy & Patterson, Computer Architecture: A Quantitative Approach, kap. 2",
+    "seedElo": 1850
+  },
+  {
+    "id": "tec-A03",
+    "type": "F",
+    "category": "technologie",
+    "text": "K čemu slouží prediktor skoků (branch predictor) v procesoru?",
+    "options": [
+      "rozděluje instrukce mezi jednotlivá jádra podle jejich okamžité zátěže",
+      "překládá virtuální adresy cílů skoku na fyzické adresy v paměti",
+      "kontroluje, zda program neskáče mimo přidělený adresní prostor",
+      "hádá výsledek podmínky, aby pipeline nemusela čekat na její vyhodnocení"
+    ],
+    "correct": 3,
+    "explanation": "Podmíněný skok se rozhodne až v pozdější fázi pipeline; kdyby procesor čekal, zůstalo by mnoho stupňů prázdných. Prediktor proto tipne směr a spekulativně vykonává instrukce za skokem; při chybném odhadu se výsledky zahodí a zaplatí se penalizace desítek taktů. Úspěšnost dobrých prediktorů se běžně pohybuje nad 95 %.",
+    "source": "Hennessy & Patterson, Computer Architecture, kap. 3 (Instruction-Level Parallelism)",
+    "seedElo": 1650
+  },
+  {
+    "id": "tec-A04",
+    "type": "K",
+    "category": "technologie",
+    "text": "Útoky Spectre a Meltdown se dostanou k cizím datům tak, že:",
+    "options": [
+      "přepíší stránkovací tabulky a získají zápisový přístup do jádra",
+      "vyčtou stopu spekulativního přístupu z časování paměťové cache",
+      "zneužijí chybu v generátoru náhodných čísel uvnitř procesoru",
+      "přetečením zásobníku podstrčí procesoru vlastní kód v jádře"
+    ],
+    "correct": 1,
+    "explanation": "Spekulativně vykonané instrukce se sice architektonicky zahodí, ale stihnou ovlivnit stav cache. Útočník pak měřením doby přístupu zjistí, která adresa byla načtena, a z toho odvodí tajnou hodnotu. Jde tedy o postranní kanál v hardwaru, ne o klasickou chybu v programu; zveřejněno bylo v lednu 2018.",
+    "source": "Kocher et al., Spectre Attacks (IEEE S&P 2019); Lipp et al., Meltdown (USENIX Security 2018)",
+    "seedElo": 2000
+  },
+  {
+    "id": "tec-A05",
+    "type": "F",
+    "category": "technologie",
+    "text": "Jak dnešní procesory x86 zvládají složité instrukce sady CISC?",
+    "options": [
+      "rozkládají je uvnitř na jednodušší mikrooperace prováděné jádrem",
+      "spouštějí je v emulační vrstvě, kterou dodává operační systém",
+      "mají pro každou instrukci vlastní specializovaný obvod na čipu",
+      "předávají je koprocesoru, který zpracovává jen složité instrukce"
+    ],
+    "correct": 0,
+    "explanation": "Od Pentia Pro dekodér x86 překládá instrukce na vnitřní mikrooperace, které se pak vykonávají v jádře podobném RISC — mimo pořadí a spekulativně. Rozdíl RISC vs. CISC se tak přesunul z jádra do dekodéru; zůstává ale v ceně dekódování instrukcí proměnné délky. Právě to je jeden z argumentů ve prospěch ARM.",
+    "source": "Agner Fog, The Microarchitecture of Intel, AMD and VIA CPUs",
+    "seedElo": 1900
+  },
+  {
+    "id": "tec-A06",
+    "type": "F",
+    "category": "technologie",
+    "text": "V čem se firma Arm zásadně liší od Intelu?",
+    "options": [
+      "sama vyrábí procesory, ale prodává je výhradně výrobcům mobilních telefonů",
+      "vlastní instrukční sadu, kterou smí kdokoli implementovat zdarma",
+      "vyvíjí pouze operační systémy a překladače pro procesory jiných firem",
+      "sama procesory nevyrábí, licencuje instrukční sadu a návrhy jader"
+    ],
+    "correct": 3,
+    "explanation": "Arm je licenční firma: prodává buď licenci na architekturu, kdy si zákazník navrhne vlastní jádro (tak to dělá Apple), nebo hotové návrhy jader Cortex. Křemík vyrábějí zákazníci ve slévárnách jako TSMC či Samsung. Intel naproti tomu vlastní architekturu i továrny a prodává fyzické čipy.",
+    "source": "Arm Holdings, Annual Report 2023 (popis licenčního modelu)",
+    "seedElo": 1750
+  },
+  {
+    "id": "tec-A07",
+    "type": "K",
+    "category": "technologie",
+    "text": "Proč bývají grafické procesory pomalé, když kód obsahuje hodně větvení?",
+    "options": [
+      "GPU nemají prediktor skoků, každý skok proto stojí plnou latenci paměti",
+      "vlákna ve skupině sdílí jeden řadič a obě větve se vykonají postupně",
+      "každé větvení vyvolá přesun dat mezi pamětí GPU a hlavní pamětí",
+      "překladač musí větvení převést na rekurzi, kterou GPU zpracuje pomalu"
+    ],
+    "correct": 1,
+    "explanation": "GPU pracují v modelu SIMT: skupina vláken (warp, wavefront) sdílí jeden instrukční tok. Když se vlákna rozejdou do různých větví, hardware vykoná obě větve za sebou a v každé maskuje nečinná vlákna, takže využití klesne. Proto se na GPU vyplácí kód bez divergentních podmínek.",
+    "source": "NVIDIA CUDA C++ Programming Guide, kap. SIMT Architecture",
+    "seedElo": 1900
+  },
+  {
+    "id": "tec-A08",
+    "type": "K",
+    "category": "technologie",
+    "text": "Hlavní technický rozdíl mezi kontejnerem a plnohodnotným virtuálním strojem je, že:",
+    "options": [
+      "kontejner smí běžet jen jako jediný proces a nemá vlastní souborový systém",
+      "virtuální stroj nemá přístup k síti, dokud mu ji hypervizor výslovně nepřidělí",
+      "kontejnery sdílí jádro hostitele, virtuální stroj má vlastní jádro i systém",
+      "kontejner se od virtuálního stroje liší jen tím, jak se distribuuje obraz"
+    ],
+    "correct": 2,
+    "explanation": "Kontejner je izolovaná skupina procesů hostitelského jádra — izolaci zajišťují jmenné prostory a cgroups, ne emulace hardwaru. Proto startuje v milisekundách a má menší režii, ale sdílené jádro je i sdílená plocha pro útok. Virtuální stroj naopak spouští nad hypervizorem celé vlastní jádro.",
+    "source": "Linux man 7 namespaces; man 7 cgroups",
+    "seedElo": 1650
+  },
+  {
+    "id": "tec-A09",
+    "type": "K",
+    "category": "technologie",
+    "text": "Sonda Mars Pathfinder v roce 1997 opakovaně restartovala kvůli inverzi priorit. Oč jde?",
+    "options": [
+      "plánovač přidělil dvěma nesouvisejícím úlohám omylem stejnou prioritu",
+      "úloha s vysokou prioritou spotřebovala veškerý čas a vyhladověla ostatní úlohy",
+      "přerušení od hardwaru dostalo vyšší prioritu než obsluha datové sběrnice",
+      "úloha nízké priority držela zámek, na který čekala úloha vysoké priority"
+    ],
+    "correct": 3,
+    "explanation": "Vysokoprioritní úloha čekala na mutex držený nízkoprioritní úlohou, kterou zase vytlačovaly úlohy střední priority — a hlídací časovač systém restartoval. Řešením je dědění priority: držitel zámku dočasně převezme prioritu toho, kdo čeká. Tým JPL tuto volbu ve VxWorks zapnul až za letu.",
+    "source": "Glenn Reeves (JPL), What Really Happened on Mars? (1997)",
+    "seedElo": 2050
+  },
+  {
+    "id": "tec-A10",
+    "type": "F",
+    "category": "technologie",
+    "text": "K čemu v procesoru slouží TLB (translation lookaside buffer)?",
+    "options": [
+      "ukládá naposledy dekódované instrukce, aby se nemusely překládat znovu",
+      "je cache překladů virtuálních adres na fyzické adresy v paměti",
+      "drží fronty zápisů čekajících na vyprázdnění do hlavní paměti",
+      "uchovává historii skoků pro potřeby prediktoru větvení v jádře"
+    ],
+    "correct": 1,
+    "explanation": "Bez TLB by každý přístup do paměti vyžadoval několik dalších čtení stránkovacích tabulek. TLB si proto pamatuje nedávné překlady stránek a při zásahu je vrátí okamžitě. Přepnutí kontextu ji částečně znehodnotí, což je jeden z důvodů, proč jsou přepnutí drahá.",
+    "source": "Arpaci-Dusseau, Operating Systems: Three Easy Pieces, kap. 19",
+    "seedElo": 1850
+  },
+  {
+    "id": "tec-A11",
+    "type": "K",
+    "category": "technologie",
+    "text": "Proč nemůže běžný program sáhnout na hardware přímo a musí volat jádro?",
+    "options": [
+      "procesor běží v omezeném režimu, kde privilegované instrukce neprojdou",
+      "překladače tyto instrukce z bezpečnostních důvodů odmítají přeložit",
+      "hardware rozumí jen příkazům, které mu pošle ovladač psaný v assembleru",
+      "operační systém drží hardware zamčený zámkem, jejž lze získat jen voláním"
+    ],
+    "correct": 0,
+    "explanation": "Procesor rozlišuje úrovně oprávnění (na x86 ringy); uživatelský kód běží na té nejnižší a pokus o privilegovanou instrukci vyvolá výjimku. Přechod do jádra proto probíhá řízeně přes systémové volání, kde jádro zkontroluje argumenty. Tahle hranice je základem ochrany paměti i izolace procesů.",
+    "source": "Arpaci-Dusseau, Operating Systems: Three Easy Pieces, kap. 6",
+    "seedElo": 1700
+  },
+  {
+    "id": "tec-A12",
+    "type": "K",
+    "category": "technologie",
+    "text": "Co vlastně garantuje žurnálování souborového systému při náhlém výpadku proudu?",
+    "options": [
+      "že se neztratí žádná data zapsaná v poslední minutě před výpadkem",
+      "že se soubory rozepsané v okamžiku výpadku samy dopíší po restartu",
+      "že metadata zůstanou konzistentní, ne že se dokončí rozepsaný zápis",
+      "že se poškozené sektory disku automaticky nahradí kopií z žurnálu systému"
+    ],
+    "correct": 2,
+    "explanation": "Žurnál nejdřív zapíše záměr a teprve pak jej provede, takže po restartu lze operaci dokončit nebo zahodit a struktura systému zůstane celistvá. V běžném režimu (data=ordered u ext4) se ale žurnálují jen metadata, obsah souboru se ztratit může. Kdo chce trvanlivost dat, musí volat fsync.",
+    "source": "Dokumentace jádra Linuxu k ext4, volby data=journal/ordered/writeback",
+    "seedElo": 1950
+  },
+  {
+    "id": "tec-A13",
+    "type": "F",
+    "category": "technologie",
+    "text": "Proč zvládnou souborové systémy jako ZFS nebo Btrfs vytvořit snímek okamžitě?",
+    "options": [
+      "obsah disku se předem komprimuje, takže se kopie vejde do paměti",
+      "pracují metodou copy-on-write, snímek jen zamkne stávající bloky",
+      "snímek se pořizuje na pozadí a je použitelný až po dokončení kopie",
+      "ukládají jen rozdíl proti poslednímu snímku pomocí komprese bloků"
+    ],
+    "correct": 1,
+    "explanation": "Tyto systémy nikdy nepřepisují blok na místě: změna se zapíše jinam a přesměruje se ukazatel. Snímek proto stačí označit jako platný kořen stromu a staré bloky se prostě neuvolní; čas i místo jsou zprvu zanedbatelné. Cenou je fragmentace a nutnost hlídat volné místo.",
+    "source": "Bonwick & Ahrens, The Zettabyte File System (2003)",
+    "seedElo": 1900
+  },
+  {
+    "id": "tec-A14",
+    "type": "K",
+    "category": "technologie",
+    "text": "Hashovací tabulka slibuje vyhledání v konstantním čase. Kdy tento slib neplatí?",
+    "options": [
+      "když tabulka obsahuje více než milion položek a nevejde se do cache",
+      "když se klíče ukládají jako řetězce, protože ty nelze hashovat rychle",
+      "když se mnoho klíčů sejde v jedné přihrádce a hledání degraduje na seznam",
+      "když se tabulka zvětšuje, protože každé vložení pak vyžaduje rehashování"
+    ],
+    "correct": 2,
+    "explanation": "Konstantní čas je průměr za předpokladu rovnoměrné hashovací funkce; v nejhorším případě je složitost lineární. Toho lze i zneužít — útok HashDoS posílá klíče záměrně kolidující, proto jazyky nasadily randomizované hashe. Zvětšování tabulky je naopak amortizované, takže průměr nekazí.",
+    "source": "Klink & Wälde, Efficient Denial of Service Attacks on Web Application Platforms (2011)",
+    "seedElo": 2000
+  },
+  {
+    "id": "tec-A15",
+    "type": "K",
+    "category": "technologie",
+    "text": "Proč databáze indexují B-stromy, a ne binárními vyhledávacími stromy?",
+    "options": [
+      "binární strom nelze uložit na disk, protože jeho uzly nemají pevnou velikost",
+      "B-strom umí jako jediný udržet záznamy setříděné podle více klíčů",
+      "binární strom vyžaduje při každém vložení kompletní přebudování stromu",
+      "uzel B-stromu má stovky potomků, takže hloubka i počet čtení jsou malé"
+    ],
+    "correct": 3,
+    "explanation": "Rozhoduje počet přístupů na disk či SSD, ne počet porovnání. Uzel B-stromu se dělá velký jako stránka, pojme stovky klíčů, a strom nad miliony záznamů má proto jen tři až čtyři patra. Binární strom by měl přes dvacet pater, tedy dvacet vstupně-výstupních operací.",
+    "source": "Bayer & McCreight, Organization and Maintenance of Large Ordered Indices (1972)",
+    "seedElo": 1850
+  },
+  {
+    "id": "tec-A16",
+    "type": "F",
+    "category": "technologie",
+    "text": "Quicksort má průměrnou složitost n log n. Jaká je v nejhorším případě?",
+    "options": [
+      "kvadratická, pokud pivot opakovaně rozdělí pole velmi nerovnoměrně",
+      "také n log n, protože rekurze má vždy logaritmickou hloubku dělení",
+      "exponenciální, protože počet rekurzivních volání roste s velikostí",
+      "lineární, protože už setříděné pole projde algoritmus jediným průchodem"
+    ],
+    "correct": 0,
+    "explanation": "Když pivot padne pokaždé na kraj, jedna část zůstane skoro celá a hloubka rekurze doroste na n. Proto se pivot volí náhodně nebo metodou medián ze tří a knihovní implementace (introsort) po překročení hloubky přepnou na heapsort. Mergesort má n log n zaručeně, potřebuje ale pomocnou paměť.",
+    "source": "Musser, Introspective Sorting and Selection Algorithms (1997)",
+    "seedElo": 1550
+  },
+  {
+    "id": "tec-A17",
+    "type": "K",
+    "category": "technologie",
+    "text": "Co je jádrem otázky P versus NP, řekneme-li ji bez matematiky?",
+    "options": [
+      "zda je nalezení řešení vždy stejně snadné jako ověření hotového řešení",
+      "zda existuje úloha, kterou nedokáže vyřešit žádný počítačový program",
+      "zda lze každý program přepsat tak, aby běžel na paralelním hardwaru",
+      "zda kvantový počítač zvládne úlohy, na které klasické stroje nestačí ani teoreticky"
+    ],
+    "correct": 0,
+    "explanation": "Do NP patří úlohy, u nichž lze předložené řešení rychle zkontrolovat; do P ty, u nichž je lze rychle najít. Otázka zní, zda se tyto třídy rovnají — většina teoretiků věří, že ne, důkaz ale chybí. Kdyby P = NP, zhroutila by se mimo jiné bezpečnost postavená na výpočetní obtížnosti.",
+    "source": "Clay Mathematics Institute, Millennium Prize Problems: P vs NP",
+    "seedElo": 1550
+  },
+  {
+    "id": "tec-A18",
+    "type": "F",
+    "category": "technologie",
+    "text": "Která úloha byla jako první dokázána jako NP-úplná?",
+    "options": [
+      "problém obchodního cestujícího v rozhodovací podobě s daným limitem",
+      "problém zastavení, tedy otázka, zda se daný program někdy zastaví",
+      "splnitelnost výrokové formule, tedy problém známý jako SAT",
+      "rozklad velkého čísla na součin dvou přibližně stejných prvočísel"
+    ],
+    "correct": 2,
+    "explanation": "Cook v roce 1971 a nezávisle Levin ukázali, že na SAT lze v polynomiálním čase převést každou úlohu z NP. Karp pak rok nato přidal jednadvacet dalších NP-úplných problémů a rozjel tím celý obor. Problém zastavení do NP vůbec nepatří — je nerozhodnutelný — a faktorizace jako NP-úplná známa není.",
+    "source": "Cook, The Complexity of Theorem-Proving Procedures (1971); Karp (1972)",
+    "seedElo": 1900
+  },
+  {
+    "id": "tec-A19",
+    "type": "K",
+    "category": "technologie",
+    "text": "Proč nemůže existovat bezztrátový kompresor, který zmenší každý vstupní soubor?",
+    "options": [
+      "protože v každém souboru zůstává aspoň jeden bit režie použitého formátu",
+      "protože kratších řetězců je méně a mapování by nebylo prosté",
+      "protože náhodná data obsahují entropii, kterou nelze uložit na disk",
+      "protože každý algoritmus musí uložit i vlastní dekompresní tabulku"
+    ],
+    "correct": 1,
+    "explanation": "Je to holubníkový argument: řetězců kratších než n je méně než řetězců délky n, takže se všechny na kratší zobrazit nedají. Každý bezztrátový kompresor tedy musí některé vstupy zvětšit — funguje jen proto, že reálná data nejsou náhodná. Sliby univerzální komprese jsou proto spolehlivým znakem podvodu.",
+    "source": "Cover & Thomas, Elements of Information Theory, kap. 5",
+    "seedElo": 1850
+  },
+  {
+    "id": "tec-A20",
+    "type": "F",
+    "category": "technologie",
+    "text": "Huffmanovo kódování dává znakům kódy různé délky. Co zaručuje jednoznačné čtení?",
+    "options": [
+      "kódy jsou uloženy v tabulce, kterou dekodér prochází od konce zprávy",
+      "mezi jednotlivé kódy se vkládá speciální oddělovací bitová značka",
+      "všechny kódy mají délku dělitelnou osmi, takže lícují s bajty",
+      "žádný kód není předponou jiného, takže konec kódu je poznat rovnou"
+    ],
+    "correct": 3,
+    "explanation": "Huffmanův strom má symboly jen v listech, a proto vzniká prefixový kód: jakmile dojdeme do listu, symbol je určen bez ohledu na to, co následuje. Délky kódů jsou pro daný model četností optimální. Modernější aritmetické kódování a ANS jsou účinnější, protože nejsou vázané na celé bity.",
+    "source": "Huffman, A Method for the Construction of Minimum-Redundancy Codes (1952)",
+    "seedElo": 1700
+  },
+  {
+    "id": "tec-A21",
+    "type": "K",
+    "category": "technologie",
+    "text": "Kde vzniká hlavní ztráta informace při kompresi obrázku do formátu JPEG?",
+    "options": [
+      "při převodu obrázku na osmibitovou paletu barevných odstínů a šedí",
+      "při závěrečném Huffmanově kódování, které zahazuje vzácné symboly",
+      "při rozdělení obrazu na bloky, jejichž okraje se navzájem částečně překrývají",
+      "při kvantování koeficientů kosinové transformace, hlavně těch vysokých"
+    ],
+    "correct": 3,
+    "explanation": "JPEG převede každý blok 8×8 do frekvenční oblasti, koeficienty vydělí kvantizační maticí a zaokrouhlí — a právě tady se informace nenávratně ztrácí. Vysoké frekvence se zaokrouhlují nejhruběji, protože je oko vnímá nejméně. Následné Huffmanovo kódování je už bezztrátové; ztrátové je i podvzorkování barvonosné složky.",
+    "source": "ITU-T T.81 (standard JPEG), kap. 4",
+    "seedElo": 1900
+  },
+  {
+    "id": "tec-A22",
+    "type": "K",
+    "category": "technologie",
+    "text": "Na jakém principu MP3 zahodí část zvuku, aniž si toho posluchač všimne?",
+    "options": [
+      "využívá maskování: hlasitý tón znepřístupní sluchu tiché tóny v okolí",
+      "odstraní ze signálu všechny frekvence nad hranicí šestnácti kilohertzů",
+      "sníží počet vzorků za sekundu na polovinu původní vzorkovací frekvence",
+      "zprůměruje levý a pravý kanál a rozdíl mezi nimi uloží jen přibližně"
+    ],
+    "correct": 0,
+    "explanation": "Psychoakustický model spočítá práh slyšitelnosti v každém pásmu a podle něj rozloží kvantizační šum tam, kde ho hlasitější složky překryjí. Zahazuje se tedy to, co by ucho stejně neslyšelo, ne prostě vysoké frekvence. Při nízkých datových tocích model chybuje a artefakty se ozvou, typicky u činelů.",
+    "source": "ISO/IEC 11172-3 (MPEG-1 Audio Layer III), psychoakustický model",
+    "seedElo": 1750
+  },
+  {
+    "id": "tec-A23",
+    "type": "F",
+    "category": "technologie",
+    "text": "Kolik bitů na znak používá původní kódování ASCII?",
+    "options": [
+      "osm bitů, tedy přesně jeden bajt a dvě stě padesát šest znaků",
+      "šest bitů, protože tehdejší děrné štítky víc míst neměly",
+      "sedm bitů, osmý sloužil jako paritní kontrola při přenosu",
+      "šestnáct bitů, aby se vešly i znaky evropských abeced"
+    ],
+    "correct": 2,
+    "explanation": "ASCII definuje 128 pozic v sedmi bitech; osmý bit se v telekomunikaci používal na paritu. Když se ustálil osmibitový bajt, vzniklo z volné horní poloviny množství vzájemně nekompatibilních kódových stránek. Tenhle zmatek pak rozmotal až Unicode.",
+    "source": "ANSI X3.4-1986 (ASCII)",
+    "seedElo": 1550
+  },
+  {
+    "id": "tec-A24",
+    "type": "K",
+    "category": "technologie",
+    "text": "Co dělá z UTF-8 tak povedený návrh kódování?",
+    "options": [
+      "má pevnou délku čtyř bajtů na znak, takže se v textu snadno indexuje",
+      "je zpětně kompatibilní s ASCII a ze začátku bajtu poznáte jeho roli",
+      "ukládá znaky v pořadí podle četnosti výskytu v anglických textech",
+      "umí kterýkoli znak Unicode zapsat vždy do dvou bajtů bez výjimek"
+    ],
+    "correct": 1,
+    "explanation": "Znaky ASCII zůstávají jediným bajtem se stejnou hodnotou, takže staré nástroje text nerozbijí. Pokračovací bajty začínají vždy dvojicí bitů 10, takže je lze odlišit od začátku znaku a po skoku doprostřed řetězce se dá hranice najít zpětně. Kódování navrhli Ken Thompson a Rob Pike roku 1992.",
+    "source": "RFC 3629 (UTF-8); Rob Pike, UTF-8 history (2003)",
+    "seedElo": 1700
+  },
+  {
+    "id": "tec-A25",
+    "type": "K",
+    "category": "technologie",
+    "text": "Proč nelze počet znaků v řetězci spolehlivě zjistit prostým počítáním kódových bodů?",
+    "options": [
+      "kódové body jsou proměnlivě dlouhé, takže se nedají spočítat naráz",
+      "co člověk vidí jako jeden znak, může být složeno z několika bodů",
+      "Unicode nemá pevný počet znaků, protože se každý rok rozšiřuje",
+      "v řetězci jsou uloženy i řídicí sekvence pro barvu a formátování"
+    ],
+    "correct": 1,
+    "explanation": "Uživatelsky vnímaný znak je grafémový shluk: písmeno s diakritikou může být základ plus kombinující akcent a emodži rodiny bývá několik postav slepených spojovníkem nulové šířky. Délka řetězce se proto liší podle toho, zda se počítají bajty, kódové body, nebo shluky. Segmentaci popisuje příloha UAX #29.",
+    "source": "Unicode Standard Annex #29, Text Segmentation",
+    "seedElo": 2050
+  },
+  {
+    "id": "tec-A26",
+    "type": "K",
+    "category": "technologie",
+    "text": "Proč v mnoha jazycích 0.1 + 0.2 nevyjde přesně 0.3?",
+    "options": [
+      "protože sčítání ve dvojkové soustavě zaokrouhluje vždy směrem dolů",
+      "protože procesor počítá desetinná čísla jen na patnáct platných míst",
+      "protože překladač obě konstanty uloží jako zlomky s různým jmenovatelem",
+      "protože desetiny nemají ve dvojkové soustavě konečný rozvoj"
+    ],
+    "correct": 3,
+    "explanation": "Ve dvojkové soustavě má konečný zápis jen zlomek se jmenovatelem, který je mocninou dvojky; 0,1 je proto periodické a uloží se zaokrouhleně. Součet dvou zaokrouhlených hodnot pak leží nepatrně vedle 0,3 a porovnání na rovnost selže. Proto se peníze počítají v celých haléřích nebo v desítkovém typu.",
+    "source": "IEEE 754-2019; Goldberg, What Every Computer Scientist Should Know About Floating-Point (1991)",
+    "seedElo": 1600
+  },
+  {
+    "id": "tec-A27",
+    "type": "F",
+    "category": "technologie",
+    "text": "Jak se podle normy IEEE 754 chová hodnota NaN při porovnání sama se sebou?",
+    "options": [
+      "výsledek je nepravda, NaN se nerovná ničemu včetně sebe sama",
+      "výsledek je pravda, protože jde o bitově naprosto shodné hodnoty",
+      "porovnání vyvolá výjimku, kterou musí zachytit běhové prostředí",
+      "chování není určeno a liší se podle použitého procesoru a jazyka"
+    ],
+    "correct": 0,
+    "explanation": "NaN je jediná hodnota, pro kterou je rovnost nepravdivá, takže test x != x je klasický způsob, jak ji odhalit. Plyne z toho i to, že NaN v poli rozbíjí třídění, které předpokládá uspořádání. Norma navíc rozlišuje tiché a signalizující NaN.",
+    "source": "IEEE 754-2019, kap. 5.11 (Details of comparison predicates)",
+    "seedElo": 1850
+  },
+  {
+    "id": "tec-A28",
+    "type": "F",
+    "category": "technologie",
+    "text": "Podle čeho určuje git jméno objektu, který ukládá do svého úložiště?",
+    "options": [
+      "podle pořadového čísla, které přiděluje v okamžiku vytvoření commitu",
+      "podle jména souboru a času uložení, spojených do jednoho otisku",
+      "podle kryptografického otisku samotného obsahu daného objektu",
+      "podle jména větve a autora, z nichž vypočte jedinečný identifikátor"
+    ],
+    "correct": 2,
+    "explanation": "Git je obsahově adresovatelné úložiště: klíčem objektu je SHA-1 (nově i SHA-256) jeho obsahu, takže stejný obsah má vždy jedno jméno a duplicity se nemnoží. Protože commit obsahuje otisk stromu i rodičů, změna kdekoli v historii změní všechna následující jména. Odtud plyne i integrita historie.",
+    "source": "Chacon & Straub, Pro Git, kap. 10 (Git Internals)",
+    "seedElo": 1750
+  },
+  {
+    "id": "tec-A29",
+    "type": "K",
+    "category": "technologie",
+    "text": "V čem se git liší od starších systémů, které ukládaly historii jako řadu rozdílů?",
+    "options": [
+      "ukládá rozdíly, ale komprimuje je účinnějším algoritmem než jeho předchůdci",
+      "ukládá jen poslední verzi a starší stavy dopočítává zpětným během",
+      "commit odkazuje na kompletní strom stavu projektu, rozdíl se dopočítá",
+      "ukládá historii jako posloupnost příkazů, které se při obnově přehrají"
+    ],
+    "correct": 2,
+    "explanation": "Každý commit ukazuje na strom, který popisuje celý obsah projektu v daném okamžiku; nezměněné soubory sdílí tentýž objekt, takže se nic nekopíruje zbytečně. Rozdíly git nepočítá při ukládání, ale až při zobrazení. Packfile pak rozdílovou kompresi používá, ale jako detail úložiště, ne jako model historie.",
+    "source": "Chacon & Straub, Pro Git, kap. 1.3 (Snapshots, Not Differences)",
+    "seedElo": 1900
+  },
+  {
+    "id": "tec-A30",
+    "type": "K",
+    "category": "technologie",
+    "text": "Proč bývá JIT překladač v některých případech rychlejší než dopředná kompilace?",
+    "options": [
+      "generuje kód rovnou v jazyce symbolických adres, a vynechá tak mezikroky",
+      "vidí skutečné chování běhu a může optimalizovat podle změřených dat",
+      "překládá jen ty funkce, které se nikdy nezavolají, a ušetří tím práci",
+      "spouští překlad na jiném vlákně, takže se program nikdy nezdrží čekáním"
+    ],
+    "correct": 1,
+    "explanation": "Za běhu se dá zjistit, které větve se opravdu berou a jaké typy se skutečně objevují, takže JIT vloží horkou funkci na místo volání a spekuluje na naměřené hodnoty. Když se předpoklad poruší, kód se deoptimalizuje a přeloží znovu. Daní je zahřívací fáze a paměť navíc.",
+    "source": "Oracle HotSpot VM, dokumentace k tiered compilation",
+    "seedElo": 1850
+  },
+  {
+    "id": "tec-A31",
+    "type": "F",
+    "category": "technologie",
+    "text": "Jakou zásadní slabinu má správa paměti počítáním referencí?",
+    "options": [
+      "nedokáže uvolnit paměť dřív, než skončí celý běžící program",
+      "vyžaduje zastavení všech vláken pokaždé, když se objekt uvolní",
+      "funguje pouze v jazycích, které mají statickou typovou kontrolu",
+      "neuvolní objekty, které se odkazují navzájem v uzavřeném kruhu"
+    ],
+    "correct": 3,
+    "explanation": "Dva objekty, které drží odkaz jeden na druhý, mají čítač trvale nenulový, i když je zvenčí nikdo nedosáhne. Proto CPython vedle počítání referencí spouští ještě cyklický sběrač a Swift nechává programátora označit slabé odkazy. Trasovací sběrače cykly řeší přirozeně, protože jdou od kořenů.",
+    "source": "Jones, Hosking & Moss, The Garbage Collection Handbook, kap. 5",
+    "seedElo": 1900
+  },
+  {
+    "id": "tec-A32",
+    "type": "F",
+    "category": "technologie",
+    "text": "Co znamená, že je funkce ve funkcionálním programování čistá?",
+    "options": [
+      "vrací pro stejné vstupy stejný výsledek a nemá vedlejší účinky",
+      "nemá žádné parametry a pracuje výhradně s globálním stavem programu",
+      "je zapsaná jedním výrazem a neobsahuje žádné pomocné proměnné",
+      "její kód nesmí obsahovat volání jiných funkcí ani rekurzivní volání"
+    ],
+    "correct": 0,
+    "explanation": "Čistota znamená referenční transparentnost: volání lze nahradit jeho výsledkem, aniž se program změní. Z toho plyne snadné testování, bezpečné souběžné spouštění i možnost ukládat mezivýsledky do paměti. Vstup, výstup a náhodná čísla proto chodí přes typy jako IO nebo přes explicitní předání stavu.",
+    "source": "Hughes, Why Functional Programming Matters (1990)",
+    "seedElo": 1750
+  },
+  {
+    "id": "tec-A33",
+    "type": "F",
+    "category": "technologie",
+    "text": "Na které vrstvě modelu ISO/OSI pracuje klasický ethernetový přepínač (switch)?",
+    "options": [
+      "na druhé, spojové, protože rozhoduje podle MAC adres rámců",
+      "na třetí, síťové, protože rozhoduje podle cílových IP adres",
+      "na čtvrté, transportní, protože sleduje čísla portů spojení",
+      "na první, fyzické, protože jen zesiluje a rozvádí signál dál"
+    ],
+    "correct": 0,
+    "explanation": "Switch se učí, za kterým portem leží která MAC adresa, a rámce posílá cíleně místo do všech portů. Rozhodování podle IP adres je práce směrovače na třetí vrstvě; dnešní L3 přepínače umí obojí. Rozbočovač (hub) jen kopíroval signál a odpovídá popisu první vrstvy.",
+    "source": "IEEE 802.1D (MAC bridges); ISO/IEC 7498-1",
+    "seedElo": 1600
+  },
+  {
+    "id": "tec-A34",
+    "type": "K",
+    "category": "technologie",
+    "text": "Co udělá rekurzivní DNS resolver, když poprvé překládá jméno neznámé domény?",
+    "options": [
+      "zeptá se přímo webového serveru, jakou adresu má jeho vlastní jméno",
+      "zeptá se postupně kořene, serveru domény nejvyšší úrovně a pak dalších",
+      "prohledá sdílenou databázi všech domén, kterou spravuje sdružení ICANN",
+      "rozešle dotaz všem sousedním resolverům a počká na první došlou odpověď"
+    ],
+    "correct": 1,
+    "explanation": "Resolver postupuje od kořenových serverů dolů: ty odkážou na servery pro .cz, ty na autoritativní servery domény, a teprve ty vrátí záznam. Odpověď si pak resolver uloží na dobu danou hodnotou TTL, takže další dotazy jsou okamžité. Právě proto se změny v DNS projevují se zpožděním.",
+    "source": "RFC 1034 a RFC 1035 (Domain Names)",
+    "seedElo": 1800
+  },
+  {
+    "id": "tec-A35",
+    "type": "F",
+    "category": "technologie",
+    "text": "Jak se u velkých sítí CDN dostane uživatel k nejbližšímu serveru?",
+    "options": [
+      "prohlížeč postupně změří odezvu všech serverů a vybere si ten nejrychlejší",
+      "provozovatel připojení přesměruje spojení na server ve své vlastní síti",
+      "stejnou adresu ohlašuje víc míst a směrování zvolí nejbližší z nich",
+      "obsah se šíří mezi uživateli navzájem, takže server není vůbec potřeba"
+    ],
+    "correct": 2,
+    "explanation": "Anycast znamená, že tentýž prefix ohlašuje do BGP mnoho lokalit a paket dorazí do té, která je z pohledu směrování nejblíž. Druhou běžnou cestou je DNS, které podle polohy tazatele vrátí jinou adresu. Obojí snižuje latenci a zároveň rozprostře nápor případného útoku.",
+    "source": "RFC 4786 (Operation of Anycast Services)",
+    "seedElo": 1850
+  },
+  {
+    "id": "tec-A36",
+    "type": "K",
+    "category": "technologie",
+    "text": "Proč nezrychlí přidání dalšího optického vlákna odezvu hry na vzdáleném serveru?",
+    "options": [
+      "protože odezvu určuje výhradně výkon procesoru na straně serveru",
+      "protože nová vlákna se využijí až po naplnění těch stávajících",
+      "protože protokoly datový tok uměle brzdí, aby nedošlo k zahlcení",
+      "protože propustnost roste, ale doba letu signálu zůstává stejná"
+    ],
+    "correct": 3,
+    "explanation": "Latenci určuje vzdálenost, rychlost světla ve vlákně a zpoždění na uzlech; šířka pásma říká jen, kolik dat projde za sekundu. Přidané pásmo tedy pomůže při stahování velkých souborů, ne u krátkých rychlých zpráv. Odtud známé heslo, že šířku pásma si koupíte, latenci ne.",
+    "source": "Stuart Cheshire, It's the Latency, Stupid (1996)",
+    "seedElo": 1750
+  },
+  {
+    "id": "tec-A37",
+    "type": "K",
+    "category": "technologie",
+    "text": "Jaký problém měl vyřešit překlad adres NAT a co tím zároveň způsobil?",
+    "options": [
+      "šifroval provoz v domácí síti, ale znemožnil filtrování obsahu",
+      "zrychlil směrování v páteři, ale zvýšil spotřebu adres na okraji",
+      "sjednotil formát adres, ale rozbil zpětnou kompatibilitu s IPv4",
+      "ušetřil veřejné adresy IPv4, ale rozbil přímé spojení mezi uzly"
+    ],
+    "correct": 3,
+    "explanation": "NAT schová celou síť za jednu veřejnou adresu a tím odložil vyčerpání IPv4 o dlouhé roky. Cenou je, že příchozí spojení nemá kam dorazit, takže hovory a hry potřebují protahování děr nebo přeposílací servery. IPv6 se svým 128bitovým prostorem tuhle berličku odstraňuje.",
+    "source": "RFC 3022 (Traditional NAT); RFC 8200 (IPv6)",
+    "seedElo": 1800
+  },
+  {
+    "id": "tec-A38",
+    "type": "K",
+    "category": "technologie",
+    "text": "Proč je směrovací protokol BGP považován za jedno z nejkřehčích míst internetu?",
+    "options": [
+      "provozuje ho jediná organizace, jejíž výpadek by zastavil globální provoz",
+      "posílá směrovací tabulky nešifrovaně, takže je lze cestou přečíst",
+      "ohlášením cizího rozsahu adres lze provoz svést jinam, stojí na důvěře",
+      "pracuje jen s adresami IPv4, a proto při přechodu na IPv6 selhává"
+    ],
+    "correct": 2,
+    "explanation": "BGP stojí na tom, že si sítě navzájem věří v tom, co ohlašují; falešné či chybné ohlášení proto stáhne cizí provoz k sobě. Tak zmizel v roce 2008 YouTube po ohlášení z Pákistánu a v roce 2021 vypadl Facebook po stažení vlastních tras. Nápravou je filtrování a kryptografické ověřování původu (RPKI).",
+    "source": "RFC 4271 (BGP-4); RFC 6480 (RPKI)",
+    "seedElo": 2050
+  },
+  {
+    "id": "tec-A39",
+    "type": "K",
+    "category": "technologie",
+    "text": "Jakou roli hraje asymetrická kryptografie při ustavení spojení TLS?",
+    "options": [
+      "ověří protistranu a ustaví klíč, dál se pak šifruje symetricky",
+      "šifruje veškerý přenášený obsah po celou dobu trvání spojení",
+      "vytváří otisk stránky, kterým prohlížeč kontroluje její celistvost",
+      "komprimuje data před šifrováním, aby se zmenšil objem přenosu"
+    ],
+    "correct": 0,
+    "explanation": "Asymetrické operace jsou pomalé, používají se proto jen v úvodním handshaku: k ověření serveru podpisem a k dohodě na sdíleném tajemství. Z něj se odvodí symetrické klíče a vlastní data už chrání rychlá šifra jako AES-GCM. TLS 1.3 navíc zkrátil handshake na jediné kolo a vyhodil zastaralé sady.",
+    "source": "RFC 8446 (TLS 1.3)",
+    "seedElo": 1800
+  },
+  {
+    "id": "tec-A40",
+    "type": "K",
+    "category": "technologie",
+    "text": "V čem spočívá strukturální slabina systému certifikačních autorit?",
+    "options": [
+      "certifikáty vydané autoritou platí nejvýše několik měsíců, pak se musí obnovit",
+      "kterákoli důvěryhodná autorita může vydat certifikát na jakoukoli doménu",
+      "prohlížeče nedokážou ověřit, zda byl certifikát vydán platným postupem",
+      "soukromý klíč serveru musí být uložen i u vydávající certifikační autority"
+    ],
+    "correct": 1,
+    "explanation": "Prohlížeč věří stovkám autorit a každá z nich může vystavit platný certifikát na cizí doménu — stačí, aby jedna selhala nebo byla donucena, jako DigiNotar v roce 2011. Proto vznikla Certificate Transparency: každý vydaný certifikát se zapisuje do veřejných nepopiratelných logů, kde si ho majitel domény najde. Doplňkem je omezení autorit záznamem CAA.",
+    "source": "RFC 6962 (Certificate Transparency); RFC 8659 (DNS CAA)",
+    "seedElo": 1850
+  },
+  {
+    "id": "tec-A41",
+    "type": "F",
+    "category": "technologie",
+    "text": "Kolik zhruba pokusů stačí k nalezení kolize u hashovací funkce s 256bitovým výstupem?",
+    "options": [
+      "řádově dvě na dvě stě padesát šest, tedy tolik co uhodnutí výstupu",
+      "řádově dvě na dvě stě padesát pět, tedy polovina celého prostoru",
+      "řádově dvě na sto dvacet osm, kvůli narozeninovému paradoxu",
+      "řádově dvě na šedesát čtyři, protože kolize se hledají po dvojicích"
+    ],
+    "correct": 2,
+    "explanation": "Hledání kolize znamená najít libovolné dva vstupy se stejným otiskem, což je díky narozeninovému paradoxu zhruba odmocnina z počtu možných výstupů. Odolnost proti kolizím je proto poloviční oproti odolnosti vůči nalezení vzoru. Právě proto se u SHA-256 mluví o bezpečnosti 128 bitů.",
+    "source": "NIST SP 800-107 Rev. 1, Recommendation for Applications Using Approved Hash Algorithms",
+    "seedElo": 2000
+  },
+  {
+    "id": "tec-A42",
+    "type": "F",
+    "category": "technologie",
+    "text": "Co se při vytváření digitálního podpisu dokumentu vlastně provádí?",
+    "options": [
+      "dokument se zašifruje veřejným klíčem příjemce a připojí se k němu",
+      "z dokumentu a hesla podepisujícího se spočítá kód pomocí funkce HMAC",
+      "dokument se zašifruje symetrickou šifrou a klíč se uloží u autority",
+      "spočítá se otisk dokumentu a ten se zpracuje soukromým klíčem autora"
+    ],
+    "correct": 3,
+    "explanation": "Podepisuje se otisk, protože je krátký a asymetrické operace jsou drahé; ověřovatel spočítá otisk znovu a porovná jej pomocí veřejného klíče. Bezpečnost tedy stojí i na odolnosti hashovací funkce — proto se od podpisů se SHA-1 upustilo. HMAC naopak stojí na sdíleném tajemství, takže nepopiratelnost neposkytuje.",
+    "source": "FIPS 186-5 (Digital Signature Standard)",
+    "seedElo": 1850
+  },
+  {
+    "id": "tec-A43",
+    "type": "K",
+    "category": "technologie",
+    "text": "Co umožní Diffie-Hellmanova výměna dvěma stranám, které se nikdy nesetkaly?",
+    "options": [
+      "ověřit totožnost protistrany bez jakéhokoli zásahu třetí strany",
+      "dohodnout společné tajemství i přes kanál, který někdo odposlouchává",
+      "poslat zprávu tak, že ji nedokáže přečíst ani zamýšlený příjemce",
+      "přenést hotový klíč tak, aby ho nešlo cestou pozměnit ani zkopírovat"
+    ],
+    "correct": 1,
+    "explanation": "Obě strany si veřejně vymění hodnoty, z nichž pak každá samostatně dopočítá tentýž výsledek, který odposlouchávající odvodit nedokáže. Sama o sobě ale výměna neověřuje, s kým mluvíte, takže bez podpisu je zranitelná vůči muži uprostřed. Efemérní varianta navíc dává dopřednou bezpečnost: pozdější prozrazení klíče serveru staré relace neodhalí.",
+    "source": "Diffie & Hellman, New Directions in Cryptography, IEEE Trans. IT (1976)",
+    "seedElo": 1800
+  },
+  {
+    "id": "tec-A44",
+    "type": "F",
+    "category": "technologie",
+    "text": "Který algoritmus standardizoval NIST v roce 2024 jako hlavní nástroj pro výměnu klíčů?",
+    "options": [
+      "mřížkové schéma ML-KEM, vycházející z návrhu známého jako Kyber",
+      "podpisové schéma SPHINCS+, postavené na bezpečnosti hashovacích funkcí",
+      "kódové schéma Classic McEliece, které navrhl McEliece už v roce 1978",
+      "izogenní schéma SIKE, které staví na eliptických křivkách a izogeniích"
+    ],
+    "correct": 0,
+    "explanation": "FIPS 203 ze srpna 2024 standardizuje ML-KEM (dříve CRYSTALS-Kyber) jako mechanismus zapouzdření klíče; podpisy řeší FIPS 204 (ML-DSA) a FIPS 205 (SLH-DSA). SIKE naopak v roce 2022 padl — klasický útok jej zlomil během hodin na jediném jádře. Classic McEliece zůstává kandidátem, ale s obřím veřejným klíčem.",
+    "source": "NIST FIPS 203 (ML-KEM), srpen 2024",
+    "seedElo": 2050
+  }
+]

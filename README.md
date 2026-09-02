@@ -112,11 +112,11 @@ Cíl: **každý balíček rovných 100 otázek**. Postup na jeden balíček:
    v manifestu. **Co neprojde, se zahazuje, neopravuje.**
 5. `node tools/validate.mjs` → bump SW → commit → push → ověřit deploy.
 
-Hotovo: kvantovka, živočichové, logika, etika, epistemologie, dějiny
-filosofie, crazy fakta, evoluce, kosmologie (= obory **filosofie**
-a **přírodní vědy** kompletní). Zbývá: filosofie mysli, theory of mind,
-neurověda vědomí, technologie, AI + dorovnání 7 balíčků psychoanalýzy
-(kalibrace 2100, tvrdá vlna) na 100.
+**Hotovo 2026-09-02: všech 14 balíčků nových oborů má 100 otázek** —
+obory přírodní vědy, filosofie, vědomí a mysl i general jsou kompletní
+(1843 otázek celkem). Zbývá už jen **psychoanalýza**: dorovnat 7 balíčků
+(48/50/50/45/45/45/47) na 100 s kalibrací **2100** (tvrdá vlna — Bobovo
+Elo 2069, sondáž ukázala 75 % na pásmu 1850–2150) a knihy v režimu LITE.
 
 ## Kalibrace hlavní generace (z odehraných sondáží, 2026-09-01)
 

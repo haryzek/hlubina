@@ -1,0 +1,706 @@
+[
+  {
+    "id": "tec-B01",
+    "type": "F",
+    "category": "technologie",
+    "text": "Jakou vlnovou délku používá EUV litografie, na níž stojí nejmodernější čipy?",
+    "options": [
+      "13,5 nm, vzniká z plazmatu kapiček roztaveného cínu",
+      "193 nm z argon-fluoridového excimerového laseru",
+      "10,6 µm z výkonného oxiduhličitého plynového laseru",
+      "365 nm, i-linie ze rtuťové výbojky starších stepperů"
+    ],
+    "correct": 0,
+    "explanation": "Extrémní ultrafialové světlo o vlnové délce 13,5 nm se vyrábí tak, že se kapičky cínu zasáhnou výkonným CO2 laserem a promění v plazma. Takové záření pohlcuje i vzduch, takže celá optická dráha musí být ve vakuu a používají se jen odrazná mnohovrstvá zrcadla. Předchozí generace pracovala s 193 nm z argon-fluoridového laseru.",
+    "source": "ASML, technický přehled EUV; Bakshi (ed.), EUV Lithography, SPIE Press",
+    "seedElo": 1900
+  },
+  {
+    "id": "tec-B02",
+    "type": "K",
+    "category": "technologie",
+    "text": "Proč nemá ASML v dodávkách EUV skenerů prakticky žádnou konkurenci?",
+    "options": [
+      "Výhradní patent na EUV drží do roku 2035 jediná firma",
+      "Vývoz strojů EUV zakázaly Spojené státy úplně všem konkurentům",
+      "Spojila desítky let vývoje s unikátním dodavatelským řetězcem",
+      "Japonské firmy Nikon a Canon opustily litografii úplně"
+    ],
+    "correct": 2,
+    "explanation": "EUV skener není jeden vynález, ale skládačka z desetiletí výzkumu: zrcadla od Zeissu s přesností na jednotky atomů, cínový zdroj plazmatu, vakuová optika a řídicí software. Tuhle síť dodavatelů a nasbíranou výrobní zkušenost nelze koupit ani rychle napodobit. Nikon a Canon zůstaly u starších technologií, litografii ale neopustily.",
+    "source": "ASML výroční zpráva; Miller, Chip War (2022)",
+    "seedElo": 1850
+  },
+  {
+    "id": "tec-B03",
+    "type": "K",
+    "category": "technologie",
+    "text": "Co dnes znamená označení „3nm proces“ v katalogu výrobce čipů?",
+    "options": [
+      "Délku hradla tranzistoru měřenou v nejužším místě",
+      "Marketingový název uzlu, žádný rozměr na čipu tak malý není",
+      "Rozteč kovových propojů v nejhustší vrstvě metalizace",
+      "Vlnovou délku světla použitého při expozici křemíku"
+    ],
+    "correct": 1,
+    "explanation": "Do zhruba roku 2000 číslo uzlu skutečně odpovídalo délce hradla. Dnes jde o obchodní označení generace: skutečná délka hradla i rozteč propojů jsou několikanásobně větší než uváděné číslo a u různých výrobců se stejné číslo liší. Srovnávat se proto dá spíš hustota tranzistorů na milimetr čtvereční.",
+    "source": "IEEE Spectrum, „A Better Way to Measure Progress in Semiconductors“ (2020)",
+    "seedElo": 1950
+  },
+  {
+    "id": "tec-B04",
+    "type": "F",
+    "category": "technologie",
+    "text": "Čím se architektura tranzistoru GAA (nanosheet) liší od dosavadního FinFET?",
+    "options": [
+      "Pracuje s výrazně vyšším napájecím napětím jádra",
+      "Nahrazuje křemík v kanálu sloučeninou germania a cínu",
+      "Vede proud kolmo k povrchu destičky, ne podél něj",
+      "Hradlo obepíná kanál ze všech čtyř stran, ne ze tří"
+    ],
+    "correct": 3,
+    "explanation": "FinFET obepíná svislou křemíkovou ploutvičku hradlem ze tří stran. GAA (gate-all-around) skládá kanál z vodorovných plátků a hradlo je obklopuje kolem dokola, takže má nad proudem lepší kontrolu a méně uniká při vypnutí. Vyšší napětí ani jiný materiál kanálu s tímhle přechodem nesouvisí.",
+    "source": "Samsung Foundry, oznámení 3nm MBCFET (2022); IMEC, technologické roadmapy",
+    "seedElo": 1900
+  },
+  {
+    "id": "tec-B05",
+    "type": "F",
+    "category": "technologie",
+    "text": "Jaký typ tranzistoru předvedli Bardeen a Brattain v Bell Labs v prosinci 1947?",
+    "options": [
+      "Křemíkový plošný tranzistor s difundovanými přechody",
+      "Hrotový tranzistor z germania se dvěma kovovými kontakty",
+      "Unipolární tranzistor typu MOS s izolovaným kovovým hradlem",
+      "Germaniový bipolární tranzistor tažený z taveniny"
+    ],
+    "correct": 1,
+    "explanation": "První funkční tranzistor byl hrotový: dva zlaté kontakty přitisknuté velmi blízko sebe na destičku germania. Byl křehký a špatně se vyráběl. Shockley na něj o pár týdnů později navázal návrhem plošného bipolárního tranzistoru, který se stal základem sériové výroby.",
+    "source": "Riordan & Hoddeson, Crystal Fire (1997); Nobelova cena za fyziku 1956",
+    "seedElo": 1700
+  },
+  {
+    "id": "tec-B06",
+    "type": "K",
+    "category": "technologie",
+    "text": "Proč musí paměť DRAM svůj obsah tisíckrát za sekundu obnovovat?",
+    "options": [
+      "Náboj v maličkém kondenzátoru buňky svodem uniká",
+      "Magnetická doména v buňce se sama náhodně překlápí",
+      "Čtení dat je nedestruktivní, ale zápis se rozostřuje",
+      "Tranzistor buňky se zahřátím trvale otevírá a zkratuje"
+    ],
+    "correct": 0,
+    "explanation": "Buňka DRAM je jeden tranzistor a jeden nepatrný kondenzátor. Náboj z něj během desítek milisekund uteče svodovými proudy, takže řadič musí obsah průběžně číst a zapisovat zpět. Odtud plyne i vyšší klidová spotřeba oproti SRAM, která si stav drží zpětnovazební smyčkou.",
+    "source": "Jacob, Ng & Wang, Memory Systems: Cache, DRAM, Disk (2007)",
+    "seedElo": 1750
+  },
+  {
+    "id": "tec-B07",
+    "type": "F",
+    "category": "technologie",
+    "text": "Jak se při zápisu dostane náboj do plovoucího hradla buňky NAND flash?",
+    "options": [
+      "Difuzí příměsí při zahřátí buňky nad sto stupňů Celsia",
+      "Magnetickou indukcí z cívky umístěné nad polem buněk",
+      "Optickou excitací nosičů náboje v tenké vrstvě křemíku",
+      "Tunelováním elektronů skrz tenkou vrstvu oxidu křemíku"
+    ],
+    "correct": 3,
+    "explanation": "Elektrony se silným polem protlačí kvantovým tunelováním přes izolační oxid do plovoucího hradla, kde zůstanou uvězněné a posunou prahové napětí tranzistoru. Právě tenhle průchod oxid pomalu poškozuje, a proto má flash omezený počet přepisů. Buňka si stav udrží roky bez napájení.",
+    "source": "Micheloni, Crippa & Marelli, Inside NAND Flash Memories (2010)",
+    "seedElo": 1850
+  },
+  {
+    "id": "tec-B08",
+    "type": "K",
+    "category": "technologie",
+    "text": "K čemu slouží wear leveling v řadiči SSD?",
+    "options": [
+      "Zrychluje čtení tím, že data drží v rychlé cache paměti",
+      "Opravuje chyby čtení pomocí redundantních kontrolních bitů",
+      "Rozprostírá zápisy tak, aby se buňky opotřebovaly stejně",
+      "Komprimuje bloky, aby se na disk vešlo víc uživatelských dat"
+    ],
+    "correct": 2,
+    "explanation": "Každý blok flash snese jen omezený počet mazacích cyklů. Kdyby se často přepisovaný soubor pořád zapisoval na stejné místo, disk by odešel dřív, než by se vyčerpal zbytek. Řadič proto průběžně přemisťuje i data, která se nemění, aby se opotřebení rozložilo — logická adresa tak neodpovídá fyzické.",
+    "source": "JEDEC JESD218; Micheloni et al., Inside Solid State Drives (2013)",
+    "seedElo": 1700
+  },
+  {
+    "id": "tec-B09",
+    "type": "F",
+    "category": "technologie",
+    "text": "Na jakém principu udrží displej typu e-ink obraz i bez napájení?",
+    "options": [
+      "Tekuté krystaly zůstanou natočené i po odpojení napětí",
+      "Fosforová vrstva dosvítí ještě mnoho hodin po expozici",
+      "Obarvené částice zůstanou tam, kam je pole přesunulo",
+      "Organické diody svítí ze zbytkového náboje v pixelu"
+    ],
+    "correct": 2,
+    "explanation": "V mikrokapslích plavou bílé a černé nabité částice v oleji. Elektrické pole je přitáhne nahoru nebo dolů a po vypnutí napětí zůstanou viskozitou na místě. Displej proto spotřebuje energii jen při překreslení a čte se odraženým světlem jako papír.",
+    "source": "Comiskey et al., Nature 394 (1998); E Ink, technická dokumentace",
+    "seedElo": 1700
+  },
+  {
+    "id": "tec-B10",
+    "type": "F",
+    "category": "technologie",
+    "text": "V čem se panel OLED principiálně liší od panelu LCD?",
+    "options": [
+      "Má vyšší rozlišení, protože pixely jsou vždy menší",
+      "Používá tekuté krystaly bez barevných filtrů před nimi",
+      "Svítí odrazem okolního světla, proto šetří baterii",
+      "Každý pixel svítí sám, panel nepotřebuje podsvícení"
+    ],
+    "correct": 3,
+    "explanation": "LCD je clona: podsvícení svítí pořád a tekuté krystaly jen řídí, kolik světla projde, takže černá nikdy není úplně černá. U OLED je každý subpixel vlastní diodou, kterou lze zcela zhasnout — odtud nekonečný kontrast a tenčí panel. Cenou je kratší životnost modrého emitoru a riziko vypálení.",
+    "source": "Tang & VanSlyke, Applied Physics Letters 51 (1987); DisplayMate, měření panelů",
+    "seedElo": 1600
+  },
+  {
+    "id": "tec-B11",
+    "type": "K",
+    "category": "technologie",
+    "text": "Proč se u snímačů CMOS objevuje zkreslení rychle se otáčejících vrtulí?",
+    "options": [
+      "Řádky se vyčítají postupně, scéna se mezitím pohne",
+      "Objektiv při krátkém času nestihne zaostřit na okraje",
+      "Barevná maska nad pixely nestíhá měnit propustnost",
+      "Mechanická závěrka se u CMOS otevírá jen jedním směrem"
+    ],
+    "correct": 0,
+    "explanation": "Většina snímačů CMOS používá rolling shutter: obraz se snímá řádek po řádku s malým časovým posunem. Rychle se pohybující objekt se proto zaznamená v každém řádku v jiné poloze a výsledkem je ohnutá vrtule nebo šikmý sloup. Global shutter, který exponuje celý snímač naráz, je dražší a méně citlivý.",
+    "source": "Liang, Chang & Chen, IEEE Transactions on Image Processing (2008)",
+    "seedElo": 1800
+  },
+  {
+    "id": "tec-B12",
+    "type": "F",
+    "category": "technologie",
+    "text": "Jak měří akcelerometr MEMS v telefonu zrychlení?",
+    "options": [
+      "Měří změnu odporu tenkého drátku ohřívaného proudem",
+      "Sleduje kapacitu mezi pružně zavěšenou hmotou a hřebeny",
+      "Počítá interferenční proužky laseru v mikroskopické dutině",
+      "Váží kapku rtuti umístěnou v uzavřené křemíkové komůrce"
+    ],
+    "correct": 1,
+    "explanation": "V křemíku je vyleptaná drobná hmota zavěšená na pružinkách a mezi ni a pevné hřebínky se měří kapacita. Zrychlení hmotu vychýlí, kapacita se změní a elektronika ji přepočte na hodnotu v jednotkách g. Stejnou technikou pracují i tlakové senzory a gyroskopy MEMS.",
+    "source": "Yazdi, Ayazi & Najafi, Proceedings of the IEEE 86 (1998)",
+    "seedElo": 1750
+  },
+  {
+    "id": "tec-B13",
+    "type": "F",
+    "category": "technologie",
+    "text": "Čím se lithium-železo-fosfátový článek (LFP) liší od článku typu NMC?",
+    "options": [
+      "Má vyšší napětí článku a snese hlubší podchlazení",
+      "Obsahuje víc kobaltu, zato vydrží mnohem víc cyklů",
+      "Nabízí větší hustotu energie za cenu kratší životnosti",
+      "Má nižší hustotu energie, je ale levnější a bezpečnější"
+    ],
+    "correct": 3,
+    "explanation": "LFP nepotřebuje kobalt ani nikl, takže je levnější a surovinově dostupnější. Jeho katoda je termicky stabilnější, takže hůř podléhá tepelnému úniku, a snese víc nabíjecích cyklů. Platí za to nižší hustotou energie a horším chováním v mrazu.",
+    "source": "Padhi, Nanjundaswamy & Goodenough, J. Electrochem. Soc. 144 (1997)",
+    "seedElo": 1600
+  },
+  {
+    "id": "tec-B14",
+    "type": "K",
+    "category": "technologie",
+    "text": "Co je hlavní překážkou sériové výroby článků s pevným elektrolytem?",
+    "options": [
+      "Pevný elektrolyt při běžné teplotě vůbec nevede ionty",
+      "Udržet dokonalý kontakt rozhraní a zabránit růstu dendritů",
+      "Kapalné elektrolyty mají principiálně vyšší napěťové okno",
+      "Materiál je radioaktivní a vyžaduje stíněnou montážní linku"
+    ],
+    "correct": 1,
+    "explanation": "Kapalina se sama vtlačí do každé nerovnosti elektrody, pevná látka ne — a při nabíjení se objem elektrod mění, takže kontakt praská a odpor roste. Lithiové dendrity navíc dokážou prorůst i keramikou po hranicích zrn. Vodivé pevné elektrolyty už existují, problém je mechanika a výtěžnost výroby.",
+    "source": "Janek & Zeier, Nature Energy 8 (2023)",
+    "seedElo": 1900
+  },
+  {
+    "id": "tec-B15",
+    "type": "F",
+    "category": "technologie",
+    "text": "Co v lithiovém článku ubírá kapacitu tím, že tvoří pasivační vrstvu?",
+    "options": [
+      "Koroze hliníkového kolektoru na straně kladné elektrody",
+      "Postupné odpařování rozpouštědla skrz těsnění článku",
+      "Rozklad elektrolytu na povrchu anody, který váže lithium",
+      "Praskání separátoru, jež vede k trvalému vnitřnímu zkratu"
+    ],
+    "correct": 2,
+    "explanation": "Na grafitové anodě se z rozkládajícího se elektrolytu tvoří vrstva SEI. Ta je nutná, aby rozklad nepokračoval donekonečna, ale každé její dorůstání nevratně spotřebuje část lithia. Proto kapacita klesá i u článku, který jen leží nabitý v teple — kalendářní stárnutí.",
+    "source": "Vetter et al., Journal of Power Sources 147 (2005)",
+    "seedElo": 1950
+  },
+  {
+    "id": "tec-B16",
+    "type": "F",
+    "category": "technologie",
+    "text": "Kolik činí Shockleyův-Queisserův limit účinnosti jednopřechodového článku?",
+    "options": [
+      "Asi 33 % při optimální šířce zakázaného pásu kolem 1,3 eV",
+      "Asi 59 %, což odpovídá i teoretickému limitu větrných turbín",
+      "Asi 86 %, tedy hodnota daná teplotou povrchu Slunce",
+      "Asi 22 %, což je dnes běžná účinnost sériových panelů"
+    ],
+    "correct": 0,
+    "explanation": "Limit plyne ze dvou nevyhnutelných ztrát: fotony s energií pod šířkou zakázaného pásu se nepohltí a přebytek energie fotonů nad ní se promění v teplo. Pro sluneční spektrum vychází optimum kolem 1,3 eV a strop zhruba 33 %. Nejlepší křemíkové články se dnes drží kolem 27 %.",
+    "source": "Shockley & Queisser, Journal of Applied Physics 32 (1961)",
+    "seedElo": 1900
+  },
+  {
+    "id": "tec-B17",
+    "type": "F",
+    "category": "technologie",
+    "text": "Která součástka umožnila stavět výkonné radary za druhé světové války?",
+    "options": [
+      "Krystalka z galenitu snímající odraz dlouhých vln",
+      "Dutinový magnetron, zdroj silných centimetrových vln",
+      "Germaniový tranzistor pracující v pásmu gigahertzů",
+      "Obrazovka s pamětí, jež udržela stopu cíle na stínítku"
+    ],
+    "correct": 1,
+    "explanation": "Randall a Boot sestrojili v Birminghamu roku 1940 dutinový magnetron, který dodal kilowatty výkonu na vlnové délce kolem 10 cm. Krátká vlna znamenala malou anténu a dobré rozlišení, takže radar se vešel do letadla i na loď. Britové ho předali Američanům a týž princip dnes ohřívá jídlo v mikrovlnkách.",
+    "source": "Randall & Boot (1940); Buderi, The Invention That Changed the World (1996)",
+    "seedElo": 2000
+  },
+  {
+    "id": "tec-B18",
+    "type": "F",
+    "category": "technologie",
+    "text": "Co říká Betzův limit o větrné turbíně?",
+    "options": [
+      "Otáčky listů nesmí překročit rychlost zvuku na konci listu",
+      "Výkon roste se čtvercem rychlosti větru, ne s třetí mocninou",
+      "Z proudu vzduchu lze odebrat nejvýš polovinu jeho energie",
+      "Z proudu vzduchu jde odebrat nejvýš asi 59,3 % jeho energie"
+    ],
+    "correct": 3,
+    "explanation": "Kdyby turbína odebrala veškerou energii, vzduch by se za ní zastavil a další by nemohl proudit. Optimum nastane, když se rychlost za rotorem sníží na třetinu, a tomu odpovídá 16/27, tedy asi 59,3 %. Dobré moderní turbíny se dostávají kolem 45 až 50 %.",
+    "source": "Betz, Zeitschrift für das gesamte Turbinenwesen (1920)",
+    "seedElo": 1850
+  },
+  {
+    "id": "tec-B19",
+    "type": "F",
+    "category": "technologie",
+    "text": "Čím se malé modulární reaktory (SMR) liší od velkých jaderných bloků?",
+    "options": [
+      "Mají spoléhat na pasivní chlazení a sériovou výrobu v továrně",
+      "Pracují zásadně na principu jaderné fúze místo štěpení",
+      "Nepotřebují žádné palivo obohacené uranem ani jeho výměnu",
+      "Produkují výhradně vodík, elektřinu do sítě nedodávají"
+    ],
+    "correct": 0,
+    "explanation": "Myšlenka SMR je vyměnit úsporu z velikosti za úsporu ze sériové výroby: reaktor o výkonu desítek až stovek megawattů se vyrobí v hale a doveze hotový. Malý objem zároveň umožňuje odvádět zbytkové teplo přirozenou cirkulací bez čerpadel. Ekonomika zatím není ověřená, protože sérií je zatím málo.",
+    "source": "IAEA, Advances in Small Modular Reactor Technology Developments (2022)",
+    "seedElo": 1750
+  },
+  {
+    "id": "tec-B20",
+    "type": "K",
+    "category": "technologie",
+    "text": "Jaký je rozdíl mezi magnetickým a inerciálním udržením fúzního plazmatu?",
+    "options": [
+      "První používá laser, druhý stlačuje palivo silným magnetem",
+      "První běží při pokojové teplotě, druhý potřebuje miliony stupňů",
+      "První drží řídké plazma dlouho, druhý stlačí terčík na okamžik",
+      "První spaluje uran, druhý slučuje jádra vodíkových izotopů"
+    ],
+    "correct": 2,
+    "explanation": "Tokamak drží velmi řídké plazma v magnetické kleci sekundy až minuty, takže sází na dlouhý čas udržení. Inerciální fúze naopak stlačí milimetrový terčík lasery na hustotu mnohonásobně vyšší než olovo a reakce proběhne za miliardtiny sekundy, než se palivo rozletí. Obě cesty musí splnit stejné Lawsonovo kritérium.",
+    "source": "Lawson, Proc. Phys. Soc. B 70 (1957); ITER a NIF, oficiální přehledy",
+    "seedElo": 2000
+  },
+  {
+    "id": "tec-B21",
+    "type": "F",
+    "category": "technologie",
+    "text": "Co přesně dokázal fúzní experiment na NIF v prosinci 2022?",
+    "options": [
+      "Fúze vydala 3,15 MJ, zatímco lasery dodaly do terčíku 2,05 MJ",
+      "Zařízení poprvé dodalo přebytečnou elektřinu do rozvodné sítě",
+      "Reakce vyrobila víc energie, než spotřebovala celá budova",
+      "Plazma hořelo soběstačně nepřetržitě po dobu několika minut"
+    ],
+    "correct": 0,
+    "explanation": "Šlo o takzvaný target gain: poprvé v historii vydala fúzní reakce víc energie, než na terčík dopadlo z laserů. Celé zařízení ale ze sítě odebralo řádově 300 MJ, protože účinnost laserů je jen kolem procenta. Zisk vůči zásuvce tedy dosažen nebyl a k elektrárně vede ještě velmi dlouhá cesta.",
+    "source": "Lawrence Livermore National Laboratory, tisková zpráva 13. 12. 2022",
+    "seedElo": 2000
+  },
+  {
+    "id": "tec-B22",
+    "type": "K",
+    "category": "technologie",
+    "text": "Proč síti s velkým podílem fotovoltaiky chybí setrvačnost?",
+    "options": [
+      "Panely dodávají proud jen ve špičce, jinak je síť odpojí",
+      "Měniče nemají roztočené hmoty, které tlumí propady kmitočtu",
+      "Stejnosměrný proud z panelů nedokáže udržet stálé napětí",
+      "Panely mají příliš vysokou zkratovou odolnost pro ochrany"
+    ],
+    "correct": 1,
+    "explanation": "Klasické elektrárny mají v rotorech turbogenerátorů obrovskou kinetickou energii, která při výpadku zdroje zpomalí pokles kmitočtu a dá ochranám čas zareagovat. Fotovoltaika se do sítě připojuje přes výkonovou elektroniku, jež žádnou hmotu neroztáčí. Řeší se to grid-forming měniči se syntetickou setrvačností a bateriemi.",
+    "source": "ENTSO-E, Inertia and Rate of Change of Frequency (2020)",
+    "seedElo": 2000
+  },
+  {
+    "id": "tec-B23",
+    "type": "F",
+    "category": "technologie",
+    "text": "Jaká je typická účinnost celého cyklu přečerpávací vodní elektrárny?",
+    "options": [
+      "Kolem 45 %, protože voda cestou ztrácí většinu energie",
+      "Kolem 98 %, ztráty jsou zanedbatelné jako u transformátoru",
+      "Kolem 75 až 80 % započítáno čerpání i následná výroba",
+      "Kolem 30 %, tedy zhruba stejně jako u tepelné elektrárny"
+    ],
+    "correct": 2,
+    "explanation": "Turbína i čerpadlo mají účinnost přes 90 %, ale cyklus je zahrnuje oba, k tomu se přidají ztráty v potrubí a transformátorech. Výsledek se drží kolem tří čtvrtin. Přesto jde stále o naprostou většinu světové kapacity skladování elektřiny, protože vydrží desítky let a zvládne velké objemy.",
+    "source": "IEA, Hydropower Special Market Report (2021)",
+    "seedElo": 1700
+  },
+  {
+    "id": "tec-B24",
+    "type": "F",
+    "category": "technologie",
+    "text": "Co znamená v barevné taxonomii označení „šedý vodík“?",
+    "options": [
+      "Vodík z elektrolýzy vody hnané přebytky větrných elektráren",
+      "Vodík z uhlí, u něhož se oxid uhličitý ukládá pod zem",
+      "Vodík vzniklý jako vedlejší produkt při výrobě chloru",
+      "Vodík z parního reformingu zemního plynu bez záchytu CO2"
+    ],
+    "correct": 3,
+    "explanation": "Šedý vodík se vyrábí parním reformingem metanu a oxid uhličitý jde rovnou do atmosféry — takto vzniká drtivá většina dnešní světové produkce. Když se tentýž CO2 zachytí a uloží, mluví se o modrém vodíku, elektrolýza z bezemisní elektřiny dává zelený. Hnědý či černý označuje výrobu ze zplyňovaného uhlí.",
+    "source": "IEA, The Future of Hydrogen (2019)",
+    "seedElo": 1650
+  },
+  {
+    "id": "tec-B25",
+    "type": "K",
+    "category": "technologie",
+    "text": "Kolik z původní elektřiny zbude na kolech auta s vodíkovým palivovým článkem?",
+    "options": [
+      "Zhruba polovina, tedy jen o málo méně než u bateriového auta",
+      "Zhruba 90 %, protože palivový článek nemá Carnotovo omezení",
+      "Zhruba čtvrtina až třetina, kdežto u bateriového kolem 70 %",
+      "Zhruba pětina u obou, rozdíl mezi nimi je zcela zanedbatelný"
+    ],
+    "correct": 2,
+    "explanation": "Řetězec má tři ztrátové kroky: elektrolýza kolem 70 %, stlačení či zkapalnění a doprava dalších zhruba 10 až 20 % a palivový článek v autě jen kolem 55 %. Vynásobeno vychází zhruba 25 až 35 %. Bateriové auto ztrácí hlavně nabíjením a měničem, takže se drží kolem 70 %.",
+    "source": "Ueckerdt et al., Nature Climate Change 11 (2021)",
+    "seedElo": 1900
+  },
+  {
+    "id": "tec-B26",
+    "type": "F",
+    "category": "technologie",
+    "text": "Co udává topný faktor COP u tepelného čerpadla?",
+    "options": [
+      "Kolik tepla dodá na každou kilowatthodinu spotřebované elektřiny",
+      "Kolik procent paliva promění na teplo místo na ztráty",
+      "Jak dlouho vydrží čerpadlo běžet bez odstávky na odmrazení",
+      "O kolik stupňů dokáže ohřát vodu proti venkovní teplotě"
+    ],
+    "correct": 0,
+    "explanation": "COP je poměr dodaného tepla k dodané elektřině, takže hodnota 4 znamená čtyři kilowatthodiny tepla za jednu kilowatthodinu proudu. Není to porušení zachování energie: čerpadlo teplo nevyrábí, jen ho přečerpává zvenčí dovnitř. COP klesá s rostoucím rozdílem teplot, proto je v mrazu nižší.",
+    "source": "Ministerstvo energetiky USA, Heat Pump Systems; norma EN 14511",
+    "seedElo": 1550
+  },
+  {
+    "id": "tec-B27",
+    "type": "F",
+    "category": "technologie",
+    "text": "Jaká je typická účinnost moderního benzinového motoru v běžném provozu?",
+    "options": [
+      "Kolem 60 %, díky přeplňování a přímému vstřikování paliva",
+      "Kolem 5 %, zbytek odnese chlazení a horké výfukové plyny",
+      "Kolem 45 %, tedy zhruba srovnatelně s elektrickým pohonem",
+      "Kolem 25 %, elektrický pohon se přitom dostává nad 80 %"
+    ],
+    "correct": 3,
+    "explanation": "Ve špičkovém bodě umí dnešní benzinový motor přes 40 %, jenže v běžné jízdě běží mimo optimum a průměr vychází kolem čtvrtiny. Elektrický pohon včetně měniče se drží nad 85 %, protože nemá Carnotovo omezení tepelného stroje. Rozdíl se ale zmenší, počítá-li se i účinnost výroby elektřiny.",
+    "source": "US EPA/DOE, fueleconomy.gov, Where the Energy Goes",
+    "seedElo": 1700
+  },
+  {
+    "id": "tec-B28",
+    "type": "F",
+    "category": "technologie",
+    "text": "Proč se pro PCR používá polymeráza z termofilní bakterie?",
+    "options": [
+      "Kopíruje DNA rychleji než kterýkoli jiný známý enzym",
+      "Přežije opakovaný ohřev na rozdělení dvojité šroubovice",
+      "Dokáže pracovat i s RNA, což běžné polymerázy neumějí",
+      "Nepotřebuje k práci žádné krátké startovací primery"
+    ],
+    "correct": 1,
+    "explanation": "PCR střídá zahřátí zhruba na 95 °C, které rozplete dvojšroubovici, s ochlazením, při němž nasednou primery a enzym dosyntetizuje nová vlákna. Běžná polymeráza by se prvním ohřevem zničila a musela by se přidávat po každém cyklu. Taq polymeráza z Thermus aquaticus horko snese, takže lze celý proces automatizovat.",
+    "source": "Saiki et al., Science 239 (1988); Mullis, Nobelova cena za chemii 1993",
+    "seedElo": 1600
+  },
+  {
+    "id": "tec-B29",
+    "type": "F",
+    "category": "technologie",
+    "text": "Proč selhal první transatlantický telegrafní kabel z roku 1858?",
+    "options": [
+      "Byl přetržen kotvou rybářské lodi hned v prvním týdnu",
+      "Voda pronikla izolací a rozpustila měděné jádro vodiče",
+      "Nikdo neuměl vyrobit dost citlivý přijímací přístroj",
+      "Vysoké napětí při snaze zesílit signál zničilo izolaci"
+    ],
+    "correct": 3,
+    "explanation": "Kabel fungoval jen několik týdnů a jedna zpráva trvala hodiny. Elektrikář Whitehouse se snažil signál protlačit napětím kolem dvou tisíc voltů, čímž prorazil izolaci z gutaperči. Trvale spojený Atlantik přinesl až kabel z roku 1866, položený lodí Great Eastern a provozovaný podle Thomsonových citlivých galvanometrů.",
+    "source": "Gordon, A Thread Across the Ocean (2002); Standage, The Victorian Internet (1998)",
+    "seedElo": 1950
+  },
+  {
+    "id": "tec-B30",
+    "type": "F",
+    "category": "technologie",
+    "text": "Jak čte sekvenátor typu nanopore pořadí bází v DNA?",
+    "options": [
+      "Měří barvu záblesku při zabudování každého nukleotidu",
+      "Váží fragmenty a z jejich hmotnosti odvodí složení",
+      "Sleduje změny proudu, když řetězec prochází pórem",
+      "Snímá elektronovým mikroskopem tvar dvojité šroubovice"
+    ],
+    "correct": 2,
+    "explanation": "Membránou s bílkovinným pórem teče iontový proud a protahovaná molekula ho svým tvarem tlumí — každá kombinace bází v zúženém místě dá jiný průběh. Software z proudové stopy dopočte sekvenci. Výhodou jsou velmi dlouhé čtené úseky, nevýhodou vyšší chybovost než u sekvenování syntézou.",
+    "source": "Deamer, Akeson & Branton, Nature Biotechnology 34 (2016)",
+    "seedElo": 1900
+  },
+  {
+    "id": "tec-B31",
+    "type": "K",
+    "category": "technologie",
+    "text": "Proč se pro genovou terapii nejčastěji používá virus AAV?",
+    "options": [
+      "Dokáže do buňky vpravit celý lidský chromozom najednou",
+      "Je málo patogenní a svůj náklad většinou nevkládá do genomu",
+      "Množí se v těle sám, takže stačí podat jedinou částici",
+      "Cíleně stříhá vadný gen a nahradí jej správnou kopií"
+    ],
+    "correct": 1,
+    "explanation": "Adeno-asociovaný virus u člověka nezpůsobuje nemoc a dodaný gen většinou zůstane v jádře mimo chromozom, takže nehrozí, že se vloží doprostřed jiného genu. Cenou je omezená kapacita zhruba 4,7 tisíce bází a to, že v dělících se buňkách se epizom postupně ztrácí. Problémem bývá i imunita proti kapsidě.",
+    "source": "Wang, Tai & Gao, Nature Reviews Drug Discovery 18 (2019)",
+    "seedElo": 1950
+  },
+  {
+    "id": "tec-B32",
+    "type": "K",
+    "category": "technologie",
+    "text": "K čemu se mRNA jako platforma zkouší mimo oblast očkování?",
+    "options": [
+      "Aby si tělo samo vyrobilo chybějící bílkovinu",
+      "Aby trvale přepsala vadné písmeno přímo v jaderné DNA",
+      "Aby nahradila antibiotika přímým rozkladem bakterií",
+      "Aby zesílila přenos nervových vzruchů v poraněné míše"
+    ],
+    "correct": 0,
+    "explanation": "Podaná mRNA je jen dočasný návod: buňka podle ní vyrobí zvolenou bílkovinu a pak se molekula rozloží. Testuje se proto tam, kde nějaká bílkovina chybí nebo je vadná — u vzácných metabolických poruch, při hojení srdečního svalu nebo pro výrobu terapeutických protilátek přímo v těle. Do DNA přitom nezasahuje.",
+    "source": "Sahin, Karikó & Türeci, Nature Reviews Drug Discovery 13 (2014)",
+    "seedElo": 2050
+  },
+  {
+    "id": "tec-B33",
+    "type": "F",
+    "category": "technologie",
+    "text": "Co ukázal projekt syntetické buňky JCVI-syn3.0 z roku 2016?",
+    "options": [
+      "Bakterie žije s méně než 500 geny, u třetiny neznáme funkci",
+      "Syntetická buňka dokáže žít zcela bez ribozomů a bez RNA",
+      "Genom lze celý nahradit křemíkovým paměťovým čipem",
+      "Minimální živý genom vyžaduje nejméně deset tisíc genů"
+    ],
+    "correct": 0,
+    "explanation": "Venterův tým chemicky syntetizoval osekaný genom mykoplasmy a vložil ho do prázdné bakteriální buňky. Výsledný organismus se množí s pouhými 473 geny, a přesto zhruba u sto padesáti z nich dodnes nevíme, k čemu jsou. Minimální genom tak ukázal, jak neúplné je naše porozumění i té nejjednodušší buňce.",
+    "source": "Hutchison et al., Science 351 (2016)",
+    "seedElo": 2050
+  },
+  {
+    "id": "tec-B34",
+    "type": "F",
+    "category": "technologie",
+    "text": "Co v lidském těle vlastně snímá magnetická rezonance?",
+    "options": [
+      "Pohlcování rentgenového záření v hustých tkáních těla",
+      "Odraz ultrazvukových vln na rozhraní různých tkání",
+      "Rozpad podané radioaktivní látky nahromaděné v orgánu",
+      "Signál jader vodíku vracejících se po vypnutí pulzu"
+    ],
+    "correct": 3,
+    "explanation": "Silné pole srovná spiny protonů, tedy jader vodíku ve vodě a tucích, radiofrekvenční pulz je vychýlí a při návratu do rovnováhy vyzáří slabý signál. Rychlost návratu se v různých tkáních liší, odtud vynikající kontrast měkkých tkání. MRI přitom nepoužívá ionizující záření na rozdíl od CT.",
+    "source": "Lauterbur, Nature 242 (1973); Nobelova cena za fyziologii a medicínu 2003",
+    "seedElo": 1550
+  },
+  {
+    "id": "tec-B35",
+    "type": "F",
+    "category": "technologie",
+    "text": "Jak vzniká obraz řezu tělem u počítačové tomografie?",
+    "options": [
+      "Detektor snímá teplo vyzařované jednotlivými orgány",
+      "Silné magnetické pole vybere jedinou tenkou vrstvu tkáně",
+      "Z mnoha rentgenových průmětů se řez dopočítá výpočtem",
+      "Zdroj i detektor se zaostří do jediného bodu uvnitř"
+    ],
+    "correct": 2,
+    "explanation": "Rentgenka obíhá kolem pacienta a pořizuje stovky průmětů z různých úhlů. Z nich se úlohou zvanou inverzní Radonova transformace zpětně dopočítá rozložení útlumu v rovině řezu. Bez počítače by taková rekonstrukce nebyla proveditelná, proto CT vzniklo až v sedmdesátých letech.",
+    "source": "Hounsfield, British Journal of Radiology 46 (1973); Radon (1917)",
+    "seedElo": 1850
+  },
+  {
+    "id": "tec-B36",
+    "type": "F",
+    "category": "technologie",
+    "text": "Co měří dopplerovský ultrazvuk v cévě?",
+    "options": [
+      "Teplotu krve podle změny rychlosti šíření zvuku v ní",
+      "Rychlost toku podle posunu kmitočtu odražených vln",
+      "Tuhost stěny cévy podle útlumu odražené vlny",
+      "Okysličení krve podle barvy odraženého paprsku"
+    ],
+    "correct": 1,
+    "explanation": "Zvuk odražený od pohybujících se červených krvinek se vrátí s mírně posunutým kmitočtem a z velikosti posunu se spočítá rychlost toku. Barevný Doppler ji přebarví do obrazu, přičemž odstín značí směr proudění. Měření závisí na úhlu sondy vůči cévě, což je hlavní zdroj chyb.",
+    "source": "Evans & McDicken, Doppler Ultrasound: Physics, Instrumentation and Signal Processing",
+    "seedElo": 1750
+  },
+  {
+    "id": "tec-B37",
+    "type": "K",
+    "category": "technologie",
+    "text": "Co říká Ciolkovského raketová rovnice?",
+    "options": [
+      "Dosažitelná rychlost roste přímo úměrně hmotnosti paliva",
+      "Rychlost roste s logaritmem poměru startovní a suché hmotnosti",
+      "Tah motoru musí vždy převýšit gravitační zrychlení desetkrát",
+      "Spotřeba paliva roste se čtvercem vzdálenosti od Země"
+    ],
+    "correct": 1,
+    "explanation": "Přírůstek rychlosti se rovná výtokové rychlosti plynů násobené přirozeným logaritmem poměru hmotností před startem a po vyhoření. Logaritmus je tvrdý: dvojnásobná rychlost vyžaduje kvadraticky větší poměr hmotností. Proto se tolik vyplácí zvýšit výtokovou rychlost, tedy specifický impulz.",
+    "source": "Ciolkovskij (1903); Sutton & Biblarz, Rocket Propulsion Elements",
+    "seedElo": 1850
+  },
+  {
+    "id": "tec-B38",
+    "type": "K",
+    "category": "technologie",
+    "text": "Proč se rakety stavějí jako vícestupňové?",
+    "options": [
+      "Aby při poruše prvního motoru převzal řízení druhý stupeň",
+      "Aby každý stupeň mohl použít jiné, výrazně levnější palivo",
+      "Aby raketa odhodila prázdné nádrže a nevozila je dál",
+      "Aby se náklad dal rozdělit na několik různých oběžných drah"
+    ],
+    "correct": 2,
+    "explanation": "Raketová rovnice trestá každý kilogram suché hmotnosti. Prázdná nádrž a vyhořelý motor už nepřinášejí nic, ale dál se musí zrychlovat, takže je výhodné je odhodit a pokračovat s menší konstrukcí. Odtud plyne, že jednostupňová raketa na oběžnou dráhu je s dnešními materiály na samé hraně možného.",
+    "source": "Sutton & Biblarz, Rocket Propulsion Elements, kapitola o vícestupňovosti",
+    "seedElo": 1600
+  },
+  {
+    "id": "tec-B39",
+    "type": "F",
+    "category": "technologie",
+    "text": "Co je Hohmannův přechod?",
+    "options": [
+      "Manévr, při kterém se sonda otočí zády k cíli a brzdí",
+      "Průlet kolem planety, jenž změní směr letu bez paliva",
+      "Spirálovitý výstup s trvale zapnutým slabým motorem",
+      "Dva zážehy spojující dvě kruhové dráhy elipsou"
+    ],
+    "correct": 3,
+    "explanation": "První zážeh protáhne kruhovou dráhu v elipsu, jejíž vzdálenější bod se dotýká cílové dráhy, druhý zážeh tam elipsu zase zakulatí. Pro dvě kruhové koplanární dráhy jde o energeticky nejlevnější přechod, zaplacený ovšem dlouhou dobou letu. K Marsu proto existují jen úzká startovní okna.",
+    "source": "Hohmann, Die Erreichbarkeit der Himmelskörper (1925)",
+    "seedElo": 1900
+  },
+  {
+    "id": "tec-B40",
+    "type": "K",
+    "category": "technologie",
+    "text": "Čím se iontový motor liší od chemického raketového motoru?",
+    "options": [
+      "Má nepatrný tah, zato mnohem lépe hospodaří s palivem",
+      "Má obrovský tah, ale vydrží běžet jen několik minut",
+      "Nepotřebuje vůbec žádnou pracovní látku k vytvoření tahu",
+      "Funguje i v atmosféře, proto se hodí i pro start ze Země"
+    ],
+    "correct": 0,
+    "explanation": "Iontový motor urychluje ionty xenonu elektrickým polem na desítky kilometrů za sekundu, takže jeho specifický impulz je řádově vyšší než u chemického motoru. Tah je ale v řádu desetin newtonu, zhruba jako váha listu papíru, takže musí běžet měsíce. Pro start ze Země je nepoužitelný, pro meziplanetární lety ideální.",
+    "source": "NASA Glenn, NSTAR/NEXT; mise Dawn a Deep Space 1",
+    "seedElo": 1800
+  },
+  {
+    "id": "tec-B41",
+    "type": "F",
+    "category": "technologie",
+    "text": "Odkud bere sonda energii při gravitačním praku?",
+    "options": [
+      "Ze slunečního větru, který ji urychlí kolem planety",
+      "Z krátkého zážehu motoru v nejnižším bodě průletu",
+      "Z oběžného pohybu planety, jež o nepatrný kus zpomalí",
+      "Z magnetického pole planety působícího na kovový trup sondy"
+    ],
+    "correct": 2,
+    "explanation": "V soustavě spojené s planetou sonda přiletí a odletí stejnou rychlostí, jen změní směr. Vůči Slunci ale ke svému pohybu přičte část oběžné rychlosti planety, takže vyhraje. Planeta o odpovídající hybnost přijde, jenže při rozdílu hmotností jde o nezměřitelně malé zpomalení jejího oběhu.",
+    "source": "NASA JPL, Basics of Space Flight, kapitola Gravity Assist",
+    "seedElo": 1950
+  },
+  {
+    "id": "tec-B42",
+    "type": "F",
+    "category": "technologie",
+    "text": "Co změnila kontejnerizace, kterou od roku 1956 prosadil Malcom McLean?",
+    "options": [
+      "Zrychlila plavbu lodí zhruba na dvojnásobek dřívější rychlosti",
+      "Srazila náklady na překládku v přístavu o víc než řád",
+      "Umožnila poprvé přepravovat po moři chlazené potraviny",
+      "Nahradila železnici jako hlavního přepravce po pevnině"
+    ],
+    "correct": 1,
+    "explanation": "Před kontejnerem se náklad ručně skládal po kusech a překládka tvořila značnou část ceny přepravy. Standardizovaná bedna, kterou jeřáb přendá z lodi na vagon během minut, srazila tyto náklady o řády a umožnila rozprostřít výrobu po celém světě. Cenou byl zánik tradičních přístavních čtvrtí a profesí.",
+    "source": "Levinson, The Box (2006)",
+    "seedElo": 1700
+  },
+  {
+    "id": "tec-B43",
+    "type": "F",
+    "category": "technologie",
+    "text": "Proč se Haberův-Boschův proces řadí mezi nejdůležitější objevy techniky?",
+    "options": [
+      "Dusíkatá hnojiva z něj živí zhruba polovinu lidstva",
+      "Poprvé umožnil vyrábět ocel bez použití dřevěného uhlí",
+      "Otevřel cestu k levné výrobě hliníku elektrolýzou",
+      "Dodal chemii první průmyslově vyráběné antibiotikum"
+    ],
+    "correct": 0,
+    "explanation": "Proces váže vzdušný dusík na amoniak za vysokého tlaku a teploty na železném katalyzátoru, a tím otevřel cestu k průmyslovým hnojivům. Odhaduje se, že dusík z něj je dnes v tělech asi poloviny žijících lidí. Spotřebuje ovšem kolem jednoho procenta světové energie a stejná technologie posloužila i k výrobě výbušnin.",
+    "source": "Smil, Enriching the Earth (2001); Erisman et al., Nature Geoscience 1 (2008)",
+    "seedElo": 1750
+  },
+  {
+    "id": "tec-B44",
+    "type": "F",
+    "category": "technologie",
+    "text": "Co dělá Bessemerův konvertor s roztaveným surovým železem?",
+    "options": [
+      "Přidává uhlík z koksu, aby železo získalo pevnost oceli",
+      "Elektrickým obloukem taví šrot na novou surovou ocel",
+      "Chladí lázeň proudem dusíku, aby se zjemnila struktura",
+      "Profukuje lázeň vzduchem, jenž uhlík spálí a lázeň ohřeje"
+    ],
+    "correct": 3,
+    "explanation": "Surové železo obsahuje kolem čtyř procent uhlíku a je křehké. Bessemer je od roku 1856 nechal profukovat vzduchem, jehož kyslík uhlík spálil — a protože je ta reakce exotermní, lázeň se přitom sama ohřívala bez dalšího paliva. Cena oceli spadla o řád a otevřela cestu železnicím, mostům i mrakodrapům.",
+    "source": "Bessemer, britský patent 1856; Misa, A Nation of Steel (1995)",
+    "seedElo": 2050
+  }
+]

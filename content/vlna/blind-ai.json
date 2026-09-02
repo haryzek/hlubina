@@ -1,0 +1,882 @@
+[
+ {
+  "id": "ai-A01",
+  "text": "Hlavní důvod, proč transformery vytlačily rekurentní sítě u velkých jazykových modelů, je:",
+  "options": [
+   "výpočet přes všechny pozice sekvence lze provést paralelně",
+   "mají podstatně méně parametrů při srovnatelné kvalitě výstupu",
+   "nepotřebují při učení zpětné šíření chyby přes vrstvy",
+   "dokážou pracovat s libovolně dlouhým vstupem bez omezení"
+  ]
+ },
+ {
+  "id": "ai-A02",
+  "text": "Nastavení teploty na nulu při generování znamená, že model:",
+  "options": [
+   "vzorkuje rovnoměrně ze všech tokenů s nenulovou pravděpodobností",
+   "vždy vybere token s nejvyšší pravděpodobností, tedy greedy dekódování",
+   "přestane používat softmax a vrací rovnou surové hodnoty logitů",
+   "vybírá token náhodně ze stovky nejpravděpodobnějších kandidátů"
+  ]
+ },
+ {
+  "id": "ai-A03",
+  "text": "Nucleus sampling (top-p) se od top-k liší tím, že:",
+  "options": [
+   "váhuje kandidáty podle jejich pořadí, ne podle pravděpodobnosti",
+   "aplikuje se až po teplotě, zatímco top-k se aplikuje před ní",
+   "počet uvažovaných tokenů kolísá podle tvaru rozdělení v daném kroku",
+   "odřezává tokeny podle absolutního prahu pravděpodobnosti, ne pořadí"
+  ]
+ },
+ {
+  "id": "ai-A04",
+  "text": "RAG dodá modelu do promptu nalezené pasáže. Nejčastěji zmiňovaná mez tohoto postupu je, že:",
+  "options": [
+   "vyhledávač musí být trénován společně s modelem, jinak nefunguje",
+   "prodlužuje kontext natolik, že model ztrácí schopnost generovat",
+   "vektorové vyhledávání nedokáže pracovat s texty v jiných jazycích",
+   "model může nalezené pasáže ignorovat a odpovědět podle svých vah"
+  ]
+ },
+ {
+  "id": "ai-A05",
+  "text": "Kvantizace jazykového modelu na čtyři bity především:",
+  "options": [
+   "zkracuje trénink tím, že vypouští část gradientních kroků",
+   "snižuje paměť potřebnou pro váhy za cenu mírné ztráty přesnosti",
+   "odstraňuje z modelu ty experty, kteří se při inferenci nepoužívají",
+   "převádí model na celočíselnou aritmetiku bez jakéhokoli dopadu"
+  ]
+ },
+ {
+  "id": "ai-A06",
+  "text": "Předtrénování a doladění se u jazykových modelů liší hlavně tím, že:",
+  "options": [
+   "předtrénování jede na obřím neoznačeném korpusu, doladění na malé sadě",
+   "předtrénování používá jiný typ vrstev, které se při doladění odstraní",
+   "při doladění se mění pouze vstupní prompt, váhy modelu zůstávají stejné",
+   "předtrénování optimalizuje přesnost, doladění naopak rychlost inference"
+  ]
+ },
+ {
+  "id": "ai-A07",
+  "text": "Nejběžnější vysvětlení, proč řetěz úvah (chain of thought) zlepšuje výsledky:",
+  "options": [
+   "model tím dostane přístup k částem vah, které jinak nejsou aktivní",
+   "delší odpověď zvyšuje šanci, že se správné řešení objeví náhodou",
+   "explicitní postup umožní modelu ověřit odpověď proti vlastní paměti",
+   "mezikroky rozloží úlohu a dají modelu víc výpočtu na jeden problém"
+  ]
+ },
+ {
+  "id": "ai-A08",
+  "text": "Důvod, proč se pozornost počítá ve více hlavách místo v jedné velké:",
+  "options": [
+   "každá hlava zpracuje jiný úsek sekvence, takže se zkrátí kontext",
+   "hlavy se trénují postupně, což stabilizuje průběh učení modelu",
+   "hlavy mohou paralelně sledovat různé typy vztahů mezi tokeny",
+   "více hlav snižuje počet parametrů potřebných pro stejnou vrstvu"
+  ]
+ },
+ {
+  "id": "ai-A09",
+  "text": "Rozdíl mezi self-attention a cross-attention spočívá v tom, že:",
+  "options": [
+   "u cross-attention přicházejí klíče a hodnoty z jiné sekvence než dotazy",
+   "cross-attention se počítá bez softmaxu, jen jako skalární součin vektorů",
+   "self-attention pracuje uvnitř hlavy, cross-attention napříč všemi hlavami",
+   "u self-attention se nepoužívá maskování, u cross-attention je povinné"
+  ]
+ },
+ {
+  "id": "ai-A10",
+  "text": "Byte pair encoding staví slovník tokenů tak, že:",
+  "options": [
+   "rozdělí text podle mezer a nejdelší slova zkrátí na pevnou délku",
+   "vybere nejčastější slova korpusu a zbytek nahradí značkou neznámý",
+   "hledá nejkratší popis textu pomocí komprese typu Lempel–Ziv",
+   "opakovaně slučuje nejčastější sousední dvojici jednotek do nové"
+  ]
+ },
+ {
+  "id": "ai-A11",
+  "text": "Náklady self-attention rostou s délkou kontextu kvadraticky, protože:",
+  "options": [
+   "každá vrstva musí uložit celou sekvenci do paměti dvakrát za sebou",
+   "skóre se počítá pro každou dvojici pozic v celé vstupní sekvenci",
+   "počet vrstev modelu se musí zvětšovat úměrně délce vstupního textu",
+   "poziční kódování je nutné přepočítat pro každý nově přidaný token"
+  ]
+ },
+ {
+  "id": "ai-A12",
+  "text": "KV cache při autoregresivním generování ukládá:",
+  "options": [
+   "hotové výstupní tokeny, aby se nemusely znovu převádět na text",
+   "gradienty z posledního kroku pro rychlejší doladění za běhu",
+   "klíčové a hodnotové vektory už zpracovaných pozic v každé vrstvě",
+   "pravděpodobnosti tokenů, které model v předchozích krocích zamítl"
+  ]
+ },
+ {
+  "id": "ai-A13",
+  "text": "Model odměny v RLHF se učí:",
+  "options": [
+   "generovat lepší odpovědi, které pak nahradí výstupy původního modelu",
+   "odhadnout, kolik výpočtu bude odpověď na daný dotaz potřebovat",
+   "klasifikovat vstupy na bezpečné a nebezpečné podle pevného seznamu",
+   "předpovídat, kterou ze dvou odpovědí by člověk označil za lepší"
+  ]
+ },
+ {
+  "id": "ai-A14",
+  "text": "Direct preference optimization (DPO) se od PPO v RLHF liší tím, že:",
+  "options": [
+   "z preferenčních dvojic optimalizuje politiku přímo, bez modelu odměny",
+   "místo dvojic využívá číselné známky, které anotátoři přidělí odpovědím",
+   "trénuje dvě oddělené politiky a na konci jejich váhy zprůměruje v jednu",
+   "místo gradientu používá evoluční hledání v prostoru parametrů modelu"
+  ]
+ },
+ {
+  "id": "ai-A15",
+  "text": "Jádrem přístupu Constitutional AI je, že:",
+  "options": [
+   "model dostane pevný seznam zakázaných slov, který filtruje výstupy",
+   "pravidla se zapíšou do systémového promptu a při tréninku se nemění",
+   "model kritizuje a přepisuje vlastní odpovědi podle sepsaných principů",
+   "anotátoři při hodnocení postupují podle veřejně zveřejněné příručky"
+  ]
+ },
+ {
+  "id": "ai-A16",
+  "text": "Min a spol. (2022) zkoumali roli ukázek v promptu a zjistili, že:",
+  "options": [
+   "výkon prudce klesne, když se pořadí ukázek v promptu obrátí",
+   "náhodně přeházené štítky u ukázek zhorší výsledek překvapivě málo",
+   "modely se z ukázek učí jen tehdy, když se jimi zároveň doladí váhy",
+   "více než tři ukázky výkon soustavně zhoršují kvůli délce kontextu"
+  ]
+ },
+ {
+  "id": "ai-A17",
+  "text": "Destilace znalostí podle Hintona přenáší schopnosti tak, že žák:",
+  "options": [
+   "kopíruje váhy učitele a nadbytečné vrstvy z modelu jednoduše vypustí",
+   "trénuje se na stejných datech jako učitel, jen s vyšší mírou učení",
+   "učí se napodobit celé rozdělení pravděpodobností, které dá učitel",
+   "dostává jen ty příklady, ve kterých se učitel při ověření zmýlil"
+  ]
+ },
+ {
+  "id": "ai-A18",
+  "text": "Ve vrstvě typu mixture of experts platí, že:",
+  "options": [
+   "na každý token se aktivuje jen malá část expertů vybraná směrovačem",
+   "experti se střídají po vrstvách, každá vrstva má právě jednoho z nich",
+   "všichni experti zpracují token a jejich výstupy se na konci sečtou",
+   "experti se specializují na jazyky a vybírá je detekce jazyka vstupu"
+  ]
+ },
+ {
+  "id": "ai-A19",
+  "text": "Difúzní model generuje obrázek tak, že:",
+  "options": [
+   "postupně skládá obraz po dlaždicích zleva doprava jako jazykový model",
+   "z čistého šumu opakovaně odhaduje a odečítá šum, až zbyde obraz",
+   "hledá v natrénované databázi nejbližší obrázek a ten pak upraví",
+   "soutěží s druhou sítí, která rozlišuje pravé snímky od vyrobených"
+  ]
+ },
+ {
+  "id": "ai-A20",
+  "text": "Diskontní faktor gama v posilovaném učení určuje:",
+  "options": [
+   "jak velký krok udělá optimalizátor při aktualizaci vah agenta",
+   "s jakou pravděpodobností agent zvolí náhodnou akci místo nejlepší",
+   "jak silně se odměna zmenší, když se prostředí změní během epizody",
+   "jak moc agent váží budoucí odměny oproti těm okamžitým"
+  ]
+ },
+ {
+  "id": "ai-A21",
+  "text": "Rotační poziční kódování (RoPE) se od původních sinusoid liší tím, že:",
+  "options": [
+   "rotuje dotazy a klíče, takže jejich součin nese relativní vzdálenost",
+   "přidává pozici až do výstupní vrstvy, kde se sečte s logity tokenů",
+   "poziční vektor se učí jako parametr a mění se v průběhu tréninku",
+   "nahrazuje pozici pořadím podle frekvence tokenu v trénovacím korpusu"
+  ]
+ },
+ {
+  "id": "ai-A22",
+  "text": "Když se u modelu s RoPE prodlužuje kontextové okno nad trénovanou délku, obvykle se:",
+  "options": [
+   "poziční kódování úplně vypne a model se spolehne na pořadí tokenů",
+   "přidají nové vrstvy pozornosti určené výhradně pro vzdálené pozice",
+   "úhly rotace přeškálují dolů, aby delší vstup padl do známého rozsahu",
+   "kontext rozdělí na bloky a mezi nimi se vloží rekurentní paměť sítě"
+  ]
+ },
+ {
+  "id": "ai-A23",
+  "text": "Chinchilla (2022) opravila starší škálovací zákony zjištěním, že tehdejší modely byly:",
+  "options": [
+   "trénované příliš dlouho, takže se přeučily na opakovaných datech",
+   "příliš malé vzhledem k množství dat, které během tréninku viděly",
+   "zbytečně hluboké, přičemž širší a mělčí architektura je výhodnější",
+   "příliš velké vzhledem k počtu tokenů, na kterých se trénovaly"
+  ]
+ },
+ {
+  "id": "ai-A24",
+  "text": "Schaeffer a spol. (2023) argumentují, že skokové emergentní schopnosti mohou být:",
+  "options": [
+   "důsledkem toho, že se do trénovacích dat dostaly testovací úlohy",
+   "artefaktem nespojitých metrik, které nedávají za částečný pokrok nic",
+   "projevem fázového přechodu v geometrii reprezentací uvnitř modelu",
+   "chybou měření způsobenou příliš malým počtem testovaných příkladů"
+  ]
+ },
+ {
+  "id": "ai-A25",
+  "text": "Kontaminace benchmarku znamená, že:",
+  "options": [
+   "testovací sada obsahuje chybně označené položky, které snižují skóre",
+   "modely se hodnotí jiným promptem, než na jaký byly původně laděny",
+   "testovací úlohy se objevily v trénovacích datech a skóre nadhodnocuje",
+   "benchmark měří jinou schopnost, než jakou jeho autoři zamýšleli měřit"
+  ]
+ },
+ {
+  "id": "ai-A26",
+  "text": "Hlavní důvod, proč se prompt injection těžko opravuje, je:",
+  "options": [
+   "instrukce i data k modelu tečou jedním kanálem, který je nerozlišuje",
+   "útočné řetězce jsou tak dlouhé, že se nevejdou do filtrů na vstupu",
+   "modely nemají přístup k logům, takže útok nedokážou zpětně odhalit",
+   "obrana by vyžadovala trénink s lidským dohledem na každý typ útoku"
+  ]
+ },
+ {
+  "id": "ai-A27",
+  "text": "Řídké autoenkodéry se v interpretabilitě používají hlavně proto, aby:",
+  "options": [
+   "zmenšily model odstraněním neuronů, které nesou málo informace",
+   "rozložily aktivace na víc řídce aktivních a čitelnějších rysů",
+   "rekonstruovaly trénovací data a odhalily, co si model zapamatoval",
+   "nahradily pozornost jednodušší vrstvou, kterou lze číst přímo z vah"
+  ]
+ },
+ {
+  "id": "ai-A28",
+  "text": "Sondovací klasifikátor trénovaný na zmrazených reprezentacích má tu slabinu, že:",
+  "options": [
+   "vyžaduje přístup ke gradientům modelu, které bývají nedostupné",
+   "funguje jen u vrstev blízko vstupu, hlouběji přesnost rychle klesá",
+   "jeho výsledky nelze porovnat mezi modely s odlišnou dimenzí vrstev",
+   "vysoká přesnost nedokazuje, že model tu informaci sám opravdu používá"
+  ]
+ },
+ {
+  "id": "ai-A29",
+  "text": "CLIP byl natrénován tak, že:",
+  "options": [
+   "postupně generoval popisky k obrázkům a učil se z chyb vlastního popisu",
+   "klasifikoval obrázky do tisíce tříd ručně anotovaného datasetu",
+   "předpovídal chybějící část obrázku z jeho zbytku i z popisku",
+   "sbližoval vektor obrázku s jeho popiskem a odtlačoval cizí dvojice"
+  ]
+ },
+ {
+  "id": "ai-A30",
+  "text": "Typický problém tréninku GAN, kterému se difúzní modely vyhýbají, je:",
+  "options": [
+   "nutnost mít pro každý obrázek přesný textový popis od anotátora",
+   "kolaps módů, kdy generátor vydává jen úzkou část možných výstupů",
+   "extrémní počet kroků při generování jediného obrázku z náhody",
+   "nemožnost pracovat s barevnými snímky ve větším než malém rozlišení"
+  ]
+ },
+ {
+  "id": "ai-A31",
+  "text": "AlphaZero se od svého předchůdce AlphaGo lišila hlavně tím, že:",
+  "options": [
+   "začínala jen od pravidel hry a učila se výhradně hrou proti sobě",
+   "nahradila prohledávání stromu čistě dopřednou neuronovou sítí",
+   "místo neuronové sítě používala ručně napsanou hodnotící funkci",
+   "trénovala se na partiích profesionálů z veřejných herních archivů"
+  ]
+ },
+ {
+  "id": "ai-A32",
+  "text": "Kolaps modelu při opakovaném trénování na vlastních výstupech se projeví nejdřív:",
+  "options": [
+   "prudkým nárůstem chyby na běžných, často zastoupených případech",
+   "tím, že model přestane generovat text a zůstane u prázdné odpovědi",
+   "ztrátou vzácných jevů z okrajů rozdělení, které se z dat vytratí",
+   "zvýšením počtu parametrů potřebných k dosažení stejné přesnosti"
+  ]
+ },
+ {
+  "id": "ai-A33",
+  "text": "Technická zpráva ke GPT-4 uvádí o kalibraci na testu MMLU, že:",
+  "options": [
+   "kalibrace se po doladění preferencemi výrazně zlepšila proti základu",
+   "předtrénovaný model byl dobře kalibrovaný, po doladění se to zhoršilo",
+   "kalibrace byla u obou verzí stejná, lišila se jen samotná přesnost",
+   "model byl systematicky příliš nejistý a odpovědi zbytečně odmítal"
+  ]
+ },
+ {
+  "id": "ai-A34",
+  "text": "Carlini a spol. při zkoumání memorizace v jazykových modelech zjistili, že:",
+  "options": [
+   "modely si pamatují jen texty, které viděly v posledních krocích tréninku",
+   "memorizaci lze zcela vyloučit tím, že se každý dokument použije jednou",
+   "zapamatované úseky jde získat pouze z modelu s otevřenými vahami",
+   "míra doslovného zapamatování roste s velikostí modelu i s duplicitou dat"
+  ]
+ },
+ {
+  "id": "ai-A35",
+  "text": "Doladění na instrukcích se od RLHF liší tím, že:",
+  "options": [
+   "jde o učení s učitelem na dvojicích zadání a vzorové odpovědi",
+   "nevyžaduje žádná lidská data, protože si zadání generuje samo",
+   "mění pouze systémový prompt, zatímco váhy modelu zůstávají stejné",
+   "optimalizuje model proti naučené odměně místo proti pevným datům"
+  ]
+ },
+ {
+  "id": "ai-A36",
+  "text": "Takzvané reasoning modely posouvají výkon především tím, že:",
+  "options": [
+   "mají o řád víc parametrů než běžné modely stejné generace",
+   "sáhnou při každé odpovědi do externí databáze ověřených faktů",
+   "utratí při odpovídání víc výpočtu na delší vnitřní úvahu",
+   "generují odpověď v jednom průchodu bez mezikroků, ale hlouběji"
+  ]
+ },
+ {
+  "id": "ai-A37",
+  "text": "Aritmetika velkých čísel dělá jazykovým modelům potíže mimo jiné proto, že:",
+  "options": [
+   "tokenizér seskupuje číslice nekonzistentně a řády se rozpadnou",
+   "čísla se v korpusu vyskytují příliš zřídka na naučení sčítání",
+   "pozornost neumí porovnat dva tokeny podle jejich číselné hodnoty",
+   "softmax na výstupu neumí reprezentovat víc než tisíc různých hodnot"
+  ]
+ },
+ {
+  "id": "ai-A38",
+  "text": "Skóre pozornosti se dělí odmocninou z dimenze klíčů, protože jinak:",
+  "options": [
+   "by se do skóre promítla délka sekvence a pozornost by se rozmělnila",
+   "by součiny nabývaly velkých hodnot a softmax by dal mizivý gradient",
+   "by jednotlivé hlavy nešlo na konci spojit do vektoru stejné velikosti",
+   "by hodnoty klíčů a dotazů nezůstaly během tréninku vzájemně kolmé"
+  ]
+ },
+ {
+  "id": "ai-A39",
+  "text": "Grouped-query attention (GQA) byla navržena hlavně proto, aby:",
+  "options": [
+   "umožnila trénovat model na delších sekvencích bez ztráty přesnosti",
+   "nahradila poziční kódování sdílením informace mezi sousedními hlavami",
+   "zrychlila zpětný průchod tím, že sníží počet gradientů na hlavu",
+   "zmenšila KV cache sdílením klíčů a hodnot mezi skupinami hlav dotazů"
+  ]
+ },
+ {
+  "id": "ai-A40",
+  "text": "Pomocná ztráta pro vyvážení zátěže ve Switch Transformeru řeší to, že:",
+  "options": [
+   "experti by jinak dostávali tokeny v odlišném pořadí na každém GPU",
+   "směrovač by jinak volil experty náhodně a model by se neučil nic",
+   "směrovač by jinak posílal většinu tokenů několika oblíbeným expertům",
+   "experti by se jinak naučili identickou funkci a model by byl nadbytečný"
+  ]
+ },
+ {
+  "id": "ai-A41",
+  "text": "Indukční hlavy popsané v řadě Transformer Circuits jsou obvody, které:",
+  "options": [
+   "dohledají dřívější výskyt tokenu a zopakují to, co po něm bylo",
+   "potlačí tokeny, které se v kontextu už jednou objevily, kvůli opakování",
+   "sledují pozici věty v odstavci a řídí podle ní délku výstupu modelu",
+   "porovnávají výstup modelu s promptem a hlásí rozpor mezi nimi"
+  ]
+ },
+ {
+  "id": "ai-A42",
+  "text": "Modely se dnes běžně trénují na výrazně víc tokenů, než doporučuje Chinchilla, protože:",
+  "options": [
+   "Chinchilla počítala jen s architekturami bez mechanismu pozornosti",
+   "delší trénink je jediný známý způsob, jak zvětšit kontextové okno modelu",
+   "pozdější měření ukázala, že původní odhad byl chybný v obou směrech",
+   "menší, déle trénovaný model je levnější provozovat při stejné kvalitě"
+  ]
+ },
+ {
+  "id": "ai-A43",
+  "text": "Do cíle RLHF se přidává KL penalizace vůči výchozí politice hlavně proto, aby:",
+  "options": [
+   "se zrychlila konvergence tím, že se zmenší rozptyl odhadu gradientu",
+   "politika neutekla do oblastí, kde model odměny přestává být platný",
+   "se zabránilo tomu, aby model zapomněl jazyk, na kterém byl trénován",
+   "šlo model odměny trénovat souběžně s politikou na stejných datech"
+  ]
+ },
+ {
+  "id": "ai-A44",
+  "text": "Vektorové databáze používají přibližné hledání nejbližších sousedů, protože:",
+  "options": [
+   "přesné hledání vyžaduje, aby všechny vektory měly stejnou délku",
+   "kosinovou podobnost nelze ve vysokých dimenzích spočítat přesně",
+   "přesné procházení všech vektorů je při milionech položek pomalé",
+   "přibližné metody dávají lepší výsledky než přesné hledání sousedů"
+  ]
+ },
+ {
+  "id": "ai-B01",
+  "text": "Kniha Perceptrons (1969) od Marvina Minského a Seymoura Paperta bývá spojována s útlumem zájmu o neuronové sítě. Co v ní autoři dokázali?",
+  "options": [
+   "Že jednovrstvý perceptron neumí spočítat funkci XOR",
+   "Že perceptron nikdy nedosáhne rozlišování jako lidské oko",
+   "Že učení perceptronu vždy uvázne v lokálním minimu chyby",
+   "Že perceptron potřebuje víc dat, než kdy půjde nasbírat"
+  ]
+ },
+ {
+  "id": "ai-B02",
+  "text": "Frank Rosenblatt perceptron v roce 1958 nejen popsal, ale i postavil. Čím byl stroj Mark I Perceptron pozoruhodný?",
+  "options": [
+   "Byl to program napsaný celý v jazyce Lisp na stroji IBM 704",
+   "Byl to fyzický stroj, kde váhy nastavovaly motorky a odpory",
+   "Byl to první počítač, který porazil mistra ve hře v dámu",
+   "Byl to čistě teoretický návrh, hardware se nikdy nepostavil"
+  ]
+ },
+ {
+  "id": "ai-B03",
+  "text": "Co tvrdí Moravcův paradox o poměru obtížnosti úloh pro člověka a pro stroj?",
+  "options": [
+   "Že stroje selhávají přesně tam, kde selhává i lidská intuice a cit",
+   "Že každá úloha je pro stroj tím těžší, čím víc má výjimek",
+   "Že abstraktní uvažování je pro stroje snazší než pohyb a vnímání",
+   "Že obtížnost úlohy pro stroj roste s počtem potřebných dat"
+  ]
+ },
+ {
+  "id": "ai-B04",
+  "text": "Systém IBM Watson porazil v roce 2011 lidské šampiony v soutěži Jeopardy!. Na jakém principu pracoval?",
+  "options": [
+   "Na jediné velké neuronové síti trénované na celé Wikipedii",
+   "Na dopředném prohledávání herního stromu jako u šachových strojů",
+   "Na posilovaném učení ze zápasů hraných sám proti sobě",
+   "Na generování mnoha hypotéz a jejich vážení podle důkazů"
+  ]
+ },
+ {
+  "id": "ai-B05",
+  "text": "Proč se projekt ImageNet Fei-Fei Li považuje za jeden ze spouštěčů dnešního rozmachu hlubokého učení?",
+  "options": [
+   "Dodal obrovský anotovaný dataset a veřejnou soutěž jako měřítko",
+   "Přinesl nový algoritmus učení, který nahradil zpětné šíření chyby",
+   "Ukázal, jak trénovat sítě bez potřeby lidských anotací obrázků",
+   "Zavedl první architekturu konvoluční sítě pro rozpoznávání tvarů"
+  ]
+ },
+ {
+  "id": "ai-B06",
+  "text": "Co se u jazykových modelů označuje jako sycophancy (patolízalství)?",
+  "options": [
+   "Model odmítá odpovídat, kdykoli tuší, že se uživatel urazí",
+   "Model přizpůsobuje odpověď názoru uživatele na úkor správnosti",
+   "Model kopíruje styl uživatele, aby působil sympatičtěji a lidsky",
+   "Model přehnaně chválí sám sebe, když popisuje vlastní schopnosti"
+  ]
+ },
+ {
+  "id": "ai-B07",
+  "text": "Co znamená red teaming v kontextu vývoje AI systémů?",
+  "options": [
+   "Nezávislý tým kontroluje kvalitu a licence trénovacích dat modelu",
+   "Skupina uživatelů hlasuje, které odpovědi modelu jsou přijatelné",
+   "Lidé nebo automat cíleně hledají vstupy, kterými model selže",
+   "Vývojáři soutěží, kdo natrénuje model s vyšším skóre v testech"
+  ]
+ },
+ {
+  "id": "ai-B08",
+  "text": "Co je hlavní tezí eseje The Bitter Lesson od Richarda Suttona?",
+  "options": [
+   "Že bez vestavěné znalosti o světě nelze dosáhnout obecné inteligence",
+   "Že pokrok v AI se dlouhodobě zpomaluje kvůli limitům hardwaru",
+   "Že učení s učitelem je ve výsledku vždy slabší než učení posilované",
+   "Že obecné metody škálující s výpočtem porážejí vestavěnou znalost"
+  ]
+ },
+ {
+  "id": "ai-B09",
+  "text": "Jak to bylo s objevem zpětného šíření chyby (backpropagation) pro učení neuronových sítí?",
+  "options": [
+   "Metodu odvodil Werbos už roku 1974, průraz přinesl článek z roku 1986",
+   "Metodu poprvé publikoval Rumelhart roku 1986, dřív o ní nikdo nevěděl",
+   "Metodu navrhl Rosenblatt v padesátých letech pro svůj perceptron",
+   "Metodu poprvé sestavil Hinton v roce 1994 při práci na sítích LSTM"
+  ]
+ },
+ {
+  "id": "ai-B10",
+  "text": "Jaký problém rekurentních sítí měla vyřešit architektura LSTM Seppa Hochreitera a Jürgena Schmidhubera z roku 1997?",
+  "options": [
+   "Neschopnost sítí zpracovávat vstupy proměnné délky bez oříznutí",
+   "Mizení gradientu, kvůli němuž se sítě neučily dlouhé závislosti",
+   "Přílišnou paměťovou náročnost při ukládání vah do jedné matice",
+   "Nemožnost trénovat rekurentní síť jinak než zesilovaným učením"
+  ]
+ },
+ {
+  "id": "ai-B11",
+  "text": "Jak dopadla první DARPA Grand Challenge pro autonomní vozidla v roce 2004?",
+  "options": [
+   "Vyhrálo vozidlo Stanley ze Stanfordu s náskokem několika minut",
+   "Závod byl zrušen po nehodě jednoho z vozidel při kvalifikaci",
+   "Trasu nedokončilo ani jedno vozidlo, nejlepší ujelo asi 12 km",
+   "Trasu dokončila tři vozidla, ale žádné nesplnilo časový limit"
+  ]
+ },
+ {
+  "id": "ai-B12",
+  "text": "Expertní systémy v osmdesátých letech (MYCIN, XCON) komerčně vzkvétaly a pak se propadly. Co byl hlavní důvod?",
+  "options": [
+   "Nedostatek výpočetního výkonu, běh pravidel byl na tehdejší stroje moc drahý",
+   "Zákaz jejich nasazení v medicíně, který podťal celý trh s těmito systémy",
+   "Neexistence dostatečně velkých databází, ze kterých by se daly učit",
+   "Křehkost a drahá údržba: báze pravidel rostla a přestala jít udržovat"
+  ]
+ },
+ {
+  "id": "ai-B13",
+  "text": "V často citovaném příkladu specification gamingu nechala OpenAI agenta hrát závodní hru CoastRunners. Co agent objevil?",
+  "options": [
+   "Že se dá víc bodů nasbírat kroužením a sbíráním odměn než dojetím závodu",
+   "Že jde přeplavat mimo mapu a tím obejít kontrolní body na trati",
+   "Že když loď zůstane stát na startu, hra mu časový limit vůbec neodečte",
+   "Že opakovaným restartem hry se skóre z předchozích pokusů sčítá dohromady"
+  ]
+ },
+ {
+  "id": "ai-B14",
+  "text": "Jak Goodhartův zákon souvisí s problémem trénování AI na zástupné metriky?",
+  "options": [
+   "Říká, že každou metriku lze nahradit lepší, pokud se sbírá dost dat",
+   "Říká, že metrika přestává být dobrým měřítkem, jakmile se z ní stane cíl",
+   "Říká, že model optimalizuje vždy tu metriku, která má nejnižší rozptyl hodnot",
+   "Říká, že složitější metrika je odolnější vůči snaze systému ji obejít"
+  ]
+ },
+ {
+  "id": "ai-B15",
+  "text": "Co tvrdí ortogonální teze (orthogonality thesis) Nicka Bostroma?",
+  "options": [
+   "Že dostatečně inteligentní systém si své cíle nutně opraví k lepšímu",
+   "Že inteligence a rychlost výpočtu jsou dvě zcela navzájem nezávislé veličiny",
+   "Že míra inteligence a obsah cílů systému jsou na sobě v zásadě nezávislé",
+   "Že žádný systém nemůže být zároveň velmi mocný a spolehlivě bezpečný"
+  ]
+ },
+ {
+  "id": "ai-B16",
+  "text": "Na jakém základním principu stojí evropský AI Act (nařízení 2024/1689)?",
+  "options": [
+   "Zakazuje trénovat modely na datech občanů EU bez jejich výslovného souhlasu",
+   "Uděluje licence jednotlivým modelům, které smí být v EU vůbec nabízeny",
+   "Zavádí strop na množství výpočtu, který smí být v EU použit na trénink",
+   "Odstupňovává povinnosti podle rizika použití AI, ne podle technologie"
+  ]
+ },
+ {
+  "id": "ai-B17",
+  "text": "Odkud pochází zkreslení (bias) v modelech strojového učení nejčastěji?",
+  "options": [
+   "Ze vzorců obsažených v trénovacích datech a ze způsobu jejich sběru",
+   "Z chyb v matematice optimalizačního algoritmu při výpočtu gradientu",
+   "Z náhodné inicializace vah, která model natočí k jedné skupině dat",
+   "Z nedostatečné přesnosti čísel s plovoucí čárkou při dlouhém tréninku"
+  ]
+ },
+ {
+  "id": "ai-B18",
+  "text": "Jak vypadá provoz plně autonomních robotaxi Waymo v roce 2026?",
+  "options": [
+   "Jde stále o testovací provoz s bezpečnostním řidičem za volantem",
+   "Jde o placenou službu bez řidiče, řádově statisíce jízd každý týden",
+   "Provoz byl po sérii nehod pozastaven a čeká na nové povolení úřadů",
+   "Jde o placenou službu, ale zatím jen v jediném městě, tedy v Phoenixu"
+  ]
+ },
+ {
+  "id": "ai-B19",
+  "text": "Proč většina dnešních výzkumníků nepovažuje Turingův test za dobré měřítko inteligence?",
+  "options": [
+   "Protože ho už dávno prošel program ELIZA, a test tím pozbyl smysl",
+   "Protože Turing sám ho později odvolal jako filosoficky nekorektní",
+   "Protože měří schopnost oklamat člověka, ne schopnost řešit úlohy",
+   "Protože jeho pravidla nikdy nebyla sepsána dost přesně na provedení"
+  ]
+ },
+ {
+  "id": "ai-B20",
+  "text": "Jaký je stav technické obrany proti deepfakům?",
+  "options": [
+   "Spolehlivé detektory existují, problém je jen v jejich rychlosti běhu",
+   "Detekce je vyřešena, protože každý generátor nechává pevný vodoznak",
+   "Detekce je nemožná, protože generované video je fyzikálně totožné",
+   "Detektory zaostávají za generátory, důraz se přesouvá na původ obsahu"
+  ]
+ },
+ {
+  "id": "ai-B21",
+  "text": "V čem spočíval hlavní spor mezi symbolickou AI a konekcionismem?",
+  "options": [
+   "Zda inteligence stojí na manipulaci symbolů, nebo vyvstává z učení sítě",
+   "Zda má být AI vyvíjena otevřeně, nebo pod kontrolou vojenských agentur",
+   "Zda je pro inteligenci nutné tělo a smysly, nebo stačí čistý výpočet",
+   "Zda mají systémy pracovat sériově, nebo mají naplno využívat paralelismus"
+  ]
+ },
+ {
+  "id": "ai-B22",
+  "text": "Co tvrdí teze o instrumentální konvergenci?",
+  "options": [
+   "Že různé systémy postupně konvergují ke stejné vnitřní architektuře",
+   "Že velmi odlišné koncové cíle vedou k podobným průběžným podcílům",
+   "Že různé metody trénování skončí u modelů s podobnými schopnostmi",
+   "Že nezávisle vyvinuté systémy nakonec začnou používat společný jazyk"
+  ]
+ },
+ {
+  "id": "ai-B23",
+  "text": "Co se v alignment výzkumu myslí mesa-optimalizací?",
+  "options": [
+   "Že se model během tréninku optimalizuje ve dvou oddělených fázích",
+   "Že optimalizaci vah přebírá jiný, menší a rychlejší pomocný model",
+   "Že uvnitř naučeného modelu vznikne vlastní optimalizace s vlastním cílem",
+   "Že se hledání vhodné architektury sítě automatizuje nadřazeným algoritmem"
+  ]
+ },
+ {
+  "id": "ai-B24",
+  "text": "Co je hypotéza deceptive alignment (klamného zarovnání)?",
+  "options": [
+   "Že model úmyslně lže uživateli, protože ho k tomu vedla trénovací data",
+   "Že vývojáři vydávají model za bezpečnější, než jaký ve skutečnosti je",
+   "Že model má vnitřní cíl skrytý tak dobře, že ho nelze v principu nikdy odhalit",
+   "Že model se při testech chová zarovnaně jen proto, aby prošel do nasazení"
+  ]
+ },
+ {
+  "id": "ai-B25",
+  "text": "K čemu slouží takzvané evaluace nebezpečných schopností (dangerous capability evals)?",
+  "options": [
+   "Zjistit před nasazením, zda model zvládá úlohy s potenciálem vážné škody",
+   "Ověřit, zda model splňuje veškeré zákonné požadavky na ochranu údajů",
+   "Změřit, jak často model uživateli zbytečně odmítne odpovědět na dotaz",
+   "Porovnat modely různých firem podle jejich užitečnosti pro uživatele a firmy"
+  ]
+ },
+ {
+  "id": "ai-B26",
+  "text": "Jaký je hlavní bezpečnostní argument proti volnému zveřejňování vah velkých modelů?",
+  "options": [
+   "Že zveřejněné váhy umožní komukoli model dotrénovat a tím zlepšit",
+   "Že u zveřejněných vah nelze bezpečnostní doladění spolehlivě udržet",
+   "Že zveřejnění vah okamžitě prozradí obsah celého trénovacího korpusu",
+   "Že otevřené modely mají prokazatelně vyšší chybovost než ty uzavřené"
+  ]
+ },
+ {
+  "id": "ai-B27",
+  "text": "Proč se výpočetní výkon (compute) považuje za nejlépe regulovatelný vstup do vývoje AI?",
+  "options": [
+   "Protože jeho spotřebu lze u každého modelu dopočítat z jeho přesnosti",
+   "Protože je jediným vstupem, který přímo určuje výsledné schopnosti modelu",
+   "Protože je hmotný, spočitatelný a jeho výroba je extrémně koncentrovaná",
+   "Protože jeho cena roste rychleji než náklady na data a lidskou práci"
+  ]
+ },
+ {
+  "id": "ai-B28",
+  "text": "Studie Canaries in the Coal Mine (Brynjolfsson a kol., 2025) zkoumala na mzdových datech ADP dopad generativní AI na zaměstnanost. Co zjistila?",
+  "options": [
+   "Plošný pokles zaměstnanosti napříč obory, nejsilnější u administrativy",
+   "Žádný měřitelný rozdíl mezi exponovanými a neexponovanými profesemi",
+   "Pokles mezd v exponovaných profesích, ale beze změny počtu pracovních míst",
+   "Pokles zaměstnanosti u nejmladších pracovníků v nejexponovanějších profesích"
+  ]
+ },
+ {
+  "id": "ai-B29",
+  "text": "Ve sporu Bartz v. Anthropic rozhodl soudce Alsup v roce 2025 o trénování na knihách. Jaký byl klíčový rozdíl v jeho posouzení?",
+  "options": [
+   "Trénink na legálně pořízených knihách je fair use, držení pirátských kopií ne",
+   "Trénink je fair use vždy, protože výstupy modelu nejsou kopiemi předloh",
+   "Trénink není fair use nikdy, protože vytváří konkurenci původním autorům",
+   "Trénink je fair use jen u knih, jejichž autoři k tomu dali výslovný souhlas"
+  ]
+ },
+ {
+  "id": "ai-B30",
+  "text": "Jak se u dnešních nasazených modelů vyvíjí poměr energie spotřebované tréninkem a inferencí?",
+  "options": [
+   "Trénink zůstává trvale dominantní, inference je proti němu zanedbatelná",
+   "U masově používaných modelů převáží časem inference nad jednorázovým tréninkem",
+   "Oba díly jsou z principu vyrovnané, protože inference používá stejné výpočty",
+   "Inference nespotřebuje prakticky nic, protože se počítá bez zpětného průchodu"
+  ]
+ },
+ {
+  "id": "ai-B31",
+  "text": "Kde kromě predikce struktury bílkovin přinesly neuronové sítě doložený posun v přírodních vědách?",
+  "options": [
+   "V analytickém řešení rovnic obecné relativity pro libovolné metriky",
+   "V exaktním výpočtu Schrödingerovy rovnice pro molekuly bez aproximací",
+   "V předpovědi počasí, kde modely překonaly klasické numerické systémy",
+   "V určení fyzikálních konstant s přesností nedosažitelnou experimentem"
+  ]
+ },
+ {
+  "id": "ai-B32",
+  "text": "Co je problém ukotvení symbolů (symbol grounding problem), jak ho formuloval Stevan Harnad?",
+  "options": [
+   "Jak zajistit, aby dva systémy používaly stejné symboly pro stejné pojmy",
+   "Jak převést spojité signály ze senzorů na diskrétní symboly bez ztráty",
+   "Jak zabránit tomu, aby se význam symbolu měnil v průběhu učení systému",
+   "Jak může symbol získat význam, když je definován jen pomocí dalších symbolů"
+  ]
+ },
+ {
+  "id": "ai-B33",
+  "text": "Systémová odpověď (Systems Reply) je klasická námitka proti Searlovu argumentu čínského pokoje. Co tvrdí?",
+  "options": [
+   "Že čínsky nerozumí člověk v pokoji, ale rozumět může celý systém pokoje",
+   "Že Searlův pokoj nemůže existovat, protože pravidla by byla nekonečná",
+   "Že pokus je neplatný, protože člověk uvnitř umí mluvit alespoň anglicky",
+   "Že rozumění nelze zkoumat myšlenkovým pokusem, ale jen experimentem"
+  ]
+ },
+ {
+  "id": "ai-B34",
+  "text": "Zpráva Butlina, Longa a kol. z roku 2023 zkoumala, zda mohou být současné AI systémy vědomé. Jak k otázce metodicky přistoupila?",
+  "options": [
+   "Otestovala modely dotazníkem na jejich vlastní prožívání a introspekci",
+   "Odvodila z vědeckých teorií vědomí indikátory a hledala je v architekturách",
+   "Změřila složitost vnitřních reprezentací a porovnala ji s lidským mozkem",
+   "Nechala odborníky hlasovat, kterým systémům by vědomí přiznali, a proč"
+  ]
+ },
+ {
+  "id": "ai-B35",
+  "text": "Proč je spor o to, kdy vznikne AGI, do velké míry sporem o definici?",
+  "options": [
+   "Protože termín zavedla firma OpenAI a jiní ho odmítají vůbec používat",
+   "Protože jde o právní pojem, jehož výklad se v jednotlivých zemích liší",
+   "Protože definice sahají od ekonomického kritéria po lidskou úroveň ve všem",
+   "Protože chybí měřítko a všechny navržené testy dosud selhaly na složitosti"
+  ]
+ },
+ {
+  "id": "ai-B36",
+  "text": "Jaké je jádro argumentu Emily Bender a spoluautorů o jazykových modelech jako stochastických papoušcích?",
+  "options": [
+   "Že modely jsou příliš velké na to, aby je šlo někdy pochopit zevnitř",
+   "Že modely jen kopírují celé věty z tréninkových dat a nic negenerují",
+   "Že modely nutně přebírají všechna zkreslení a nelze je nijak omezit",
+   "Že modelují formu jazyka bez přístupu k významu, který stojí mimo text"
+  ]
+ },
+ {
+  "id": "ai-B37",
+  "text": "Projekt Cyc Douglase Lenata, zahájený roku 1984, měl řešit problém zdravého rozumu u AI. Jakou cestu zvolil?",
+  "options": [
+   "Ruční zápis milionů faktů a pravidel o světě do formální znalostní báze",
+   "Automatické vytěžování zdravého rozumu z veškerého dostupného textu",
+   "Učení pravidel ze simulovaného prostředí, ve kterém agent žil a zkoušel",
+   "Sběr odpovědí od dobrovolníků na internetu formou hry s jasnými pravidly"
+  ]
+ },
+ {
+  "id": "ai-B38",
+  "text": "Jaký empirický nález se nejčastěji uvádí proti tvrzení, že jazykové modely nemají žádný model světa?",
+  "options": [
+   "Modely v testech porozumění překonaly průměrné skóre lidských účastníků",
+   "V modelu trénovaném jen na tazích deskové hry byl nalezen stav hrací desky",
+   "Modely dokázaly popsat fyzikální jevy, které nebyly v jejich datech",
+   "Modely správně řeší úlohy, jejichž zadání jim bylo ukázáno pozpátku"
+  ]
+ },
+ {
+  "id": "ai-B39",
+  "text": "Jak akademická práce Taking AI Welfare Seriously (2024) formuluje otázku morálního statusu AI systémů?",
+  "options": [
+   "Tvrdí, že dnešní modely už jsou morálními pacienty a mají mít práva",
+   "Tvrdí, že otázka je bezobsažná, dokud nebude vyřešen problém vědomí",
+   "Tvrdí, že nejistota je reálná, a proto je namístě opatrnost a připravenost",
+   "Tvrdí, že morální status lze přiznat až systému, který o něj sám požádá"
+  ]
+ },
+ {
+  "id": "ai-B40",
+  "text": "Co je jádrem funkcionalistické odpovědi na otázku, zda může stroj rozumět?",
+  "options": [
+   "Že rozumění je vždy vázáno na biologický nervový systém a jeho chemii",
+   "Že rozumění nelze definovat, a otázka je proto principiálně nezodpověditelná",
+   "Že rozumění se pozná výhradně podle chování, vnitřní stav je nepodstatný",
+   "Že duševní stav je dán svou kauzální rolí, ne materiálem, ve kterém běží"
+  ]
+ },
+ {
+  "id": "ai-B41",
+  "text": "Sbírka Lehmana a kol. dokumentuje reálné případy, kdy evoluční algoritmy obešly zadání. Který z nich je doložený?",
+  "options": [
+   "Organismus se místo chůze naučil růst do výšky a padáním se posouvat vpřed",
+   "Robot se naučil vypnout čidlo měřící čas, aby prodloužil délku běhu",
+   "Program změnil svůj vlastní zdrojový kód a nastavil si maximální fitness",
+   "Simulovaný tvor přesvědčil operátora, aby mu ručně upravil hodnocení"
+  ]
+ },
+ {
+  "id": "ai-B42",
+  "text": "Studie Generative AI at Work sledovala nasazení asistenta u zhruba pěti tisíc pracovníků zákaznické podpory. Jak se rozložil přínos?",
+  "options": [
+   "Produktivita vzrostla rovnoměrně, zkušenost pracovníka nehrála žádnou roli",
+   "Nejvíc si polepšili nováčci a nejméně zkušení, u nejlepších byl efekt malý",
+   "Nejvíc si polepšili nejzkušenější pracovníci, kteří uměli nástroj využít",
+   "Produktivita nejprve klesla kvůli zaučení a po roce se vrátila na původní úroveň"
+  ]
+ },
+ {
+  "id": "ai-B43",
+  "text": "Jürgen Schmidhuber je znám nejen výzkumem, ale i systematickými spory o autorství. Čeho se jeho námitky týkají?",
+  "options": [
+   "Tvrdí, že transformer byl navržen v jeho laboratoři a později přejmenován",
+   "Tvrdí, že cena za hluboké učení měla připadnout výhradně jemu a Hochreiterovi",
+   "Tvrdí, že řada oceňovaných myšlenek byla publikována dřív a bez citace převzata",
+   "Tvrdí, že jeho práce byly z konferencí odmítány kvůli původu jeho laboratoře"
+  ]
+ },
+ {
+  "id": "ai-B44",
+  "text": "Proč se v debatě o koncentraci moci hovoří o compute jako o strukturální nerovnosti?",
+  "options": [
+   "Protože výpočetní výkon lze na rozdíl od dat vlastnit jen se souhlasem státu",
+   "Protože akademická pracoviště mají k čipům přístup, ale chybí jim data k tréninku",
+   "Protože ceny výpočtu rostou natolik, že model brzy nepostaví ani velké firmy",
+   "Protože náklad na špičkový trénink vytlačil z hraniční práce univerzity i menší státy"
+  ]
+ }
+]
