@@ -1,0 +1,450 @@
+[
+  {
+    "id": "sko-A01",
+    "type": "K",
+    "category": "skoly-autori",
+    "text": "Co André Green označuje komplexem mrtvé matky?",
+    "options": [
+      "Reakci dítěte na matku, jež je přítomná, ale libidinálně mrtvá",
+      "Nezpracovaný smutek po matce, která zemřela v raném dětství dítěte",
+      "Fantazii o zabití matky vznikající ve fázi rané ambivalence",
+      "Depresivní úzkost z poškození matky vlastní nenávistí a závistí"
+    ],
+    "correct": 0,
+    "explanation": "Green popsal konstelaci, kde matku zasáhne vlastní deprese (často po ztrátě) a její investice do dítěte náhle vyhasne, ačkoli fyzicky zůstává. Dítě odpovídá dekatexí objektu a identifikací s prázdnotou, což zanechává trvalou psychickou díru a chlad ve vztazích. Nejde tedy o reálné úmrtí matky, ale o její libidinální mrtvost.",
+    "source": "André Green, La mère morte (in Narcissisme de vie, narcissisme de mort), 1980",
+    "seedElo": 2150
+  },
+  {
+    "id": "sko-A02",
+    "type": "F",
+    "category": "skoly-autori",
+    "text": "Negativní halucinace v Greenově pojetí znamená:",
+    "options": [
+      "vtíravý vjem objektu, který ve skutečnosti není vůbec přítomen",
+      "nezobrazení toho, co je přítomno — halucinaci nepřítomnosti",
+      "popření reality vjemu ve prospěch přání, jak je popsal Freud",
+      "projektivní vyprázdnění vjemu do analytika během sezení"
+    ],
+    "correct": 1,
+    "explanation": "Green převzal Freudův okrajový termín a udělal z něj osu práce negativu: negativní halucinace je nevidění přítomného, vymazání reprezentace. Tvoří rub pozitivní halucinace a je základem rámcující struktury psychiky — prázdného rámce po investované matce. Na tomto pozadí Green čte ohraničené stavy jako patologii negativu, ne konfliktu.",
+    "source": "André Green, Le travail du négatif, 1993",
+    "seedElo": 2250
+  },
+  {
+    "id": "sko-A03",
+    "type": "F",
+    "category": "skoly-autori",
+    "text": "Co jsou v Laplanchově obecné teorii svádění enigmatické signifikanty?",
+    "options": [
+      "vrozená schémata, jimiž dítě dekóduje první vztahy s pečovatelem",
+      "symboly snu, jejichž smysl zůstává skrytý i po interpretaci",
+      "sdělení dospělého zatížená jeho nevědomím, jež dítě nedokáže přeložit",
+      "slova analytika, jimiž pacient nevědomě obchází přenosový odpor"
+    ],
+    "correct": 2,
+    "explanation": "Podle Laplanche je dospělý ke kojenci vždy v asymetrickém postavení: jeho péče nese sexuální sdělení, kterým sám nerozumí, protože pocházejí z jeho nevědomí. Dítě je nemůže plně přeložit a nepřeložený zbytek se usazuje jako zdroj pudu — tak vzniká nevědomí. Svádění je tedy strukturální situace, ne výjimečná událost.",
+    "source": "Jean Laplanche, Nouveaux fondements pour la psychanalyse, 1987",
+    "seedElo": 2050
+  },
+  {
+    "id": "sko-A04",
+    "type": "F",
+    "category": "skoly-autori",
+    "text": "Jak Laplanche hodnotí Freudovo opuštění teorie svádění?",
+    "options": [
+      "Jako správný krok, jenž otevřel cestu k objevu dětské sexuality",
+      "Jako důsledek Freudovy vlastní neanalyzované otcovské fixace",
+      "Jako nutnou korekci: vzpomínky pacientek byly kryjícími fantaziemi",
+      "Jako zbytečný ústup: svádění lze udržet jako strukturální, ne faktické"
+    ],
+    "correct": 3,
+    "explanation": "Laplanche tvrdí, že Freud stál před falešnou volbou mezi reálnou událostí a fantazií a zvolil obrat k endogenní pudovosti, čímž ztratil primát druhého. Obecná teorie svádění tuto ztrátu napravuje: svádění není trauma jednotlivých rodin, ale univerzální situace nesouměrného sdělení. Freudův ústup Laplanche nazývá odchýlením ('fourvoiement') biologizujícím směrem.",
+    "source": "Jean Laplanche, Le fourvoiement biologisant de la sexualité chez Freud, 1993",
+    "seedElo": 2300
+  },
+  {
+    "id": "sko-A05",
+    "type": "F",
+    "category": "skoly-autori",
+    "text": "Čím je v Lacanově učení objet petit a?",
+    "options": [
+      "Imaginárním dvojníkem já, jenž se ustavuje v zrcadlovém stadiu",
+      "Příčinou touhy — zbytkem, jenž unikl symbolizaci, nikoli jejím cílem",
+      "Signifikantem chybění v Druhém, který zakládá symbolický řád",
+      "Objektem potřeby, jejž matčina péče uspokojuje ve stadiu frustrace"
+    ],
+    "correct": 1,
+    "explanation": "Lacan trvá na tom, že objekt a je 'objet cause du désir', nikoli objekt, po němž se touží: je to nesymbolizovatelný zbytek po vstupu do řeči (pohled, hlas, prs, výkal). Právě proto se nedá dosáhnout ani ztratit, jen obkroužit pudovým pohybem. Zaměňovat jej s vytouženým objektem je typická popularizační chyba.",
+    "source": "Jacques Lacan, Séminaire XI: Les quatre concepts fondamentaux, 1964",
+    "seedElo": 2200
+  },
+  {
+    "id": "sko-A06",
+    "type": "F",
+    "category": "skoly-autori",
+    "text": "Co je podle Lacana jádrem zrcadlového stadia?",
+    "options": [
+      "Ustavení já v odcizující celistvé podobě, jež předbíhá zralost těla",
+      "Rozpoznání matčiny tváře jako prvního zrcadla vlastních afektů",
+      "Vstup do symbolického řádu skrze pojmenování vlastního obrazu",
+      "Osvojení tělesného schématu díky souhře motoriky a vnímání"
+    ],
+    "correct": 0,
+    "explanation": "Kojenec je motoricky nezralý a prožívá tělo roztříštěně, ale v obraze se vidí jako celek — tato ortopedická, předjímající totalita zakládá 'moi' jako imaginární a od počátku odcizené. Já tedy vzniká identifikací s vnějším obrazem, ne introspekcí. Winnicottovo čtení matčiny tváře jako zrcadla je jiná teze než Lacanova.",
+    "source": "Jacques Lacan, Le stade du miroir comme formateur de la fonction du Je, 1949",
+    "seedElo": 1900
+  },
+  {
+    "id": "sko-A07",
+    "type": "F",
+    "category": "skoly-autori",
+    "text": "Čím se v lacanovské teorii vysvětluje struktura psychózy?",
+    "options": [
+      "vytěsněním Jména-Otce, jež se vrací v podobě bludných myšlenek a hlasů",
+      "štěpením já mezi vjem reality a přání, jak to popsal pozdní Freud",
+      "regresí libida na autoerotické stadium a jeho návratem do těla",
+      "forkluzí Jména-Otce: signifikant nebyl vepsán a vrací se v reálnu"
+    ],
+    "correct": 3,
+    "explanation": "Lacan odlišuje forkluzi (Verwerfung) od vytěsnění: forkludovaný signifikant nikdy nevstoupil do symbolického řádu, takže se nemůže vrátit v symptomu, ale objevuje se v reálnu jako halucinace či blud. Jméno-Otce je signifikant, který ukotvuje otcovskou metaforu; jeho chybění se ukáže, až je subjekt povolán na místo, kde by jej potřeboval. Záměna forkluze s vytěsněním je klasická chyba.",
+    "source": "Jacques Lacan, Séminaire III: Les psychoses, 1955–56; D'une question préliminaire…, 1958",
+    "seedElo": 2100
+  },
+  {
+    "id": "sko-A08",
+    "type": "F",
+    "category": "skoly-autori",
+    "text": "Jak Lacan míní tezi, že touha člověka je touhou Druhého?",
+    "options": [
+      "Člověk napodobuje touhu vzoru, s nímž soupeří o tentýž objekt",
+      "Člověk touží po druhém člověku jako po objektu vlastní slasti",
+      "Člověk touží z místa Druhého a ptá se, čím je pro jeho touhu",
+      "Člověk potlačuje vlastní touhu ve prospěch přání rodičů a okolí"
+    ],
+    "correct": 2,
+    "explanation": "Formule je záměrně dvojznačná: touha se ustavuje v poli Druhého (řeči) a zároveň míří na jeho touhu — subjekt se ptá 'Che vuoi?', co ode mne chce. Nejde o imitaci soupeřova přání (to je spíš Girardova mimetická touha) ani o pouhé podřízení se rodičům. Otázka po vlastním místě v touze Druhého je zdrojem fantazmatu.",
+    "source": "Jacques Lacan, Subversion du sujet et dialectique du désir (Écrits), 1960",
+    "seedElo": 2250
+  },
+  {
+    "id": "sko-A09",
+    "type": "F",
+    "category": "skoly-autori",
+    "text": "Co Piera Aulagnier označuje pojmem piktogram?",
+    "options": [
+      "Nejranější vzpomínkovou stopu vzniklou spojením vjemu a slova",
+      "Obraz snu, který ještě neprošel prací zhuštění a přesunutí",
+      "Reprezentaci originárního procesu: zóna-objekt zplozená sebou samou",
+      "Předstupeň fantazie, v němž se dítě ztotožňuje s pečující matkou"
+    ],
+    "correct": 2,
+    "explanation": "Aulagnier rozlišuje tři způsoby reprezentace: originární (piktogram), primární (fantazie) a sekundární (pojem). Piktogram nezná odlišnost mezi zónou a objektem — psychika si postuluje, že si vlastní zážitek sama zplodila, a pracuje v alternativě spojení nebo odmítnutí. Na tomto pozadí je matčino 'mluvení za dítě' nutným násilím interpretace, které teprve umožní vstup do smyslu.",
+    "source": "Piera Aulagnier, La violence de l'interprétation, 1975",
+    "seedElo": 2350
+  },
+  {
+    "id": "sko-A10",
+    "type": "F",
+    "category": "skoly-autori",
+    "text": "Co Christopher Bollas nazývá nemyšleným známým (unthought known)?",
+    "options": [
+      "Vytěsněné dětské vzpomínky, jež lze v analýze znovu vybavit",
+      "Vědění o vlastním stavu, jež pacient zná, ale zamlčuje analytikovi",
+      "Kolektivně sdílené vědění, které se přenáší mimo řeč generacemi",
+      "Vědění vepsané do bytí před řečí, jež nebylo nikdy pomyšleno"
+    ],
+    "correct": 3,
+    "explanation": "Jde o zkušenost s ranou péčí, která se usadila jako gramatika prožívání a jednání dřív, než mohla být zformulována — není vytěsněná, protože nikdy nebyla myšlenkou. Bollas ji nazývá idiomem a v analýze se ukazuje spíš v atmosféře a ve způsobu bytí s druhým než ve vzpomínce. Analytikovým úkolem je pomoci ji poprvé pomyslet.",
+    "source": "Christopher Bollas, The Shadow of the Object, 1987",
+    "seedElo": 1950
+  },
+  {
+    "id": "sko-A11",
+    "type": "K",
+    "category": "skoly-autori",
+    "text": "Čím se vyznačuje Bollasův normotický charakter?",
+    "options": [
+      "Obratem k věcem a faktům, s vyhasnutím subjektivního vnitřního života",
+      "Okázalou přizpůsobivostí, pod níž se skrývá tajná grandiozita",
+      "Chronickou prázdnotou vyplňovanou střídáním vzrušujících objektů",
+      "Předstíranou normalitou, jež zakrývá perverzní scénář vzrušení"
+    ],
+    "correct": 0,
+    "explanation": "Normotik je abnormálně normální: je pohodlný ve světě věcí, výkonů a konkrétností, ale nemá vztah k vlastní subjektivitě, snům ani fantazii. Bollas mluví o vyhánění subjektivního elementu ze self, takže člověk žije jako objekt mezi objekty. Právě proto v analýze chybí materiál a analytika přepadá nuda a mrtvo.",
+    "source": "Christopher Bollas, Normotic Illness (in The Shadow of the Object), 1987",
+    "seedElo": 2000
+  },
+  {
+    "id": "sko-A12",
+    "type": "K",
+    "category": "skoly-autori",
+    "text": "Co Thomas Ogden míní interpretačním jednáním (interpretive action)?",
+    "options": [
+      "Záměrné odehrání přenosové role, jež pacientovi ukáže jeho vzorec",
+      "Sdělení porozumění činem analytika, aniž je řečeno slovy výkladu",
+      "Výklad, jenž pacienta vede k jednání mimo sezení, ke změně v životě",
+      "Interpretaci podanou tak, aby zasáhla dřív, než ji pacient odmítne"
+    ],
+    "correct": 1,
+    "explanation": "Ogden popisuje momenty, kdy analytik sdělí své porozumění tím, co udělá — například tím, že nepřistoupí na obvyklou úpravu rámce nebo naopak mlčky přijme pacientovo tempo. Není to acting out ani manipulace: čin nese specifický interpretační obsah, který by slovy nebyl přijatelný. Souvisí s jeho pojetím reverie jako pracovního nástroje, v němž analytikovy zdánlivě soukromé prožitky patří k analytickému poli.",
+    "source": "Thomas Ogden, Reverie and Interpretation, 1997",
+    "seedElo": 2200
+  },
+  {
+    "id": "sko-A13",
+    "type": "F",
+    "category": "skoly-autori",
+    "text": "Co Bion označuje transformací v O?",
+    "options": [
+      "Přechod od konkrétního materiálu k obecné teorii o jeho významu",
+      "Přenos nesnesitelných částí self do analytika a jejich pozdější navrácení",
+      "Postupné nahrazení afektu myšlenkou v průběhu dlouhé analýzy",
+      "Stávání se tím, co je pravdivé: nikoli vědění o O, nýbrž bytí v O"
+    ],
+    "correct": 3,
+    "explanation": "O je u Biona nepoznatelná poslední skutečnost dané chvíle; lze ji poznávat jen v jejích transformacích, nikdy přímo. Transformace v K vede k vědění o zážitku, transformace v O znamená, že se analytik i pacient tím zážitkem stanou. Odtud Bionův důraz na víru (F) a na nekonečno, jež žádná formulace nevyčerpá.",
+    "source": "Wilfred Bion, Transformations, 1965; Attention and Interpretation, 1970",
+    "seedElo": 2150
+  },
+  {
+    "id": "sko-A14",
+    "type": "F",
+    "category": "skoly-autori",
+    "text": "K čemu slouží vodorovná osa Bionovy mřížky (Grid)?",
+    "options": [
+      "K odstupňování zralosti myšlenky od preconcepce k pojmovému systému",
+      "K rozlišení projektivních a introjektivních pohybů v sezení",
+      "K zaznamenání toho, jak je výrok užit — od hypotézy až po akci",
+      "K měření míry úzkosti, s níž pacient sdělení analytikovi předává"
+    ],
+    "correct": 2,
+    "explanation": "Svislá osa mřížky sleduje genetický vývoj elementů (beta-prvky, sny, preconcepce, koncepce, deduktivní systém, algebraický kalkul), zatímco vodorovná osa popisuje užití výroku: definiční hypotéza, ψ (obranné zamítnutí), zápis, pozornost, tázání, akce. Bion sám mřížku nedoporučoval používat během sezení, nýbrž po něm jako nástroj sebekázně. Záměna obou os je běžný omyl.",
+    "source": "Wilfred Bion, Elements of Psycho-Analysis, 1963; The Grid, 1971",
+    "seedElo": 2300
+  },
+  {
+    "id": "sko-A15",
+    "type": "F",
+    "category": "skoly-autori",
+    "text": "Jak Bion popisuje vztah mesiášské ideje a establishmentu?",
+    "options": [
+      "Establishment ideu vždy zničí, protože ohrožuje jeho vlastní moc",
+      "Skupina ideu buď vstřebá až k vyprázdnění, nebo ji vytlačí ven",
+      "Idea nutně vede k rozpadu skupiny na základní předpokladové páry",
+      "Establishment ideu potřebuje jen v období vnějšího ohrožení skupiny"
+    ],
+    "correct": 1,
+    "explanation": "Bion líčí trvalé napětí mezi novou (mesiášskou) ideou a establishmentem, který má za úkol ji přijmout, uchovat a zároveň udržet skupinu. Typicky se idea buď domestikuje a zbaví své výbušnosti, nebo je jako cizí těleso vypuzena; obojí je selhání kontejnování na úrovni skupiny. Model odpovídá vztahu kontejneru a obsahu přeloženému do sociální roviny.",
+    "source": "Wilfred Bion, Attention and Interpretation, 1970",
+    "seedElo": 2350
+  },
+  {
+    "id": "sko-A16",
+    "type": "K",
+    "category": "skoly-autori",
+    "text": "Co je jádrem Winnicottova textu o strachu ze zhroucení?",
+    "options": [
+      "Obávané zhroucení už proběhlo v době, kdy je já nemohlo prožít",
+      "Strach ze zhroucení je předzvěstí skutečné psychotické epizody",
+      "Strach ze zhroucení kryje potlačenou agresi vůči matce z dětství",
+      "Zhroucení je nutným krokem k nalezení pravého self v analýze"
+    ],
+    "correct": 0,
+    "explanation": "Winnicott tvrdí, že se pacient děsí budoucnosti, ale úzkost patří minulé události — primitivní agonii, kterou nezralé já nemohlo zažít, a proto ji nelze umístit do minulého času. Zhroucení může být prožito teprve nyní, v přenosu, kde analytik funguje jako držící prostředí. Táž logika platí pro strach ze smrti a pro prázdnotu.",
+    "source": "Donald Winnicott, Fear of Breakdown, posmrtně 1974",
+    "seedElo": 1850
+  },
+  {
+    "id": "sko-A17",
+    "type": "K",
+    "category": "skoly-autori",
+    "text": "Proč Winnicott chápe antisociální tendenci jako znak naděje?",
+    "options": [
+      "Protože ukazuje, že dítě si dosud udrželo kontakt s realitou",
+      "Protože je nárokem vůči prostředí, jež kdysi selhalo — dítě věří",
+      "Protože agrese vybitá navenek chrání dítě před obratem proti sobě",
+      "Protože jde o první krok k reparaci poškozeného vnitřního objektu"
+    ],
+    "correct": 1,
+    "explanation": "Antisociální tendence podle Winnicotta vždy odkazuje k deprivaci: dítě mělo něco dobrého a ztratilo to. Krádež či destrukce jsou nevědomým nárokem, aby prostředí uznalo svůj dluh, a tedy důkazem, že dítě ještě neztratilo naději. Léčba proto začíná spíš úpravou prostředí než výkladem.",
+    "source": "Donald Winnicott, The Antisocial Tendency, 1956",
+    "seedElo": 1950
+  },
+  {
+    "id": "sko-A18",
+    "type": "F",
+    "category": "skoly-autori",
+    "text": "Co Winnicott označuje pojmem indwelling (přebývání)?",
+    "options": [
+      "Usazení psyché v těle, jež je výsledkem soustavné mateřské péče",
+      "Schopnost setrvat ve stavu klidu bez potřeby vnějšího podnětu",
+      "Vnitřní přítomnost pečující matky, na niž se dítě může spolehnout",
+      "Prodlévání analytika v pacientově prožitku bez nutkání vykládat"
+    ],
+    "correct": 0,
+    "explanation": "Indwelling patří k procesu personalizace: psyché se postupně uhnízdí v somatu díky handlingu, tedy tělesnému zacházení dostatečně dobré matky. Selhání této fáze vede k depersonalizaci, k pocitu nebydlení ve vlastním těle a k psychosomatickému štěpení. Winnicott ji řadí vedle integrace a vztahování se k objektu jako třetí základní vývojový úkol.",
+    "source": "Donald Winnicott, Mind and its Relation to the Psyche-Soma, 1949",
+    "seedElo": 2200
+  },
+  {
+    "id": "sko-A19",
+    "type": "K",
+    "category": "skoly-autori",
+    "text": "Čím je pro Balinta bazální porucha (basic fault) zvláštní?",
+    "options": [
+      "Vzniká až v edipální fázi a týká se rivality se stejným rodičem",
+      "Jde o vrozený deficit ega, který terapie nemůže nijak ovlivnit",
+      "Projevuje se výhradně v somatických symptomech bez psychického obsahu",
+      "Je dvouosobní: jazyk výkladu na této úrovni nepřiléhá a zraňuje"
+    ],
+    "correct": 3,
+    "explanation": "Balint rozlišuje úroveň edipální (tříosobní, kde interpretace funguje), úroveň bazální poruchy (dvouosobní, kde slova analytika snadno působí jako zásah zvenčí) a oblast tvoření (bezobjektní). Bazální porucha je nesoulad mezi ranými potřebami a péčí, nikoli konflikt; proto je terapeuticky nosnější umožnit 'nový začátek' skrze regresi než vykládat. Balint přitom varuje před zlovolnou formou regrese, která žádá stále více uspokojení.",
+    "source": "Michael Balint, The Basic Fault, 1968",
+    "seedElo": 2050
+  },
+  {
+    "id": "sko-A20",
+    "type": "K",
+    "category": "skoly-autori",
+    "text": "Co Balint označuje jako filobatismus?",
+    "options": [
+      "Úzkostné přimknutí k objektům, jež mají chránit před prázdnotou",
+      "Zálibu v opakovaném prožívání raných traumat v bezpečí analýzy",
+      "Zálibu v prostoru bez objektů, jenž se stává přátelskou rozlohou",
+      "Vyhledávání vzrušení coby obranu proti hrozícímu depresivnímu zhroucení"
+    ],
+    "correct": 2,
+    "explanation": "Filobat (od akrobata) důvěřuje prázdnému prostoru a vlastní výbavě, zatímco objekty vnímá jako nebezpečné překážky; oknofil naopak křečovitě lne k objektům a bojí se meziprostoru. Obojí je pro Balinta obrana proti otřesu primární lásky k prostředí. Dvojice popisuje charakterové styly vztahování k bezpečí, nikoli diagnózy.",
+    "source": "Michael Balint, Thrills and Regressions, 1959",
+    "seedElo": 2150
+  },
+  {
+    "id": "sko-A21",
+    "type": "F",
+    "category": "skoly-autori",
+    "text": "Co Fairbairn míní antilibidinálním egem (vnitřním sabotérem)?",
+    "options": [
+      "Součást ega vázanou na vzrušující objekt a jeho nikdy nesplněný příslib",
+      "Zvnitřněný hlas rodičů, který odpovídá Freudovu pojetí superega",
+      "Část ega vázanou na odmítající objekt, jež útočí na libidinální ego",
+      "Zbytek původního ega, který si udržel kontakt s vnější realitou"
+    ],
+    "correct": 2,
+    "explanation": "Fairbairn štěpí původní ego na centrální ego (vázané na ideální objekt), libidinální ego (vázané na vzrušující objekt) a antilibidinální ego (vázané na odmítající objekt), které nenávistně napadá libidinální ego pro jeho toužení. Tato vnitřní perzekuce je jádrem odporu vůči změně. K ní patří morální obrana: dítě raději nese vlastní špatnost, než by mělo žít ve světě se špatnými rodiči — být hříšníkem v Boží říši je snesitelnější než být dobrý v říši ďáblově.",
+    "source": "W. R. D. Fairbairn, Psychoanalytic Studies of the Personality, 1952",
+    "seedElo": 2000
+  },
+  {
+    "id": "sko-A22",
+    "type": "F",
+    "category": "skoly-autori",
+    "text": "Co Harry Guntrip popisuje jako regresované ego?",
+    "options": [
+      "Část libidinálního ega, jež se stáhla z vztahů do nitra a mlčí",
+      "Návrat dospělého pacienta k dětským způsobům vztahování v přenosu",
+      "Vrstvu ega, která nese nejranější vzpomínky na mateřskou péči",
+      "Obranné zpomalení psychiky chránící před rozpadem v psychóze"
+    ],
+    "correct": 0,
+    "explanation": "Guntrip doplňuje Fairbairnovo schéma o další štěp: libidinální ego se dělí na část, která dál vzrušeně usiluje o objekt, a na regresované ego, jež se vzdalo vztahování a uteklo do nitra, do stavu blízkého nebytí. Odtud pramení schizoidní pocit prázdna, únava a strach z propadání. Terapeuticky jde o to, umožnit tomuto stáhnutému jádru návrat, nikoli je jen interpretovat.",
+    "source": "Harry Guntrip, Schizoid Phenomena, Object Relations and the Self, 1968",
+    "seedElo": 2300
+  },
+  {
+    "id": "sko-A23",
+    "type": "K",
+    "category": "skoly-autori",
+    "text": "Co Esther Bicková označuje formací druhé kůže?",
+    "options": [
+      "Ztvrdlý povrch charakteru, jenž vzniká přebytkem raného hýčkání",
+      "Náhradní soudržnost získanou vlastní svalovou či duševní činností",
+      "Obal z projikovaných částí matky, který chrání dítě před závistí",
+      "Vrstvu falešné přizpůsobivosti, jež kryje ohrožené jádro osobnosti"
+    ],
+    "correct": 1,
+    "explanation": "Bicková předpokládá, že nejranější části osobnosti nemají vlastní soudržnost a potřebují objekt, který je drží pohromadě jako kůže — typicky bradavku v ústech spolu s hlasem a vůní matky. Selže-li tato funkce, dítě si vytvoří náhradu vlastní aktivitou: neustálým pohybem, svalovým napětím, žvatláním, pozorností upřenou na světlo. Odtud pochází pseudonezávislost pozorovatelná i u dospělých pacientů.",
+    "source": "Esther Bick, The Experience of the Skin in Early Object-Relations, 1968",
+    "seedElo": 2050
+  },
+  {
+    "id": "sko-A24",
+    "type": "F",
+    "category": "skoly-autori",
+    "text": "Čím se adhezivní identifikace podle Meltzera liší od projektivní?",
+    "options": [
+      "Objekt je vnímán jako nádoba, do níž lze vkládat části sebe sama",
+      "Vztah je udržován soustavným napodobováním řeči druhého člověka",
+      "Identifikace se týká celého objektu, nikoli jeho jednotlivých částí",
+      "Chybí prostor uvnitř objektu; kontakt je lepivý, na povrchu kůže"
+    ],
+    "correct": 3,
+    "explanation": "Meltzer (navazující na Bickovou) popsal u autistických dětí dvourozměrný svět, kde objekt nemá vnitřek, do něhož by šlo projikovat; identita se udržuje přilnutím k povrchu, mimikou a imitací. Projektivní identifikace naproti tomu předpokládá trojrozměrný objekt s vnitřním prostorem. K Meltzerovým pozdním pojmům patří i estetický konflikt: krása vnějšku matky proti nejistotě, co je uvnitř.",
+    "source": "Donald Meltzer, Explorations in Autism, 1975; The Apprehension of Beauty, 1988",
+    "seedElo": 2150
+  },
+  {
+    "id": "sko-A25",
+    "type": "K",
+    "category": "skoly-autori",
+    "text": "Čím je autistický objekt v pojetí Frances Tustinové?",
+    "options": [
+      "Tvrdý předmět užívaný k vyvolání pocitu vlastní ohraničenosti",
+      "Měkký předmět nesoucí útěchu spojenou se vzpomínkou na matku",
+      "Předmět, jenž dítěti zastupuje nepřítomnou matku v čase odloučení",
+      "Předmět, na nějž dítě projikuje své nesnesitelné děsy a zlobu"
+    ],
+    "correct": 0,
+    "explanation": "Autistický objekt je pro Tustinovou tvrdá věc přitisknutá k tělu kvůli tělesnému pocitu, ne kvůli významu nebo vztahu — chrání před 'černou dírou' a děsem z tělesné rozpuštěnosti. Odlišuje jej od autistických tvarů, což jsou měkké, samovolně vytvářené smyslové dojmy. Klíčové je, že objekt nezastupuje matku a nemá symbolickou funkci.",
+    "source": "Frances Tustin, Autistic Barriers in Neurotic Patients, 1986",
+    "seedElo": 2250
+  },
+  {
+    "id": "sko-A26",
+    "type": "K",
+    "category": "skoly-autori",
+    "text": "Jak Herbert Rosenfeld popisuje destruktivní narcismus?",
+    "options": [
+      "Jako vystupňovanou závist vůči analytikovi jako zdroji dobra",
+      "Jako obranu křehkého self před chronickým selháváním okolí",
+      "Jako vnitřní gang, jenž slibuje ochranu a trestá touhu po vztahu",
+      "Jako splynutí self s ideálním objektem, jež zcela popírá závislost"
+    ],
+    "correct": 2,
+    "explanation": "Rosenfeld líčí destruktivní narcistickou organizaci jako mafiánskou bandu vedenou všemocnou destruktivní částí self: nabízí bezbolestnou nezávislost a moc, ale mstí se, jakmile se pacient přiblíží k závislému vztahu s analytikem. Zlepšení bývá následováno negativní terapeutickou reakcí. Odlišuje ji od libidinózního narcismu, kde jde spíš o idealizované splynutí.",
+    "source": "Herbert Rosenfeld, A Clinical Approach to the Psychoanalytic Theory of the Life and Death Instincts, 1971",
+    "seedElo": 2100
+  },
+  {
+    "id": "sko-A27",
+    "type": "K",
+    "category": "skoly-autori",
+    "text": "Jak Steiner rozlišuje interpretace centrované na analytika a na pacienta?",
+    "options": [
+      "První popisují pacientovy motivy, druhé postoj analytika k němu",
+      "První se užívají v neuróze, druhé v hraniční a psychotické patologii",
+      "První míří na obsah snu, druhé na aktuální situaci mimo sezení",
+      "První říkají, co pacient prožívá o analytikovi, druhé o sobě samém"
+    ],
+    "correct": 3,
+    "explanation": "Interpretace centrovaná na analytika zní 'zdá se, že mě prožíváte jako…', kdežto centrovaná na pacienta říká 'vy cítíte, děláte, přejete si…'. Steiner upozorňuje, že pacienti stažení do psychického útočiště často unesou jen první typ, protože druhý prožívají jako průnik do sebe; potřebují být spíš pochopeni než dosaženi porozuměním. Volba mezi nimi je proto technické rozhodnutí podle únosnosti kontaktu, ne otázka diagnózy.",
+    "source": "John Steiner, Psychic Retreats, 1993",
+    "seedElo": 2250
+  },
+  {
+    "id": "sko-A28",
+    "type": "F",
+    "category": "skoly-autori",
+    "text": "Co Ronald Britton nazývá trojúhelníkovým prostorem?",
+    "options": [
+      "Pole mezi pacientem, analytikem a jeho supervizorem během výcviku",
+      "Prostor ze snesení rodičovského pouta: být pozorován i pozorovat",
+      "Vnitřní scénu, v níž dítě soupeří s otcem o výlučnost s matkou",
+      "Trojúhelník matka-dítě-prs, v němž se rodí první nenávist k otci"
+    ],
+    "correct": 1,
+    "explanation": "Britton tvrdí, že uznání vztahu rodičů, z něhož je dítě vyloučeno, otevírá třetí pozici: člověk může být účastníkem vztahu a zároveň jej pozorovat, případně být pozorován jinou myslí. Odtud pochází schopnost reflexe a symbolického myšlení. Kde je tato pozice nesnesitelná, vzniká to, co Britton nazývá edipální iluzí, a pacient nesnese analytikovo samostatné myšlení.",
+    "source": "Ronald Britton, The Missing Link (in The Oedipus Complex Today), 1989",
+    "seedElo": 2050
+  }
+]

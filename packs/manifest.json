@@ -19,8 +19,8 @@
   "id": "skoly",
   "file": "skoly.json",
   "title": "Školy a autoři",
-  "count": 50,
-  "version": 1,
+  "count": 100,
+  "version": 2,
   "obor": "psychoanalyza"
  },
  {
@@ -35,8 +35,8 @@
   "id": "struktura",
   "file": "struktura.json",
   "title": "Struktura a diagnostika",
-  "count": 45,
-  "version": 1,
+  "count": 100,
+  "version": 2,
   "obor": "psychoanalyza"
  },
  {

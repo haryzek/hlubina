@@ -1,0 +1,450 @@
+[
+  {
+    "id": "str-B01",
+    "type": "I",
+    "category": "struktura-diagnostika",
+    "text": "Z hlediska technické sekvence v terapii zaměřené na přenos (TFP) — jaký je náležitý sled tří základních verbálních nástrojů v rámci jedné intervence?",
+    "options": [
+      "Nejprve klarifikace nejasného materiálu, pak konfrontace rozporů, teprve poté interpretace.",
+      "Nejprve interpretace nevědomého motivu, pak klarifikace detailů, nakonec konfrontace.",
+      "Nejprve konfrontace afektu, pak interpretace obrany, teprve nakonec klarifikace obsahu.",
+      "Nejprve genetická rekonstrukce, pak klarifikace vzpomínek, teprve nakonec konfrontace."
+    ],
+    "correct": 0,
+    "explanation": "Klarifikace zjišťuje, co pacient vlastně sděluje, a vyčerpává jeho vědomé porozumění. Teprve když je materiál jasný, lze taktně poukázat na rozpory (konfrontace) a až pak nabídnout hypotézu o nevědomém významu. Interpretace vyslovená bez předchozích dvou kroků je spekulace, kterou pacient nemůže ověřit.",
+    "source": "Kernberg, Severe Personality Disorders (1984)",
+    "seedElo": 1850
+  },
+  {
+    "id": "str-B02",
+    "type": "I",
+    "category": "struktura-diagnostika",
+    "text": "Co je konfrontace v Kernbergově technickém smyslu — a co jí naopak není?",
+    "options": [
+      "Důrazné pojmenování pacientova odporu se záměrem prolomit jeho popírání.",
+      "Taktní upozornění na rozpory ve sdělení, chování a afektu pacienta.",
+      "Vyjádření terapeutovy nesouhlasné reakce na pacientovo destruktivní jednání.",
+      "Nabídnutí nevědomého významu, který pacientovy rozpory spojuje do celku."
+    ],
+    "correct": 1,
+    "explanation": "Konfrontace není agresivní ani moralizující akt; je to sesazení dvou nebo více vzájemně neslučitelných dat vedle sebe s otázkou, jak spolu souvisejí. Právě proto může být podána s laskavostí a zvědavostí. Terapeutův nesouhlas nebo výklad nevědomí jsou jiné operace.",
+    "source": "Kernberg, Severe Personality Disorders (1984)",
+    "seedElo": 1900
+  },
+  {
+    "id": "str-B03",
+    "type": "I",
+    "category": "struktura-diagnostika",
+    "text": "Z hlediska TFP — proč se u hraniční organizace osobnosti pracuje s přenosem v režimu „zde a teď“ a poměrně brzy v léčbě?",
+    "options": [
+      "Protože pacient nemá dost vzpomínek na dětství, aby šlo pracovat jinak než aktuálně.",
+      "Protože brzká práce v přenosu urychluje vznik terapeutické aliance a snižuje úzkost.",
+      "Protože primitivní objektní vztahy se aktivují intenzivně a rychle právě ve vztahu k terapeutovi.",
+      "Protože jinak by pacient interpretaci vnímal jako obvinění a předčasně by léčbu ukončil."
+    ],
+    "correct": 2,
+    "explanation": "U hraniční organizace se rozštěpené dyády projeví v přenosu s takovou intenzitou a rychlostí, že jsou bezprostředně pozorovatelné oběma stranami. Materiál je proto nejzřetelnější a nejověřitelnější v aktuálním vztahu, ne v rekonstrukci minulosti. Práce zde a teď navíc chrání rámec před zaplavením jednáním.",
+    "source": "Clarkin, Yeomans & Kernberg, Psychotherapy for Borderline Personality (2006)",
+    "seedElo": 1900
+  },
+  {
+    "id": "str-B04",
+    "type": "I",
+    "category": "struktura-diagnostika",
+    "text": "Z hlediska technické doporučené praxe — proč se genetická interpretace (propojení s dětskou minulostí) u hraniční úrovně organizace odkládá do pozdějších fází?",
+    "options": [
+      "Protože pacient si minulost pamatuje zkresleně a rekonstrukce by byla nepřesná.",
+      "Protože práce s minulostí patří výhradně do psychoanalýzy, nikoli do psychoterapie.",
+      "Protože odkaz na dětství pacienta příliš regresivně otevírá a hrozí dekompenzace.",
+      "Protože rozštěpené reprezentace nejsou integrované, takže minulost by se vykládala v podobných extrémech."
+    ],
+    "correct": 3,
+    "explanation": "Dokud jsou reprezentace self a objektu rozštěpené, není k dispozici souvislá osobní historie, do níž by šlo interpretaci zasadit — vznikla by jen další idealizovaná či perzekuční verze minulosti. Genetické propojení dává smysl až po jisté integraci identity. Do té doby má přednost práce v aktuálním přenosu.",
+    "source": "Kernberg, Severe Personality Disorders (1984)",
+    "seedElo": 1950
+  },
+  {
+    "id": "str-B05",
+    "type": "I",
+    "category": "struktura-diagnostika",
+    "text": "Z hlediska udržení rámce — jaká je hlavní strukturální funkce terapeutické smlouvy u pacienta s hraniční organizací?",
+    "options": [
+      "Právně chrání terapeuta a instituci před následky pacientova rizikového jednání.",
+      "Vytváří stabilní rámec, v němž se odchylky od dohody stanou čitelným materiálem.",
+      "Zajišťuje, aby pacient docházel pravidelně a nepřerušoval léčbu v obdobích krize.",
+      "Předem vymezuje cíle terapie, aby bylo možné měřit její výsledek a účinnost."
+    ],
+    "correct": 1,
+    "explanation": "Smlouva není administrativní ani pojistný akt: definuje podmínky, za nichž lze vůbec pozorovat a interpretovat. Jakmile je rámec jasný, každé jeho porušení či ohýbání se stává viditelnou manifestací přenosu, kterou lze zpracovat slovy. Bez rámce se tentýž materiál odehrává v jednání a mimo dosah interpretace.",
+    "source": "Yeomans, Clarkin & Kernberg, A Primer of Transference-Focused Psychotherapy (2002)",
+    "seedElo": 2000
+  },
+  {
+    "id": "str-B06",
+    "type": "I",
+    "category": "struktura-diagnostika",
+    "text": "Pacientka s opakovaným sebepoškozováním má být přijata do ambulantní expresivní léčby. Z hlediska konstrukce smlouvy — jak se má suicidální a sebepoškozující chování ošetřit?",
+    "options": [
+      "Předem se dohodne, kam se pacientka obrací v krizi, a terapeut se nestává krizovou službou.",
+      "Terapeut se zaváže být trvale telefonicky dostupný, aby udržel pacientku naživu.",
+      "Sebepoškozování se ve smlouvě nezmiňuje, aby se mu nedodával přenosový význam.",
+      "Pacientka podepíše závazek, že se nezraní, jinak bude léčba ihned ukončena."
+    ],
+    "correct": 0,
+    "explanation": "Smlouva odděluje péči o bezpečí (pohotovost, somatická péče, jasné kroky pacientky) od psychoterapeutické práce, kterou by neustálá krizová role terapeuta zničila. Terapeut se tak nestává objektem, jehož záchranné jednání lze získávat symptomem. Kontrakt musí být realistický, nikoli slibem, který nelze dodržet, ani hrozbou vyloučením.",
+    "source": "Yeomans, Clarkin & Kernberg, Transference-Focused Psychotherapy for Borderline Personality Disorder (2015)",
+    "seedElo": 2000
+  },
+  {
+    "id": "str-B07",
+    "type": "I",
+    "category": "struktura-diagnostika",
+    "text": "Z hlediska technického vedení léčby — jak se má zacházet se sekundárními zisky ze symptomu (invalidita, péče okolí, úleva od nároků)?",
+    "options": [
+      "Ponechají se stranou, protože jde o sociální realitu mimo pole psychoterapie.",
+      "Interpretují se jako nevědomá agrese vůči pečujícím osobám v pacientově okolí.",
+      "Ustoupí se jim dočasně, aby si pacient udržel motivaci setrvat v léčbě.",
+      "Omezí se už v kontraktu, protože jinak převáží nad motivací ke změně."
+    ],
+    "correct": 3,
+    "explanation": "Silné sekundární zisky činí uzdravení nevýhodným a mohou léčbu vyprázdnit dřív, než začne. Proto se s nimi zachází strukturálně: pojmenují se a ohraničí v úvodní smlouvě (například podmínkou práce, studia či strukturované činnosti). Pouhá interpretace bez změny podmínek na ně zpravidla nestačí.",
+    "source": "Kernberg, Severe Personality Disorders (1984)",
+    "seedElo": 2050
+  },
+  {
+    "id": "str-B08",
+    "type": "I",
+    "category": "struktura-diagnostika",
+    "text": "Z hlediska TFP — proč nesmí negativní přenos u hraniční organizace zůstat neinterpretovaný, i když se sezení jeví jako vřelá a spolupracující?",
+    "options": [
+      "Protože hostilita bez výkladu vede k nárůstu symptomů a k potřebě medikace.",
+      "Protože nevyslovený hněv pacienta poškozuje terapeuta a vede k jeho vyhoření.",
+      "Protože rozštěpená agrese se pak odehrává v jednání mimo sezení a léčba zůstává povrchní.",
+      "Protože nezpracovaná hostilita zabraňuje vytvoření pozitivního přenosu a spolupráce."
+    ],
+    "correct": 2,
+    "explanation": "Idealizovaný sektor přenosu bývá u hraniční organizace udržován právě tím, že agrese je odštěpena a vybíjena mimo vztah k terapeutovi — v jednání, v jiných vztazích nebo v symptomu. Nechá-li se tento sektor bez povšimnutí, terapie se stává příjemnou a neúčinnou. Interpretace agrese v přenosu je podmínkou integrace.",
+    "source": "Kernberg, Aggression in Personality Disorders and Perversions (1992)",
+    "seedElo": 2050
+  },
+  {
+    "id": "str-B09",
+    "type": "I",
+    "category": "struktura-diagnostika",
+    "text": "Z hlediska technického rozlišení — jaký je rozdíl mezi acting out a acting in a jaký má důsledek pro intervenci?",
+    "options": [
+      "Acting out je vědomé porušení pravidel, acting in nevědomé; obojí se řeší připomenutím smlouvy.",
+      "Acting out je impulzivní čin, acting in je somatizace; první se ohraničuje, druhý deleguje lékaři.",
+      "Acting out se odehrává mimo sezení, acting in přímo v něm; oboje je přenosový materiál k výkladu.",
+      "Acting out je projevem agrese, acting in projevem libidinózní touhy; liší se tématem interpretace."
+    ],
+    "correct": 2,
+    "explanation": "Rozlišení je především topologické: totéž nezvědomované odehrání se objevuje buď v pacientově životě mezi sezeními, nebo přímo ve vztahu k terapeutovi (mlčení, příchody, pohyb v místnosti, ovlivňování terapeutova jednání). Acting in je technicky cennější, protože je bezprostředně pozorovatelný a interpretovatelný. Cílem je v obou případech převést jednání do řeči.",
+    "source": "Kernberg, Severe Personality Disorders (1984)",
+    "seedElo": 2100
+  },
+  {
+    "id": "str-B10",
+    "type": "I",
+    "category": "struktura-diagnostika",
+    "text": "Z hlediska rizik techniky — proč mohou podpůrné intervence (rady, povzbuzení, přímé vedení) u pacienta s neurotickou organizací bránit odkryvné práci?",
+    "options": [
+      "Protože posilují přenos, který se pak nedá analyzovat, neboť terapeut v něm reálně jedná.",
+      "Protože pacient je zvyklý na direktivní vedení a přestane docházet na pravidelná sezení.",
+      "Protože podpora u těchto pacientů vyvolává regresi až na hraniční úroveň fungování.",
+      "Protože rada je vždy nepřesná, jelikož terapeut nezná pacientovu reálnou situaci."
+    ],
+    "correct": 0,
+    "explanation": "Podpůrné techniky pracují s přenosem tím, že jej využívají, nikoli vykládají — terapeut se stává reálnou autoritou či poskytovatelem, a přenosové zabarvení jeho jednání se pak už nedá bezpečně odlišit od reality. U pacienta s dostatečnou kapacitou k odkryvné práci tím ubývá analyzovatelného materiálu. Volba je tedy strukturálně vedená, ne podle terapeutovy vlídnosti.",
+    "source": "Kernberg, Object Relations Theory and Clinical Psychoanalysis (1976)",
+    "seedElo": 2100
+  },
+  {
+    "id": "str-B11",
+    "type": "I",
+    "category": "struktura-diagnostika",
+    "text": "Z hlediska kontraindikací — která intervence je u pacienta s psychotickou úrovní organizace osobnosti technicky nevhodná?",
+    "options": [
+      "Klarifikace toho, co pacient prožívá a jak si vysvětluje chování druhých lidí.",
+      "Interpretace bludného přesvědčení jako projekce pacientovy vlastní agrese.",
+      "Vymezení rámce léčby včetně podmínek kontaktu mezi jednotlivými sezeními.",
+      "Pojmenování odlišnosti pacientova a terapeutova pohledu na jednu situaci."
+    ],
+    "correct": 1,
+    "explanation": "Při ztrátě testování reality nemá pacient pozorující část, která by hypotézu o projekci mohla přijmout jako hypotézu — interpretace se stane další realitou a zpravidla posílí perzekuci. Pracuje se strukturujícím a klarifikujícím způsobem, s opatrným zvýrazněním rozdílu mezi dvěma pohledy. Odkrývání nevědomých významů se odkládá.",
+    "source": "Kernberg, Severe Personality Disorders (1984)",
+    "seedElo": 2050
+  },
+  {
+    "id": "str-B12",
+    "type": "I",
+    "category": "struktura-diagnostika",
+    "text": "Z hlediska rámce léčby — jakou funkci má plánovaná hospitalizace u pacienta v ambulantní expresivní psychoterapii?",
+    "options": [
+      "Nahrazuje psychoterapii po dobu krize, protože oba postupy nelze vést souběžně.",
+      "Signalizuje selhání terapie a měla by vést k předání pacienta jinému terapeutovi.",
+      "Slouží k prohloubení regrese, aby se rozštěpené sektory přenosu zpřístupnily práci.",
+      "Je předem dohodnutou součástí rámce, která umožní léčbě pokračovat i přes krizi."
+    ],
+    "correct": 3,
+    "explanation": "Hospitalizace se v TFP pojímá jako předvídaná složka struktury, nikoli jako konec nebo trest: chrání bezpečí a zároveň brání tomu, aby terapeut sám suploval nemocniční funkci. Když je dohodnuta předem, lze její použití interpretovat jako součást přenosu, ne jen jako administrativní událost. Regrese je zde vedlejším rizikem, ne cílem.",
+    "source": "Yeomans, Clarkin & Kernberg, Transference-Focused Psychotherapy for Borderline Personality Disorder (2015)",
+    "seedElo": 2000
+  },
+  {
+    "id": "str-B13",
+    "type": "I",
+    "category": "struktura-diagnostika",
+    "text": "Z hlediska TFP — co je vlastním předmětem interpretace, když pacient v jednom sezení terapeuta popisuje jako jediného chápajícího člověka a v dalším jako chladného byrokrata?",
+    "options": [
+      "Reálné chování terapeuta, které mezi sezeními patrně zavdalo příčinu ke zklamání.",
+      "Pacientovo dětské zklamání z rodiče, jehož opakováním je aktuální kolísání pocitů.",
+      "Aktuální afekt hněvu, který má být plně vyjádřen dříve, než se hledá jeho význam.",
+      "Souběžná existence obou obrazů a fakt, že pacient mezi nimi nevidí žádný rozpor."
+    ],
+    "correct": 3,
+    "explanation": "Interpretovat se má samo štěpení jako obranná operace — tedy to, že vzájemně neslučitelné obrazy koexistují bez úzkosti z rozporu. Terapeut nejprve klarifikuje a konfrontuje oba sektory vedle sebe a teprve pak nabízí, co udržování jejich oddělenosti chrání. Zaměření na jeden z obrazů (nebo na jeho dětský původ) štěpení naopak posiluje.",
+    "source": "Kernberg, Borderline Conditions and Pathological Narcissism (1975)",
+    "seedElo": 2150
+  },
+  {
+    "id": "str-B14",
+    "type": "I",
+    "category": "struktura-diagnostika",
+    "text": "Z hlediska analýzy rozštěpených sektorů přenosu — jaký je technicky správný postup, chce-li terapeut směřovat k integraci?",
+    "options": [
+      "Systematicky interpretovat idealizovaný sektor a negativní ponechat, dokud nezeslábne.",
+      "Střídavě posilovat pozitivní sektor a oslabovat negativní, aby převládl pracovní vztah.",
+      "Postupně pojmenovat každý sektor zvlášť a pak je propojit v jedné společné interpretaci.",
+      "Zaměřit se výhradně na aktuálně dominantní sektor a ostatní zcela nechat stranou."
+    ],
+    "correct": 2,
+    "explanation": "Integrace vzniká tím, že se oba oddělené vztahové scénáře nejprve stanou jasně popsatelnými (kdo je kdo, jaký afekt je mezi nimi) a teprve pak se ukáže jejich vzájemný vztah v pacientově mysli. Selektivní podpora jednoho sektoru jen prohlubuje štěpení. Interpretace propojující sektory je vrcholem, ne východiskem práce.",
+    "source": "Clarkin, Yeomans & Kernberg, Psychotherapy for Borderline Personality (2006)",
+    "seedElo": 2150
+  },
+  {
+    "id": "str-B15",
+    "type": "I",
+    "category": "struktura-diagnostika",
+    "text": "Pacient přijde po hádce s partnerkou a rozzlobeně tvrdí, že terapeutovi jde jen o honorář. Z hlediska technického postoje — čím se v této chvíli liší reakce TFP, MBT a podpůrné terapie?",
+    "options": [
+      "TFP vyloží aktivovanou dyádu, MBT nejprve zpomalí a obnoví mentalizaci, podpůrná terapie ohraničí a uklidní.",
+      "TFP vyloží dětský původ hněvu, MBT jej normalizuje a podpůrná terapie jej analyzuje v přenosu.",
+      "TFP hněv ohraničí smlouvou, MBT jej vyloží jako projekci a podpůrná terapie jej ponechá bez komentáře.",
+      "Všechny tři přístupy začínají výkladem přenosu a liší se pouze hloubkou dalšího zpracování."
+    ],
+    "correct": 0,
+    "explanation": "TFP považuje aktivovanou přenosovou dyádu za hlavní materiál a interpretuje ji zde a teď. MBT naopak předpokládá, že v afektivním vzplanutí mentalizace kolabuje, takže interpretace by nebyla zpracovatelná — nejprve se afekt zpomalí a obnoví se zvědavost k duševním stavům. Podpůrná terapie pracuje s rámcem, realitou a stabilizací, nikoli s odkrýváním.",
+    "source": "Bateman & Fonagy, Mentalization-Based Treatment for Personality Disorders (2016)",
+    "seedElo": 2200
+  },
+  {
+    "id": "str-B16",
+    "type": "V",
+    "category": "struktura-diagnostika",
+    "text": "Klientka uprostřed sezení ztuhne, mluví v absolutních jistotách o tom, co si terapeutka „očividně“ myslí, a nepřipouští jinou možnost. Z hlediska MBT — jaká je namístě reakce?",
+    "options": [
+      "Interpretovat, že klientce připisuje vlastní odmítavý postoj vůči sobě samé.",
+      "Zastavit se, snížit afektivní napětí a společně krok po kroku rekonstruovat, co se stalo.",
+      "Setrvat v tichu a nechat prožitek doznít, aby se úzkost přirozeně sama snížila.",
+      "Vysvětlit klientce, že jde o typický projev její poruchy osobnosti a přenosu."
+    ],
+    "correct": 1,
+    "explanation": "Absolutní jistota o obsahu cizí mysli je znakem prementalizačního (psychického ekvivalentního) módu, v němž je vnitřní realita totožná s vnější. Interpretace ani edukace v tomto stavu nejsou zpracovatelné a spíš eskalují. Technikou volby je „stop and rewind“: snížit vzrušení a obnovit zvědavost dřív, než se pracuje s významem.",
+    "source": "Bateman & Fonagy, Mentalization-Based Treatment for Personality Disorders (2016)",
+    "seedElo": 2200
+  },
+  {
+    "id": "str-B17",
+    "type": "I",
+    "category": "struktura-diagnostika",
+    "text": "Z hlediska volby techniky u pacienta s výraznou alexithymií a konkrétním myšlením — co má v úvodních fázích přednost?",
+    "options": [
+      "Interpretace obrany proti afektu, aby se uvolnil přístup k potlačeným pocitům.",
+      "Trpělivé rozlišování tělesných pocitů, situací a jejich pojmenování slovy.",
+      "Volné asociace bez struktury, aby se obešla pacientova racionalizující obrana.",
+      "Genetické propojení s dětstvím, které vysvětlí, proč pacient pocitům nerozumí."
+    ],
+    "correct": 1,
+    "explanation": "U alexithymického a konkrétně uvažujícího pacienta chybí nástroj, s nímž by mohl interpretaci přijmout: afekt není reprezentován slovem. Práce proto začíná budováním reprezentací — rozlišováním tělesných stavů, kontextů a pojmenování. Interpretace nabízené příliš brzy jsou přijímány doslovně, jako fakta o pacientovi.",
+    "source": "McWilliams, Psychoanalytic Diagnosis (2011)",
+    "seedElo": 2200
+  },
+  {
+    "id": "str-B18",
+    "type": "I",
+    "category": "struktura-diagnostika",
+    "text": "Terapeut zjistí, že pacientce s hraniční organizací opakovaně prodlužuje sezení a odpovídá na noční zprávy. Z hlediska práce s protipřenosem — jaký je technicky nejsprávnější krok?",
+    "options": [
+      "Sdělit pacientce svůj protipřenosový prožitek, aby se stal společným materiálem.",
+      "Pokračovat v ústupcích, dokud se pacientka nestabilizuje, a teprve pak rámec obnovit.",
+      "Ukončit léčbu a předat pacientku kolegovi, protože rámec byl nenávratně narušen.",
+      "Obnovit rámec, porozumět své roli v aktivované dyádě a její význam pak interpretovat."
+    ],
+    "correct": 3,
+    "explanation": "Protipřenosové jednání je diagnostická informace: terapeut se stal aktérem jedné strany aktivované dyády (zde pravděpodobně zachraňujícího objektu vůči bezmocnému self). Nápravou není zpověď ani útěk, ale návrat k rámci, vnitřní zpracování a interpretace toho, co se mezi nimi odehrávalo. Sdělování vlastních pocitů pacientovi na této úrovni obvykle zatěžuje spíše jeho.",
+    "source": "Kernberg, Aggression in Personality Disorders and Perversions (1992)",
+    "seedElo": 2250
+  },
+  {
+    "id": "str-B19",
+    "type": "I",
+    "category": "struktura-diagnostika",
+    "text": "Z hlediska řízení regrese — jaký je rozdíl mezi jejím zacházením u neurotické a u hraniční úrovně organizace?",
+    "options": [
+      "U neurotické úrovně se regrese v přenosu využívá, u hraniční se aktivně omezuje strukturou.",
+      "U neurotické úrovně se regrese omezuje frekvencí sezení, u hraniční se naopak podporuje.",
+      "U obou úrovní se regrese vítá stejně, liší se jen hloubka následné interpretace.",
+      "U neurotické úrovně regrese nevzniká, u hraniční je nevyhnutelná a neovlivnitelná."
+    ],
+    "correct": 0,
+    "explanation": "U neurotické organizace je kontrolovaná regrese v přenosu nosným zdrojem materiálu a pacient si udrží pozorující ego. U hraniční organizace hrozí, že regrese přejde v zaplavení, jednání či ztrátu testování reality, proto se drží na uzdě rámcem, zaměřením na zde a teď a sezením tváří v tvář. Technika se tedy volí podle struktury, nikoli podle školy.",
+    "source": "Kernberg, Severe Personality Disorders (1984)",
+    "seedElo": 2250
+  },
+  {
+    "id": "str-B20",
+    "type": "I",
+    "category": "struktura-diagnostika",
+    "text": "Z hlediska psychodynamického vedení léčby — jak se má zacházet s medikací u pacientky s hraniční organizací, která ji vnímá jako důkaz terapeutovy péče?",
+    "options": [
+      "Medikaci vysadit, protože její význam v přenosu znemožňuje odkryvnou práci.",
+      "Význam medikace neřešit, aby se nenarušila adherence a spolupráce s psychiatrem.",
+      "Indikaci vést podle klinických kritérií a její přenosový význam zároveň interpretovat.",
+      "Předepisování přenechat kolegovi a všechna témata o lécích odkázat na jeho péči."
+    ],
+    "correct": 2,
+    "explanation": "Lék je současně farmakologický nástroj a objekt v pacientčině vnitřním světě; obojí je třeba držet zároveň. Redukce na jedno z toho vede buď k ignorování významů (a k tichému odehrávání), nebo k odmítání účinné léčby ve jménu čistoty techniky. Rozdělení rolí mezi psychiatra a terapeuta je možné, ale význam medikace tím z terapie nezmizí.",
+    "source": "Gabbard, Psychodynamic Psychiatry in Clinical Practice (2014)",
+    "seedElo": 2150
+  },
+  {
+    "id": "str-B21",
+    "type": "I",
+    "category": "struktura-diagnostika",
+    "text": "Z hlediska konstrukce smlouvy u pacienta s výraznými antisociálními rysy — co je klíčovou podmínkou vůbec pro zahájení expresivní práce?",
+    "options": [
+      "Pacientova deklarovaná motivace ke změně a lítost nad dosavadním jednáním.",
+      "Souhlas s vyšší frekvencí sezení, aby se snížil prostor pro odehrávání mimo terapii.",
+      "Ověřitelnost sdělovaných informací a explicitní ošetření nepravdivosti v rámci.",
+      "Uzavření smlouvy o mlčenlivosti, aby se pacient nemusel obávat právních důsledků."
+    ],
+    "correct": 2,
+    "explanation": "Léčba stojí na tom, že terapeut ví, co se skutečně děje; u antisociálních rysů je právě tato podmínka soustavně ohrožena. Kontrakt proto zahrnuje třetí zdroje informací a explicitní dohodu, že nepravdivé sdělení se stane tématem, nikoli pozadím. Bez toho se pracuje s fikcí a čirý antisociální syndrom zůstává prognosticky nepříznivý.",
+    "source": "Kernberg, Severe Personality Disorders (1984)",
+    "seedElo": 2200
+  },
+  {
+    "id": "str-B22",
+    "type": "I",
+    "category": "struktura-diagnostika",
+    "text": "Z hlediska prognózy expresivní psychoterapie u pacientů s těžkou poruchou osobnosti — která kombinace markerů je považována za nejméně příznivou?",
+    "options": [
+      "Slabá kontrola impulzů, nízká tolerance úzkosti a chudá schopnost sublimace.",
+      "Silný negativní přenos v úvodních fázích a opakované zpochybňování terapeuta.",
+      "Chronická suicidální ideace a dlouhá anamnéza předchozích neúspěšných léčeb.",
+      "Antisociální rysy s absencí schopnosti k jakékoli nemocensky nezištné vazbě."
+    ],
+    "correct": 3,
+    "explanation": "Kernberg opakovaně uvádí kvalitu objektních vztahů, respektive přítomnost byť minimální nezištné vazby a schopnosti k vině, jako nejsilnější prognostický ukazatel — její úplná absence u antisociální osobnosti je hlavní negativní prediktor. Nespecifické projevy ego-slabosti prognózu zhoršují, ale nevylučují léčbu, jsou-li kompenzovány rámcem. Negativní přenos je naopak pracovní materiál, nikoli špatné znamení.",
+    "source": "Kernberg, Severe Personality Disorders (1984)",
+    "seedElo": 2250
+  },
+  {
+    "id": "str-B23",
+    "type": "I",
+    "category": "struktura-diagnostika",
+    "text": "Z hlediska struktury pacienta — čím se liší práce v ukončovací fázi u neurotické a u hraniční organizace?",
+    "options": [
+      "U neurotické organizace se ukončení plánuje dlouho dopředu, u hraniční se má oznámit náhle.",
+      "U neurotické převažuje truchlení a zvědomění reakcí na ztrátu, u hraniční hrozí návrat štěpení.",
+      "U neurotické organizace se závěrečná fáze zkracuje, u hraniční se prodlužuje na několik let.",
+      "U obou úrovní jde především o zhodnocení dosažených cílů a předání do následné péče."
+    ],
+    "correct": 1,
+    "explanation": "U neurotické organizace je konec typicky prací s ambivalentním smutkem a s oživením přenosových témat kolem ztráty. U hraniční organizace je hlavním rizikem reaktivace štěpení — terapeut se náhle stává buď opuštěcím pronásledovatelem, nebo je znehodnocen, aby ztráta nebolela. Právě tento pohyb je nutné předvídat a interpretovat.",
+    "source": "Clarkin, Yeomans & Kernberg, Psychotherapy for Borderline Personality (2006)",
+    "seedElo": 2150
+  },
+  {
+    "id": "str-B24",
+    "type": "I",
+    "category": "struktura-diagnostika",
+    "text": "Z hlediska funkce supervize v léčbě pacientů s těžkou poruchou osobnosti — co je jejím hlavním technickým přínosem?",
+    "options": [
+      "Obnovuje terapeutovu pozorovací pozici tam, kde byl vtažen do role v přenosové dyádě.",
+      "Poskytuje terapeutovi odborné informace o diagnostice, které v sezení nemá k dispozici.",
+      "Zajišťuje shodu postupu s manuálem, a tím zvyšuje měřitelnou věrnost dané metodě.",
+      "Umožňuje sdílet odpovědnost za rizikové pacienty a snižuje terapeutovu úzkost z rizika."
+    ],
+    "correct": 0,
+    "explanation": "Nejtypičtějším selháním u těchto pacientů není nedostatek znalostí, ale ztráta třetí pozice: terapeut nepozorovaně jedná jako jedna z pólů rozštěpené dyády. Supervize funguje jako externí místo, z něhož se scéna znovu stane pozorovatelnou. Ostatní přínosy jsou reálné, ale druhotné.",
+    "source": "Kernberg, Aggression in Personality Disorders and Perversions (1992)",
+    "seedElo": 2300
+  },
+  {
+    "id": "str-B25",
+    "type": "V",
+    "category": "struktura-diagnostika",
+    "text": "Pacient s hraniční organizací mlčí, dívá se z okna a na dotaz odpoví, že „nemá smysl nic říkat“. Terapeut cítí bezmoc a nutkání sezení zaplnit vysvětlováním. Z hlediska TFP — jaká intervence má přednost?",
+    "options": [
+      "Připomenout smluvní závazek aktivně spolupracovat a mluvit o tom, co pacienta trápí.",
+      "Nabídnout genetickou interpretaci mlčení jako opakování vztahu k nedostupné matce.",
+      "Vyčkat v tichu, aby pacient sám unesl napětí a získal zkušenost s vlastní iniciativou.",
+      "Popsat, co se právě mezi nimi děje, a pojmenovat dyádu bezmocného a odmítajícího."
+    ],
+    "correct": 3,
+    "explanation": "Mlčení je zde acting in a zároveň nejbohatší dostupný materiál: v místnosti je aktivní dyáda, jejíž jeden pól terapeut prožívá v protipřenosu. Technikou volby je popsat pozorovatelné (chování, afekt, atmosféru) a nabídnout, kdo je v této chvíli kým. Připomínání smlouvy či genetický výklad tuto scénu obcházejí, tiché vyčkávání ji nechává mimo řeč.",
+    "source": "Yeomans, Clarkin & Kernberg, Transference-Focused Psychotherapy for Borderline Personality Disorder (2015)",
+    "seedElo": 2300
+  },
+  {
+    "id": "str-B26",
+    "type": "E",
+    "category": "struktura-diagnostika",
+    "text": "Která intervence je NEJMÉNĚ vhodná z hlediska udržení rámce u pacientky, která opakovaně volá mezi sezeními a stěžuje si, že terapeutka je nedostupná?",
+    "options": [
+      "Dohodnout mimořádné kontakty vždy podle aktuální míry pacientčiny tísně a naléhavosti.",
+      "Zopakovat dohodnutá pravidla kontaktu a zkoumat význam volání v aktuálním přenosu.",
+      "Pojmenovat rozpor mezi stížností na nedostupnost a nevyužitím dohodnutého postupu.",
+      "Prozkoumat, co se dělo v sezení předcházejícím telefonátům, a spojit to s obsahem hovorů."
+    ],
+    "correct": 0,
+    "explanation": "Vázat rámec na aktuální intenzitu pacientčiny tísně znamená učinit z tísně měnu, kterou lze kupovat terapeutčinu dostupnost — rámec se stane vyjednatelným a odehrávání se posílí. Zbylé tři možnosti rámec zachovávají a zároveň jeho testování převádějí do řeči. Rámec se drží pevně, ale jeho význam se zkoumá.",
+    "source": "Yeomans, Clarkin & Kernberg, A Primer of Transference-Focused Psychotherapy (2002)",
+    "seedElo": 2350
+  },
+  {
+    "id": "str-B27",
+    "type": "V",
+    "category": "struktura-diagnostika",
+    "text": "Pacientka po třech měsících léčby chválí terapeuta jako jediného, kdo jí kdy pomohl, a zároveň mimochodem zmíní, že si opět ublížila a nikomu to neřekla. Z hlediska TFP — na co se má terapeut zaměřit nejdříve?",
+    "options": [
+      "Na sebepoškození jako porušení smlouvy, které je nutné okamžitě sankcionovat.",
+      "Na idealizaci, která podle teorie skrývá nevědomou závist vůči terapeutovi.",
+      "Na klidný vedle sebe položený rozpor mezi vřelou chválou a zamlčeným zraněním.",
+      "Na afekt smutku, který se za sebepoškozením patrně skrývá a nebyl vyjádřen."
+    ],
+    "correct": 2,
+    "explanation": "Nápadné není ani sebepoškození samo, ani chvála, ale jejich bezkonfliktní soužití v jednom sezení — klasický obraz rozštěpených sektorů. Konfrontace zde znamená položit obě sdělení vedle sebe a zeptat se, jak spolu mohou souviset, aniž by v pacientce vyvolávala napětí. Teprve z toho lze dojít k interpretaci; předčasná sankce ani domnělý skrytý afekt scénu neotevřou.",
+    "source": "Clarkin, Yeomans & Kernberg, Psychotherapy for Borderline Personality (2006)",
+    "seedElo": 2300
+  },
+  {
+    "id": "str-B28",
+    "type": "I",
+    "category": "struktura-diagnostika",
+    "text": "Z hlediska teorie technické neutrality — co znamená, když terapeut u pacienta s hraniční organizací dočasně zavede omezení kvůli ohrožujícímu jednání?",
+    "options": [
+      "Neutralita byla porušena definitivně, a proto je nutné převést léčbu do podpůrného režimu.",
+      "Neutralita byla dočasně opuštěna a po odeznění rizika se musí explicitně obnovit a zpracovat.",
+      "Neutralita zůstává zachována, neboť omezení vyplývá z předem uzavřené terapeutické smlouvy.",
+      "Neutralita se u této úrovně organizace neuplatňuje, takže se otázka jejího narušení nevynořuje."
+    ],
+    "correct": 1,
+    "explanation": "Ohrožující jednání může vyžadovat, aby terapeut z pozice stejné vzdálenosti od pacientových vnitřních instancí i reality ustoupil a jednal strukturujícím způsobem. Takový odklon je legitimní, ale nikoli neškodný: musí být pojmenován, po odeznění rizika opuštěn a jeho dopad na přenos vyložen. Bez tohoto návratu se z výjimky stane trvalý parametr léčby.",
+    "source": "Kernberg, Severe Personality Disorders (1984)",
+    "seedElo": 2350
+  }
+]

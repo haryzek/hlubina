@@ -1,0 +1,450 @@
+[
+  {
+    "id": "sko-B01",
+    "type": "F",
+    "category": "skoly-autori",
+    "text": "Co Heinz Hartmann označuje pojmem „bezkonfliktní sféra ega“?",
+    "options": [
+      "Oblast funkcí ega, jež se vyvíjejí mimo nitropsychický konflikt",
+      "Souhrn obran, které ego vytvořilo v konfliktu s pudovými nároky",
+      "Vrstvu vytěsněných obsahů, jež se konfliktu dočasně vyhnuly",
+      "Stav ega po skončení analýzy, kdy konflikty ztratily svou naléhavost"
+    ],
+    "correct": 0,
+    "explanation": "Hartmann tvrdí, že vnímání, paměť, motorika, myšlení či řeč mají vlastní vývojový kořen a nevznikají až jako výsledek střetu pudu a obrany. Tím psychoanalýzu otevřel obecné psychologii a nastolil otázku adaptace, ne jen patologie. Freud si tuto autonomii připouštěl jen okrajově.",
+    "source": "Heinz Hartmann, Ego psychology and the problem of adaptation, 1939",
+    "seedElo": 1850
+  },
+  {
+    "id": "sko-B02",
+    "type": "K",
+    "category": "skoly-autori",
+    "text": "Hartmannův pojem „sekundární autonomie“ říká, že:",
+    "options": [
+      "vrozené aparáty ega dozrávají zcela nezávisle na vlivu prostředí",
+      "funkce vzniklá v konfliktu se osamostatní a začne sloužit adaptaci",
+      "superego po vyřešení Oidipu přebírá řízení všech pudových nároků",
+      "ego si po skončení analýzy podrží náhled i bez opory v osobě analytika"
+    ],
+    "correct": 1,
+    "explanation": "Primární autonomie patří vrozeným aparátům; sekundární autonomie vzniká tam, kde se původně obranná funkce (například pořádkumilovnost z reaktivního výtvoru) „změní účelem“ a dál pracuje ve službách přizpůsobení. Hartmann tomu říká change of function. Právě tím ego psychologie odůvodňuje, proč nelze každou vlastnost redukovat na její konfliktní původ.",
+    "source": "Heinz Hartmann, Ego psychology and the problem of adaptation, 1939",
+    "seedElo": 2000
+  },
+  {
+    "id": "sko-B03",
+    "type": "F",
+    "category": "skoly-autori",
+    "text": "Formulaci „regrese ve službách ega“ zavedl Ernst Kris pro:",
+    "options": [
+      "ústup do dřívějšího vývojového bodu po traumatické zátěži",
+      "obranné znehodnocení myšlení u pacientů s psychotickou strukturou",
+      "řízený, vratný přístup k primárnímu procesu při tvorbě a humoru",
+      "dočasné selhání testování reality uprostřed přenosové neurózy"
+    ],
+    "correct": 2,
+    "explanation": "Kris ukázal, že tvůrčí proces má dvě fáze: inspirační, v níž se ego kontrolovaně otevírá primárnímu procesu, a elaborační, v níž nad materiálem znovu převezme řízení. Regrese je zde nástrojem, ne poruchou — rozhodující je její vratnost. Pojem se později stal měřítkem síly ega v psychodiagnostice.",
+    "source": "Ernst Kris, Psychoanalytic explorations in art, 1952",
+    "seedElo": 1900
+  },
+  {
+    "id": "sko-B04",
+    "type": "K",
+    "category": "skoly-autori",
+    "text": "Co Anna Freudová sleduje pomocí „vývojových linií“ ve svém diagnostickém profilu?",
+    "options": [
+      "Míru, v níž jednotlivá stadia libida odpovídají věku dítěte",
+      "Postup obran od nejarchaičtějších k nejzralejším ve zvoleném věku",
+      "Sled fixací, které předurčují budoucí neurotickou symptomatiku",
+      "Souhru pudu, ega a prostředí v dílčích oblastech zrání dítěte"
+    ],
+    "correct": 3,
+    "explanation": "Vývojová linie (například od závislosti k emoční soběstačnosti nebo od hry k práci) je vždy výslednicí pudového, egového a vnějšího činitele. Anna Freudová jimi nahradila jednorozměrné určování „fáze“ a získala nástroj pro posouzení nerovnoměrného vývoje. Diagnóza dítěte tak zní jako profil, ne jako jediná nálepka.",
+    "source": "Anna Freudová, Normalita a patologie v dětství, 1965",
+    "seedElo": 2150
+  },
+  {
+    "id": "sko-B05",
+    "type": "K",
+    "category": "skoly-autori",
+    "text": "Jak David Rapaport vymezil psychickou strukturu při své systematizaci ego psychologie?",
+    "options": [
+      "Jako trvalý útvar vzniklý identifikací se ztraceným objektem",
+      "Jako konfiguraci, která se mění pomalu ve srovnání s pudovými procesy",
+      "Jako soubor vrozených aparátů nezávislých na zkušenosti a učení",
+      "Jako hierarchii motivů, v níž vyšší patra potlačují nižší vrstvy"
+    ],
+    "correct": 1,
+    "explanation": "Rapaport definoval strukturu ryze funkčně, rychlostí změny: struktura je to, co se mění pomalu, kdežto pudová vzruchová aktivita rychle. Umožnilo mu to mluvit o strukturách bez anatomických metafor a vsadit celou teorii do jazyka obecné psychologie. Struktury pak lze uspořádat hierarchicky podle „pomalosti“.",
+    "source": "David Rapaport, The structure of psychoanalytic theory: a systematizing attempt, 1960",
+    "seedElo": 2300
+  },
+  {
+    "id": "sko-B06",
+    "type": "F",
+    "category": "skoly-autori",
+    "text": "Co Erik Erikson míní „psychosociálním moratoriem“?",
+    "options": [
+      "Zastavení vývoje identity vlivem předčasného převzetí rolí",
+      "Období, kdy jedinec odmítá jakoukoli nabízenou společenskou roli",
+      "Přerušení analýzy dospívajícího, dokud neodezní bouřlivost pubescence",
+      "Společností povolený odklad závazků, v němž se identita zkouší"
+    ],
+    "correct": 3,
+    "explanation": "Moratorium je institucionalizovaná prodleva (studium, cestování, hledání), během níž smí mladý člověk experimentovat s rolemi, aniž by ho volby definitivně zavazovaly. Erikson je považuje za normativní podmínku zrání identity, ne za patologii. Předčasné uzavření identity bez moratoria označuje jako foreclosure.",
+    "source": "Erik H. Erikson, Identita: mládí a krize, 1968",
+    "seedElo": 1900
+  },
+  {
+    "id": "sko-B07",
+    "type": "K",
+    "category": "skoly-autori",
+    "text": "Proč bývá znovusbližovací krize (rapprochement) u Mahlerové spojována s hraniční patologií?",
+    "options": [
+      "Naráží v ní potřeba autonomie na potřebu blízkosti a hrozí trvalé štěpení",
+      "Dítě v ní poprvé prožívá úzkost z cizích lidí a fixuje se na matku",
+      "Poprvé se v ní ustavuje konstantní objekt a s ním i vytěsnění",
+      "Vrcholí v ní symbiotická fáze, jejíž selhání vede přímo k psychóze"
+    ],
+    "correct": 0,
+    "explanation": "Kolem 15.–24. měsíce batole střídá odbíhání a zoufalé lpění; matka je zároveň potřebná i překážející. Selže-li mateřská dostupnost, zůstanou „dobrý“ a „zlý“ obraz objektu neintegrované a Mahlerová v tom vidí vývojovou předlohu hraniční organizace. Konstantní objekt se ustavuje až v následující, čtvrté subfázi.",
+    "source": "Margaret Mahlerová, Fred Pine a Anni Bergmanová, Psychologické zrození lidského dítěte, 1975",
+    "seedElo": 2050
+  },
+  {
+    "id": "sko-B08",
+    "type": "K",
+    "category": "skoly-autori",
+    "text": "Čím Edith Jacobsonová vysvětluje psychotickou depresi především?",
+    "options": [
+      "Regresí libida na orální úroveň s obratem agrese proti objektu",
+      "Ztrátou vnějšího objektu, po níž nastupuje manická obrana",
+      "Splynutím reprezentací self a objektu, jež ruší jejich hranice",
+      "Přísností superega, které trestá ego za nepřiznanou nenávist"
+    ],
+    "correct": 2,
+    "explanation": "Jacobsonová zavedla dvojici pojmů self-reprezentace a objektní reprezentace jako obsahy uvnitř ega. Zatímco u neurotické deprese zůstávají hranice zachovány, u psychotické se reprezentace slévají a pacient prožívá znehodnocení objektu jako zkázu vlastního self. Tím připravila půdu pro Kernbergovo strukturální rozlišení úrovní organizace.",
+    "source": "Edith Jacobsonová, The self and the object world, 1964",
+    "seedElo": 2200
+  },
+  {
+    "id": "sko-B09",
+    "type": "F",
+    "category": "skoly-autori",
+    "text": "Které tři jevy popsal René Spitz jako „organizátory“ psychiky raného věku?",
+    "options": [
+      "Sání, uchopování a chůzi jako motorické milníky ega",
+      "Úsměv, řeč a symbolickou hru zhruba do konce druhého roku",
+      "Rozpoznání matčina hlasu, pláč a protest při odloučení",
+      "Nespecifický úsměv, úzkost z cizích osob a gesto „ne“"
+    ],
+    "correct": 3,
+    "explanation": "Spitz chápal tyto tři indikátory (kolem 3. měsíce, 8. měsíce a 15. měsíce) jako viditelné znaky reorganizace celého psychického aparátu, ne jako izolované dovednosti. Osmiměsíční úzkost dokládá, že dítě rozlišuje libidinózní objekt od cizího. Gesto „ne“ je podle něj první abstrakcí a základem sémantické komunikace.",
+    "source": "René Spitz, No and Yes, 1957; The first year of life, 1965",
+    "seedElo": 2000
+  },
+  {
+    "id": "sko-B10",
+    "type": "K",
+    "category": "skoly-autori",
+    "text": "Čím se u Spitze liší anaklitická deprese od hospitalismu?",
+    "options": [
+      "Anaklitická deprese je vratná při návratu matky, hospitalismus už ne",
+      "Anaklitická deprese vzniká bez matky od narození, hospitalismus později",
+      "Anaklitická deprese je porucha spánku, hospitalismus porucha příjmu potravy",
+      "Anaklitická deprese postihuje starší děti, hospitalismus kojence do půl roku"
+    ],
+    "correct": 0,
+    "explanation": "Anaklitickou depresi Spitz pozoroval u kojenců odloučených od matky po dobré rané vazbě zhruba ve druhé polovině prvního roku; při návratu matky do tří měsíců obraz odezníval. Trvá-li deprivace déle, přechází do hospitalismu s marasmem, zaostáváním a vysokou úmrtností, který už reverzibilní není. Rozdíl je tedy dán délkou deprivace a předchozí zkušeností s objektem.",
+    "source": "René Spitz, Anaclitic depression, The Psychoanalytic Study of the Child, 1946",
+    "seedElo": 2150
+  },
+  {
+    "id": "sko-B11",
+    "type": "F",
+    "category": "skoly-autori",
+    "text": "Co Daniel Stern označuje zkratkou RIGs?",
+    "options": [
+      "Rané introjekty generalizované do trvalých obrazů rodičů",
+      "Zobecněné reprezentace opakovaných interakcí s pečovatelem",
+      "Regulační gesta, jimiž kojenec tlumí přebytek vzrušení",
+      "Vnitřní pracovní modely vazby měřené v Cizí situaci"
+    ],
+    "correct": 1,
+    "explanation": "Representations of Interactions that have been Generalized jsou zprůměrované epizody prožité s druhým, uložené v předsymbolické paměti. Aktivují se jako „evokovaný společník“ a tvoří stavební kámen jádrového self ve vztahu. Stern jimi nahrazuje představu introjektu jako zvnitřněné osoby.",
+    "source": "Daniel Stern, Interpersonální svět dítěte, 1985",
+    "seedElo": 2100
+  },
+  {
+    "id": "sko-B12",
+    "type": "K",
+    "category": "skoly-autori",
+    "text": "Čím se u Sterna „vitální afekty“ liší od kategoriálních emocí?",
+    "options": [
+      "Jsou vrozené a univerzálně čitelné ve výrazu tváře kojence",
+      "Objevují se až po prvním roce spolu se symbolickou funkcí",
+      "Zachycují průběhovou kvalitu prožitku, jeho tvar v čase",
+      "Týkají se výhradně vztahu k neživým předmětům a hračkám"
+    ],
+    "correct": 2,
+    "explanation": "Vitální afekty se popisují slovy jako vzedmutí, vyprchání, výbuch či táhlost — jde o dynamické obrysy, ne o radost či hněv. Právě na této úrovni probíhá afektivní ladění (attunement), kdy matka odpoví v jiné smyslové modalitě, ale se stejným časovým tvarem. Dítě tím zjišťuje, že sdílený není chování, nýbrž vnitřní stav.",
+    "source": "Daniel Stern, Interpersonální svět dítěte, 1985",
+    "seedElo": 2200
+  },
+  {
+    "id": "sko-B13",
+    "type": "K",
+    "category": "skoly-autori",
+    "text": "Co Boston Change Process Study Group míní „momentem setkání“?",
+    "options": [
+      "Okamžik, kdy pacient poprvé přijme analytikovu úplnou interpretaci",
+      "Vzájemné mlčení, jež umožní vynořit se dosud vytěsněné vzpomínce",
+      "Krátký sdílený akt, jenž mění implicitní vztahové vědění dvojice",
+      "Chvíli, kdy protipřenos analytika splyne s pacientovou projekcí"
+    ],
+    "correct": 2,
+    "explanation": "Skupina rozlišuje deklarativní vědění, na něž míří interpretace, a implicitní vztahové vědění o tom, „jak se s tímhle člověkem bývá“. Moment setkání je nepředvídatelná, autenticky osobní odpověď v okamžiku krize vztahu, po níž se implicitní registr přeuspořádá. Odtud jejich formulace o „něčem víc než interpretaci“.",
+    "source": "Daniel Stern, Louis Sander, Jeremy Nahum a kol., Non-interpretive mechanisms in psychoanalytic therapy, 1998",
+    "seedElo": 2300
+  },
+  {
+    "id": "sko-B14",
+    "type": "F",
+    "category": "skoly-autori",
+    "text": "Jak Greenberg a Mitchell rozdělili psychoanalytické teorie v knize Object Relations in Psychoanalytic Theory?",
+    "options": [
+      "Na model pudu a struktury a model vztahu a struktury jako neslučitelné",
+      "Na školu vídeňskou, budapešťskou a britskou podle místa jejich vzniku",
+      "Na teorie jednoosobní a dvouosobní podle počtu účastníků léčby",
+      "Na klasickou metapsychologii a hermeneutiku podle typu důkazu"
+    ],
+    "correct": 0,
+    "explanation": "Autoři tvrdí, že jde o dvě nesouměřitelná paradigmata: buď je člověk tvor hledající vybití pudu a vztahy jsou prostředkem, nebo je od počátku tvorem vztahovým a pud je organizován uvnitř vztahu. Teoretiky jako Fairbairn řadí do druhého modelu, Klein a Kohuta považují za smíšené. Kniha z roku 1983 dala relační škole její název a pojmovou mapu.",
+    "source": "Jay Greenberg a Stephen Mitchell, Object relations in psychoanalytic theory, 1983",
+    "seedElo": 2050
+  },
+  {
+    "id": "sko-B15",
+    "type": "K",
+    "category": "skoly-autori",
+    "text": "Které tvrzení nejlépe vystihuje Mitchellovo relační pojetí mysli?",
+    "options": [
+      "Vztahy jsou dráhou, po níž si pud hledá cestu k uspokojení",
+      "Mysl je uzavřený systém, jejž vztahy pouze druhotně modifikují",
+      "Nevědomí tvoří vytěsněná přání a je tedy svou povahou předvztahové",
+      "Mysl je utvářena a udržována polem vztahových konfigurací"
+    ],
+    "correct": 3,
+    "explanation": "Mitchell nechápe vztahovost jako doplněk k pudové teorii, ale jako její náhradu: to, co se opakuje, nejsou vybíjené pudy, nýbrž vzorce sebe-a-druhého, jimiž si člověk udržuje kontinuitu. Terapie proto necílí na odkrytí skrytého přání, ale na proměnu vztahové matrice. Pud se v jeho pojetí stává jedním z významů, které vztah nabývá.",
+    "source": "Stephen A. Mitchell, Relational concepts in psychoanalysis, 1988",
+    "seedElo": 2150
+  },
+  {
+    "id": "sko-B16",
+    "type": "K",
+    "category": "skoly-autori",
+    "text": "Jak Lewis Aron rozlišuje mutualitu a symetrii v analytickém vztahu?",
+    "options": [
+      "Vztah je symetrický v přenosu, ale nesymetrický v protipřenosu",
+      "Vztah je vzájemný, přesto rolemi a odpovědností zůstává asymetrický",
+      "Vzájemnost mizí, jakmile analytik připustí vlastní subjektivitu",
+      "Symetrie je cílem léčby, mutualita jen jejím počátečním stavem"
+    ],
+    "correct": 1,
+    "explanation": "Aron trvá na tom, že pacient analytika neustále pozoruje, ovlivňuje a vykládá — v tomto smyslu jde o setkání dvou subjektivit. Z toho ale neplyne rovnost: rámec, honorář, odbornost i odpovědnost zůstávají nesouměrné. Splétání mutuality s rovností podle něj vede k naivnímu odbourávání rámce.",
+    "source": "Lewis Aron, A meeting of minds: mutuality in psychoanalysis, 1996",
+    "seedElo": 2150
+  },
+  {
+    "id": "sko-B17",
+    "type": "K",
+    "category": "skoly-autori",
+    "text": "Co Jessica Benjaminová označuje jako komplementaritu „doer/done-to“?",
+    "options": [
+      "Uvíznutí dvojice v rolích pachatele a oběti bez prostoru pro uznání",
+      "Střídání aktivní a pasivní pozice, jež zdravě rytmizuje průběh léčby",
+      "Přenos, v němž pacient jedná roli rodiče a analytik roli dítěte",
+      "Fázi, kdy pacient poprvé unese analytikovu odlišnou subjektivitu"
+    ],
+    "correct": 0,
+    "explanation": "V komplementární pozici může být subjektem jen jeden a druhý se nutně stává objektem jeho jednání; role se sice převracejí, ale ze struktury se nevystoupí. Benjaminová tomu staví do protikladu intersubjektivní pozici, v níž se dva subjekty vzájemně uznávají, a mluví o „třetím“ jako o sdíleném prostoru, který tuto polaritu rozpouští. Analytik podle ní vystupuje z komplementarity především přiznáním vlastního podílu.",
+    "source": "Jessica Benjaminová, Beyond doer and done to: an intersubjective view of thirdness, 2004",
+    "seedElo": 2200
+  },
+  {
+    "id": "sko-B18",
+    "type": "F",
+    "category": "skoly-autori",
+    "text": "Co znamená „intimní hrana“ (intimate edge) u Darlene Ehrenbergové?",
+    "options": [
+      "Bod, za nímž se analytické sezení mění v sexualizovaný přenos",
+      "Hranice, kterou analytik chrání abstinencí a mlčením o sobě",
+      "Krajní bod možného kontaktu, kde se dvojice právě ještě setkává",
+      "Okamžik, kdy pacient vstupuje do disociovaného stavu sebeprožití"
+    ],
+    "correct": 2,
+    "explanation": "Ehrenbergová umisťuje terapeutickou práci na pohyblivé rozhraní, kde je vzájemné uvědomění nejvyšší a zároveň nejrizikovější. Analytik zde selektivně sdílí, co v něm interakce vyvolává, aby zpřístupnil to, co se mezi nimi právě děje. Tato technika patří k mezníkům interpersonálně-relačního odklonu od anonymity analytika.",
+    "source": "Darlene Ehrenbergová, The intimate edge: extending the reach of psychoanalytic interaction, 1992",
+    "seedElo": 2300
+  },
+  {
+    "id": "sko-B19",
+    "type": "K",
+    "category": "skoly-autori",
+    "text": "Čím se v teorii Fonagyho a Targetové liší psychická ekvivalence od modu předstírání?",
+    "options": [
+      "V ekvivalenci je vnitřek zcela oddělen od reality, v předstírání s ní splývá",
+      "V ekvivalenci vnitřní prožitek splývá s realitou, v předstírání je od ní odpojen",
+      "Ekvivalence patří dospívání, kdežto modus předstírání ranému batolecímu věku",
+      "Ekvivalence je obranou proti afektu, předstírání je obranou proti vazbě"
+    ],
+    "correct": 1,
+    "explanation": "V psychické ekvivalenci platí „co cítím, to je“ — myšlenka má váhu skutečnosti, proto je prožitek děsivě konkrétní. V modu předstírání naopak vnitřní svět běží bez opory ve skutečnosti, což se klinicky projeví jako mnohomluvná pseudomentalizace bez afektu. Integrace obou linií kolem čtvrtého roku ústí v mentalizaci; u hraniční patologie oba archaické mody přetrvávají.",
+    "source": "Peter Fonagy a Mary Targetová, Playing with reality, International Journal of Psychoanalysis, 1996",
+    "seedElo": 2050
+  },
+  {
+    "id": "sko-B20",
+    "type": "K",
+    "category": "skoly-autori",
+    "text": "Co tvoří jádro dialektického konstruktivismu Irwina Z. Hoffmana?",
+    "options": [
+      "Analytikova neutralita zaručuje, že se význam nezkresluje jeho osobou",
+      "Význam je dán pacientovou minulostí a analytik jej pouze odkrývá",
+      "Rituál analytického rámce má být nahrazen plnou spontánností setkání",
+      "Význam vzniká v napětí mezi rituálem rámce a spontánností setkání"
+    ],
+    "correct": 3,
+    "explanation": "Hoffman tvrdí, že analytická situace čerpá sílu z trvalého napětí mezi asymetrickým, ritualizovaným rámcem a okamžiky osobní, neplánované odpovědi. Ani jeden pól nelze zrušit: bez rituálu ztrácí spontánnost váhu a bez spontánnosti se rituál mění v prázdnou techniku. Význam je proto konstruován, nikoli nalezen, ale konstrukce není libovolná.",
+    "source": "Irwin Z. Hoffman, Ritual and spontaneity in the psychoanalytic process, 1998",
+    "seedElo": 2250
+  },
+  {
+    "id": "sko-B21",
+    "type": "F",
+    "category": "skoly-autori",
+    "text": "Co Robert Stolorow kritizuje jako „mýtus izolované mysli“?",
+    "options": [
+      "Představu, že nevědomí lze zpřístupnit bez pomoci druhého člověka",
+      "Názor, že terapeut má pracovat bez supervize a vlastní analýzy",
+      "Tezi, že vytěsnění je individuální akt bez sociálních podmínek",
+      "Předpoklad mysli jako entity oddělené od pole, v němž se utváří"
+    ],
+    "correct": 3,
+    "explanation": "Stolorow a Atwood pokládají karteziánskou mysl uzavřenou v lebce za kulturní mýtus, který si psychoanalýza nekriticky osvojila. Proti němu staví intersubjektivní pole: prožitek vzniká vždy na průsečíku dvou organizujících subjektivit, a proto ani přenos, ani protipřenos nelze umístit do jednoho člověka. Analytikova subjektivita tedy není šumem, který by šlo odfiltrovat.",
+    "source": "Robert Stolorow a George Atwood, Contexts of being, 1992",
+    "seedElo": 2150
+  },
+  {
+    "id": "sko-B22",
+    "type": "K",
+    "category": "skoly-autori",
+    "text": "Co Philip Bromberg vyjadřuje obratem „standing in the spaces“?",
+    "options": [
+      "Analytikovo mlčení v mezerách mezi pacientovými asociacemi",
+      "Schopnost pohybovat se mezi mnohostí self bez ztráty souvislosti",
+      "Trpělivé setrvání terapeuta v prázdnotě, kterou mu pacient nabízí",
+      "Práci na hranici vědomí a předvědomí pomocí volných asociací"
+    ],
+    "correct": 1,
+    "explanation": "Bromberg pokládá zdraví za schopnost stát v prostorech mezi vlastními stavy self a přitom cítit, že jde o jednoho člověka. Traumatická disociace tuto pohyblivost ruší a jednotlivé stavy se od sebe izolují. Léčba tedy nesměřuje k odkrytí vytěsněného obsahu, ale k rozšíření možnosti obývat víc stavů zároveň.",
+    "source": "Philip Bromberg, Standing in the spaces: essays on clinical process, trauma and dissociation, 1998",
+    "seedElo": 2100
+  },
+  {
+    "id": "sko-B23",
+    "type": "F",
+    "category": "skoly-autori",
+    "text": "Co v Cizí situaci označili Main a Solomonová jako typ D?",
+    "options": [
+      "Chování bez ucelené strategie, rozporuplné či zamrzlé",
+      "Vyhýbavé chování, v němž dítě po návratu matku zjevně ignoruje",
+      "Ambivalentní chování s dlouhým, obtížně utišitelným protestem",
+      "Jisté chování, jež se rozpadá pouze při opakované separaci"
+    ],
+    "correct": 0,
+    "explanation": "Dezorganizovaná kategorie vznikla z videozáznamů, které se nedařilo zařadit do A, B ani C: dítě k rodiči přistupuje pozpátku, tuhne uprostřed pohybu nebo současně vyhledává i uniká. Main to vysvětluje tím, že pečovatel je zároveň zdrojem útěchy i zdrojem strachu, takže vazebný systém nemá řešení. V AAI dospělých této kategorii odpovídá klasifikace unresolved/disorganized podle trhlin v uvažování o ztrátě či traumatu.",
+    "source": "Mary Main a Judith Solomonová, Discovery of an insecure-disorganized/disoriented attachment pattern, 1986",
+    "seedElo": 2100
+  },
+  {
+    "id": "sko-B24",
+    "type": "K",
+    "category": "skoly-autori",
+    "text": "Co Fonagy míní „epistemickou důvěrou“ a proč ji pokládá za terapeuticky klíčovou?",
+    "options": [
+      "Důvěru ve vlastní paměť, bez níž nelze rekonstruovat rané trauma",
+      "Víru pacienta v účinnost metody, jež působí jako placebo efekt",
+      "Otevřenost přijmout sdělení druhého jako osobně relevantní",
+      "Přesvědčení terapeuta, že pacientova výpověď je věcně pravdivá"
+    ],
+    "correct": 2,
+    "explanation": "Fonagy s Allisonovou tvrdí, že raná zkušenost s nespolehlivými pečovateli vede k epistemické nedůvěře, tedy uzavření kanálu pro sociální učení; člověk pak nedokáže využít nic, co mu druzí nabízejí. Terapeutův přesný mentalizující zájem funguje jako ostenzivní signál („mluvím právě o tobě“), který kanál znovu otevře. Léčebný účinek pak nespočívá jen v sezeních, ale v obnovené schopnosti učit se z běžného sociálního světa.",
+    "source": "Peter Fonagy a Elizabeth Allisonová, The role of mentalizing and epistemic trust in the therapeutic relationship, 2014",
+    "seedElo": 2200
+  },
+  {
+    "id": "sko-B25",
+    "type": "K",
+    "category": "skoly-autori",
+    "text": "V čem se technika MBT liší od TFP u hraniční poruchy osobnosti?",
+    "options": [
+      "MBT pracuje s přenosem interpretačně, TFP se přenosu záměrně vyhýbá",
+      "MBT je časově neomezená, TFP naopak vždy pracuje v pevném limitu",
+      "MBT posiluje mentalizaci a přenos nevykládá, TFP jej interpretuje",
+      "MBT stojí na kontraktu a hierarchii témat, TFP na volné asociaci"
+    ],
+    "correct": 2,
+    "explanation": "MBT považuje interpretaci nevědomého významu za rizikovou, protože v hyperaktivovaném vazebném stavu mentalizace kolabuje; terapeut proto zpomaluje, ověřuje prožitek a nanejvýš používá „mentalizování přenosu“ jako společné zkoumání, nikoli jako výklad. TFP naopak systematicky interpretuje aktivované dyády sebe-a-objektu tady a teď a cílí na integraci štěpení. Kontrakt a hierarchie priorit jsou přitom rysem TFP, nikoli MBT.",
+    "source": "Anthony Bateman a Peter Fonagy, Mentalization-based treatment, 2004; Yeomans, Clarkin a Kernberg, Transference-focused psychotherapy, 2015",
+    "seedElo": 2250
+  },
+  {
+    "id": "sko-B26",
+    "type": "K",
+    "category": "skoly-autori",
+    "text": "Co tvoří jádro Grünbaumovy kritiky psychoanalýzy spjaté s „tally argumentem“?",
+    "options": [
+      "Psychoanalýza je nevyvratitelná, tedy podle Popperova kritéria nevědecká",
+      "Volné asociace nelze zopakovat, a proto nemají žádnou důkazní hodnotu",
+      "Analytické výklady jsou hermeneutikou, nikoli kauzálním vysvětlením",
+      "Klinická data nedokládají výklady, protože sugesce nebyla vyloučena"
+    ],
+    "correct": 3,
+    "explanation": "Grünbaum rekonstruuje Freudovu obranu proti námitce sugesce: jen výklad, který „souhlasí“ se skutečností, prý vede k trvalému uzdravení. Tento argument by fungoval, kdyby platilo, že analýza je nutnou podmínkou uzdravení a náhled jeho příčinou — a právě to podle Grünbauma nelze doložit z kliniky, nýbrž jen mimoklinickým výzkumem. Popperovu námitku nefalzifikovatelnosti přitom sám odmítá jako mylnou, protože analytické hypotézy testovatelné jsou.",
+    "source": "Adolf Grünbaum, The foundations of psychoanalysis: a philosophical critique, 1984",
+    "seedElo": 2350
+  },
+  {
+    "id": "sko-B27",
+    "type": "K",
+    "category": "skoly-autori",
+    "text": "Co Mark Solms tvrdí o vztahu afektu a vědomí?",
+    "options": [
+      "Vědomí vzniká v korových sítích a afekt je jeho druhotným zabarvením",
+      "Jádro vědomí je afektivní a má původ ve strukturách mozkového kmene",
+      "Afekty jsou naučené kategorie bez vlastního nervového podkladu",
+      "Vědomí je epifenomén, takže afekt nemá kauzální vliv na chování"
+    ],
+    "correct": 1,
+    "explanation": "Solms navazuje na Pankseppa a obrací obvyklé pořadí: základní formou vědomí není percepce či kognice, nýbrž cítění, jehož zdrojem jsou struktury horního mozkového kmene, zejména periakveduktální šeď. Opírá se mimo jiné o hydranencefalické děti, které postrádají kůru, a přesto vykazují afektivní reakce. Afekt je v tomto pojetí měřítkem homeostatické odchylky, a tedy motorem chování.",
+    "source": "Mark Solms, The hidden spring: a journey to the source of consciousness, 2021",
+    "seedElo": 2350
+  },
+  {
+    "id": "sko-B28",
+    "type": "F",
+    "category": "skoly-autori",
+    "text": "Co doložil Jonathan Shedler ve svém přehledu účinnosti psychodynamické terapie?",
+    "options": [
+      "Účinky jsou srovnatelné s jinými terapiemi a po skončení rostou",
+      "Účinky jsou nižší než u KBT a vyprchají krátce po ukončení léčby",
+      "Účinky se prokázaly jen u depresí, nikoli u poruch osobnosti",
+      "Účinky mizí zhruba do dvou let, pokud nepokračuje docházka"
+    ],
+    "correct": 0,
+    "explanation": "Shedler shrnul metaanalýzy a ukázal velikosti účinku srovnatelné s terapiemi považovanými za empiricky podložené. Zdůraznil přitom nález, který nazývá sleeper effect: přínos psychodynamické léčby se při katamnézách dále zvětšuje, což vysvětluje působením zahájených vnitřních procesů. Článek zároveň upozornil, že účinné složky jiných terapií se často kryjí s psychodynamickou technikou.",
+    "source": "Jonathan Shedler, The efficacy of psychodynamic psychotherapy, American Psychologist, 2010",
+    "seedElo": 1950
+  }
+]

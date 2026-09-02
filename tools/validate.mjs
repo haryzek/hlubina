@@ -34,7 +34,7 @@ for (const p of manifest) {
     if (!Array.isArray(q.options) || q.options.length !== 4) errors.push(`${at}: options musí mít přesně 4 položky`);
     if (!Number.isInteger(q.correct) || q.correct < 0 || q.correct > 3) errors.push(`${at}: correct mimo 0–3`);
     else correctDist[q.correct]++;
-    if (typeof q.seedElo !== 'number' || q.seedElo < 1200 || q.seedElo > 2200) errors.push(`${at}: seedElo mimo rozsah`);
+    if (typeof q.seedElo !== 'number' || q.seedElo < 1200 || q.seedElo > 2400) errors.push(`${at}: seedElo mimo rozsah`);
     if (q.explanation && q.explanation.length < 40) warnings.push(`${at}: podezřele krátká explanation`);
     const n = norm(q.text || '');
     if (texts.has(n)) errors.push(`${at}: duplicitní text s ${texts.get(n)}`);

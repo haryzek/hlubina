@@ -1,0 +1,98 @@
+[
+  {
+    "id": "str-C01",
+    "type": "V",
+    "category": "struktura-diagnostika",
+    "text": "Muž (42) přichází tři týdny po náhlé smrti otce v nápadně povznesené náladě, mluví rychle a rozjíždí tři nové projekty. Které kritérium podle McWilliamsové nejspolehlivěji odliší hypomanickou obranu od skutečné vitality?",
+    "options": [
+      "Tempo řeči a množství plánů — čím vyšší tempo, tím spolehlivější známka obranné povahy nálady.",
+      "Rodinná zátěž bipolární poruchou, která z povznesené nálady činí především biologický jev.",
+      "Nedostupnost smutku a znehodnocení ztráty — vitalita ztrátu unese, obrana ji musí popřít.",
+      "Trvání nálady déle než čtyři dny vkuse, což je hranice mezi hypomanií a běžným rozpoložením."
+    ],
+    "correct": 2,
+    "explanation": "Hypomanická obrana je útěkem před truchlením: ztráta se nezpracovává, nýbrž se zlehčí a nahradí pohybem vpřed. Skutečná vitalita naopak smutek nevylučuje — člověk může být plný energie a přitom mít k ztrátě přístup. Diagnostickým vodítkem tedy není intenzita nálady, ale to, zda je afekt zármutku dosažitelný, nebo systematicky obcházen.",
+    "source": "McWilliams, Psychoanalytic Diagnosis (2011)",
+    "seedElo": 1950
+  },
+  {
+    "id": "str-C02",
+    "type": "V",
+    "category": "struktura-diagnostika",
+    "text": "Žena (35) s ulcerózní kolitidou líčí v hodině minutu po minutě, co dělala v práci; na dotaz po prožitku odpoví „normální“ a pokračuje ve výčtu. Co je podle pařížské psychosomatické školy (Marty, de M'Uzan) jádrem operatorního myšlení?",
+    "options": [
+      "Chudoba fantazijního života a lpění na konkrétní faktičnosti, kdy afekt není spojen se symbolem.",
+      "Vytěsnění konkrétní traumatické vzpomínky, jejíž návrat by obnovil bohatý fantazijní život.",
+      "Vědomé zatajování emocí před terapeutkou z obavy, že by projevená slabost ohrozila kariéru.",
+      "Rozštěp idealizovaného a znehodnoceného objektu, jenž brání vzniku celistvé reprezentace."
+    ],
+    "correct": 0,
+    "explanation": "Pensée opératoire není odpor ani zatajování, nýbrž faktická plochost duševního života: řeč se drží věcí a úkonů, chybí sny, fantazie i afektivní zabarvení vztahu k terapeutovi. Alexithymii tak lépe chápeme jako deficit symbolizace než jako obranu proti známému obsahu. Klinicky to mění techniku — konfrontace „vy něco skrýváte“ míjí cíl.",
+    "source": "Marty a de M'Uzan, La pensée opératoire (1963); Nemiah a Sifneos",
+    "seedElo": 2050
+  },
+  {
+    "id": "str-C03",
+    "type": "V",
+    "category": "struktura-diagnostika",
+    "text": "Reflektivní funkce se hodnotí jako dimenze, nikoli jako přítomnost či nepřítomnost. Co podle Fonagyho a Targetové odlišuje nízkou RF od tzv. hyperaktivní pseudomentalizace, ačkoli obojí skóruje na škále nízko?",
+    "options": [
+      "Nízká RF se pojí s dezorganizovanou vazbou, pseudomentalizace výhradně s vazbou vyhýbavou.",
+      "Nízká RF se ukáže jen ve vyprávění o dětství, pseudomentalizace jen v popisu aktuálního vztahu.",
+      "Nízká RF je stavově proměnlivá pod afektem, pseudomentalizace je rysem stabilním napříč situacemi.",
+      "Nízká RF nabízí o duševních stavech málo; pseudomentalizace mnoho, ale bez opory v prožitku."
+    ],
+    "correct": 3,
+    "explanation": "Nízká RF se projeví strohostí, konkrétností a vyhýbáním se duševním stavům. Pseudomentalizace naopak chrlí psychologické výklady druhých, které však nejsou vázány na afektivní zkušenost a nelze je revidovat — jde o mentalizaci v jazyce bez mentalizace v prožitku. Skóre je proto v obou případech nízké, ale klinický obraz i technika se liší.",
+    "source": "Fonagy a Target, Reflective Functioning Manual (1998); Bateman a Fonagy, MBT",
+    "seedElo": 2100
+  },
+  {
+    "id": "str-C04",
+    "type": "V",
+    "category": "struktura-diagnostika",
+    "text": "Terapeutka se u pacienta opakovaně přistihne v roli přísného, netrpělivého soudce, ačkoli takto s jinými nereaguje. Jak toto vodítko číst podle Rackerova rozlišení a Kernbergova užití protipřenosu jako diagnostického nástroje?",
+    "options": [
+      "Konkordantní identifikace s pacientovým prožitkem svědčí o nižší, hraniční úrovni organizace.",
+      "Jde o komplementární identifikaci s vnitřním objektem; její síla ukazuje k nižší úrovni.",
+      "Protipřenos je zde artefaktem terapeutčiny historie a diagnosticky se s ním pracovat nemá.",
+      "Jde o konkordantní identifikaci, jejíž prudkost svědčí o neurotické úrovni s integrovaným Já."
+    ],
+    "correct": 1,
+    "explanation": "Konkordantní identifikace znamená, že terapeut prožívá totéž co pacientovo Já; komplementární, že se ocitá v roli pacientova vnitřního objektu. Kernberg upozorňuje, že u níže organizovaných pacientů je protipřenos rychlejší, intenzivnější a spíše komplementární, protože jej nese projektivní identifikace. Síla a role, do níž je terapeut vtažen, jsou proto diagnostickým údajem, nikoli chybou.",
+    "source": "Racker, Transference and Countertransference (1968); Kernberg (1984)",
+    "seedElo": 2150
+  },
+  {
+    "id": "str-C05",
+    "type": "V",
+    "category": "struktura-diagnostika",
+    "text": "Při indikačním posouzení zvažujeme odkryvnou (expresivní) terapii místo podpůrné. Které vodítko nejlépe predikuje dobrý průběh odkryvné práce — tedy kritérium opakovaně podpořené výzkumem i klinickou tradicí?",
+    "options": [
+      "Kvalita dosavadních vztahů a schopnost snést zklamání bez rozpadu i psychologická mysl.",
+      "Vysoká úroveň intelektu a schopnost přesně pojmenovat vlastní diagnózu odbornou terminologií.",
+      "Nízká míra aktuální subjektivní tísně, jež zaručí, že pacient terapii předčasně neukončí.",
+      "Převaha somatických stížností nad psychickými, neboť ty se v odkryvné práci upraví nejrychleji."
+    ],
+    "correct": 0,
+    "explanation": "Prognosticky nejnosnější je kvalita objektních vztahů, integrita identity, tolerance úzkosti a frustrace a psychologická mysl. Naopak vysoký intelekt ani odborná slovní zásoba dobrý průběh nezaručují a mohou sloužit intelektualizaci; jistá míra tísně je navíc potřebná jako motivace. Nízká úroveň těchto kapacit posouvá indikaci k podpůrné či strukturované práci.",
+    "source": "Gabbard, Psychodynamic Psychiatry in Clinical Practice; Kernberg, strukturální rozhovor",
+    "seedElo": 2250
+  },
+  {
+    "id": "str-C06",
+    "type": "V",
+    "category": "struktura-diagnostika",
+    "text": "Pacient (28) dlouze líčí své výjimečné nadání a zároveň „bezkonkurenční“ pověst svého terapeuta. Kohut a Kernberg čtou totéž chování odlišně — v čem přesně spočívá rozdíl mezi jejich výkladem?",
+    "options": [
+      "Kohut v tom vidí obranu proti závisti, Kernberg deficit; oba proto volí shodnou konfrontaci.",
+      "Oba to čtou jako deficit a liší se jen tím, zda jej odvozují od matky, či od otcovské funkce.",
+      "Kohut to čte jako agresi vůči objektu, Kernberg jako normální idealizaci bez klinického významu.",
+      "Kohut v tom vidí oživení potřebného idealizujícího přenosu, Kernberg obranu proti závisti."
+    ],
+    "correct": 3,
+    "explanation": "Spor obrana versus deficit je jádrem rozdílu obou škol. Kohut chápe grandiozitu a idealizaci jako oživení nedokončených vývojových potřeb, které se mají nechat rozvinout a empaticky zrcadlit; Kernberg v nich vidí patologické grandiózní Self, jež brání před závistí a agresí, a proto je systematicky interpretuje. Z téhož pozorování tedy plynou protichůdné technické důsledky.",
+    "source": "Kohut, The Analysis of the Self (1971); Kernberg, Borderline Conditions and Pathological Narcissism (1975)",
+    "seedElo": 2300
+  }
+]

@@ -1,19 +1,36 @@
 [
  {
-  "id": "str-001",
-  "type": "V",
+  "id": "str-028",
+  "type": "F",
   "category": "struktura-diagnostika",
-  "text": "Pan Marek, programátor, žije sám, dlouhodobé vztahy ho vyčerpávají a po setkáních s lidmi se potřebuje 'dobít' o samotě. Má bohatý vnitřní fantazijní svět, o kterém nikomu neříká, a blízkost druhých prožívá jako riziko pohlcení. Z hlediska McWilliamsové pojetí charakterových stylů odpovídá jeho dynamika nejpravděpodobněji kterému stylu?",
+  "text": "Podle jakých tří hlavních strukturálních kritérií rozlišuje Kernberg neurotickou, hraniční a psychotickou organizaci osobnosti?",
   "options": [
-   "Vyhýbavému stylu s jádrovým strachem ze zahanbení",
-   "Depresivnímu stylu s introjikovanou agresí",
-   "Schizoidnímu stylu s konfliktem blízkost–pohlcení",
-   "Paranoidnímu stylu s projekcí nepřátelství"
+   "Integrace identity, převažující úroveň obranných mechanismů, testování reality",
+   "Inteligence, impulzivita, kvalita attachment",
+   "Míra úzkosti, deprese a agrese",
+   "Síla superega, zralost pudů, kvalita snů"
   ],
-  "correct": 2,
-  "explanation": "Klíčem je konflikt mezi touhou po kontaktu a strachem z pohlcení spolu s bohatým vnitřním světem a stažením jako hlavní obranou — jádrová dynamika schizoidního stylu dle McWilliamsové. Vyhýbavý člověk po kontaktu touží a bojí se odmítnutí či ostudy, ne pohlcení; depresivní dynamika se točí kolem ztráty a viny; paranoidní kolem projikovaného ohrožení, ne kolem potřeby samoty.",
-  "source": "Nancy McWilliams: Psychoanalytická diagnóza, kap. Schizoidní osobnosti",
-  "seedElo": 1400
+  "correct": 0,
+  "explanation": "Kernbergova strukturální diagnostika stojí na triádě: identita (integrovaná vs. difuzní), obrany (zralé, centrované kolem represe vs. primitivní, centrované kolem štěpení) a testování reality (zachované vs. ztracené). Neurotik má všechny tři intaktní, hraniční pacient difuzní identitu a primitivní obrany při zachovaném testování reality, psychotická organizace ztrácí i testování reality. Ostatní nabídky jsou klinicky relevantní proměnné, ale nejsou definičními kritérii modelu.",
+  "source": "Otto F. Kernberg: Severe Personality Disorders, kap. Structural Diagnosis",
+  "seedElo": 1300,
+  "deepDive": "**Tři páky, jeden mechanismus.** Kernbergova triáda není arbitrární seznam — všechny tři kritéria jsou důsledky jednoho vývojového úkolu: integrace 'dobrých' a 'zlých' reprezentací self a objektů. Když integrace proběhne, vznikne soudržná identita, dítě si může dovolit represi (má co integrovaného chránit) a pevně ukotvené rozlišení já/ne-já nese testování reality. Když integrace selže, identita zůstane difuzní a štěpení zůstane hlavní obranou — ale hranice já/svět drží (hraniční organizace). Když selže i diferenciace self od objektu, padá testování reality (psychotická organizace). Proto ta tři kritéria klesají v tomhle pořadí, a ne jinak."
+ },
+ {
+  "id": "str-033",
+  "type": "F",
+  "category": "struktura-diagnostika",
+  "text": "Na jakých dvou osách staví McWilliamsová psychoanalytickou diagnózu charakteru?",
+  "options": [
+   "Typ charakterové organizace (styl) × vývojová úroveň organizace osobnosti",
+   "Temperament × attachment",
+   "Symptom × syndrom",
+   "Vědomé × nevědomé procesy"
+  ],
+  "correct": 0,
+  "explanation": "McWilliamsová diagnózu pojímá dvourozměrně: 'jaký' člověk je (charakterový styl — narcistický, obsedantní, hysterický atd.) a 'jak hluboko' je organizován (neurotická–hraniční–psychotická úroveň). Každý styl může existovat na kterékoli úrovni a teprve průsečík obou os vede k prognóze a volbě techniky. Ostatní dvojice jsou smysluplné koncepty, ale nejsou architekturou její knihy.",
+  "source": "Nancy McWilliams: Psychoanalytická diagnóza, úvodní kapitoly (koncepce diagnózy)",
+  "seedElo": 1300
  },
  {
   "id": "str-002",
@@ -30,134 +47,6 @@
   "explanation": "Kombinace závislosti na obdivu, citlivosti na zpochybnění, devalvace jako reakce na narcistické zranění a skrytého studu s prázdnotou je jádrem narcistické dynamiky dle McWilliamsové. Hysterický styl hledá spíše pozornost a péči skrze emocionalitu než potvrzení grandiózního self; psychopatická dynamika stojí na manipulaci a moci, ne na studu; obsedantní na kontrole afektu.",
   "source": "Nancy McWilliams: Psychoanalytická diagnóza, kap. Narcistické osobnosti",
   "seedElo": 1350
- },
- {
-  "id": "str-003",
-  "type": "V",
-  "category": "struktura-diagnostika",
-  "text": "Pan Jiří popisuje své manželské problémy věcně, bez emocí, s dlouhými racionálními rozbory 'pro a proti'. Rozhodování odkládá, protože 'ještě nemá všechna data', a když se terapeutka zeptá na pocity, odpoví další analýzou. Z hlediska McWilliamsové pojetí charakterových stylů je nejpravděpodobnější interpretací:",
-  "options": [
-   "Schizoidní stažení do vnitřního světa",
-   "Obsedantní dynamika s izolací afektu a odčiňováním jako klíčovými obranami",
-   "Depresivní styl s potlačenou zlobou",
-   "Narcistická potřeba působit kompetentně"
-  ],
-  "correct": 1,
-  "explanation": "Izolace afektu (myšlení oddělené od cítění), racionalizace a nekonečné odkládání rozhodnutí kvůli skrytému konfliktu mezi vzdorem a poslušností jsou jádrem obsedantní dynamiky. Schizoidní člověk má k afektu přístup ve fantazii a stahuje se ze vztahů celkově; depresivní dynamika by nesla smutek a vinu, ne suchou analýzu; narcistická prezentace by hledala obdiv, ne kontrolu.",
-  "source": "Nancy McWilliams: Psychoanalytická diagnóza, kap. Obsedantní a kompulzivní osobnosti",
-  "seedElo": 1400
- },
- {
-  "id": "str-004",
-  "type": "V",
-  "category": "struktura-diagnostika",
-  "text": "Slečna Tereza vypráví o svém životě dramaticky a barvitě, ale na detaily si 'nějak nevzpomíná' — její popis je globální a impresionistický. K mužským autoritám se vztahuje svůdně a zároveň se jich bojí; vlastní kompetenci systematicky podceňuje. Z hlediska McWilliamsové pojetí charakterových stylů jde nejpravděpodobněji o:",
-  "options": [
-   "Disociativní strukturu s přepínáním self-stavů",
-   "Narcistický styl s exhibicionismem",
-   "Masochistický styl s morální nadřazeností v utrpení",
-   "Hysterický (histriónský) styl s represí a globálním kognitivním stylem"
-  ],
-  "correct": 3,
-  "explanation": "Impresionistický, na detaily chudý kognitivní styl (Shapiro), represe jako centrální obrana, sexualizace ve vztahu k moci a prožitek vlastní malosti vůči 'mocnému opačnému pohlaví' jsou jádrem hysterické dynamiky. Disociativní struktura by nesla diskontinuity paměti a identity, ne jen globální styl; narcismus hledá obdiv pro grandiózní self; masochismus staví identitu na utrpení.",
-  "source": "Nancy McWilliams: Psychoanalytická diagnóza, kap. Hysterické (histriónské) osobnosti",
-  "seedElo": 1500
- },
- {
-  "id": "str-005",
-  "type": "V",
-  "category": "struktura-diagnostika",
-  "text": "Pan Karel přichází do terapie s přesvědčením, že mu kolegové v práci systematicky škodí. Je ostražitý, humor terapeuta čte jako výsměch a vlastní nepřátelské impulzy si neuvědomuje — vidí je spolehlivě v druhých. Testování reality je jinak zachované. Z hlediska McWilliamsové pojetí charakterových stylů odpovídá obraz nejpravděpodobněji:",
-  "options": [
-   "Paranoidnímu stylu s projekcí jako centrální obranou",
-   "Psychotické organizaci s perzekučním bludem",
-   "Obsedantnímu stylu s reaktivním výtvorem",
-   "Psychopatickému stylu s instrumentální nedůvěrou"
-  ],
-  "correct": 0,
-  "explanation": "Projekce vlastních nepřijatelných (zejména agresivních) obsahů do druhých při zachovaném testování reality je definiční pro paranoidní charakterový styl. Psychotická organizace by znamenala ztrátu testování reality — pevný, nekorigovatelný blud; obsedantní dynamika se točí kolem kontroly a viny, ne perzekuce; psychopat druhým nedůvěřuje účelově, ale neprojikuje — druhé chladně čte a využívá.",
-  "source": "Nancy McWilliams: Psychoanalytická diagnóza, kap. Paranoidní osobnosti",
-  "seedElo": 1400
- },
- {
-  "id": "str-006",
-  "type": "V",
-  "category": "struktura-diagnostika",
-  "text": "Paní Hana o sobě mluví jako o 'v jádru špatném člověku'. Když ji partner opustil, obviňovala výhradně sebe; kritiku druhých vůči sobě přijímá jako oprávněnou a zlobu na druhé téměř neprožívá. Z hlediska McWilliamsové pojetí charakterových stylů je jádrová dynamika nejpravděpodobněji:",
-  "options": [
-   "Masochistická — utrpení jako vztahová strategie",
-   "Hraniční — štěpení objektů na dobré a zlé",
-   "Depresivní — introjekce a obrácení agrese proti self",
-   "Schizoidní — devalvace vlastní potřeby vztahu"
-  ],
-  "correct": 2,
-  "explanation": "Depresivní dynamika dle McWilliamsové stojí na introjekci: špatnost ztraceného či zraňujícího objektu je vzata do self ('zlý nejsem ty, ale já') a agrese je obrácena dovnitř, čímž se chrání vztah. Masochistický člověk utrpení nevědomě předvádí a čeká za něj morální kredit či péči; štěpení by přinášelo oscilaci mezi idealizací a devalvací, ne stabilní sebeobviňování.",
-  "source": "Nancy McWilliams: Psychoanalytická diagnóza, kap. Depresivní a manické osobnosti",
-  "seedElo": 1450
- },
- {
-  "id": "str-007",
-  "type": "V",
-  "category": "struktura-diagnostika",
-  "text": "Pan Ondřej v terapii opakovaně líčí, kolik toho pro druhé obětoval a jak na to vždy doplatil. Když se mu daří, 'náhodou' si to sabotuje; zlepšení v terapii následuje zhoršení. Terapeutka cítí střídavě soucit a podrážděnou chuť ho 'zatřást'. Z hlediska McWilliamsové pojetí charakterových stylů jde nejpravděpodobněji o:",
-  "options": [
-   "Depresivní styl s anhedonií",
-   "Masochistický (self-defeating) styl — utrpení jako cena za vztah a morální vítězství",
-   "Pasivně-agresivní vzdor vůči autoritě",
-   "Hraniční organizaci s negativní terapeutickou reakcí"
-  ],
-  "correct": 1,
-  "explanation": "Vzorec 'obětuji se, trpím, a tím si zasluhuji vztah i morální převahu', sebesabotáž po úspěchu a protipřenosová směs soucitu a sadistického podráždění jsou typické pro masochistickou dynamiku. Depresivní člověk trpí tiše a vinu bere na sebe, aniž by utrpení vztahově 'předváděl'; negativní terapeutická reakce může být přítomna u více struktur, ale sama o sobě styl nedefinuje.",
-  "source": "Nancy McWilliams: Psychoanalytická diagnóza, kap. Masochistické (self-defeating) osobnosti",
-  "seedElo": 1550
- },
- {
-  "id": "str-008",
-  "type": "V",
-  "category": "struktura-diagnostika",
-  "text": "Pan Viktor přichází do terapie na nátlak soudu. Je šarmantní, terapeutce lichotí, ale jeho vyprávění nesedí v detailech a lítost nad ublížením druhým působí naučeně. Zdá se, že ho baví zkoušet, co mu projde. Z hlediska McWilliamsové pojetí charakterových stylů je jádrovou dynamikou nejpravděpodobněji:",
-  "options": [
-   "Narcistická potřeba obdivu maskovaná šarmem",
-   "Hysterická sexualizace vztahu s autoritou",
-   "Paranoidní testování důvěryhodnosti terapeuta",
-   "Psychopatická (antisociální) potřeba 'mít navrch' — omnipotentní kontrola druhých"
-  ],
-  "correct": 3,
-  "explanation": "Jádrem psychopatické dynamiky dle McWilliamsové není absence šarmu, ale organizace osobnosti kolem moci: omnipotentní kontrola, vědomá manipulace ('mít navrch') a chudé svědomí s předstíranou lítostí. Narcistický člověk potřebuje druhé jako zrcadlo obdivu a stud ho zraňuje; psychopat druhé potřebuje jako objekty ovládnutí a stud u něj nahrazuje spíše vztek či pohrdání.",
-  "source": "Nancy McWilliams: Psychoanalytická diagnóza, kap. Psychopatické (antisociální) osobnosti",
-  "seedElo": 1450
- },
- {
-  "id": "str-009",
-  "type": "V",
-  "category": "struktura-diagnostika",
-  "text": "Paní Lucie popisuje 'ztracené hodiny', kdy se ocitne na místech, kam si nepamatuje cestu. V sezeních se občas nápadně změní její hlas, držení těla i postoj k terapeutovi, a na části minulých sezení si nevzpomíná. V anamnéze je těžké rané týrání. Z hlediska McWilliamsové pojetí charakterových stylů ukazuje obraz nejpravděpodobněji na:",
-  "options": [
-   "Disociativní psychologii — disociace jako centrální obrana proti traumatu",
-   "Hraniční organizaci se štěpením objektních vztahů",
-   "Psychotickou organizaci s dezintegrací self",
-   "Hysterický styl s masivní represí"
-  ],
-  "correct": 0,
-  "explanation": "Amnestické okno, přepínání diskrétních self-stavů a historie raného přemáhajícího traumatu jsou znaky disociativní psychologie, kde je centrální obranou disociace — únik z nesnesitelné zkušenosti změnou stavu vědomí. Štěpení u hraniční organizace odděluje reprezentace na 'dobré a zlé', ale nezpůsobuje amnézii; represe u hysterie vytěsňuje obsahy, ne celé úseky prožívání a identity.",
-  "source": "Nancy McWilliams: Psychoanalytická diagnóza, kap. Disociativní psychologie",
-  "seedElo": 1500
- },
- {
-  "id": "str-010",
-  "type": "V",
-  "category": "struktura-diagnostika",
-  "text": "Slečna Nikola v úvodním rozhovoru na otázku 'Řekněte mi, jaká jste' reaguje zmateně: popisuje se v protikladech, které nedokáže propojit, a její popisy blízkých lidí jsou černobílé karikatury, jež se mění sezení od sezení. Halucinace ani bludy nemá. Z hlediska Kernbergova strukturálního modelu obraz nejpravděpodobněji svědčí pro:",
-  "options": [
-   "Neurotickou organizaci s nezralou identitou",
-   "Psychotickou organizaci v kompenzované fázi",
-   "Hraniční organizaci osobnosti — identitní difuzi při zachovaném testování reality",
-   "Disociativní poruchu identity"
-  ],
-  "correct": 2,
-  "explanation": "Neschopnost podat integrovaný obraz sebe i druhých (protikladné, nespojité, karikaturní reprezentace) je identitní difuze — klíčové kritérium hraniční organizace, zatímco zachované testování reality ji odlišuje od psychotické. Neurotická organizace předpokládá integrovanou identitu; disociativní porucha identity by vyžadovala oddělené self-stavy s amnestickými bariérami, ne jen nespojitost popisů.",
-  "source": "Otto F. Kernberg: Severe Personality Disorders, kap. Structural Interviewing; McWilliams: Psychoanalytická diagnóza, kap. Úrovně organizace osobnosti",
-  "seedElo": 1500
  },
  {
   "id": "str-011",
@@ -192,37 +81,68 @@
   "seedElo": 1350
  },
  {
-  "id": "str-013",
-  "type": "V",
+  "id": "str-031",
+  "type": "F",
   "category": "struktura-diagnostika",
-  "text": "Terapeut si po sezeních s panem Radkem opakovaně všímá, že se nudí, cítí se neviditelný a přistihne se, že přemýšlí o nákupu — jako by v místnosti pro něj nebylo místo. Pacient mluví plynule, ale terapeuta používá spíš jako publikum. Z hlediska psychodynamického čtení protipřenosu je tento prožitek nejtypičtější pro práci s klientem s dynamikou:",
+  "text": "Která z následujících čtveřic správně řadí obranné mechanismy od primitivních (primárních) ke zralým (sekundárním)?",
   "options": [
-   "Narcistickou — terapeut je selfobjekt, nikoli oddělená osoba",
-   "Paranoidní — terapeut je vtahován do role pronásledovatele",
-   "Masochistickou — terapeut je tlačen do role zachránce",
-   "Hraniční — terapeut osciluje mezi idealizací a devalvací"
-  ],
-  "correct": 0,
-  "explanation": "Nuda, pocit neviditelnosti a zbytečnosti jsou klasický protipřenos u narcistické dynamiky: pacient terapeuta používá jako selfobjekt — zrcadlo či publikum — nikoli jako oddělenou osobu, takže terapeutova subjektivita 'zmizí'. U paranoidní dynamiky terapeut spíš cítí napětí a obezřetnost, u masochistické tah k záchraně či sadistické podráždění, u hraniční prudké výkyvy vlastního prožívání.",
-  "source": "Nancy McWilliams: Psychoanalytická diagnóza, kap. Narcistické osobnosti (protipřenos); Gabbard: Psychodynamická psychiatrie v klinické praxi",
-  "seedElo": 1550
- },
- {
-  "id": "str-014",
-  "type": "V",
-  "category": "struktura-diagnostika",
-  "text": "Terapeutka pracuje s paní Simonou, pacientkou s hraniční organizací. Během sezení se v ní nečekaně vzedme intenzivní vztek, jaký u sebe nezná, a chuť pacientku odmítnout — přesně to, co pacientka popisuje u všech blízkých lidí. Z hlediska teorie objektních vztahů je nejpřiléhavějším pojmenováním tohoto děje:",
-  "options": [
-   "Konkordantní protipřenos — terapeutka se identifikuje s prožíváním pacientky",
-   "Selhání terapeutčiny profesionality, které patří do supervize, nikoli do diagnostiky",
-   "Projektivní identifikace — pacientka nevědomě evokuje v terapeutce odštěpený objektní vzorec",
-   "Erotizovaný přenos v obranné podobě"
+   "Represe → štěpení → sublimace → popření",
+   "Sublimace → intelektualizace → projektivní identifikace → humor",
+   "Štěpení a projektivní identifikace (primitivní) → represe a intelektualizace (neurotické) → sublimace a humor (zralé)",
+   "Humor → represe → štěpení → sublimace"
   ],
   "correct": 2,
-  "explanation": "Projektivní identifikace znamená, že pacient odštěpenou část zkušenosti (zde odmítající, vzteklý objekt) nevědomě 'uloží' do terapeuta interpersonálním tlakem, takže ji terapeut reálně prožívá — je to komplementární identifikace s objektem, ne s prožíváním pacienta (to by byl konkordantní protipřenos). Diagnosticky je to cenný signál primitivních obran hraniční organizace, nikoli pouhé profesní selhání.",
-  "source": "Otto F. Kernberg: Borderline Conditions and Pathological Narcissism; Racker: Transference and Countertransference",
-  "seedElo": 1700,
-  "deepDive": "**Projektivní identifikace jako diagnostický nástroj.** U neurotické organizace bývá protipřenos jemný a terapeut ho snadno drží jako 'informaci o pacientovi'. U hraniční organizace je tlak kvalitativně jiný: terapeut prožívá afekt jako *vlastní*, cizí a přesto neodbytný — jako by mu někdo do ruky vtiskl roli ze scénáře, který nečetl. Racker rozlišil identifikaci konkordantní (cítím to, co pacient) a komplementární (cítím to, co jeho vnitřní objekt). Právě intenzita a 'nevlastněnost' komplementárních stavů je jedním z nejspolehlivějších bed-side ukazatelů primitivních obran — a zároveň surovinou: když terapeut stav ustojí, zpracuje a vrátí ve stravitelné podobě, dělá přesně to, co Bion nazval kontejnováním."
+  "explanation": "Primitivní obrany (štěpení, projektivní identifikace, primitivní popření, omnipotentní kontrola) pracují s celkem prožívání a hranicí self–objekt; neurotické obrany (represe, intelektualizace, reaktivní výtvor) předpokládají integrované self a pracují s obsahy; zralé obrany (sublimace, humor, altruismus, anticipace) konflikt tvořivě transformují. Převažující pásmo obran je jedním z hlavních vodítek k úrovni organizace osobnosti.",
+  "source": "Nancy McWilliams: Psychoanalytická diagnóza, kap. Primární a sekundární obranné procesy; Vaillant: Adaptation to Life",
+  "seedElo": 1350
+ },
+ {
+  "id": "str-001",
+  "type": "V",
+  "category": "struktura-diagnostika",
+  "text": "Pan Marek, programátor, žije sám, dlouhodobé vztahy ho vyčerpávají a po setkáních s lidmi se potřebuje 'dobít' o samotě. Má bohatý vnitřní fantazijní svět, o kterém nikomu neříká, a blízkost druhých prožívá jako riziko pohlcení. Z hlediska McWilliamsové pojetí charakterových stylů odpovídá jeho dynamika nejpravděpodobněji kterému stylu?",
+  "options": [
+   "Vyhýbavému stylu s jádrovým strachem ze zahanbení",
+   "Depresivnímu stylu s introjikovanou agresí",
+   "Schizoidnímu stylu s konfliktem blízkost–pohlcení",
+   "Paranoidnímu stylu s projekcí nepřátelství"
+  ],
+  "correct": 2,
+  "explanation": "Klíčem je konflikt mezi touhou po kontaktu a strachem z pohlcení spolu s bohatým vnitřním světem a stažením jako hlavní obranou — jádrová dynamika schizoidního stylu dle McWilliamsové. Vyhýbavý člověk po kontaktu touží a bojí se odmítnutí či ostudy, ne pohlcení; depresivní dynamika se točí kolem ztráty a viny; paranoidní kolem projikovaného ohrožení, ne kolem potřeby samoty.",
+  "source": "Nancy McWilliams: Psychoanalytická diagnóza, kap. Schizoidní osobnosti",
+  "seedElo": 1400
+ },
+ {
+  "id": "str-003",
+  "type": "V",
+  "category": "struktura-diagnostika",
+  "text": "Pan Jiří popisuje své manželské problémy věcně, bez emocí, s dlouhými racionálními rozbory 'pro a proti'. Rozhodování odkládá, protože 'ještě nemá všechna data', a když se terapeutka zeptá na pocity, odpoví další analýzou. Z hlediska McWilliamsové pojetí charakterových stylů je nejpravděpodobnější interpretací:",
+  "options": [
+   "Schizoidní stažení do vnitřního světa",
+   "Obsedantní dynamika s izolací afektu a odčiňováním jako klíčovými obranami",
+   "Depresivní styl s potlačenou zlobou",
+   "Narcistická potřeba působit kompetentně"
+  ],
+  "correct": 1,
+  "explanation": "Izolace afektu (myšlení oddělené od cítění), racionalizace a nekonečné odkládání rozhodnutí kvůli skrytému konfliktu mezi vzdorem a poslušností jsou jádrem obsedantní dynamiky. Schizoidní člověk má k afektu přístup ve fantazii a stahuje se ze vztahů celkově; depresivní dynamika by nesla smutek a vinu, ne suchou analýzu; narcistická prezentace by hledala obdiv, ne kontrolu.",
+  "source": "Nancy McWilliams: Psychoanalytická diagnóza, kap. Obsedantní a kompulzivní osobnosti",
+  "seedElo": 1400
+ },
+ {
+  "id": "str-005",
+  "type": "V",
+  "category": "struktura-diagnostika",
+  "text": "Pan Karel přichází do terapie s přesvědčením, že mu kolegové v práci systematicky škodí. Je ostražitý, humor terapeuta čte jako výsměch a vlastní nepřátelské impulzy si neuvědomuje — vidí je spolehlivě v druhých. Testování reality je jinak zachované. Z hlediska McWilliamsové pojetí charakterových stylů odpovídá obraz nejpravděpodobněji:",
+  "options": [
+   "Paranoidnímu stylu s projekcí jako centrální obranou",
+   "Psychotické organizaci s perzekučním bludem",
+   "Obsedantnímu stylu s reaktivním výtvorem",
+   "Psychopatickému stylu s instrumentální nedůvěrou"
+  ],
+  "correct": 0,
+  "explanation": "Projekce vlastních nepřijatelných (zejména agresivních) obsahů do druhých při zachovaném testování reality je definiční pro paranoidní charakterový styl. Psychotická organizace by znamenala ztrátu testování reality — pevný, nekorigovatelný blud; obsedantní dynamika se točí kolem kontroly a viny, ne perzekuce; psychopat druhým nedůvěřuje účelově, ale neprojikuje — druhé chladně čte a využívá.",
+  "source": "Nancy McWilliams: Psychoanalytická diagnóza, kap. Paranoidní osobnosti",
+  "seedElo": 1400
  },
  {
   "id": "str-015",
@@ -239,6 +159,70 @@
   "explanation": "Rysy, které pacient prožívá jako 'to jsem prostě já' a nevidí na nich problém, jsou egosyntonní — typický znak charakterové patologie na rozdíl od egodystonních symptomů (např. fobie), které pacient sám vnímá jako cizí. Racionalizace je dílčí obrana, ne popis vztahu k rysu; aloplastická adaptace (měnění okolí místo sebe) je příbuzný, ale širší koncept a nevypovídá o psychotické úrovni; testování reality je zachované.",
   "source": "Nancy McWilliams: Psychoanalytická diagnóza, kap. Charakterová patologie; Fenichel: The Psychoanalytic Theory of Neurosis",
   "seedElo": 1400
+ },
+ {
+  "id": "str-032",
+  "type": "F",
+  "category": "struktura-diagnostika",
+  "text": "Co se v psychodynamické diagnostice rozumí pojmem pozorující ego?",
+  "options": [
+   "Vrozená schopnost introspekce nezávislá na terapii",
+   "Část superega, která kriticky hodnotí vlastní chování",
+   "Obranný mechanismus intelektualizace v mírné podobě",
+   "Kapacita pacienta rozdělit se na prožívající a reflektující část — spolu s terapeutem pozorovat vlastní prožívání s odstupem"
+  ],
+  "correct": 3,
+  "explanation": "Pozorující ego je schopnost 'stát vedle sebe': prožívat a zároveň o prožívaném přemýšlet, což umožňuje terapeutickou alianci a práci s interpretací. Není to kritické superego (to soudí, nepozoruje) ani intelektualizace (ta od afektu utíká, kdežto pozorující ego jej drží v dohledu). Jeho síla je klíčovým indikátorem pro volbu expresivní techniky a bývá oslabená u hraniční a chybějící u psychotické organizace v afektu.",
+  "source": "Greenson: The Technique and Practice of Psychoanalysis; McWilliams: Psychoanalytická diagnóza, kap. Neurotická úroveň",
+  "seedElo": 1400
+ },
+ {
+  "id": "str-042",
+  "type": "I",
+  "category": "struktura-diagnostika",
+  "text": "Paní Marta, s neurotickou (obsedantní) strukturou a silným pozorujícím egem, opakovaně ruší vlastní úspěchy sebekritikou. Vztah s terapeutkou je stabilní a únosnost úzkosti dobrá. Z hlediska indikace na kontinuu podpůrná–expresivní terapie je nejvhodnější:",
+  "options": [
+   "Podpůrně posilovat její obrany a vyhýbat se tématu konfliktu, aby se nedestabilizovala",
+   "Expresivní práce: interpretovat nevědomý konflikt (např. vinu za úspěch a agresi) včetně jeho podob v přenosu",
+   "Odeslat ji na farmakoterapii, psychoterapie u struktury není indikována",
+   "Zaměřit se výhradně na nácvik asertivity bez práce s vnitřním konfliktem"
+  ],
+  "correct": 1,
+  "explanation": "Silné pozorující ego, integrovaná identita, únosnost afektu a stabilní aliance jsou přesně indikační kritéria pro expresivní (odkrývající) práci — interpretace konfliktu, který úspěchy ruší, tu má největší terapeutický potenciál. Čistě podpůrný postup by kapacitu pacientky nevyužil a konflikt konzervoval; behaviorální nácvik může být doplněk, ale míjí strukturální jádro; psychoterapie je u neurotické struktury indikací par excellence.",
+  "source": "Gabbard: Psychodynamická psychiatrie v klinické praxi, kap. expresivně-podpůrné kontinuum; McWilliams: Psychoanalytická diagnóza",
+  "seedElo": 1400
+ },
+ {
+  "id": "str-006",
+  "type": "V",
+  "category": "struktura-diagnostika",
+  "text": "Paní Hana o sobě mluví jako o 'v jádru špatném člověku'. Když ji partner opustil, obviňovala výhradně sebe; kritiku druhých vůči sobě přijímá jako oprávněnou a zlobu na druhé téměř neprožívá. Z hlediska McWilliamsové pojetí charakterových stylů je jádrová dynamika nejpravděpodobněji:",
+  "options": [
+   "Masochistická — utrpení jako vztahová strategie",
+   "Hraniční — štěpení objektů na dobré a zlé",
+   "Depresivní — introjekce a obrácení agrese proti self",
+   "Schizoidní — devalvace vlastní potřeby vztahu"
+  ],
+  "correct": 2,
+  "explanation": "Depresivní dynamika dle McWilliamsové stojí na introjekci: špatnost ztraceného či zraňujícího objektu je vzata do self ('zlý nejsem ty, ale já') a agrese je obrácena dovnitř, čímž se chrání vztah. Masochistický člověk utrpení nevědomě předvádí a čeká za něj morální kredit či péči; štěpení by přinášelo oscilaci mezi idealizací a devalvací, ne stabilní sebeobviňování.",
+  "source": "Nancy McWilliams: Psychoanalytická diagnóza, kap. Depresivní a manické osobnosti",
+  "seedElo": 1450
+ },
+ {
+  "id": "str-008",
+  "type": "V",
+  "category": "struktura-diagnostika",
+  "text": "Pan Viktor přichází do terapie na nátlak soudu. Je šarmantní, terapeutce lichotí, ale jeho vyprávění nesedí v detailech a lítost nad ublížením druhým působí naučeně. Zdá se, že ho baví zkoušet, co mu projde. Z hlediska McWilliamsové pojetí charakterových stylů je jádrovou dynamikou nejpravděpodobněji:",
+  "options": [
+   "Narcistická potřeba obdivu maskovaná šarmem",
+   "Hysterická sexualizace vztahu s autoritou",
+   "Paranoidní testování důvěryhodnosti terapeuta",
+   "Psychopatická (antisociální) potřeba 'mít navrch' — omnipotentní kontrola druhých"
+  ],
+  "correct": 3,
+  "explanation": "Jádrem psychopatické dynamiky dle McWilliamsové není absence šarmu, ale organizace osobnosti kolem moci: omnipotentní kontrola, vědomá manipulace ('mít navrch') a chudé svědomí s předstíranou lítostí. Narcistický člověk potřebuje druhé jako zrcadlo obdivu a stud ho zraňuje; psychopat druhé potřebuje jako objekty ovládnutí a stud u něj nahrazuje spíše vztek či pohrdání.",
+  "source": "Nancy McWilliams: Psychoanalytická diagnóza, kap. Psychopatické (antisociální) osobnosti",
+  "seedElo": 1450
  },
  {
   "id": "str-016",
@@ -258,6 +242,215 @@
   "deepDive": "**Dvě mapy, jedno území.** DSM mapuje povrch (co je vidět a spočítat), Kernberg strukturu (jak je postavené self a objektní vztahy pod povrchem). Prakticky to znamená, že pacient s narcistickou poruchou osobnosti dle DSM může strukturálně fungovat na neurotické i hraniční úrovni — a právě úroveň, ne typ, rozhoduje o prognóze a technice: expresivní práce s interpretací snese neurotická struktura, hraniční potřebuje nejprve práci se štěpením tady a teď. McWilliamsová proto diagnózu kreslí jako dvourozměrnou tabulku: typ charakteru × úroveň organizace. Kdo si plete osy, plete si i léčbu."
  },
  {
+  "id": "str-025",
+  "type": "K",
+  "category": "struktura-diagnostika",
+  "text": "Jaký je hlavní rozdíl mezi podpůrnou a expresivní psychoterapií z hlediska indikace dle úrovně organizace osobnosti?",
+  "options": [
+   "Expresivní terapie odkrývá konflikt interpretací a snese ji spíše neurotická struktura; podpůrná posiluje adaptivní obrany a fungování ega u křehčích (psychotických, některých hraničních) struktur",
+   "Podpůrná terapie je pro motivované pacienty, expresivní pro nemotivované",
+   "Expresivní terapie je určena psychotickým pacientům, aby vyjádřili emoce",
+   "Liší se jen frekvencí sezení, nikoli technikou"
+  ],
+  "correct": 0,
+  "explanation": "Kontinuum expresivní–podpůrná se řídí především silou struktury: interpretace nevědomého konfliktu a práce s regresí předpokládají pozorující ego a integrovanou identitu (neurotická úroveň), kdežto u psychotické a části hraniční organizace by odkrývání obrany destabilizovalo — tam se obrany naopak podpírají, posiluje se testování reality a adaptace. Motivace ani frekvence nejsou určujícím kritériem volby.",
+  "source": "Gabbard: Psychodynamická psychiatrie v klinické praxi, kap. Léčba; McWilliams: Psychoanalytická diagnóza, kap. Terapeutické implikace",
+  "seedElo": 1450,
+  "deepDive": "**Diagnóza jako navigace, ne nálepka.** Celý smysl strukturální diagnostiky je v tomhle kroku: úroveň organizace předpovídá, co pacient v terapii unese a co ho poškodí. Neurotická struktura interpretaci 'uslyší' jako nabídku k přemýšlení; hraniční ji v afektu snadno prožije jako útok nebo svádění; psychotická jako důkaz čtení myšlenek. Proto Kernberg pro hraniční pacienty vyvinul TFP — expresivní práci přizpůsobenou štěpení (interpretuje se tady a teď v přenosu, ne genetická minulost) — a proto u psychotických struktur podpora obran není 'terapie druhé kategorie', ale lege artis. Otázka nezní 'jaká technika je nejhlubší', ale 'kolik pravdy o sobě tenhle člověk právě teď unese'."
+ },
+ {
+  "id": "str-036",
+  "type": "F",
+  "category": "struktura-diagnostika",
+  "text": "Proč se represe (vytěsnění) považuje za centrální obranu právě neurotické úrovně organizace?",
+  "options": [
+   "Protože je jediná obrana, kterou lze v terapii interpretovat",
+   "Protože je vývojově nejranější obranou dítěte",
+   "Protože zcela chybí u zdravých lidí a definuje tak patologii",
+   "Protože předpokládá již integrované self, které dokáže konfliktní obsah držet mimo vědomí, aniž by se rozštěpilo nebo ztratilo kontakt s realitou"
+  ],
+  "correct": 3,
+  "explanation": "Represe je vývojově pozdní 'luxus': vyžaduje soudržné self a stabilní hranici vědomí, které umí nepřijatelný obsah cíleně zapomenout, zatímco osobnost i realita zůstávají vcelku. Primitivnější struktury tuto kapacitu nemají a musejí konflikt řešit hruběji — štěpením celých stavů či popřením reality. Represe se přitom vyskytuje i u zdravých lidí a interpretovat lze obrany všech úrovní; jde o to, která obrana v organizaci převažuje.",
+  "source": "Nancy McWilliams: Psychoanalytická diagnóza, kap. Sekundární obranné procesy; Kernberg: Severe Personality Disorders",
+  "seedElo": 1450
+ },
+ {
+  "id": "str-004",
+  "type": "V",
+  "category": "struktura-diagnostika",
+  "text": "Slečna Tereza vypráví o svém životě dramaticky a barvitě, ale na detaily si 'nějak nevzpomíná' — její popis je globální a impresionistický. K mužským autoritám se vztahuje svůdně a zároveň se jich bojí; vlastní kompetenci systematicky podceňuje. Z hlediska McWilliamsové pojetí charakterových stylů jde nejpravděpodobněji o:",
+  "options": [
+   "Disociativní strukturu s přepínáním self-stavů",
+   "Narcistický styl s exhibicionismem",
+   "Masochistický styl s morální nadřazeností v utrpení",
+   "Hysterický (histriónský) styl s represí a globálním kognitivním stylem"
+  ],
+  "correct": 3,
+  "explanation": "Impresionistický, na detaily chudý kognitivní styl (Shapiro), represe jako centrální obrana, sexualizace ve vztahu k moci a prožitek vlastní malosti vůči 'mocnému opačnému pohlaví' jsou jádrem hysterické dynamiky. Disociativní struktura by nesla diskontinuity paměti a identity, ne jen globální styl; narcismus hledá obdiv pro grandiózní self; masochismus staví identitu na utrpení.",
+  "source": "Nancy McWilliams: Psychoanalytická diagnóza, kap. Hysterické (histriónské) osobnosti",
+  "seedElo": 1500
+ },
+ {
+  "id": "str-009",
+  "type": "V",
+  "category": "struktura-diagnostika",
+  "text": "Paní Lucie popisuje 'ztracené hodiny', kdy se ocitne na místech, kam si nepamatuje cestu. V sezeních se občas nápadně změní její hlas, držení těla i postoj k terapeutovi, a na části minulých sezení si nevzpomíná. V anamnéze je těžké rané týrání. Z hlediska McWilliamsové pojetí charakterových stylů ukazuje obraz nejpravděpodobněji na:",
+  "options": [
+   "Disociativní psychologii — disociace jako centrální obrana proti traumatu",
+   "Hraniční organizaci se štěpením objektních vztahů",
+   "Psychotickou organizaci s dezintegrací self",
+   "Hysterický styl s masivní represí"
+  ],
+  "correct": 0,
+  "explanation": "Amnestické okno, přepínání diskrétních self-stavů a historie raného přemáhajícího traumatu jsou znaky disociativní psychologie, kde je centrální obranou disociace — únik z nesnesitelné zkušenosti změnou stavu vědomí. Štěpení u hraniční organizace odděluje reprezentace na 'dobré a zlé', ale nezpůsobuje amnézii; represe u hysterie vytěsňuje obsahy, ne celé úseky prožívání a identity.",
+  "source": "Nancy McWilliams: Psychoanalytická diagnóza, kap. Disociativní psychologie",
+  "seedElo": 1500
+ },
+ {
+  "id": "str-010",
+  "type": "V",
+  "category": "struktura-diagnostika",
+  "text": "Slečna Nikola v úvodním rozhovoru na otázku 'Řekněte mi, jaká jste' reaguje zmateně: popisuje se v protikladech, které nedokáže propojit, a její popisy blízkých lidí jsou černobílé karikatury, jež se mění sezení od sezení. Halucinace ani bludy nemá. Z hlediska Kernbergova strukturálního modelu obraz nejpravděpodobněji svědčí pro:",
+  "options": [
+   "Neurotickou organizaci s nezralou identitou",
+   "Psychotickou organizaci v kompenzované fázi",
+   "Hraniční organizaci osobnosti — identitní difuzi při zachovaném testování reality",
+   "Disociativní poruchu identity"
+  ],
+  "correct": 2,
+  "explanation": "Neschopnost podat integrovaný obraz sebe i druhých (protikladné, nespojité, karikaturní reprezentace) je identitní difuze — klíčové kritérium hraniční organizace, zatímco zachované testování reality ji odlišuje od psychotické. Neurotická organizace předpokládá integrovanou identitu; disociativní porucha identity by vyžadovala oddělené self-stavy s amnestickými bariérami, ne jen nespojitost popisů.",
+  "source": "Otto F. Kernberg: Severe Personality Disorders, kap. Structural Interviewing; McWilliams: Psychoanalytická diagnóza, kap. Úrovně organizace osobnosti",
+  "seedElo": 1500
+ },
+ {
+  "id": "str-019",
+  "type": "K",
+  "category": "struktura-diagnostika",
+  "text": "Schizoidní a vyhýbavý člověk se oba drží stranou lidí. V čem je jádrový psychodynamický rozdíl?",
+  "options": [
+   "Schizoidní člověk touží po kontaktu více než vyhýbavý",
+   "Vyhýbavý člověk nemá vnitřní fantazijní život, schizoidní ano",
+   "Vyhýbavý se stahuje ze strachu z odmítnutí a zahanbení, ale po blízkosti touží; schizoidní se stahuje před hrozbou pohlcení a samota je pro něj i útočištěm",
+   "Rozdíl je jen v míře — jde o týž styl v mírnější a těžší podobě"
+  ],
+  "correct": 2,
+  "explanation": "U vyhýbavé dynamiky je blízkost žádaná, ale blokovaná anticipací kritiky a studu; u schizoidní je sama blízkost nebezpečná (strach z pohlcení, ztráty sebe) a stažení do vnitřního světa je nejen obranou, ale i zdrojem uspokojení. Nejde o kontinuum téhož — motivační jádro je opačné, což má dopad na techniku: vyhýbavého zveme přes bezpečí před zahanbením, schizoidnímu garantujeme, že ho nepohltíme.",
+  "source": "Nancy McWilliams: Psychoanalytická diagnóza, kap. Schizoidní osobnosti; PDM-2, osa P",
+  "seedElo": 1500
+ },
+ {
+  "id": "str-027",
+  "type": "K",
+  "category": "struktura-diagnostika",
+  "text": "Pacient s bludem a pacient s obsedantní ruminací ('co když jsem někoho srazil autem a nevím o tom?') mohou oba působit 'mimo realitu'. Co je strukturálně odlišuje?",
+  "options": [
+   "Obsah myšlenky — bludy jsou bizarnější než obsese",
+   "Nic, obsese je mírnější forma bludu",
+   "Intenzita úzkosti, která myšlenku doprovází",
+   "Obsedantní pacient svou myšlenku prožívá egodystonně a s pochybností ('vím, že je to nesmysl, ale…'); u bludu je přesvědčení pevné, nekorigovatelné a testování reality selhává"
+  ],
+  "correct": 3,
+  "explanation": "Diferenciálním kritériem není obsah ani úzkost, ale postoj k myšlence: obsese je vnímána jako vlastní, nesmyslná a vtíravá — pozorující ego s ní bojuje, testování reality drží. Blud je držen s plnou jistotou, korekci vzdoruje a pochybnost chybí. Hranici komplikuje OCD 'se slabým náhledem', ale principem zůstává míra zachované schopnosti myšlenku testovat, ne její bizarnost.",
+  "source": "Otto F. Kernberg: Severe Personality Disorders; DSM-5, specifikátory náhledu u OCD; McWilliams: Psychoanalytická diagnóza",
+  "seedElo": 1500
+ },
+ {
+  "id": "str-029",
+  "type": "F",
+  "category": "struktura-diagnostika",
+  "text": "Co v diagnostickém systému PDM-2 u dospělých reprezentují osy M, P a S?",
+  "options": [
+   "M = maladaptivní schémata, P = attachment, S = obranné styly",
+   "M = motivace k léčbě, P = prognóza, S = severity (závažnost)",
+   "M = medikace, P = psychoterapie, S = sociální fungování",
+   "M = profil mentálních kapacit, P = syndrom osobnosti (styl/porucha a úroveň organizace), S = subjektivní prožitek symptomatických vzorců"
+  ],
+  "correct": 3,
+  "explanation": "PDM-2 hodnotí dospělého na třech osách: P (Personality) — styl či porucha osobnosti a úroveň organizace, M (Mental functioning) — profil dvanácti mentálních kapacit (regulace afektu, mentalizace, obrany aj.), a S (Symptom patterns) — symptomy s důrazem na jejich subjektivní prožívání, ne jen deskriptivní kritéria. Právě důraz na subjektivitu a strukturální hloubku odlišuje PDM-2 od DSM.",
+  "source": "Lingiardi & McWilliams (eds.): Psychodynamic Diagnostic Manual, 2nd Edition (PDM-2), Part I",
+  "seedElo": 1500
+ },
+ {
+  "id": "str-035",
+  "type": "F",
+  "category": "struktura-diagnostika",
+  "text": "Co je omnipotentní kontrola jako primitivní obranný mechanismus a pro kterou charakterovou dynamiku je dle McWilliamsové centrální?",
+  "options": [
+   "Nutkavá kontrola vlastních myšlenek; centrální pro obsedantní styl",
+   "Perfekcionistická kontrola výkonu; centrální pro narcistický styl",
+   "Prožitek, že druhé lze (a je třeba) ovládat jako prodloužení vlastní vůle, s uspokojením z 'převezení' druhých; centrální pro psychopatickou dynamiku",
+   "Magické rituály na odvrácení neštěstí; centrální pro schizoidní styl"
+  ],
+  "correct": 2,
+  "explanation": "Omnipotentní kontrola vyrůstá z infantilní fantazie, že svět je prodloužením vlastní vůle; u psychopatické dynamiky je centrální — druzí jsou objekty ovládnutí a manipulace, s charakteristickým potěšením z toho, že jsem druhého 'převezl' (duping delight). Obsedantní kontrola míří dovnitř a je neurotičtější; perfekcionismus u narcismu slouží obdivu, ne ovládání; magické rituály jsou odčiňování, ne omnipotentní kontrola.",
+  "source": "Nancy McWilliams: Psychoanalytická diagnóza, kap. Primární obranné procesy a Psychopatické osobnosti",
+  "seedElo": 1500
+ },
+ {
+  "id": "str-037",
+  "type": "F",
+  "category": "struktura-diagnostika",
+  "text": "Které obranné mechanismy převažují u psychotické úrovně organizace osobnosti?",
+  "options": [
+   "Represe, přemístění a reaktivní výtvor",
+   "Archaické obrany dotýkající se samotné hranice mezi self a světem: psychotické popření, autistické stažení, primitivní projekce a fúze s objektem",
+   "Sublimace a intelektualizace v rigidní podobě",
+   "Štěpení a projektivní identifikace při zachovaném testování reality"
+  ],
+  "correct": 1,
+  "explanation": "Psychotická organizace se brání proti anihilační hrůze obranami, které přepisují samotnou hranici já/svět: masivní popření reality, stažení do autistické fantazie, projekce bez udržené diference self–objekt, fúze. Represe a spol. jsou neurotické obrany; štěpení s projektivní identifikací při zachovaném testování reality charakterizují hraniční pásmo — u psychotické úrovně testování reality právě padá.",
+  "source": "Nancy McWilliams: Psychoanalytická diagnóza, kap. Psychotická úroveň organizace; Kernberg: Severe Personality Disorders",
+  "seedElo": 1500
+ },
+ {
+  "id": "str-041",
+  "type": "I",
+  "category": "struktura-diagnostika",
+  "text": "Pan Alois, s psychotickou organizací osobnosti v ambulantní péči, v úzkosti líčí, že se 'rozpadá' a že mu myšlenky 'nepatří'. Z hlediska zásad podpůrné terapie u psychotické úrovně organizace je nejvhodnější odpovědí terapeuta:",
+  "options": [
+   "Interpretovat prožitky jako projev nevědomé agrese vůči introjikované matce",
+   "Vyzvat k volným asociacím, aby se materiál mohl rozvinout",
+   "Fungovat jako pomocné ego: normalizovat, strukturovat, ukotvit v realitě a posílit adaptivní obrany a bezpečí",
+   "Mlčet a nechat působit terapeutickou abstinenci"
+  ],
+  "correct": 2,
+  "explanation": "U psychotické organizace je terapeut především pomocným egem: nabízí strukturu, srozumitelnost, ukotvení v realitě a zplnomocňující vysvětlení, protože odkrývající postupy (interpretace nevědomí, volné asociace, abstinentní mlčení) regresi a dezintegraci prohlubují. McWilliamsová zdůrazňuje u těchto pacientů autoritativní laskavost, edukaci a normalizaci prožitků — bezpečí je podmínkou jakékoli další práce.",
+  "source": "Nancy McWilliams: Psychoanalytická diagnóza, kap. Psychotická úroveň — terapeutické implikace; Gabbard: Psychodynamická psychiatrie",
+  "seedElo": 1500
+ },
+ {
+  "id": "str-007",
+  "type": "V",
+  "category": "struktura-diagnostika",
+  "text": "Pan Ondřej v terapii opakovaně líčí, kolik toho pro druhé obětoval a jak na to vždy doplatil. Když se mu daří, 'náhodou' si to sabotuje; zlepšení v terapii následuje zhoršení. Terapeutka cítí střídavě soucit a podrážděnou chuť ho 'zatřást'. Z hlediska McWilliamsové pojetí charakterových stylů jde nejpravděpodobněji o:",
+  "options": [
+   "Depresivní styl s anhedonií",
+   "Masochistický (self-defeating) styl — utrpení jako cena za vztah a morální vítězství",
+   "Pasivně-agresivní vzdor vůči autoritě",
+   "Hraniční organizaci s negativní terapeutickou reakcí"
+  ],
+  "correct": 1,
+  "explanation": "Vzorec 'obětuji se, trpím, a tím si zasluhuji vztah i morální převahu', sebesabotáž po úspěchu a protipřenosová směs soucitu a sadistického podráždění jsou typické pro masochistickou dynamiku. Depresivní člověk trpí tiše a vinu bere na sebe, aniž by utrpení vztahově 'předváděl'; negativní terapeutická reakce může být přítomna u více struktur, ale sama o sobě styl nedefinuje.",
+  "source": "Nancy McWilliams: Psychoanalytická diagnóza, kap. Masochistické (self-defeating) osobnosti",
+  "seedElo": 1550
+ },
+ {
+  "id": "str-013",
+  "type": "V",
+  "category": "struktura-diagnostika",
+  "text": "Terapeut si po sezeních s panem Radkem opakovaně všímá, že se nudí, cítí se neviditelný a přistihne se, že přemýšlí o nákupu — jako by v místnosti pro něj nebylo místo. Pacient mluví plynule, ale terapeuta používá spíš jako publikum. Z hlediska psychodynamického čtení protipřenosu je tento prožitek nejtypičtější pro práci s klientem s dynamikou:",
+  "options": [
+   "Narcistickou — terapeut je selfobjekt, nikoli oddělená osoba",
+   "Paranoidní — terapeut je vtahován do role pronásledovatele",
+   "Masochistickou — terapeut je tlačen do role zachránce",
+   "Hraniční — terapeut osciluje mezi idealizací a devalvací"
+  ],
+  "correct": 0,
+  "explanation": "Nuda, pocit neviditelnosti a zbytečnosti jsou klasický protipřenos u narcistické dynamiky: pacient terapeuta používá jako selfobjekt — zrcadlo či publikum — nikoli jako oddělenou osobu, takže terapeutova subjektivita 'zmizí'. U paranoidní dynamiky terapeut spíš cítí napětí a obezřetnost, u masochistické tah k záchraně či sadistické podráždění, u hraniční prudké výkyvy vlastního prožívání.",
+  "source": "Nancy McWilliams: Psychoanalytická diagnóza, kap. Narcistické osobnosti (protipřenos); Gabbard: Psychodynamická psychiatrie v klinické praxi",
+  "seedElo": 1550
+ },
+ {
   "id": "str-017",
   "type": "K",
   "category": "struktura-diagnostika",
@@ -271,6 +464,54 @@
   "correct": 0,
   "explanation": "Klíčový rozdíl je v tom, k čemu druhé potřebují: narcistické self žije z obdivu a zrcadlení a je zranitelné studem, psychopatické self žije z pocitu 'mít navrch' — z omnipotentní kontroly, kde druzí jsou objekty ovládnutí. Oba mohou druhé využívat, rozdíl je v motivu; pohlaví ani inteligence nejsou diferenciální kritéria a testování reality mají oba typicky zachované.",
   "source": "Nancy McWilliams: Psychoanalytická diagnóza, kap. Psychopatické a Narcistické osobnosti",
+  "seedElo": 1550
+ },
+ {
+  "id": "str-024",
+  "type": "K",
+  "category": "struktura-diagnostika",
+  "text": "Čím se liší represe (vytěsnění) jako centrální obrana neurotické organizace od štěpení jako centrální obrany hraniční organizace?",
+  "options": [
+   "Represe je vědomá, štěpení nevědomé",
+   "Štěpení je zralejší, protože chrání vztahy před agresí",
+   "Represe se týká afektů, štěpení myšlenek",
+   "Represe drží nepřijatelný obsah mimo vědomí při zachované integraci self; štěpení drží protikladné, vzájemně si odporující stavy self a objektů oddělené, přičemž oba zůstávají vědomí střídavě přístupné"
+  ],
+  "correct": 3,
+  "explanation": "Represe je 'horizontální' bariéra: obsah je zapomenut, ale osobnost nad ním zůstává celistvá. Štěpení je 'vertikální': milovaný a nenáviděný objekt (i dobré a špatné self) existují vedle sebe v oddělených, střídajících se stavech, aniž by se kdy potkaly — proto ta náhlá překlopení z idealizace do devalvace. Obě obrany jsou nevědomé; represe je vývojově zralejší, protože předpokládá už integrované reprezentace.",
+  "source": "Otto F. Kernberg: Borderline Conditions and Pathological Narcissism; McWilliams: Psychoanalytická diagnóza, kap. Primární a sekundární obranné procesy",
+  "seedElo": 1550
+ },
+ {
+  "id": "str-034",
+  "type": "F",
+  "category": "struktura-diagnostika",
+  "text": "Která definice nejpřesněji vystihuje projektivní identifikaci jako obranný mechanismus?",
+  "options": [
+   "Přisouzení vlastních impulzů druhému bez jakéhokoli vlivu na jeho prožívání",
+   "Nevědomé připsání odštěpené části self či objektu druhému spojené s interpersonálním tlakem, který v druhém reálně evokuje odpovídající prožitek či chování",
+   "Vědomé napodobování chování obdivované osoby",
+   "Splynutí s idealizovaným objektem za účelem zvýšení sebeúcty"
+  ],
+  "correct": 1,
+  "explanation": "Projektivní identifikace jde za prostou projekci: obsah je nejen připsán druhému, ale subtilním interpersonálním tlakem je druhý skutečně 'naverbován', aby jej prožil či odehrál — projikující s ním navíc zůstává v kontaktu a snaží se jej kontrolovat. Prostá projekce (možnost A) tento interpersonální dopad postrádá; napodobování je identifikace v běžném smyslu; splynutí s idealizovaným objektem popisuje spíše idealizaci.",
+  "source": "Melanie Klein: Notes on Some Schizoid Mechanisms; Ogden: Projective Identification and Psychotherapeutic Technique",
+  "seedElo": 1550
+ },
+ {
+  "id": "str-043",
+  "type": "I",
+  "category": "struktura-diagnostika",
+  "text": "Pan Bedřich s paranoidním charakterem na začátku terapie ostražitě sleduje, co si terapeut zapisuje, a ptá se, komu informace poputují. Z hlediska McWilliamsové doporučení pro práci s paranoidní dynamikou je nejvhodnější reakcí:",
+  "options": [
+   "Interpretovat nedůvěru hned jako projekci jeho vlastní agrese",
+   "Ujistit ho vřele, že 'tady mu přece nikdo nechce ublížit', a přisednout si blíž",
+   "Nedůvěru ignorovat a pokračovat v anamnéze, aby se nefixovala",
+   "Odpovědět věcně a transparentně, respektovat jeho potřebu odstupu a nedůvěru přijmout jako pochopitelnou, bez naléhání na blízkost"
+  ],
+  "correct": 3,
+  "explanation": "U paranoidní dynamiky buduje důvěru paradoxně ten, kdo o ni netlačí: maximální transparentnost, věcnost, respekt k autonomii a klidné přijetí nedůvěry jako legitimní. Časná interpretace projekce je prožita jako útok, přehnaná vřelost a fyzické přiblížení zvyšují ohrožení (a působí falešně), ignorování otázky potvrzuje podezření, že se něco skrývá. McWilliamsová doporučuje i střízlivý humor a důslednou poctivost v maličkostech.",
+  "source": "Nancy McWilliams: Psychoanalytická diagnóza, kap. Paranoidní osobnosti — terapeutické implikace",
   "seedElo": 1550
  },
  {
@@ -290,38 +531,6 @@
   "seedElo": 1600
  },
  {
-  "id": "str-019",
-  "type": "K",
-  "category": "struktura-diagnostika",
-  "text": "Schizoidní a vyhýbavý člověk se oba drží stranou lidí. V čem je jádrový psychodynamický rozdíl?",
-  "options": [
-   "Schizoidní člověk touží po kontaktu více než vyhýbavý",
-   "Vyhýbavý člověk nemá vnitřní fantazijní život, schizoidní ano",
-   "Vyhýbavý se stahuje ze strachu z odmítnutí a zahanbení, ale po blízkosti touží; schizoidní se stahuje před hrozbou pohlcení a samota je pro něj i útočištěm",
-   "Rozdíl je jen v míře — jde o týž styl v mírnější a těžší podobě"
-  ],
-  "correct": 2,
-  "explanation": "U vyhýbavé dynamiky je blízkost žádaná, ale blokovaná anticipací kritiky a studu; u schizoidní je sama blízkost nebezpečná (strach z pohlcení, ztráty sebe) a stažení do vnitřního světa je nejen obranou, ale i zdrojem uspokojení. Nejde o kontinuum téhož — motivační jádro je opačné, což má dopad na techniku: vyhýbavého zveme přes bezpečí před zahanbením, schizoidnímu garantujeme, že ho nepohltíme.",
-  "source": "Nancy McWilliams: Psychoanalytická diagnóza, kap. Schizoidní osobnosti; PDM-2, osa P",
-  "seedElo": 1500
- },
- {
-  "id": "str-020",
-  "type": "K",
-  "category": "struktura-diagnostika",
-  "text": "Obsedantní i paranoidní člověk potřebují mít věci 'pod kontrolou'. Jak se jejich kontrola psychodynamicky liší?",
-  "options": [
-   "Paranoidní kontrola je vědomá strategie, obsedantní nevědomá obrana",
-   "Obsedantní člověk kontroluje druhé, paranoidní kontroluje jen sebe",
-   "Neliší se — paranoidní styl je těžší varianta obsedantního",
-   "Obsedantní kontroluje vlastní impulzy a rozhodnutí (proti vině a chaosu uvnitř); paranoidní monitoruje okolí (proti ohrožení, které do něj projikoval)"
-  ],
-  "correct": 3,
-  "explanation": "Směr kontroly prozrazuje strukturu obrany: obsedantní dynamika krotí vnitřní svět — impulzy, afekty, rozhodnutí — izolací afektu a odčiňováním, protože jádrovým afektem je vina; paranoidní dynamika hlídá vnější svět, protože vlastní agrese byla projekcí přemístěna ven a vrací se jako ohrožení od druhých. Nejde o kontinuum téhož ani o rozdíl vědomé a nevědomé strategie.",
-  "source": "Nancy McWilliams: Psychoanalytická diagnóza, kap. Paranoidní a Obsedantní osobnosti; Shapiro: Neurotic Styles",
-  "seedElo": 1650
- },
- {
   "id": "str-021",
   "type": "K",
   "category": "struktura-diagnostika",
@@ -338,136 +547,6 @@
   "seedElo": 1600
  },
  {
-  "id": "str-022",
-  "type": "K",
-  "category": "struktura-diagnostika",
-  "text": "Jaký je rozdíl mezi testováním reality a vztahem k realitě (sense of reality) ve strukturální diagnostice?",
-  "options": [
-   "Jde o dva názvy téže funkce v různých překladech",
-   "Testování reality je schopnost odlišit vnitřní od vnějšího a vlastní od cizího; vztah k realitě zahrnuje subjektivní kvalitu prožívání reality (např. derealizaci), která může být narušena i při zachovaném testování",
-   "Vztah k realitě je narušen jen u psychóz, testování reality i u neuróz",
-   "Testování reality měří inteligenci, vztah k realitě emocionalitu"
-  ],
-  "correct": 1,
-  "explanation": "Testování reality (Kernbergovo klíčové kritérium) je kapacita rozlišit intrapsychické od vnějšího a udržet konvenční kritéria reality — jeho ztráta definuje psychotickou organizaci. Vztah k realitě je širší fenomenologická kvalita: pacient s depersonalizací či derealizací prožívá realitu 'divně', ale ví, že jde o jeho prožitek — testování je zachováno. Právě tato disociace obou funkcí je diagnosticky důležitá, aby se derealizace nezaměnila za psychózu.",
-  "source": "Otto F. Kernberg: Severe Personality Disorders; Frosch: The Psychotic Process",
-  "seedElo": 1700
- },
- {
-  "id": "str-023",
-  "type": "K",
-  "category": "struktura-diagnostika",
-  "text": "Slečna Dita (19) prožívá zmatek ohledně studia, hodnot i vztahů. Co nejspolehlivěji odliší normativní adolescentní krizi identity od identitní difuze svědčící pro hraniční organizaci?",
-  "options": [
-   "Přítomnost silných emocí a konfliktů s rodiči",
-   "Věk — po 18. roce jde vždy o difuzi",
-   "Při krizi identity je zachován celkově soudržný prožitek sebe i druhých v čase a zmatek je prožíván jako konflikt; při difuzi jsou reprezentace sebe a druhých chronicky nespojité, protikladné a povrchní",
-   "Míra experimentování s rolemi a životními styly"
-  ],
-  "correct": 2,
-  "explanation": "Kernberg a Eriksonova tradice rozlišují: krize identity je bolestivé hledání uvnitř v zásadě soudržného self — dívka umí popsat, kdo je a kdo jsou její blízcí, jen si není jistá směrem. Difuze znamená, že samotné reprezentace jsou fragmentované a protikladné bez pocitu rozporu. Silné emoce, konflikty s rodiči i experimentování jsou v adolescenci normativní a nic strukturálního neprokazují; věková hranice žádná neexistuje.",
-  "source": "Otto F. Kernberg: Identity: Recent Findings and Clinical Implications; Erikson: Identity, Youth and Crisis",
-  "seedElo": 1650
- },
- {
-  "id": "str-024",
-  "type": "K",
-  "category": "struktura-diagnostika",
-  "text": "Čím se liší represe (vytěsnění) jako centrální obrana neurotické organizace od štěpení jako centrální obrany hraniční organizace?",
-  "options": [
-   "Represe je vědomá, štěpení nevědomé",
-   "Štěpení je zralejší, protože chrání vztahy před agresí",
-   "Represe se týká afektů, štěpení myšlenek",
-   "Represe drží nepřijatelný obsah mimo vědomí při zachované integraci self; štěpení drží protikladné, vzájemně si odporující stavy self a objektů oddělené, přičemž oba zůstávají vědomí střídavě přístupné"
-  ],
-  "correct": 3,
-  "explanation": "Represe je 'horizontální' bariéra: obsah je zapomenut, ale osobnost nad ním zůstává celistvá. Štěpení je 'vertikální': milovaný a nenáviděný objekt (i dobré a špatné self) existují vedle sebe v oddělených, střídajících se stavech, aniž by se kdy potkaly — proto ta náhlá překlopení z idealizace do devalvace. Obě obrany jsou nevědomé; represe je vývojově zralejší, protože předpokládá už integrované reprezentace.",
-  "source": "Otto F. Kernberg: Borderline Conditions and Pathological Narcissism; McWilliams: Psychoanalytická diagnóza, kap. Primární a sekundární obranné procesy",
-  "seedElo": 1550
- },
- {
-  "id": "str-025",
-  "type": "K",
-  "category": "struktura-diagnostika",
-  "text": "Jaký je hlavní rozdíl mezi podpůrnou a expresivní psychoterapií z hlediska indikace dle úrovně organizace osobnosti?",
-  "options": [
-   "Expresivní terapie odkrývá konflikt interpretací a snese ji spíše neurotická struktura; podpůrná posiluje adaptivní obrany a fungování ega u křehčích (psychotických, některých hraničních) struktur",
-   "Podpůrná terapie je pro motivované pacienty, expresivní pro nemotivované",
-   "Expresivní terapie je určena psychotickým pacientům, aby vyjádřili emoce",
-   "Liší se jen frekvencí sezení, nikoli technikou"
-  ],
-  "correct": 0,
-  "explanation": "Kontinuum expresivní–podpůrná se řídí především silou struktury: interpretace nevědomého konfliktu a práce s regresí předpokládají pozorující ego a integrovanou identitu (neurotická úroveň), kdežto u psychotické a části hraniční organizace by odkrývání obrany destabilizovalo — tam se obrany naopak podpírají, posiluje se testování reality a adaptace. Motivace ani frekvence nejsou určujícím kritériem volby.",
-  "source": "Gabbard: Psychodynamická psychiatrie v klinické praxi, kap. Léčba; McWilliams: Psychoanalytická diagnóza, kap. Terapeutické implikace",
-  "seedElo": 1450,
-  "deepDive": "**Diagnóza jako navigace, ne nálepka.** Celý smysl strukturální diagnostiky je v tomhle kroku: úroveň organizace předpovídá, co pacient v terapii unese a co ho poškodí. Neurotická struktura interpretaci 'uslyší' jako nabídku k přemýšlení; hraniční ji v afektu snadno prožije jako útok nebo svádění; psychotická jako důkaz čtení myšlenek. Proto Kernberg pro hraniční pacienty vyvinul TFP — expresivní práci přizpůsobenou štěpení (interpretuje se tady a teď v přenosu, ne genetická minulost) — a proto u psychotických struktur podpora obran není 'terapie druhé kategorie', ale lege artis. Otázka nezní 'jaká technika je nejhlubší', ale 'kolik pravdy o sobě tenhle člověk právě teď unese'."
- },
- {
-  "id": "str-026",
-  "type": "K",
-  "category": "struktura-diagnostika",
-  "text": "Štěpení a disociace se v běžné řeči zaměňují. Jaký je mezi nimi klíčový koncepční rozdíl?",
-  "options": [
-   "Disociace je vědomá strategie, štěpení nevědomá obrana",
-   "Štěpení odděluje protikladné reprezentace self a objektů (dobré vs. zlé) v rámci jednoho vědomí; disociace mění celý stav vědomí a může vytvářet amnestické bariéry mezi stavy",
-   "Jde o synonyma z různých teoretických škol",
-   "Štěpení se vyskytuje jen u hraniční poruchy, disociace jen u PTSD"
-  ],
-  "correct": 1,
-  "explanation": "Štěpení je obrana v rovině reprezentací: tentýž člověk je střídavě 'celý dobrý' a 'celý zlý', ale kontinuita vědomí a paměti se drží. Disociace je obrana v rovině stavu vědomí: prožitek je oddělen se změnou vědomí, často s amnézií, depersonalizací či přepnutím self-stavu — typicky v reakci na trauma. Obě jsou nevědomé a obě se vyskytují napříč diagnózami; rozdíl je v mechanismu, ne v nozologické příslušnosti.",
-  "source": "Nancy McWilliams: Psychoanalytická diagnóza, kap. Disociativní psychologie; Kernberg: Borderline Conditions and Pathological Narcissism",
-  "seedElo": 1650
- },
- {
-  "id": "str-027",
-  "type": "K",
-  "category": "struktura-diagnostika",
-  "text": "Pacient s bludem a pacient s obsedantní ruminací ('co když jsem někoho srazil autem a nevím o tom?') mohou oba působit 'mimo realitu'. Co je strukturálně odlišuje?",
-  "options": [
-   "Obsah myšlenky — bludy jsou bizarnější než obsese",
-   "Nic, obsese je mírnější forma bludu",
-   "Intenzita úzkosti, která myšlenku doprovází",
-   "Obsedantní pacient svou myšlenku prožívá egodystonně a s pochybností ('vím, že je to nesmysl, ale…'); u bludu je přesvědčení pevné, nekorigovatelné a testování reality selhává"
-  ],
-  "correct": 3,
-  "explanation": "Diferenciálním kritériem není obsah ani úzkost, ale postoj k myšlence: obsese je vnímána jako vlastní, nesmyslná a vtíravá — pozorující ego s ní bojuje, testování reality drží. Blud je držen s plnou jistotou, korekci vzdoruje a pochybnost chybí. Hranici komplikuje OCD 'se slabým náhledem', ale principem zůstává míra zachované schopnosti myšlenku testovat, ne její bizarnost.",
-  "source": "Otto F. Kernberg: Severe Personality Disorders; DSM-5, specifikátory náhledu u OCD; McWilliams: Psychoanalytická diagnóza",
-  "seedElo": 1500
- },
- {
-  "id": "str-028",
-  "type": "F",
-  "category": "struktura-diagnostika",
-  "text": "Podle jakých tří hlavních strukturálních kritérií rozlišuje Kernberg neurotickou, hraniční a psychotickou organizaci osobnosti?",
-  "options": [
-   "Integrace identity, převažující úroveň obranných mechanismů, testování reality",
-   "Inteligence, impulzivita, kvalita attachment",
-   "Míra úzkosti, deprese a agrese",
-   "Síla superega, zralost pudů, kvalita snů"
-  ],
-  "correct": 0,
-  "explanation": "Kernbergova strukturální diagnostika stojí na triádě: identita (integrovaná vs. difuzní), obrany (zralé, centrované kolem represe vs. primitivní, centrované kolem štěpení) a testování reality (zachované vs. ztracené). Neurotik má všechny tři intaktní, hraniční pacient difuzní identitu a primitivní obrany při zachovaném testování reality, psychotická organizace ztrácí i testování reality. Ostatní nabídky jsou klinicky relevantní proměnné, ale nejsou definičními kritérii modelu.",
-  "source": "Otto F. Kernberg: Severe Personality Disorders, kap. Structural Diagnosis",
-  "seedElo": 1300,
-  "deepDive": "**Tři páky, jeden mechanismus.** Kernbergova triáda není arbitrární seznam — všechny tři kritéria jsou důsledky jednoho vývojového úkolu: integrace 'dobrých' a 'zlých' reprezentací self a objektů. Když integrace proběhne, vznikne soudržná identita, dítě si může dovolit represi (má co integrovaného chránit) a pevně ukotvené rozlišení já/ne-já nese testování reality. Když integrace selže, identita zůstane difuzní a štěpení zůstane hlavní obranou — ale hranice já/svět drží (hraniční organizace). Když selže i diferenciace self od objektu, padá testování reality (psychotická organizace). Proto ta tři kritéria klesají v tomhle pořadí, a ne jinak."
- },
- {
-  "id": "str-029",
-  "type": "F",
-  "category": "struktura-diagnostika",
-  "text": "Co v diagnostickém systému PDM-2 u dospělých reprezentují osy M, P a S?",
-  "options": [
-   "M = maladaptivní schémata, P = attachment, S = obranné styly",
-   "M = motivace k léčbě, P = prognóza, S = severity (závažnost)",
-   "M = medikace, P = psychoterapie, S = sociální fungování",
-   "M = profil mentálních kapacit, P = syndrom osobnosti (styl/porucha a úroveň organizace), S = subjektivní prožitek symptomatických vzorců"
-  ],
-  "correct": 3,
-  "explanation": "PDM-2 hodnotí dospělého na třech osách: P (Personality) — styl či porucha osobnosti a úroveň organizace, M (Mental functioning) — profil dvanácti mentálních kapacit (regulace afektu, mentalizace, obrany aj.), a S (Symptom patterns) — symptomy s důrazem na jejich subjektivní prožívání, ne jen deskriptivní kritéria. Právě důraz na subjektivitu a strukturální hloubku odlišuje PDM-2 od DSM.",
-  "source": "Lingiardi & McWilliams (eds.): Psychodynamic Diagnostic Manual, 2nd Edition (PDM-2), Part I",
-  "seedElo": 1500
- },
- {
   "id": "str-030",
   "type": "F",
   "category": "struktura-diagnostika",
@@ -482,134 +561,6 @@
   "explanation": "Strukturální interview systematicky používá klarifikaci (vyjasnění nejasného či rozporného sdělení), konfrontaci (taktní upozornění na rozpor, který pacient nevidí) a interpretaci (hypotéza o nevědomém významu rozporu) — a diagnostickým klíčem je, jak pacient na stupňující se tlak reaguje: neurotik reflektuje, hraniční se reorganizuje po konfrontaci štěpení, psychotický se dezorganizuje nebo rozpor pohltí do bludného rámce. Nejde o klasickou anamnézu ani o čistě podpůrné techniky.",
   "source": "Otto F. Kernberg: Severe Personality Disorders, kap. Structural Interviewing",
   "seedElo": 1600
- },
- {
-  "id": "str-031",
-  "type": "F",
-  "category": "struktura-diagnostika",
-  "text": "Která z následujících čtveřic správně řadí obranné mechanismy od primitivních (primárních) ke zralým (sekundárním)?",
-  "options": [
-   "Represe → štěpení → sublimace → popření",
-   "Sublimace → intelektualizace → projektivní identifikace → humor",
-   "Štěpení a projektivní identifikace (primitivní) → represe a intelektualizace (neurotické) → sublimace a humor (zralé)",
-   "Humor → represe → štěpení → sublimace"
-  ],
-  "correct": 2,
-  "explanation": "Primitivní obrany (štěpení, projektivní identifikace, primitivní popření, omnipotentní kontrola) pracují s celkem prožívání a hranicí self–objekt; neurotické obrany (represe, intelektualizace, reaktivní výtvor) předpokládají integrované self a pracují s obsahy; zralé obrany (sublimace, humor, altruismus, anticipace) konflikt tvořivě transformují. Převažující pásmo obran je jedním z hlavních vodítek k úrovni organizace osobnosti.",
-  "source": "Nancy McWilliams: Psychoanalytická diagnóza, kap. Primární a sekundární obranné procesy; Vaillant: Adaptation to Life",
-  "seedElo": 1350
- },
- {
-  "id": "str-032",
-  "type": "F",
-  "category": "struktura-diagnostika",
-  "text": "Co se v psychodynamické diagnostice rozumí pojmem pozorující ego?",
-  "options": [
-   "Vrozená schopnost introspekce nezávislá na terapii",
-   "Část superega, která kriticky hodnotí vlastní chování",
-   "Obranný mechanismus intelektualizace v mírné podobě",
-   "Kapacita pacienta rozdělit se na prožívající a reflektující část — spolu s terapeutem pozorovat vlastní prožívání s odstupem"
-  ],
-  "correct": 3,
-  "explanation": "Pozorující ego je schopnost 'stát vedle sebe': prožívat a zároveň o prožívaném přemýšlet, což umožňuje terapeutickou alianci a práci s interpretací. Není to kritické superego (to soudí, nepozoruje) ani intelektualizace (ta od afektu utíká, kdežto pozorující ego jej drží v dohledu). Jeho síla je klíčovým indikátorem pro volbu expresivní techniky a bývá oslabená u hraniční a chybějící u psychotické organizace v afektu.",
-  "source": "Greenson: The Technique and Practice of Psychoanalysis; McWilliams: Psychoanalytická diagnóza, kap. Neurotická úroveň",
-  "seedElo": 1400
- },
- {
-  "id": "str-033",
-  "type": "F",
-  "category": "struktura-diagnostika",
-  "text": "Na jakých dvou osách staví McWilliamsová psychoanalytickou diagnózu charakteru?",
-  "options": [
-   "Typ charakterové organizace (styl) × vývojová úroveň organizace osobnosti",
-   "Temperament × attachment",
-   "Symptom × syndrom",
-   "Vědomé × nevědomé procesy"
-  ],
-  "correct": 0,
-  "explanation": "McWilliamsová diagnózu pojímá dvourozměrně: 'jaký' člověk je (charakterový styl — narcistický, obsedantní, hysterický atd.) a 'jak hluboko' je organizován (neurotická–hraniční–psychotická úroveň). Každý styl může existovat na kterékoli úrovni a teprve průsečík obou os vede k prognóze a volbě techniky. Ostatní dvojice jsou smysluplné koncepty, ale nejsou architekturou její knihy.",
-  "source": "Nancy McWilliams: Psychoanalytická diagnóza, úvodní kapitoly (koncepce diagnózy)",
-  "seedElo": 1300
- },
- {
-  "id": "str-034",
-  "type": "F",
-  "category": "struktura-diagnostika",
-  "text": "Která definice nejpřesněji vystihuje projektivní identifikaci jako obranný mechanismus?",
-  "options": [
-   "Přisouzení vlastních impulzů druhému bez jakéhokoli vlivu na jeho prožívání",
-   "Nevědomé připsání odštěpené části self či objektu druhému spojené s interpersonálním tlakem, který v druhém reálně evokuje odpovídající prožitek či chování",
-   "Vědomé napodobování chování obdivované osoby",
-   "Splynutí s idealizovaným objektem za účelem zvýšení sebeúcty"
-  ],
-  "correct": 1,
-  "explanation": "Projektivní identifikace jde za prostou projekci: obsah je nejen připsán druhému, ale subtilním interpersonálním tlakem je druhý skutečně 'naverbován', aby jej prožil či odehrál — projikující s ním navíc zůstává v kontaktu a snaží se jej kontrolovat. Prostá projekce (možnost A) tento interpersonální dopad postrádá; napodobování je identifikace v běžném smyslu; splynutí s idealizovaným objektem popisuje spíše idealizaci.",
-  "source": "Melanie Klein: Notes on Some Schizoid Mechanisms; Ogden: Projective Identification and Psychotherapeutic Technique",
-  "seedElo": 1550
- },
- {
-  "id": "str-035",
-  "type": "F",
-  "category": "struktura-diagnostika",
-  "text": "Co je omnipotentní kontrola jako primitivní obranný mechanismus a pro kterou charakterovou dynamiku je dle McWilliamsové centrální?",
-  "options": [
-   "Nutkavá kontrola vlastních myšlenek; centrální pro obsedantní styl",
-   "Perfekcionistická kontrola výkonu; centrální pro narcistický styl",
-   "Prožitek, že druhé lze (a je třeba) ovládat jako prodloužení vlastní vůle, s uspokojením z 'převezení' druhých; centrální pro psychopatickou dynamiku",
-   "Magické rituály na odvrácení neštěstí; centrální pro schizoidní styl"
-  ],
-  "correct": 2,
-  "explanation": "Omnipotentní kontrola vyrůstá z infantilní fantazie, že svět je prodloužením vlastní vůle; u psychopatické dynamiky je centrální — druzí jsou objekty ovládnutí a manipulace, s charakteristickým potěšením z toho, že jsem druhého 'převezl' (duping delight). Obsedantní kontrola míří dovnitř a je neurotičtější; perfekcionismus u narcismu slouží obdivu, ne ovládání; magické rituály jsou odčiňování, ne omnipotentní kontrola.",
-  "source": "Nancy McWilliams: Psychoanalytická diagnóza, kap. Primární obranné procesy a Psychopatické osobnosti",
-  "seedElo": 1500
- },
- {
-  "id": "str-036",
-  "type": "F",
-  "category": "struktura-diagnostika",
-  "text": "Proč se represe (vytěsnění) považuje za centrální obranu právě neurotické úrovně organizace?",
-  "options": [
-   "Protože je jediná obrana, kterou lze v terapii interpretovat",
-   "Protože je vývojově nejranější obranou dítěte",
-   "Protože zcela chybí u zdravých lidí a definuje tak patologii",
-   "Protože předpokládá již integrované self, které dokáže konfliktní obsah držet mimo vědomí, aniž by se rozštěpilo nebo ztratilo kontakt s realitou"
-  ],
-  "correct": 3,
-  "explanation": "Represe je vývojově pozdní 'luxus': vyžaduje soudržné self a stabilní hranici vědomí, které umí nepřijatelný obsah cíleně zapomenout, zatímco osobnost i realita zůstávají vcelku. Primitivnější struktury tuto kapacitu nemají a musejí konflikt řešit hruběji — štěpením celých stavů či popřením reality. Represe se přitom vyskytuje i u zdravých lidí a interpretovat lze obrany všech úrovní; jde o to, která obrana v organizaci převažuje.",
-  "source": "Nancy McWilliams: Psychoanalytická diagnóza, kap. Sekundární obranné procesy; Kernberg: Severe Personality Disorders",
-  "seedElo": 1450
- },
- {
-  "id": "str-037",
-  "type": "F",
-  "category": "struktura-diagnostika",
-  "text": "Které obranné mechanismy převažují u psychotické úrovně organizace osobnosti?",
-  "options": [
-   "Represe, přemístění a reaktivní výtvor",
-   "Archaické obrany dotýkající se samotné hranice mezi self a světem: psychotické popření, autistické stažení, primitivní projekce a fúze s objektem",
-   "Sublimace a intelektualizace v rigidní podobě",
-   "Štěpení a projektivní identifikace při zachovaném testování reality"
-  ],
-  "correct": 1,
-  "explanation": "Psychotická organizace se brání proti anihilační hrůze obranami, které přepisují samotnou hranici já/svět: masivní popření reality, stažení do autistické fantazie, projekce bez udržené diference self–objekt, fúze. Represe a spol. jsou neurotické obrany; štěpení s projektivní identifikací při zachovaném testování reality charakterizují hraniční pásmo — u psychotické úrovně testování reality právě padá.",
-  "source": "Nancy McWilliams: Psychoanalytická diagnóza, kap. Psychotická úroveň organizace; Kernberg: Severe Personality Disorders",
-  "seedElo": 1500
- },
- {
-  "id": "str-038",
-  "type": "F",
-  "category": "struktura-diagnostika",
-  "text": "Čím se dle Kernberga liší maligní narcismus od 'běžné' narcistické poruchy osobnosti?",
-  "options": [
-   "Maligní narcismus je totéž co antisociální porucha osobnosti",
-   "K narcistické patologii se přidává egosyntonní agrese/sadismus, paranoidní rysy a antisociální chování — při alespoň částečně zachované schopnosti loajality a viny, která u čisté antisociální poruchy chybí",
-   "Maligní narcista má na rozdíl od běžného narcisty nízkou inteligenci",
-   "Liší se pouze mírou grandiozity ve fantazii"
-  ],
-  "correct": 1,
-  "explanation": "Kernberg řadí maligní narcismus na kontinuum mezi narcistickou a antisociální poruchu: grandiózní self je infiltrováno agresí, která je egosyntonní (sadismus je zdrojem sebeúcty), plus paranoidní orientace a antisociální rysy. Od plné antisociální poruchy jej odlišují zbytky kapacity pro loajalitu, závazek a vinu — proto je prognosticky o něco lepší. Není to synonymum antisociální poruchy ani otázka inteligence či pouhé fantazijní grandiozity.",
-  "source": "Otto F. Kernberg: Severe Personality Disorders; Aggressivity, Narcissism, and Self-Destructiveness in the Psychotherapeutic Relationship",
-  "seedElo": 1700
  },
  {
   "id": "str-039",
@@ -644,54 +595,6 @@
   "seedElo": 1600
  },
  {
-  "id": "str-041",
-  "type": "I",
-  "category": "struktura-diagnostika",
-  "text": "Pan Alois, s psychotickou organizací osobnosti v ambulantní péči, v úzkosti líčí, že se 'rozpadá' a že mu myšlenky 'nepatří'. Z hlediska zásad podpůrné terapie u psychotické úrovně organizace je nejvhodnější odpovědí terapeuta:",
-  "options": [
-   "Interpretovat prožitky jako projev nevědomé agrese vůči introjikované matce",
-   "Vyzvat k volným asociacím, aby se materiál mohl rozvinout",
-   "Fungovat jako pomocné ego: normalizovat, strukturovat, ukotvit v realitě a posílit adaptivní obrany a bezpečí",
-   "Mlčet a nechat působit terapeutickou abstinenci"
-  ],
-  "correct": 2,
-  "explanation": "U psychotické organizace je terapeut především pomocným egem: nabízí strukturu, srozumitelnost, ukotvení v realitě a zplnomocňující vysvětlení, protože odkrývající postupy (interpretace nevědomí, volné asociace, abstinentní mlčení) regresi a dezintegraci prohlubují. McWilliamsová zdůrazňuje u těchto pacientů autoritativní laskavost, edukaci a normalizaci prožitků — bezpečí je podmínkou jakékoli další práce.",
-  "source": "Nancy McWilliams: Psychoanalytická diagnóza, kap. Psychotická úroveň — terapeutické implikace; Gabbard: Psychodynamická psychiatrie",
-  "seedElo": 1500
- },
- {
-  "id": "str-042",
-  "type": "I",
-  "category": "struktura-diagnostika",
-  "text": "Paní Marta, s neurotickou (obsedantní) strukturou a silným pozorujícím egem, opakovaně ruší vlastní úspěchy sebekritikou. Vztah s terapeutkou je stabilní a únosnost úzkosti dobrá. Z hlediska indikace na kontinuu podpůrná–expresivní terapie je nejvhodnější:",
-  "options": [
-   "Podpůrně posilovat její obrany a vyhýbat se tématu konfliktu, aby se nedestabilizovala",
-   "Expresivní práce: interpretovat nevědomý konflikt (např. vinu za úspěch a agresi) včetně jeho podob v přenosu",
-   "Odeslat ji na farmakoterapii, psychoterapie u struktury není indikována",
-   "Zaměřit se výhradně na nácvik asertivity bez práce s vnitřním konfliktem"
-  ],
-  "correct": 1,
-  "explanation": "Silné pozorující ego, integrovaná identita, únosnost afektu a stabilní aliance jsou přesně indikační kritéria pro expresivní (odkrývající) práci — interpretace konfliktu, který úspěchy ruší, tu má největší terapeutický potenciál. Čistě podpůrný postup by kapacitu pacientky nevyužil a konflikt konzervoval; behaviorální nácvik může být doplněk, ale míjí strukturální jádro; psychoterapie je u neurotické struktury indikací par excellence.",
-  "source": "Gabbard: Psychodynamická psychiatrie v klinické praxi, kap. expresivně-podpůrné kontinuum; McWilliams: Psychoanalytická diagnóza",
-  "seedElo": 1400
- },
- {
-  "id": "str-043",
-  "type": "I",
-  "category": "struktura-diagnostika",
-  "text": "Pan Bedřich s paranoidním charakterem na začátku terapie ostražitě sleduje, co si terapeut zapisuje, a ptá se, komu informace poputují. Z hlediska McWilliamsové doporučení pro práci s paranoidní dynamikou je nejvhodnější reakcí:",
-  "options": [
-   "Interpretovat nedůvěru hned jako projekci jeho vlastní agrese",
-   "Ujistit ho vřele, že 'tady mu přece nikdo nechce ublížit', a přisednout si blíž",
-   "Nedůvěru ignorovat a pokračovat v anamnéze, aby se nefixovala",
-   "Odpovědět věcně a transparentně, respektovat jeho potřebu odstupu a nedůvěru přijmout jako pochopitelnou, bez naléhání na blízkost"
-  ],
-  "correct": 3,
-  "explanation": "U paranoidní dynamiky buduje důvěru paradoxně ten, kdo o ni netlačí: maximální transparentnost, věcnost, respekt k autonomii a klidné přijetí nedůvěry jako legitimní. Časná interpretace projekce je prožita jako útok, přehnaná vřelost a fyzické přiblížení zvyšují ohrožení (a působí falešně), ignorování otázky potvrzuje podezření, že se něco skrývá. McWilliamsová doporučuje i střízlivý humor a důslednou poctivost v maličkostech.",
-  "source": "Nancy McWilliams: Psychoanalytická diagnóza, kap. Paranoidní osobnosti — terapeutické implikace",
-  "seedElo": 1550
- },
- {
   "id": "str-044",
   "type": "X",
   "category": "struktura-diagnostika",
@@ -709,6 +612,103 @@
   "deepDive": "**Symptom jako řešení.** Psychodynamické čtení stojí na staré, ale stále podvratné myšlence: symptom není jen porucha, je to nejlepší řešení, jaké daná struktura aktuálně má. Řez u hraniční pacientky bývá multifunkční nástroj — analgetikum na afekt, budík proti disociaci, trest pro nenáviděnou část self, někdy i způsob, jak tělu vrátit hranice. Klinický důsledek je zásadní: odebrat symptom bez porozumění jeho funkci znamená vzít člověku regulační nástroj a nedat náhradu. Proto se strukturální diagnostika neptá 'co pacient dělá špatně', ale 'jaký problém tím po svém řeší' — a teprve pak hledá zralejší řešení téhož problému."
  },
  {
+  "id": "str-020",
+  "type": "K",
+  "category": "struktura-diagnostika",
+  "text": "Obsedantní i paranoidní člověk potřebují mít věci 'pod kontrolou'. Jak se jejich kontrola psychodynamicky liší?",
+  "options": [
+   "Paranoidní kontrola je vědomá strategie, obsedantní nevědomá obrana",
+   "Obsedantní člověk kontroluje druhé, paranoidní kontroluje jen sebe",
+   "Neliší se — paranoidní styl je těžší varianta obsedantního",
+   "Obsedantní kontroluje vlastní impulzy a rozhodnutí (proti vině a chaosu uvnitř); paranoidní monitoruje okolí (proti ohrožení, které do něj projikoval)"
+  ],
+  "correct": 3,
+  "explanation": "Směr kontroly prozrazuje strukturu obrany: obsedantní dynamika krotí vnitřní svět — impulzy, afekty, rozhodnutí — izolací afektu a odčiňováním, protože jádrovým afektem je vina; paranoidní dynamika hlídá vnější svět, protože vlastní agrese byla projekcí přemístěna ven a vrací se jako ohrožení od druhých. Nejde o kontinuum téhož ani o rozdíl vědomé a nevědomé strategie.",
+  "source": "Nancy McWilliams: Psychoanalytická diagnóza, kap. Paranoidní a Obsedantní osobnosti; Shapiro: Neurotic Styles",
+  "seedElo": 1650
+ },
+ {
+  "id": "str-023",
+  "type": "K",
+  "category": "struktura-diagnostika",
+  "text": "Slečna Dita (19) prožívá zmatek ohledně studia, hodnot i vztahů. Co nejspolehlivěji odliší normativní adolescentní krizi identity od identitní difuze svědčící pro hraniční organizaci?",
+  "options": [
+   "Přítomnost silných emocí a konfliktů s rodiči",
+   "Věk — po 18. roce jde vždy o difuzi",
+   "Při krizi identity je zachován celkově soudržný prožitek sebe i druhých v čase a zmatek je prožíván jako konflikt; při difuzi jsou reprezentace sebe a druhých chronicky nespojité, protikladné a povrchní",
+   "Míra experimentování s rolemi a životními styly"
+  ],
+  "correct": 2,
+  "explanation": "Kernberg a Eriksonova tradice rozlišují: krize identity je bolestivé hledání uvnitř v zásadě soudržného self — dívka umí popsat, kdo je a kdo jsou její blízcí, jen si není jistá směrem. Difuze znamená, že samotné reprezentace jsou fragmentované a protikladné bez pocitu rozporu. Silné emoce, konflikty s rodiči i experimentování jsou v adolescenci normativní a nic strukturálního neprokazují; věková hranice žádná neexistuje.",
+  "source": "Otto F. Kernberg: Identity: Recent Findings and Clinical Implications; Erikson: Identity, Youth and Crisis",
+  "seedElo": 1650
+ },
+ {
+  "id": "str-026",
+  "type": "K",
+  "category": "struktura-diagnostika",
+  "text": "Štěpení a disociace se v běžné řeči zaměňují. Jaký je mezi nimi klíčový koncepční rozdíl?",
+  "options": [
+   "Disociace je vědomá strategie, štěpení nevědomá obrana",
+   "Štěpení odděluje protikladné reprezentace self a objektů (dobré vs. zlé) v rámci jednoho vědomí; disociace mění celý stav vědomí a může vytvářet amnestické bariéry mezi stavy",
+   "Jde o synonyma z různých teoretických škol",
+   "Štěpení se vyskytuje jen u hraniční poruchy, disociace jen u PTSD"
+  ],
+  "correct": 1,
+  "explanation": "Štěpení je obrana v rovině reprezentací: tentýž člověk je střídavě 'celý dobrý' a 'celý zlý', ale kontinuita vědomí a paměti se drží. Disociace je obrana v rovině stavu vědomí: prožitek je oddělen se změnou vědomí, často s amnézií, depersonalizací či přepnutím self-stavu — typicky v reakci na trauma. Obě jsou nevědomé a obě se vyskytují napříč diagnózami; rozdíl je v mechanismu, ne v nozologické příslušnosti.",
+  "source": "Nancy McWilliams: Psychoanalytická diagnóza, kap. Disociativní psychologie; Kernberg: Borderline Conditions and Pathological Narcissism",
+  "seedElo": 1650
+ },
+ {
+  "id": "str-014",
+  "type": "V",
+  "category": "struktura-diagnostika",
+  "text": "Terapeutka pracuje s paní Simonou, pacientkou s hraniční organizací. Během sezení se v ní nečekaně vzedme intenzivní vztek, jaký u sebe nezná, a chuť pacientku odmítnout — přesně to, co pacientka popisuje u všech blízkých lidí. Z hlediska teorie objektních vztahů je nejpřiléhavějším pojmenováním tohoto děje:",
+  "options": [
+   "Konkordantní protipřenos — terapeutka se identifikuje s prožíváním pacientky",
+   "Selhání terapeutčiny profesionality, které patří do supervize, nikoli do diagnostiky",
+   "Projektivní identifikace — pacientka nevědomě evokuje v terapeutce odštěpený objektní vzorec",
+   "Erotizovaný přenos v obranné podobě"
+  ],
+  "correct": 2,
+  "explanation": "Projektivní identifikace znamená, že pacient odštěpenou část zkušenosti (zde odmítající, vzteklý objekt) nevědomě 'uloží' do terapeuta interpersonálním tlakem, takže ji terapeut reálně prožívá — je to komplementární identifikace s objektem, ne s prožíváním pacienta (to by byl konkordantní protipřenos). Diagnosticky je to cenný signál primitivních obran hraniční organizace, nikoli pouhé profesní selhání.",
+  "source": "Otto F. Kernberg: Borderline Conditions and Pathological Narcissism; Racker: Transference and Countertransference",
+  "seedElo": 1700,
+  "deepDive": "**Projektivní identifikace jako diagnostický nástroj.** U neurotické organizace bývá protipřenos jemný a terapeut ho snadno drží jako 'informaci o pacientovi'. U hraniční organizace je tlak kvalitativně jiný: terapeut prožívá afekt jako *vlastní*, cizí a přesto neodbytný — jako by mu někdo do ruky vtiskl roli ze scénáře, který nečetl. Racker rozlišil identifikaci konkordantní (cítím to, co pacient) a komplementární (cítím to, co jeho vnitřní objekt). Právě intenzita a 'nevlastněnost' komplementárních stavů je jedním z nejspolehlivějších bed-side ukazatelů primitivních obran — a zároveň surovinou: když terapeut stav ustojí, zpracuje a vrátí ve stravitelné podobě, dělá přesně to, co Bion nazval kontejnováním."
+ },
+ {
+  "id": "str-022",
+  "type": "K",
+  "category": "struktura-diagnostika",
+  "text": "Jaký je rozdíl mezi testováním reality a vztahem k realitě (sense of reality) ve strukturální diagnostice?",
+  "options": [
+   "Jde o dva názvy téže funkce v různých překladech",
+   "Testování reality je schopnost odlišit vnitřní od vnějšího a vlastní od cizího; vztah k realitě zahrnuje subjektivní kvalitu prožívání reality (např. derealizaci), která může být narušena i při zachovaném testování",
+   "Vztah k realitě je narušen jen u psychóz, testování reality i u neuróz",
+   "Testování reality měří inteligenci, vztah k realitě emocionalitu"
+  ],
+  "correct": 1,
+  "explanation": "Testování reality (Kernbergovo klíčové kritérium) je kapacita rozlišit intrapsychické od vnějšího a udržet konvenční kritéria reality — jeho ztráta definuje psychotickou organizaci. Vztah k realitě je širší fenomenologická kvalita: pacient s depersonalizací či derealizací prožívá realitu 'divně', ale ví, že jde o jeho prožitek — testování je zachováno. Právě tato disociace obou funkcí je diagnosticky důležitá, aby se derealizace nezaměnila za psychózu.",
+  "source": "Otto F. Kernberg: Severe Personality Disorders; Frosch: The Psychotic Process",
+  "seedElo": 1700
+ },
+ {
+  "id": "str-038",
+  "type": "F",
+  "category": "struktura-diagnostika",
+  "text": "Čím se dle Kernberga liší maligní narcismus od 'běžné' narcistické poruchy osobnosti?",
+  "options": [
+   "Maligní narcismus je totéž co antisociální porucha osobnosti",
+   "K narcistické patologii se přidává egosyntonní agrese/sadismus, paranoidní rysy a antisociální chování — při alespoň částečně zachované schopnosti loajality a viny, která u čisté antisociální poruchy chybí",
+   "Maligní narcista má na rozdíl od běžného narcisty nízkou inteligenci",
+   "Liší se pouze mírou grandiozity ve fantazii"
+  ],
+  "correct": 1,
+  "explanation": "Kernberg řadí maligní narcismus na kontinuum mezi narcistickou a antisociální poruchu: grandiózní self je infiltrováno agresí, která je egosyntonní (sadismus je zdrojem sebeúcty), plus paranoidní orientace a antisociální rysy. Od plné antisociální poruchy jej odlišují zbytky kapacity pro loajalitu, závazek a vinu — proto je prognosticky o něco lepší. Není to synonymum antisociální poruchy ani otázka inteligence či pouhé fantazijní grandiozity.",
+  "source": "Otto F. Kernberg: Severe Personality Disorders; Aggressivity, Narcissism, and Self-Destructiveness in the Psychotherapeutic Relationship",
+  "seedElo": 1700
+ },
+ {
   "id": "str-045",
   "type": "X",
   "category": "struktura-diagnostika",
@@ -724,5 +724,885 @@
   "source": "Otto F. Kernberg: Borderline Conditions and Pathological Narcissism; Heinz Kohut: The Analysis of the Self",
   "seedElo": 1750,
   "deepDive": "**Spor, který se nedá rozsoudit od stolu.** Kernberg–Kohutova kontroverze je učebnicový příklad toho, jak teorie tvaruje techniku: kdo vidí v grandiozitě obranu proti agresi, konfrontuje; kdo v ní vidí zamrzlou vývojovou potřebu, zrcadlí. Pozdější klinická syntéza (a data o dvou tvářích narcismu — grandiózní vs. vulnerabilní) naznačuje, že oba popisují reálné, ale odlišné pacienty, případně odlišné fáze téhož pacienta: tlustokožný (thick-skinned) narcismus Rosenfeldova typu snese a potřebuje konfrontaci, tenkokožný (thin-skinned) se pod ní hroutí a potřebuje nejprve zrcadlení. Diagnostická otázka tedy nezní 'kdo měl pravdu', ale 'kterého pacienta mám právě před sebou'."
+ },
+ {
+  "id": "str-B01",
+  "type": "I",
+  "category": "struktura-diagnostika",
+  "text": "Z hlediska technické sekvence v terapii zaměřené na přenos (TFP) — jaký je náležitý sled tří základních verbálních nástrojů v rámci jedné intervence?",
+  "options": [
+   "Nejprve klarifikace nejasného materiálu, pak konfrontace rozporů, teprve poté interpretace.",
+   "Nejprve interpretace nevědomého motivu, pak klarifikace detailů, nakonec konfrontace.",
+   "Nejprve konfrontace afektu, pak interpretace obrany, teprve nakonec klarifikace obsahu.",
+   "Nejprve genetická rekonstrukce, pak klarifikace vzpomínek, teprve nakonec konfrontace."
+  ],
+  "correct": 0,
+  "explanation": "Klarifikace zjišťuje, co pacient vlastně sděluje, a vyčerpává jeho vědomé porozumění. Teprve když je materiál jasný, lze taktně poukázat na rozpory (konfrontace) a až pak nabídnout hypotézu o nevědomém významu. Interpretace vyslovená bez předchozích dvou kroků je spekulace, kterou pacient nemůže ověřit.",
+  "source": "Kernberg, Severe Personality Disorders (1984)",
+  "seedElo": 1850
+ },
+ {
+  "id": "str-A02",
+  "type": "V",
+  "category": "struktura-diagnostika",
+  "text": "Žena, 41 let, se nikdy nesebepoškozovala, neužívá látky a nemá bouřlivé rozchody. V terapii se ale ukazuje, že o sobě nedokáže říct nic souvislého, terapeuta prožívá střídavě jako spasitele a jako podvodníka a mezi oběma obrazy nevidí žádný rozpor. Co z hlediska Kernbergova strukturálního modelu platí?",
+  "options": [
+   "Bez impulzivních projevů nelze hraniční organizaci uzavřít",
+   "Jde o hraniční organizaci, impulzivita není jejím kritériem",
+   "Jde spíše o neurotickou organizaci s narcistickými rysy",
+   "Rozporné obrazy terapeuta samy o sobě značí psychotickou úroveň"
+  ],
+  "correct": 1,
+  "explanation": "Strukturální kritéria jsou identitní difuze, převaha primitivních obran a stav testování reality; impulzivita mezi ně nepatří. Existuje proto celá skupina takzvaně tichých hraničních pacientů, kteří vypadají zvenčí spořádaně. Neschopnost vůbec zaznamenat rozpor mezi protichůdnými obrazy objektu je klasický projev štěpení.",
+  "source": "Otto Kernberg, Borderline Conditions and Pathological Narcissism (1975)",
+  "seedElo": 1880
+ },
+ {
+  "id": "str-A01",
+  "type": "V",
+  "category": "struktura-diagnostika",
+  "text": "Muž, 34 let, splňuje kritéria hraniční organizace: identitní difuze, převaha štěpení, zachované testování reality. Přesto dokáže popsat svou terapeutku jako člověka s vlastními starostmi a mrzí ho, že ji minule zranil. Který marker z hlediska Kernbergovy diferenciace nižší a vyšší hraniční úrovně tato epizoda dokládá?",
+  "options": [
+   "Schopnost prožít vinu a starost o objekt",
+   "Převahu represe nad primitivním štěpením",
+   "Konsolidované a stabilní pojetí vlastního self",
+   "Vymizení agrese z jeho objektních vztahů"
+  ],
+  "correct": 0,
+  "explanation": "Uvnitř hraniční organizace odlišuje Kernberg vyšší a nižší úroveň především kvalitou objektních vztahů: schopnost prožít vinu, starost o druhého a reparaci ukazuje na vyšší patro. Represe zde stále nepřevládá a identita zůstává difuzní, jinak by nešlo o hraniční organizaci. Agrese nemizí, jen je lépe modulovaná.",
+  "source": "Otto Kernberg, Severe Personality Disorders (1984)",
+  "seedElo": 1900
+ },
+ {
+  "id": "str-B02",
+  "type": "I",
+  "category": "struktura-diagnostika",
+  "text": "Co je konfrontace v Kernbergově technickém smyslu — a co jí naopak není?",
+  "options": [
+   "Důrazné pojmenování pacientova odporu se záměrem prolomit jeho popírání.",
+   "Taktní upozornění na rozpory ve sdělení, chování a afektu pacienta.",
+   "Vyjádření terapeutovy nesouhlasné reakce na pacientovo destruktivní jednání.",
+   "Nabídnutí nevědomého významu, který pacientovy rozpory spojuje do celku."
+  ],
+  "correct": 1,
+  "explanation": "Konfrontace není agresivní ani moralizující akt; je to sesazení dvou nebo více vzájemně neslučitelných dat vedle sebe s otázkou, jak spolu souvisejí. Právě proto může být podána s laskavostí a zvědavostí. Terapeutův nesouhlas nebo výklad nevědomí jsou jiné operace.",
+  "source": "Kernberg, Severe Personality Disorders (1984)",
+  "seedElo": 1900
+ },
+ {
+  "id": "str-B03",
+  "type": "I",
+  "category": "struktura-diagnostika",
+  "text": "Z hlediska TFP — proč se u hraniční organizace osobnosti pracuje s přenosem v režimu „zde a teď“ a poměrně brzy v léčbě?",
+  "options": [
+   "Protože pacient nemá dost vzpomínek na dětství, aby šlo pracovat jinak než aktuálně.",
+   "Protože brzká práce v přenosu urychluje vznik terapeutické aliance a snižuje úzkost.",
+   "Protože primitivní objektní vztahy se aktivují intenzivně a rychle právě ve vztahu k terapeutovi.",
+   "Protože jinak by pacient interpretaci vnímal jako obvinění a předčasně by léčbu ukončil."
+  ],
+  "correct": 2,
+  "explanation": "U hraniční organizace se rozštěpené dyády projeví v přenosu s takovou intenzitou a rychlostí, že jsou bezprostředně pozorovatelné oběma stranami. Materiál je proto nejzřetelnější a nejověřitelnější v aktuálním vztahu, ne v rekonstrukci minulosti. Práce zde a teď navíc chrání rámec před zaplavením jednáním.",
+  "source": "Clarkin, Yeomans & Kernberg, Psychotherapy for Borderline Personality (2006)",
+  "seedElo": 1900
+ },
+ {
+  "id": "str-A03",
+  "type": "V",
+  "category": "struktura-diagnostika",
+  "text": "Muž, 29 let, mění zájmy, názory i profesní směr podle toho, s kým se právě přátelí. Napodobování je plynulé a bezkonfliktní, on sám žádnou prázdnotu ani faleš nehlásí a okolí ho vnímá jako sympaticky přizpůsobivého. Který popis odpovídá pojmu as-if osobnosti u Heleny Deutschové?",
+  "options": [
+   "Chronický pocit vnitřní prázdnoty maskovaný výkonem",
+   "Vědomé předstírání zájmů kvůli sociálnímu prospěchu",
+   "Plynulá mimikry bez prožitku faleše i vnitřního jádra",
+   "Stažení do fantazie při vyhýbání se blízkým vztahům"
+  ],
+  "correct": 2,
+  "explanation": "Deutschová popsala as-if osobnost jako člověka, jehož vztahovost je formálně bezvadná, ale postrádá vlastní jádro; napodobení je automatické a pacient sám je neprožívá jako přetvářku. Tím se liší od Winnicottova falešného self, kde bývá přítomen pocit neskutečnosti a marnosti, i od schizoidního stažení, kde je vnitřní svět bohatý, jen skrytý. Chybějící subjektivní stížnost je zde diagnosticky klíčová.",
+  "source": "Helene Deutsch, Some Forms of Emotional Disturbance and Their Relationship to Schizophrenia (1942)",
+  "seedElo": 1930
+ },
+ {
+  "id": "str-A04",
+  "type": "K",
+  "category": "struktura-diagnostika",
+  "text": "Před čím podle kleiniánského a Winnicottova pojetí chrání hypomanická obrana především?",
+  "options": [
+   "Před nárůstem paranoidní úzkosti z pronásledujícího objektu",
+   "Před rozpadem testování reality při silné regresi",
+   "Před vědomím vlastní závislosti na idealizovaném partnerovi",
+   "Před depresivní bolestí ze ztráty a poškození objektu"
+  ],
+  "correct": 3,
+  "explanation": "Manická a hypomanická obrana je podle Kleinové odpovědí na depresivní pozici: triumf, kontrola a znehodnocení objektu popírají jeho význam, a tím i bolest ze ztráty a viny za jeho poškození. Winnicott na tomtéž stavěl pojem manické obrany jako popření vnitřní reality. Paranoidní úzkost patří do dřívější pozice a manická obrana ji spíše doprovází než mírní.",
+  "source": "Melanie Klein, A Contribution to the Psychogenesis of Manic-Depressive States (1935)",
+  "seedElo": 1950
+ },
+ {
+  "id": "str-C01",
+  "type": "V",
+  "category": "struktura-diagnostika",
+  "text": "Muž (42) přichází tři týdny po náhlé smrti otce v nápadně povznesené náladě, mluví rychle a rozjíždí tři nové projekty. Které kritérium podle McWilliamsové nejspolehlivěji odliší hypomanickou obranu od skutečné vitality?",
+  "options": [
+   "Tempo řeči a množství plánů — čím vyšší tempo, tím spolehlivější známka obranné povahy nálady.",
+   "Rodinná zátěž bipolární poruchou, která z povznesené nálady činí především biologický jev.",
+   "Nedostupnost smutku a znehodnocení ztráty — vitalita ztrátu unese, obrana ji musí popřít.",
+   "Trvání nálady déle než čtyři dny vkuse, což je hranice mezi hypomanií a běžným rozpoložením."
+  ],
+  "correct": 2,
+  "explanation": "Hypomanická obrana je útěkem před truchlením: ztráta se nezpracovává, nýbrž se zlehčí a nahradí pohybem vpřed. Skutečná vitalita naopak smutek nevylučuje — člověk může být plný energie a přitom mít k ztrátě přístup. Diagnostickým vodítkem tedy není intenzita nálady, ale to, zda je afekt zármutku dosažitelný, nebo systematicky obcházen.",
+  "source": "McWilliams, Psychoanalytic Diagnosis (2011)",
+  "seedElo": 1950
+ },
+ {
+  "id": "str-A05",
+  "type": "V",
+  "category": "struktura-diagnostika",
+  "text": "Terapeutka popisuje u dvou mužů odlišný protipřenos. U prvního cítí mrazivou prázdnotu a nutkání ověřovat si každý údaj. U druhého strach smíšený s fascinací jeho velikostí a se záchvěvy naděje, že se k ní přece jen nějak vztahuje. Který závěr z hlediska Kernbergova spektra antisociální patologie sedí?",
+  "options": [
+   "Druhý muž je blíže malignímu narcismu, první psychopatii",
+   "Oba obrazy odpovídají shodně maligní narcistické organizaci",
+   "První muž je blíže malignímu narcismu, druhý psychopatii",
+   "Protipřenos zde nerozlišuje, rozhodne až anamnéza chování"
+  ],
+  "correct": 0,
+  "explanation": "U maligního narcismu zůstává jistá schopnost vztahovosti a idealizace, takže protipřenos je horký: strach, fascinace, ale i naděje. U psychopatie v úzkém Hareově smyslu terapeut typicky prožívá chlad, prázdnotu a nedůvěru k předkládaným faktům. Právě tato protipřenosová signatura je jedním z prakticky nejcitlivějších rozlišovacích nástrojů a odpovídá i rozdílu v prognóze.",
+  "source": "Otto Kernberg, Severe Personality Disorders (1984)",
+  "seedElo": 2000
+ },
+ {
+  "id": "str-B05",
+  "type": "I",
+  "category": "struktura-diagnostika",
+  "text": "Z hlediska udržení rámce — jaká je hlavní strukturální funkce terapeutické smlouvy u pacienta s hraniční organizací?",
+  "options": [
+   "Právně chrání terapeuta a instituci před následky pacientova rizikového jednání.",
+   "Vytváří stabilní rámec, v němž se odchylky od dohody stanou čitelným materiálem.",
+   "Zajišťuje, aby pacient docházel pravidelně a nepřerušoval léčbu v obdobích krize.",
+   "Předem vymezuje cíle terapie, aby bylo možné měřit její výsledek a účinnost."
+  ],
+  "correct": 1,
+  "explanation": "Smlouva není administrativní ani pojistný akt: definuje podmínky, za nichž lze vůbec pozorovat a interpretovat. Jakmile je rámec jasný, každé jeho porušení či ohýbání se stává viditelnou manifestací přenosu, kterou lze zpracovat slovy. Bez rámce se tentýž materiál odehrává v jednání a mimo dosah interpretace.",
+  "source": "Yeomans, Clarkin & Kernberg, A Primer of Transference-Focused Psychotherapy (2002)",
+  "seedElo": 2000
+ },
+ {
+  "id": "str-B06",
+  "type": "I",
+  "category": "struktura-diagnostika",
+  "text": "Pacientka s opakovaným sebepoškozováním má být přijata do ambulantní expresivní léčby. Z hlediska konstrukce smlouvy — jak se má suicidální a sebepoškozující chování ošetřit?",
+  "options": [
+   "Předem se dohodne, kam se pacientka obrací v krizi, a terapeut se nestává krizovou službou.",
+   "Terapeut se zaváže být trvale telefonicky dostupný, aby udržel pacientku naživu.",
+   "Sebepoškozování se ve smlouvě nezmiňuje, aby se mu nedodával přenosový význam.",
+   "Pacientka podepíše závazek, že se nezraní, jinak bude léčba ihned ukončena."
+  ],
+  "correct": 0,
+  "explanation": "Smlouva odděluje péči o bezpečí (pohotovost, somatická péče, jasné kroky pacientky) od psychoterapeutické práce, kterou by neustálá krizová role terapeuta zničila. Terapeut se tak nestává objektem, jehož záchranné jednání lze získávat symptomem. Kontrakt musí být realistický, nikoli slibem, který nelze dodržet, ani hrozbou vyloučením.",
+  "source": "Yeomans, Clarkin & Kernberg, Transference-Focused Psychotherapy for Borderline Personality Disorder (2015)",
+  "seedElo": 2000
+ },
+ {
+  "id": "str-B12",
+  "type": "I",
+  "category": "struktura-diagnostika",
+  "text": "Z hlediska rámce léčby — jakou funkci má plánovaná hospitalizace u pacienta v ambulantní expresivní psychoterapii?",
+  "options": [
+   "Nahrazuje psychoterapii po dobu krize, protože oba postupy nelze vést souběžně.",
+   "Signalizuje selhání terapie a měla by vést k předání pacienta jinému terapeutovi.",
+   "Slouží k prohloubení regrese, aby se rozštěpené sektory přenosu zpřístupnily práci.",
+   "Je předem dohodnutou součástí rámce, která umožní léčbě pokračovat i přes krizi."
+  ],
+  "correct": 3,
+  "explanation": "Hospitalizace se v TFP pojímá jako předvídaná složka struktury, nikoli jako konec nebo trest: chrání bezpečí a zároveň brání tomu, aby terapeut sám suploval nemocniční funkci. Když je dohodnuta předem, lze její použití interpretovat jako součást přenosu, ne jen jako administrativní událost. Regrese je zde vedlejším rizikem, ne cílem.",
+  "source": "Yeomans, Clarkin & Kernberg, Transference-Focused Psychotherapy for Borderline Personality Disorder (2015)",
+  "seedElo": 2000
+ },
+ {
+  "id": "str-A06",
+  "type": "V",
+  "category": "struktura-diagnostika",
+  "text": "Dva pacienti mají grandiózní sebeobraz i citlivost na kritiku. První se po neúspěchu stydí a stáhne se, ale dál pracuje a má trvalá přátelství. Druhý po neúspěchu terapeuta znehodnotí, přeruší kontakt a jeho vztahy se rozpadají v sériích. Který marker z hlediska strukturální úrovně obě prezentace rozděluje?",
+  "options": [
+   "Přítomnost grandiózního self jen u druhého pacienta",
+   "Hloubka a stálost investice do objektů mimo sebe sama",
+   "Míra vědomého prožívání studu po utrpěném neúspěchu",
+   "Zachovalé testování reality pouze u prvního pacienta"
+  ],
+  "correct": 1,
+  "explanation": "Narcistické rysy se vyskytují na neurotické i na hraniční úrovni; rozhoduje kvalita objektních vztahů, ne přítomnost grandiozity. Neuroticky organizovaný narcista udrží dlouhodobé vazby a druzí pro něj nejsou jen zdrojem zásobování. U narcistické organizace na hraniční úrovni se objekty po znehodnocení stávají zbytnými a vztahová historie je sériově přetržená. Testování reality je zachované u obou.",
+  "source": "Otto Kernberg, Borderline Conditions and Pathological Narcissism (1975)",
+  "seedElo": 2020
+ },
+ {
+  "id": "str-A12",
+  "type": "V",
+  "category": "struktura-diagnostika",
+  "text": "Dvě pacientky se v přenosu podceňují. První se propadne, když terapeut zruší sezení, a mlčky se obviňuje, že za to nejspíš může. Druhá po každé terapeutově pochvale ohlásí nový průšvih a jakoby vítězně mu ukáže, jak to zase pokazila. Který přenosový rozdíl ukazuje na masochistickou dynamiku?",
+  "options": [
+   "Ochota přijmout odpovědnost i za cizí selhání",
+   "Intenzivní stud po ztrátě terapeutovy pozornosti",
+   "Zpomalení a útlum po zklamání ve vztahu k terapeutovi",
+   "Utrpení nabízené terapeutovi jako skrytá výčitka"
+  ],
+  "correct": 3,
+  "explanation": "Depresivní dynamika obrací agresi dovnitř a končí sebeobviněním a útlumem; sebeobvinění je zde cílem samo o sobě. Masochistická dynamika má navíc adresáta: utrpení je předváděno jako důkaz proti druhému a nese v sobě skrytý triumf a výčitku. Prakticky se pozná podle toho, že pacientovo zhoršení pravidelně následuje po terapeutově vstřícném kroku.",
+  "source": "Nancy McWilliams, Psychoanalytic Diagnosis (2011)",
+  "seedElo": 2040
+ },
+ {
+  "id": "str-A07",
+  "type": "V",
+  "category": "struktura-diagnostika",
+  "text": "Žena, 37 let, nemá halucinace ani zjevné bludy a v zaměstnání funguje. Ve strukturálním interview ale při konfrontaci s tím, že se tváří vyděšeně, zatímco mluví klidně, vysvětlí, že terapeut zachytil signál posílaný jejím bývalým zaměstnavatelem, a tuto ideu nelze nijak zpochybnit. Co to z hlediska Kernbergova modelu ukazuje?",
+  "options": [
+   "Vyšší hraniční úroveň s přechodnou paranoidní úzkostí",
+   "Neurotickou organizaci v hluboké regresi během interview",
+   "Psychotickou organizaci navzdory chybějícím floridním příznakům",
+   "Nižší hraniční úroveň se sklonem k mikropsychotickým epizodám"
+  ],
+  "correct": 2,
+  "explanation": "Rozhodujícím kritériem není přítomnost halucinací či bludů v anamnéze, ale to, zda pacient dokáže po konfrontaci obnovit sdílený pohled na realitu. Zde konfrontace nevede k obnově, ale k rozvinutí nekorigovatelného vysvětlení, což je definiční ztráta testování reality. Zachovaná pracovní adaptace to nevyvrací; psychotická organizace může být klinicky velmi tichá.",
+  "source": "Otto Kernberg, Structural Interviewing (1981)",
+  "seedElo": 2050
+ },
+ {
+  "id": "str-B07",
+  "type": "I",
+  "category": "struktura-diagnostika",
+  "text": "Z hlediska technického vedení léčby — jak se má zacházet se sekundárními zisky ze symptomu (invalidita, péče okolí, úleva od nároků)?",
+  "options": [
+   "Ponechají se stranou, protože jde o sociální realitu mimo pole psychoterapie.",
+   "Interpretují se jako nevědomá agrese vůči pečujícím osobám v pacientově okolí.",
+   "Ustoupí se jim dočasně, aby si pacient udržel motivaci setrvat v léčbě.",
+   "Omezí se už v kontraktu, protože jinak převáží nad motivací ke změně."
+  ],
+  "correct": 3,
+  "explanation": "Silné sekundární zisky činí uzdravení nevýhodným a mohou léčbu vyprázdnit dřív, než začne. Proto se s nimi zachází strukturálně: pojmenují se a ohraničí v úvodní smlouvě (například podmínkou práce, studia či strukturované činnosti). Pouhá interpretace bez změny podmínek na ně zpravidla nestačí.",
+  "source": "Kernberg, Severe Personality Disorders (1984)",
+  "seedElo": 2050
+ },
+ {
+  "id": "str-B08",
+  "type": "I",
+  "category": "struktura-diagnostika",
+  "text": "Z hlediska TFP — proč nesmí negativní přenos u hraniční organizace zůstat neinterpretovaný, i když se sezení jeví jako vřelá a spolupracující?",
+  "options": [
+   "Protože hostilita bez výkladu vede k nárůstu symptomů a k potřebě medikace.",
+   "Protože nevyslovený hněv pacienta poškozuje terapeuta a vede k jeho vyhoření.",
+   "Protože rozštěpená agrese se pak odehrává v jednání mimo sezení a léčba zůstává povrchní.",
+   "Protože nezpracovaná hostilita zabraňuje vytvoření pozitivního přenosu a spolupráce."
+  ],
+  "correct": 2,
+  "explanation": "Idealizovaný sektor přenosu bývá u hraniční organizace udržován právě tím, že agrese je odštěpena a vybíjena mimo vztah k terapeutovi — v jednání, v jiných vztazích nebo v symptomu. Nechá-li se tento sektor bez povšimnutí, terapie se stává příjemnou a neúčinnou. Interpretace agrese v přenosu je podmínkou integrace.",
+  "source": "Kernberg, Aggression in Personality Disorders and Perversions (1992)",
+  "seedElo": 2050
+ },
+ {
+  "id": "str-B11",
+  "type": "I",
+  "category": "struktura-diagnostika",
+  "text": "Z hlediska kontraindikací — která intervence je u pacienta s psychotickou úrovní organizace osobnosti technicky nevhodná?",
+  "options": [
+   "Klarifikace toho, co pacient prožívá a jak si vysvětluje chování druhých lidí.",
+   "Interpretace bludného přesvědčení jako projekce pacientovy vlastní agrese.",
+   "Vymezení rámce léčby včetně podmínek kontaktu mezi jednotlivými sezeními.",
+   "Pojmenování odlišnosti pacientova a terapeutova pohledu na jednu situaci."
+  ],
+  "correct": 1,
+  "explanation": "Při ztrátě testování reality nemá pacient pozorující část, která by hypotézu o projekci mohla přijmout jako hypotézu — interpretace se stane další realitou a zpravidla posílí perzekuci. Pracuje se strukturujícím a klarifikujícím způsobem, s opatrným zvýrazněním rozdílu mezi dvěma pohledy. Odkrývání nevědomých významů se odkládá.",
+  "source": "Kernberg, Severe Personality Disorders (1984)",
+  "seedElo": 2050
+ },
+ {
+  "id": "str-A08",
+  "type": "V",
+  "category": "struktura-diagnostika",
+  "text": "Muž po náhlé ztrátě partnerky prožil dva dny přesvědčení, že ho sledují sousedé. Když ho terapeut na sezení taktně konfrontoval s tím, jak to působí, myšlenku sám opustil a označil ji za nesmyslnou. Co z hlediska kritéria testování reality platí?",
+  "options": [
+   "Jde o psychotickou organizaci, protože blud byl přítomen",
+   "Nelze rozhodnout, dokud přesvědčení nezmizí bez zásahu",
+   "Jde o psychotickou dekompenzaci s trvalou ztrátou reality",
+   "Testování reality bylo obnovitelné, tedy hraniční úroveň"
+  ],
+  "correct": 3,
+  "explanation": "Kernbergovo kritérium není binární přítomnost podivné ideje, ale její reverzibilita v konfrontaci. Přechodné psychotické epizody, které se po empatické konfrontaci srovnají, patří k hraniční organizaci a nazývají se mikropsychotické. O psychotické úrovni se mluví teprve tehdy, když konfrontace testování reality neobnoví.",
+  "source": "Otto Kernberg, Structural Interviewing (1981)",
+  "seedElo": 2060
+ },
+ {
+  "id": "str-A09",
+  "type": "V",
+  "category": "struktura-diagnostika",
+  "text": "Žena, 33 let, popisuje střídání ostře odlišných sebeprožitků, ztráty času a nálezy neznámých věcí ve své tašce. Zároveň u ní nacházíme štěpení i identitní difuzi. Který znak z hlediska diferenciace disociativní poruchy identity a prosté hraniční organizace váží nejvíce?",
+  "options": [
+   "Amnestické bariéry mezi jednotlivými stavy self",
+   "Rychlé střídání idealizace a znehodnocení druhých",
+   "Kolísání nálady napříč jednotlivými dny a týdny",
+   "Prožitek vnitřní prázdnoty a nejistoty ohledně cílů"
+  ],
+  "correct": 0,
+  "explanation": "Hraniční organizace i disociativní porucha identity sdílejí nesouvislé sebeprožívání, takže samotná identitní difuze nerozhoduje. Diferenciálně váží amnézie mezi stavy: u štěpení jsou protichůdné self-stavy dostupné paměti, jen nejsou propojeny afektivně, kdežto disociace zavírá i přístup k obsahu. Kolísání nálady a znehodnocování jsou přítomny u obou.",
+  "source": "Nancy McWilliams, Psychoanalytic Diagnosis (2011)",
+  "seedElo": 2080
+ },
+ {
+  "id": "str-A10",
+  "type": "K",
+  "category": "struktura-diagnostika",
+  "text": "Pacient přichází s letitými bolestmi bez organického nálezu a nedokáže pojmenovat prakticky žádnou emoci. Co o strukturální úrovni tento obraz sám o sobě vypovídá?",
+  "options": [
+   "Ukazuje na psychotickou úroveň kvůli chybějící mentalizaci",
+   "Nic určitého, protože se vyskytují napříč všemi úrovněmi",
+   "Ukazuje na hraniční úroveň kvůli slabosti ega a afektů",
+   "Ukazuje na neurotickou úroveň, jde o konverzní mechanismus"
+  ],
+  "correct": 1,
+  "explanation": "Alexithymie a somatizace jsou způsoby zacházení s afektem, nikoli ukazatele strukturální úrovně; potkáme je u neuroticky organizovaného obsedanta i u psychotické organizace. Úroveň se určuje z identity, obran a testování reality, nikoli ze symptomu. Prognosticky se ale liší, co za stejným povrchem stojí, a proto je nutné doptat se na strukturu.",
+  "source": "PDM-2 (2017), osa S a osa M",
+  "seedElo": 2100
+ },
+ {
+  "id": "str-A11",
+  "type": "K",
+  "category": "struktura-diagnostika",
+  "text": "Klinička uvažuje, zda obsedantní charakter a obsedantně-kompulzivní porucha leží na jedné a téže ose závažnosti. Co z hlediska psychodynamické diagnostiky platí?",
+  "options": [
+   "Obsedantní charakter je vždy mírnější formou téže poruchy",
+   "Kompulzivní rituály předpokládají obsedantní charakter",
+   "Jsou nezávislé, rituály se objevují i na hraniční úrovni",
+   "Obsedantní charakter vylučuje současnou kompulzivní poruchu"
+  ],
+  "correct": 2,
+  "explanation": "Charakter a symptom jsou dvě různé roviny: obsedantní charakterová organizace nemusí nikdy vyústit v rituály a naopak těžké kompulze potkáváme u lidí s hraniční i psychotickou organizací, kde mají zcela jinou funkci i prognózu. Diagnostický závěr proto vyžaduje posoudit obojí zvlášť. Zaměňování obou rovin vede k nadhodnocení příznivosti prognózy.",
+  "source": "Nancy McWilliams, Psychoanalytic Diagnosis (2011)",
+  "seedElo": 2100
+ },
+ {
+  "id": "str-B09",
+  "type": "I",
+  "category": "struktura-diagnostika",
+  "text": "Z hlediska technického rozlišení — jaký je rozdíl mezi acting out a acting in a jaký má důsledek pro intervenci?",
+  "options": [
+   "Acting out je vědomé porušení pravidel, acting in nevědomé; obojí se řeší připomenutím smlouvy.",
+   "Acting out je impulzivní čin, acting in je somatizace; první se ohraničuje, druhý deleguje lékaři.",
+   "Acting out se odehrává mimo sezení, acting in přímo v něm; oboje je přenosový materiál k výkladu.",
+   "Acting out je projevem agrese, acting in projevem libidinózní touhy; liší se tématem interpretace."
+  ],
+  "correct": 2,
+  "explanation": "Rozlišení je především topologické: totéž nezvědomované odehrání se objevuje buď v pacientově životě mezi sezeními, nebo přímo ve vztahu k terapeutovi (mlčení, příchody, pohyb v místnosti, ovlivňování terapeutova jednání). Acting in je technicky cennější, protože je bezprostředně pozorovatelný a interpretovatelný. Cílem je v obou případech převést jednání do řeči.",
+  "source": "Kernberg, Severe Personality Disorders (1984)",
+  "seedElo": 2100
+ },
+ {
+  "id": "str-B10",
+  "type": "I",
+  "category": "struktura-diagnostika",
+  "text": "Z hlediska rizik techniky — proč mohou podpůrné intervence (rady, povzbuzení, přímé vedení) u pacienta s neurotickou organizací bránit odkryvné práci?",
+  "options": [
+   "Protože posilují přenos, který se pak nedá analyzovat, neboť terapeut v něm reálně jedná.",
+   "Protože pacient je zvyklý na direktivní vedení a přestane docházet na pravidelná sezení.",
+   "Protože podpora u těchto pacientů vyvolává regresi až na hraniční úroveň fungování.",
+   "Protože rada je vždy nepřesná, jelikož terapeut nezná pacientovu reálnou situaci."
+  ],
+  "correct": 0,
+  "explanation": "Podpůrné techniky pracují s přenosem tím, že jej využívají, nikoli vykládají — terapeut se stává reálnou autoritou či poskytovatelem, a přenosové zabarvení jeho jednání se pak už nedá bezpečně odlišit od reality. U pacienta s dostatečnou kapacitou k odkryvné práci tím ubývá analyzovatelného materiálu. Volba je tedy strukturálně vedená, ne podle terapeutovy vlídnosti.",
+  "source": "Kernberg, Object Relations Theory and Clinical Psychoanalysis (1976)",
+  "seedElo": 2100
+ },
+ {
+  "id": "str-A13",
+  "type": "V",
+  "category": "struktura-diagnostika",
+  "text": "Vysoce funkční, neuroticky organizovaná pacientka se po terapeutově dovolené chová na dvou sezeních paranoidně: terapeut se jí prý chce zbavit a přátelé jsou proti ní. Po interpretaci vzteku ze zklamání se obraz během jednoho sezení srovná. Co z hlediska kleiniánského pojetí pozic platí?",
+  "options": [
+   "Paranoidně-schizoidní pozice je kolísavý mód, ne úroveň",
+   "Neurotickou diagnózu je nutné revidovat na hraniční organizaci",
+   "Přechod do této pozice značí ztrátu testování reality",
+   "U neurotické organizace se tato pozice běžně neaktivuje"
+  ],
+  "correct": 0,
+  "explanation": "Kleinová i Bion chápou pozice jako oscilaci, do níž lze kdykoli spadnout a zase se vrátit, nikoli jako trvalé zařazení pacienta. Neuroticky organizovaný člověk se v regresi na chvíli ocitne v paranoidně-schizoidním fungování a je to diagnosticky nevýznamné, pokud se po interpretaci obnoví depresivní pozice. Rozhoduje pružnost návratu, ne to, že k propadu vůbec došlo.",
+  "source": "Wilfred Bion, Learning from Experience (1962), pojem PS↔D",
+  "seedElo": 2150
+ },
+ {
+  "id": "str-B13",
+  "type": "I",
+  "category": "struktura-diagnostika",
+  "text": "Z hlediska TFP — co je vlastním předmětem interpretace, když pacient v jednom sezení terapeuta popisuje jako jediného chápajícího člověka a v dalším jako chladného byrokrata?",
+  "options": [
+   "Reálné chování terapeuta, které mezi sezeními patrně zavdalo příčinu ke zklamání.",
+   "Pacientovo dětské zklamání z rodiče, jehož opakováním je aktuální kolísání pocitů.",
+   "Aktuální afekt hněvu, který má být plně vyjádřen dříve, než se hledá jeho význam.",
+   "Souběžná existence obou obrazů a fakt, že pacient mezi nimi nevidí žádný rozpor."
+  ],
+  "correct": 3,
+  "explanation": "Interpretovat se má samo štěpení jako obranná operace — tedy to, že vzájemně neslučitelné obrazy koexistují bez úzkosti z rozporu. Terapeut nejprve klarifikuje a konfrontuje oba sektory vedle sebe a teprve pak nabízí, co udržování jejich oddělenosti chrání. Zaměření na jeden z obrazů (nebo na jeho dětský původ) štěpení naopak posiluje.",
+  "source": "Kernberg, Borderline Conditions and Pathological Narcissism (1975)",
+  "seedElo": 2150
+ },
+ {
+  "id": "str-B14",
+  "type": "I",
+  "category": "struktura-diagnostika",
+  "text": "Z hlediska analýzy rozštěpených sektorů přenosu — jaký je technicky správný postup, chce-li terapeut směřovat k integraci?",
+  "options": [
+   "Systematicky interpretovat idealizovaný sektor a negativní ponechat, dokud nezeslábne.",
+   "Střídavě posilovat pozitivní sektor a oslabovat negativní, aby převládl pracovní vztah.",
+   "Postupně pojmenovat každý sektor zvlášť a pak je propojit v jedné společné interpretaci.",
+   "Zaměřit se výhradně na aktuálně dominantní sektor a ostatní zcela nechat stranou."
+  ],
+  "correct": 2,
+  "explanation": "Integrace vzniká tím, že se oba oddělené vztahové scénáře nejprve stanou jasně popsatelnými (kdo je kdo, jaký afekt je mezi nimi) a teprve pak se ukáže jejich vzájemný vztah v pacientově mysli. Selektivní podpora jednoho sektoru jen prohlubuje štěpení. Interpretace propojující sektory je vrcholem, ne východiskem práce.",
+  "source": "Clarkin, Yeomans & Kernberg, Psychotherapy for Borderline Personality (2006)",
+  "seedElo": 2150
+ },
+ {
+  "id": "str-B20",
+  "type": "I",
+  "category": "struktura-diagnostika",
+  "text": "Z hlediska psychodynamického vedení léčby — jak se má zacházet s medikací u pacientky s hraniční organizací, která ji vnímá jako důkaz terapeutovy péče?",
+  "options": [
+   "Medikaci vysadit, protože její význam v přenosu znemožňuje odkryvnou práci.",
+   "Význam medikace neřešit, aby se nenarušila adherence a spolupráce s psychiatrem.",
+   "Indikaci vést podle klinických kritérií a její přenosový význam zároveň interpretovat.",
+   "Předepisování přenechat kolegovi a všechna témata o lécích odkázat na jeho péči."
+  ],
+  "correct": 2,
+  "explanation": "Lék je současně farmakologický nástroj a objekt v pacientčině vnitřním světě; obojí je třeba držet zároveň. Redukce na jedno z toho vede buď k ignorování významů (a k tichému odehrávání), nebo k odmítání účinné léčby ve jménu čistoty techniky. Rozdělení rolí mezi psychiatra a terapeuta je možné, ale význam medikace tím z terapie nezmizí.",
+  "source": "Gabbard, Psychodynamic Psychiatry in Clinical Practice (2014)",
+  "seedElo": 2150
+ },
+ {
+  "id": "str-B23",
+  "type": "I",
+  "category": "struktura-diagnostika",
+  "text": "Z hlediska struktury pacienta — čím se liší práce v ukončovací fázi u neurotické a u hraniční organizace?",
+  "options": [
+   "U neurotické organizace se ukončení plánuje dlouho dopředu, u hraniční se má oznámit náhle.",
+   "U neurotické převažuje truchlení a zvědomění reakcí na ztrátu, u hraniční hrozí návrat štěpení.",
+   "U neurotické organizace se závěrečná fáze zkracuje, u hraniční se prodlužuje na několik let.",
+   "U obou úrovní jde především o zhodnocení dosažených cílů a předání do následné péče."
+  ],
+  "correct": 1,
+  "explanation": "U neurotické organizace je konec typicky prací s ambivalentním smutkem a s oživením přenosových témat kolem ztráty. U hraniční organizace je hlavním rizikem reaktivace štěpení — terapeut se náhle stává buď opuštěcím pronásledovatelem, nebo je znehodnocen, aby ztráta nebolela. Právě tento pohyb je nutné předvídat a interpretovat.",
+  "source": "Clarkin, Yeomans & Kernberg, Psychotherapy for Borderline Personality (2006)",
+  "seedElo": 2150
+ },
+ {
+  "id": "str-A14",
+  "type": "V",
+  "category": "struktura-diagnostika",
+  "text": "Terapeut popisuje u tří pacientů odlišný protipřenos. U prvního nudu a ospalost, u druhého silné a rychle se střídající emoce od záchranářství k vzteku, u třetího pocit, že je pouhým publikem a jeho vlastní přítomnost je zbytná. Které přiřazení protipřenosových signatur k organizacím je nejpřiléhavější?",
+  "options": [
+   "Narcistická – hraniční – schizoidní organizace",
+   "Schizoidní – hraniční – narcistická organizace",
+   "Hraniční – schizoidní – narcistická organizace",
+   "Schizoidní – narcistická – hraniční organizace"
+  ],
+  "correct": 1,
+  "explanation": "Nuda a ospalost jsou typickou odpovědí na schizoidní stažení, kde je afekt držen mimo místnost. Rychle se převracející silné emoce terapeuta odpovídají projektivní identifikaci u hraniční organizace. Pocit zbytného publika je klasickou signaturou narcistické organizace, kde terapeut není objektem, ale zrcadlem. Protipřenos je tak rutinním diagnostickým nástrojem, ne jen rušivým šumem.",
+  "source": "Nancy McWilliams, Psychoanalytic Diagnosis (2011)",
+  "seedElo": 2160
+ },
+ {
+  "id": "str-A23",
+  "type": "V",
+  "category": "struktura-diagnostika",
+  "text": "Který z uvedených údajů je u hraničně organizovaného pacienta z hlediska indikace expresivní, odkryvné psychoterapie nejsilnějším pozitivním prognostickým markerem?",
+  "options": [
+   "Vysoká inteligence a dobrá schopnost psychologicky uvažovat",
+   "Nepřítomnost sebepoškozování v posledních dvanácti měsících",
+   "Doložená schopnost udržet aspoň jeden dlouhodobý vztah",
+   "Silná motivace pacienta a jeho zájem o vlastní minulost"
+  ],
+  "correct": 2,
+  "explanation": "Kernberg opakovaně uvádí kvalitu objektních vztahů jako nejsilnější prediktor výsledku odkryvné práce, silnější než inteligence, motivace i aktuální symptomatika. Alespoň jeden trvalý, nepovrchní vztah v anamnéze dokládá, že pacient je schopen investovat do objektu a udržet jej v mysli i přes zklamání, což je přesně kapacita, o niž se přenosová práce opírá. Motivace a inteligence jsou příznivé, ale samy o sobě málo předpovídají.",
+  "source": "Otto Kernberg, Severe Personality Disorders (1984)",
+  "seedElo": 2170
+ },
+ {
+  "id": "str-A15",
+  "type": "V",
+  "category": "struktura-diagnostika",
+  "text": "Terapeut ve strukturálním interview konfrontuje pacienta s rozporem mezi tím, co říká, a tím, jak přitom vypadá. Co z hlediska Kernbergovy metodiky o strukturální úrovni rozhoduje?",
+  "options": [
+   "Zda pacient rozpor po konfrontaci sám v klidu doplní",
+   "Zda pacient na konfrontaci reaguje hněvem nebo studem",
+   "Jak se po konfrontaci promění pacientovo testování reality",
+   "Zda pacient rozpor v dalším sezení spontánně připomene"
+  ],
+  "correct": 2,
+  "explanation": "Konfrontace v Kernbergově pojetí není nátlak, ale test: nabídne pacientovi rozpor a sleduje, co s ním udělá. Neuroticky organizovaný pacient rozpor integruje, hraniční jej vysvětlí štěpením, ale sdílený rámec udrží, psychoticky organizovaný pacient se po konfrontaci ještě více rozpadne a ztratí schopnost vidět sebe očima druhého. Afektivní reakce sama o sobě úroveň neurčuje.",
+  "source": "Otto Kernberg, Structural Interviewing (1981)",
+  "seedElo": 2180
+ },
+ {
+  "id": "str-A16",
+  "type": "K",
+  "category": "struktura-diagnostika",
+  "text": "Jak je podle Kernberga testování reality ve strukturálním interview prakticky operacionalizováno?",
+  "options": [
+   "Schopností pacienta odlišit vlastní přání od reálné situace",
+   "Nepřítomností halucinací a bludů v anamnéze pacienta",
+   "Mírou, v jaké se pacient dokáže odpoutat od svých afektů",
+   "Schopností empatie s běžným pohledem na to, co je podivné"
+  ],
+  "correct": 3,
+  "explanation": "Kernberg testování reality neměří výčtem příznaků, ale tím, zda pacient dokáže sdílet běžné sociální kritérium podivnosti, když je konfrontován se svým vlastním nezvyklým afektem, chováním nebo myšlenkou. Jde tedy o kapacitu vstoupit do pohledu druhého na sebe sama. Odlišení vnitřního od vnějšího a self od objektu je součástí téhož kritéria, ale jeho klinickým testem je právě konfrontace.",
+  "source": "Otto Kernberg, Structural Interviewing (1981)",
+  "seedElo": 2200
+ },
+ {
+  "id": "str-A17",
+  "type": "K",
+  "category": "struktura-diagnostika",
+  "text": "Inventory of Personality Organization (IPO) operacionalizuje identitní difuzi jako spojitou škálu. Co tvoří jádro jejích položek na této subškále?",
+  "options": [
+   "Nestálost sebeobrazu a obrazů druhých napříč situacemi",
+   "Četnost impulzivních jednání a sebepoškozujícího chování",
+   "Míra vědomého prožívání úzkosti z opuštění blízkým člověkem",
+   "Frekvence krátkých ztrát kontaktu s realitou pod tlakem"
+  ],
+  "correct": 0,
+  "explanation": "IPO (Clarkin, Foelsch, Kernberg) převádí tři strukturální kritéria do tří hlavních subškál: identitní difuze, primitivní obrany a testování reality. Položky identitní difuze se ptají na kolísání pojetí sebe i druhých v čase a situacích, tedy na nesouvislost vnitřních reprezentací. Ztráty kontaktu s realitou spadají pod jinou subškálu a impulzivita mezi kritéria vůbec nepatří.",
+  "source": "Clarkin, Foelsch & Kernberg, Inventory of Personality Organization (2001)",
+  "seedElo": 2200
+ },
+ {
+  "id": "str-B15",
+  "type": "I",
+  "category": "struktura-diagnostika",
+  "text": "Pacient přijde po hádce s partnerkou a rozzlobeně tvrdí, že terapeutovi jde jen o honorář. Z hlediska technického postoje — čím se v této chvíli liší reakce TFP, MBT a podpůrné terapie?",
+  "options": [
+   "TFP vyloží aktivovanou dyádu, MBT nejprve zpomalí a obnoví mentalizaci, podpůrná terapie ohraničí a uklidní.",
+   "TFP vyloží dětský původ hněvu, MBT jej normalizuje a podpůrná terapie jej analyzuje v přenosu.",
+   "TFP hněv ohraničí smlouvou, MBT jej vyloží jako projekci a podpůrná terapie jej ponechá bez komentáře.",
+   "Všechny tři přístupy začínají výkladem přenosu a liší se pouze hloubkou dalšího zpracování."
+  ],
+  "correct": 0,
+  "explanation": "TFP považuje aktivovanou přenosovou dyádu za hlavní materiál a interpretuje ji zde a teď. MBT naopak předpokládá, že v afektivním vzplanutí mentalizace kolabuje, takže interpretace by nebyla zpracovatelná — nejprve se afekt zpomalí a obnoví se zvědavost k duševním stavům. Podpůrná terapie pracuje s rámcem, realitou a stabilizací, nikoli s odkrýváním.",
+  "source": "Bateman & Fonagy, Mentalization-Based Treatment for Personality Disorders (2016)",
+  "seedElo": 2200
+ },
+ {
+  "id": "str-B16",
+  "type": "V",
+  "category": "struktura-diagnostika",
+  "text": "Klientka uprostřed sezení ztuhne, mluví v absolutních jistotách o tom, co si terapeutka „očividně“ myslí, a nepřipouští jinou možnost. Z hlediska MBT — jaká je namístě reakce?",
+  "options": [
+   "Interpretovat, že klientce připisuje vlastní odmítavý postoj vůči sobě samé.",
+   "Zastavit se, snížit afektivní napětí a společně krok po kroku rekonstruovat, co se stalo.",
+   "Setrvat v tichu a nechat prožitek doznít, aby se úzkost přirozeně sama snížila.",
+   "Vysvětlit klientce, že jde o typický projev její poruchy osobnosti a přenosu."
+  ],
+  "correct": 1,
+  "explanation": "Absolutní jistota o obsahu cizí mysli je znakem prementalizačního (psychického ekvivalentního) módu, v němž je vnitřní realita totožná s vnější. Interpretace ani edukace v tomto stavu nejsou zpracovatelné a spíš eskalují. Technikou volby je „stop and rewind“: snížit vzrušení a obnovit zvědavost dřív, než se pracuje s významem.",
+  "source": "Bateman & Fonagy, Mentalization-Based Treatment for Personality Disorders (2016)",
+  "seedElo": 2200
+ },
+ {
+  "id": "str-B17",
+  "type": "I",
+  "category": "struktura-diagnostika",
+  "text": "Z hlediska volby techniky u pacienta s výraznou alexithymií a konkrétním myšlením — co má v úvodních fázích přednost?",
+  "options": [
+   "Interpretace obrany proti afektu, aby se uvolnil přístup k potlačeným pocitům.",
+   "Trpělivé rozlišování tělesných pocitů, situací a jejich pojmenování slovy.",
+   "Volné asociace bez struktury, aby se obešla pacientova racionalizující obrana.",
+   "Genetické propojení s dětstvím, které vysvětlí, proč pacient pocitům nerozumí."
+  ],
+  "correct": 1,
+  "explanation": "U alexithymického a konkrétně uvažujícího pacienta chybí nástroj, s nímž by mohl interpretaci přijmout: afekt není reprezentován slovem. Práce proto začíná budováním reprezentací — rozlišováním tělesných stavů, kontextů a pojmenování. Interpretace nabízené příliš brzy jsou přijímány doslovně, jako fakta o pacientovi.",
+  "source": "McWilliams, Psychoanalytic Diagnosis (2011)",
+  "seedElo": 2200
+ },
+ {
+  "id": "str-B21",
+  "type": "I",
+  "category": "struktura-diagnostika",
+  "text": "Z hlediska konstrukce smlouvy u pacienta s výraznými antisociálními rysy — co je klíčovou podmínkou vůbec pro zahájení expresivní práce?",
+  "options": [
+   "Pacientova deklarovaná motivace ke změně a lítost nad dosavadním jednáním.",
+   "Souhlas s vyšší frekvencí sezení, aby se snížil prostor pro odehrávání mimo terapii.",
+   "Ověřitelnost sdělovaných informací a explicitní ošetření nepravdivosti v rámci.",
+   "Uzavření smlouvy o mlčenlivosti, aby se pacient nemusel obávat právních důsledků."
+  ],
+  "correct": 2,
+  "explanation": "Léčba stojí na tom, že terapeut ví, co se skutečně děje; u antisociálních rysů je právě tato podmínka soustavně ohrožena. Kontrakt proto zahrnuje třetí zdroje informací a explicitní dohodu, že nepravdivé sdělení se stane tématem, nikoli pozadím. Bez toho se pracuje s fikcí a čirý antisociální syndrom zůstává prognosticky nepříznivý.",
+  "source": "Kernberg, Severe Personality Disorders (1984)",
+  "seedElo": 2200
+ },
+ {
+  "id": "str-A18",
+  "type": "K",
+  "category": "struktura-diagnostika",
+  "text": "Reflective Functioning Scale (Fonagy a kol.) hodnotí mentalizaci jako dimenzi se zápornými hodnotami na spodním konci. Co záporné skóre znamená?",
+  "options": [
+   "Neschopnost popsat vlastní duševní stavy pro nedostatek slov",
+   "Aktivní odmítání či zvrácení mentalizace, nikoli jen chybění",
+   "Naprostou nepřítomnost mentalizace v celém průběhu rozhovoru",
+   "Nepoužitelný rozhovor, který nelze pro reflexi vůbec skórovat"
+  ],
+  "correct": 1,
+  "explanation": "Škála RFS jde od minus jedna po devět a záporná hodnota je vyhrazena pro takzvané bizarní či nepřátelské reflektování: respondent na otázky po duševních stavech reaguje odmítavě, výsměšně nebo předkládá groteskně nepravděpodobné výklady mysli druhého. To je klinicky horší než pouhé nulové, konkrétní vyprávění, které se skóruje jako nula až jedna. Právě tato asymetrie dělá z RFS dimenzi, ne pouhé ano/ne.",
+  "source": "Fonagy, Target, Steele & Steele, Reflective Functioning Manual (1998)",
+  "seedElo": 2220
+ },
+ {
+  "id": "str-A19",
+  "type": "K",
+  "category": "struktura-diagnostika",
+  "text": "Jak spolu v PDM-2 u dospělých souvisejí osy P, M a S?",
+  "options": [
+   "S je nadřazená, P a M z ní vyplývají jako její upřesnění",
+   "Jsou to tři alternativy, klinik volí podle zakázky jednu z nich",
+   "P zahrnuje úroveň i styl, M popisuje kapacity, S až prožitek",
+   "M určuje úroveň, P až symptom a S je čistě popisná příloha"
+  ],
+  "correct": 2,
+  "explanation": "PDM-2 je záměrně vícerozměrné: osa P nese úroveň organizace osobnosti spolu s charakterovým stylem, osa M rozpadá duševní fungování do dvanácti měřitelných kapacit včetně mentalizace a regulace afektu a osa S popisuje symptomový obraz a hlavně jeho subjektivní prožívání. Osy se nenahrazují, doplňují, a klinik má vyplnit všechny tři. Symptom je tak vždy čten na pozadí struktury.",
+  "source": "PDM-2 (2017), Lingiardi & McWilliams",
+  "seedElo": 2230
+ },
+ {
+  "id": "str-A20",
+  "type": "K",
+  "category": "struktura-diagnostika",
+  "text": "Pacient má dobře integrovanou strukturu, ale opakovaně uvízne v tématu podřízení a kontroly ve všech svých vztazích. Jak to zaznamená OPD?",
+  "options": [
+   "Nízká úroveň strukturální integrace, konflikt neurčitelný",
+   "Konflikt individuace a závislosti při dezintegrované struktuře",
+   "Osa struktury a osa konfliktu se v OPD navzájem vylučují",
+   "Vysoká integrace na ose struktury, konflikt na ose konfliktu"
+  ],
+  "correct": 3,
+  "explanation": "OPD vede osy paralelně: osa IV hodnotí úroveň strukturální integrace, osa III opakující se nevědomý konflikt a osa II vztahovou dynamiku. Dobrá integrace a výrazný konflikt se nevylučují, naopak je to typický obraz neuroticky organizovaného pacienta a indikace pro odkryvnou práci. Teprve při nízké integraci ustupuje konfliktní čtení do pozadí a do popředí jde deficit.",
+  "source": "OPD-2 (Operationalized Psychodynamic Diagnosis, 2008)",
+  "seedElo": 2240
+ },
+ {
+  "id": "str-A21",
+  "type": "K",
+  "category": "struktura-diagnostika",
+  "text": "Čím se metoda SWAP (Shedler-Westen Assessment Procedure) liší od běžných sebeposuzovacích dotazníků osobnosti?",
+  "options": [
+   "Klinik třídí popisné výroky do pevně dané distribuce Q-sortem",
+   "Pacient sám seřadí výroky podle toho, jak mu odpovídají",
+   "Skóruje se automaticky z volného vyprávění pomocí algoritmu",
+   "Výsledkem je jediná kategorie z klasifikace poruch osobnosti"
+  ],
+  "correct": 0,
+  "explanation": "SWAP je nástroj pro klinika, ne pro pacienta: hodnotitel rozdělí dvě stě popisných výroků do předepsaného rozložení podle toho, jak výstižně pacienta charakterizují. Vynucená distribuce nutí k relativnímu vážení a tlumí halo efekt i shovívavost. Výstupem je profil skóre napříč prototypy a dimenzemi, včetně odhadu úrovně zdraví osobnosti, nikoli jedna nálepka.",
+  "source": "Westen & Shedler, SWAP-200 (1999)",
+  "seedElo": 2250
+ },
+ {
+  "id": "str-A22",
+  "type": "K",
+  "category": "struktura-diagnostika",
+  "text": "V čem se kritérium A dimenzionálního modelu DSM-5 (AMPD), tedy úroveň fungování osobnosti, liší od Kernbergovy strukturální diagnostiky?",
+  "options": [
+   "AMPD měří pouze testování reality, Kernberg i obrany a identitu",
+   "AMPD nerozlišuje kvalitativní zlomy mezi úrovněmi organizace",
+   "Kernberg pracuje se spojitou škálou, AMPD s ostrými kategoriemi",
+   "AMPD hodnotí self a vztahy, Kernberg výhradně obranné operace"
+  ],
+  "correct": 1,
+  "explanation": "AMPD i Kernberg sledují velmi podobný obsah, totiž identitu, sebeřízení, empatii a intimitu, ale AMPD je čistě dimenzionální: pět stupňů poškození bez předpokladu, že mezi nimi leží kvalitativní předěly. Kernbergův model naproti tomu postuluje strukturální zlomy, zejména mezi hraniční a psychotickou organizací daný stavem testování reality. Praktický dopad je v indikaci: zlom mění techniku, posun na škále jen její dávkování.",
+  "source": "DSM-5 Section III, AMPD; Kernberg, Severe Personality Disorders (1984)",
+  "seedElo": 2250
+ },
+ {
+  "id": "str-B18",
+  "type": "I",
+  "category": "struktura-diagnostika",
+  "text": "Terapeut zjistí, že pacientce s hraniční organizací opakovaně prodlužuje sezení a odpovídá na noční zprávy. Z hlediska práce s protipřenosem — jaký je technicky nejsprávnější krok?",
+  "options": [
+   "Sdělit pacientce svůj protipřenosový prožitek, aby se stal společným materiálem.",
+   "Pokračovat v ústupcích, dokud se pacientka nestabilizuje, a teprve pak rámec obnovit.",
+   "Ukončit léčbu a předat pacientku kolegovi, protože rámec byl nenávratně narušen.",
+   "Obnovit rámec, porozumět své roli v aktivované dyádě a její význam pak interpretovat."
+  ],
+  "correct": 3,
+  "explanation": "Protipřenosové jednání je diagnostická informace: terapeut se stal aktérem jedné strany aktivované dyády (zde pravděpodobně zachraňujícího objektu vůči bezmocnému self). Nápravou není zpověď ani útěk, ale návrat k rámci, vnitřní zpracování a interpretace toho, co se mezi nimi odehrávalo. Sdělování vlastních pocitů pacientovi na této úrovni obvykle zatěžuje spíše jeho.",
+  "source": "Kernberg, Aggression in Personality Disorders and Perversions (1992)",
+  "seedElo": 2250
+ },
+ {
+  "id": "str-B19",
+  "type": "I",
+  "category": "struktura-diagnostika",
+  "text": "Z hlediska řízení regrese — jaký je rozdíl mezi jejím zacházením u neurotické a u hraniční úrovně organizace?",
+  "options": [
+   "U neurotické úrovně se regrese v přenosu využívá, u hraniční se aktivně omezuje strukturou.",
+   "U neurotické úrovně se regrese omezuje frekvencí sezení, u hraniční se naopak podporuje.",
+   "U obou úrovní se regrese vítá stejně, liší se jen hloubka následné interpretace.",
+   "U neurotické úrovně regrese nevzniká, u hraniční je nevyhnutelná a neovlivnitelná."
+  ],
+  "correct": 0,
+  "explanation": "U neurotické organizace je kontrolovaná regrese v přenosu nosným zdrojem materiálu a pacient si udrží pozorující ego. U hraniční organizace hrozí, že regrese přejde v zaplavení, jednání či ztrátu testování reality, proto se drží na uzdě rámcem, zaměřením na zde a teď a sezením tváří v tvář. Technika se tedy volí podle struktury, nikoli podle školy.",
+  "source": "Kernberg, Severe Personality Disorders (1984)",
+  "seedElo": 2250
+ },
+ {
+  "id": "str-B22",
+  "type": "I",
+  "category": "struktura-diagnostika",
+  "text": "Z hlediska prognózy expresivní psychoterapie u pacientů s těžkou poruchou osobnosti — která kombinace markerů je považována za nejméně příznivou?",
+  "options": [
+   "Slabá kontrola impulzů, nízká tolerance úzkosti a chudá schopnost sublimace.",
+   "Silný negativní přenos v úvodních fázích a opakované zpochybňování terapeuta.",
+   "Chronická suicidální ideace a dlouhá anamnéza předchozích neúspěšných léčeb.",
+   "Antisociální rysy s absencí schopnosti k jakékoli nemocensky nezištné vazbě."
+  ],
+  "correct": 3,
+  "explanation": "Kernberg opakovaně uvádí kvalitu objektních vztahů, respektive přítomnost byť minimální nezištné vazby a schopnosti k vině, jako nejsilnější prognostický ukazatel — její úplná absence u antisociální osobnosti je hlavní negativní prediktor. Nespecifické projevy ego-slabosti prognózu zhoršují, ale nevylučují léčbu, jsou-li kompenzovány rámcem. Negativní přenos je naopak pracovní materiál, nikoli špatné znamení.",
+  "source": "Kernberg, Severe Personality Disorders (1984)",
+  "seedElo": 2250
+ },
+ {
+  "id": "str-A24",
+  "type": "V",
+  "category": "struktura-diagnostika",
+  "text": "Muž s hraniční organizací je v terapii tři měsíce a udržuje si stabilní práci. Při každé interpretaci jeho agrese ale začne mluvit o tom, že terapeut je součástí spiknutí proti němu, a toto přesvědčení mezi sezeními neopouští. Co z toho plyne pro další vedení terapie?",
+  "options": [
+   "Interpretovat agresi důsledněji, dokud negativní přenos nepovolí",
+   "Pokračovat beze změny, jde o běžnou negativní přenosovou reakci",
+   "Terapii ukončit, protože jde o absolutní kontraindikaci léčby",
+   "Přejít k podpoře, ztráta testování reality odkrývání vylučuje"
+  ],
+  "correct": 3,
+  "explanation": "Nekorigovatelný psychotický přenos, tedy blud vztažený k terapeutovi, který mezi sezeními nepolevuje, je klasickou kontraindikací odkryvné práce; další interpretace agrese ho jen posílí. Indikovaný krok je posun k podpůrnému rámci, posílení reality a případné psychiatrické konzultace, nikoli ukončení kontaktu. Kontraindikací zde není diagnóza, ale konkrétní stav testování reality v přenosu.",
+  "source": "Kernberg, Selzer, Koenigsberg a kol., Psychodynamic Psychotherapy of Borderline Patients (1989)",
+  "seedElo": 2300
+ },
+ {
+  "id": "str-A25",
+  "type": "V",
+  "category": "struktura-diagnostika",
+  "text": "Žena, 38 let, má stabilní kariéru, dlouholetý vztah a schopnost vidět druhé v odstínech. V zátěži však o sobě mluví způsobem, který si zjevně protiřečí, a když je na to upozorněna, rozpor ji vůbec neznepokojí. Který jediný marker rozhoduje mezi neurotickou organizací s narcistickými rysy a vyšší hraniční úrovní?",
+  "options": [
+   "Lhostejnost k vlastním rozporům, tedy neintegrované self",
+   "Kolísání sebehodnocení po kritice ze strany blízkých osob",
+   "Přítomnost narcistických rysů v jinak zralé osobnosti",
+   "Zachovaná schopnost vidět druhé lidi diferencovaně"
+  ],
+  "correct": 0,
+  "explanation": "Neuroticky organizovaný člověk své vnitřní rozpory prožívá jako rozpory a snaží se je vysvětlit, protože jeho self je integrované. Absence tohoto napětí, tedy klidné soužití neslučitelných verzí sebe, je jádrem identitní difuze a posunuje diagnózu na hraniční úroveň, i když je zbytek fungování vysoký. Diferencované vidění druhých je zde matoucí, protože u vyšší hraniční úrovně bývá překvapivě zachované.",
+  "source": "Otto Kernberg, Borderline Conditions and Pathological Narcissism (1975)",
+  "seedElo": 2300
+ },
+ {
+  "id": "str-B24",
+  "type": "I",
+  "category": "struktura-diagnostika",
+  "text": "Z hlediska funkce supervize v léčbě pacientů s těžkou poruchou osobnosti — co je jejím hlavním technickým přínosem?",
+  "options": [
+   "Obnovuje terapeutovu pozorovací pozici tam, kde byl vtažen do role v přenosové dyádě.",
+   "Poskytuje terapeutovi odborné informace o diagnostice, které v sezení nemá k dispozici.",
+   "Zajišťuje shodu postupu s manuálem, a tím zvyšuje měřitelnou věrnost dané metodě.",
+   "Umožňuje sdílet odpovědnost za rizikové pacienty a snižuje terapeutovu úzkost z rizika."
+  ],
+  "correct": 0,
+  "explanation": "Nejtypičtějším selháním u těchto pacientů není nedostatek znalostí, ale ztráta třetí pozice: terapeut nepozorovaně jedná jako jedna z pólů rozštěpené dyády. Supervize funguje jako externí místo, z něhož se scéna znovu stane pozorovatelnou. Ostatní přínosy jsou reálné, ale druhotné.",
+  "source": "Kernberg, Aggression in Personality Disorders and Perversions (1992)",
+  "seedElo": 2300
+ },
+ {
+  "id": "str-B25",
+  "type": "V",
+  "category": "struktura-diagnostika",
+  "text": "Pacient s hraniční organizací mlčí, dívá se z okna a na dotaz odpoví, že „nemá smysl nic říkat“. Terapeut cítí bezmoc a nutkání sezení zaplnit vysvětlováním. Z hlediska TFP — jaká intervence má přednost?",
+  "options": [
+   "Připomenout smluvní závazek aktivně spolupracovat a mluvit o tom, co pacienta trápí.",
+   "Nabídnout genetickou interpretaci mlčení jako opakování vztahu k nedostupné matce.",
+   "Vyčkat v tichu, aby pacient sám unesl napětí a získal zkušenost s vlastní iniciativou.",
+   "Popsat, co se právě mezi nimi děje, a pojmenovat dyádu bezmocného a odmítajícího."
+  ],
+  "correct": 3,
+  "explanation": "Mlčení je zde acting in a zároveň nejbohatší dostupný materiál: v místnosti je aktivní dyáda, jejíž jeden pól terapeut prožívá v protipřenosu. Technikou volby je popsat pozorovatelné (chování, afekt, atmosféru) a nabídnout, kdo je v této chvíli kým. Připomínání smlouvy či genetický výklad tuto scénu obcházejí, tiché vyčkávání ji nechává mimo řeč.",
+  "source": "Yeomans, Clarkin & Kernberg, Transference-Focused Psychotherapy for Borderline Personality Disorder (2015)",
+  "seedElo": 2300
+ },
+ {
+  "id": "str-A26",
+  "type": "V",
+  "category": "struktura-diagnostika",
+  "text": "Muž, 31 let, působí ve vztazích prázdně a nepřítomně a sám žádné napětí nehlásí. Terapeutka váhá mezi as-if osobností a schizoidním stažením. Který nález rozhodne ve prospěch as-if?",
+  "options": [
+   "Bohatý vnitřní fantazijní svět, který pacient s nikým nesdílí",
+   "Dokonalé přizpůsobení každému okolí bez vnitřního konfliktu",
+   "Úzkost z pohlcení v blízkých a dlouhodobých vztazích",
+   "Trvalá potřeba držet si od druhých bezpečnou vzdálenost"
+  ],
+  "correct": 1,
+  "explanation": "Schizoidní člověk má vlastní jádro, jen je chrání odstupem; jeho stažení je aktivní obranou proti pohlcení a doprovází je bohatá vnitřní scéna. As-if osobnost naopak jádro postrádá a proto se bez tření přizpůsobí komukoli, s kým právě je, a odstup nepotřebuje. Rozhoduje tedy přítomnost či nepřítomnost vlastního vnitřního obsahu, ne míra viditelné prázdnoty.",
+  "source": "Helene Deutsch (1942); Nancy McWilliams, Psychoanalytic Diagnosis (2011)",
+  "seedElo": 2320
+ },
+ {
+  "id": "str-A27",
+  "type": "V",
+  "category": "struktura-diagnostika",
+  "text": "Dva muži terapeutovi lhali a oba v minulosti zneužili blízké lidi. První v jednu chvíli krátce projeví skutečnou starost o svou sestru a v přenosu se objeví paranoidní obviňování terapeuta. Druhý nemá žádný projev vztahovosti a lže plynule i tam, kde by to nepotřeboval. Co z hlediska prognózy platí?",
+  "options": [
+   "Prognóza obou je stejná, rozhoduje pouze závažnost jejich činů",
+   "Lepší prognózu má druhý muž díky nižší paranoidní zátěži",
+   "Lepší prognózu má první muž, zbytky vztahovosti jsou pákou",
+   "Ani jeden není léčitelný, jde o absolutní kontraindikaci práce"
+  ],
+  "correct": 2,
+  "explanation": "Paranoidní obviňování je v Kernbergově pojetí paradoxně dobré znamení: znamená, že terapeut je pro pacienta významným objektem, byť pronásledujícím, a existuje tedy vztah, na kterém lze pracovat. Krátký záblesk starosti o druhého ukazuje na zbytky internalizovaných objektních vztahů, které jsou u maligního narcismu přítomné a u psychopatie chybějí. Bezúčelná lež a naprostá absence vztahovosti jsou naopak nejhorším prognostickým znamením.",
+  "source": "Otto Kernberg, Aggression in Personality Disorders and Perversions (1992)",
+  "seedElo": 2340
+ },
+ {
+  "id": "str-A28",
+  "type": "V",
+  "category": "struktura-diagnostika",
+  "text": "Žena, 26 let, prožívá terapeuta střídavě jako zachránce a jako nepřítele. Když jí terapeut nabídne, že oba obrazy postaví vedle sebe, přestane rozumět, kde končí její pocit a kde začíná terapeutův, a působí zmateně, nikoli zvědavě. Který marker zde rozhoduje mezi hraniční a psychotickou organizací?",
+  "options": [
+   "Míra intenzity idealizace a znehodnocení terapeuta",
+   "Přítomnost štěpení jako převažující obranné operace v přenosu",
+   "Náhlá zmatenost namísto zvědavosti při konfrontaci",
+   "Setření hranic mezi vlastním self a objektem v přenosu"
+  ],
+  "correct": 3,
+  "explanation": "Štěpení a prudké střídání idealizace a znehodnocení sdílejí hraniční i psychotická organizace, takže tyto znaky nerozhodují. Rozhodujícím markerem je ztráta diferenciace self a objektu: pacientka už neví, čí je který afekt, což je porucha hranic ega, nikoli jen nesouvislost identity. Zmatenost po konfrontaci je pak klinickým projevem této ztráty a v Kernbergově modelu posunuje diagnózu na psychotickou úroveň.",
+  "source": "Otto Kernberg, Structural Interviewing (1981)",
+  "seedElo": 2350
+ },
+ {
+  "id": "str-B26",
+  "type": "E",
+  "category": "struktura-diagnostika",
+  "text": "Která intervence je NEJMÉNĚ vhodná z hlediska udržení rámce u pacientky, která opakovaně volá mezi sezeními a stěžuje si, že terapeutka je nedostupná?",
+  "options": [
+   "Dohodnout mimořádné kontakty vždy podle aktuální míry pacientčiny tísně a naléhavosti.",
+   "Zopakovat dohodnutá pravidla kontaktu a zkoumat význam volání v aktuálním přenosu.",
+   "Pojmenovat rozpor mezi stížností na nedostupnost a nevyužitím dohodnutého postupu.",
+   "Prozkoumat, co se dělo v sezení předcházejícím telefonátům, a spojit to s obsahem hovorů."
+  ],
+  "correct": 0,
+  "explanation": "Vázat rámec na aktuální intenzitu pacientčiny tísně znamená učinit z tísně měnu, kterou lze kupovat terapeutčinu dostupnost — rámec se stane vyjednatelným a odehrávání se posílí. Zbylé tři možnosti rámec zachovávají a zároveň jeho testování převádějí do řeči. Rámec se drží pevně, ale jeho význam se zkoumá.",
+  "source": "Yeomans, Clarkin & Kernberg, A Primer of Transference-Focused Psychotherapy (2002)",
+  "seedElo": 2350
+ },
+ {
+  "id": "str-B28",
+  "type": "I",
+  "category": "struktura-diagnostika",
+  "text": "Z hlediska teorie technické neutrality — co znamená, když terapeut u pacienta s hraniční organizací dočasně zavede omezení kvůli ohrožujícímu jednání?",
+  "options": [
+   "Neutralita byla porušena definitivně, a proto je nutné převést léčbu do podpůrného režimu.",
+   "Neutralita byla dočasně opuštěna a po odeznění rizika se musí explicitně obnovit a zpracovat.",
+   "Neutralita zůstává zachována, neboť omezení vyplývá z předem uzavřené terapeutické smlouvy.",
+   "Neutralita se u této úrovně organizace neuplatňuje, takže se otázka jejího narušení nevynořuje."
+  ],
+  "correct": 1,
+  "explanation": "Ohrožující jednání může vyžadovat, aby terapeut z pozice stejné vzdálenosti od pacientových vnitřních instancí i reality ustoupil a jednal strukturujícím způsobem. Takový odklon je legitimní, ale nikoli neškodný: musí být pojmenován, po odeznění rizika opuštěn a jeho dopad na přenos vyložen. Bez tohoto návratu se z výjimky stane trvalý parametr léčby.",
+  "source": "Kernberg, Severe Personality Disorders (1984)",
+  "seedElo": 2350
  }
 ]
