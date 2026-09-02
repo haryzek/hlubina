@@ -1,0 +1,882 @@
+[
+ {
+  "id": "nve-A01",
+  "text": "Co označuje pojem „zadní horká zóna“ (posterior hot zone), jak jej zavedli Koch, Massimini, Boly a Tononi?",
+  "options": [
+   "Temenně-týlně-spánkovou oblast kůry, kde se zdá sídlit obsah prožitku",
+   "Prefrontální oblast, která vysílá signál o dostupnosti obsahu",
+   "Jádra thalamu, jejichž tlumení navozuje bezvědomí při narkóze",
+   "Struktury mozkového kmene, které udržují bdělost a úroveň vědomí"
+  ]
+ },
+ {
+  "id": "nve-A02",
+  "text": "Mozeček obsahuje asi čtyři pětiny všech neuronů mozku, jeho poškození ale vědomí nezruší. Jak to vysvětluje integrovaná teorie informace?",
+  "options": [
+   "Jeho neurony jsou příliš malé na to, aby nesly dost informace",
+   "Jeho aktivita probíhá v příliš rychlém měřítku pro vznik prožitku",
+   "Jeho okruhy jsou paralelní a modulární, takže se rozpadají na části",
+   "Je vývojově starší než kůra a postrádá zpětné spoje do thalamu"
+  ]
+ },
+ {
+  "id": "nve-A03",
+  "text": "Čím se v teorii globálního pracovního prostoru vyznačuje takzvaná ignition?",
+  "options": [
+   "Plynulým lineárním nárůstem odpovědi úměrně síle daného podnětu",
+   "Náhlým pozdním rozšířením aktivity do fronto-parietální sítě",
+   "Časnou odpovědí zrakové kůry kolem sta milisekund po podnětu",
+   "Útlumem aktivity v gama pásmu při vstupu podnětu do paměti"
+  ]
+ },
+ {
+  "id": "nve-A04",
+  "text": "Crick a Koch roku 1990 navrhli, že klíčem k vědomí by mohly být oscilace kolem 40 Hz. Jaký problém tím chtěli řešit?",
+  "options": [
+   "Jak mozek udrží pozornost na jednom podnětu déle než jednu vteřinu",
+   "Jak se vjem uloží do dlouhodobé paměti bez zásahu hipokampu",
+   "Jak mozek odliší vlastní pohyb od pohybu vnějšího prostředí",
+   "Jak se rozptýlené rysy podnětu spojí do jednoho vjemu předmětu"
+  ]
+ },
+ {
+  "id": "nve-A05",
+  "text": "Co roku 2012 prohlásila Cambridgeská deklarace o vědomí?",
+  "options": [
+   "Že savci a ptáci prožívají emoce srovnatelné s emocemi lidí",
+   "Že vědomí vzniká teprve s kůrou velkého mozku u obratlovců",
+   "Že nervové substráty vědomí nejsou výsadou lidí ani savců",
+   "Že chování zvířat nelze použít jako důkaz jejich prožívání"
+  ]
+ },
+ {
+  "id": "nve-A06",
+  "text": "Polovina diváků nevidí ve známém pokusu Simonse a Chabrise gorilu procházející hřištěm. Co z takových nálezů plyne pro výklad vědomí?",
+  "options": [
+   "Že bez pozornosti se ani nápadný podnět nemusí dostat do vědomí",
+   "Že zrakový systém podnět vůbec nezpracuje, chybí-li pozornost",
+   "Že vědomý vjem vzniká už v primární zrakové kůře bez pozornosti",
+   "Že paměť na scénu je dokonalá a selhává jen pozdější vybavení"
+  ]
+ },
+ {
+  "id": "nve-A07",
+  "text": "Jaký je v integrované teorii informace vztah mezi axiomy a postuláty?",
+  "options": [
+   "Axiomy jsou měřitelné veličiny, postuláty jejich slovní výklad",
+   "Axiomy plynou z pokusů, postuláty jsou jejich matematický zápis",
+   "Axiomy platí pro člověka, postuláty rozšiřují teorii na zvířata",
+   "Axiomy popisují vlastnosti prožitku, postuláty nároky na substrát"
+  ]
+ },
+ {
+  "id": "nve-A08",
+  "text": "Proč se fí u reálných mozků nepočítá přesně, ale jen odhaduje náhradními mírami?",
+  "options": [
+   "Protože fí je definováno pouze pro systémy se spojitým časem",
+   "Protože počet rozdělení systému roste s prvky superexponenciálně",
+   "Protože k jeho výpočtu je nutné znát okamžitý stav každé synapse",
+   "Protože fí lze měřit jen u systémů, které umějí podat hlášení"
+  ]
+ },
+ {
+  "id": "nve-A09",
+  "text": "Proč se v laboratořích vědomí prosadila paradigmata bez hlášení (no-report)?",
+  "options": [
+   "Protože hlášení zdržuje pokus a snižuje počet možných opakování",
+   "Protože samo hlášení přidává procesy, jež se pletou do korelátů",
+   "Protože slovní hlášení nelze získat od zvířat ani od kojenců",
+   "Protože hlášení zvyšuje riziko, že si účastník podnět zapamatuje"
+  ]
+ },
+ {
+  "id": "nve-A10",
+  "text": "Jaký rozdíl zachycuje dvojice pojmů celkový a obsahový neurální korelát vědomí?",
+  "options": [
+   "Rozdíl mezi koreláty u zdravých lidí a u pacientů po poranění",
+   "Rozdíl mezi koreláty měřenými pomocí EEG a pomocí funkční MRI",
+   "Rozdíl mezi vrozenými a naučenými složkami vědomého prožitku",
+   "Rozdíl mezi tím, že je člověk při vědomí, a tím, co právě prožívá"
+  ]
+ },
+ {
+  "id": "nve-A11",
+  "text": "Co podle Lammeho teorie rekurentního zpracování stačí k vědomému vjemu?",
+  "options": [
+   "Lokální zpětnovazebné smyčky uvnitř smyslových oblastí kůry",
+   "Dopředná vlna aktivity procházející zrakovou hierarchií vzhůru",
+   "Zapojení prefrontální kůry do udržení podnětu v pracovní paměti",
+   "Souběh oscilací v pásmu théta mezi hipokampem a kůrou mozku"
+  ]
+ },
+ {
+  "id": "nve-A12",
+  "text": "Střídavě blikají červená a zelená tečka vedle sebe. Co lidé v pokusu Kolerse a von Grünaua vidí?",
+  "options": [
+   "Dvě samostatné tečky, jejichž barvy splynou do žluté skvrny",
+   "Jednu tečku, která si po celé dráze pohybu drží první barvu",
+   "Jednu tečku, která se pohybuje a barvu mění uprostřed dráhy",
+   "Dvě tečky blikající na místě, mezi nimiž se nic nepohybuje"
+  ]
+ },
+ {
+  "id": "nve-A13",
+  "text": "Co podle teorií vyššího řádu (Lau, Rosenthal) rozhoduje o tom, zda je duševní stav vědomý?",
+  "options": [
+   "Zda je stav dost silný, aby překročil práh v čidlech na vstupu",
+   "Zda daný stav trvá alespoň několik set milisekund bez přerušení",
+   "Zda je daný stav provázen synchronií gama napříč celou kůrou",
+   "Zda je o daném stavu v mozku ještě reprezentace vyšší úrovně"
+  ]
+ },
+ {
+  "id": "nve-A14",
+  "text": "Co laicky říká Fristonův princip volné energie?",
+  "options": [
+   "Že mozek maximalizuje množství informace, kterou z okolí získá",
+   "Že mozek minimalizuje překvapení, tedy nesoulad předpovědi a vstupu",
+   "Že mozek udržuje stálý přísun energie ze zdrojů v krevním řečišti",
+   "Že mozek zvyšuje entropii svých stavů, aby zůstal přizpůsobivý"
+  ]
+ },
+ {
+  "id": "nve-A15",
+  "text": "Čím se aktivní inference liší od pouhého prediktivního zpracování?",
+  "options": [
+   "Předpovědi se opravují jen tehdy, když chyba překročí daný práh",
+   "Předpovědi vznikají výhradně v kůře, nikoli v podkorových jádrech",
+   "Chyba předpovědi se nesnižuje jen úpravou modelu, ale i jednáním",
+   "Chyba předpovědi se počítá zvlášť pro každou smyslovou modalitu"
+  ]
+ },
+ {
+  "id": "nve-A16",
+  "text": "Co je jádrem Sethovy představy člověka jako „bestie-stroje“ (beast machine)?",
+  "options": [
+   "Že prožitek sebe vyrůstá z předpovědí o stavu vlastního těla",
+   "Že vědomí je vedlejším produktem jazyka a symbolického myšlení",
+   "Že mozek pracuje jako stroj a prožitek je pouhá iluze bez funkce",
+   "Že zvířecí a lidské vědomí se liší jen počtem korových neuronů"
+  ]
+ },
+ {
+  "id": "nve-A17",
+  "text": "Co našly studie Lempel-Zivovy složitosti spontánního signálu po psilocybinu, LSD a ketaminu?",
+  "options": [
+   "Složitost stoupla nad hodnoty běžného klidného bdělého stavu",
+   "Složitost klesla pod hodnoty klidného bdění se zavřenýma očima",
+   "Složitost zůstala stejná, měnilo se jen zastoupení pásma alfa",
+   "Složitost kolísala v rytmu dechu, jinak se ale nezměnila vůbec"
+  ]
+ },
+ {
+  "id": "nve-A18",
+  "text": "Jak silné tvrzení vyslovila Newyorská deklarace o vědomí zvířat z roku 2024?",
+  "options": [
+   "Že u všech obratlovců a řady bezobratlých je vědomí prokázáno",
+   "Že u ptáků a savců je vědomí jisté, u ostatních skupin vyloučené",
+   "Že o vědomí zvířat nelze za dnešního stavu vědy tvrdit vůbec nic",
+   "Že u všech obratlovců a řady bezobratlých je vědomí reálně možné"
+  ]
+ },
+ {
+  "id": "nve-A19",
+  "text": "Kterou předpověď teorie globálního pracovního prostoru výsledky projektu Cogitate nepodpořily?",
+  "options": [
+   "Časnou odpověď zrakové kůry na vstup podnětu do zorného pole",
+   "Rozlišení kategorie podnětu v záznamech ze zadních oblastí kůry",
+   "Vzestup aktivity v čelní kůře v okamžiku, kdy podnět zmizí",
+   "Trvalou synchronizaci mezi oblastmi v zadní části mozkové kůry"
+  ]
+ },
+ {
+  "id": "nve-A20",
+  "text": "Která z předpovědí integrované teorie informace v projektu Cogitate selhala?",
+  "options": [
+   "Že se obsah vjemu dá odečíst z aktivity zadních oblastí mozkové kůry",
+   "Že spojení uvnitř zadní kůry zůstane synchronní po celou dobu vjemu",
+   "Že aktivita čelní kůry přijde později než odpověď zrakové kůry",
+   "Že se vjem tváře odliší od vjemu předmětu už v týlních oblastech"
+  ]
+ },
+ {
+  "id": "nve-A21",
+  "text": "Co roku 2023 bezprostředně vyvolalo otevřený dopis označující IIT za pseudovědu?",
+  "options": [
+   "Vydání verze IIT 4.0 s podstatně pozměněnou definicí míry fí",
+   "Návrh použít fí při rozhodování o odpojování pacientů v kómatu",
+   "Mediální podání prvních výsledků Cogitate jako vítězství IIT",
+   "Odmítnutí zásadní práce o fí recenzenty prestižního časopisu"
+  ]
+ },
+ {
+  "id": "nve-A22",
+  "text": "Jakou hlavní výtku vůči IIT otevřený dopis z roku 2023 vznesl?",
+  "options": [
+   "Že teorie byla přímo vyvrácena měřeními u pacientů v kómatu",
+   "Že teorie je neprávem prezentována jako empiricky prověřená",
+   "Že teorie počítá fí špatně a používá zastaralý matematický aparát",
+   "Že teorie zcela opomíjí roli pozornosti při vzniku vědomého vjemu"
+  ]
+ },
+ {
+  "id": "nve-A23",
+  "text": "Co v integrované teorii informace požaduje postulát exkluze?",
+  "options": [
+   "Že vědomý je jen ten celek, jehož fí je mezi překrývajícími největší",
+   "Že vědomý systém musí vylučovat vlivy zvenčí i z okolních tkání",
+   "Že se z výpočtu fí vylučují prvky, které jsou od sebe odpojené",
+   "Že vjem vylučuje všechny obsahy, jež právě nejsou v pozornosti"
+  ]
+ },
+ {
+  "id": "nve-A24",
+  "text": "Podle IIT může mít čistě dopředná síť fí rovné nule, i když se navenek chová stejně jako síť se zpětnými spoji. Co z toho plyne?",
+  "options": [
+   "Že se vědomí podle IIT dá spolehlivě odečíst z chování systému",
+   "Že dopředné sítě podle IIT prožívají méně bohaté obsahy vjemů",
+   "Že fí u umělých sítí podle IIT roste s počtem jejich vrstev",
+   "Že vědomí podle IIT závisí na vnitřním uspořádání, ne na chování"
+  ]
+ },
+ {
+  "id": "nve-A25",
+  "text": "Jak zněla hlavní odpověď Odegaarda, Knighta a Laua na tvrzení, že koreláty vědomí sídlí v zadní kůře?",
+  "options": [
+   "Že zadní kůra je jen vstupní branou a sama žádný obsah nenese",
+   "Že několik nulových nálezů čelní kůru z hry ještě nevyřazuje",
+   "Že nálezy ze zadní kůry vznikly chybou v analýze dat z fMRI",
+   "Že prefrontální kůra je nutná i pro udržení bdělosti a spánku"
+  ]
+ },
+ {
+  "id": "nve-A26",
+  "text": "Čím se metakontrastní maskování liší od běžného zpětného maskování?",
+  "options": [
+   "Maska cíl nepřekrývá, pouze těsně obkružuje jeho obrysy",
+   "Maska se objeví ještě před cílem, nikoli až po jeho zhasnutí",
+   "Maska je promítána do druhého oka a působí přes rivalitu",
+   "Maska trvá déle než cíl a překrývá ho po celou dobu pokusu"
+  ]
+ },
+ {
+  "id": "nve-A27",
+  "text": "V čem spočívá maskování nahrazením objektu (object substitution masking)?",
+  "options": [
+   "Cíl je nahrazen jiným tvarem přesně na tomtéž místě obrazovky",
+   "Cíl je překryt mřížkou náhodných čar o stejném jasu i barvě",
+   "Cíl se objeví jen v jednom oku a druhé oko vidí silný vzorec",
+   "Cíl zmizí a čtyři tečky kolem něj na obrazovce ještě zůstanou"
+  ]
+ },
+ {
+  "id": "nve-A28",
+  "text": "Co se v pokusech s atenčním mrknutím označuje jako „lag-1 sparing“?",
+  "options": [
+   "První cíl je zachycen jen tehdy, když po něm už nic nenásleduje",
+   "Druhý cíl je zachycen, jen když je od prvního vzdálen vteřinu",
+   "Druhý cíl je zachycen, pokud následuje bezprostředně po prvním",
+   "První cíl je vynechán, jestliže mu těsně předchází rušivý znak"
+  ]
+ },
+ {
+  "id": "nve-A29",
+  "text": "Co se dnes obvykle uvádí jako biologická podmínka, bez níž nelze u plodu předpokládat vědomé prožívání?",
+  "options": [
+   "Dokončená myelinizace všech drah v míše a v mozkovém kmeni",
+   "Otevření očních víček a první reakce sítnice na jasné světlo",
+   "Nástup pravidelného střídání klidových a aktivních stavů plodu",
+   "Vznik spojů mezi thalamem a kůrou zhruba ve dvacátém čtvrtém týdnu"
+  ]
+ },
+ {
+  "id": "nve-A30",
+  "text": "Co z pokusů se slepotou ke změně (change blindness) NEplyne, ačkoli se to tak často podává?",
+  "options": [
+   "Že si scénu prožíváme v mnohem menší podrobnosti, než se zdá",
+   "Že pro zachycení změny je zpravidla potřeba zaměřená pozornost",
+   "Že vědomá reprezentace scény je prázdná a téměř žádná neexistuje",
+   "Že přerušení obrazu mžikem naruší signál, jenž změnu prozradí"
+  ]
+ },
+ {
+  "id": "nve-A31",
+  "text": "Proč bispektrální index (BIS) není spolehlivou obecnou mírou vědomí?",
+  "options": [
+   "Měří pouze výkon v pásmu delta a ostatní pásma zcela pomíjí",
+   "Byl laděn na určitá anestetika a u ketaminu jeho hodnoty selhávají",
+   "Vyžaduje magnetickou stimulaci, kterou nelze provést na sále",
+   "Vypočítá se až zpětně, takže na sále nemá žádné praktické užití"
+  ]
+ },
+ {
+  "id": "nve-A32",
+  "text": "Co prožijí lidé v pokusu s takzvaným kožním králíkem Geldarda a Sherricka?",
+  "options": [
+   "Poklepy vnímají jako skoky i na místech, kam nikdo neklepal",
+   "Poklepy na zápěstí a na lokti splynou do jednoho tlaku uprostřed",
+   "Poklepy podané na jedné paži cítí zrcadlově i na paži druhé",
+   "Poklepy vnímají opožděně, přibližně o půl vteřiny po podání"
+  ]
+ },
+ {
+  "id": "nve-A33",
+  "text": "K čemu slouží míra meta-d′, kterou zavedli Maniscalco a Lau?",
+  "options": [
+   "K odhadu, jak dobře jistota člověka odpovídá jeho úspěšnosti",
+   "K odhadu, kolik informace o podnětu má člověk vůbec k dispozici",
+   "K odhadu, jak rychle se rozhodnutí v mozku vytvoří a spustí",
+   "K odhadu prahu, od kterého podnět vstupuje do zrakové kůry"
+  ]
+ },
+ {
+  "id": "nve-A34",
+  "text": "V čem je podle Lauovy představy úkol sledování percepční reality (perceptual reality monitoring)?",
+  "options": [
+   "Udržet obsah vjemu v pracovní paměti po dobu několika vteřin",
+   "Rozlišit, co pochází ze smyslů, a co si mozek vytvořil sám",
+   "Porovnat aktuální vjem s uloženým vzorem z dlouhodobé paměti",
+   "Přiřadit vjemu emoční hodnotu podle jeho významu pro tělo"
+  ]
+ },
+ {
+  "id": "nve-A35",
+  "text": "Jak se počítá perturbační index složitosti (PCI)?",
+  "options": [
+   "Z podílu výkonu pásma gama a pásma delta v klidovém záznamu",
+   "Z počtu oblastí, jež se rozsvítí na funkční MRI během vědomého vjemu",
+   "Z rychlosti, s jakou se vlna z podnětu rozšíří po celé kůře",
+   "Ze složitosti odpovědi kůry na magnetický pulz, měřené na EEG"
+  ]
+ },
+ {
+  "id": "nve-A36",
+  "text": "Co Siclari a spolupracovníci roku 2017 zjistili o tom, kdy lidé ve spánku sní?",
+  "options": [
+   "Snění provází vzestup pomalých vln v čelní části kůry mozku",
+   "Snění se objevuje výhradně ve fázi REM s rychlými pohyby očí",
+   "Snění provází pokles pomalých vln v zadní části mozkové kůry",
+   "Snění provází celkové probuzení celé kůry do bdělého vzorce"
+  ]
+ },
+ {
+  "id": "nve-A37",
+  "text": "Co namítá takzvaný rozvinovací argument (unfolding argument) proti teoriím opírajícím vědomí o kauzální strukturu?",
+  "options": [
+   "Že kauzální strukturu nelze u živého lidského mozku vůbec změřit",
+   "Že kauzální struktura se v mozku mění příliš rychle na měření",
+   "Že ke každé rekurentní síti existuje dopředná s týmž chováním",
+   "Že takové teorie nedokážou vysvětlit obsah jednotlivých vjemů"
+  ]
+ },
+ {
+  "id": "nve-A38",
+  "text": "Čím Scott Aaronson roku 2014 zpochybnil integrovanou teorii informace?",
+  "options": [
+   "Ukázal, že fí nelze spočítat ani pro systém o deseti prvcích",
+   "Ukázal, že fí u dvou nezávislých systémů klesá až pod nulu",
+   "Ukázal, že fí závisí na volbě jednotek, v nichž systém popíšeme",
+   "Ukázal, že jednoduchá matematická mřížka vychází s obrovským fí"
+  ]
+ },
+ {
+  "id": "nve-A39",
+  "text": "Frässle a spolupracovníci sledovali binokulární rivalitu bez hlášení, jen podle pohybů očí a zornic. Co našli?",
+  "options": [
+   "Aktivita čelní kůry provázející zvraty bez hlášení výrazně opadla",
+   "Zvraty vjemu se bez hlášení objevovaly podstatně méně často",
+   "Aktivita zrakové kůry bez hlášení opadla, čelní naopak vzrostla",
+   "Bez hlášení zmizely z výsledků také rozdíly mezi oběma vjemy"
+  ]
+ },
+ {
+  "id": "nve-A40",
+  "text": "Aru, Bachmann, Singer a Melloni upozornili, že mezi nálezy vydávanými za koreláty vědomí bývají i:",
+  "options": [
+   "koreláty jiných druhů, které nelze na člověka vůbec převést",
+   "předpoklady a následky vědomého vjemu, nikoli vjem sám o sobě",
+   "artefakty pohybu očí, které se z dat nedají spolehlivě odečíst",
+   "koreláty spánkových stadií zaměněné za stavy bdělého vědomí"
+  ]
+ },
+ {
+  "id": "nve-A41",
+  "text": "Jak byla stanovena prahová hodnota PCI oddělující vědomé stavy od nevědomých?",
+  "options": [
+   "Odvozením z teorie, v níž práh odpovídá hodnotě fí rovné jedné",
+   "Ze srovnávacího souboru stavů, u nichž je vědomí předem jisté",
+   "Z průměru hodnot naměřených u pacientů ve vegetativním stavu",
+   "Z hodnoty, při níž se u dobrovolníků poprvé objeví pohyb těla"
+  ]
+ },
+ {
+  "id": "nve-A42",
+  "text": "Proč vzbudily mozkové organoidy z Muotriho laboratoře debatu o vědomí?",
+  "options": [
+   "Jejich buňky nesou stejnou výbavu receptorů jako kůra dospělých",
+   "Jejich objem po roce růstu dosáhl velikosti mozku novorozence",
+   "Jejich signál začal vykazovat vzorce podobné EEG nedonošenců",
+   "Jejich tkáň reagovala na dotyk stažením, tedy obranným pohybem"
+  ]
+ },
+ {
+  "id": "nve-A43",
+  "text": "Co Kouider a spolupracovníci roku 2013 naměřili u pěti měsíců starých kojenců?",
+  "options": [
+   "Odpověď podobná pozdní vlně dospělých, jen mnohem opožděnější",
+   "Odpověď na viděnou tvář zcela chyběla a objevila se až po roce",
+   "Odpověď rychlejší než u dospělých, zato slabší a nepravidelná",
+   "Odpověď omezená na sluchovou kůru, zraková zůstala bez reakce"
+  ]
+ },
+ {
+  "id": "nve-A44",
+  "text": "Jak postupovala zpráva Butlina, Longa a dalších z roku 2023 při posuzování vědomí u umělé inteligence?",
+  "options": [
+   "Otestovala přední jazykové modely dotazníkem na vlastní prožitky",
+   "Změřila fí u velkých jazykových modelů a porovnala je s mozkem",
+   "Opřela se o hlášení uživatelů o chování chatovacích systémů",
+   "Z teorií vědomí odvodila seznam znaků a hledala je v systémech"
+  ]
+ },
+ {
+  "id": "nve-B01",
+  "text": "Proč byl v odborné literatuře termín „vegetativní stav\" nahrazován označením „syndrom nereagující bdělosti\"?",
+  "options": [
+   "Termín byl vnímán jako hanlivý a předjímal nepřítomnost prožitku",
+   "Nový název označuje jinou skupinu pacientů s lehčím postižením",
+   "Původní pojem se týkal jen pacientů po úrazu hlavy, nikoli po hypoxii",
+   "Změna vznikla kvůli sjednocení s kódováním pojišťoven v Evropě"
+  ]
+ },
+ {
+  "id": "nve-B02",
+  "text": "Který nález definuje takzvanou kognitivně-motorickou disociaci?",
+  "options": [
+   "Pacient střídavě reaguje na pokyny a poté upadá zpět do bezvědomí",
+   "Motorická odpověď je zachována, ale pacient si ji vůbec nedokáže vybavit",
+   "Pacient bez motorické odpovědi vykazuje řízenou odpověď mozku na příkaz",
+   "Mozek reaguje na bolest, zatímco na sluchové podněty vůbec ne"
+  ]
+ },
+ {
+  "id": "nve-B03",
+  "text": "Jaké je hlavní praktické omezení Glasgow coma scale u pacienta na umělé plicní ventilaci?",
+  "options": [
+   "Motorická složka se u sedovaných pacientů hodnotí zcela nespolehlivě",
+   "Verbální složku nelze hodnotit, celkové skóre proto ztrácí srovnatelnost",
+   "Oční složka je u otoku víček nahrazena reakcí zornic na osvit",
+   "Škála nezachytí rozdíl mezi hlubokým a mělkým kómatem pod šesti body"
+  ]
+ },
+ {
+  "id": "nve-B04",
+  "text": "Čím se škála CRS-R zásadně liší od Glasgow coma scale?",
+  "options": [
+   "Nahrazuje subjektivní pozorování měřením evokovaných potenciálů",
+   "Používá se jen u dětí, protože zohledňuje vývojová stadia motoriky",
+   "Sleduje pouze reakce na bolest, a je proto rychlejší u akutních stavů",
+   "Její položky jsou seřazeny tak, aby odlišily reflex od cíleného chování"
+  ]
+ },
+ {
+  "id": "nve-B05",
+  "text": "Který nález nejspolehlivěji předpovídá špatný výsledek u pacienta v kómatu po srdeční zástavě?",
+  "options": [
+   "Oboustranná nepřítomnost korové vlny N20 po stimulaci nervus medianus",
+   "Přítomnost myoklonických záškubů už během prvních hodin po resuscitaci",
+   "Hodnota Glasgow coma scale nižší než osm v den přijetí na jednotku",
+   "Nepřítomnost snové aktivity při polysomnografii v prvním týdnu"
+  ]
+ },
+ {
+  "id": "nve-B06",
+  "text": "Co je cílem apnoického testu při stanovení smrti mozku?",
+  "options": [
+   "Ověřit, že plíce pacienta zvládnou dýchat bez podpory ventilátoru",
+   "Změřit, jak rychle klesá saturace krve kyslíkem bez přístroje",
+   "Prokázat, že ani vzestup oxidu uhličitého nevyvolá dechové úsilí",
+   "Vyloučit, že za bezvědomí stojí zbytkový účinek tlumivých léků"
+  ]
+ },
+ {
+  "id": "nve-B07",
+  "text": "Jaký obraz EEG je typický pro dětskou absenci?",
+  "options": [
+   "Ploché EEG bez jakékoli aktivity po dobu trvání záchvatu",
+   "Ložiskové ostré vlny nad spánkovým lalokem jedné hemisféry",
+   "Pomalé delta vlny nad čelními laloky s postupným zpomalováním",
+   "Generalizované komplexy hrot-vlna o frekvenci kolem tří za sekundu"
+  ]
+ },
+ {
+  "id": "nve-B08",
+  "text": "Co platí o hypoaktivní formě deliria?",
+  "options": [
+   "Je vzácnější než hyperaktivní forma a má výrazně lepší prognózu",
+   "Je častá, snadno se přehlédne a bývá spojena s horším výsledkem",
+   "Vyskytuje se prakticky výhradně u pacientů s předchozí demencí",
+   "Od deprese ji spolehlivě odliší jen magnetická rezonance mozku"
+  ]
+ },
+ {
+  "id": "nve-B09",
+  "text": "Co se stane po vstříknutí studené vody do levého zvukovodu u pacienta, který popírá ochrnutí levé ruky?",
+  "options": [
+   "Ochrnutí se dočasně upraví, ale popírání trvá dál",
+   "Popírání se prohloubí a rozšíří se i na zorné pole",
+   "Popírání dočasně ustoupí a pacient ochrnutí přizná",
+   "Nezmění se nic, efekt platí jen u pravostranného ochrnutí"
+  ]
+ },
+ {
+  "id": "nve-B10",
+  "text": "Co je senzorická extinkce u syndromu opomíjení (neglectu)?",
+  "options": [
+   "Podnět vlevo je vnímán sám, ale zmizí při současném podnětu vpravo",
+   "Pacient nevnímá levou stranu ani tehdy, je-li podnět zcela izolovaný",
+   "Podněty z obou stran splynou do jediného vjemu uprostřed těla",
+   "Ztráta zrakového vjemu odpovídá přesně výpadku v zorném poli"
+  ]
+ },
+ {
+  "id": "nve-B11",
+  "text": "Co charakterizuje Antonův-Babinského syndrom?",
+  "options": [
+   "Pacient vidí, ale tvrdí, že je slepý, a chová se podle toho",
+   "Pacient přestává poznávat tváře, přestože je popisuje detailně",
+   "Pacient vidí jen jednu polovinu prostoru a druhou zcela ignoruje",
+   "Pacient je korově slepý, slepotu popírá a své odpovědi si domýšlí"
+  ]
+ },
+ {
+  "id": "nve-B12",
+  "text": "Čím se liší kalózní a frontální varianta syndromu cizí ruky?",
+  "options": [
+   "Kalózní postihuje jen nohu, frontální výhradně dominantní ruku",
+   "Kalózní se projeví konfliktem rukou, frontální nutkavým uchopováním",
+   "Kalózní vzniká po mrtvici, frontální pouze po úrazu čelní krajiny",
+   "Kalózní mizí během dní, frontální trvá po celý zbytek života"
+  ]
+ },
+ {
+  "id": "nve-B13",
+  "text": "Jak dvoufaktorová teorie vysvětluje Capgrasův blud?",
+  "options": [
+   "Zcela chybí rozpoznání tváří, mozek proto vytváří náhradní příběh",
+   "Tvář je poznána, ale chybí obvyklá emoční odezva na blízkou osobu",
+   "Emoce k blízké osobě zesílí natolik, že ji mozek přestane poznávat",
+   "Paměť na tvář se rozpadne dřív než paměť na jméno a hlas"
+  ]
+ },
+ {
+  "id": "nve-B14",
+  "text": "Jak bývá Cotardův syndrom vykládán ve srovnání s Capgrasovým?",
+  "options": [
+   "Jde o tentýž blud, jen popsaný v jiné psychiatrické tradici",
+   "Cotard vzniká výhradně z poškození čichové kůry, Capgras ze zrakové",
+   "U Cotarda chybí emoční odezva jen na jednu konkrétní blízkou osobu",
+   "U Cotarda chybí emoční odezva globálně, u Capgrase jen vůči osobám"
+  ]
+ },
+ {
+  "id": "nve-B15",
+  "text": "Co ukazují laboratorní měření u poruchy depersonalizace a derealizace?",
+  "options": [
+   "Snížené autonomní reakce na emočně silné podněty",
+   "Zvýšené autonomní reakce na neutrální podněty",
+   "Naprosto chybějící rozpoznání emocí ve tvářích",
+   "Úplnou ztrátu vnímání bolesti při běžných podnětech"
+  ]
+ },
+ {
+  "id": "nve-B16",
+  "text": "Kde vyvolala elektrická stimulace u epileptické pacientky opakovaně zážitek opuštění těla (Blanke, 2002)?",
+  "options": [
+   "V přední části pravého čelního laloku",
+   "Ve zrakové kůře na týlním pólu vlevo",
+   "Na rozhraní spánkového a temenního laloku",
+   "V mozkovém kmeni poblíž retikulární formace"
+  ]
+ },
+ {
+  "id": "nve-B17",
+  "text": "Co je podstatou iluze celého těla (full body illusion)?",
+  "options": [
+   "Vidí-li člověk svou ruku v zrcadle, přijme ji jako ruku cizí osoby",
+   "Hlazená virtuální postava viděná zezadu je přijata za vlastní tělo",
+   "Zavázané oči vedou k tomu, že člověk postupně ztrácí obraz těla",
+   "Otáčení hlavou ve virtuálních brýlích navodí pocit letu nad krajinou"
+  ]
+ },
+ {
+  "id": "nve-B18",
+  "text": "Co je pro vznik iluze gumové ruky rozhodující?",
+  "options": [
+   "Současné hlazení viděné gumové a skryté vlastní ruky",
+   "Naprosté zakrytí obou rukou po celou dobu pokusu",
+   "Použití ruky z pravého lidského materiálu, ne plastu",
+   "Střídavé hlazení obou rukou v přesně opačném rytmu"
+  ]
+ },
+ {
+  "id": "nve-B19",
+  "text": "Jaká metodická výtka zaznívá vůči studiím iluze gumové ruky?",
+  "options": [
+   "Iluze mizí, je-li ruka položena na stole namísto do klína",
+   "Proprioceptivní drift nelze změřit s dostatečnou přesností",
+   "Asynchronní podmínka vyvolává silnější iluzi než synchronní",
+   "Část efektu jde na vrub sugestibilitě a očekávání účastníků"
+  ]
+ },
+ {
+  "id": "nve-B20",
+  "text": "Co měří takzvané intentional binding?",
+  "options": [
+   "Sílu svalové odpovědi na neočekávaný zvukový podnět",
+   "Dobu, za kterou si člověk uvědomí pohyb cizí ruky vedle sebe",
+   "Zdánlivé sblížení vlastního činu a jeho následku v čase",
+   "Přesnost odhadu, kdy se v mozku objevil první impuls k pohybu"
+  ]
+ },
+ {
+  "id": "nve-B21",
+  "text": "Jak lze experimentálně oddělit pocit vlastnictví těla od pocitu jednání?",
+  "options": [
+   "Vlastnictví lze navodit iluzí gumové ruky, aniž vznikne pocit jednání",
+   "Obojí se objevuje i mizí společně, oddělit je zatím nikdo nedokázal",
+   "Vlastnictví lze měřit jen dotazníkem, jednání pouze reakčním časem",
+   "Rozdíl se projeví výhradně u pacientů po přerušení míchy v krční části"
+  ]
+ },
+ {
+  "id": "nve-B22",
+  "text": "Co o výchozí síti mozku (DMN) ukazují novější data?",
+  "options": [
+   "Aktivuje se výhradně tehdy, když člověk nemá žádný úkol",
+   "Zapojuje se i do úloh, které vyžadují paměť a vnitřní model",
+   "Je to jediná síť, kterou lze najít pouze u lidí, ne u zvířat",
+   "Její aktivita mizí ve spánku a vrací se až s plným probuzením"
+  ]
+ },
+ {
+  "id": "nve-B23",
+  "text": "S čím nejtěsněji koreluje míra prožitého rozpuštění ega po psilocybinu?",
+  "options": [
+   "S poklesem prokrvení mozečku a mozkového kmene celkově",
+   "S nárůstem pomalé aktivity v čelních lalocích při EEG",
+   "S rozpadem obvyklého oddělení velkých mozkových sítí",
+   "S posílením vazby mezi zrakovou a sluchovou kůrou"
+  ]
+ },
+ {
+  "id": "nve-B24",
+  "text": "Co nejpřímočařeji dokládá, že subjektivní účinky psilocybinu jdou přes receptor 5-HT2A?",
+  "options": [
+   "Účinek zesílí po podání látky blokující dopaminové receptory",
+   "Psilocybin se váže výhradně na tento jediný typ receptoru",
+   "Po vysazení antidepresiv se účinek psilocybinu vždy zdvojnásobí",
+   "Předchozí podání ketanserinu zážitek téměř úplně potlačí"
+  ]
+ },
+ {
+  "id": "nve-B25",
+  "text": "Kde je v mozku hustota receptorů 5-HT2A nejvyšší?",
+  "options": [
+   "V bazálních gangliích a ve specifických jádrech thalamu",
+   "V mozečku, hlavně ve vrstvě Purkyňových buněk",
+   "V asociativní kůře, na velkých pyramidových buňkách",
+   "V hipokampu, převážně na vmezeřených neuronech"
+  ]
+ },
+ {
+  "id": "nve-B26",
+  "text": "Co ukázala velká placebem kontrolovaná studie mikrodávkování se sebezaslepením (2021)?",
+  "options": [
+   "Zlepšení nastalo i u placeba, rozdíl mezi skupinami zmizel",
+   "Mikrodávky zlepšily náladu i výkon výrazně nad úroveň placeba",
+   "Placebo zhoršilo náladu, takže se rozdíl naopak ještě zvětšil",
+   "Účinek se projevil až po třech měsících nepřetržitého užívání"
+  ]
+ },
+ {
+  "id": "nve-B27",
+  "text": "Jak dopadlo přímé srovnání psilocybinu s escitalopramem u těžké deprese (2021)?",
+  "options": [
+   "Psilocybin jasně zvítězil v předem určeném hlavním ukazateli",
+   "Escitalopram byl v hlavním ukazateli výrazně lepší než psilocybin",
+   "Studie byla zastavena kvůli závažným nežádoucím účinkům psilocybinu",
+   "V hlavním ukazateli se skupiny významně nelišily, rozdíly byly vedlejší"
+  ]
+ },
+ {
+  "id": "nve-B28",
+  "text": "Jak se během noci mění poměr hlubokého spánku a REM?",
+  "options": [
+   "Oba podíly zůstávají po celou noc prakticky stejné",
+   "Hluboký spánek převažuje zpočátku, REM přibývá k ránu",
+   "REM převažuje zpočátku, hluboký spánek přibývá k ránu",
+   "Hluboký spánek se objevuje jen v posledním cyklu noci"
+  ]
+ },
+ {
+  "id": "nve-B29",
+  "text": "Co se v roce 2021 podařilo ve čtyřech nezávislých laboratořích u lucidně snících?",
+  "options": [
+   "Snící odpovídali na počty a otázky pohyby očí přímo ze snu",
+   "Snící vyslovovali odpovědi nahlas, aniž se probudili ze snu",
+   "Snící ovládali pohyb ruky robota napojeného na jejich EEG",
+   "Snící si po probuzení vybavili celý sen ve správném pořadí"
+  ]
+ },
+ {
+  "id": "nve-B30",
+  "text": "Co odlišuje EEG lucidního snu od běžného REM spánku?",
+  "options": [
+   "Úplné vymizení rychlých očních pohybů během lucidní fáze",
+   "Návrat pomalých delta vln typických pro hluboký spánek",
+   "Zvýšená svalová aktivita na bradě srovnatelná s bdělostí",
+   "Vyšší aktivita v pásmu gama nad čelními a předočními oblastmi"
+  ]
+ },
+ {
+  "id": "nve-B31",
+  "text": "Čím se vysvětluje spánková obrna?",
+  "options": [
+   "Křečí svalstva, která nastupuje při rychlém probuzení",
+   "Poklesem krevního tlaku při náhlé změně polohy těla",
+   "Přetrváním svalové atonie z REM do chvíle probuzení",
+   "Krátkým epileptickým výbojem v motorické kůře mozku"
+  ]
+ },
+ {
+  "id": "nve-B32",
+  "text": "Co ukázalo měření EEG přímo během epizody náměsíčnosti?",
+  "options": [
+   "Celý mozek byl v plné bdělosti, pacient si epizodu vybavil",
+   "Část mozku spala hlubokým spánkem, jiná se chovala bděle",
+   "Mozek byl v REM spánku, chyběla však obvyklá atonie svalů",
+   "Aktivita odpovídala mělkému spánku bez jakýchkoli odchylek"
+  ]
+ },
+ {
+  "id": "nve-B33",
+  "text": "Co podle Siclariové a spolupracovníků nejlépe předpovídá, že člověk právě sní?",
+  "options": [
+   "Nárůst pomalé aktivity nad čelními laloky v obou hemisférách",
+   "Přítomnost spánkových vřeten v temenních svodech během REM",
+   "Zrychlení srdečního rytmu doprovázené pohyby končetin",
+   "Pokles pomalé aktivity v zadní korové oblasti, i mimo REM"
+  ]
+ },
+ {
+  "id": "nve-B34",
+  "text": "Co je cílená reaktivace paměti ve spánku?",
+  "options": [
+   "Přehrání vůně či zvuku z učení během hlubokého spánku",
+   "Opakované buzení spáče vždy na konci každého cyklu",
+   "Učení nového materiálu přehrávaného až během REM fáze",
+   "Potlačení vzpomínky pomocí elektrického dráždění kůry"
+  ]
+ },
+ {
+  "id": "nve-B35",
+  "text": "Který nález provází hypnotický stav u vysoce hypnabilních lidí?",
+  "options": [
+   "Zvýšená aktivita v hřbetní části předního cingula",
+   "Snížená aktivita v hřbetní části předního cingula",
+   "Úplné vypnutí prefrontální kůry po dobu navození",
+   "Zvýšený průtok krve mozečkem po celou dobu sezení"
+  ]
+ },
+ {
+  "id": "nve-B36",
+  "text": "Co platí o hypnabilitě jako vlastnosti člověka?",
+  "options": [
+   "S nácvikem ji lze u kohokoli spolehlivě zvýšit na maximum",
+   "Přímo odpovídá míře důvěřivosti a nízkému vzdělání",
+   "Je poměrně stabilní v čase a rozložená napříč populací",
+   "Vyskytuje se jen u lidí se sklonem k disociativní poruše"
+  ]
+ },
+ {
+  "id": "nve-B37",
+  "text": "Co ukazují metaanalýzy studií meditace, které zahrnují aktivní kontrolní skupinu?",
+  "options": [
+   "Efekty jsou menší než ve studiích s pasivním čekacím seznamem",
+   "Efekty jsou naopak větší než proti pasivnímu čekacímu seznamu",
+   "Změny objemu šedé hmoty se opakovaně potvrdily ve všech studiích",
+   "Prospěch byl doložen jen u dechových technik, ne u všímavosti"
+  ]
+ },
+ {
+  "id": "nve-B38",
+  "text": "Co tvrdí hypotéza přechodné hypofrontality o stavu plynutí (flow)?",
+  "options": [
+   "Čelní laloky pracují naplno, což vysvětluje pocit lehkosti",
+   "Za pocitem plynutí stojí vyplavení dopaminu v mozečku",
+   "Část výkonných funkcí ustoupí, mizí tak i sebeuvědomění",
+   "Plynutí vzniká synchronizací obou hemisfér v pásmu théta"
+  ]
+ },
+ {
+  "id": "nve-B39",
+  "text": "Co víme o paměti na podněty podané během adekvátně vedené celkové anestezie?",
+  "options": [
+   "Explicitní vybavení je běžné, implicitní efekty naopak chybí",
+   "Explicitní vybavení chybí, implicitní efekty jsou slabé a nejisté",
+   "Obojí je spolehlivě doloženo a využívá se k předoperační přípravě",
+   "Podněty se ukládají do paměti, ale vybaví se až po několika letech"
+  ]
+ },
+ {
+  "id": "nve-B40",
+  "text": "Jak se liší odhad výskytu bdělosti během anestezie podle spontánních hlášení a podle cíleného dotazování?",
+  "options": [
+   "Spontánní hlášení dávají vyšší výskyt než cílené dotazování",
+   "Oba přístupy dávají prakticky shodný odhad kolem promile",
+   "Cílené dotazování výskyt snižuje, protože vylučuje sny",
+   "Cílené dotazování dává řádově vyšší výskyt než spontánní hlášení"
+  ]
+ },
+ {
+  "id": "nve-B41",
+  "text": "Co ukazuje metoda izolovaného předloktí během celkové anestezie?",
+  "options": [
+   "Žádný pacient na výzvu nereaguje, pokud je hloubka správná",
+   "Reagují jen pacienti, u nichž selhalo podání svalového relaxans",
+   "Nezanedbatelná část pacientů na slovní výzvu rukou odpoví",
+   "Pohyb ruky vždy předchází vzestupu tepové frekvence o minuty"
+  ]
+ },
+ {
+  "id": "nve-B42",
+  "text": "Co přinesla studie AWARE zaměřená na zážitky blízké smrti?",
+  "options": [
+   "Ani jeden pacient neurčil obrázky umístěné u stropu sálů",
+   "Většina resuscitovaných obrázky u stropu popsala přesně",
+   "Studie potvrdila, že vědomí přetrvává hodiny po zástavě",
+   "Obrázky popsali pouze pacienti se zástavou delší než minuta"
+  ]
+ },
+ {
+  "id": "nve-B43",
+  "text": "Co ukázalo srovnání dotazníků zážitku blízké smrti s prožitkem po nitrožilním DMT?",
+  "options": [
+   "Popisy se nepřekrývaly prakticky v žádné položce dotazníku",
+   "Popisy se výrazně překrývaly, zejména v pocitu opuštění těla",
+   "DMT vyvolalo hlavně tělesnou bolest, což se s NDE rozchází",
+   "Shoda byla úplná, oba stavy jsou proto považovány za totožné"
+  ]
+ },
+ {
+  "id": "nve-B44",
+  "text": "Co bylo naměřeno v mozku některých pacientů po zastavení oběhu (Borjigin a spolupracovníci)?",
+  "options": [
+   "Okamžité a trvalé vymizení veškeré elektrické aktivity",
+   "Pomalé delta vlny přetrvávající desítky minut po zástavě",
+   "Rytmus podobný hlubokému spánku s vřeteny v temenní kůře",
+   "Krátký vzestup gama aktivity a její provázanosti v zadní kůře"
+  ]
+ }
+]

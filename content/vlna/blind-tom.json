@@ -1,0 +1,882 @@
+[
+ {
+  "id": "tom-A01",
+  "text": "Protodeklarativní ukazování se od protoimperativního liší tím, že:",
+  "options": [
+   "objevuje se dříve, už kolem šestého měsíce věku dítěte",
+   "slouží k získání předmětu, který je mimo dosah dítěte",
+   "slouží ke sdílení zájmu o předmět s druhým člověkem",
+   "doprovází je pohled na předmět, nikoli na dospělého"
+  ]
+ },
+ {
+  "id": "tom-A02",
+  "text": "Podle klasických studií sledování pohledu (Butterworth a Jarrett) kojenci kolem šesti měsíců:",
+  "options": [
+   "otočí se správným směrem, ale zafixují první nápadný předmět",
+   "sledují pohled jen tehdy, když dospělý zároveň ukazuje rukou",
+   "spolehlivě najdou i předmět, který je umístěný za jejich zády",
+   "sledují pohled pouze u matky, nikoli u cizího člověka"
+  ]
+ },
+ {
+  "id": "tom-A03",
+  "text": "Triadická sdílená pozornost se od pouhého sledování pohledu liší tím, že dítě:",
+  "options": [
+   "dokáže odhadnout, na co se dospělý dívá, i mimo svůj zorný úhel",
+   "reaguje na předmět rychleji, než kdyby byl dospělý potichu",
+   "otáčí hlavu spíše za zvukem hlasu než za směrem pohledu dospělého",
+   "sdílí pozornost k předmětu a ověřuje si to pohledem na partnera"
+  ]
+ },
+ {
+  "id": "tom-A04",
+  "text": "Ve vývoji dětské psychologie mysli platí, že děti:",
+  "options": [
+   "chápou přesvědčení dříve než tužby, zhruba už kolem tří let",
+   "rozumějí tužbám dříve než přesvědčením, už kolem dvou let",
+   "obojí zvládnou najednou, jakmile ovládnou sloveso „myslet“",
+   "chápou tužby až poté, co pochopí nepravdivé přesvědčení"
+  ]
+ },
+ {
+  "id": "tom-A05",
+  "text": "Na škále úloh teorie mysli (Wellman a Liu) zvládají anglicky mluvící děti nejpozději:",
+  "options": [
+   "různá přání dvou lidí, kteří si vybírají mezi dvěma svačinami",
+   "různá přesvědčení dvou lidí o tom, kde je schovaná kočka",
+   "přístup ke znalosti — kdo se do krabice díval a kdo ne",
+   "skrytou emoci — dítě je smutné, ale tváří se vesele"
+  ]
+ },
+ {
+  "id": "tom-A06",
+  "text": "U čínských a íránských dětí se pořadí kroků na škále úloh teorie mysli liší tak, že:",
+  "options": [
+   "skrytou emoci zvládají dříve než nepravdivé přesvědčení",
+   "přístup ke znalosti zvládají dříve než různá přesvědčení",
+   "různá přání zvládají až po nepravdivém přesvědčení",
+   "celé pořadí kroků je oproti západním dětem obrácené"
+  ]
+ },
+ {
+  "id": "tom-A07",
+  "text": "Vztah exekutivních funkcí a řešení úloh s nepravdivým přesvědčením nejlépe vystihuje:",
+  "options": [
+   "výkon v inhibičních úlohách předpovídá pozdější úspěch v ToM",
+   "obě schopnosti spolu vůbec nesouvisejí, měří oddělené systémy",
+   "úspěch v ToM v batolecím věku předpovídá pozdější inhibici",
+   "souvislost mizí, jakmile se kontroluje věk a slovní zásoba"
+  ]
+ },
+ {
+  "id": "tom-A08",
+  "text": "V úloze s okénkem (windows task) tříleté dítě opakovaně prohrává sladkost, protože:",
+  "options": [
+   "nedokáže si zapamatovat, ve které krabičce sladkost je",
+   "nechápe, že soupeř má o obsahu krabiček nepravdivé přesvědčení",
+   "neubrání se ukázat na krabičku, o níž ví, že je v ní odměna",
+   "považuje soupeře za spolupracovníka, nikoli za protivníka"
+  ]
+ },
+ {
+  "id": "tom-A09",
+  "text": "Podle Jill a Petera de Villiersových je pro pochopení nepravdivého přesvědčení klíčové zvládnutí:",
+  "options": [
+   "vedlejších vět po slovesech říct a myslet, které mohou být nepravdivé",
+   "pasivních konstrukcí, jež oddělují původce děje od příjemce",
+   "časových souvětí typu „než“ a „poté, co“ s obrácenou událostí",
+   "zájmenných odkazů, které vyžadují sledování mluvčího a adresáta"
+  ]
+ },
+ {
+  "id": "tom-A10",
+  "text": "Neslyšící děti slyšících rodičů, kteří se znakovat teprve učí, řeší úlohy s nepravdivým přesvědčením:",
+  "options": [
+   "stejně jako slyšící vrstevníci, jazyk zde nehraje roli",
+   "lépe než neslyšící děti neslyšících rodičů, kvůli cvičení",
+   "hůř jen u verbálních verzí úlohy, u neverbálních zcela normálně",
+   "s výrazným zpožděním, často až o několik let oproti normě"
+  ]
+ },
+ {
+  "id": "tom-A11",
+  "text": "Perner, Ruffman a Leekam (1994) ukázali, že děti řeší úlohy s nepravdivým přesvědčením lépe, když:",
+  "options": [
+   "mají alespoň jednoho rodiče s vysokoškolským vzděláním",
+   "mají více sourozenců, s nimiž vyrůstají v jedné domácnosti",
+   "jsou v rodině prvorozené a dostávají hodně pozornosti dospělých",
+   "chodí do jeslí od velmi raného věku, tedy zhruba od roka"
+  ]
+ },
+ {
+  "id": "tom-A12",
+  "text": "Co z rodinné komunikace nejspolehlivěji předpovídá pozdější výkon dítěte v úlohách teorie mysli?",
+  "options": [
+   "celkový počet slov, který matka na dítě denně vyprodukuje",
+   "množství pokynů a příkazů, které dítě od rodičů dostává",
+   "to, jak často se doma mluví o pocitech a důvodech jednání",
+   "kolik času dítě stráví předčítáním obrázkových knih s otcem"
+  ]
+ },
+ {
+  "id": "tom-A13",
+  "text": "Studie Onishiové a Baillargeonové (2005) s patnáctiměsíčními kojenci je významná tím, že:",
+  "options": [
+   "poprvé ukázala, že batolata umí verbálně předpovědět jednání",
+   "prokázala, že kojenci sledují pohled dospělého už od narození",
+   "ukázala neúspěch kojenců ve všech variantách skryté úlohy",
+   "naznačila citlivost k nepravdivému přesvědčení dávno před 4 lety"
+  ]
+ },
+ {
+  "id": "tom-A14",
+  "text": "Jak dnes vypadá replikační bilance úloh s anticipačním pohledem na nepravdivé přesvědčení?",
+  "options": [
+   "efekt byl potvrzen ve všech nezávislých replikacích i u dětí",
+   "přímé replikace efekt většinou nenašly, výsledky jsou nestabilní",
+   "efekt se ukázal silnější, než tvrdila původní studie z roku 2007",
+   "replikace neproběhly, metoda se v laboratořích přestala používat"
+  ]
+ },
+ {
+  "id": "tom-A15",
+  "text": "Úloha se zmrzlinářským vozem (Perner a Wimmer) testuje především:",
+  "options": [
+   "co si Jan myslí o tom, co si Marie myslí o poloze vozu",
+   "zda dítě pozná, že Marie o přesunu vozu nemá informaci",
+   "zda dítě dokáže vysvětlit, proč vůz vůbec změnil stanoviště",
+   "zda si dítě pamatuje pořadí událostí v poměrně dlouhém příběhu"
+  ]
+ },
+ {
+  "id": "tom-A16",
+  "text": "Rozpoznání faux pas vyžaduje oproti běžné úloze s nepravdivým přesvědčením navíc:",
+  "options": [
+   "jen rychlejší reakci pod časovým tlakem, obsah je stejný",
+   "schopnost vybavit si přesné znění výroku ve správném pořadí",
+   "spojit neznalost mluvčího s dopadem jeho slov na posluchače",
+   "rozlišit mezi vtipem a lží, kterou mluvčí pronesl záměrně"
+  ]
+ },
+ {
+  "id": "tom-A17",
+  "text": "Test Reading the Mind in the Eyes vyžaduje po respondentovi, aby:",
+  "options": [
+   "u fotografie celé tváře určil, jakou emoci člověk prožívá",
+   "podle popisu situace odhadl, jak se hrdina příběhu zachová",
+   "u krátkého videa řekl, co si jedna postava myslí o druhé",
+   "z výřezu očí vybral ze čtyř slov to, které stav nejlépe vystihuje"
+  ]
+ },
+ {
+  "id": "tom-A18",
+  "text": "Nejvážnější námitka proti tomu, aby se test Očí bral jako míra mentalizace, zní:",
+  "options": [
+   "výsledek silně závisí na slovní zásobě a na rozpoznání emocí",
+   "test je příliš krátký, spolehlivost odhadu je proto nízká",
+   "fotografie pocházejí z časopisů, chybí jim ekologická platnost",
+   "položky nebyly nikdy ověřeny na jiné než britské populaci"
+  ]
+ },
+ {
+  "id": "tom-A19",
+  "text": "Za nejselektivnější uzel mentalizační sítě pro obsah přesvědčení se považuje:",
+  "options": [
+   "přední ostrovní lalok, aktivní zejména při prožitku znechucení",
+   "hipokampus, který zajišťuje vybavení epizodických vzpomínek",
+   "pravý temporoparietální spoj, aktivní při čtení o přesvědčeních",
+   "primární motorická kůra, jež reaguje na pozorované pohyby ruky"
+  ]
+ },
+ {
+  "id": "tom-A20",
+  "text": "Mediální prefrontální kortex bývá v mentalizačních úlohách spojován spíše s:",
+  "options": [
+   "trvalejšími rysy a hodnotami osob, včetně reflexe sebe sama",
+   "rychlým rozpoznáním tváře konkrétního známého jedince",
+   "výpočtem přesné polohy předmětu ve zorném poli druhého",
+   "detekcí biologického pohybu v bodovém světelném displeji chodce"
+  ]
+ },
+ {
+  "id": "tom-A21",
+  "text": "Vztah mentalizační sítě a takzvané default mode network lze shrnout tak, že:",
+  "options": [
+   "obě sítě se z velké části anatomicky překrývají, hlavně v mPFC a TPJ",
+   "jde o zcela oddělené soustavy, jejich uzly se nikde nepotkávají",
+   "default mode network se aktivuje jen během spánku bez snění",
+   "mentalizační síť leží výhradně v pravé mozkové hemisféře člověka"
+  ]
+ },
+ {
+  "id": "tom-A22",
+  "text": "Přímé záznamy z jednotlivých neuronů u člověka (Mukamel a spol., 2010) ukázaly:",
+  "options": [
+   "hustou populaci zrcadlových buněk přímo v Brocově oblasti",
+   "buňky s vlastnostmi zrcadlení mimo jiné v mediálním čelním laloku",
+   "že u člověka žádné buňky reagující na pozorování cizí akce neexistují",
+   "zrcadlení pouze u pacientů s epilepsií, u zdravých nikoliv"
+  ]
+ },
+ {
+  "id": "tom-A23",
+  "text": "Nejsilnější námitka proti tvrzení, že zrcadlové neurony vysvětlují porozumění jednání, zní:",
+  "options": [
+   "u opic makaka nebyly tyto neurony nikdy spolehlivě nalezeny",
+   "zrcadlové neurony reagují jen na pohyby vlastní ruky pokusného zvířete",
+   "poškození motorických oblastí porozumění řeči a akci ničí jen málo",
+   "reakce těchto buněk se u opic měřily výhradně během spánku"
+  ]
+ },
+ {
+  "id": "tom-A24",
+  "text": "Hypotéza „rozbitého zrcadla“ u autismu je dnes hodnocena tak, že:",
+  "options": [
+   "byla potvrzena rozsáhlými metaanalýzami zobrazovacích studií",
+   "vysvětluje i jazykové obtíže, které autismus zpravidla doprovázejí",
+   "se opírá o přímé záznamy z neuronů u autistických dospělých",
+   "nemá oporu: nálezy jsou nekonzistentní a napodobování bývá zachováno"
+  ]
+ },
+ {
+  "id": "tom-A25",
+  "text": "Který nález se obvykle uvádí ve prospěch simulační teorie mentalizace?",
+  "options": [
+   "děti zvládají úlohy v pevném pořadí, jako by revidovaly teorii",
+   "vlastní aktuální stav zkresluje odhad stavu druhého člověka",
+   "slepě narozené děti chápou přesvědčení stejně jako vidoucí",
+   "poškození TPJ selektivně narušuje úsudky o přesvědčeních"
+  ]
+ },
+ {
+  "id": "tom-A26",
+  "text": "Který nález naopak podporuje spíše „teorii teorie“?",
+  "options": [
+   "vývoj probíhá v uspořádaných krocích a děti své předpovědi mění",
+   "lidé odhadují druhé rychleji tehdy, když jsou jim sami podobní",
+   "empatická bolest aktivuje část okruhu pro vlastní bolest",
+   "u dospělých se objevuje efekt anticipačního pohledu na cíl"
+  ]
+ },
+ {
+  "id": "tom-A27",
+  "text": "Interakcionistický přístup (Gallagher, De Jaegher) proti klasické teorii mysli namítá, že:",
+  "options": [
+   "mentalizace probíhá jen v pravé hemisféře, nikoli oboustranně",
+   "děti se učí číst mysl výhradně z vyprávěných příběhů dospělých",
+   "mysl druhého odvozujeme z jeho chování pomocí tichých hypotéz",
+   "záměry a emoce často přímo vnímáme ve výrazu, gestu a jednání"
+  ]
+ },
+ {
+  "id": "tom-A28",
+  "text": "V habituačním pokusu Gergelyho a Csibry se dvanáctiměsíční kojenci divili, když kruh po odstranění překážky:",
+  "options": [
+   "změnil barvu, přestože se pohyboval po naprosto stejné dráze",
+   "skočil obloukem, ačkoli mohl k cíli letět přímou dráhou",
+   "letěl přímo k cíli, ačkoli to bylo delší než dřívější oblouk",
+   "zastavil se uprostřed a nedosáhl svého původního cílového bodu"
+  ]
+ },
+ {
+  "id": "tom-A29",
+  "text": "Teorie přirozené pedagogiky (Csibra a Gergely) tvrdí, že ostenzivní signály:",
+  "options": [
+   "slouží hlavně k tomu, aby dítě přestalo plakat a nakonec se uklidnilo",
+   "jsou zvládnuty až kolem třetího roku, dříve dítě nereagovalo",
+   "signalizují, že sdělovaný obsah platí obecně, nejen tady a teď",
+   "fungují pouze u matky, protože jde o naučenou vazbu na hlas"
+  ]
+ },
+ {
+  "id": "tom-A30",
+  "text": "V klasickém filmu Heiderové a Simmela z roku 1944 lidé popisovali:",
+  "options": [
+   "pohyb geometrických tvarů jako honičku, útok a útěk s emocemi",
+   "dvojici kreslených postaviček, jež spolu vedly hádku o jídlo",
+   "abstraktní obrazce jen jako změny rychlosti a směru pohybu",
+   "pohyb bodových světel připevněných na kloubech chodce v úplné tmě"
+  ]
+ },
+ {
+  "id": "tom-A31",
+  "text": "Který znak pohybu nejsilněji spouští dojem, že jde o živého činitele?",
+  "options": [
+   "rovnoměrný pohyb po přímce konstantní rychlostí bez odchylek",
+   "zrychlení bez vnějšího doteku a změna směru k nějakému cíli",
+   "pohyb dolů způsobený gravitací po nakloněné rovině dolů",
+   "odraz od stěny přesně podle úhlu dopadu, tedy zrcadlově"
+  ]
+ },
+ {
+  "id": "tom-A32",
+  "text": "Hypotéza hyperaktivní detekce činitele (HADD) tvrdí, že:",
+  "options": [
+   "lidé detekují činitele pouze tehdy, když je jim to nějak výhodné",
+   "detekce činitele se rozvíjí až s osvojením mateřského jazyka",
+   "je adaptivnější mít časté falešné poplachy než přehlédnout dravce",
+   "náboženská víra je nutným důsledkem správně fungující detekce hrozeb"
+  ]
+ },
+ {
+  "id": "tom-A33",
+  "text": "Jak si hypotéza hyperaktivní detekce činitele stojí v empirickém ověřování?",
+  "options": [
+   "experimenty potvrdily silnou přednost pro detekci činitelů u všech lidí",
+   "jde o matematicky dokázaný důsledek teorie detekce signálu",
+   "přímé měření ukázalo, že lidé činitele naopak systematicky přehlížejí",
+   "podpora je smíšená; sklon vidět činitele nepředpovídá víru spolehlivě"
+  ]
+ },
+ {
+  "id": "tom-A34",
+  "text": "Dvousystémový model mentalizace (Apperly a Butterfill) předpokládá, že:",
+  "options": [
+   "rychlý systém je úsporný, ale jeho dosah je principiálně omezený",
+   "oba systémy pracují stejně pomalu, liší se jen mírou přesnosti",
+   "rychlý systém zvládá i vnořená druhořádová přesvědčení zcela bez chyb",
+   "pomalý systém se objevuje v prvním roce, rychlý až ve škole"
+  ]
+ },
+ {
+  "id": "tom-A35",
+  "text": "„Registrace“ v minimální teorii mysli Butterfilla a Apperlyho znamená:",
+  "options": [
+   "explicitní přesvědčení vyjádřené větou s vedlejší větou obsahovou",
+   "vztah činitele k předmětu na místě, kde jej naposledy zaznamenal",
+   "paměťovou stopu, která uchovává celý průběh pozorované epizody",
+   "libovolný propoziční postoj, včetně přání, obav a předpokladů"
+  ]
+ },
+ {
+  "id": "tom-A36",
+  "text": "Krupenye a spol. (2016) u lidoopů pomocí sledování očí zjistili, že zvířata:",
+  "options": [
+   "aktivně pomáhala člověku hledat předmět na jeho původním místě",
+   "verbálně neoznačila místo, kde se předmět podle herce nacházel",
+   "předjímala pohledem, že herec bude hledat na místě, kde už nic není",
+   "nedokázala rozlišit dva různé herce v kostýmu King Konga navzájem"
+  ]
+ },
+ {
+  "id": "tom-A37",
+  "text": "Sojky křovinné (Aphelocoma californica) po skrytí potravy před divákem:",
+  "options": [
+   "potravu zásadně nepřemisťují, aby ji náhodou nevyhrabaly jinde",
+   "vždy ji přemístí, bez ohledu na to, zda je někdo pozoroval",
+   "zavolají na diváka a společně potravu snědí ještě týž den",
+   "ji později v soukromí často přeskrývají na jiné, nové místo"
+  ]
+ },
+ {
+  "id": "tom-A38",
+  "text": "Který detail výsledků u sojek se považoval za nejsilnější indicii sociální kognice?",
+  "options": [
+   "sojky si pamatují až tisíc míst a vybaví si i druh skryté potravy",
+   "přeskrývaly jen ty sojky, které samy měly zkušenost s kradením",
+   "sojky přeskrývaly stejně často, ať už pozorovány byly, či nikoli",
+   "mláďata sojek přeskrývala hned od prvního dne po vylíhnutí z vejce"
+  ]
+ },
+ {
+  "id": "tom-A39",
+  "text": "Pokus s bariérou a vlastní zkušeností (Kano a spol., 2019) u lidoopů ukázal, že zvířata:",
+  "options": [
+   "reagovala na barvu bariéry, ale ne na to, zda skrz ni lze vidět",
+   "neprošla úlohou vůbec, protože bariéru odmítala vzít do rukou",
+   "využila vlastní zkušenost s průhledností bariéry při odhadu člověka",
+   "sledovala pohled experimentátora jen tehdy, když neměl bariéru vůbec"
+  ]
+ },
+ {
+  "id": "tom-A40",
+  "text": "Hypotéza machiavellistické inteligence tvrdí, že hlavním motorem růstu primátího mozku byl:",
+  "options": [
+   "tlak na obelstívání a spojenectví uvnitř vlastní sociální skupiny",
+   "nárok na zapamatování polohy stromů s ovocem v širokém revíru",
+   "potřeba vyrábět stále složitější kamenné nástroje a zbraně",
+   "tlak predátorů, který vynutil rychlejší útěkové reakce a ostražitost"
+  ]
+ },
+ {
+  "id": "tom-A41",
+  "text": "Jak dnes vypadá stav Dunbarova čísla, tedy odhadu asi 150 stabilních vztahů?",
+  "options": [
+   "bylo potvrzeno přesnými měřeními u všech dosud zkoumaných kultur",
+   "vyplývá přímo z anatomie mozku, jeho hodnota je pevná konstanta",
+   "bylo vyvráceno, sociální sítě lidí nemají žádnou horní hranici",
+   "korelace existuje, ale odhad má obrovské konfidenční intervaly"
+  ]
+ },
+ {
+  "id": "tom-A42",
+  "text": "Hypotéza sociálního mozku se původně opírala hlavně o zjištění, že u primátů:",
+  "options": [
+   "velikost mozečku roste s množstvím vertikálního pohybu v korunách",
+   "celková hmotnost mozku roste přímo úměrně s hmotností těla druhu",
+   "poměr neokortexu k mozku koreluje s typickou velikostí skupiny",
+   "délka dětství koreluje s množstvím listů v jídelníčku daného druhu"
+  ]
+ },
+ {
+  "id": "tom-A43",
+  "text": "Ve slavném pokusu s brokolicí a sušenkami děti nabídly experimentátorce brokolici, když jim:",
+  "options": [
+   "bylo 14 měsíců a samy měly rády sušenky víc než brokolici",
+   "bylo 18 měsíců a experimentátorka dávala najevo odpor k sušenkám",
+   "bylo 14 měsíců, ale jen když jim to matka výslovně dovolila",
+   "bylo 18 měsíců a experimentátorka mlčky ukázala postupně na obě misky"
+  ]
+ },
+ {
+  "id": "tom-A44",
+  "text": "Rozdíl mezi první a druhou úrovní přebírání zrakové perspektivy (Flavell) spočívá v tom, že:",
+  "options": [
+   "první úroveň se týká slyšení, druhá výhradně zrakového vnímání",
+   "první úroveň zvládají až školáci, druhou naopak už batolata",
+   "obě úrovně se objevují současně kolem dovršení čtvrtého roku",
+   "první řeší, zda druhý předmět vidí, druhá jak se mu jeví"
+  ]
+ },
+ {
+  "id": "tom-B01",
+  "text": "Emoční nákaza (emotional contagion) se od empatie liší především tím, že:",
+  "options": [
+   "vyžaduje vědomý úsudek o tom, co druhý člověk v tu chvíli prožívá",
+   "objevuje se pouze mezi lidmi s velmi blízkým citovým poutem",
+   "probíhá automaticky a bez rozlišení, čí emoce to vlastně je",
+   "týká se výhradně negativních stavů, jako je strach či hnus"
+  ]
+ },
+ {
+  "id": "tom-B02",
+  "text": "Spotlight efekt popsaný Gilovichem a spolupracovníky znamená, že lidé:",
+  "options": [
+   "přeceňují, jak nápadní jsou druhým a jak bedlivě je druzí sledují",
+   "podceňují vliv situace, když vysvětlují cizí nápadné chování",
+   "přeceňují shodu svých názorů s názory většiny ostatních lidí",
+   "podceňují, jak silně na ně působí přítomnost sledujícího davu"
+  ]
+ },
+ {
+  "id": "tom-B03",
+  "text": "Iluze transparentnosti (illusion of transparency) spočívá v tom, že:",
+  "options": [
+   "cizí vnitřní stavy odhadujeme mnohem lépe, než si připouštíme",
+   "vlastní chování považujeme za průhledný důsledek okolností",
+   "u druhých vidíme více emocí, než jich ve skutečnosti mají",
+   "své vnitřní stavy pokládáme za čitelnější, než opravdu jsou"
+  ]
+ },
+ {
+  "id": "tom-B04",
+  "text": "Základní atribuční chyba (fundamental attribution error) označuje sklon:",
+  "options": [
+   "vysvětlovat vlastní neúspěch okolnostmi a úspěch svými vlohami",
+   "přeceňovat povahové rysy a podceňovat situaci u chování druhých",
+   "hodnotit člena vlastní skupiny mírněji než člena skupiny cizí",
+   "považovat vlastní pohled na situaci za nezaujatý obraz reality"
+  ]
+ },
+ {
+  "id": "tom-B05",
+  "text": "Společné vědění (common ground) v pojetí Herberta Clarka je:",
+  "options": [
+   "soubor znalostí, o nichž oba mluvčí vědí, že je sdílejí",
+   "průnik faktů, které oba mluvčí nezávisle na sobě znají",
+   "zásoba slov, jimž rozumějí všichni členové jazykového celku",
+   "soubor témat, na nichž se mluvčí předem výslovně dohodli"
+  ]
+ },
+ {
+  "id": "tom-B06",
+  "text": "Porozumění sarkastické poznámce vyžaduje navíc oproti doslovnému výroku:",
+  "options": [
+   "rozpoznat, že věta v sobě nese vnitřně rozporný obsah",
+   "znát přesný význam všech slov, která mluvčí použil",
+   "odhadnout mluvčího postoj k tomu, co doslova říká",
+   "vybavit si dřívější situaci s podobným průběhem"
+  ]
+ },
+ {
+  "id": "tom-B07",
+  "text": "Podle výzkumu antropomorfizace lidé připisují mysl neživým věcem nejspíš tehdy, když:",
+  "options": [
+   "věc je tvarem i barvou co nejvěrnější kopií člověka",
+   "jsou osamělí a chování té věci je pro ně nepředvídatelné",
+   "věc patří k technice, které dobře rozumějí a ovládají ji",
+   "jsou ve stresu a potřebují si co nejrychleji odpočinout"
+  ]
+ },
+ {
+  "id": "tom-B08",
+  "text": "Singer a Klimecki oddělují empatickou tíseň od soucitu především proto, že:",
+  "options": [
+   "soucit se objevuje pouze u lidí vycvičených v meditaci",
+   "empatická tíseň mizí, jakmile pochopíme příčinu utrpení",
+   "obojí spouští tutéž síť, liší se jen silou prožitku",
+   "vedou k jinému chování: k odtažení, nebo k pomoci druhým"
+  ]
+ },
+ {
+  "id": "tom-B09",
+  "text": "Eyal, Steffel a Epley v sérii pokusů zjistili, že snaha vžít se do druhého:",
+  "options": [
+   "přesnost odhadu nezlepšila, kdežto přímé zeptání ano",
+   "přesnost odhadu zlepšila výrazně u blízkých, jinde ne",
+   "přesnost odhadu zlepšila jen u odhadů vlastních emocí",
+   "přesnost odhadu i sebedůvěru v odhad shodně snížila"
+  ]
+ },
+ {
+  "id": "tom-B10",
+  "text": "Měření empatické přesnosti metodou Williama Ickese u cizích lidí při prvním setkání dává výsledek:",
+  "options": [
+   "kolem devadesáti procent správně odhadnutých myšlenek",
+   "kolem dvaceti procent správně odhadnutých myšlenek",
+   "přesně na úrovni náhody, tedy nulovou úspěšnost",
+   "vyšší u mužů než u žen zhruba o polovinu případů"
+  ]
+ },
+ {
+  "id": "tom-B11",
+  "text": "Naivní realismus podle Lee Rosse zahrnuje kromě přesvědčení o vlastní nezaujatosti také očekávání, že:",
+  "options": [
+   "druzí vidí svět zkresleně, ale poctivě se snaží o pravdu",
+   "vlastní pohled je jen jednou z mnoha rovnocenných verzí",
+   "spor lze vyřešit tím, že obě strany ustoupí na půl cesty",
+   "rozumní lidé po seznámení s fakty dojdou ke stejnému názoru"
+  ]
+ },
+ {
+  "id": "tom-B12",
+  "text": "Gray a Wegner našli v datech o připisování mysli dvě hlavní dimenze, a to:",
+  "options": [
+   "rozumové schopnosti a mravní zodpovědnost za vlastní činy",
+   "vědomí sebe sama a schopnost dorozumět se jazykem",
+   "schopnost jednat a schopnost prožívat pocity a vjemy",
+   "vnímání okolí a paměť na vlastní minulé prožitky"
+  ]
+ },
+ {
+  "id": "tom-B13",
+  "text": "Haslamovo rozlišení mechanistické a animalistické dehumanizace stojí na tom, že:",
+  "options": [
+   "první se týká skupin, druhá jednotlivců uvnitř skupiny",
+   "první upírá lidskou přirozenost, druhá to, co je jen lidské",
+   "první je vědomá a záměrná, druhá probíhá zcela bezděčně",
+   "první se týká nepřátel ve válce, druhá cizinců v míru"
+  ]
+ },
+ {
+  "id": "tom-B14",
+  "text": "Vztah mezi vývojem teorie mysli a dětským lhaním je podle výzkumů takový, že:",
+  "options": [
+   "lepší mentalizace předpovídá schopnost lež souvisle udržet",
+   "děti se schopnou mentalizací lžou méně, protože chápou újmu",
+   "lhaní se objevuje dřív než jakékoli mentalizační schopnosti",
+   "obě schopnosti spolu nesouvisejí, jde o oddělené okruhy"
+  ]
+ },
+ {
+  "id": "tom-B15",
+  "text": "Spolehlivým testem presupozice oproti konverzační implikatuře je to, že presupozice:",
+  "options": [
+   "se dá zrušit dodatkem, aniž ve větě vznikne nějaký rozpor",
+   "vzniká teprve z porušení pravidla o množství sděleného obsahu",
+   "přežije i tehdy, když celou větu popřeme či zpochybníme",
+   "závisí na tom, jak silně mluvčí své tvrzení zdůrazní"
+  ]
+ },
+ {
+  "id": "tom-B16",
+  "text": "Deiktické výrazy jako „zítra“, „tady“ nebo „ty“ se vyznačují tím, že:",
+  "options": [
+   "mají v každém jazyce zcela shodný okruh významů",
+   "nelze je použít, pokud mluvčí a posluchač nejsou spolu",
+   "označují vždy tutéž věc bez ohledu na situaci užití",
+   "jejich odkaz se mění s tím, kdo, kdy a kde je pronáší"
+  ]
+ },
+ {
+  "id": "tom-B17",
+  "text": "Teorie relevance Sperbera a Wilsona nahrazuje Griceovy maximy jedním principem, podle nějž posluchač:",
+  "options": [
+   "hledá výklad s co největším přínosem za co nejmenší námahu",
+   "hledá výklad, který mluvčího ukáže v nejlepším možném světle",
+   "hledá výklad nejbližší doslovnému významu pronesené věty",
+   "hledá výklad, jenž nejvíc rozšíří společné vědění obou stran"
+  ]
+ },
+ {
+  "id": "tom-B18",
+  "text": "Tomasello považuje za klíčovou lidskou zvláštnost sdílenou intencionalitu, tedy schopnost:",
+  "options": [
+   "odhadnout, co druhý zamýšlí, a využít to ve svůj prospěch",
+   "napodobit cizí pohyb do nejmenšího detailu bez nácviku",
+   "mít s druhým společný cíl i společnou pozornost k němu",
+   "předat potomkům nasbírané dovednosti pomocí řeči a písma"
+  ]
+ },
+ {
+  "id": "tom-B19",
+  "text": "V jednorázové ultimátní hře o 100 korun nabídne navrhovatel 20 korun. Jak se zachová druhý hráč v typickém laboratorním výsledku?",
+  "options": [
+   "Přijme vždy, protože něco je lepší než nic.",
+   "Často nabídku odmítne a oba nedostanou nic.",
+   "Nabídku přijme a příště nabídne stejně málo.",
+   "Odmítne jen tehdy, pokud hru hraje opakovaně."
+  ]
+ },
+ {
+  "id": "tom-B20",
+  "text": "Dunbarova hypotéza o roli klevet v lidských skupinách tvrdí, že klevety:",
+  "options": [
+   "slouží hlavně k zábavě a nemají žádnou další funkci",
+   "vznikly až s písmem, které umožnilo drby uchovávat",
+   "jsou vedlejším produktem řeči bez vlivu na chování",
+   "nahrazují vzájemné probírání srsti a hlídají reputaci"
+  ]
+ },
+ {
+  "id": "tom-B21",
+  "text": "Ve hře „hádej dvě třetiny průměru všech tipů“ v rozsahu 0 až 100 volí běžný vzorek účastníků čísla kolem 20 až 35. Co to ukazuje?",
+  "options": [
+   "Že hráči hrají rovnovážnou strategii teorie her.",
+   "Že hráči čísla volí zcela náhodně bez uvažování.",
+   "Že hráči uvažují jen jeden dva kroky za ostatní.",
+   "Že hráči nerozumějí zadání a počítají průměr špatně."
+  ]
+ },
+ {
+  "id": "tom-B22",
+  "text": "Csibra a Gergely tvrdí, že ostenzivní signály jako oční kontakt a oslovení dítěti sdělují, že:",
+  "options": [
+   "dospělý po něm chce, aby přesně zopakovalo jeho pohyb",
+   "další sdělení platí obecně, ne jen pro danou situaci",
+   "dospělý se chystá odejít a předává mu poslední pokyn",
+   "dítě má sledovat předmět, nikoli tvář dospělého u něj"
+  ]
+ },
+ {
+  "id": "tom-B23",
+  "text": "Současný stav bádání o zrcadlových neuronech ve vztahu k empatii lze shrnout tak, že:",
+  "options": [
+   "náznaky u člověka jsou, ale výklad empatie jimi je sporný",
+   "u člověka byly změřeny jednotlivě a empatii spolehlivě vysvětlují",
+   "byly nalezeny jen u opic a u člověka je jejich existence vyvrácena",
+   "jejich role byla potvrzena, ale jen u rozpoznávání cizí bolesti"
+  ]
+ },
+ {
+  "id": "tom-B24",
+  "text": "Nález Kidda a Castana, že čtení literární beletrie zlepšuje čtení mysli, dopadl v pozdějším ověřování takto:",
+  "options": [
+   "byl potvrzen ve všech pokusech o přímé zopakování studie",
+   "byl potvrzen, ale jen u čtenářů starších šedesáti let",
+   "nebyl ověřován, studie zůstala dodnes bez následovníků",
+   "velké replikace efekt nenašly nebo našly jen nepatrný"
+  ]
+ },
+ {
+  "id": "tom-B25",
+  "text": "Klimecki a Singer ve snímkování pozorovali, že trénink soucitu oproti tréninku empatie zapojuje víc:",
+  "options": [
+   "přední insulu a přední cingulární kůru, sídlo tísně",
+   "mediální orbitofrontální kůru a ventrální striatum",
+   "amygdalu a hipokampus, tedy okruh paměti na strach",
+   "primární somatosenzorickou kůru obou hemisfér mozku"
+  ]
+ },
+ {
+  "id": "tom-B26",
+  "text": "V pokusu Jonese a Harrise s eseji o Castrovi posuzovatelé připisovali autorům procastrovský postoj i tehdy, když:",
+  "options": [
+   "věděli, že směr eseje byl autorovi přidělen losem",
+   "esej byla napsaná zjevně nedbale a plná protimluvů",
+   "posuzovatelé sami měli k Castrovi otevřený odpor",
+   "autor v eseji svůj vlastní postoj výslovně popřel"
+  ]
+ },
+ {
+  "id": "tom-B27",
+  "text": "Studie Joan Millerové a práce Morrise a Penga o atribuci napříč kulturami zjistily, že:",
+  "options": [
+   "sklon k povahovým příčinám je u všech kultur stejně silný",
+   "Indové vysvětlují chování povahou častěji než Američané",
+   "Američané sahají po povahových příčinách častěji než Číňané",
+   "děti se v atribucích liší podle kultury víc než dospělí lidé"
+  ]
+ },
+ {
+  "id": "tom-B28",
+  "text": "Výzkum Alderta Vrije o odhalování lži doporučuje zvyšovat kognitivní zátěž vyslýchaného, protože:",
+  "options": [
+   "lhář pod zátěží začne obvykle projevovat viditelnou nervozitu",
+   "zátěž spolehlivě přinutí lháře k rychlému přiznání viny",
+   "pravdomluvný člověk se pod zátěží ve výpovědi zamotá dřív",
+   "lhaní je náročnější a zátěž rozdíl ve výpovědích zvýrazní"
+  ]
+ },
+ {
+  "id": "tom-B29",
+  "text": "Sperber a Wilson vysvětlují verbální ironii jako:",
+  "options": [
+   "ozvěnu cizí myšlenky, od níž se mluvčí posměšně distancuje",
+   "porušení maximy kvality, jež posluchače nutí obrátit význam",
+   "hru, v níž mluvčí předstírá roli naivního nadšeného mluvčího",
+   "zvláštní typ metafory založený na protikladu dvou obrazů"
+  ]
+ },
+ {
+  "id": "tom-B30",
+  "text": "Searlova teze o kolektivní intencionalitě říká, že „my zamýšlíme“:",
+  "options": [
+   "je jen souhrnem jednotlivých „já zamýšlím“ všech členů",
+   "existuje mimo jednotlivé hlavy, ve sdíleném duchu skupiny",
+   "vzniká teprve výslovnou smlouvou mezi všemi účastníky",
+   "je v hlavě jednotlivce, ale nelze je rozložit na „já“"
+  ]
+ },
+ {
+  "id": "tom-B31",
+  "text": "Ve hře na důvěru investor pošle část z 10 dolarů, poslaná částka se ztrojnásobí a správce může libovolně vrátit. Jaký je typický výsledek?",
+  "options": [
+   "Investoři neposílají nic a správci nevracejí nic.",
+   "Investoři posílají zhruba polovinu a část se vrací.",
+   "Investoři posílají vše a správci vracejí polovinu.",
+   "Investoři posílají málo a správci vracejí dvojnásob."
+  ]
+ },
+ {
+  "id": "tom-B32",
+  "text": "Cosmidesová vysvětluje snadnost Wasonovy úlohy v podobě sociálního pravidla tím, že:",
+  "options": [
+   "deontická podoba úlohy je logicky jednodušší než popisná",
+   "lidé si pravidlo o věku a pití lépe pamatují ze života",
+   "máme zvláštní ustrojení na hledání porušitelů dohody",
+   "sociální podoba úlohy nabízí méně karet k prozkoumání"
+  ]
+ },
+ {
+  "id": "tom-B33",
+  "text": "Podle Clarkova pojetí groundingu se mluvčí a posluchač ve společném vědění ujišťují tak, že:",
+  "options": [
+   "mluvčí předem vyjmenuje vše, co u posluchače předpokládá",
+   "posluchač mlčí, dokud mluvčí celé sdělení nedokončí",
+   "oba se drží pouze faktů obecně známých v jejich kultuře",
+   "posluchač dává průběžně najevo, nakolik sdělení přijal"
+  ]
+ },
+ {
+  "id": "tom-B34",
+  "text": "Epleyova tříčinitelová teorie antropomorfizace jmenuje jako spouštěče znalost o lidech a dále:",
+  "options": [
+   "potřebu zábavy a sklon k obrazotvornému myšlení",
+   "potřebu předvídat dění a potřebu společenského styku",
+   "nízké vzdělání a malou zkušenost s moderní technikou",
+   "náboženskou výchovu a sklon věřit v nadpřirozeno"
+  ]
+ },
+ {
+  "id": "tom-B35",
+  "text": "Paul Bloom ve své kritice empatie jako mravního vodítka upozorňuje hlavně na to, že:",
+  "options": [
+   "empatie je bodová, straní blízkým a podléhá jediné oběti",
+   "empatie je vzácná a většina lidí jí není vůbec schopna",
+   "empatie je vrozená, a tedy se nedá výchovou nijak měnit",
+   "empatie vede k pomoci, ale nikdy k mravnímu odsouzení"
+  ]
+ },
+ {
+  "id": "tom-B36",
+  "text": "Nakažlivý pláč u novorozenců se od empatie odlišuje tím, že:",
+  "options": [
+   "se objevuje jen v reakci na pláč vlastního sourozence",
+   "mizí do konce prvního týdne a už se nikdy neopakuje",
+   "chybí v něm rozlišení mezi vlastní a cizí tísní",
+   "nastupuje až poté, co dítě pozná samo sebe v zrcadle"
+  ]
+ },
+ {
+  "id": "tom-B37",
+  "text": "Cialdiniho pokusy s nápisy proti krádeži zkamenělého dřeva ukázaly, že sdělení „mnoho návštěvníků dřevo odnáší“:",
+  "options": [
+   "krádeže omezilo lépe než výzva dřevo neodnášet",
+   "krádeže zvýšilo, protože je vylíčilo jako běžné",
+   "na chování návštěvníků nemělo žádný měřitelný vliv",
+   "působilo jen na návštěvníky, kteří přijeli poprvé"
+  ]
+ },
+ {
+  "id": "tom-B38",
+  "text": "Klimecki a spol. srovnávali trénink empatie a trénink soucitu; po tréninku soucitu účastníci při pohledu na cizí utrpení hlásili:",
+  "options": [
+   "více kladných pocitů, aniž by ubylo prožívané starosti",
+   "méně kladných i záporných pocitů, tedy celkovou otupělost",
+   "více záporných pocitů a silnější chuť od podnětu odejít",
+   "stejné pocity jako předtím, změnila se pouze aktivace mozku"
+  ]
+ },
+ {
+  "id": "tom-B39",
+  "text": "Ostenzivně-inferenční komunikace podle Sperbera a Wilsona nese záruku, že sdělení:",
+  "options": [
+   "je pravdivé a mluvčí za jeho pravdivost ručí svou ctí",
+   "je doslovné, dokud mluvčí neoznámí přenesený význam",
+   "je nové, tedy neobsahuje nic už dříve řečeného stranám",
+   "stojí za námahu, kterou si jeho zpracování vyžádá"
+  ]
+ },
+ {
+  "id": "tom-B40",
+  "text": "Pluralitní ignorance se od naivního realismu liší tím, že jde o stav, kdy:",
+  "options": [
+   "člověk pokládá vlastní pohled na věc za nezkreslený",
+   "člověk nezná názory druhých a nezajímá se o ně vůbec",
+   "většina normu soukromě odmítá, ale myslí si, že jiní ne",
+   "menšina prosadí normu tím, že mluví hlasitěji než ostatní"
+  ]
+ },
+ {
+  "id": "tom-B41",
+  "text": "Gray a Wegner popsali morální typizaci (moral typecasting), podle níž:",
+  "options": [
+   "kdo je viděn jako konající, je hůř viděn jako trpící",
+   "kdo víc trpí, tomu lidé připisují i větší mravní zásluhy",
+   "mravní posouzení činu závisí hlavně na jeho následcích",
+   "mysl připisujeme tím ochotněji, čím je bytost podobnější nám"
+  ]
+ },
+ {
+  "id": "tom-B42",
+  "text": "Za doklad sdílené intencionality u batolat se považuje to, že ukazují prstem i tehdy, když:",
+  "options": [
+   "chtějí předmět dostat do ruky a dospělý je poblíž",
+   "jen sdělují informaci, z níž nemají samy žádný prospěch",
+   "je dospělý předem vyzve, aby ukázaly na daný předmět",
+   "napodobují gesto, které právě viděly u jiného malého dítěte"
+  ]
+ },
+ {
+  "id": "tom-B43",
+  "text": "Sperberův pojem epistemické ostražitosti (epistemic vigilance) řeší otázku, jak:",
+  "options": [
+   "si pamatujeme, kdo nám které tvrzení kdy sdělil",
+   "se učíme jazyku dřív, než rozumíme cizím záměrům",
+   "dokážeme vůbec rozpoznat, že mluvčí něco tvrdí",
+   "může být sdělování stabilní i při riziku klamání"
+  ]
+ },
+ {
+  "id": "tom-B44",
+  "text": "V modelu úrovní uvažování (k-level) volí hráč úrovně 0 náhodně. Co podle modelu dělá hráč úrovně 2?",
+  "options": [
+   "Volí nejlepší odpověď proti náhodnému hráči.",
+   "Volí rovnovážnou volbu nekonečného uvažování.",
+   "Volí nejlepší odpověď proti hráči úrovně jedna.",
+   "Volí náhodně, ale jen mezi zcela krajními hodnotami."
+  ]
+ }
+]

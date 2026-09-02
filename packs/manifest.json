@@ -140,24 +140,24 @@
   "id": "filosofie-mysli",
   "file": "filosofie-mysli.json",
   "title": "Filosofie mysli",
-  "count": 20,
-  "version": 1,
+  "count": 100,
+  "version": 2,
   "obor": "vedomi"
  },
  {
   "id": "theory-of-mind",
   "file": "theory-of-mind.json",
   "title": "Theory of mind",
-  "count": 20,
-  "version": 1,
+  "count": 100,
+  "version": 2,
   "obor": "vedomi"
  },
  {
   "id": "neuroveda-vedomi",
   "file": "neuroveda-vedomi.json",
   "title": "Neurověda vědomí",
-  "count": 20,
-  "version": 1,
+  "count": 100,
+  "version": 2,
   "obor": "vedomi"
  },
  {

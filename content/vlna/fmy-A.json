@@ -1,0 +1,706 @@
+[
+  {
+    "id": "fmy-A01",
+    "type": "F",
+    "category": "filosofie-mysli",
+    "text": "Termín „vysvětlovací mezera“ (explanatory gap) zavedl do debaty o vědomí:",
+    "options": [
+      "Joseph Levine v článku Materialism and Qualia z roku 1983",
+      "David Chalmers ve své knize The Conscious Mind z roku 1996",
+      "Thomas Nagel v eseji o tom, jaké to je být netopýrem",
+      "Frank Jackson v článku Epiphenomenal Qualia z roku 1982"
+    ],
+    "correct": 0,
+    "explanation": "Levine v článku Materialism and Qualia: The Explanatory Gap (1983) ukázal, že identita „bolest je pálení C-vláken“ nechává nevysvětlené, proč právě tento fyzický děj cítíme takto. Nagel, Jackson i Chalmers formulovali příbuzné potíže, ale samotné označení mezery je Levinovo.",
+    "source": "Joseph Levine, Materialism and Qualia: The Explanatory Gap (1983)",
+    "seedElo": 1520
+  },
+  {
+    "id": "fmy-A02",
+    "type": "K",
+    "category": "filosofie-mysli",
+    "text": "Levine sám chápal vysvětlovací mezeru především jako:",
+    "options": [
+      "metafyzický důkaz, že vědomí je nefyzická substance mysli",
+      "empirický nález neurovědy o nezávislosti mysli na mozku",
+      "epistemický problém vysvětlení, nikoli přímo důkaz dualismu",
+      "logický důkaz, že žádná identitní teorie mysli nemůže platit"
+    ],
+    "correct": 2,
+    "explanation": "Levine zůstal materialistou: tvrdil, že fyzikální popis neuspokojuje naše nároky na vysvětlení, ne že by vědomí bylo nefyzické. Mezera je tedy primárně epistemická. Kdo z ní chce vyvodit dualismus, musí přidat spornou premisu spojující selhání vysvětlení s ontologickou růzností.",
+    "source": "Joseph Levine, Purple Haze: The Puzzle of Consciousness (2001)",
+    "seedElo": 1680
+  },
+  {
+    "id": "fmy-A03",
+    "type": "K",
+    "category": "filosofie-mysli",
+    "text": "Chalmersův těžký problém se od Levinovy vysvětlovací mezery liší hlavně tím, že:",
+    "options": [
+      "mezera se týká jen bolesti, kdežto těžký problém všech stavů vůbec",
+      "míří k otázce po povaze světa, ne jen k mezím našeho výkladu",
+      "mezera stojí na zombiích, těžký problém na Maryině pokoji",
+      "těžký problém se týká jen zvířat, mezera výhradně lidských myslí"
+    ],
+    "correct": 1,
+    "explanation": "Levinova mezera je tezí o našich vysvětleních: fyzikální popis nedává pocit srozumitelnosti. Chalmers z ní dělá ontologickou otázku, proč vůbec fyzikální procesy provází prožitek, a spojuje ji s tezí, že vědomí nesuperveniuje logicky na fyzičnu.",
+    "source": "David Chalmers, Facing Up to the Problem of Consciousness (1995)",
+    "seedElo": 1700
+  },
+  {
+    "id": "fmy-A04",
+    "type": "K",
+    "category": "filosofie-mysli",
+    "text": "Argument z pojmové odlišitelnosti (conceivability) se od argumentu z vysvětlovací mezery liší tím, že:",
+    "options": [
+      "netýká se vědomí, nýbrž výhradně intencionálních stavů mysli",
+      "opírá se o data neurověd, nikoli o pojmovou analýzu prožitku",
+      "končí u mezí lidského poznání a žádnou tezi o světě nevyvozuje",
+      "z myslitelnosti přímo vyvozuje možnost, a tím i závěr o světě"
+    ],
+    "correct": 3,
+    "explanation": "Argument z mezery konstatuje, že fyzikální popis nevysvětluje prožitek, a zůstává tak u epistemologie. Argument z odlišitelnosti přidává modální krok: jsou-li zombie ideálně myslitelné, jsou metafyzicky možné, a tedy vědomí nesuperveniuje nutně na fyzičnu. Právě tento krok je hlavním terčem kritiky.",
+    "source": "David Chalmers, Does Conceivability Entail Possibility? (2002)",
+    "seedElo": 1820
+  },
+  {
+    "id": "fmy-A05",
+    "type": "K",
+    "category": "filosofie-mysli",
+    "text": "Apriorní fyzikalismus (typ A) tvrdí, že pravdy o vědomí:",
+    "options": [
+      "vyplývají z fyzikálních pravd až díky empirickému objevu identity",
+      "nevyplývají z fyzikálních pravd vůbec, ani nutně, ani apriorně",
+      "vyplývají z fyzikálních pravd jen ve světech s jinými zákony",
+      "lze v principu apriorně odvodit z úplného fyzikálního popisu"
+    ],
+    "correct": 3,
+    "explanation": "Typ A (Dennett, Lewis, analytičtí funkcionalisté) popírá jakoukoli epistemickou mezeru: kdo zná úplnou fyzikální pravdu a rozumí pojmům, může pravdy o vědomí v principu odvodit apriorně. Typ B naopak mezeru uznává, ale vysvětluje ji jako aposteriorní nutnost. Chalmersovo dělení A/B/C je dnes standardní mapou pozic.",
+    "source": "David Chalmers, Consciousness and Its Place in Nature (2003)",
+    "seedElo": 1850
+  },
+  {
+    "id": "fmy-A06",
+    "type": "K",
+    "category": "filosofie-mysli",
+    "text": "Aposteriorní fyzikalismus (typ B) o vztahu mysli a těla tvrdí, že:",
+    "options": [
+      "identita je nutná, ale poznatelná jen empiricky, tedy aposteriorně",
+      "identita je pravdivá jen náhodně a v jiných světech neplatí vůbec",
+      "identita se dá odvodit z pojmů, stejně jako v případě „svobodný muž“",
+      "identita neplatí, protože vědomí je jen jinou úrovní téhož popisu"
+    ],
+    "correct": 0,
+    "explanation": "Typ B (Loar, Papineau, Block, Hill) přijímá, že mezi fyzikálním a fenomenálním pojmem není apriorní spojení, a přesto trvá na nutné identitě po vzoru „voda je H2O“. Mezera je pak jen pojmová, nikoli ontologická. Chalmers namítá, že u vody se odlišitelnost vysvětlí odlišnou primární intenzí, u vědomí ale takový únik chybí.",
+    "source": "David Papineau, Thinking about Consciousness (2002)",
+    "seedElo": 1830
+  },
+  {
+    "id": "fmy-A07",
+    "type": "K",
+    "category": "filosofie-mysli",
+    "text": "Strategie fenomenálních pojmů (phenomenal concept strategy) chce ukázat, že:",
+    "options": [
+      "fenomenální pojmy referují k nefyzickým vlastnostem naší mysli",
+      "fenomenální pojmy jsou skrytě popisné a dají se zcela přeložit fyzikálně",
+      "zvláštnost našich pojmů vysvětlí mezeru, aniž by dělila svět nadvakrát",
+      "žádné fenomenální pojmy nemáme, jde jen o folk-psychologický mýtus"
+    ],
+    "correct": 2,
+    "explanation": "Loar, Papineau a Sturgeon tvrdí, že máme zvláštní, rekogničně-demonstrativní pojmy prožitků, které nejsou apriorně spojeny s pojmy fyzikálními. Mezera pak vzniká na straně pojmů, nikoli ve světě. Stoljar a Chalmers proti tomu staví dilema: buď je zvláštnost pojmů sama fyzikálně vysvětlitelná, a pak nestačí, nebo není, a pak fyzikalismus padá.",
+    "source": "Brian Loar, Phenomenal States (1990); Daniel Stoljar, Physicalism and Phenomenal Concepts (2005)",
+    "seedElo": 1880
+  },
+  {
+    "id": "fmy-A08",
+    "type": "F",
+    "category": "filosofie-mysli",
+    "text": "Typová teorie identity (Place, Smart, Feigl) tvrdí, že:",
+    "options": [
+      "každý jednotlivý mentální výskyt je totožný s nějakou událostí v mozku",
+      "druhy mentálních stavů jsou totožné s druhy stavů mozku jako takovými",
+      "mentální stavy jsou definovány svou kauzální rolí, ne svým nosičem",
+      "mentální pojmy neoznačují nic skutečného a věda je zcela nahradí"
+    ],
+    "correct": 1,
+    "explanation": "Typová identita ztotožňuje celé druhy: bolest jako typ je tentýž typ jako určitý druh nervového procesu. To je silnější než tokenová identita, která ztotožňuje jen jednotlivé výskyty. Právě sílu typové verze zasáhl argument z vícenásobné realizovatelnosti.",
+    "source": "J. J. C. Smart, Sensations and Brain Processes (1959)",
+    "seedElo": 1660
+  },
+  {
+    "id": "fmy-A09",
+    "type": "F",
+    "category": "filosofie-mysli",
+    "text": "Davidsonův anomální monismus je příkladem pozice, která přijímá:",
+    "options": [
+      "typovou identitu mentálních a fyzických druhů, ale bez zákonů",
+      "tokenovou identitu událostí, ale popírá psychofyzické zákony",
+      "dualismus substancí doplněný o zákony psychofyzické interakce",
+      "eliminaci mentálních pojmů ve prospěch neurovědeckých popisů"
+    ],
+    "correct": 1,
+    "explanation": "Davidson tvrdí, že každá jednotlivá mentální událost je fyzická událost, ale mezi mentálními a fyzickými druhy neexistují striktní zákony. Monismus je tak tokenový a „anomální“. Kritici namítají, že bez zákonů se mentální popis stává kauzálně nezajímavým a hrozí epifenomenalismus vlastností.",
+    "source": "Donald Davidson, Mental Events (1970)",
+    "seedElo": 1720
+  },
+  {
+    "id": "fmy-A10",
+    "type": "K",
+    "category": "filosofie-mysli",
+    "text": "Tvrzení „mentální superveniuje na fyzickém“ znamená, že:",
+    "options": [
+      "mentální stavy jsou příčinami fyzických stavů v mozku i v těle",
+      "mentální vlastnosti lze beze zbytku přeložit do jazyka fyziky",
+      "mentální pojmy popisují tytéž jevy jen na obecnější úrovni",
+      "nemůže být rozdíl v mentálním bez nějakého rozdílu ve fyzickém"
+    ],
+    "correct": 3,
+    "explanation": "Supervenience je vztah kovariance: žádné dva systémy se nemohou lišit mentálně, aniž se liší fyzicky. Neříká nic o redukci, překladu ani o směru kauzality. Proto ji přijímají i nereduktivní fyzikalisté a někteří dualisté vlastností.",
+    "source": "Jaegwon Kim, Supervenience and Mind (1993)",
+    "seedElo": 1560
+  },
+  {
+    "id": "fmy-A11",
+    "type": "K",
+    "category": "filosofie-mysli",
+    "text": "Rozdíl mezi lokální a globální supervenienci spočívá v tom, že:",
+    "options": [
+      "lokální váže mentální na stav samotného jedince, globální na celý svět",
+      "lokální platí jen pro lidi, globální i pro zvířata a umělé systémy",
+      "lokální mluví o vlastnostech, globální výhradně o jednotlivých událostech",
+      "lokální je nutná, globální jen náhodně platná v našem vesmíru"
+    ],
+    "correct": 0,
+    "explanation": "Lokální supervenience říká, že fyzický duplikát jedince je i duplikátem mentálním; globální jen to, že fyzicky nerozlišitelné světy jsou nerozlišitelné mentálně. Externalisté o obsahu (Putnam, Burge) lokální verzi popírají a přijímají globální. Odlišuje se ještě slabá a silná supervenience podle toho, zda kovariance platí i napříč světy.",
+    "source": "Jaegwon Kim, Concepts of Supervenience (1984)",
+    "seedElo": 1860
+  },
+  {
+    "id": "fmy-A12",
+    "type": "K",
+    "category": "filosofie-mysli",
+    "text": "Chalmers odlišuje logickou a přírodní supervenienci vědomí tak, že:",
+    "options": [
+      "logickou i přírodní popírá, protože vědomí nekovarianuje s ničím",
+      "obě přijímá, ale tvrdí, že logická platí jen pro přístupové vědomí",
+      "logickou popírá, přírodní přijímá: zombie jsou možné, jen ne u nás",
+      "logickou přijímá, přírodní popírá kvůli vícenásobné realizovatelnosti"
+    ],
+    "correct": 2,
+    "explanation": "Podle Chalmerse je zombie svět logicky (metafyzicky) možný, takže vědomí na fyzičnu logicky nesuperveniuje. V našem světě však platí psychofyzické zákony, takže tu supervenience přírodní drží. Právě proto je jeho pozice dualismem vlastností, ne popřením vazby mysli na mozek.",
+    "source": "David Chalmers, The Conscious Mind (1996)",
+    "seedElo": 1840
+  },
+  {
+    "id": "fmy-A13",
+    "type": "F",
+    "category": "filosofie-mysli",
+    "text": "Argument z vícenásobné realizovatelnosti (Putnam, Fodor) namítá proti typové identitě, že:",
+    "options": [
+      "mentální stavy nemají žádné fyzické realizátory, jsou čistě abstraktní",
+      "mozek se v čase mění, takže žádný stav není nikdy totožný sám se sebou dvakrát",
+      "tentýž druh stavu může být uskutečněn velmi odlišnými fyzickými strukturami",
+      "fyzikální popis mozku je principiálně neúplný a nikdy nebude hotový"
+    ],
+    "correct": 2,
+    "explanation": "Bolest může být podle Putnama realizována v savčím mozku, v chobotnici i případně v křemíku; pak ji nelze ztotožnit s jedním druhem fyzického stavu. Argument otevřel cestu funkcionalismu, který definuje stavy kauzální rolí. Kim a Lewis na to odpovídají druhově specifickou redukcí.",
+    "source": "Hilary Putnam, Psychological Predicates (1967)",
+    "seedElo": 1580
+  },
+  {
+    "id": "fmy-A14",
+    "type": "K",
+    "category": "filosofie-mysli",
+    "text": "Kimova hlavní odpověď na argument z vícenásobné realizovatelnosti zní:",
+    "options": [
+      "realizovatelnost je empiricky vyvrácená, mozky všech druhů jsou stejné",
+      "místo jedné globální redukce lze provést redukce druhově specifické",
+      "vícenásobná realizovatelnost dokazuje, že mentální stavy neexistují",
+      "stavy nutno definovat rolí, což redukci nadobro znemožňuje"
+    ],
+    "correct": 1,
+    "explanation": "Kim tvrdí, že je-li bolest realizována jinak u člověka a u chobotnice, rozpadá se prostě na bolest-u-lidí a bolest-u-chobotnic, a každou z nich lze redukovat lokálně. Cenou je, že „bolest vůbec“ přestává být jednotným vědeckým druhem. Argument tedy podle něj nechrání nereduktivní fyzikalismus, jen tříští předmět psychologie.",
+    "source": "Jaegwon Kim, Multiple Realization and the Metaphysics of Reduction (1992)",
+    "seedElo": 1870
+  },
+  {
+    "id": "fmy-A15",
+    "type": "K",
+    "category": "filosofie-mysli",
+    "text": "Kimův argument z kauzálního vyloučení stojí mimo jiné na premise, že:",
+    "options": [
+      "mentální příčiny působí vždy až po svých fyzických následcích",
+      "mentální vlastnosti superveniují výhradně na jiných vlastnostech mentálních",
+      "fyzikální zákony neplatí uvnitř těch systémů, které mají vědomí",
+      "každá fyzická událost má úplnou fyzickou příčinu, pokud vůbec nějakou má"
+    ],
+    "correct": 3,
+    "explanation": "Kim spojuje kauzální uzávěr fyziky s tezí, že jeden účinek nemá dvě nezávislé dostatečné příčiny, a se supervenienci mentálního. Pak buď mentální vlastnost s fyzickým realizátorem splývá, nebo je kauzálně vyloučena. Nereduktivní fyzikalismus je tak podle něj nestabilní a sklouzává k epifenomenalismu.",
+    "source": "Jaegwon Kim, Mind in a Physical World (1998)",
+    "seedElo": 1740
+  },
+  {
+    "id": "fmy-A16",
+    "type": "K",
+    "category": "filosofie-mysli",
+    "text": "Podle Kimova modelu funkční redukce lze redukovat právě ty vlastnosti, které:",
+    "options": [
+      "jsou funkcionalizovatelné, tedy definovatelné svou kauzální rolí",
+      "jsou nám dány bezprostředně v introspekci a nelze o nich pochybovat",
+      "mají jediný možný fyzický realizátor napříč všemi živočišnými druhy",
+      "se objevují teprve na vyšších úrovních uspořádání složitých systémů"
+    ],
+    "correct": 0,
+    "explanation": "Kim tvrdí, že redukce probíhá tak, že vlastnost nejprve funkcionalizujeme a pak najdeme její realizátory. Intencionální a kognitivní stavy tuto zkoušku podle něj projdou, kvalitativní stránka prožitku ale ne. Proto svou pozici shrnuje slovy, že fyzikalismus je téměř, ale ne zcela dostačující.",
+    "source": "Jaegwon Kim, Physicalism, or Something Near Enough (2005)",
+    "seedElo": 1890
+  },
+  {
+    "id": "fmy-A17",
+    "type": "F",
+    "category": "filosofie-mysli",
+    "text": "Epifenomenalismus o vědomí tvrdí, že:",
+    "options": [
+      "mentální stavy jsou fyzickým děním způsobeny, ale samy nic nepůsobí",
+      "mentální stavy působí na tělo, tělo však na mysl nikdy nepůsobí zpět",
+      "mentální a fyzické běží souběžně bez jakéhokoli kauzálního vztahu",
+      "mentální stavy jsou pouhou jazykovou zkratkou pro stavy nervové"
+    ],
+    "correct": 0,
+    "explanation": "Huxley přirovnal vědomí k píšťale parní lokomotivy: je doprovodem, nikoli motorem. Prožitky jsou tedy účinky mozkových dějů, ale nemají žádné vlastní kauzální síly. Souběžnost bez kauzality je naopak paralelismus, ne epifenomenalismus.",
+    "source": "T. H. Huxley, On the Hypothesis that Animals are Automata (1874)",
+    "seedElo": 1550
+  },
+  {
+    "id": "fmy-A18",
+    "type": "K",
+    "category": "filosofie-mysli",
+    "text": "Nejostřejší námitkou proti epifenomenalismu bývá, že:",
+    "options": [
+      "odporuje zákonu zachování energie, který v mozku nesmí být porušen",
+      "je neslučitelný s existencí nevědomých procesů, které popsala neurověda",
+      "vede k dualismu substancí, který nedokáže vysvětlit vývoj druhů",
+      "podkopává sám sebe: přesvědčení o prožitcích by prožitky nezpůsobily"
+    ],
+    "correct": 3,
+    "explanation": "Pokud qualia nemají žádné účinky, nemohou být příčinou našich soudů a výpovědí o nich; naše sebepoznání by pak s prožitky nesouviselo. Této potíži se říká paralýza či sebezrušení sebepoznání a formulovali ji mimo jiné Shoemaker a Chalmers. Epifenomenalisté odpovídají odkazem na spolehlivou koincidenci danou psychofyzickými zákony.",
+    "source": "Sydney Shoemaker, Functionalism and Qualia (1975)",
+    "seedElo": 1700
+  },
+  {
+    "id": "fmy-A19",
+    "type": "K",
+    "category": "filosofie-mysli",
+    "text": "Hlavní potíž interakcionistického dualismu s dnešní fyzikou spočívá v tom, že:",
+    "options": [
+      "fyzika nedokáže popsat žádný systém složitější než jednoduchý atom",
+      "fyzika popírá existenci příčin a pracuje jen s korelacemi veličin",
+      "působení mysli by narušilo kauzální uzávěr fyzikálního světa",
+      "mysl by musela být rozprostraněná, což odporuje pojmu myšlení"
+    ],
+    "correct": 2,
+    "explanation": "Teze kauzálního uzávěru říká, že každá fyzická událost má úplnou fyzickou příčinu; nefyzická mysl by pak buď nedělala nic, nebo by způsobila přebytek příčin. Interakcionisté hledají skulinu například v kvantové neurčitosti, kritici namítají, že statistiky by se stejně musely odchýlit. Právě proto se argument z uzávěru pokládá za nejsilnější empirický tlak na dualismus.",
+    "source": "David Papineau, The Rise of Physicalism (2001)",
+    "seedElo": 1670
+  },
+  {
+    "id": "fmy-A20",
+    "type": "F",
+    "category": "filosofie-mysli",
+    "text": "Neutrální monismus tvrdí, že mentální a fyzické:",
+    "options": [
+      "jsou dvě zcela odlišné substance spojené v člověku svazkem těla",
+      "jsou totožné, přičemž fyzikální popis je ten jediný pravdivý",
+      "jsou dva způsoby uspořádání téže neutrální základní skutečnosti",
+      "jsou pouhé fikce, jež budoucí věda nahradí popisem informací"
+    ],
+    "correct": 2,
+    "explanation": "Mach, James a raný Russell navrhli, že svět je z látky, která sama o sobě není ani mentální, ani fyzická; obojí vzniká teprve různým uspořádáním týchž prvků. Pozice se tak vyhýbá dualismu i redukci jedné stránky na druhou. Dnes se k ní hlásí část russellovských monistů.",
+    "source": "William James, Does 'Consciousness' Exist? (1904)",
+    "seedElo": 1690
+  },
+  {
+    "id": "fmy-A21",
+    "type": "K",
+    "category": "filosofie-mysli",
+    "text": "Russellovský monismus opírá své řešení o tezi, že fyzika popisuje:",
+    "options": [
+      "jen jevy dostupné měření, kdežto svět sám je principiálně nepoznatelný",
+      "pouze strukturu a dispozice, nikoli vnitřní povahu, tedy kvidity věcí",
+      "výhradně kauzální zákony, které jsou samy o sobě mentální povahy",
+      "úplnou skutečnost, takže o vědomí není třeba klást žádnou otázku"
+    ],
+    "correct": 1,
+    "explanation": "Russell v Analýze hmoty upozornil, že fyzika zachycuje vztahy a role, ale mlčí o tom, co je jejich vnitřní nositel. Tyto vnitřní povahy se nazývají kvidity a russellovský monista navrhuje, že právě ony jsou fenomenální nebo protofenomenální. Vědomí pak není nad fyzičnem navíc, nýbrž tvoří jeho dosud nepopsanou stránku.",
+    "source": "Bertrand Russell, The Analysis of Matter (1927)",
+    "seedElo": 1750
+  },
+  {
+    "id": "fmy-A22",
+    "type": "K",
+    "category": "filosofie-mysli",
+    "text": "Kombinační problém panpsychismu, formulovaný už Jamesem, se ptá:",
+    "options": [
+      "jak by se malé subjekty mohly složit v jeden větší sjednocený subjekt",
+      "jak může být hmota zároveň rozprostraněná a přitom prožívající",
+      "proč mají jen mozky vědomí, když atomy jsou všude kolem stejné",
+      "zda by se panpsychická teorie dala vůbec kdy ověřit experimentem"
+    ],
+    "correct": 0,
+    "explanation": "James namítl, že sto pocitů poskládaných dohromady nedá jeden pocit celku; zkušenosti se prostě nesčítají. Dnes se problém dělí na kombinaci subjektů, kvalit a struktury. Pro mnohé kritiky je to pro panpsychismus stejně vážná potíž, jako je těžký problém pro fyzikalismus.",
+    "source": "William James, The Principles of Psychology (1890); Philip Goff, Consciousness and Fundamental Reality (2017)",
+    "seedElo": 1730
+  },
+  {
+    "id": "fmy-A23",
+    "type": "K",
+    "category": "filosofie-mysli",
+    "text": "Iluzionismus, jak jej hájí Keith Frankish, tvrdí, že:",
+    "options": [
+      "vědomí neexistuje vůbec a všechny mentální pojmy jsou k zahození",
+      "fenomenální vlastnosti jsou reálné, jen je špatně introspektivně měříme",
+      "vědomí je iluze v tom smyslu, že si své prožitky ve skutečnosti nepamatujeme",
+      "fenomenalita je zdání: máme reprezentace kvalit, ale kvality samy chybějí"
+    ],
+    "correct": 3,
+    "explanation": "Frankish nepopírá, že jsme si něčeho vědomi; popírá, že by naše stavy měly nesdělitelné fenomenální vlastnosti, jak nám introspekce namlouvá. Těžký problém proto nahrazuje „iluzním problémem“: vysvětlit, proč nám mozek fenomenalitu předvádí. Úkol je náročný, ale patří do běžné kognitivní vědy.",
+    "source": "Keith Frankish, Illusionism as a Theory of Consciousness (2016)",
+    "seedElo": 1590
+  },
+  {
+    "id": "fmy-A24",
+    "type": "K",
+    "category": "filosofie-mysli",
+    "text": "Nejčastější námitka proti iluzionismu zní, že:",
+    "options": [
+      "iluzionismus je neslučitelný s fyzikalismem, protože předpokládá duši",
+      "samo zdání prožitku je už prožitek, takže iluze nemá kam ustoupit",
+      "iluzionismus nedokáže vysvětlit chování zvířat bez jazykových schopností",
+      "iluze vyžaduje klamaný smysl, a ten mozek podle neurovědy nemá"
+    ],
+    "correct": 1,
+    "explanation": "Searle i Chalmers namítají, že u vědomí zdání a skutečnost splývají: zdá-li se mi, že mám bolest, mám ji. Iluzionista odpovídá, že reprezentace kvality nemusí sama kvalitu mít, stejně jako reprezentace červené není červená. Spor tak stojí na tom, zda je introspekce svědek nebo teorie.",
+    "source": "Keith Frankish (ed.), Illusionism (2017); John Searle, The Rediscovery of the Mind (1992)",
+    "seedElo": 1810
+  },
+  {
+    "id": "fmy-A25",
+    "type": "K",
+    "category": "filosofie-mysli",
+    "text": "Teorie myšlenek vyššího řádu (Rosenthal) tvrdí, že mentální stav je vědomý, právě když:",
+    "options": [
+      "je zpracován v mozkové kůře a trvá déle než zhruba třetinu sekundy",
+      "je doprovázen myšlenkou, že jsem právě v tomto stavu, a to bez úsudku",
+      "je přístupný jazykovému centru a lze o něm podat slovní zprávu",
+      "vstoupí do globálního pracovního prostoru a je vysílán celému mozku"
+    ],
+    "correct": 1,
+    "explanation": "Rosenthal odlišuje stav samotný od jeho uvědomění: vědomým se stává tehdy, když o něm mám bezprostřední, nevyvozenou myšlenku vyššího řádu. Vědomí tedy není vnitřní vlastností stavu, nýbrž vztahem k jinému stavu. Globální pracovní prostor je konkurenční model Baarse a Dehaena.",
+    "source": "David Rosenthal, Consciousness and Mind (2005)",
+    "seedElo": 1710
+  },
+  {
+    "id": "fmy-A26",
+    "type": "K",
+    "category": "filosofie-mysli",
+    "text": "Problém „bezcílných“ myšlenek vyššího řádu (targetless HOT) staví teorii před volbu:",
+    "options": [
+      "buď připustit zvířecí vědomí, nebo popřít vědomí u malých dětí",
+      "buď zpřísnit definici myšlenky, nebo připustit nekonečný regres úrovní",
+      "buď je vědomí i bez stavu prvního řádu, nebo teorii doprovází mezera",
+      "buď opustit fyzikalismus, nebo přijmout, že vědomí nelze měřit vůbec"
+    ],
+    "correct": 2,
+    "explanation": "Když vznikne myšlenka vyššího řádu, aniž existuje stav, o němž má být, je otázka, zda je subjekt vědomý. Rosenthal odpovídá, že ano, protože vědomí konstituuje právě stav vyššího řádu. Kritici (Block, Neander) v tom vidí přiznání, že fenomenalitu nakonec vysvětluje jen reprezentace, a mezera se tím vrací.",
+    "source": "Ned Block, Comparing the Major Theories of Consciousness (2009)",
+    "seedElo": 1880
+  },
+  {
+    "id": "fmy-A27",
+    "type": "K",
+    "category": "filosofie-mysli",
+    "text": "Reprezentacionalismus o vědomí (Dretske, Tye) tvrdí, že:",
+    "options": [
+      "fenomenální ráz zážitku je určen jeho reprezentačním obsahem",
+      "zážitky nic nereprezentují, jsou pouhými stavy vnitřní kvality",
+      "vědomí spočívá v reprezentaci vlastní mysli, nikoli vnějšího světa",
+      "reprezentace je vždy jazyková, a proto zvířata vědomí postrádají"
+    ],
+    "correct": 0,
+    "explanation": "Podle Tyeho silné verze jsou dva zážitky se stejným reprezentačním obsahem nutně stejné i prožitkově; qualia jsou tak vlastnosti reprezentovaného světa, ne vnitřních stavů. Obrácené spektrum a rozostřené vidění patří ke klasickým protipříkladům. Reprezentacionalismus je dnes hlavní fyzikalistická teorie fenomenality.",
+    "source": "Michael Tye, Ten Problems of Consciousness (1995)",
+    "seedElo": 1720
+  },
+  {
+    "id": "fmy-A28",
+    "type": "K",
+    "category": "filosofie-mysli",
+    "text": "Teze o transparentnosti zkušenosti, kterou reprezentacionalisté používají jako oporu, říká, že:",
+    "options": [
+      "zkušenost je vždy plně přístupná introspekci a nikdy se v ní nemýlíme",
+      "obsah zkušenosti je určen prostředím, nikoli vnitřním stavem mozku",
+      "vědomí je průhledné pro vědu, protože se dá měřit z chování subjektu",
+      "když se snažíme všímat si zážitku, nacházíme jen vlastnosti věcí kolem"
+    ],
+    "correct": 3,
+    "explanation": "Moore i Harman upozorňují, že při pohledu na modrou zeď narazíme introspektivně na modř zdi, ne na modrost svého zážitku. Zkušenost se tak zdá být „skrz naskrz“ o světě, což podporuje ztotožnění fenomenality s reprezentačním obsahem. Kritici jako Block namítají, že transparentnost není úplná a lze si všímat i rysů vlastního vidění.",
+    "source": "Gilbert Harman, The Intrinsic Quality of Experience (1990)",
+    "seedElo": 1800
+  },
+  {
+    "id": "fmy-A29",
+    "type": "K",
+    "category": "filosofie-mysli",
+    "text": "Searlův biologický naturalismus tvrdí, že vědomí:",
+    "options": [
+      "je programem, který mozek vykonává a lze jej přenést na jiný nosič",
+      "je nesubstanciální jev bez jakékoli kauzální vazby na procesy v mozku",
+      "je jen užitečnou fikcí, kterou dospělá neurověda nakonec opustí",
+      "je kauzálně způsobeno neurony a je vyšší úrovní vlastností mozku"
+    ],
+    "correct": 3,
+    "explanation": "Searle přirovnává vědomí k tekutosti vody: je způsobeno chováním nižší úrovně a zároveň je vlastností celku. Odmítá proto dualismus i to, čemu říká zděděný materialismus popírající prožitek. Kritici mu vytýkají, že jeho pozice je buď skrytým dualismem vlastností, nebo obyčejným fyzikalismem.",
+    "source": "John Searle, The Rediscovery of the Mind (1992)",
+    "seedElo": 1660
+  },
+  {
+    "id": "fmy-A30",
+    "type": "F",
+    "category": "filosofie-mysli",
+    "text": "Mysterianismus Colina McGinna tvrdí, že vztah mysli a mozku:",
+    "options": [
+      "je jen zdánlivý problém, který se rozpustí lepší analýzou jazyka",
+      "má fyzikální řešení, jež je ale našim schopnostem kognitivně uzavřené",
+      "nemá řešení žádné, protože vědomí nemá ve světě fyzickou příčinu",
+      "vyřeší neurověda přibližně během několika příštích desetiletí"
+    ],
+    "correct": 1,
+    "explanation": "McGinn je fyzikalista: věří, že existuje přirozená vlastnost mozku, která vědomí vysvětluje, ale naše pojmové schopnosti k ní nemají přístup. Mezera je tedy podle něj rys nás, ne světa, podobně jako pes nemůže pochopit fyziku. Kritici namítají, že tvrzení o vlastních mezích je samo těžko podložitelné.",
+    "source": "Colin McGinn, Can We Solve the Mind-Body Problem? (1989)",
+    "seedElo": 1600
+  },
+  {
+    "id": "fmy-A31",
+    "type": "K",
+    "category": "filosofie-mysli",
+    "text": "Kripkeho modální argument proti teorii identity využívá toho, že u bolesti:",
+    "options": [
+      "existuje mnoho velmi různých fyzických realizátorů napříč živočišnými druhy",
+      "nelze provést experiment, který by identitu s mozkovým stavem ověřil",
+      "nelze oddělit zdání od skutečnosti, takže zdánlivá nahodilost nemá výmluvu",
+      "chybí ostrá hranice mezi vědomým a nevědomým zpracováním podnětu"
+    ],
+    "correct": 2,
+    "explanation": "U vody a H2O vysvětlíme dojem nahodilosti tím, že jsme mohli mít stejné zdání bez vody. U bolesti ale platí, že co se jeví jako bolest, bolest je, a tento únik odpadá. Kripke proto uzavírá, že zdánlivá odlišitelnost bolesti a nervového stavu svědčí o skutečné neidentitě; obhájci typu B se brání právě teorií fenomenálních pojmů.",
+    "source": "Saul Kripke, Naming and Necessity (1980)",
+    "seedElo": 1870
+  },
+  {
+    "id": "fmy-A32",
+    "type": "K",
+    "category": "filosofie-mysli",
+    "text": "V dvourozměrné sémantice, jíž Chalmers vyztužuje zombie argument, primární intenze výrazu:",
+    "options": [
+      "určuje referenci podle toho, jak by svět dopadl, kdyby byl aktuální",
+      "označuje vždy tentýž předmět ve všech možných světech, tedy rigidně",
+      "zachycuje pouze emoční zabarvení výrazu, nikoli jeho pravdivostní podíl",
+      "je totožná se sekundární intenzí u všech výrazů kromě vlastních jmen"
+    ],
+    "correct": 0,
+    "explanation": "Primární (epistemická) intenze mapuje světy braté jako aktuální; sekundární je bere jako kontrafaktické při dané aktuální skutečnosti. U „vody“ se obě rozcházejí, takže odlišitelnost vody a H2O nedokládá možnost. Chalmers tvrdí, že u fenomenálních pojmů obě intenze splývají, a proto myslitelnost zombií vede rovnou k jejich možnosti.",
+    "source": "David Chalmers, The Two-Dimensional Argument Against Materialism (2009)",
+    "seedElo": 1980
+  },
+  {
+    "id": "fmy-A33",
+    "type": "K",
+    "category": "filosofie-mysli",
+    "text": "Standardní odpověď materialisty typu B na zombie argument spočívá v tom, že:",
+    "options": [
+      "myslitelnost neimplikuje možnost, jak dokládá aposteriorní nutnost identit",
+      "zombie nejsou myslitelné, protože pojem chování obsahuje pojem prožitku",
+      "zombie sice existují, ale jejich existence fyzikalismu nijak neodporuje",
+      "argument je neplatný, neboť směšuje pojem možnosti s pojmem pravdivosti výroku"
+    ],
+    "correct": 0,
+    "explanation": "Typ B přijímá, že si zombie umíme představit, ale odmítá krok od myslitelnosti k metafyzické možnosti: i „voda bez H2O“ je myslitelná, a přesto nemožná. Mezera je tedy epistemická, nikoli ontologická. Chalmers namítá, že u vody rozdíl vysvětlí dvě různé intenze, kdežto u fenomenálních pojmů takové vysvětlení chybí.",
+    "source": "Christopher Hill a Brian McLaughlin, There Are Fewer Things in Reality Than Are Dreamt of in Chalmers's Philosophy (1999)",
+    "seedElo": 1960
+  },
+  {
+    "id": "fmy-A34",
+    "type": "K",
+    "category": "filosofie-mysli",
+    "text": "Hypotéza schopností (Nemirow, Lewis) odpovídá na argument z poznání tvrzením, že Mary získá:",
+    "options": [
+      "nové faktické poznání o barvách, které však fyzikalismu neodporuje",
+      "dovednosti představit si, rozpoznat a vybavit si, nikoli nové fakty",
+      "novou nefyzickou vlastnost mysli, jež jí dosud v mozku scházela",
+      "přístup k faktu, který znala už dřív, jen v jiném vědeckém jazyce"
+    ],
+    "correct": 1,
+    "explanation": "Podle Lewise je vědět, jaké to je, know-how, nikoli propoziční vědění; Mary se tedy naučí něco umět, ne se dozvědět nový fakt o světě. Fyzikalismus pak zůstává nedotčen, protože její dřívější poznání faktů bylo úplné. Kritici (Loar, Tye) namítají, že Mary si zjevně tvoří i nová přesvědčení, například že tohle je ta červená.",
+    "source": "David Lewis, What Experience Teaches (1988)",
+    "seedElo": 1810
+  },
+  {
+    "id": "fmy-A35",
+    "type": "K",
+    "category": "filosofie-mysli",
+    "text": "Odpověď z obeznámenosti (acquaintance, Conee) na Maryin případ tvrdí, že Mary:",
+    "options": [
+      "získá nový fakt, který v úplné fyzice prostě nebyl obsažen vůbec",
+      "nezíská nic, protože barvu si mohla plně představit už ve své laboratoři",
+      "získá jen praktickou dovednost rozlišovat barvy podle jejich odstínu",
+      "poznává starou vlastnost novým způsobem, totiž bezprostředně a přímo"
+    ],
+    "correct": 3,
+    "explanation": "Conee odlišuje poznání faktů, poznání jak a poznání z obeznámenosti; Mary si po výstupu osvojí třetí druh, aniž by přibylo cokoli ve světě. Na rozdíl od hypotézy schopností tak nepopírá, že jde o poznání předmětu, jen popírá, že jde o nový fakt. Obě odpovědi patří k tzv. strategii starých faktů a nového způsobu jejich uchopení.",
+    "source": "Earl Conee, Phenomenal Knowledge (1994)",
+    "seedElo": 1860
+  },
+  {
+    "id": "fmy-A36",
+    "type": "K",
+    "category": "filosofie-mysli",
+    "text": "Blockovo rozlišení fenomenálního a přístupového vědomí spočívá v tom, že přístupové vědomí je:",
+    "options": [
+      "prožitkový ráz stavu, tedy to, jaké to vlastně je být v takovém stavu",
+      "vědomí sebe sama jako subjektu, který právě prožívá daný obsah",
+      "dostupnost obsahu pro usuzování, řízení chování a slovní zprávu",
+      "schopnost si obsah vybavit i po delší době v nezměněné podobě"
+    ],
+    "correct": 2,
+    "explanation": "Block v článku On a Confusion about a Function of Consciousness (1995) odlišil P-vědomí, tedy prožitkový ráz, od A-vědomí, tedy funkční dostupnosti obsahu pro racionální kontrolu chování. Většina vědeckých teorií podle něj vysvětluje A-vědomí a mlčky doufá, že tím pokryla i P-vědomí. Sebeuvědomění je pak podle Blocka ještě další, třetí pojem.",
+    "source": "Ned Block, On a Confusion about a Function of Consciousness (1995)",
+    "seedElo": 1540
+  },
+  {
+    "id": "fmy-A37",
+    "type": "K",
+    "category": "filosofie-mysli",
+    "text": "Blockova teze o „přetékání“ (overflow) opřená o Sperlingův pokus tvrdí, že:",
+    "options": [
+      "pracovní paměť pojme více položek, než kolik jich zvládneme prožít",
+      "obsah zprávy je vždy bohatší než obsah, který byl skutečně viděn",
+      "prožíváme více, než kolik dokážeme v daný okamžik zpřístupnit a ohlásit",
+      "vidění je dokonale přesné, jen jeho záznam v paměti rychle vybledne"
+    ],
+    "correct": 2,
+    "explanation": "V Sperlingově úloze lidé tvrdí, že viděli celou matici písmen, ale vybaví si jen řádek, na který ukáže tón. Block z toho vyvozuje, že fenomenální vědomí přetéká kapacitu přístupu, a je tedy od něj oddělitelné. Novější opory hledá v pokusech Landmana a Sligteové s měněnou orientací tvarů.",
+    "source": "Ned Block, Consciousness, Accessibility, and the Mesh (2007)",
+    "seedElo": 1890
+  },
+  {
+    "id": "fmy-A38",
+    "type": "K",
+    "category": "filosofie-mysli",
+    "text": "Hlavní námitka Cohena a Dennetta proti overflow debatě zní, že:",
+    "options": [
+      "Sperlingovy výsledky se v novějších replikacích vůbec nepodařilo potvrdit",
+      "fenomenální vědomí je pojem prázdný, takže spor nemá žádný předmět",
+      "přístupové vědomí je jen zvláštním případem vědomí fenomenálního",
+      "vědomí bez možnosti zprávy je principiálně neověřitelné, tedy mimo vědu"
+    ],
+    "correct": 3,
+    "explanation": "Cohen a Dennett tvrdí, že teorie připouštějící prožitek zcela odříznutý od přístupu se nedá testovat, protože jediným svědectvím o prožitku je zpráva. Ian Phillips a další dodávají, že subjektivní dojem bohatosti může být důsledkem naší schopnosti kdykoli se doptat. Spor je dodnes otevřený a rozděluje filosofy i experimentátory.",
+    "source": "Michael Cohen a Daniel Dennett, Consciousness Cannot Be Separated from Function (2011)",
+    "seedElo": 1970
+  },
+  {
+    "id": "fmy-A39",
+    "type": "K",
+    "category": "filosofie-mysli",
+    "text": "Panqualitismus, jak jej hájí Sam Coleman, tvrdí, že základní vrstva světa obsahuje:",
+    "options": [
+      "kvality, které samy nikomu nepatří a nejsou nikým prožívány",
+      "nespočet drobných subjektů, z nichž se skládají subjekty větší",
+      "výhradně matematickou strukturu bez jakýchkoli vnitřních vlastností",
+      "informaci, která teprve v mozku nabývá kvalitativního rázu prožitku"
+    ],
+    "correct": 0,
+    "explanation": "Panqualitismus je verze russellovského monismu, podle níž jsou fundamentální kvidity kvalitativní, ale nevědomé, tedy bez subjektu. Vyhýbá se tak nejhorší části kombinačního problému, totiž skládání subjektů, které Coleman pokládá za nemožné. Cenou je otázka, jak z nevědomých kvalit vznikne uvědomění, což kritici považují za návrat těžkého problému.",
+    "source": "Sam Coleman, Panpsychism and Neutral Monism (2016)",
+    "seedElo": 2000
+  },
+  {
+    "id": "fmy-A40",
+    "type": "K",
+    "category": "filosofie-mysli",
+    "text": "Slabá emergence (Bedau) označuje jevy, které:",
+    "options": [
+      "nelze z nižší úrovně odvodit ani v principu, a to nutně a navždy",
+      "z nižší úrovně sice plynou, ale ukážou se až simulací celého vývoje",
+      "vznikají pouze v živých systémech a v neživé přírodě se nevyskytují",
+      "mění zákony nižší úrovně shora dolů, a proto porušují uzávěr fyziky"
+    ],
+    "correct": 1,
+    "explanation": "Slabě emergentní vlastnost je plně určena nižší úrovní, jen ji nelze zkratkou spočítat; musíme nechat systém proběhnout. Typickými příklady jsou vzorce v celulárních automatech nebo chování hejn. Tento pojem je se standardním fyzikalismem zcela slučitelný.",
+    "source": "Mark Bedau, Weak Emergence (1997)",
+    "seedElo": 1800
+  },
+  {
+    "id": "fmy-A41",
+    "type": "K",
+    "category": "filosofie-mysli",
+    "text": "Silná emergence, jak ji vymezuje Chalmers, znamená, že pravdy vyšší úrovně:",
+    "options": [
+      "jsou z nižší úrovně odvoditelné, jen to vyžaduje obrovský výpočetní čas",
+      "nejsou odvoditelné ani v principu, a vědomí je jediným jasným kandidátem",
+      "nejsou odvoditelné, protože jazyk vyšší úrovně je vždy jen metaforický",
+      "jsou odvoditelné pouze u systémů, jež mají zpětnovazebnou architekturu"
+    ],
+    "correct": 1,
+    "explanation": "Chalmers definuje silnou emergenci jako neodvoditelnost ani pro ideálního znalce nižší úrovně, což s sebou nese nové základní zákony. Za jediný přesvědčivý příklad pokládá právě vědomí. Kritici jako Kim namítají, že silná emergence naráží na argument z kauzálního vyloučení stejně tvrdě jako dualismus vlastností.",
+    "source": "David Chalmers, Strong and Weak Emergence (2006)",
+    "seedElo": 1830
+  },
+  {
+    "id": "fmy-A42",
+    "type": "K",
+    "category": "filosofie-mysli",
+    "text": "Papineau vysvětluje naši silnou intuici, že prožitek a mozkový stav jsou různé věci, tak, že:",
+    "options": [
+      "jde o artefakt fenomenálních pojmů, které prožitek jakoby znovu předvádějí",
+      "jde o spolehlivý vhled do skutečné podstaty mysli, jemuž je třeba věřit",
+      "jde o pozůstatek náboženské výchovy, který se vytrácí se vzděláním",
+      "jde o důsledek toho, že o mozku zatím víme příliš málo empirických dat"
+    ],
+    "correct": 0,
+    "explanation": "Papineau mluví o intuici odlišnosti: fenomenální pojmy prožitek při použití napodobují, kdežto pojmy fyzikální na něj jen ukazují zvenčí, a rozdíl v jejich fungování si pleteme s rozdílem v předmětu. Tuto záměnu nazývá antipatetickým klamem. Intuice tak podle něj přetrvává i po přijetí materialismu a je třeba ji vysvětlit, ne poslouchat.",
+    "source": "David Papineau, Thinking about Consciousness (2002)",
+    "seedElo": 1950
+  },
+  {
+    "id": "fmy-A43",
+    "type": "K",
+    "category": "filosofie-mysli",
+    "text": "Block a Stalnaker ve své kritice Chalmerse a Jacksona popírají zejména tezi, že:",
+    "options": [
+      "existují fenomenální pojmy, jež nejsou apriorně spojeny s fyzikálními",
+      "identita vody a H2O je nutná, přestože byla objevena až empiricky",
+      "redukce vyžaduje apriorní odvození vysvětlovaného z fyzikální báze",
+      "supervenience mentálního na fyzickém platí přinejmenším v našem světě"
+    ],
+    "correct": 2,
+    "explanation": "Chalmers a Jackson tvrdí, že úspěšná redukce vyžaduje apriorní implikaci od úplné fyzikální báze k vysvětlovaným pravdám, a vědomí ji nesplňuje. Block a Stalnaker namítají, že takové odvození nemáme ani u vody či života, a přesto je pokládáme za redukované. Spor se tak přesouvá k otázce, jak vlastně vypadá standardní vědecké vysvětlení.",
+    "source": "Ned Block a Robert Stalnaker, Conceptual Analysis, Dualism, and the Explanatory Gap (1999)",
+    "seedElo": 1990
+  },
+  {
+    "id": "fmy-A44",
+    "type": "K",
+    "category": "filosofie-mysli",
+    "text": "Chalmers na námitku, že si zombie jen matně namlouváme, odpovídá rozlišením:",
+    "options": [
+      "vědomí fenomenálního a přístupového, přičemž zombie postrádají obojí",
+      "pojmů primitivních a odvozených, přičemž zombie stojí na těch odvozených",
+      "světů fyzikálně a psychicky možných, přičemž zombie patří do těch druhých",
+      "myslitelnosti prima facie a ideální, dosažené bezchybnou úplnou úvahou"
+    ],
+    "correct": 3,
+    "explanation": "Chalmers připouští, že zdánlivá myslitelnost může být klam, jako u nejrychlejšího zlomku nebo u nedostatečně promyšlených matematických tvrzení. Argument proto vede jen z myslitelnosti ideální, tedy takové, kterou by neodstranilo žádné další uvažování. Kritici jako Hill a Yablo namítají, že o ideální myslitelnosti zombií nemáme, jak se přesvědčit.",
+    "source": "David Chalmers, Does Conceivability Entail Possibility? (2002)",
+    "seedElo": 1960
+  }
+]

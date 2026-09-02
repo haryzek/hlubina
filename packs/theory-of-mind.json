@@ -112,6 +112,54 @@
   "seedElo": 1480
  },
  {
+  "id": "tom-A03",
+  "type": "K",
+  "category": "theory-of-mind",
+  "text": "Triadická sdílená pozornost se od pouhého sledování pohledu liší tím, že dítě:",
+  "options": [
+   "dokáže odhadnout, na co se dospělý dívá, i mimo svůj zorný úhel",
+   "reaguje na předmět rychleji, než kdyby byl dospělý potichu",
+   "otáčí hlavu spíše za zvukem hlasu než za směrem pohledu dospělého",
+   "sdílí pozornost k předmětu a ověřuje si to pohledem na partnera"
+  ],
+  "correct": 3,
+  "explanation": "Sledovat pohled lze i mechanicky. Sdílená pozornost je triadická — dítě, předmět a druhý člověk — a pozná se podle střídavého pohledu, jímž si dítě ověřuje, že se partner dívá také. Nastupuje kolem devátého až dvanáctého měsíce a předpovídá pozdější slovní zásobu i výkon v úlohách teorie mysli.",
+  "source": "Carpenter, Nagell & Tomasello, Social cognition, joint attention, and communicative competence (1998)",
+  "seedElo": 1500
+ },
+ {
+  "id": "tom-A30",
+  "type": "F",
+  "category": "theory-of-mind",
+  "text": "V klasickém filmu Heiderové a Simmela z roku 1944 lidé popisovali:",
+  "options": [
+   "pohyb geometrických tvarů jako honičku, útok a útěk s emocemi",
+   "dvojici kreslených postaviček, jež spolu vedly hádku o jídlo",
+   "abstraktní obrazce jen jako změny rychlosti a směru pohybu",
+   "pohyb bodových světel připevněných na kloubech chodce v úplné tmě"
+  ],
+  "correct": 0,
+  "explanation": "Téměř všichni pozorovatelé popsali pohyb dvou trojúhelníků a kroužku jako sociální drama s pronásledováním, šikanou a únikem. Přitom na plátně nebylo nic než tvary a pohyb. Studie se dodnes používá jako doklad, že animacitu a záměry připisujeme automaticky už na základě samotné kinematiky.",
+  "source": "Heider & Simmel, An experimental study of apparent behavior, Am. J. Psychology 57 (1944)",
+  "seedElo": 1500
+ },
+ {
+  "id": "tom-B01",
+  "type": "F",
+  "category": "theory-of-mind",
+  "text": "Emoční nákaza (emotional contagion) se od empatie liší především tím, že:",
+  "options": [
+   "vyžaduje vědomý úsudek o tom, co druhý člověk v tu chvíli prožívá",
+   "objevuje se pouze mezi lidmi s velmi blízkým citovým poutem",
+   "probíhá automaticky a bez rozlišení, čí emoce to vlastně je",
+   "týká se výhradně negativních stavů, jako je strach či hnus"
+  ],
+  "correct": 2,
+  "explanation": "Emoční nákaza je rychlé, převážně bezděčné přelévání afektu — člověk se naladí na výraz a hlas druhého a začne cítit totéž, aniž by si podržel hranici mezi sebou a druhým. Empatie oproti tomu tuto hranici drží: vím, že prožitek patří tobě. Nákaza proto může vést spíš k vlastní tísni než k porozumění nebo pomoci.",
+  "source": "Hatfield, Cacioppo a Rapson: Emotional Contagion (1994)",
+  "seedElo": 1500
+ },
+ {
   "id": "tom-08",
   "type": "K",
   "category": "theory-of-mind",
@@ -126,6 +174,22 @@
   "explanation": "V úlohách, kde experimentátor ukáže na jednu ze dvou nádob se skrytým jídlem, psi typicky uspívají spontánně a spolehlivěji než naši nejbližší primátí příbuzní. Vysvětluje se to domestikací a dlouhým soužitím s lidmi, které selektovalo na citlivost ke komunikačním signálům člověka, i když jde spíš o naučenou senzitivitu ke gestu než o plnohodnotnou teorii mysli.",
   "source": "Hare, B., Tomasello, M.: Domestic dogs use human and conspecific social cues, 1999",
   "seedElo": 1510
+ },
+ {
+  "id": "tom-B02",
+  "type": "F",
+  "category": "theory-of-mind",
+  "text": "Spotlight efekt popsaný Gilovichem a spolupracovníky znamená, že lidé:",
+  "options": [
+   "přeceňují, jak nápadní jsou druhým a jak bedlivě je druzí sledují",
+   "podceňují vliv situace, když vysvětlují cizí nápadné chování",
+   "přeceňují shodu svých názorů s názory většiny ostatních lidí",
+   "podceňují, jak silně na ně působí přítomnost sledujícího davu"
+  ],
+  "correct": 0,
+  "explanation": "V pokusech s trapným tričkem účastníci odhadovali, že si jejich oblečení všimne zhruba dvojnásobek lidí oproti skutečnosti. Zdrojem je nedostatečné odpoutání od vlastní perspektivy: vlastní stav je nám nápadný, a tak jej promítáme do hlav druhých. Ostatní distraktory popisují jiná zkreslení — atribuční chybu a efekt falešného konsenzu.",
+  "source": "Gilovich, Medvec a Savitsky (JPSP, 2000)",
+  "seedElo": 1520
  },
  {
   "id": "tom-09",
@@ -144,6 +208,70 @@
   "seedElo": 1540
  },
  {
+  "id": "tom-A01",
+  "type": "F",
+  "category": "theory-of-mind",
+  "text": "Protodeklarativní ukazování se od protoimperativního liší tím, že:",
+  "options": [
+   "objevuje se dříve, už kolem šestého měsíce věku dítěte",
+   "slouží k získání předmětu, který je mimo dosah dítěte",
+   "slouží ke sdílení zájmu o předmět s druhým člověkem",
+   "doprovází je pohled na předmět, nikoli na dospělého"
+  ],
+  "correct": 2,
+  "explanation": "Protoimperativní ukazování je nástroj: „podej mi to“. Protodeklarativní ukazování nic nezískává — dítě chce, aby se druhý díval s ním, a proto střídá pohled mezi předmětem a obličejem dospělého. Objevuje se zhruba kolem prvních narozenin a bývá považováno za jeden z prvních prekurzorů teorie mysli.",
+  "source": "Bates, Camaioni & Volterra, The acquisition of performatives prior to speech (1975)",
+  "seedElo": 1550
+ },
+ {
+  "id": "tom-A04",
+  "type": "F",
+  "category": "theory-of-mind",
+  "text": "Ve vývoji dětské psychologie mysli platí, že děti:",
+  "options": [
+   "chápou přesvědčení dříve než tužby, zhruba už kolem tří let",
+   "rozumějí tužbám dříve než přesvědčením, už kolem dvou let",
+   "obojí zvládnou najednou, jakmile ovládnou sloveso „myslet“",
+   "chápou tužby až poté, co pochopí nepravdivé přesvědčení"
+  ],
+  "correct": 1,
+  "explanation": "Dvouleté děti běžně mluví o chtění a rozumí tomu, že různí lidé chtějí různé věci — mají „psychologii tužeb“. Slovník přesvědčení („myslí si, že“) se objevuje zhruba o rok později a teprve pak se skládá plná přání-přesvědčení psychologie, v níž jednání vysvětluje kombinace obojího.",
+  "source": "Bartsch & Wellman, Children Talk About the Mind (1995)",
+  "seedElo": 1550
+ },
+ {
+  "id": "tom-B03",
+  "type": "F",
+  "category": "theory-of-mind",
+  "text": "Iluze transparentnosti (illusion of transparency) spočívá v tom, že:",
+  "options": [
+   "cizí vnitřní stavy odhadujeme mnohem lépe, než si připouštíme",
+   "vlastní chování považujeme za průhledný důsledek okolností",
+   "u druhých vidíme více emocí, než jich ve skutečnosti mají",
+   "své vnitřní stavy pokládáme za čitelnější, než opravdu jsou"
+  ],
+  "correct": 3,
+  "explanation": "Nervózní řečník je přesvědčen, že je jeho tréma vidět, přestože publikum ji odhalí jen zřídka. Mechanismus je stejný jako u spotlight efektu: vlastní vnitřní zážitek je pro nás tak výrazný, že jej nedokážeme dost odečíst při odhadu cizího pohledu. Znalost tohoto zkreslení paradoxně trému snižuje.",
+  "source": "Gilovich, Savitsky a Medvec (JPSP, 1998)",
+  "seedElo": 1550
+ },
+ {
+  "id": "tom-B04",
+  "type": "F",
+  "category": "theory-of-mind",
+  "text": "Základní atribuční chyba (fundamental attribution error) označuje sklon:",
+  "options": [
+   "vysvětlovat vlastní neúspěch okolnostmi a úspěch svými vlohami",
+   "přeceňovat povahové rysy a podceňovat situaci u chování druhých",
+   "hodnotit člena vlastní skupiny mírněji než člena skupiny cizí",
+   "považovat vlastní pohled na situaci za nezaujatý obraz reality"
+  ],
+  "correct": 1,
+  "explanation": "Pozorovatel vidí jednajícího člověka v popředí a situaci jen jako pozadí, takže příčinu hledá v povaze. Ostatní nabídky jsou rovněž skutečná zkreslení: sebeobsluhující atribuce, stranění vlastní skupině a naivní realismus. Termín zavedl Lee Ross v roce 1977 a od té doby se ukazuje, že jeho síla kolísá podle kultury i podle uspořádání úlohy.",
+  "source": "Lee Ross (Advances in Experimental Social Psychology, 1977)",
+  "seedElo": 1560
+ },
+ {
   "id": "tom-10",
   "type": "K",
   "category": "theory-of-mind",
@@ -160,6 +288,38 @@
   "seedElo": 1570
  },
  {
+  "id": "tom-B05",
+  "type": "F",
+  "category": "theory-of-mind",
+  "text": "Společné vědění (common ground) v pojetí Herberta Clarka je:",
+  "options": [
+   "soubor znalostí, o nichž oba mluvčí vědí, že je sdílejí",
+   "průnik faktů, které oba mluvčí nezávisle na sobě znají",
+   "zásoba slov, jimž rozumějí všichni členové jazykového celku",
+   "soubor témat, na nichž se mluvčí předem výslovně dohodli"
+  ],
+  "correct": 0,
+  "explanation": "Rozhodující je vzájemnost: nestačí, že oba něco vědí, oba to musí vědět i o tom druhém. Kdybych znal fakt, o kterém netuším, že jej znáš i ty, nemohu se na něj v řeči beze slov odvolat. Právě tato vzájemná znalost umožňuje zkratky, narážky a užití zájmen bez vysvětlování.",
+  "source": "Herbert H. Clark: Using Language (1996)",
+  "seedElo": 1580
+ },
+ {
+  "id": "tom-B06",
+  "type": "F",
+  "category": "theory-of-mind",
+  "text": "Porozumění sarkastické poznámce vyžaduje navíc oproti doslovnému výroku:",
+  "options": [
+   "rozpoznat, že věta v sobě nese vnitřně rozporný obsah",
+   "znát přesný význam všech slov, která mluvčí použil",
+   "odhadnout mluvčího postoj k tomu, co doslova říká",
+   "vybavit si dřívější situaci s podobným průběhem"
+  ],
+  "correct": 2,
+  "explanation": "Věta „No to se ti fakt povedlo“ je sama o sobě bezrozporná; sarkastickou ji dělá teprve rozpor mezi doslovným obsahem a mluvčího zjevným postojem. Posluchač tedy musí modelovat nejen co bylo řečeno, ale i jak se k tomu mluvčí sám staví. Proto sarkasmus vyžaduje bohatší mentalizaci než prostá informace.",
+  "source": "Happé (1993); Sperber a Wilson o ironii",
+  "seedElo": 1590
+ },
+ {
   "id": "tom-11",
   "type": "F",
   "category": "theory-of-mind",
@@ -173,6 +333,54 @@
   "correct": 2,
   "explanation": "Opakovaně se ukazuje, že raná jazyková vyspělost — zvlášť zvládnutí vět s mentálními slovesy a komplexních vět s vedlejší větou (\"myslí si, že...\") — předchází a predikuje úspěch v testech falešného přesvědčení. Směr souvislosti napovídá, že jazyk poskytuje reprezentační nástroje potřebné k uvažování o cizích přesvědčeních, byť úplná kauzalita je stále zkoumána.",
   "source": "Astington, J. W., Jenkins, J. M.: A longitudinal study of the relation between language and theory-of-mind development, 1999",
+  "seedElo": 1600
+ },
+ {
+  "id": "tom-A02",
+  "type": "F",
+  "category": "theory-of-mind",
+  "text": "Podle klasických studií sledování pohledu (Butterworth a Jarrett) kojenci kolem šesti měsíců:",
+  "options": [
+   "otočí se správným směrem, ale zafixují první nápadný předmět",
+   "sledují pohled jen tehdy, když dospělý zároveň ukazuje rukou",
+   "spolehlivě najdou i předmět, který je umístěný za jejich zády",
+   "sledují pohled pouze u matky, nikoli u cizího člověka"
+  ],
+  "correct": 0,
+  "explanation": "Nejmladší kojenci používají „ekologický“ mechanismus: otočí se do správné poloviny prostoru a zůstanou u prvního výrazného objektu, i když se dospělý dívá jinam. Přesnější „geometrické“ zacílení na konkrétní předmět přichází kolem roku a hledání mimo vlastní zorné pole až zhruba v osmnácti měsících.",
+  "source": "Butterworth & Jarrett, What minds have in common is space, Br. J. Dev. Psychol. 9 (1991)",
+  "seedElo": 1600
+ },
+ {
+  "id": "tom-A31",
+  "type": "K",
+  "category": "theory-of-mind",
+  "text": "Který znak pohybu nejsilněji spouští dojem, že jde o živého činitele?",
+  "options": [
+   "rovnoměrný pohyb po přímce konstantní rychlostí bez odchylek",
+   "zrychlení bez vnějšího doteku a změna směru k nějakému cíli",
+   "pohyb dolů způsobený gravitací po nakloněné rovině dolů",
+   "odraz od stěny přesně podle úhlu dopadu, tedy zrcadlově"
+  ],
+  "correct": 1,
+  "explanation": "Rozhodující jsou samovolný start pohybu, porušení kontaktní kauzality a cílově orientovaná změna dráhy. Setrvačný nebo čistě fyzikálně vynucený pohyb dojem života nevyvolá. Už kojenci na tyto znaky reagují odlišně, což naznačuje ranou citlivost na rozdíl mezi činitelem a předmětem.",
+  "source": "Scholl & Tremoulet, Perceptual causality and animacy, Trends in Cognitive Sciences 4 (2000)",
+  "seedElo": 1600
+ },
+ {
+  "id": "tom-B07",
+  "type": "F",
+  "category": "theory-of-mind",
+  "text": "Podle výzkumu antropomorfizace lidé připisují mysl neživým věcem nejspíš tehdy, když:",
+  "options": [
+   "věc je tvarem i barvou co nejvěrnější kopií člověka",
+   "jsou osamělí a chování té věci je pro ně nepředvídatelné",
+   "věc patří k technice, které dobře rozumějí a ovládají ji",
+   "jsou ve stresu a potřebují si co nejrychleji odpočinout"
+  ],
+  "correct": 1,
+  "explanation": "Antropomorfizace není naivita, ale řešení dvou problémů: potřeby něco nepředvídatelného vysvětlit a potřeby sociálního kontaktu. Osamělí lidé připisují mysl domácím mazlíčkům i přístrojům výrazně častěji, a naopak dobře pochopená technika se personifikuje méně. Podoba s člověkem hraje roli, ale je slabším činitelem než tyto motivace.",
+  "source": "Epley, Waytz a Cacioppo (Psychological Review, 2007)",
   "seedElo": 1600
  },
  {
@@ -192,6 +400,54 @@
   "seedElo": 1630
  },
  {
+  "id": "tom-A11",
+  "type": "F",
+  "category": "theory-of-mind",
+  "text": "Perner, Ruffman a Leekam (1994) ukázali, že děti řeší úlohy s nepravdivým přesvědčením lépe, když:",
+  "options": [
+   "mají alespoň jednoho rodiče s vysokoškolským vzděláním",
+   "mají více sourozenců, s nimiž vyrůstají v jedné domácnosti",
+   "jsou v rodině prvorozené a dostávají hodně pozornosti dospělých",
+   "chodí do jeslí od velmi raného věku, tedy zhruba od roka"
+  ],
+  "correct": 1,
+  "explanation": "Počet sourozenců předpovídal úspěch nezávisle na věku dítěte — autoři mluvili o „kulturní škole doma“. Vysvětlením je víc příležitostí k předstírané hře, sporům, vyjednávání a klamání. Novější práce efekt zjemňují: největší váhu mají starší sourozenci a účinek se s věkem dítěte ztrácí.",
+  "source": "Perner, Ruffman & Leekam, Theory of mind is contagious, Child Development 65 (1994)",
+  "seedElo": 1650
+ },
+ {
+  "id": "tom-A15",
+  "type": "F",
+  "category": "theory-of-mind",
+  "text": "Úloha se zmrzlinářským vozem (Perner a Wimmer) testuje především:",
+  "options": [
+   "co si Jan myslí o tom, co si Marie myslí o poloze vozu",
+   "zda dítě pozná, že Marie o přesunu vozu nemá informaci",
+   "zda dítě dokáže vysvětlit, proč vůz vůbec změnil stanoviště",
+   "zda si dítě pamatuje pořadí událostí v poměrně dlouhém příběhu"
+  ],
+  "correct": 0,
+  "explanation": "Jde o vnořené, druhořádové přesvědčení: přesvědčení o cizím přesvědčení. Zvládá se zhruba v šesti až sedmi letech, tedy o dva až tři roky později než prvořádová verze. Bez této úrovně nelze pochopit ironii, záměrné klamání ani řadu společenských konvencí.",
+  "source": "Perner & Wimmer, „John thinks that Mary thinks that…“, J. Exp. Child Psychol. 39 (1985)",
+  "seedElo": 1650
+ },
+ {
+  "id": "tom-B08",
+  "type": "F",
+  "category": "theory-of-mind",
+  "text": "Singer a Klimecki oddělují empatickou tíseň od soucitu především proto, že:",
+  "options": [
+   "soucit se objevuje pouze u lidí vycvičených v meditaci",
+   "empatická tíseň mizí, jakmile pochopíme příčinu utrpení",
+   "obojí spouští tutéž síť, liší se jen silou prožitku",
+   "vedou k jinému chování: k odtažení, nebo k pomoci druhým"
+  ],
+  "correct": 3,
+  "explanation": "Empatická tíseň je sdílení negativního afektu, které zahlcuje a vede k vyhýbání a vyhoření. Soucit obsahuje teplo a starost o druhého, je spojen s pozitivním afektem a s ochotou pomoci. Rozdíl není jen slovní: obě polohy se liší i zapojenými mozkovými okruhy a lze je odděleně trénovat.",
+  "source": "Singer a Klimecki (Current Biology, 2014)",
+  "seedElo": 1650
+ },
+ {
   "id": "tom-13",
   "type": "K",
   "category": "theory-of-mind",
@@ -206,6 +462,38 @@
   "explanation": "Podle teorie teorie disponujeme naivní, implicitní teorií o tom, jak fungují mysli druhých (podobně jako vědecká teorie predikuje jevy), a na jejím základě usuzujeme na jejich stavy. Simulační teorie naopak tvrdí, že stav druhého odhadujeme tak, že jej v mysli sami \"nasimulujeme\" — použijeme vlastní kognitivní aparát jako model a výsledek přisoudíme druhému. Obě mají v kognitivní vědě zastánce i empirickou podporu z různých úhlů.",
   "source": "Gordon, R. M.: Folk psychology as simulation, 1986; Gopnik, A., Wellman, H. M.: Why the child's theory of mind really is a theory, 1992",
   "seedElo": 1660
+ },
+ {
+  "id": "tom-B09",
+  "type": "F",
+  "category": "theory-of-mind",
+  "text": "Eyal, Steffel a Epley v sérii pokusů zjistili, že snaha vžít se do druhého:",
+  "options": [
+   "přesnost odhadu nezlepšila, kdežto přímé zeptání ano",
+   "přesnost odhadu zlepšila výrazně u blízkých, jinde ne",
+   "přesnost odhadu zlepšila jen u odhadů vlastních emocí",
+   "přesnost odhadu i sebedůvěru v odhad shodně snížila"
+  ],
+  "correct": 0,
+  "explanation": "Ve 25 pokusech instrukce „představ si, jak to vidí on“ přesnost nezlepšila a někdy ji dokonce zhoršila, protože posílila spoléhání na vlastní stereotypy. Účinné bylo teprve perspective getting — skutečně se druhého zeptat a poslechnout si odpověď. Poučení je nepříjemné: dobrý úmysl vcítit se nenahradí informaci.",
+  "source": "Eyal, Steffel a Epley (JPSP, 2018)",
+  "seedElo": 1660
+ },
+ {
+  "id": "tom-B10",
+  "type": "F",
+  "category": "theory-of-mind",
+  "text": "Měření empatické přesnosti metodou Williama Ickese u cizích lidí při prvním setkání dává výsledek:",
+  "options": [
+   "kolem devadesáti procent správně odhadnutých myšlenek",
+   "kolem dvaceti procent správně odhadnutých myšlenek",
+   "přesně na úrovni náhody, tedy nulovou úspěšnost",
+   "vyšší u mužů než u žen zhruba o polovinu případů"
+  ],
+  "correct": 1,
+  "explanation": "V Ickesově metodě dvojice po nahrané konverzaci zapisuje své myšlenky a pak hádá myšlenky partnera; cizí lidé trefí kolem dvaceti procent, blízcí přátelé a partneři zhruba třicet až pětatřicet. Je to tedy zřetelně lepší než náhoda, ale hluboko pod naší sebedůvěrou. Ženy skórují mírně lépe hlavně tehdy, když je jim úloha rámována jako test empatie.",
+  "source": "William Ickes: Everyday Mind Reading (2003)",
+  "seedElo": 1680
  },
  {
   "id": "tom-14",
@@ -224,6 +512,134 @@
   "seedElo": 1690
  },
  {
+  "id": "tom-A05",
+  "type": "F",
+  "category": "theory-of-mind",
+  "text": "Na škále úloh teorie mysli (Wellman a Liu) zvládají anglicky mluvící děti nejpozději:",
+  "options": [
+   "různá přání dvou lidí, kteří si vybírají mezi dvěma svačinami",
+   "různá přesvědčení dvou lidí o tom, kde je schovaná kočka",
+   "přístup ke znalosti — kdo se do krabice díval a kdo ne",
+   "skrytou emoci — dítě je smutné, ale tváří se vesele"
+  ],
+  "correct": 3,
+  "explanation": "Škála má pět kroků v ustáleném pořadí: různá přání, různá přesvědčení, přístup ke znalosti, nepravdivé přesvědčení a nakonec rozdíl mezi skutečnou a předváděnou emocí. Právě poslední krok, skrytá emoce, přichází nejpozději a bývá zvládnut až po úspěchu v klasické úloze s nepravdivým přesvědčením.",
+  "source": "Wellman & Liu, Scaling of theory-of-mind tasks, Child Development 75 (2004)",
+  "seedElo": 1700
+ },
+ {
+  "id": "tom-A07",
+  "type": "K",
+  "category": "theory-of-mind",
+  "text": "Vztah exekutivních funkcí a řešení úloh s nepravdivým přesvědčením nejlépe vystihuje:",
+  "options": [
+   "výkon v inhibičních úlohách předpovídá pozdější úspěch v ToM",
+   "obě schopnosti spolu vůbec nesouvisejí, měří oddělené systémy",
+   "úspěch v ToM v batolecím věku předpovídá pozdější inhibici",
+   "souvislost mizí, jakmile se kontroluje věk a slovní zásoba"
+  ],
+  "correct": 0,
+  "explanation": "Longitudinální data ukazují asymetrii: raná inhibiční kontrola předpovídá pozdější teorii mysli silněji než naopak, a to i po kontrole věku a jazyka. Spor se vede o výklad — buď exekutivní funkce jen umožňují projev už existujícího chápání, nebo jsou podmínkou jeho vzniku.",
+  "source": "Carlson & Moses (2001), Child Development; Devine & Hughes (2014), metaanalýza",
+  "seedElo": 1700
+ },
+ {
+  "id": "tom-A12",
+  "type": "K",
+  "category": "theory-of-mind",
+  "text": "Co z rodinné komunikace nejspolehlivěji předpovídá pozdější výkon dítěte v úlohách teorie mysli?",
+  "options": [
+   "celkový počet slov, který matka na dítě denně vyprodukuje",
+   "množství pokynů a příkazů, které dítě od rodičů dostává",
+   "to, jak často se doma mluví o pocitech a důvodech jednání",
+   "kolik času dítě stráví předčítáním obrázkových knih s otcem"
+  ],
+  "correct": 2,
+  "explanation": "Nejsilnějším prediktorem je „mental-state talk“, zvlášť rozhovory, které pocity nejen pojmenovávají, ale i vysvětlují jejich příčiny. Efekt drží i po kontrole celkové jazykové úrovně dítěte. Samotné množství řeči nebo direktivní styl komunikace pozdější teorii mysli nepředpovídají.",
+  "source": "Dunn et al. (1991), Child Development; Ruffman, Slade & Crowe (2002), Child Development",
+  "seedElo": 1700
+ },
+ {
+  "id": "tom-A32",
+  "type": "K",
+  "category": "theory-of-mind",
+  "text": "Hypotéza hyperaktivní detekce činitele (HADD) tvrdí, že:",
+  "options": [
+   "lidé detekují činitele pouze tehdy, když je jim to nějak výhodné",
+   "detekce činitele se rozvíjí až s osvojením mateřského jazyka",
+   "je adaptivnější mít časté falešné poplachy než přehlédnout dravce",
+   "náboženská víra je nutným důsledkem správně fungující detekce hrozeb"
+  ],
+  "correct": 2,
+  "explanation": "Cena chyb je asymetrická: falešný poplach stojí trochu energie, přehlédnutý predátor život. Z toho se odvozuje evolučně vyladěný sklon vidět za nejasnými jevy záměrného činitele. Barrett a Guthrie ho používají jako jeden ze stavebních kamenů kognitivní vědy náboženství, ne jako úplné vysvětlení víry.",
+  "source": "Guthrie, Faces in the Clouds (1993); Barrett, Exploring the natural foundations of religion (2000)",
+  "seedElo": 1700
+ },
+ {
+  "id": "tom-A37",
+  "type": "F",
+  "category": "theory-of-mind",
+  "text": "Sojky křovinné (Aphelocoma californica) po skrytí potravy před divákem:",
+  "options": [
+   "potravu zásadně nepřemisťují, aby ji náhodou nevyhrabaly jinde",
+   "vždy ji přemístí, bez ohledu na to, zda je někdo pozoroval",
+   "zavolají na diváka a společně potravu snědí ještě týž den",
+   "ji později v soukromí často přeskrývají na jiné, nové místo"
+  ],
+  "correct": 3,
+  "explanation": "Přeskrývání nastává selektivně: jen po ukládání v přítomnosti konkurenta, a provádí se až o samotě. Autoři to vykládají jako ochranu zásob před konkrétním svědkem. Skeptičtější výklad připouští jednodušší mechanismy, například zvýšené vzrušení nebo znejistění paměťové stopy v přítomnosti druhého ptáka.",
+  "source": "Emery & Clayton, Effects of experience and social context on prospective caching, Nature 414 (2001)",
+  "seedElo": 1700
+ },
+ {
+  "id": "tom-B11",
+  "type": "F",
+  "category": "theory-of-mind",
+  "text": "Naivní realismus podle Lee Rosse zahrnuje kromě přesvědčení o vlastní nezaujatosti také očekávání, že:",
+  "options": [
+   "druzí vidí svět zkresleně, ale poctivě se snaží o pravdu",
+   "vlastní pohled je jen jednou z mnoha rovnocenných verzí",
+   "spor lze vyřešit tím, že obě strany ustoupí na půl cesty",
+   "rozumní lidé po seznámení s fakty dojdou ke stejnému názoru"
+  ],
+  "correct": 3,
+  "explanation": "Naivní realista považuje svůj obraz světa za prostý otisk skutečnosti, a proto očekává souhlas každého, kdo je rozumný a informovaný. Když souhlas nepřijde, vysvětlí si nesouhlas neznalostí, leností nebo zaujatostí druhé strany. Tento krok je jádrem eskalace politických i osobních sporů.",
+  "source": "Ross a Ward: Naive Realism in Everyday Life (1996)",
+  "seedElo": 1700
+ },
+ {
+  "id": "tom-B12",
+  "type": "F",
+  "category": "theory-of-mind",
+  "text": "Gray a Wegner našli v datech o připisování mysli dvě hlavní dimenze, a to:",
+  "options": [
+   "rozumové schopnosti a mravní zodpovědnost za vlastní činy",
+   "vědomí sebe sama a schopnost dorozumět se jazykem",
+   "schopnost jednat a schopnost prožívat pocity a vjemy",
+   "vnímání okolí a paměť na vlastní minulé prožitky"
+  ],
+  "correct": 2,
+  "explanation": "V rozsáhlém dotazování lidé hodnotili různé bytosti a rozměry se rozpadly na agency (plánování, sebeovládání, mravní odpovědnost) a experience (bolest, hlad, strach, radost). Dospělý člověk skóruje vysoko v obojím, robot vysoko jen v agency, novorozenec nebo zvíře hlavně v experience. Rozdělení má mravní důsledky: agency zakládá vinu, experience nárok na ochranu.",
+  "source": "Gray, Gray a Wegner: Dimensions of Mind Perception (Science, 2007)",
+  "seedElo": 1700
+ },
+ {
+  "id": "tom-B19",
+  "type": "K",
+  "category": "theory-of-mind",
+  "text": "V jednorázové ultimátní hře o 100 korun nabídne navrhovatel 20 korun. Jak se zachová druhý hráč v typickém laboratorním výsledku?",
+  "options": [
+   "Přijme vždy, protože něco je lepší než nic.",
+   "Často nabídku odmítne a oba nedostanou nic.",
+   "Nabídku přijme a příště nabídne stejně málo.",
+   "Odmítne jen tehdy, pokud hru hraje opakovaně."
+  ],
+  "correct": 1,
+  "explanation": "Nabídky pod zhruba pětinou částky bývají odmítány v polovině i více případů, ačkoli odmítnutí znamená nulu místo dvaceti. Chování dává smysl, pokud hráč modeluje záměr protihráče: trestá vnímanou nespravedlnost, ne částku. Odmítání mizí, když je nabídka generována losem nebo počítačem — tedy když za ní není žádná mysl.",
+  "source": "Güth, Schmittberger a Schwarze (1982); Sanfey a spol. (Science, 2003)",
+  "seedElo": 1700
+ },
+ {
   "id": "tom-15",
   "type": "K",
   "category": "theory-of-mind",
@@ -240,6 +656,54 @@
   "seedElo": 1720
  },
  {
+  "id": "tom-B13",
+  "type": "F",
+  "category": "theory-of-mind",
+  "text": "Haslamovo rozlišení mechanistické a animalistické dehumanizace stojí na tom, že:",
+  "options": [
+   "první se týká skupin, druhá jednotlivců uvnitř skupiny",
+   "první upírá lidskou přirozenost, druhá to, co je jen lidské",
+   "první je vědomá a záměrná, druhá probíhá zcela bezděčně",
+   "první se týká nepřátel ve válce, druhá cizinců v míru"
+  ],
+  "correct": 1,
+  "explanation": "Mechanistická dehumanizace upírá druhému lidskou přirozenost — vřelost, citovost, hloubku — a dělá z něj automat; typická je pro medicínu, byrokracii a odosobněné vztahy. Animalistická upírá to, co je pro člověka jedinečné — kultivovanost, mravní cit, vyšší rozum — a přibližuje druhého ke zvířeti; typická je pro rasismus a válečnou propagandu. Obě mohou probíhat i mírně a bezděčně.",
+  "source": "Nick Haslam: Dehumanization — An Integrative Review (2006)",
+  "seedElo": 1720
+ },
+ {
+  "id": "tom-B14",
+  "type": "F",
+  "category": "theory-of-mind",
+  "text": "Vztah mezi vývojem teorie mysli a dětským lhaním je podle výzkumů takový, že:",
+  "options": [
+   "lepší mentalizace předpovídá schopnost lež souvisle udržet",
+   "děti se schopnou mentalizací lžou méně, protože chápou újmu",
+   "lhaní se objevuje dřív než jakékoli mentalizační schopnosti",
+   "obě schopnosti spolu nesouvisejí, jde o oddělené okruhy"
+  ],
+  "correct": 0,
+  "explanation": "V úlohách typu „nedívej se na hračku“ lžou i velmi malé děti, ale okamžitě se prozradí následnou otázkou. Teprve s lepší mentalizací (a s exekutivními funkcemi) přichází semantic leakage control — schopnost udržet lež konzistentní s tím, co druhý může vědět. Lhaní tedy není známkou mravního selhání, ale vývojovým milníkem sociální kognice.",
+  "source": "Talwar a Lee (Child Development, 2008)",
+  "seedElo": 1730
+ },
+ {
+  "id": "tom-B15",
+  "type": "F",
+  "category": "theory-of-mind",
+  "text": "Spolehlivým testem presupozice oproti konverzační implikatuře je to, že presupozice:",
+  "options": [
+   "se dá zrušit dodatkem, aniž ve větě vznikne nějaký rozpor",
+   "vzniká teprve z porušení pravidla o množství sděleného obsahu",
+   "přežije i tehdy, když celou větu popřeme či zpochybníme",
+   "závisí na tom, jak silně mluvčí své tvrzení zdůrazní"
+  ],
+  "correct": 2,
+  "explanation": "Věta „Petr přestal kouřit“ i její negace „Petr nepřestal kouřit“ shodně předpokládají, že Petr dřív kouřil — presupozice přežívá negaci i otázku. Implikatura se naproti tomu dá bez rozporu zrušit: „Někteří přišli, vlastně všichni.“ Tato dvojice testů, projekce a zrušitelnost, je základní pragmatické nářadí.",
+  "source": "Standardní pragmatika: Stalnaker o presupozici, Grice o zrušitelnosti",
+  "seedElo": 1740
+ },
+ {
   "id": "tom-16",
   "type": "K",
   "category": "theory-of-mind",
@@ -253,6 +717,134 @@
   "correct": 1,
   "explanation": "Zatímco falešné přesvědčení prvního řádu (\"on si myslí, že...\") zvládá většina dětí kolem čtyř let, rekurzivní mentalizace druhého řádu (\"on si myslí, že ona si myslí...\") vyžaduje vyšší kognitivní kapacitu a objevuje se typicky až kolem šesti až sedmi let věku, souběžně se zráním výkonných funkcí.",
   "source": "Perner, J., Wimmer, H.: John thinks that Mary thinks that…, 1985",
+  "seedElo": 1750
+ },
+ {
+  "id": "tom-A10",
+  "type": "F",
+  "category": "theory-of-mind",
+  "text": "Neslyšící děti slyšících rodičů, kteří se znakovat teprve učí, řeší úlohy s nepravdivým přesvědčením:",
+  "options": [
+   "stejně jako slyšící vrstevníci, jazyk zde nehraje roli",
+   "lépe než neslyšící děti neslyšících rodičů, kvůli cvičení",
+   "hůř jen u verbálních verzí úlohy, u neverbálních zcela normálně",
+   "s výrazným zpožděním, často až o několik let oproti normě"
+  ],
+  "correct": 3,
+  "explanation": "Rozhodující není hluchota, ale pozdní přístup k plnému jazyku. Neslyšící děti neslyšících rodičů, které znakují od narození, dosahují běžných výsledků, kdežto „late signers“ zaostávají o roky, a to i v neverbálních variantách úlohy. Přirozeným vysvětlením je chybějící každodenní konverzace o tom, co si kdo myslí.",
+  "source": "Peterson & Siegal (1995); Schick, de Villiers, de Villiers & Hoffmeister (2007), Child Development",
+  "seedElo": 1750
+ },
+ {
+  "id": "tom-A16",
+  "type": "K",
+  "category": "theory-of-mind",
+  "text": "Rozpoznání faux pas vyžaduje oproti běžné úloze s nepravdivým přesvědčením navíc:",
+  "options": [
+   "jen rychlejší reakci pod časovým tlakem, obsah je stejný",
+   "schopnost vybavit si přesné znění výroku ve správném pořadí",
+   "spojit neznalost mluvčího s dopadem jeho slov na posluchače",
+   "rozlišit mezi vtipem a lží, kterou mluvčí pronesl záměrně"
+  ],
+  "correct": 2,
+  "explanation": "Faux pas nastane, když někdo řekne něco, co říkat neměl, aniž tuší, že to říkat neměl. Test proto vyžaduje současně kognitivní složku (mluvčí danou věc neví) a afektivní (posluchač je zasažen). Zvládá se kolem devátého až jedenáctého roku a je citlivý na poškození orbitofrontální kůry.",
+  "source": "Stone, Baron-Cohen & Knight, Frontal lobe contributions to theory of mind, JOCN 10 (1998)",
+  "seedElo": 1750
+ },
+ {
+  "id": "tom-A17",
+  "type": "F",
+  "category": "theory-of-mind",
+  "text": "Test Reading the Mind in the Eyes vyžaduje po respondentovi, aby:",
+  "options": [
+   "u fotografie celé tváře určil, jakou emoci člověk prožívá",
+   "podle popisu situace odhadl, jak se hrdina příběhu zachová",
+   "u krátkého videa řekl, co si jedna postava myslí o druhé",
+   "z výřezu očí vybral ze čtyř slov to, které stav nejlépe vystihuje"
+  ],
+  "correct": 3,
+  "explanation": "Revidovaná verze obsahuje 36 černobílých výřezů oblasti kolem očí a ke každému čtyři nabídnutá slova pro duševní stav. Baron-Cohen ho zaváděl jako test „pokročilé“ teorie mysli u dospělých s normálním intelektem. Fakticky měří spíš rozpoznání komplexních stavů z výrazu než připisování přesvědčení.",
+  "source": "Baron-Cohen, Wheelwright, Hill, Raste & Plumb (2001), J. Child Psychol. Psychiatry 42",
+  "seedElo": 1750
+ },
+ {
+  "id": "tom-A26",
+  "type": "K",
+  "category": "theory-of-mind",
+  "text": "Který nález naopak podporuje spíše „teorii teorie“?",
+  "options": [
+   "vývoj probíhá v uspořádaných krocích a děti své předpovědi mění",
+   "lidé odhadují druhé rychleji tehdy, když jsou jim sami podobní",
+   "empatická bolest aktivuje část okruhu pro vlastní bolest",
+   "u dospělých se objevuje efekt anticipačního pohledu na cíl"
+  ],
+  "correct": 0,
+  "explanation": "Gopniková a Wellman popisují dítě jako malého vědce: prochází sledem konceptuálních změn s typickými chybami a své „teorie“ opravuje pod tlakem dat. Silným doplňkem je tvrzení, že stejnou nepřímou cestou čteme i vlastní mysl — proto si tříleté děti nepamatují, co si před chvílí samy mylně myslely.",
+  "source": "Gopnik & Wellman (1992), Mind & Language; Gopnik (1993), Behavioral and Brain Sciences",
+  "seedElo": 1750
+ },
+ {
+  "id": "tom-A28",
+  "type": "F",
+  "category": "theory-of-mind",
+  "text": "V habituačním pokusu Gergelyho a Csibry se dvanáctiměsíční kojenci divili, když kruh po odstranění překážky:",
+  "options": [
+   "změnil barvu, přestože se pohyboval po naprosto stejné dráze",
+   "skočil obloukem, ačkoli mohl k cíli letět přímou dráhou",
+   "letěl přímo k cíli, ačkoli to bylo delší než dřívější oblouk",
+   "zastavil se uprostřed a nedosáhl svého původního cílového bodu"
+  ],
+  "correct": 1,
+  "explanation": "Kojenci nesledovali doslovnou podobu pohybu, ale jeho účelnost: nový přímý let byl fyzicky nový, ale racionální, kdežto zbytečný oblouk bez překážky byl známý, a přesto překvapivý. Autoři to nazvali teleologickým postojem — hodnocením prostředků vůči cíli za daných omezení, bez připisování přesvědčení.",
+  "source": "Gergely, Nádasdy, Csibra & Bíró, Taking the intentional stance at 12 months, Cognition 56 (1995)",
+  "seedElo": 1750
+ },
+ {
+  "id": "tom-B16",
+  "type": "F",
+  "category": "theory-of-mind",
+  "text": "Deiktické výrazy jako „zítra“, „tady“ nebo „ty“ se vyznačují tím, že:",
+  "options": [
+   "mají v každém jazyce zcela shodný okruh významů",
+   "nelze je použít, pokud mluvčí a posluchač nejsou spolu",
+   "označují vždy tutéž věc bez ohledu na situaci užití",
+   "jejich odkaz se mění s tím, kdo, kdy a kde je pronáší"
+  ],
+  "correct": 3,
+  "explanation": "Deixe kotví jazyk do situace: význam slova zůstává stálý, ale odkaz se počítá až od mluvčího, místa a času promluvy. Vzkaz „Vrátím se za hodinu“ na dveřích je proto k ničemu — chybí kotva. Porozumění deixi vyžaduje modelovat pozici druhého, což z ní dělá pragmatický jev úzce svázaný s mentalizací.",
+  "source": "Karl Bühler (Sprachtheorie, 1934); Levinson: Pragmatics (1983)",
+  "seedElo": 1750
+ },
+ {
+  "id": "tom-B18",
+  "type": "F",
+  "category": "theory-of-mind",
+  "text": "Tomasello považuje za klíčovou lidskou zvláštnost sdílenou intencionalitu, tedy schopnost:",
+  "options": [
+   "odhadnout, co druhý zamýšlí, a využít to ve svůj prospěch",
+   "napodobit cizí pohyb do nejmenšího detailu bez nácviku",
+   "mít s druhým společný cíl i společnou pozornost k němu",
+   "předat potomkům nasbírané dovednosti pomocí řeči a písma"
+  ],
+  "correct": 2,
+  "explanation": "Sdílená intencionalita není jen čtení cizích záměrů, ale vytvoření společného „my“ s dělbou rolí a vzájemným závazkem k cíli. Z ní podle Tomasella vyrůstá kooperativní komunikace, kumulativní kultura i normy. Číst záměry a využít je proti druhému umí i jiné druhy; udržet společný záměr je lidská specialita.",
+  "source": "Tomasello: Origins of Human Communication (2008)",
+  "seedElo": 1750
+ },
+ {
+  "id": "tom-B20",
+  "type": "F",
+  "category": "theory-of-mind",
+  "text": "Dunbarova hypotéza o roli klevet v lidských skupinách tvrdí, že klevety:",
+  "options": [
+   "slouží hlavně k zábavě a nemají žádnou další funkci",
+   "vznikly až s písmem, které umožnilo drby uchovávat",
+   "jsou vedlejším produktem řeči bez vlivu na chování",
+   "nahrazují vzájemné probírání srsti a hlídají reputaci"
+  ],
+  "correct": 3,
+  "explanation": "Podle Dunbara umožnila řeč udržovat pouta ve větších skupinách levněji než fyzické probírání srsti u primátů — a zároveň šířit informaci o tom, kdo je spolehlivý. Reputace tak funguje jako mechanismus nepřímé reciprocity: vyplatí se spolupracovat, protože se o tom mluví. Analýzy běžných rozhovorů skutečně ukazují převahu témat o sociálních vztazích.",
+  "source": "Robin Dunbar: Grooming, Gossip and the Evolution of Language (1996)",
   "seedElo": 1750
  },
  {
@@ -272,6 +864,118 @@
   "seedElo": 1780
  },
  {
+  "id": "tom-A09",
+  "type": "F",
+  "category": "theory-of-mind",
+  "text": "Podle Jill a Petera de Villiersových je pro pochopení nepravdivého přesvědčení klíčové zvládnutí:",
+  "options": [
+   "vedlejších vět po slovesech říct a myslet, které mohou být nepravdivé",
+   "pasivních konstrukcí, jež oddělují původce děje od příjemce",
+   "časových souvětí typu „než“ a „poté, co“ s obrácenou událostí",
+   "zájmenných odkazů, které vyžadují sledování mluvčího a adresáta"
+  ],
+  "correct": 0,
+  "explanation": "Komplementové věty jako „Máma řekla, že prší“ mají zvláštní vlastnost: vnořená věta může být nepravdivá, aniž je nepravdivá věta hlavní. To je přesně formát, který potřebuje reprezentace cizího omylu. Trénink komplementů zlepšuje výkon v úlohách s nepravdivým přesvědčením; kritici namítají, že jde spíš o obecnou jazykovou vyspělost.",
+  "source": "de Villiers & Pyers, Complements to cognition, Cognitive Development 17 (2002)",
+  "seedElo": 1800
+ },
+ {
+  "id": "tom-A13",
+  "type": "F",
+  "category": "theory-of-mind",
+  "text": "Studie Onishiové a Baillargeonové (2005) s patnáctiměsíčními kojenci je významná tím, že:",
+  "options": [
+   "poprvé ukázala, že batolata umí verbálně předpovědět jednání",
+   "prokázala, že kojenci sledují pohled dospělého už od narození",
+   "ukázala neúspěch kojenců ve všech variantách skryté úlohy",
+   "naznačila citlivost k nepravdivému přesvědčení dávno před 4 lety"
+  ],
+  "correct": 3,
+  "explanation": "Doba pohledu naznačovala, že kojenci očekávají hledání podle přesvědčení herce, nikoli podle skutečnosti. Studie odstartovala debatu o implicitní teorii mysli a o rozporu s pozdním zvládnutím explicitních úloh. Novější velké replikační projekty, včetně ManyBabies2, přinesly ovšem nekonzistentní výsledky.",
+  "source": "Onishi & Baillargeon, Do 15-month-old infants understand false beliefs?, Science 308 (2005)",
+  "seedElo": 1800
+ },
+ {
+  "id": "tom-A19",
+  "type": "F",
+  "category": "theory-of-mind",
+  "text": "Za nejselektivnější uzel mentalizační sítě pro obsah přesvědčení se považuje:",
+  "options": [
+   "přední ostrovní lalok, aktivní zejména při prožitku znechucení",
+   "hipokampus, který zajišťuje vybavení epizodických vzpomínek",
+   "pravý temporoparietální spoj, aktivní při čtení o přesvědčeních",
+   "primární motorická kůra, jež reaguje na pozorované pohyby ruky"
+  ],
+  "correct": 2,
+  "explanation": "Saxeová a Kanwisherová ukázaly, že pravý temporoparietální spoj reaguje silněji na příběhy o tom, co si někdo myslí, než na příběhy o vzhledu, tělesných stavech nebo o zastaralých fotografiích. Spor pokračuje o to, nakolik jde o doménově specifickou funkci a nakolik o obecné přesměrování pozornosti.",
+  "source": "Saxe & Kanwisher, People thinking about thinking people, NeuroImage 19 (2003)",
+  "seedElo": 1800
+ },
+ {
+  "id": "tom-A25",
+  "type": "K",
+  "category": "theory-of-mind",
+  "text": "Který nález se obvykle uvádí ve prospěch simulační teorie mentalizace?",
+  "options": [
+   "děti zvládají úlohy v pevném pořadí, jako by revidovaly teorii",
+   "vlastní aktuální stav zkresluje odhad stavu druhého člověka",
+   "slepě narozené děti chápou přesvědčení stejně jako vidoucí",
+   "poškození TPJ selektivně narušuje úsudky o přesvědčeních"
+  ],
+  "correct": 1,
+  "explanation": "Sytý člověk podceňuje hlad druhého, klidný podceňuje jeho strach. Takové egocentrické zkreslení dává smysl, pokud model druhého bereme ze sebe a jen nedokonale ho korigujeme. Goldman k tomu přidává sdílené neurální okruhy pro vlastní prožitek a rozpoznání téhož stavu u druhých, například u znechucení.",
+  "source": "Goldman, Simulating Minds (2006)",
+  "seedElo": 1800
+ },
+ {
+  "id": "tom-A42",
+  "type": "F",
+  "category": "theory-of-mind",
+  "text": "Hypotéza sociálního mozku se původně opírala hlavně o zjištění, že u primátů:",
+  "options": [
+   "velikost mozečku roste s množstvím vertikálního pohybu v korunách",
+   "celková hmotnost mozku roste přímo úměrně s hmotností těla druhu",
+   "poměr neokortexu k mozku koreluje s typickou velikostí skupiny",
+   "délka dětství koreluje s množstvím listů v jídelníčku daného druhu"
+  ],
+  "correct": 2,
+  "explanation": "Dunbar ukázal napříč primáty korelaci mezi neokortexovým poměrem a průměrnou velikostí sociální skupiny a extrapolací pro člověka došel ke známému odhadu. Konkurenční ekologická vysvětlení — velikost domovského okrsku, kvalita stravy, délka života — přitom vysvětlují stejná data srovnatelně dobře.",
+  "source": "Dunbar, Neocortex size as a constraint on group size, J. Human Evolution 22 (1992)",
+  "seedElo": 1800
+ },
+ {
+  "id": "tom-B21",
+  "type": "K",
+  "category": "theory-of-mind",
+  "text": "Ve hře „hádej dvě třetiny průměru všech tipů“ v rozsahu 0 až 100 volí běžný vzorek účastníků čísla kolem 20 až 35. Co to ukazuje?",
+  "options": [
+   "Že hráči hrají rovnovážnou strategii teorie her.",
+   "Že hráči čísla volí zcela náhodně bez uvažování.",
+   "Že hráči uvažují jen jeden dva kroky za ostatní.",
+   "Že hráči nerozumějí zadání a počítají průměr špatně."
+  ],
+  "correct": 2,
+  "explanation": "Nashova rovnováha této hry je nula, což vyžaduje nekonečné iterování „on ví, že já vím…“. Reálné tipy odpovídají jedné až dvěma iteracím od náhodného průměru 50 (tedy 33 a 22). Modely kognitivní hierarchie odtud odhadují průměrnou hloubku mentalizace v populaci zhruba na úroveň 1,5.",
+  "source": "Nagel (AER, 1995); Camerer, Ho a Chong (QJE, 2004)",
+  "seedElo": 1800
+ },
+ {
+  "id": "tom-B22",
+  "type": "F",
+  "category": "theory-of-mind",
+  "text": "Csibra a Gergely tvrdí, že ostenzivní signály jako oční kontakt a oslovení dítěti sdělují, že:",
+  "options": [
+   "dospělý po něm chce, aby přesně zopakovalo jeho pohyb",
+   "další sdělení platí obecně, ne jen pro danou situaci",
+   "dospělý se chystá odejít a předává mu poslední pokyn",
+   "dítě má sledovat předmět, nikoli tvář dospělého u něj"
+  ],
+  "correct": 1,
+  "explanation": "Přirozená pedagogika předpokládá, že ostenzivní signály zapínají u dítěte režim učení: to, co teď uvidím, je obecně platná vlastnost daného druhu věcí, ne nahodilost této chvíle. Pokusy ukazují, že děti po ostenzivním úvodu generalizují vlastnost na jiné exempláře a k jiným lidem, kdežto bez něj ji berou jako místní. Teorie je vlivná, ale některé její predikce se v replikacích ukázaly jako křehčí, než se čekalo.",
+  "source": "Csibra a Gergely: Natural Pedagogy (TiCS, 2009)",
+  "seedElo": 1800
+ },
+ {
   "id": "tom-18",
   "type": "K",
   "category": "theory-of-mind",
@@ -286,6 +990,38 @@
   "explanation": "Následné studie a kritické rozbory ukázaly, že mírné úpravy zadání — jiná jména, přidané irelevantní věty, mírně jiná struktura úlohy — dokážou úspěšnost modelů výrazně srazit, zatímco lidé v takových variacích zůstávají stabilní. To je silný argument pro to, že model může spoléhat na naučené povrchové vzorce z tréninkových dat, ne na obecný mechanismus usuzování o mentálních stavech.",
   "source": "Ullman, T.: Large language models fail on trivial alterations to theory-of-mind tasks, 2023",
   "seedElo": 1810
+ },
+ {
+  "id": "tom-B23",
+  "type": "F",
+  "category": "theory-of-mind",
+  "text": "Současný stav bádání o zrcadlových neuronech ve vztahu k empatii lze shrnout tak, že:",
+  "options": [
+   "náznaky u člověka jsou, ale výklad empatie jimi je sporný",
+   "u člověka byly změřeny jednotlivě a empatii spolehlivě vysvětlují",
+   "byly nalezeny jen u opic a u člověka je jejich existence vyvrácena",
+   "jejich role byla potvrzena, ale jen u rozpoznávání cizí bolesti"
+  ],
+  "correct": 0,
+  "explanation": "U makaků jde o měření jednotlivých buněk, u člověka jsou důkazy převážně nepřímé (fMRI, adaptace), s výjimkou vzácných záznamů u epileptických pacientů. Kritika Gregoryho Hickoka ukázala, že zrcadlení neumí vysvětlit ani porozumění jednání, natož empatii, a že pozorovaná aktivita může být důsledkem porozumění, ne jeho příčinou. Populární rovnice „zrcadlové neurony rovná se empatie“ je proto silně přepálená.",
+  "source": "Hickok: The Myth of Mirror Neurons (2014); Mukamel a spol. (2010)",
+  "seedElo": 1820
+ },
+ {
+  "id": "tom-B24",
+  "type": "F",
+  "category": "theory-of-mind",
+  "text": "Nález Kidda a Castana, že čtení literární beletrie zlepšuje čtení mysli, dopadl v pozdějším ověřování takto:",
+  "options": [
+   "byl potvrzen ve všech pokusech o přímé zopakování studie",
+   "byl potvrzen, ale jen u čtenářů starších šedesáti let",
+   "nebyl ověřován, studie zůstala dodnes bez následovníků",
+   "velké replikace efekt nenašly nebo našly jen nepatrný"
+  ],
+  "correct": 3,
+  "explanation": "Původní studie z roku 2013 tvrdila, že krátké čtení literární prózy zlepší výkon v testu čtení emocí z očí. Rozsáhlé replikace (Panero a spol. 2016 s tisícovkou účastníků) efekt nenašly a metaanalýzy hovoří nanejvýš o velmi malém vlivu. Co zůstává, je korelace mezi celoživotní expozicí beletrii a sociální kognicí — směr příčiny je ale neznámý.",
+  "source": "Kidd a Castano (Science, 2013); Panero a spol. (JPSP, 2016)",
+  "seedElo": 1830
  },
  {
   "id": "tom-19",
@@ -304,6 +1040,150 @@
   "seedElo": 1840
  },
  {
+  "id": "tom-A06",
+  "type": "K",
+  "category": "theory-of-mind",
+  "text": "U čínských a íránských dětí se pořadí kroků na škále úloh teorie mysli liší tak, že:",
+  "options": [
+   "skrytou emoci zvládají dříve než nepravdivé přesvědčení",
+   "přístup ke znalosti zvládají dříve než různá přesvědčení",
+   "různá přání zvládají až po nepravdivém přesvědčení",
+   "celé pořadí kroků je oproti západním dětem obrácené"
+  ],
+  "correct": 1,
+  "explanation": "V Číně a Íránu se prohazují prostřední dva kroky: děti dříve chápou, kdo má k informaci přístup, než že lidé mohou mít odlišné názory. Vysvětluje se to kulturním důrazem na vědění a shodu spíše než na individuální mínění. Krajní kroky škály zůstávají stejné, takže nejde o obrácení celého vývoje.",
+  "source": "Wellman et al. (2006), Psychological Science; Shahaeian et al. (2011), Developmental Psychology",
+  "seedElo": 1850
+ },
+ {
+  "id": "tom-A20",
+  "type": "F",
+  "category": "theory-of-mind",
+  "text": "Mediální prefrontální kortex bývá v mentalizačních úlohách spojován spíše s:",
+  "options": [
+   "trvalejšími rysy a hodnotami osob, včetně reflexe sebe sama",
+   "rychlým rozpoznáním tváře konkrétního známého jedince",
+   "výpočtem přesné polohy předmětu ve zorném poli druhého",
+   "detekcí biologického pohybu v bodovém světelném displeji chodce"
+  ],
+  "correct": 0,
+  "explanation": "Dorzální mediální prefrontální kůra se zapojuje při uvažování o povaze, dispozicích a hodnotách lidí i při přemýšlení o sobě; ventrální část spíš při úsudcích o někom podobném nám. Na rozdíl od temporoparietálního spoje není vázána na konkrétní obsah přesvědčení, ale na osobu jako takovou.",
+  "source": "Mitchell, Macrae & Banaji (2006), Neuron; Van Overwalle (2009), metaanalýza",
+  "seedElo": 1850
+ },
+ {
+  "id": "tom-A22",
+  "type": "F",
+  "category": "theory-of-mind",
+  "text": "Přímé záznamy z jednotlivých neuronů u člověka (Mukamel a spol., 2010) ukázaly:",
+  "options": [
+   "hustou populaci zrcadlových buněk přímo v Brocově oblasti",
+   "buňky s vlastnostmi zrcadlení mimo jiné v mediálním čelním laloku",
+   "že u člověka žádné buňky reagující na pozorování cizí akce neexistují",
+   "zrcadlení pouze u pacientů s epilepsií, u zdravých nikoliv"
+  ],
+  "correct": 1,
+  "explanation": "Měření u epileptických pacientů s implantovanými elektrodami skutečně našlo neurony reagující na provedení i na pozorování téže akce. Byly však hlavně v doplňkové motorické oblasti a v mediálním temporálním laloku, ne v klasické „zrcadlové“ oblasti odpovídající opičí F5. Část buněk navíc reagovala opačně, tedy tlumením.",
+  "source": "Mukamel, Ekstrom, Iacoboni & Fried, Single-neuron responses…, Current Biology 20 (2010)",
+  "seedElo": 1850
+ },
+ {
+  "id": "tom-A29",
+  "type": "F",
+  "category": "theory-of-mind",
+  "text": "Teorie přirozené pedagogiky (Csibra a Gergely) tvrdí, že ostenzivní signály:",
+  "options": [
+   "slouží hlavně k tomu, aby dítě přestalo plakat a nakonec se uklidnilo",
+   "jsou zvládnuty až kolem třetího roku, dříve dítě nereagovalo",
+   "signalizují, že sdělovaný obsah platí obecně, nejen tady a teď",
+   "fungují pouze u matky, protože jde o naučenou vazbu na hlas"
+  ],
+  "correct": 2,
+  "explanation": "Oční kontakt, oslovení jménem a zvláštní zpěvavá intonace fungují jako značka: teď ti předávám něco, co platí i jindy a jinde. Tím se vysvětluje, proč děti po ostenzivním úvodu zobecňují a proč napodobují i zjevně zbytečné kroky. Některé dílčí efekty se ovšem replikují nespolehlivě.",
+  "source": "Csibra & Gergely, Natural pedagogy, Trends in Cognitive Sciences 13 (2009)",
+  "seedElo": 1850
+ },
+ {
+  "id": "tom-A34",
+  "type": "K",
+  "category": "theory-of-mind",
+  "text": "Dvousystémový model mentalizace (Apperly a Butterfill) předpokládá, že:",
+  "options": [
+   "rychlý systém je úsporný, ale jeho dosah je principiálně omezený",
+   "oba systémy pracují stejně pomalu, liší se jen mírou přesnosti",
+   "rychlý systém zvládá i vnořená druhořádová přesvědčení zcela bez chyb",
+   "pomalý systém se objevuje v prvním roce, rychlý až ve škole"
+  ],
+  "correct": 0,
+  "explanation": "Model má vysvětlit rozpor mezi ranými implicitními výkony a pozdním explicitním zvládnutím. Jeden systém je rychlý, automatický a nepružný, kupuje si rychlost za zúžený rozsah; druhý je pomalý, flexibilní a podepřený jazykem. Užitečné na něm je, že předpovídá, kde přesně má rychlý systém selhat.",
+  "source": "Apperly & Butterfill, Do humans have two systems to track beliefs?, Psych. Review 116 (2009)",
+  "seedElo": 1850
+ },
+ {
+  "id": "tom-A44",
+  "type": "K",
+  "category": "theory-of-mind",
+  "text": "Rozdíl mezi první a druhou úrovní přebírání zrakové perspektivy (Flavell) spočívá v tom, že:",
+  "options": [
+   "první úroveň se týká slyšení, druhá výhradně zrakového vnímání",
+   "první úroveň zvládají až školáci, druhou naopak už batolata",
+   "obě úrovně se objevují současně kolem dovršení čtvrtého roku",
+   "první řeší, zda druhý předmět vidí, druhá jak se mu jeví"
+  ],
+  "correct": 3,
+  "explanation": "První úroveň — co druhý vidí a nevidí — zvládají už dvouleté děti. Druhá úroveň, tedy jak se táž věc jeví z jiného místa (například obrázek želvy vzhůru nohama), přichází kolem čtyř až pěti let. Rozlišení se dnes používá i ve výzkumu automatického přebírání perspektivy u dospělých.",
+  "source": "Flavell, Everett, Croft & Flavell, Young children's knowledge about visual perception (1981)",
+  "seedElo": 1850
+ },
+ {
+  "id": "tom-B26",
+  "type": "F",
+  "category": "theory-of-mind",
+  "text": "V pokusu Jonese a Harrise s eseji o Castrovi posuzovatelé připisovali autorům procastrovský postoj i tehdy, když:",
+  "options": [
+   "věděli, že směr eseje byl autorovi přidělen losem",
+   "esej byla napsaná zjevně nedbale a plná protimluvů",
+   "posuzovatelé sami měli k Castrovi otevřený odpor",
+   "autor v eseji svůj vlastní postoj výslovně popřel"
+  ],
+  "correct": 0,
+  "explanation": "I při plné informaci o nesvobodné volbě tématu posuzovatelé usuzovali na skutečný postoj autora — tomu se říká korespondenční zkreslení. Klasický výklad mluví o nedostatečné korekci ukotveného prvního dojmu; novější rozbory dodávají, že účastníci se navíc domnívali, že i vnucený text prozradí něco z autora. Efekt je robustní a patří k nejcitovanějším v sociální psychologii.",
+  "source": "Jones a Harris (Journal of Experimental Social Psychology, 1967)",
+  "seedElo": 1850
+ },
+ {
+  "id": "tom-B27",
+  "type": "F",
+  "category": "theory-of-mind",
+  "text": "Studie Joan Millerové a práce Morrise a Penga o atribuci napříč kulturami zjistily, že:",
+  "options": [
+   "sklon k povahovým příčinám je u všech kultur stejně silný",
+   "Indové vysvětlují chování povahou častěji než Američané",
+   "Američané sahají po povahových příčinách častěji než Číňané",
+   "děti se v atribucích liší podle kultury víc než dospělí lidé"
+  ],
+  "correct": 2,
+  "explanation": "Millerová ukázala, že s věkem roste u Američanů podíl dispozičních vysvětlení, kdežto u Hindů podíl vysvětlení kontextových — rozdíl je tedy kulturně naučený, u malých dětí chybí. Morris a Peng našli totéž v novinových zprávách o vraždách: americký tisk hledal příčinu v povaze pachatele, čínský v okolnostech. Základní atribuční chyba proto není univerzální konstanta lidské mysli.",
+  "source": "Miller (JPSP, 1984); Morris a Peng (JPSP, 1994)",
+  "seedElo": 1850
+ },
+ {
+  "id": "tom-B28",
+  "type": "F",
+  "category": "theory-of-mind",
+  "text": "Výzkum Alderta Vrije o odhalování lži doporučuje zvyšovat kognitivní zátěž vyslýchaného, protože:",
+  "options": [
+   "lhář pod zátěží začne obvykle projevovat viditelnou nervozitu",
+   "zátěž spolehlivě přinutí lháře k rychlému přiznání viny",
+   "pravdomluvný člověk se pod zátěží ve výpovědi zamotá dřív",
+   "lhaní je náročnější a zátěž rozdíl ve výpovědích zvýrazní"
+  ],
+  "correct": 3,
+  "explanation": "Lhát znamená držet v hlavě pravdu, vymyšlenou verzi i model toho, co ví protějšek — to je nákladné. Přidání zátěže, například vyprávěním příběhu pozpátku nebo nečekanými otázkami, proto zhoršuje výkon lhářů mnohem víc než výkon pravdomluvných. Klasické „známky nervozity“ naopak přesnost detekce prakticky nezlepšují; ta se bez pomoci drží kolem 54 procent.",
+  "source": "Vrij, Fisher a Blank (2017); Bond a DePaulo (metaanalýza, 2006)",
+  "seedElo": 1860
+ },
+ {
   "id": "tom-20",
   "type": "K",
   "category": "theory-of-mind",
@@ -318,5 +1198,405 @@
   "explanation": "Diskuse o kompetenci versus performanci se ptá, zda dítě (či zvíře, či model) skutečně danou schopnost postrádá, nebo zda ji má, ale test na ni klade dodatečné nároky (pracovní paměť, potlačení automatické odpovědi, porozumění formulaci), které skutečný výkon zamaskují. Právě proto zjednodušené testy falešného přesvědčení někdy podhodnocují rané kompetence odhalené citlivějšími metodami, jako je porušené očekávání u kojenců.",
   "source": "Bloom, P., German, T. P.: Two reasons to abandon the false belief task as a test of theory of mind, 2000",
   "seedElo": 1870
+ },
+ {
+  "id": "tom-B29",
+  "type": "F",
+  "category": "theory-of-mind",
+  "text": "Sperber a Wilson vysvětlují verbální ironii jako:",
+  "options": [
+   "ozvěnu cizí myšlenky, od níž se mluvčí posměšně distancuje",
+   "porušení maximy kvality, jež posluchače nutí obrátit význam",
+   "hru, v níž mluvčí předstírá roli naivního nadšeného mluvčího",
+   "zvláštní typ metafory založený na protikladu dvou obrazů"
+  ],
+  "correct": 0,
+  "explanation": "Echoická teorie tvrdí, že ironik nepřevrací význam, ale cituje cizí či obecně sdílené očekávání a dává najevo, jak je směšné — proto „Nádherné počasí!“ v lijáku funguje. Konkurenční pretense theory Clarka a Gerriga mluví o předstírané roli naivního mluvčího, klasické grieceovské řešení o porušení maximy kvality. Echoické pojetí lépe vysvětluje, proč ironie potřebuje předchozí očekávání a proč zní zaujatě.",
+  "source": "Sperber a Wilson: Irony and the Use-Mention Distinction (1981)",
+  "seedElo": 1870
+ },
+ {
+  "id": "tom-B30",
+  "type": "F",
+  "category": "theory-of-mind",
+  "text": "Searlova teze o kolektivní intencionalitě říká, že „my zamýšlíme“:",
+  "options": [
+   "je jen souhrnem jednotlivých „já zamýšlím“ všech členů",
+   "existuje mimo jednotlivé hlavy, ve sdíleném duchu skupiny",
+   "vzniká teprve výslovnou smlouvou mezi všemi účastníky",
+   "je v hlavě jednotlivce, ale nelze je rozložit na „já“"
+  ],
+  "correct": 3,
+  "explanation": "Searle drží metodologický individualismus — žádná nadindividuální mysl neexistuje — a přesto tvrdí, že we-intention je primitivní forma, kterou nelze převést na souhrn já-záměrů plus vzájemných přesvědčení. Můj úmysl „hrajeme spolu symfonii“ zahrnuje můj part jako součást našeho jednání. Na této nezredukovatelné kolektivní intencionalitě staví Searle celou konstrukci sociální reality, včetně peněz a institucí.",
+  "source": "John Searle: The Construction of Social Reality (1995)",
+  "seedElo": 1880
+ },
+ {
+  "id": "tom-B31",
+  "type": "K",
+  "category": "theory-of-mind",
+  "text": "Ve hře na důvěru investor pošle část z 10 dolarů, poslaná částka se ztrojnásobí a správce může libovolně vrátit. Jaký je typický výsledek?",
+  "options": [
+   "Investoři neposílají nic a správci nevracejí nic.",
+   "Investoři posílají zhruba polovinu a část se vrací.",
+   "Investoři posílají vše a správci vracejí polovinu.",
+   "Investoři posílají málo a správci vracejí dvojnásob."
+  ],
+  "correct": 1,
+  "explanation": "V původním pokusu Berga a spol. poslali investoři průměrně kolem pěti dolarů a správci vrátili v průměru o něco méně, než dostali navíc — tedy nezanedbatelnou, ale nekompletní reciprocitu. Zpětnou indukcí by racionální sobec neposlal nic, protože správce nemá důvod vracet. Chování hráčů se lépe vysvětlí modelováním záměrů a očekávané reciprocity než čistou maximalizací zisku.",
+  "source": "Berg, Dickhaut a McCabe (Games and Economic Behavior, 1995)",
+  "seedElo": 1880
+ },
+ {
+  "id": "tom-B33",
+  "type": "F",
+  "category": "theory-of-mind",
+  "text": "Podle Clarkova pojetí groundingu se mluvčí a posluchač ve společném vědění ujišťují tak, že:",
+  "options": [
+   "mluvčí předem vyjmenuje vše, co u posluchače předpokládá",
+   "posluchač mlčí, dokud mluvčí celé sdělení nedokončí",
+   "oba se drží pouze faktů obecně známých v jejich kultuře",
+   "posluchač dává průběžně najevo, nakolik sdělení přijal"
+  ],
+  "correct": 3,
+  "explanation": "Grounding je průběžný proces: přikyvování, „hmm“, pohled, doplnění slova i opravy slouží jako doklad přijetí a posouvají společné vědění dopředu. V Clarkových pokusech s referenčními úkoly si dvojice postupně vytvoří vlastní zkratkové názvy pro obtížné obrazce a čas na domluvu prudce klesá. Komunikace je tedy společná činnost, ne přenos balíčku od mluvčího k posluchači.",
+  "source": "Clark a Wilkes-Gibbs (Cognition, 1986); Clark a Brennan (1991)",
+  "seedElo": 1890
+ },
+ {
+  "id": "tom-A08",
+  "type": "F",
+  "category": "theory-of-mind",
+  "text": "V úloze s okénkem (windows task) tříleté dítě opakovaně prohrává sladkost, protože:",
+  "options": [
+   "nedokáže si zapamatovat, ve které krabičce sladkost je",
+   "nechápe, že soupeř má o obsahu krabiček nepravdivé přesvědčení",
+   "neubrání se ukázat na krabičku, o níž ví, že je v ní odměna",
+   "považuje soupeře za spolupracovníka, nikoli za protivníka"
+  ],
+  "correct": 2,
+  "explanation": "Dítě vidí obsah okénkem a má poslat soupeře k prázdné krabičce. Přesto kolo za kolem ukazuje na plnou, i když tím odměnu ztrácí. Protože úloha nevyžaduje žádné připisování nepravdivého přesvědčení, bere se jako doklad, že velkou část potíží tříletých dětí nese neschopnost potlačit připravenou odpověď.",
+  "source": "Russell, Mauthner, Sharpe & Tidswell, The 'windows task', Br. J. Dev. Psychol. 9 (1991)",
+  "seedElo": 1900
+ },
+ {
+  "id": "tom-A21",
+  "type": "K",
+  "category": "theory-of-mind",
+  "text": "Vztah mentalizační sítě a takzvané default mode network lze shrnout tak, že:",
+  "options": [
+   "obě sítě se z velké části anatomicky překrývají, hlavně v mPFC a TPJ",
+   "jde o zcela oddělené soustavy, jejich uzly se nikde nepotkávají",
+   "default mode network se aktivuje jen během spánku bez snění",
+   "mentalizační síť leží výhradně v pravé mozkové hemisféře člověka"
+  ],
+  "correct": 0,
+  "explanation": "Klidová síť a mentalizační síť sdílejí mediální prefrontální kůru, zadní cingulum s precuneem a temporoparietální spoj. Někteří z toho vyvozují, že výchozím režimem mozku je sociální uvažování. Opatrnější výklad varuje před reverzní inferencí: překryv sám o sobě neříká, že klidová aktivita je mentalizace.",
+  "source": "Mars et al., On the relationship between the default mode network and the social brain (2012)",
+  "seedElo": 1900
+ },
+ {
+  "id": "tom-A27",
+  "type": "K",
+  "category": "theory-of-mind",
+  "text": "Interakcionistický přístup (Gallagher, De Jaegher) proti klasické teorii mysli namítá, že:",
+  "options": [
+   "mentalizace probíhá jen v pravé hemisféře, nikoli oboustranně",
+   "děti se učí číst mysl výhradně z vyprávěných příběhů dospělých",
+   "mysl druhého odvozujeme z jeho chování pomocí tichých hypotéz",
+   "záměry a emoce často přímo vnímáme ve výrazu, gestu a jednání"
+  ],
+  "correct": 3,
+  "explanation": "Podle teze o přímém vnímání a o participativním vytváření smyslu je základem běžného styku vtělená interakce, nikoli skryté teoretizování nebo simulace; explicitní mentalizace je až okrajový režim pro nejasné případy. Kritici odpovídají, že „přímé vnímání“ jen přejmenovává rychlé automatické zpracování.",
+  "source": "Gallagher, Direct perception in the intersubjective context (2008); De Jaegher, Di Paolo & Gallagher (2010)",
+  "seedElo": 1900
+ },
+ {
+  "id": "tom-A38",
+  "type": "K",
+  "category": "theory-of-mind",
+  "text": "Který detail výsledků u sojek se považoval za nejsilnější indicii sociální kognice?",
+  "options": [
+   "sojky si pamatují až tisíc míst a vybaví si i druh skryté potravy",
+   "přeskrývaly jen ty sojky, které samy měly zkušenost s kradením",
+   "sojky přeskrývaly stejně často, ať už pozorovány byly, či nikoli",
+   "mláďata sojek přeskrývala hned od prvního dne po vylíhnutí z vejce"
+  ],
+  "correct": 1,
+  "explanation": "Ptáci s vlastní zlodějskou minulostí po pozorování zásoby přemisťovali, „nevinní“ nikoli — to se četlo jako promítání vlastní zkušenosti do druhého. Jde ale o jeden nález na malých vzorcích; nezávislých replikací je málo a část výzkumu krkavcovité kognice čelí metodologickým výhradám, takže věc zůstává otevřená.",
+  "source": "Emery & Clayton (2001), Nature; pozdější kritické přehledy ke corvidí sociální kognici",
+  "seedElo": 1900
+ },
+ {
+  "id": "tom-A41",
+  "type": "K",
+  "category": "theory-of-mind",
+  "text": "Jak dnes vypadá stav Dunbarova čísla, tedy odhadu asi 150 stabilních vztahů?",
+  "options": [
+   "bylo potvrzeno přesnými měřeními u všech dosud zkoumaných kultur",
+   "vyplývá přímo z anatomie mozku, jeho hodnota je pevná konstanta",
+   "bylo vyvráceno, sociální sítě lidí nemají žádnou horní hranici",
+   "korelace existuje, ale odhad má obrovské konfidenční intervaly"
+  ],
+  "correct": 3,
+  "explanation": "Přepočet původní regrese mezi velikostí neokortexu a velikostí skupiny modernějšími metodami dal odhady od několika desítek po více než tisíc — data prostě neumožňují stanovit jedno číslo. Tím ovšem nepadá obecnější pozorování, že lidské sítě mají vrstvy a omezenou kapacitu.",
+  "source": "Lindenfors, Wartel & Lind, „Dunbar's number“ deconstructed, Biology Letters 17 (2021)",
+  "seedElo": 1900
+ },
+ {
+  "id": "tom-B34",
+  "type": "F",
+  "category": "theory-of-mind",
+  "text": "Epleyova tříčinitelová teorie antropomorfizace jmenuje jako spouštěče znalost o lidech a dále:",
+  "options": [
+   "potřebu zábavy a sklon k obrazotvornému myšlení",
+   "potřebu předvídat dění a potřebu společenského styku",
+   "nízké vzdělání a malou zkušenost s moderní technikou",
+   "náboženskou výchovu a sklon věřit v nadpřirozeno"
+  ],
+  "correct": 1,
+  "explanation": "Model SEEK staví na třech faktorech: dostupnosti znalostí o lidech jako výchozím vzoru, effectance motivation (potřebě rozumět a předvídat) a sociality motivation (potřebě kontaktu). Teorie zároveň symetricky vysvětluje dehumanizaci jako opačný pól téhož připisování mysli. Vzdělání ani religiozita nejsou hlavními prediktory — rozhodují motivace v dané chvíli.",
+  "source": "Epley, Waytz a Cacioppo (Psychological Review, 2007)",
+  "seedElo": 1900
+ },
+ {
+  "id": "tom-B35",
+  "type": "F",
+  "category": "theory-of-mind",
+  "text": "Paul Bloom ve své kritice empatie jako mravního vodítka upozorňuje hlavně na to, že:",
+  "options": [
+   "empatie je bodová, straní blízkým a podléhá jediné oběti",
+   "empatie je vzácná a většina lidí jí není vůbec schopna",
+   "empatie je vrozená, a tedy se nedá výchovou nijak měnit",
+   "empatie vede k pomoci, ale nikdy k mravnímu odsouzení"
+  ],
+  "correct": 0,
+  "explanation": "Bloom míří na sdílení afektu: funguje jako bodové světlo, zaostřuje na jednoho identifikovatelného člověka, straní podobným a blízkým a je slepé ke statistikám. Proto podle něj vede k horším rozhodnutím ve velkých otázkách a k vyhoření u pomáhajících. Jeho alternativou není chlad, ale rational compassion — starost o druhé řízená rozvahou, nikoli nákazou.",
+  "source": "Paul Bloom: Against Empathy (2016)",
+  "seedElo": 1900
+ },
+ {
+  "id": "tom-B36",
+  "type": "F",
+  "category": "theory-of-mind",
+  "text": "Nakažlivý pláč u novorozenců se od empatie odlišuje tím, že:",
+  "options": [
+   "se objevuje jen v reakci na pláč vlastního sourozence",
+   "mizí do konce prvního týdne a už se nikdy neopakuje",
+   "chybí v něm rozlišení mezi vlastní a cizí tísní",
+   "nastupuje až poté, co dítě pozná samo sebe v zrcadle"
+  ],
+  "correct": 2,
+  "explanation": "Novorozenec pláče na nahrávku pláče jiného novorozence silněji než na stejně hlasitý umělý zvuk či na vlastní pláč — jde tedy o specifickou reakci, ne o pouhý úlek. Chybí v ní ale hranice mezi já a druhým, takže výsledkem je vlastní tíseň, nikoli starost o toho druhého. Empatická starost s pomáhajícím chováním se objevuje až ve druhém roce, spolu se sebeuvědoměním.",
+  "source": "Sagi a Hoffman (1976); Simner (1971); Hoffman: Empathy and Moral Development (2000)",
+  "seedElo": 1900
+ },
+ {
+  "id": "tom-B37",
+  "type": "F",
+  "category": "theory-of-mind",
+  "text": "Cialdiniho pokusy s nápisy proti krádeži zkamenělého dřeva ukázaly, že sdělení „mnoho návštěvníků dřevo odnáší“:",
+  "options": [
+   "krádeže omezilo lépe než výzva dřevo neodnášet",
+   "krádeže zvýšilo, protože je vylíčilo jako běžné",
+   "na chování návštěvníků nemělo žádný měřitelný vliv",
+   "působilo jen na návštěvníky, kteří přijeli poprvé"
+  ],
+  "correct": 1,
+  "explanation": "Deskriptivní norma říká, co lidé dělají; injunktivní, co se má dělat. Nápis mířený jako varování sdělil deskriptivně, že krádež je běžná, a míra krádeží stoupla oproti kontrole zhruba trojnásobně. Kampaně proti nežádoucímu chování se proto často střelí do nohy, když jeho rozšířenost zdůrazňují.",
+  "source": "Cialdini, Demaine, Sagarin a spol. (Social Influence, 2006)",
+  "seedElo": 1900
+ },
+ {
+  "id": "tom-A14",
+  "type": "K",
+  "category": "theory-of-mind",
+  "text": "Jak dnes vypadá replikační bilance úloh s anticipačním pohledem na nepravdivé přesvědčení?",
+  "options": [
+   "efekt byl potvrzen ve všech nezávislých replikacích i u dětí",
+   "přímé replikace efekt většinou nenašly, výsledky jsou nestabilní",
+   "efekt se ukázal silnější, než tvrdila původní studie z roku 2007",
+   "replikace neproběhly, metoda se v laboratořích přestala používat"
+  ],
+  "correct": 1,
+  "explanation": "Série předregistrovaných replikací paradigmat Southgateové a Kovácse efekt u dospělých ani u dětí spolehlivě nenašla a velikosti účinku kolísají kolem nuly. Explicitní úlohy s nepravdivým přesvědčením přitom replikují robustně. Debata se proto přesunula od otázky „co implicitní ToM znamená“ k otázce, zda tento efekt vůbec existuje.",
+  "source": "Kulke & Rakoczy (2018), Cognitive Development; Schuwerk et al. (2018), Royal Society Open Science",
+  "seedElo": 1950
+ },
+ {
+  "id": "tom-A23",
+  "type": "K",
+  "category": "theory-of-mind",
+  "text": "Nejsilnější námitka proti tvrzení, že zrcadlové neurony vysvětlují porozumění jednání, zní:",
+  "options": [
+   "u opic makaka nebyly tyto neurony nikdy spolehlivě nalezeny",
+   "zrcadlové neurony reagují jen na pohyby vlastní ruky pokusného zvířete",
+   "poškození motorických oblastí porozumění řeči a akci ničí jen málo",
+   "reakce těchto buněk se u opic měřily výhradně během spánku"
+  ],
+  "correct": 2,
+  "explanation": "Lidé s rozsáhlými lézemi premotorické a Brocovy oblasti rozumějí řeči i pozorovaným činnostem překvapivě dobře, což je pro „porozumění simulací motoriky“ vážný problém. Přidává se argument, že zrcadlení může být důsledkem asociativního učení mezi viděním a děláním, nikoli vrozeným mechanismem porozumění.",
+  "source": "Hickok (2009), JOCN; Heyes (2010), Neuroscience & Biobehavioral Reviews",
+  "seedElo": 1950
+ },
+ {
+  "id": "tom-A24",
+  "type": "K",
+  "category": "theory-of-mind",
+  "text": "Hypotéza „rozbitého zrcadla“ u autismu je dnes hodnocena tak, že:",
+  "options": [
+   "byla potvrzena rozsáhlými metaanalýzami zobrazovacích studií",
+   "vysvětluje i jazykové obtíže, které autismus zpravidla doprovázejí",
+   "se opírá o přímé záznamy z neuronů u autistických dospělých",
+   "nemá oporu: nálezy jsou nekonzistentní a napodobování bývá zachováno"
+  ],
+  "correct": 3,
+  "explanation": "Studie potlačení mu-rytmu i imitační experimenty dávají smíšené a špatně replikovatelné výsledky. Přehledy uzavírají, že autistické osoby většinou napodobují normálně a nalezené odlišnosti se lépe vysvětlují sociální motivací nebo tím, na co člověk zaměří pozornost, než vadným zrcadlovým systémem.",
+  "source": "Hamilton, Reflecting on the mirror neuron system in autism, Dev. Cogn. Neuroscience 3 (2013)",
+  "seedElo": 1950
+ },
+ {
+  "id": "tom-A33",
+  "type": "K",
+  "category": "theory-of-mind",
+  "text": "Jak si hypotéza hyperaktivní detekce činitele stojí v empirickém ověřování?",
+  "options": [
+   "experimenty potvrdily silnou přednost pro detekci činitelů u všech lidí",
+   "jde o matematicky dokázaný důsledek teorie detekce signálu",
+   "přímé měření ukázalo, že lidé činitele naopak systematicky přehlížejí",
+   "podpora je smíšená; sklon vidět činitele nepředpovídá víru spolehlivě"
+  ],
+  "correct": 3,
+  "explanation": "Laboratorní studie nacházejí jen slabý a nestálý sklon k detekci činitelů a korelace mezi jeho mírou a religiozitou bývá nízká či nulová. Přehledové práce proto doporučují brát HADD jako jeden z více přispívajících faktorů, nikoli jako hlavní vysvětlení náboženských představ.",
+  "source": "van Elk et al. (2016), Religion, Brain & Behavior; Andersen (2019), přehledová studie",
+  "seedElo": 1950
+ },
+ {
+  "id": "tom-A35",
+  "type": "K",
+  "category": "theory-of-mind",
+  "text": "„Registrace“ v minimální teorii mysli Butterfilla a Apperlyho znamená:",
+  "options": [
+   "explicitní přesvědčení vyjádřené větou s vedlejší větou obsahovou",
+   "vztah činitele k předmětu na místě, kde jej naposledy zaznamenal",
+   "paměťovou stopu, která uchovává celý průběh pozorované epizody",
+   "libovolný propoziční postoj, včetně přání, obav a předpokladů"
+  ],
+  "correct": 1,
+  "explanation": "Registrace je stav „podobný přesvědčení“, ale bez plné propoziční struktury: sleduje jen, kde se činitel s předmětem naposledy setkal. Proto rychlý systém selhává tam, kde záleží na způsobu podání, tedy když tentýž předmět lze popsat dvěma způsoby. Tím model získává testovatelné předpovědi.",
+  "source": "Butterfill & Apperly, How to construct a minimal theory of mind, Mind & Language 28 (2013)",
+  "seedElo": 1950
+ },
+ {
+  "id": "tom-A39",
+  "type": "F",
+  "category": "theory-of-mind",
+  "text": "Pokus s bariérou a vlastní zkušeností (Kano a spol., 2019) u lidoopů ukázal, že zvířata:",
+  "options": [
+   "reagovala na barvu bariéry, ale ne na to, zda skrz ni lze vidět",
+   "neprošla úlohou vůbec, protože bariéru odmítala vzít do rukou",
+   "využila vlastní zkušenost s průhledností bariéry při odhadu člověka",
+   "sledovala pohled experimentátora jen tehdy, když neměl bariéru vůbec"
+  ],
+  "correct": 2,
+  "explanation": "Lidoopi, kteří sami zažili, že určitá plocha vypadá průhledně, ale vidět skrz ni nelze, pak neočekávali, že člověk za ní něco uvidí. To je silnější evidence než pouhé sledování chování: naznačuje projekci vlastní percepční zkušenosti do druhého, tedy skutečné modelování jeho přístupu k informaci.",
+  "source": "Kano, Krupenye, Hirata, Tomonaga & Call, Great apes use self-experience…, PNAS 116 (2019)",
+  "seedElo": 1950
+ },
+ {
+  "id": "tom-B38",
+  "type": "F",
+  "category": "theory-of-mind",
+  "text": "Klimecki a spol. srovnávali trénink empatie a trénink soucitu; po tréninku soucitu účastníci při pohledu na cizí utrpení hlásili:",
+  "options": [
+   "více kladných pocitů, aniž by ubylo prožívané starosti",
+   "méně kladných i záporných pocitů, tedy celkovou otupělost",
+   "více záporných pocitů a silnější chuť od podnětu odejít",
+   "stejné pocity jako předtím, změnila se pouze aktivace mozku"
+  ],
+  "correct": 0,
+  "explanation": "Uspořádání bylo dvoufázové: nejprve empatický trénink, který zvýšil negativní afekt a tíseň, pak trénink soucitu u téže skupiny. Po druhé fázi vzrostl pozitivní afekt při sledování týchž tísnivých scén, aniž by se vytratila starost o postiženého — nešlo tedy o otupění ani o odvrácení pozornosti. Soucit tak vypadá jako trénovatelná ochrana proti vyhoření z empatie.",
+  "source": "Klimecki, Leiberg, Ricard a Singer (SCAN, 2014)",
+  "seedElo": 1950
+ },
+ {
+  "id": "tom-B39",
+  "type": "F",
+  "category": "theory-of-mind",
+  "text": "Ostenzivně-inferenční komunikace podle Sperbera a Wilsona nese záruku, že sdělení:",
+  "options": [
+   "je pravdivé a mluvčí za jeho pravdivost ručí svou ctí",
+   "je doslovné, dokud mluvčí neoznámí přenesený význam",
+   "je nové, tedy neobsahuje nic už dříve řečeného stranám",
+   "stojí za námahu, kterou si jeho zpracování vyžádá"
+  ],
+  "correct": 3,
+  "explanation": "Ostenzivní podnět je akt, kterým dávám najevo, že něco sděluji — a tím podle Sperbera a Wilsona automaticky nesu presumpci optimální relevance: stojí to za tvou pozornost a je to formulováno tak relevantně, jak mi mé schopnosti a záměry dovolily. Záruka se tedy netýká pravdivosti ani doslovnosti, ale výnosnosti zpracování. Právě proto se posluchač může zastavit u prvního uspokojivého výkladu.",
+  "source": "Sperber a Wilson: Relevance (2. vydání, 1995)",
+  "seedElo": 1950
+ },
+ {
+  "id": "tom-B40",
+  "type": "F",
+  "category": "theory-of-mind",
+  "text": "Pluralitní ignorance se od naivního realismu liší tím, že jde o stav, kdy:",
+  "options": [
+   "člověk pokládá vlastní pohled na věc za nezkreslený",
+   "člověk nezná názory druhých a nezajímá se o ně vůbec",
+   "většina normu soukromě odmítá, ale myslí si, že jiní ne",
+   "menšina prosadí normu tím, že mluví hlasitěji než ostatní"
+  ],
+  "correct": 2,
+  "explanation": "Klasickým dokladem je studie o pití na amerických univerzitách: většina studentů byla z míry opilství nesvá, ale každý se domníval, že ostatním to vyhovuje, a proto veřejně nic nenamítal. Vzniká tak norma, kterou soukromě nikdo nechce, ale všichni ji svým mlčením udržují. Na rozdíl od naivního realismu jde o chybný odhad cizích postojů, ne o přeceňování objektivity vlastního pohledu.",
+  "source": "Prentice a Miller (JPSP, 1993); Katz a Allport (1931)",
+  "seedElo": 1960
+ },
+ {
+  "id": "tom-B41",
+  "type": "F",
+  "category": "theory-of-mind",
+  "text": "Gray a Wegner popsali morální typizaci (moral typecasting), podle níž:",
+  "options": [
+   "kdo je viděn jako konající, je hůř viděn jako trpící",
+   "kdo víc trpí, tomu lidé připisují i větší mravní zásluhy",
+   "mravní posouzení činu závisí hlavně na jeho následcích",
+   "mysl připisujeme tím ochotněji, čím je bytost podobnější nám"
+  ],
+  "correct": 0,
+  "explanation": "Role mravního aktéra a mravního pacienta se v našem vnímání vylučují: hrdinovi i padouchovi připisujeme méně schopnosti trpět, kdežto oběti méně odpovědnosti za jednání. V pokusech proto účastníci cítili menší soucit s bolestí hrdiny a menší ochotu vinit toho, kdo byl předtím sám poškozen. Vysvětluje to i jev obviňování obětí a naopak nadměrné mravní pověření těch, kdo mnoho vytrpěli.",
+  "source": "Gray a Wegner: Moral Typecasting (JPSP, 2009)",
+  "seedElo": 1970
+ },
+ {
+  "id": "tom-B42",
+  "type": "F",
+  "category": "theory-of-mind",
+  "text": "Za doklad sdílené intencionality u batolat se považuje to, že ukazují prstem i tehdy, když:",
+  "options": [
+   "chtějí předmět dostat do ruky a dospělý je poblíž",
+   "jen sdělují informaci, z níž nemají samy žádný prospěch",
+   "je dospělý předem vyzve, aby ukázaly na daný předmět",
+   "napodobují gesto, které právě viděly u jiného malého dítěte"
+  ],
+  "correct": 1,
+  "explanation": "Roční děti ukazují dospělému, kam mu spadla sponka, kterou hledá, ačkoli z toho nic nemají — jde o informativní, nikoli imperativní gesto. Motiv je čistě kooperativní: chci, abys věděl to, co potřebuješ vědět. Tomasello v tom vidí zárodek lidské kooperativní komunikace, protože takové gesto předpokládá společný cíl i model cizí neznalosti.",
+  "source": "Liszkowski, Carpenter, Striano a Tomasello (2006)",
+  "seedElo": 1980
+ },
+ {
+  "id": "tom-B43",
+  "type": "F",
+  "category": "theory-of-mind",
+  "text": "Sperberův pojem epistemické ostražitosti (epistemic vigilance) řeší otázku, jak:",
+  "options": [
+   "si pamatujeme, kdo nám které tvrzení kdy sdělil",
+   "se učíme jazyku dřív, než rozumíme cizím záměrům",
+   "dokážeme vůbec rozpoznat, že mluvčí něco tvrdí",
+   "může být sdělování stabilní i při riziku klamání"
+  ],
+  "correct": 3,
+  "explanation": "Kdyby posluchači přijímali vše, vyplatilo by se mluvčím lhát a komunikace by se zhroutila; proto musí existovat soubor mechanismů, které hlídají důvěryhodnost zdroje i soudržnost obsahu. Sperber sem řadí sledování kompetence a zájmů mluvčího, kontrolu proti tomu, co už víme, a nároky na argumenty. Z téhož kořene vyrůstá argumentativní teorie usuzování Mercierova a Sperberova.",
+  "source": "Sperber a spol.: Epistemic Vigilance (Mind & Language, 2010)",
+  "seedElo": 1990
  }
 ]

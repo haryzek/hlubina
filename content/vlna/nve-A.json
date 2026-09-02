@@ -1,0 +1,706 @@
+[
+  {
+    "id": "nve-A01",
+    "type": "F",
+    "category": "neuroveda-vedomi",
+    "text": "Co označuje pojem „zadní horká zóna“ (posterior hot zone), jak jej zavedli Koch, Massimini, Boly a Tononi?",
+    "options": [
+      "Temenně-týlně-spánkovou oblast kůry, kde se zdá sídlit obsah prožitku",
+      "Prefrontální oblast, která vysílá signál o dostupnosti obsahu",
+      "Jádra thalamu, jejichž tlumení navozuje bezvědomí při narkóze",
+      "Struktury mozkového kmene, které udržují bdělost a úroveň vědomí"
+    ],
+    "correct": 0,
+    "explanation": "Autoři shrnuli nálezy, podle nichž se obsah prožitku nejtěsněji váže na zadní část kůry, nikoli na prefrontální oblasti. Kmen a thalamus jsou přitom podmínkou bdělosti, tedy spíš „zapínačem“ než místem, kde se obsah tvoří. Rozlišení mezi podmínkami a vlastním korelátem je pro celý spor front-back klíčové.",
+    "source": "Koch, Massimini, Boly, Tononi, Nature Reviews Neuroscience (2016)",
+    "seedElo": 1650
+  },
+  {
+    "id": "nve-A02",
+    "type": "K",
+    "category": "neuroveda-vedomi",
+    "text": "Mozeček obsahuje asi čtyři pětiny všech neuronů mozku, jeho poškození ale vědomí nezruší. Jak to vysvětluje integrovaná teorie informace?",
+    "options": [
+      "Jeho neurony jsou příliš malé na to, aby nesly dost informace",
+      "Jeho aktivita probíhá v příliš rychlém měřítku pro vznik prožitku",
+      "Jeho okruhy jsou paralelní a modulární, takže se rozpadají na části",
+      "Je vývojově starší než kůra a postrádá zpětné spoje do thalamu"
+    ],
+    "correct": 2,
+    "explanation": "Podle IIT nerozhoduje počet neuronů, ale to, nakolik je systém neredukovatelný jako celek. Mozečkové moduly spolu skoro nekomunikují napříč, takže se rozdělením ztratí málo a fí zůstává nízké. Kůra je naproti tomu hustě provázaná do všech stran, a proto podle teorie nese vysoké fí.",
+    "source": "Tononi & Koch, Philosophical Transactions B (2015)",
+    "seedElo": 1700
+  },
+  {
+    "id": "nve-A03",
+    "type": "F",
+    "category": "neuroveda-vedomi",
+    "text": "Čím se v teorii globálního pracovního prostoru vyznačuje takzvaná ignition?",
+    "options": [
+      "Plynulým lineárním nárůstem odpovědi úměrně síle daného podnětu",
+      "Náhlým pozdním rozšířením aktivity do fronto-parietální sítě",
+      "Časnou odpovědí zrakové kůry kolem sta milisekund po podnětu",
+      "Útlumem aktivity v gama pásmu při vstupu podnětu do paměti"
+    ],
+    "correct": 1,
+    "explanation": "Ignition je nelineární, prahová událost: podnět buď do pracovního prostoru vstoupí a rozšíří se, nebo ne. V EEG jí odpovídá pozdní vlna kolem tří set milisekund (P3b), zatímco časné smyslové odpovědi se objevují i u podnětů, které si člověk neuvědomí. Právě ta skokovost je hlavní testovatelnou předpovědí teorie.",
+    "source": "Dehaene & Changeux, Neuron (2011)",
+    "seedElo": 1700
+  },
+  {
+    "id": "nve-A04",
+    "type": "F",
+    "category": "neuroveda-vedomi",
+    "text": "Crick a Koch roku 1990 navrhli, že klíčem k vědomí by mohly být oscilace kolem 40 Hz. Jaký problém tím chtěli řešit?",
+    "options": [
+      "Jak mozek udrží pozornost na jednom podnětu déle než jednu vteřinu",
+      "Jak se vjem uloží do dlouhodobé paměti bez zásahu hipokampu",
+      "Jak mozek odliší vlastní pohyb od pohybu vnějšího prostředí",
+      "Jak se rozptýlené rysy podnětu spojí do jednoho vjemu předmětu"
+    ],
+    "correct": 3,
+    "explanation": "Barva, tvar a pohyb se zpracovávají v různých oblastech, přesto vidíme jeden předmět — tomu se říká problém vázání. Crick a Koch nabídli jako řešení časovou synchronii: neurony kódující rysy téhož objektu pálí ve fázi. Dnes se tato hypotéza drží jen oslabeně, protože gama aktivita provází i nevědomé zpracování a pozornost.",
+    "source": "Crick & Koch, Seminars in the Neurosciences (1990)",
+    "seedElo": 1650
+  },
+  {
+    "id": "nve-A05",
+    "type": "F",
+    "category": "neuroveda-vedomi",
+    "text": "Co roku 2012 prohlásila Cambridgeská deklarace o vědomí?",
+    "options": [
+      "Že savci a ptáci prožívají emoce srovnatelné s emocemi lidí",
+      "Že vědomí vzniká teprve s kůrou velkého mozku u obratlovců",
+      "Že nervové substráty vědomí nejsou výsadou lidí ani savců",
+      "Že chování zvířat nelze použít jako důkaz jejich prožívání"
+    ],
+    "correct": 2,
+    "explanation": "Deklarace konstatovala, že substráty nutné pro vědomé stavy mají i jiní živočichové než lidé, výslovně zmínila ptáky a chobotnice. Šlo o tvrzení o nervové výbavě a chování, ne o slib, že víme, jaké to je být takovým tvorem. Ptačí mozek nemá vrstevnatou kůru, přesto vykazuje obdobné funkční uspořádání.",
+    "source": "The Cambridge Declaration on Consciousness (2012)",
+    "seedElo": 1700
+  },
+  {
+    "id": "nve-A06",
+    "type": "K",
+    "category": "neuroveda-vedomi",
+    "text": "Polovina diváků nevidí ve známém pokusu Simonse a Chabrise gorilu procházející hřištěm. Co z takových nálezů plyne pro výklad vědomí?",
+    "options": [
+      "Že bez pozornosti se ani nápadný podnět nemusí dostat do vědomí",
+      "Že zrakový systém podnět vůbec nezpracuje, chybí-li pozornost",
+      "Že vědomý vjem vzniká už v primární zrakové kůře bez pozornosti",
+      "Že paměť na scénu je dokonalá a selhává jen pozdější vybavení"
+    ],
+    "correct": 0,
+    "explanation": "Nepozornostní slepota ukazuje, že samotná přítomnost podnětu v zorném poli nestačí. Zda jde o selhání vjemu, nebo jen paměti na něj, je přitom stále sporné — proto se vedle hlášení používají i nepřímé míry. Nálezy nicméně nedokazují, že by podnět nebyl zpracován vůbec; jeho stopy se v mozku najít dají.",
+    "source": "Simons & Chabris, Perception (1999); Mack & Rock, Inattentional Blindness (1998)",
+    "seedElo": 1750
+  },
+  {
+    "id": "nve-A07",
+    "type": "K",
+    "category": "neuroveda-vedomi",
+    "text": "Jaký je v integrované teorii informace vztah mezi axiomy a postuláty?",
+    "options": [
+      "Axiomy jsou měřitelné veličiny, postuláty jejich slovní výklad",
+      "Axiomy plynou z pokusů, postuláty jsou jejich matematický zápis",
+      "Axiomy platí pro člověka, postuláty rozšiřují teorii na zvířata",
+      "Axiomy popisují vlastnosti prožitku, postuláty nároky na substrát"
+    ],
+    "correct": 3,
+    "explanation": "IIT začíná u prožitku samého: axiomy tvrdí, že každý prožitek existuje sám pro sebe, je strukturovaný, určitý, jednotný a vymezený. Postuláty pak říkají, co z toho musí splňovat fyzický systém, má-li takový prožitek nést. Právě tento směr odvození — od fenomenologie k mechanismu — bývá terčem kritiky.",
+    "source": "Oizumi, Albantakis, Tononi, PLoS Computational Biology (2014)",
+    "seedElo": 1800
+  },
+  {
+    "id": "nve-A08",
+    "type": "F",
+    "category": "neuroveda-vedomi",
+    "text": "Proč se fí u reálných mozků nepočítá přesně, ale jen odhaduje náhradními mírami?",
+    "options": [
+      "Protože fí je definováno pouze pro systémy se spojitým časem",
+      "Protože počet rozdělení systému roste s prvky superexponenciálně",
+      "Protože k jeho výpočtu je nutné znát okamžitý stav každé synapse",
+      "Protože fí lze měřit jen u systémů, které umějí podat hlášení"
+    ],
+    "correct": 1,
+    "explanation": "Přesný výpočet vyžaduje projít všechny podmnožiny prvků a všechna jejich rozdělení, což roste rychleji než exponenciálně. Prakticky se tak fí spočítá jen pro hračkové systémy o jednotkách prvků. Empirické práce proto pracují s náhradníky typu perturbačního indexu složitosti, které s fí sdílejí ideu, ne definici.",
+    "source": "Oizumi, Albantakis, Tononi, PLoS Computational Biology (2014)",
+    "seedElo": 1900
+  },
+  {
+    "id": "nve-A09",
+    "type": "K",
+    "category": "neuroveda-vedomi",
+    "text": "Proč se v laboratořích vědomí prosadila paradigmata bez hlášení (no-report)?",
+    "options": [
+      "Protože hlášení zdržuje pokus a snižuje počet možných opakování",
+      "Protože samo hlášení přidává procesy, jež se pletou do korelátů",
+      "Protože slovní hlášení nelze získat od zvířat ani od kojenců",
+      "Protože hlášení zvyšuje riziko, že si účastník podnět zapamatuje"
+    ],
+    "correct": 1,
+    "explanation": "Když člověk odpovídá, zapojuje rozhodování, monitorování a pohyb — a právě tyto procesy se v datech tváří jako koreláty vědomí. Podezření míří hlavně na prefrontální nálezy. Bez hlášení se vjem odhaduje nepřímo, třeba z pohybů očí, zornic nebo z odpovědí na neočekávané změny.",
+    "source": "Tsuchiya, Wilke, Frässle, Lamme, Trends in Cognitive Sciences (2015)",
+    "seedElo": 1800
+  },
+  {
+    "id": "nve-A10",
+    "type": "K",
+    "category": "neuroveda-vedomi",
+    "text": "Jaký rozdíl zachycuje dvojice pojmů celkový a obsahový neurální korelát vědomí?",
+    "options": [
+      "Rozdíl mezi koreláty u zdravých lidí a u pacientů po poranění",
+      "Rozdíl mezi koreláty měřenými pomocí EEG a pomocí funkční MRI",
+      "Rozdíl mezi vrozenými a naučenými složkami vědomého prožitku",
+      "Rozdíl mezi tím, že je člověk při vědomí, a tím, co právě prožívá"
+    ],
+    "correct": 3,
+    "explanation": "Celkový korelát odpovídá na otázku, čím se liší bdělý stav od bezvědomí; obsahový na to, čím se liší vjem tváře od vjemu domu. Chalmers k tomu přidal ještě pozaďové podmínky, které vědomí umožňují, aniž by byly jeho korelátem. Míchání těchto úrovní je jednou z nejčastějších chyb ve sporech o lokalizaci vědomí.",
+    "source": "David Chalmers, in Neural Correlates of Consciousness (2000)",
+    "seedElo": 1850
+  },
+  {
+    "id": "nve-A11",
+    "type": "K",
+    "category": "neuroveda-vedomi",
+    "text": "Co podle Lammeho teorie rekurentního zpracování stačí k vědomému vjemu?",
+    "options": [
+      "Lokální zpětnovazebné smyčky uvnitř smyslových oblastí kůry",
+      "Dopředná vlna aktivity procházející zrakovou hierarchií vzhůru",
+      "Zapojení prefrontální kůry do udržení podnětu v pracovní paměti",
+      "Souběh oscilací v pásmu théta mezi hipokampem a kůrou mozku"
+    ],
+    "correct": 0,
+    "explanation": "Lamme odděluje fenomenální vjem od jeho zpřístupnění pro hlášení: k prvnímu podle něj stačí místní rekurence v zadních oblastech, globální šíření je až podmínkou reportu. Z toho plyne provokativní důsledek, že prožitků může být víc, než kolik jich dokážeme ohlásit. Teorie globálního pracovního prostoru tvrdí přesný opak.",
+    "source": "Victor Lamme, Trends in Cognitive Sciences (2006)",
+    "seedElo": 1850
+  },
+  {
+    "id": "nve-A12",
+    "type": "F",
+    "category": "neuroveda-vedomi",
+    "text": "Střídavě blikají červená a zelená tečka vedle sebe. Co lidé v pokusu Kolerse a von Grünaua vidí?",
+    "options": [
+      "Dvě samostatné tečky, jejichž barvy splynou do žluté skvrny",
+      "Jednu tečku, která si po celé dráze pohybu drží první barvu",
+      "Jednu tečku, která se pohybuje a barvu mění uprostřed dráhy",
+      "Dvě tečky blikající na místě, mezi nimiž se nic nepohybuje"
+    ],
+    "correct": 2,
+    "explanation": "Barevný fenomén phi je klasickou ukázkou postdikce: mozek umístí změnu barvy doprostřed dráhy dřív, než se druhá tečka vůbec objevila. Prožitek okamžiku se tedy skládá zpětně, s odstupem několika desetin vteřiny. Dennett a Kinsbourne na tomto případu ukázali, že otázku „kdy přesně to vzniklo“ nemusí jít rozhodnout.",
+    "source": "Kolers & von Grünau, Vision Research (1976)",
+    "seedElo": 1900
+  },
+  {
+    "id": "nve-A13",
+    "type": "K",
+    "category": "neuroveda-vedomi",
+    "text": "Co podle teorií vyššího řádu (Lau, Rosenthal) rozhoduje o tom, zda je duševní stav vědomý?",
+    "options": [
+      "Zda je stav dost silný, aby překročil práh v čidlech na vstupu",
+      "Zda daný stav trvá alespoň několik set milisekund bez přerušení",
+      "Zda je daný stav provázen synchronií gama napříč celou kůrou",
+      "Zda je o daném stavu v mozku ještě reprezentace vyšší úrovně"
+    ],
+    "correct": 3,
+    "explanation": "Samotná smyslová reprezentace podle těchto teorií nestačí; vědomou ji činí až metareprezentace, která ji bere jako svou. Empirickou oporou má být, že poškození nebo tlumení prefrontální kůry mění jistotu a metakognici, aniž by rozbilo výkon v úloze. Kritici namítají, že takové disociace lze vyložit i posunem kritéria.",
+    "source": "Lau & Rosenthal, Trends in Cognitive Sciences (2011)",
+    "seedElo": 1850
+  },
+  {
+    "id": "nve-A14",
+    "type": "K",
+    "category": "neuroveda-vedomi",
+    "text": "Co laicky říká Fristonův princip volné energie?",
+    "options": [
+      "Že mozek maximalizuje množství informace, kterou z okolí získá",
+      "Že mozek minimalizuje překvapení, tedy nesoulad předpovědi a vstupu",
+      "Že mozek udržuje stálý přísun energie ze zdrojů v krevním řečišti",
+      "Že mozek zvyšuje entropii svých stavů, aby zůstal přizpůsobivý"
+    ],
+    "correct": 1,
+    "explanation": "Organismus se udržuje naživu tím, že se drží v úzké množině stavů, které pro něj nejsou překvapivé. Překvapení samo spočítat nelze, ale volná energie je jeho horní mez, a tu už minimalizovat jde. Slovo energie tu nemá s metabolismem nic společného, jde o pojem z pravděpodobnostní statistiky.",
+    "source": "Karl Friston, Nature Reviews Neuroscience (2010)",
+    "seedElo": 1800
+  },
+  {
+    "id": "nve-A15",
+    "type": "K",
+    "category": "neuroveda-vedomi",
+    "text": "Čím se aktivní inference liší od pouhého prediktivního zpracování?",
+    "options": [
+      "Předpovědi se opravují jen tehdy, když chyba překročí daný práh",
+      "Předpovědi vznikají výhradně v kůře, nikoli v podkorových jádrech",
+      "Chyba předpovědi se nesnižuje jen úpravou modelu, ale i jednáním",
+      "Chyba předpovědi se počítá zvlášť pro každou smyslovou modalitu"
+    ],
+    "correct": 2,
+    "explanation": "Chybu mezi očekáváním a vstupem lze zmenšit dvěma cestami: změnit model, nebo změnit svět tak, aby modelu odpovídal. Pohyb je v tomto rámci splněním předpovědi o vlastní pozici, ne příkazem shora dolů. Vnímání a jednání se tak stávají dvěma stranami téže operace.",
+    "source": "Friston, Daunizeau, Kilner, Kiebel, Biological Cybernetics (2010)",
+    "seedElo": 1900
+  },
+  {
+    "id": "nve-A16",
+    "type": "K",
+    "category": "neuroveda-vedomi",
+    "text": "Co je jádrem Sethovy představy člověka jako „bestie-stroje“ (beast machine)?",
+    "options": [
+      "Že prožitek sebe vyrůstá z předpovědí o stavu vlastního těla",
+      "Že vědomí je vedlejším produktem jazyka a symbolického myšlení",
+      "Že mozek pracuje jako stroj a prožitek je pouhá iluze bez funkce",
+      "Že zvířecí a lidské vědomí se liší jen počtem korových neuronů"
+    ],
+    "correct": 0,
+    "explanation": "Seth obrací obvyklé pořadí: nejsme stroje, které mimochodem mají tělo, ale těla, jejichž mozek předpovídá vlastní vnitřní stav kvůli přežití. Interoceptivní předpovědi podle něj zakládají pocit bytí sebou, dřív než jakékoli poznávání okolí. Prožitek proto není o přesném poznání, ale o udržení organismu v chodu.",
+    "source": "Anil Seth, Being You (2021)",
+    "seedElo": 1900
+  },
+  {
+    "id": "nve-A17",
+    "type": "F",
+    "category": "neuroveda-vedomi",
+    "text": "Co našly studie Lempel-Zivovy složitosti spontánního signálu po psilocybinu, LSD a ketaminu?",
+    "options": [
+      "Složitost stoupla nad hodnoty běžného klidného bdělého stavu",
+      "Složitost klesla pod hodnoty klidného bdění se zavřenýma očima",
+      "Složitost zůstala stejná, měnilo se jen zastoupení pásma alfa",
+      "Složitost kolísala v rytmu dechu, jinak se ale nezměnila vůbec"
+    ],
+    "correct": 0,
+    "explanation": "Jde o první látky, u nichž míra signálové rozmanitosti překročila hodnoty klidného bdění; v anestezii a v hlubokém spánku naopak klesá. Nález se často čte jako podpora myšlenky, že složitost sleduje bohatost prožitku. Opatrnost je ale namístě: složitost není totéž co vědomí a měří se z povrchu hlavy.",
+    "source": "Schartner, Carhart-Harris, Barrett, Seth, Scientific Reports (2017)",
+    "seedElo": 1850
+  },
+  {
+    "id": "nve-A18",
+    "type": "F",
+    "category": "neuroveda-vedomi",
+    "text": "Jak silné tvrzení vyslovila Newyorská deklarace o vědomí zvířat z roku 2024?",
+    "options": [
+      "Že u všech obratlovců a řady bezobratlých je vědomí prokázáno",
+      "Že u ptáků a savců je vědomí jisté, u ostatních skupin vyloučené",
+      "Že o vědomí zvířat nelze za dnešního stavu vědy tvrdit vůbec nic",
+      "Že u všech obratlovců a řady bezobratlých je vědomí reálně možné"
+    ],
+    "correct": 3,
+    "explanation": "Deklarace mluví o „realistické možnosti“ vědomého prožívání, tedy o tvrzení mnohem opatrnějším než důkaz. Rozšiřuje pozornost i na plazy, obojživelníky a ryby a dále na hlavonožce, desetinožce a hmyz. Praktický důraz je etický: takovou možnost nelze při rozhodování odbýt jako zanedbatelnou.",
+    "source": "The New York Declaration on Animal Consciousness (2024)",
+    "seedElo": 1800
+  },
+  {
+    "id": "nve-A19",
+    "type": "F",
+    "category": "neuroveda-vedomi",
+    "text": "Kterou předpověď teorie globálního pracovního prostoru výsledky projektu Cogitate nepodpořily?",
+    "options": [
+      "Časnou odpověď zrakové kůry na vstup podnětu do zorného pole",
+      "Rozlišení kategorie podnětu v záznamech ze zadních oblastí kůry",
+      "Vzestup aktivity v čelní kůře v okamžiku, kdy podnět zmizí",
+      "Trvalou synchronizaci mezi oblastmi v zadní části mozkové kůry"
+    ],
+    "correct": 2,
+    "explanation": "Předregistrovaná předpověď říkala, že vstup i zmizení vědomého obsahu vyvolá ignition v prefrontální kůře. Nástup se potvrdil, odpověď na zmizení podnětu ale nalezena nebyla. Trvalá zadní synchronizace byla naopak předpovědí druhého tábora, a ta selhala také.",
+    "source": "Cogitate Consortium, Nature (2025)",
+    "seedElo": 2050
+  },
+  {
+    "id": "nve-A20",
+    "type": "F",
+    "category": "neuroveda-vedomi",
+    "text": "Která z předpovědí integrované teorie informace v projektu Cogitate selhala?",
+    "options": [
+      "Že se obsah vjemu dá odečíst z aktivity zadních oblastí mozkové kůry",
+      "Že spojení uvnitř zadní kůry zůstane synchronní po celou dobu vjemu",
+      "Že aktivita čelní kůry přijde později než odpověď zrakové kůry",
+      "Že se vjem tváře odliší od vjemu předmětu už v týlních oblastech"
+    ],
+    "correct": 1,
+    "explanation": "Cogitate potvrdil, že obsah vjemu lze dekódovat ze zadních oblastí, což IIT svědčí. Předpovězená trvalá synchronizace mezi zadními oblastmi po dobu vjemu se ale nenašla. Kolaborace tak neskončila vítězstvím ani jedné strany: obě teorie dostaly zásah do jasně vymezené předpovědi.",
+    "source": "Cogitate Consortium, Nature (2025)",
+    "seedElo": 2000
+  },
+  {
+    "id": "nve-A21",
+    "type": "F",
+    "category": "neuroveda-vedomi",
+    "text": "Co roku 2023 bezprostředně vyvolalo otevřený dopis označující IIT za pseudovědu?",
+    "options": [
+      "Vydání verze IIT 4.0 s podstatně pozměněnou definicí míry fí",
+      "Návrh použít fí při rozhodování o odpojování pacientů v kómatu",
+      "Mediální podání prvních výsledků Cogitate jako vítězství IIT",
+      "Odmítnutí zásadní práce o fí recenzenty prestižního časopisu"
+    ],
+    "correct": 2,
+    "explanation": "Po představení průběžných výsledků na konferenci ASSC v roce 2023 řada médií napsala, že IIT porazila konkurenci. Kritici, mezi nimi Fleming, Lau a další, na to reagovali dopisem se stovkou podpisů. Sami přiznávali, že jde spíš o způsob prezentace a o dopad na veřejnou debatu než o vyvrácení teorie.",
+    "source": "Fleming a kol., PsyArXiv: IIT as Pseudoscience (2023)",
+    "seedElo": 2000
+  },
+  {
+    "id": "nve-A22",
+    "type": "K",
+    "category": "neuroveda-vedomi",
+    "text": "Jakou hlavní výtku vůči IIT otevřený dopis z roku 2023 vznesl?",
+    "options": [
+      "Že teorie byla přímo vyvrácena měřeními u pacientů v kómatu",
+      "Že teorie je neprávem prezentována jako empiricky prověřená",
+      "Že teorie počítá fí špatně a používá zastaralý matematický aparát",
+      "Že teorie zcela opomíjí roli pozornosti při vzniku vědomého vjemu"
+    ],
+    "correct": 1,
+    "explanation": "Dopis netvrdil, že by IIT byla vyvrácena, nýbrž že její jádro nebylo dosud empiricky testováno a přesto se podává jako přední teorie. Vadily i důsledky, které teorie přisuzuje rostlinám či jednoduchým sítím, a jejich možný dopad na debaty o potratech a o zvířatech. Odpůrci dopisu naopak namítali, že nálepka pseudovědy debatu spíš dusí.",
+    "source": "Fleming a kol., PsyArXiv: IIT as Pseudoscience (2023)",
+    "seedElo": 1950
+  },
+  {
+    "id": "nve-A23",
+    "type": "K",
+    "category": "neuroveda-vedomi",
+    "text": "Co v integrované teorii informace požaduje postulát exkluze?",
+    "options": [
+      "Že vědomý je jen ten celek, jehož fí je mezi překrývajícími největší",
+      "Že vědomý systém musí vylučovat vlivy zvenčí i z okolních tkání",
+      "Že se z výpočtu fí vylučují prvky, které jsou od sebe odpojené",
+      "Že vjem vylučuje všechny obsahy, jež právě nejsou v pozornosti"
+    ],
+    "correct": 0,
+    "explanation": "Exkluze zabraňuje dvojímu započítání: z mnoha vnořených a překrývajících se souborů prvků prožívá jen ten s maximálním fí. Totéž platí pro časové a prostorové měřítko — existuje jedno, na němž je fí největší. Díky tomu podle teorie neprožívá zvlášť mozek, zvlášť jeho polovina a zvlášť jeho část.",
+    "source": "Tononi, Boly, Massimini, Koch, Nature Reviews Neuroscience (2016)",
+    "seedElo": 1950
+  },
+  {
+    "id": "nve-A24",
+    "type": "K",
+    "category": "neuroveda-vedomi",
+    "text": "Podle IIT může mít čistě dopředná síť fí rovné nule, i když se navenek chová stejně jako síť se zpětnými spoji. Co z toho plyne?",
+    "options": [
+      "Že se vědomí podle IIT dá spolehlivě odečíst z chování systému",
+      "Že dopředné sítě podle IIT prožívají méně bohaté obsahy vjemů",
+      "Že fí u umělých sítí podle IIT roste s počtem jejich vrstev",
+      "Že vědomí podle IIT závisí na vnitřním uspořádání, ne na chování"
+    ],
+    "correct": 3,
+    "explanation": "IIT je teorií kauzální struktury, nikoli funkce: dva systémy se stejnými vstupy a výstupy mohou být jeden vědomý a druhý ne. Odtud plyne i tvrzení, že simulace mozku na běžném počítači by prožitek neměla. Právě tato nezávislost na chování je pro kritiky zdrojem podezření, že teorii nelze testovat.",
+    "source": "Tononi & Koch, Philosophical Transactions B (2015)",
+    "seedElo": 2000
+  },
+  {
+    "id": "nve-A25",
+    "type": "F",
+    "category": "neuroveda-vedomi",
+    "text": "Jak zněla hlavní odpověď Odegaarda, Knighta a Laua na tvrzení, že koreláty vědomí sídlí v zadní kůře?",
+    "options": [
+      "Že zadní kůra je jen vstupní branou a sama žádný obsah nenese",
+      "Že několik nulových nálezů čelní kůru z hry ještě nevyřazuje",
+      "Že nálezy ze zadní kůry vznikly chybou v analýze dat z fMRI",
+      "Že prefrontální kůra je nutná i pro udržení bdělosti a spánku"
+    ],
+    "correct": 1,
+    "explanation": "Autoři upozornili, že chybějící nález není důkazem nepřítomnosti, zvlášť u paradigmat bez hlášení, kde prefrontální aktivita klesá i z jiných důvodů. Poukazovali též na malé vzorky u pacientů po prefrontálních resekcích. Spor front-back tak zůstal otevřený a stal se jedním z motivů pro adversariální kolaborace.",
+    "source": "Odegaard, Knight, Lau, Journal of Neuroscience (2017)",
+    "seedElo": 2050
+  },
+  {
+    "id": "nve-A26",
+    "type": "F",
+    "category": "neuroveda-vedomi",
+    "text": "Čím se metakontrastní maskování liší od běžného zpětného maskování?",
+    "options": [
+      "Maska cíl nepřekrývá, pouze těsně obkružuje jeho obrysy",
+      "Maska se objeví ještě před cílem, nikoli až po jeho zhasnutí",
+      "Maska je promítána do druhého oka a působí přes rivalitu",
+      "Maska trvá déle než cíl a překrývá ho po celou dobu pokusu"
+    ],
+    "correct": 0,
+    "explanation": "U metakontrastu se maska cíle prostorově nedotýká, a přesto ho dokáže skrýt — to vylučuje prosté rušení na sítnici. Účinek navíc není nejsilnější při nulovém odstupu, ale při odstupu kolem padesáti milisekund, takže křivka viditelnosti má tvar U. Efekt proto musí vznikat až v korovém zpracování.",
+    "source": "Breitmeyer & Öğmen, Visual Masking (2006)",
+    "seedElo": 1950
+  },
+  {
+    "id": "nve-A27",
+    "type": "F",
+    "category": "neuroveda-vedomi",
+    "text": "V čem spočívá maskování nahrazením objektu (object substitution masking)?",
+    "options": [
+      "Cíl je nahrazen jiným tvarem přesně na tomtéž místě obrazovky",
+      "Cíl je překryt mřížkou náhodných čar o stejném jasu i barvě",
+      "Cíl se objeví jen v jednom oku a druhé oko vidí silný vzorec",
+      "Cíl zmizí a čtyři tečky kolem něj na obrazovce ještě zůstanou"
+    ],
+    "correct": 3,
+    "explanation": "Stačí čtyři tečky, které cíl obklopují a přetrvají po jeho zmizení; cíl se pak neohlásí, ačkoli byl viditelný a nic ho nepřekrylo. Vysvětluje se to opakovaným porovnáváním hypotézy s podnětem: než se vjem ustálí, cíl už na sítnici není a tečky ho ve výsledné hypotéze nahradí. Efekt sílí, když je pozornost rozptýlená.",
+    "source": "Di Lollo, Enns, Rensink, Journal of Experimental Psychology: General (2000)",
+    "seedElo": 2000
+  },
+  {
+    "id": "nve-A28",
+    "type": "F",
+    "category": "neuroveda-vedomi",
+    "text": "Co se v pokusech s atenčním mrknutím označuje jako „lag-1 sparing“?",
+    "options": [
+      "První cíl je zachycen jen tehdy, když po něm už nic nenásleduje",
+      "Druhý cíl je zachycen, jen když je od prvního vzdálen vteřinu",
+      "Druhý cíl je zachycen, pokud následuje bezprostředně po prvním",
+      "První cíl je vynechán, jestliže mu těsně předchází rušivý znak"
+    ],
+    "correct": 2,
+    "explanation": "Druhý cíl bývá ztracen zhruba dvě až pět desetin vteřiny po prvním, ale při odstupu jediné položky se paradoxně ohlásí dobře. Vysvětluje se to tím, že se oba dostanou do téhož otevřeného okna zpracování. Nález je nepříjemný pro jednoduché představy o obsazeném kanálu a hraje roli ve sporech o kapacitu vědomí.",
+    "source": "Raymond, Shapiro, Arnell, JEP: Human Perception and Performance (1992)",
+    "seedElo": 1950
+  },
+  {
+    "id": "nve-A29",
+    "type": "K",
+    "category": "neuroveda-vedomi",
+    "text": "Co se dnes obvykle uvádí jako biologická podmínka, bez níž nelze u plodu předpokládat vědomé prožívání?",
+    "options": [
+      "Dokončená myelinizace všech drah v míše a v mozkovém kmeni",
+      "Otevření očních víček a první reakce sítnice na jasné světlo",
+      "Nástup pravidelného střídání klidových a aktivních stavů plodu",
+      "Vznik spojů mezi thalamem a kůrou zhruba ve dvacátém čtvrtém týdnu"
+    ],
+    "correct": 3,
+    "explanation": "Funkční thalamokortikální spoje se vytvářejí až kolem dvacátého čtvrtého týdne, takže dřív chybí i minimální hardware pro korový prožitek. Navíc plod setrvává v prostředí, které ho tlumí — nízký kyslík a látky z placenty ho drží ve stavu podobném spánku. Ani po tomto týdnu ovšem nejde o důkaz prožívání, jen o odstranění jedné překážky.",
+    "source": "Lee, Ralston, Drey, Partridge, Rosen, JAMA (2005)",
+    "seedElo": 2050
+  },
+  {
+    "id": "nve-A30",
+    "type": "K",
+    "category": "neuroveda-vedomi",
+    "text": "Co z pokusů se slepotou ke změně (change blindness) NEplyne, ačkoli se to tak často podává?",
+    "options": [
+      "Že si scénu prožíváme v mnohem menší podrobnosti, než se zdá",
+      "Že pro zachycení změny je zpravidla potřeba zaměřená pozornost",
+      "Že vědomá reprezentace scény je prázdná a téměř žádná neexistuje",
+      "Že přerušení obrazu mžikem naruší signál, jenž změnu prozradí"
+    ],
+    "correct": 2,
+    "explanation": "Selhání detekce změny je selháním srovnání dvou okamžiků, nikoli důkazem, že v daném okamžiku nic neprožíváme. Lidé si scénu často pamatují lépe, než dokážou využít při hledání změny. Silný závěr o „velké iluzi“ tedy z těchto pokusů sám o sobě neplyne.",
+    "source": "Rensink, O'Regan, Clark, Psychological Science (1997)",
+    "seedElo": 2000
+  },
+  {
+    "id": "nve-A31",
+    "type": "F",
+    "category": "neuroveda-vedomi",
+    "text": "Proč bispektrální index (BIS) není spolehlivou obecnou mírou vědomí?",
+    "options": [
+      "Měří pouze výkon v pásmu delta a ostatní pásma zcela pomíjí",
+      "Byl laděn na určitá anestetika a u ketaminu jeho hodnoty selhávají",
+      "Vyžaduje magnetickou stimulaci, kterou nelze provést na sále",
+      "Vypočítá se až zpětně, takže na sále nemá žádné praktické užití"
+    ],
+    "correct": 1,
+    "explanation": "BIS je empirický index sestavený z EEG znaků tak, aby odpovídal hloubce anestezie u běžných látek. U ketaminu nebo oxidu dusného ale hodnoty stoupají, přestože pacient reaguje méně, a velké studie neprokázaly převahu nad sledováním koncentrace plynu. Jde tedy o nástroj pro jednu situaci, ne o měřidlo vědomí jako takového.",
+    "source": "Avidan a kol., New England Journal of Medicine (2008)",
+    "seedElo": 1950
+  },
+  {
+    "id": "nve-A32",
+    "type": "F",
+    "category": "neuroveda-vedomi",
+    "text": "Co prožijí lidé v pokusu s takzvaným kožním králíkem Geldarda a Sherricka?",
+    "options": [
+      "Poklepy vnímají jako skoky i na místech, kam nikdo neklepal",
+      "Poklepy na zápěstí a na lokti splynou do jednoho tlaku uprostřed",
+      "Poklepy podané na jedné paži cítí zrcadlově i na paži druhé",
+      "Poklepy vnímají opožděně, přibližně o půl vteřiny po podání"
+    ],
+    "correct": 0,
+    "explanation": "Rychlá série poklepů na zápěstí a pak na loket se prožívá jako poskakování po celé paži, včetně míst mezi nimi. Umístění prvních poklepů tedy ovlivňuje až to, co přijde po nich — jde o postdikci v hmatu. Prožitek okamžiku se skládá se zpožděním, v okně několika set milisekund.",
+    "source": "Geldard & Sherrick, Science (1972)",
+    "seedElo": 1950
+  },
+  {
+    "id": "nve-A33",
+    "type": "K",
+    "category": "neuroveda-vedomi",
+    "text": "K čemu slouží míra meta-d′, kterou zavedli Maniscalco a Lau?",
+    "options": [
+      "K odhadu, jak dobře jistota člověka odpovídá jeho úspěšnosti",
+      "K odhadu, kolik informace o podnětu má člověk vůbec k dispozici",
+      "K odhadu, jak rychle se rozhodnutí v mozku vytvoří a spustí",
+      "K odhadu prahu, od kterého podnět vstupuje do zrakové kůry"
+    ],
+    "correct": 0,
+    "explanation": "Meta-d′ vyjadřuje metakognitivní citlivost v jednotkách výkonu v samotné úloze, takže ji lze porovnat s d′. Poměr meta-d′ ku d′ pak říká, kolik z dostupné informace člověk využije při hodnocení vlastní jistoty. Díky tomu jde odlišit skutečný náhled od pouhého posunu kritéria, což je pro teorie vyššího řádu klíčové.",
+    "source": "Maniscalco & Lau, Consciousness and Cognition (2012)",
+    "seedElo": 2000
+  },
+  {
+    "id": "nve-A34",
+    "type": "K",
+    "category": "neuroveda-vedomi",
+    "text": "V čem je podle Lauovy představy úkol sledování percepční reality (perceptual reality monitoring)?",
+    "options": [
+      "Udržet obsah vjemu v pracovní paměti po dobu několika vteřin",
+      "Rozlišit, co pochází ze smyslů, a co si mozek vytvořil sám",
+      "Porovnat aktuální vjem s uloženým vzorem z dlouhodobé paměti",
+      "Přiřadit vjemu emoční hodnotu podle jeho významu pro tělo"
+    ],
+    "correct": 1,
+    "explanation": "Mozek běžně generuje představy, očekávání a vzpomínky; kdyby je nedokázal odlišit od smyslového vstupu, splynuly by s realitou. Vědomý vjem je v této verzi teorie vyššího řádu právě výsledkem takového rozhodnutí o zdroji. Selhání mechanismu by pak vysvětlovalo halucinace i sníženou schopnost rozpoznat vlastní představu.",
+    "source": "Hakwan Lau, Philosophy and the Mind Sciences (2019)",
+    "seedElo": 1950
+  },
+  {
+    "id": "nve-A35",
+    "type": "F",
+    "category": "neuroveda-vedomi",
+    "text": "Jak se počítá perturbační index složitosti (PCI)?",
+    "options": [
+      "Z podílu výkonu pásma gama a pásma delta v klidovém záznamu",
+      "Z počtu oblastí, jež se rozsvítí na funkční MRI během vědomého vjemu",
+      "Z rychlosti, s jakou se vlna z podnětu rozšíří po celé kůře",
+      "Ze složitosti odpovědi kůry na magnetický pulz, měřené na EEG"
+    ],
+    "correct": 3,
+    "explanation": "Do kůry se pošle magnetický pulz a z reakce se sestaví prostorově-časová mapa významné aktivity, jejíž stlačitelnost se změří Lempel-Zivovým algoritmem. Vysoká hodnota znamená odpověď zároveň rozsáhlou a rozmanitou, tedy integrovanou i diferencovanou. Metoda tak přímo sleduje ducha integrované teorie informace, aniž by počítala fí.",
+    "source": "Casali a kol., Science Translational Medicine (2013)",
+    "seedElo": 2000
+  },
+  {
+    "id": "nve-A36",
+    "type": "F",
+    "category": "neuroveda-vedomi",
+    "text": "Co Siclari a spolupracovníci roku 2017 zjistili o tom, kdy lidé ve spánku sní?",
+    "options": [
+      "Snění provází vzestup pomalých vln v čelní části kůry mozku",
+      "Snění se objevuje výhradně ve fázi REM s rychlými pohyby očí",
+      "Snění provází pokles pomalých vln v zadní části mozkové kůry",
+      "Snění provází celkové probuzení celé kůry do bdělého vzorce"
+    ],
+    "correct": 2,
+    "explanation": "Sériová probouzení s okamžitým dotazem ukázala, že hlásené snění doprovází lokální ústup pomalé aktivity v zadní horké zóně, a to v REM i mimo něj. Obsah snu se dokonce dal hrubě odhadnout podle toho, které zadní oblasti se aktivovaly. Nález propojil spánek s obecným sporem o umístění korelátů vědomí.",
+    "source": "Siclari a kol., Nature Neuroscience (2017)",
+    "seedElo": 2050
+  },
+  {
+    "id": "nve-A37",
+    "type": "K",
+    "category": "neuroveda-vedomi",
+    "text": "Co namítá takzvaný rozvinovací argument (unfolding argument) proti teoriím opírajícím vědomí o kauzální strukturu?",
+    "options": [
+      "Že kauzální strukturu nelze u živého lidského mozku vůbec změřit",
+      "Že kauzální struktura se v mozku mění příliš rychle na měření",
+      "Že ke každé rekurentní síti existuje dopředná s týmž chováním",
+      "Že takové teorie nedokážou vysvětlit obsah jednotlivých vjemů"
+    ],
+    "correct": 2,
+    "explanation": "Rekurentní síť lze rozvinout do dopředné, která dává na stejné vstupy stejné výstupy; pokud jí teorie přisoudí jiné vědomí, žádný behaviorální test je neodliší. Autoři z toho vyvozují dilema: buď je taková teorie nefalzifikovatelná, nebo je vlastně behaviorální. Obhájci odpovídají, že vědecké teorie se běžně opírají i o jiné důkazy než o chování.",
+    "source": "Doerig, Schurger, Kammers, Herzog, Consciousness and Cognition (2019)",
+    "seedElo": 2150
+  },
+  {
+    "id": "nve-A38",
+    "type": "F",
+    "category": "neuroveda-vedomi",
+    "text": "Čím Scott Aaronson roku 2014 zpochybnil integrovanou teorii informace?",
+    "options": [
+      "Ukázal, že fí nelze spočítat ani pro systém o deseti prvcích",
+      "Ukázal, že fí u dvou nezávislých systémů klesá až pod nulu",
+      "Ukázal, že fí závisí na volbě jednotek, v nichž systém popíšeme",
+      "Ukázal, že jednoduchá matematická mřížka vychází s obrovským fí"
+    ],
+    "correct": 3,
+    "explanation": "Aaronson zkonstruoval sítě pro opravu chyb a pravidelné mřížky, jejichž fí převyšuje lidský mozek, ačkoli nedělají nic zajímavého. Podle něj to teorii vyvrací; Tononi odpověděl, že takové systémy pak prostě vědomé jsou a naše intuice se mýlí. Výměna dobře ukazuje, oč ve sporu o IIT jde: jak moc smí teorie odporovat běžnému úsudku.",
+    "source": "Scott Aaronson, Shtetl-Optimized (2014); Tononi, odpověď (2014)",
+    "seedElo": 2150
+  },
+  {
+    "id": "nve-A39",
+    "type": "F",
+    "category": "neuroveda-vedomi",
+    "text": "Frässle a spolupracovníci sledovali binokulární rivalitu bez hlášení, jen podle pohybů očí a zornic. Co našli?",
+    "options": [
+      "Aktivita čelní kůry provázející zvraty bez hlášení výrazně opadla",
+      "Zvraty vjemu se bez hlášení objevovaly podstatně méně často",
+      "Aktivita zrakové kůry bez hlášení opadla, čelní naopak vzrostla",
+      "Bez hlášení zmizely z výsledků také rozdíly mezi oběma vjemy"
+    ],
+    "correct": 0,
+    "explanation": "Když se vjemové zvraty odečítaly z optokinetického nystagmu a šíře zornice, frontální aktivace se z velké části vytratila, zatímco zadní zůstala. To podpořilo podezření, že část prefrontálních nálezů patří hlášení, nikoli vjemu samému. Kritici ovšem namítají, že i nepřímé míry jsou svým způsobem formou reportu.",
+    "source": "Frässle, Sommer, Jansen, Naber, Einhäuser, Journal of Neuroscience (2014)",
+    "seedElo": 2100
+  },
+  {
+    "id": "nve-A40",
+    "type": "K",
+    "category": "neuroveda-vedomi",
+    "text": "Aru, Bachmann, Singer a Melloni upozornili, že mezi nálezy vydávanými za koreláty vědomí bývají i:",
+    "options": [
+      "koreláty jiných druhů, které nelze na člověka vůbec převést",
+      "předpoklady a následky vědomého vjemu, nikoli vjem sám o sobě",
+      "artefakty pohybu očí, které se z dat nedají spolehlivě odečíst",
+      "koreláty spánkových stadií zaměněné za stavy bdělého vědomí"
+    ],
+    "correct": 1,
+    "explanation": "Autoři rozlišili předpoklady vjemu, jeho vlastní substrát a jeho důsledky, například hlášení, paměťovou stopu nebo emoční reakci. Kontrast vědomé versus nevědomé zkušenosti všechny tři složky slévá dohromady. Doporučili proto přísnější návrhy pokusů, které tyto vrstvy oddělí — jeden z kořenů dnešních paradigmat bez hlášení.",
+    "source": "Aru, Bachmann, Singer, Melloni, Neuroscience and Biobehavioral Reviews (2012)",
+    "seedElo": 2100
+  },
+  {
+    "id": "nve-A41",
+    "type": "F",
+    "category": "neuroveda-vedomi",
+    "text": "Jak byla stanovena prahová hodnota PCI oddělující vědomé stavy od nevědomých?",
+    "options": [
+      "Odvozením z teorie, v níž práh odpovídá hodnotě fí rovné jedné",
+      "Ze srovnávacího souboru stavů, u nichž je vědomí předem jisté",
+      "Z průměru hodnot naměřených u pacientů ve vegetativním stavu",
+      "Z hodnoty, při níž se u dobrovolníků poprvé objeví pohyb těla"
+    ],
+    "correct": 1,
+    "explanation": "Práh byl kalibrován na skupině lidí, u nichž o přítomnosti či nepřítomnosti vědomí nikdo nepochybuje: bdělí a hlásící, versus v hlubokém spánku či v anestezii. Nejvyšší hodnota naměřená u nevědomých stavů posloužila jako mez, kterou pak lze aplikovat na sporné pacienty. Metoda je tedy empiricky ukotvená, nikoli odvozená z teoretické hodnoty.",
+    "source": "Casarotto a kol., Annals of Neurology (2016)",
+    "seedElo": 2100
+  },
+  {
+    "id": "nve-A42",
+    "type": "K",
+    "category": "neuroveda-vedomi",
+    "text": "Proč vzbudily mozkové organoidy z Muotriho laboratoře debatu o vědomí?",
+    "options": [
+      "Jejich buňky nesou stejnou výbavu receptorů jako kůra dospělých",
+      "Jejich objem po roce růstu dosáhl velikosti mozku novorozence",
+      "Jejich signál začal vykazovat vzorce podobné EEG nedonošenců",
+      "Jejich tkáň reagovala na dotyk stažením, tedy obranným pohybem"
+    ],
+    "correct": 2,
+    "explanation": "Po několika měsících vývoje se v kultuře objevila spontánní síťová aktivita, jejíž vzorce statisticky připomínaly záznam předčasně narozených dětí. Podobnost signálu ale sama o sobě nic o prožitku neříká: chybí smyslový vstup, tělo i uspořádaná architektura. Debata se proto vede spíš o tom, jaké míry by vůbec byly relevantní.",
+    "source": "Trujillo a kol., Cell Stem Cell (2019)",
+    "seedElo": 2100
+  },
+  {
+    "id": "nve-A43",
+    "type": "F",
+    "category": "neuroveda-vedomi",
+    "text": "Co Kouider a spolupracovníci roku 2013 naměřili u pěti měsíců starých kojenců?",
+    "options": [
+      "Odpověď podobná pozdní vlně dospělých, jen mnohem opožděnější",
+      "Odpověď na viděnou tvář zcela chyběla a objevila se až po roce",
+      "Odpověď rychlejší než u dospělých, zato slabší a nepravidelná",
+      "Odpověď omezená na sluchovou kůru, zraková zůstala bez reakce"
+    ],
+    "correct": 0,
+    "explanation": "U kojenců se po dostatečně viditelné tváři objevila pomalá pozdní vlna, obdobná znaku vědomého vjemu u dospělých, ale nastupující se zpožděním kolem jedné vteřiny. Autoři z toho usuzovali na přítomnost jakési pomalé formy vědomého zpracování. Jde ovšem o nepřímý argument z analogie, ne o důkaz prožitku u nemluvněte.",
+    "source": "Kouider a kol., Science (2013)",
+    "seedElo": 2150
+  },
+  {
+    "id": "nve-A44",
+    "type": "K",
+    "category": "neuroveda-vedomi",
+    "text": "Jak postupovala zpráva Butlina, Longa a dalších z roku 2023 při posuzování vědomí u umělé inteligence?",
+    "options": [
+      "Otestovala přední jazykové modely dotazníkem na vlastní prožitky",
+      "Změřila fí u velkých jazykových modelů a porovnala je s mozkem",
+      "Opřela se o hlášení uživatelů o chování chatovacích systémů",
+      "Z teorií vědomí odvodila seznam znaků a hledala je v systémech"
+    ],
+    "correct": 3,
+    "explanation": "Autoři vyšli z předpokladu výpočetního funkcionalismu a z hlavních teorií vytáhli seznam indikátorových vlastností, například globální pracovní prostor, opakované zpracování nebo agenturu. Závěr zněl, že žádný současný systém není silným kandidátem, ale ani nevidí zásadní technickou překážku. Metoda se tak vyhýbá jak dotazování modelu, tak výpočtu fí, který u těchto architektur není proveditelný.",
+    "source": "Butlin, Long a kol., arXiv (2023)",
+    "seedElo": 2100
+  }
+]

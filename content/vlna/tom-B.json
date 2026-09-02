@@ -1,0 +1,706 @@
+[
+  {
+    "id": "tom-B01",
+    "type": "F",
+    "category": "theory-of-mind",
+    "text": "Emoční nákaza (emotional contagion) se od empatie liší především tím, že:",
+    "options": [
+      "vyžaduje vědomý úsudek o tom, co druhý člověk v tu chvíli prožívá",
+      "objevuje se pouze mezi lidmi s velmi blízkým citovým poutem",
+      "probíhá automaticky a bez rozlišení, čí emoce to vlastně je",
+      "týká se výhradně negativních stavů, jako je strach či hnus"
+    ],
+    "correct": 2,
+    "explanation": "Emoční nákaza je rychlé, převážně bezděčné přelévání afektu — člověk se naladí na výraz a hlas druhého a začne cítit totéž, aniž by si podržel hranici mezi sebou a druhým. Empatie oproti tomu tuto hranici drží: vím, že prožitek patří tobě. Nákaza proto může vést spíš k vlastní tísni než k porozumění nebo pomoci.",
+    "source": "Hatfield, Cacioppo a Rapson: Emotional Contagion (1994)",
+    "seedElo": 1500
+  },
+  {
+    "id": "tom-B02",
+    "type": "F",
+    "category": "theory-of-mind",
+    "text": "Spotlight efekt popsaný Gilovichem a spolupracovníky znamená, že lidé:",
+    "options": [
+      "přeceňují, jak nápadní jsou druhým a jak bedlivě je druzí sledují",
+      "podceňují vliv situace, když vysvětlují cizí nápadné chování",
+      "přeceňují shodu svých názorů s názory většiny ostatních lidí",
+      "podceňují, jak silně na ně působí přítomnost sledujícího davu"
+    ],
+    "correct": 0,
+    "explanation": "V pokusech s trapným tričkem účastníci odhadovali, že si jejich oblečení všimne zhruba dvojnásobek lidí oproti skutečnosti. Zdrojem je nedostatečné odpoutání od vlastní perspektivy: vlastní stav je nám nápadný, a tak jej promítáme do hlav druhých. Ostatní distraktory popisují jiná zkreslení — atribuční chybu a efekt falešného konsenzu.",
+    "source": "Gilovich, Medvec a Savitsky (JPSP, 2000)",
+    "seedElo": 1520
+  },
+  {
+    "id": "tom-B03",
+    "type": "F",
+    "category": "theory-of-mind",
+    "text": "Iluze transparentnosti (illusion of transparency) spočívá v tom, že:",
+    "options": [
+      "cizí vnitřní stavy odhadujeme mnohem lépe, než si připouštíme",
+      "vlastní chování považujeme za průhledný důsledek okolností",
+      "u druhých vidíme více emocí, než jich ve skutečnosti mají",
+      "své vnitřní stavy pokládáme za čitelnější, než opravdu jsou"
+    ],
+    "correct": 3,
+    "explanation": "Nervózní řečník je přesvědčen, že je jeho tréma vidět, přestože publikum ji odhalí jen zřídka. Mechanismus je stejný jako u spotlight efektu: vlastní vnitřní zážitek je pro nás tak výrazný, že jej nedokážeme dost odečíst při odhadu cizího pohledu. Znalost tohoto zkreslení paradoxně trému snižuje.",
+    "source": "Gilovich, Savitsky a Medvec (JPSP, 1998)",
+    "seedElo": 1550
+  },
+  {
+    "id": "tom-B04",
+    "type": "F",
+    "category": "theory-of-mind",
+    "text": "Základní atribuční chyba (fundamental attribution error) označuje sklon:",
+    "options": [
+      "vysvětlovat vlastní neúspěch okolnostmi a úspěch svými vlohami",
+      "přeceňovat povahové rysy a podceňovat situaci u chování druhých",
+      "hodnotit člena vlastní skupiny mírněji než člena skupiny cizí",
+      "považovat vlastní pohled na situaci za nezaujatý obraz reality"
+    ],
+    "correct": 1,
+    "explanation": "Pozorovatel vidí jednajícího člověka v popředí a situaci jen jako pozadí, takže příčinu hledá v povaze. Ostatní nabídky jsou rovněž skutečná zkreslení: sebeobsluhující atribuce, stranění vlastní skupině a naivní realismus. Termín zavedl Lee Ross v roce 1977 a od té doby se ukazuje, že jeho síla kolísá podle kultury i podle uspořádání úlohy.",
+    "source": "Lee Ross (Advances in Experimental Social Psychology, 1977)",
+    "seedElo": 1560
+  },
+  {
+    "id": "tom-B05",
+    "type": "F",
+    "category": "theory-of-mind",
+    "text": "Společné vědění (common ground) v pojetí Herberta Clarka je:",
+    "options": [
+      "soubor znalostí, o nichž oba mluvčí vědí, že je sdílejí",
+      "průnik faktů, které oba mluvčí nezávisle na sobě znají",
+      "zásoba slov, jimž rozumějí všichni členové jazykového celku",
+      "soubor témat, na nichž se mluvčí předem výslovně dohodli"
+    ],
+    "correct": 0,
+    "explanation": "Rozhodující je vzájemnost: nestačí, že oba něco vědí, oba to musí vědět i o tom druhém. Kdybych znal fakt, o kterém netuším, že jej znáš i ty, nemohu se na něj v řeči beze slov odvolat. Právě tato vzájemná znalost umožňuje zkratky, narážky a užití zájmen bez vysvětlování.",
+    "source": "Herbert H. Clark: Using Language (1996)",
+    "seedElo": 1580
+  },
+  {
+    "id": "tom-B06",
+    "type": "F",
+    "category": "theory-of-mind",
+    "text": "Porozumění sarkastické poznámce vyžaduje navíc oproti doslovnému výroku:",
+    "options": [
+      "rozpoznat, že věta v sobě nese vnitřně rozporný obsah",
+      "znát přesný význam všech slov, která mluvčí použil",
+      "odhadnout mluvčího postoj k tomu, co doslova říká",
+      "vybavit si dřívější situaci s podobným průběhem"
+    ],
+    "correct": 2,
+    "explanation": "Věta „No to se ti fakt povedlo“ je sama o sobě bezrozporná; sarkastickou ji dělá teprve rozpor mezi doslovným obsahem a mluvčího zjevným postojem. Posluchač tedy musí modelovat nejen co bylo řečeno, ale i jak se k tomu mluvčí sám staví. Proto sarkasmus vyžaduje bohatší mentalizaci než prostá informace.",
+    "source": "Happé (1993); Sperber a Wilson o ironii",
+    "seedElo": 1590
+  },
+  {
+    "id": "tom-B07",
+    "type": "F",
+    "category": "theory-of-mind",
+    "text": "Podle výzkumu antropomorfizace lidé připisují mysl neživým věcem nejspíš tehdy, když:",
+    "options": [
+      "věc je tvarem i barvou co nejvěrnější kopií člověka",
+      "jsou osamělí a chování té věci je pro ně nepředvídatelné",
+      "věc patří k technice, které dobře rozumějí a ovládají ji",
+      "jsou ve stresu a potřebují si co nejrychleji odpočinout"
+    ],
+    "correct": 1,
+    "explanation": "Antropomorfizace není naivita, ale řešení dvou problémů: potřeby něco nepředvídatelného vysvětlit a potřeby sociálního kontaktu. Osamělí lidé připisují mysl domácím mazlíčkům i přístrojům výrazně častěji, a naopak dobře pochopená technika se personifikuje méně. Podoba s člověkem hraje roli, ale je slabším činitelem než tyto motivace.",
+    "source": "Epley, Waytz a Cacioppo (Psychological Review, 2007)",
+    "seedElo": 1600
+  },
+  {
+    "id": "tom-B08",
+    "type": "F",
+    "category": "theory-of-mind",
+    "text": "Singer a Klimecki oddělují empatickou tíseň od soucitu především proto, že:",
+    "options": [
+      "soucit se objevuje pouze u lidí vycvičených v meditaci",
+      "empatická tíseň mizí, jakmile pochopíme příčinu utrpení",
+      "obojí spouští tutéž síť, liší se jen silou prožitku",
+      "vedou k jinému chování: k odtažení, nebo k pomoci druhým"
+    ],
+    "correct": 3,
+    "explanation": "Empatická tíseň je sdílení negativního afektu, které zahlcuje a vede k vyhýbání a vyhoření. Soucit obsahuje teplo a starost o druhého, je spojen s pozitivním afektem a s ochotou pomoci. Rozdíl není jen slovní: obě polohy se liší i zapojenými mozkovými okruhy a lze je odděleně trénovat.",
+    "source": "Singer a Klimecki (Current Biology, 2014)",
+    "seedElo": 1650
+  },
+  {
+    "id": "tom-B09",
+    "type": "F",
+    "category": "theory-of-mind",
+    "text": "Eyal, Steffel a Epley v sérii pokusů zjistili, že snaha vžít se do druhého:",
+    "options": [
+      "přesnost odhadu nezlepšila, kdežto přímé zeptání ano",
+      "přesnost odhadu zlepšila výrazně u blízkých, jinde ne",
+      "přesnost odhadu zlepšila jen u odhadů vlastních emocí",
+      "přesnost odhadu i sebedůvěru v odhad shodně snížila"
+    ],
+    "correct": 0,
+    "explanation": "Ve 25 pokusech instrukce „představ si, jak to vidí on“ přesnost nezlepšila a někdy ji dokonce zhoršila, protože posílila spoléhání na vlastní stereotypy. Účinné bylo teprve perspective getting — skutečně se druhého zeptat a poslechnout si odpověď. Poučení je nepříjemné: dobrý úmysl vcítit se nenahradí informaci.",
+    "source": "Eyal, Steffel a Epley (JPSP, 2018)",
+    "seedElo": 1660
+  },
+  {
+    "id": "tom-B10",
+    "type": "F",
+    "category": "theory-of-mind",
+    "text": "Měření empatické přesnosti metodou Williama Ickese u cizích lidí při prvním setkání dává výsledek:",
+    "options": [
+      "kolem devadesáti procent správně odhadnutých myšlenek",
+      "kolem dvaceti procent správně odhadnutých myšlenek",
+      "přesně na úrovni náhody, tedy nulovou úspěšnost",
+      "vyšší u mužů než u žen zhruba o polovinu případů"
+    ],
+    "correct": 1,
+    "explanation": "V Ickesově metodě dvojice po nahrané konverzaci zapisuje své myšlenky a pak hádá myšlenky partnera; cizí lidé trefí kolem dvaceti procent, blízcí přátelé a partneři zhruba třicet až pětatřicet. Je to tedy zřetelně lepší než náhoda, ale hluboko pod naší sebedůvěrou. Ženy skórují mírně lépe hlavně tehdy, když je jim úloha rámována jako test empatie.",
+    "source": "William Ickes: Everyday Mind Reading (2003)",
+    "seedElo": 1680
+  },
+  {
+    "id": "tom-B11",
+    "type": "F",
+    "category": "theory-of-mind",
+    "text": "Naivní realismus podle Lee Rosse zahrnuje kromě přesvědčení o vlastní nezaujatosti také očekávání, že:",
+    "options": [
+      "druzí vidí svět zkresleně, ale poctivě se snaží o pravdu",
+      "vlastní pohled je jen jednou z mnoha rovnocenných verzí",
+      "spor lze vyřešit tím, že obě strany ustoupí na půl cesty",
+      "rozumní lidé po seznámení s fakty dojdou ke stejnému názoru"
+    ],
+    "correct": 3,
+    "explanation": "Naivní realista považuje svůj obraz světa za prostý otisk skutečnosti, a proto očekává souhlas každého, kdo je rozumný a informovaný. Když souhlas nepřijde, vysvětlí si nesouhlas neznalostí, leností nebo zaujatostí druhé strany. Tento krok je jádrem eskalace politických i osobních sporů.",
+    "source": "Ross a Ward: Naive Realism in Everyday Life (1996)",
+    "seedElo": 1700
+  },
+  {
+    "id": "tom-B12",
+    "type": "F",
+    "category": "theory-of-mind",
+    "text": "Gray a Wegner našli v datech o připisování mysli dvě hlavní dimenze, a to:",
+    "options": [
+      "rozumové schopnosti a mravní zodpovědnost za vlastní činy",
+      "vědomí sebe sama a schopnost dorozumět se jazykem",
+      "schopnost jednat a schopnost prožívat pocity a vjemy",
+      "vnímání okolí a paměť na vlastní minulé prožitky"
+    ],
+    "correct": 2,
+    "explanation": "V rozsáhlém dotazování lidé hodnotili různé bytosti a rozměry se rozpadly na agency (plánování, sebeovládání, mravní odpovědnost) a experience (bolest, hlad, strach, radost). Dospělý člověk skóruje vysoko v obojím, robot vysoko jen v agency, novorozenec nebo zvíře hlavně v experience. Rozdělení má mravní důsledky: agency zakládá vinu, experience nárok na ochranu.",
+    "source": "Gray, Gray a Wegner: Dimensions of Mind Perception (Science, 2007)",
+    "seedElo": 1700
+  },
+  {
+    "id": "tom-B13",
+    "type": "F",
+    "category": "theory-of-mind",
+    "text": "Haslamovo rozlišení mechanistické a animalistické dehumanizace stojí na tom, že:",
+    "options": [
+      "první se týká skupin, druhá jednotlivců uvnitř skupiny",
+      "první upírá lidskou přirozenost, druhá to, co je jen lidské",
+      "první je vědomá a záměrná, druhá probíhá zcela bezděčně",
+      "první se týká nepřátel ve válce, druhá cizinců v míru"
+    ],
+    "correct": 1,
+    "explanation": "Mechanistická dehumanizace upírá druhému lidskou přirozenost — vřelost, citovost, hloubku — a dělá z něj automat; typická je pro medicínu, byrokracii a odosobněné vztahy. Animalistická upírá to, co je pro člověka jedinečné — kultivovanost, mravní cit, vyšší rozum — a přibližuje druhého ke zvířeti; typická je pro rasismus a válečnou propagandu. Obě mohou probíhat i mírně a bezděčně.",
+    "source": "Nick Haslam: Dehumanization — An Integrative Review (2006)",
+    "seedElo": 1720
+  },
+  {
+    "id": "tom-B14",
+    "type": "F",
+    "category": "theory-of-mind",
+    "text": "Vztah mezi vývojem teorie mysli a dětským lhaním je podle výzkumů takový, že:",
+    "options": [
+      "lepší mentalizace předpovídá schopnost lež souvisle udržet",
+      "děti se schopnou mentalizací lžou méně, protože chápou újmu",
+      "lhaní se objevuje dřív než jakékoli mentalizační schopnosti",
+      "obě schopnosti spolu nesouvisejí, jde o oddělené okruhy"
+    ],
+    "correct": 0,
+    "explanation": "V úlohách typu „nedívej se na hračku“ lžou i velmi malé děti, ale okamžitě se prozradí následnou otázkou. Teprve s lepší mentalizací (a s exekutivními funkcemi) přichází semantic leakage control — schopnost udržet lež konzistentní s tím, co druhý může vědět. Lhaní tedy není známkou mravního selhání, ale vývojovým milníkem sociální kognice.",
+    "source": "Talwar a Lee (Child Development, 2008)",
+    "seedElo": 1730
+  },
+  {
+    "id": "tom-B15",
+    "type": "F",
+    "category": "theory-of-mind",
+    "text": "Spolehlivým testem presupozice oproti konverzační implikatuře je to, že presupozice:",
+    "options": [
+      "se dá zrušit dodatkem, aniž ve větě vznikne nějaký rozpor",
+      "vzniká teprve z porušení pravidla o množství sděleného obsahu",
+      "přežije i tehdy, když celou větu popřeme či zpochybníme",
+      "závisí na tom, jak silně mluvčí své tvrzení zdůrazní"
+    ],
+    "correct": 2,
+    "explanation": "Věta „Petr přestal kouřit“ i její negace „Petr nepřestal kouřit“ shodně předpokládají, že Petr dřív kouřil — presupozice přežívá negaci i otázku. Implikatura se naproti tomu dá bez rozporu zrušit: „Někteří přišli, vlastně všichni.“ Tato dvojice testů, projekce a zrušitelnost, je základní pragmatické nářadí.",
+    "source": "Standardní pragmatika: Stalnaker o presupozici, Grice o zrušitelnosti",
+    "seedElo": 1740
+  },
+  {
+    "id": "tom-B16",
+    "type": "F",
+    "category": "theory-of-mind",
+    "text": "Deiktické výrazy jako „zítra“, „tady“ nebo „ty“ se vyznačují tím, že:",
+    "options": [
+      "mají v každém jazyce zcela shodný okruh významů",
+      "nelze je použít, pokud mluvčí a posluchač nejsou spolu",
+      "označují vždy tutéž věc bez ohledu na situaci užití",
+      "jejich odkaz se mění s tím, kdo, kdy a kde je pronáší"
+    ],
+    "correct": 3,
+    "explanation": "Deixe kotví jazyk do situace: význam slova zůstává stálý, ale odkaz se počítá až od mluvčího, místa a času promluvy. Vzkaz „Vrátím se za hodinu“ na dveřích je proto k ničemu — chybí kotva. Porozumění deixi vyžaduje modelovat pozici druhého, což z ní dělá pragmatický jev úzce svázaný s mentalizací.",
+    "source": "Karl Bühler (Sprachtheorie, 1934); Levinson: Pragmatics (1983)",
+    "seedElo": 1750
+  },
+  {
+    "id": "tom-B17",
+    "type": "F",
+    "category": "theory-of-mind",
+    "text": "Teorie relevance Sperbera a Wilsona nahrazuje Griceovy maximy jedním principem, podle nějž posluchač:",
+    "options": [
+      "hledá výklad s co největším přínosem za co nejmenší námahu",
+      "hledá výklad, který mluvčího ukáže v nejlepším možném světle",
+      "hledá výklad nejbližší doslovnému významu pronesené věty",
+      "hledá výklad, jenž nejvíc rozšíří společné vědění obou stran"
+    ],
+    "correct": 0,
+    "explanation": "Relevance je u Sperbera a Wilsona poměr kognitivního přínosu k vynaloženému úsilí. Posluchač testuje výklady v pořadí dostupnosti a zastaví se u prvního, který stojí za námahu — nehledá tedy nejlepší možný výklad, ale první dostatečně dobrý. Griceovy čtyři maximy se tak redukují na jediné měřítko.",
+    "source": "Sperber a Wilson: Relevance — Communication and Cognition (1986)",
+    "seedElo": 1750
+  },
+  {
+    "id": "tom-B18",
+    "type": "F",
+    "category": "theory-of-mind",
+    "text": "Tomasello považuje za klíčovou lidskou zvláštnost sdílenou intencionalitu, tedy schopnost:",
+    "options": [
+      "odhadnout, co druhý zamýšlí, a využít to ve svůj prospěch",
+      "napodobit cizí pohyb do nejmenšího detailu bez nácviku",
+      "mít s druhým společný cíl i společnou pozornost k němu",
+      "předat potomkům nasbírané dovednosti pomocí řeči a písma"
+    ],
+    "correct": 2,
+    "explanation": "Sdílená intencionalita není jen čtení cizích záměrů, ale vytvoření společného „my“ s dělbou rolí a vzájemným závazkem k cíli. Z ní podle Tomasella vyrůstá kooperativní komunikace, kumulativní kultura i normy. Číst záměry a využít je proti druhému umí i jiné druhy; udržet společný záměr je lidská specialita.",
+    "source": "Tomasello: Origins of Human Communication (2008)",
+    "seedElo": 1750
+  },
+  {
+    "id": "tom-B19",
+    "type": "K",
+    "category": "theory-of-mind",
+    "text": "V jednorázové ultimátní hře o 100 korun nabídne navrhovatel 20 korun. Jak se zachová druhý hráč v typickém laboratorním výsledku?",
+    "options": [
+      "Přijme vždy, protože něco je lepší než nic.",
+      "Často nabídku odmítne a oba nedostanou nic.",
+      "Nabídku přijme a příště nabídne stejně málo.",
+      "Odmítne jen tehdy, pokud hru hraje opakovaně."
+    ],
+    "correct": 1,
+    "explanation": "Nabídky pod zhruba pětinou částky bývají odmítány v polovině i více případů, ačkoli odmítnutí znamená nulu místo dvaceti. Chování dává smysl, pokud hráč modeluje záměr protihráče: trestá vnímanou nespravedlnost, ne částku. Odmítání mizí, když je nabídka generována losem nebo počítačem — tedy když za ní není žádná mysl.",
+    "source": "Güth, Schmittberger a Schwarze (1982); Sanfey a spol. (Science, 2003)",
+    "seedElo": 1700
+  },
+  {
+    "id": "tom-B20",
+    "type": "F",
+    "category": "theory-of-mind",
+    "text": "Dunbarova hypotéza o roli klevet v lidských skupinách tvrdí, že klevety:",
+    "options": [
+      "slouží hlavně k zábavě a nemají žádnou další funkci",
+      "vznikly až s písmem, které umožnilo drby uchovávat",
+      "jsou vedlejším produktem řeči bez vlivu na chování",
+      "nahrazují vzájemné probírání srsti a hlídají reputaci"
+    ],
+    "correct": 3,
+    "explanation": "Podle Dunbara umožnila řeč udržovat pouta ve větších skupinách levněji než fyzické probírání srsti u primátů — a zároveň šířit informaci o tom, kdo je spolehlivý. Reputace tak funguje jako mechanismus nepřímé reciprocity: vyplatí se spolupracovat, protože se o tom mluví. Analýzy běžných rozhovorů skutečně ukazují převahu témat o sociálních vztazích.",
+    "source": "Robin Dunbar: Grooming, Gossip and the Evolution of Language (1996)",
+    "seedElo": 1750
+  },
+  {
+    "id": "tom-B21",
+    "type": "K",
+    "category": "theory-of-mind",
+    "text": "Ve hře „hádej dvě třetiny průměru všech tipů“ v rozsahu 0 až 100 volí běžný vzorek účastníků čísla kolem 20 až 35. Co to ukazuje?",
+    "options": [
+      "Že hráči hrají rovnovážnou strategii teorie her.",
+      "Že hráči čísla volí zcela náhodně bez uvažování.",
+      "Že hráči uvažují jen jeden dva kroky za ostatní.",
+      "Že hráči nerozumějí zadání a počítají průměr špatně."
+    ],
+    "correct": 2,
+    "explanation": "Nashova rovnováha této hry je nula, což vyžaduje nekonečné iterování „on ví, že já vím…“. Reálné tipy odpovídají jedné až dvěma iteracím od náhodného průměru 50 (tedy 33 a 22). Modely kognitivní hierarchie odtud odhadují průměrnou hloubku mentalizace v populaci zhruba na úroveň 1,5.",
+    "source": "Nagel (AER, 1995); Camerer, Ho a Chong (QJE, 2004)",
+    "seedElo": 1800
+  },
+  {
+    "id": "tom-B22",
+    "type": "F",
+    "category": "theory-of-mind",
+    "text": "Csibra a Gergely tvrdí, že ostenzivní signály jako oční kontakt a oslovení dítěti sdělují, že:",
+    "options": [
+      "dospělý po něm chce, aby přesně zopakovalo jeho pohyb",
+      "další sdělení platí obecně, ne jen pro danou situaci",
+      "dospělý se chystá odejít a předává mu poslední pokyn",
+      "dítě má sledovat předmět, nikoli tvář dospělého u něj"
+    ],
+    "correct": 1,
+    "explanation": "Přirozená pedagogika předpokládá, že ostenzivní signály zapínají u dítěte režim učení: to, co teď uvidím, je obecně platná vlastnost daného druhu věcí, ne nahodilost této chvíle. Pokusy ukazují, že děti po ostenzivním úvodu generalizují vlastnost na jiné exempláře a k jiným lidem, kdežto bez něj ji berou jako místní. Teorie je vlivná, ale některé její predikce se v replikacích ukázaly jako křehčí, než se čekalo.",
+    "source": "Csibra a Gergely: Natural Pedagogy (TiCS, 2009)",
+    "seedElo": 1800
+  },
+  {
+    "id": "tom-B23",
+    "type": "F",
+    "category": "theory-of-mind",
+    "text": "Současný stav bádání o zrcadlových neuronech ve vztahu k empatii lze shrnout tak, že:",
+    "options": [
+      "náznaky u člověka jsou, ale výklad empatie jimi je sporný",
+      "u člověka byly změřeny jednotlivě a empatii spolehlivě vysvětlují",
+      "byly nalezeny jen u opic a u člověka je jejich existence vyvrácena",
+      "jejich role byla potvrzena, ale jen u rozpoznávání cizí bolesti"
+    ],
+    "correct": 0,
+    "explanation": "U makaků jde o měření jednotlivých buněk, u člověka jsou důkazy převážně nepřímé (fMRI, adaptace), s výjimkou vzácných záznamů u epileptických pacientů. Kritika Gregoryho Hickoka ukázala, že zrcadlení neumí vysvětlit ani porozumění jednání, natož empatii, a že pozorovaná aktivita může být důsledkem porozumění, ne jeho příčinou. Populární rovnice „zrcadlové neurony rovná se empatie“ je proto silně přepálená.",
+    "source": "Hickok: The Myth of Mirror Neurons (2014); Mukamel a spol. (2010)",
+    "seedElo": 1820
+  },
+  {
+    "id": "tom-B24",
+    "type": "F",
+    "category": "theory-of-mind",
+    "text": "Nález Kidda a Castana, že čtení literární beletrie zlepšuje čtení mysli, dopadl v pozdějším ověřování takto:",
+    "options": [
+      "byl potvrzen ve všech pokusech o přímé zopakování studie",
+      "byl potvrzen, ale jen u čtenářů starších šedesáti let",
+      "nebyl ověřován, studie zůstala dodnes bez následovníků",
+      "velké replikace efekt nenašly nebo našly jen nepatrný"
+    ],
+    "correct": 3,
+    "explanation": "Původní studie z roku 2013 tvrdila, že krátké čtení literární prózy zlepší výkon v testu čtení emocí z očí. Rozsáhlé replikace (Panero a spol. 2016 s tisícovkou účastníků) efekt nenašly a metaanalýzy hovoří nanejvýš o velmi malém vlivu. Co zůstává, je korelace mezi celoživotní expozicí beletrii a sociální kognicí — směr příčiny je ale neznámý.",
+    "source": "Kidd a Castano (Science, 2013); Panero a spol. (JPSP, 2016)",
+    "seedElo": 1830
+  },
+  {
+    "id": "tom-B25",
+    "type": "F",
+    "category": "theory-of-mind",
+    "text": "Klimecki a Singer ve snímkování pozorovali, že trénink soucitu oproti tréninku empatie zapojuje víc:",
+    "options": [
+      "přední insulu a přední cingulární kůru, sídlo tísně",
+      "mediální orbitofrontální kůru a ventrální striatum",
+      "amygdalu a hipokampus, tedy okruh paměti na strach",
+      "primární somatosenzorickou kůru obou hemisfér mozku"
+    ],
+    "correct": 1,
+    "explanation": "Empatický trénink zvýšil aktivitu v přední insule a středním cingulu — okruhu sdílené negativní afektivity — a zvýšil i hlášenou tíseň. Následný trénink soucitu tento obraz obrátil a zapojil okruhy spojené s odměnou a afiliací, tedy mediální OFC, ventrální striatum a ventrální tegmentum. Jde o důkaz, že soucit není jen slabší empatie, ale jiný stav.",
+    "source": "Klimecki, Leiberg, Lamm a Singer (Cerebral Cortex, 2013)",
+    "seedElo": 1840
+  },
+  {
+    "id": "tom-B26",
+    "type": "F",
+    "category": "theory-of-mind",
+    "text": "V pokusu Jonese a Harrise s eseji o Castrovi posuzovatelé připisovali autorům procastrovský postoj i tehdy, když:",
+    "options": [
+      "věděli, že směr eseje byl autorovi přidělen losem",
+      "esej byla napsaná zjevně nedbale a plná protimluvů",
+      "posuzovatelé sami měli k Castrovi otevřený odpor",
+      "autor v eseji svůj vlastní postoj výslovně popřel"
+    ],
+    "correct": 0,
+    "explanation": "I při plné informaci o nesvobodné volbě tématu posuzovatelé usuzovali na skutečný postoj autora — tomu se říká korespondenční zkreslení. Klasický výklad mluví o nedostatečné korekci ukotveného prvního dojmu; novější rozbory dodávají, že účastníci se navíc domnívali, že i vnucený text prozradí něco z autora. Efekt je robustní a patří k nejcitovanějším v sociální psychologii.",
+    "source": "Jones a Harris (Journal of Experimental Social Psychology, 1967)",
+    "seedElo": 1850
+  },
+  {
+    "id": "tom-B27",
+    "type": "F",
+    "category": "theory-of-mind",
+    "text": "Studie Joan Millerové a práce Morrise a Penga o atribuci napříč kulturami zjistily, že:",
+    "options": [
+      "sklon k povahovým příčinám je u všech kultur stejně silný",
+      "Indové vysvětlují chování povahou častěji než Američané",
+      "Američané sahají po povahových příčinách častěji než Číňané",
+      "děti se v atribucích liší podle kultury víc než dospělí lidé"
+    ],
+    "correct": 2,
+    "explanation": "Millerová ukázala, že s věkem roste u Američanů podíl dispozičních vysvětlení, kdežto u Hindů podíl vysvětlení kontextových — rozdíl je tedy kulturně naučený, u malých dětí chybí. Morris a Peng našli totéž v novinových zprávách o vraždách: americký tisk hledal příčinu v povaze pachatele, čínský v okolnostech. Základní atribuční chyba proto není univerzální konstanta lidské mysli.",
+    "source": "Miller (JPSP, 1984); Morris a Peng (JPSP, 1994)",
+    "seedElo": 1850
+  },
+  {
+    "id": "tom-B28",
+    "type": "F",
+    "category": "theory-of-mind",
+    "text": "Výzkum Alderta Vrije o odhalování lži doporučuje zvyšovat kognitivní zátěž vyslýchaného, protože:",
+    "options": [
+      "lhář pod zátěží začne obvykle projevovat viditelnou nervozitu",
+      "zátěž spolehlivě přinutí lháře k rychlému přiznání viny",
+      "pravdomluvný člověk se pod zátěží ve výpovědi zamotá dřív",
+      "lhaní je náročnější a zátěž rozdíl ve výpovědích zvýrazní"
+    ],
+    "correct": 3,
+    "explanation": "Lhát znamená držet v hlavě pravdu, vymyšlenou verzi i model toho, co ví protějšek — to je nákladné. Přidání zátěže, například vyprávěním příběhu pozpátku nebo nečekanými otázkami, proto zhoršuje výkon lhářů mnohem víc než výkon pravdomluvných. Klasické „známky nervozity“ naopak přesnost detekce prakticky nezlepšují; ta se bez pomoci drží kolem 54 procent.",
+    "source": "Vrij, Fisher a Blank (2017); Bond a DePaulo (metaanalýza, 2006)",
+    "seedElo": 1860
+  },
+  {
+    "id": "tom-B29",
+    "type": "F",
+    "category": "theory-of-mind",
+    "text": "Sperber a Wilson vysvětlují verbální ironii jako:",
+    "options": [
+      "ozvěnu cizí myšlenky, od níž se mluvčí posměšně distancuje",
+      "porušení maximy kvality, jež posluchače nutí obrátit význam",
+      "hru, v níž mluvčí předstírá roli naivního nadšeného mluvčího",
+      "zvláštní typ metafory založený na protikladu dvou obrazů"
+    ],
+    "correct": 0,
+    "explanation": "Echoická teorie tvrdí, že ironik nepřevrací význam, ale cituje cizí či obecně sdílené očekávání a dává najevo, jak je směšné — proto „Nádherné počasí!“ v lijáku funguje. Konkurenční pretense theory Clarka a Gerriga mluví o předstírané roli naivního mluvčího, klasické grieceovské řešení o porušení maximy kvality. Echoické pojetí lépe vysvětluje, proč ironie potřebuje předchozí očekávání a proč zní zaujatě.",
+    "source": "Sperber a Wilson: Irony and the Use-Mention Distinction (1981)",
+    "seedElo": 1870
+  },
+  {
+    "id": "tom-B30",
+    "type": "F",
+    "category": "theory-of-mind",
+    "text": "Searlova teze o kolektivní intencionalitě říká, že „my zamýšlíme“:",
+    "options": [
+      "je jen souhrnem jednotlivých „já zamýšlím“ všech členů",
+      "existuje mimo jednotlivé hlavy, ve sdíleném duchu skupiny",
+      "vzniká teprve výslovnou smlouvou mezi všemi účastníky",
+      "je v hlavě jednotlivce, ale nelze je rozložit na „já“"
+    ],
+    "correct": 3,
+    "explanation": "Searle drží metodologický individualismus — žádná nadindividuální mysl neexistuje — a přesto tvrdí, že we-intention je primitivní forma, kterou nelze převést na souhrn já-záměrů plus vzájemných přesvědčení. Můj úmysl „hrajeme spolu symfonii“ zahrnuje můj part jako součást našeho jednání. Na této nezredukovatelné kolektivní intencionalitě staví Searle celou konstrukci sociální reality, včetně peněz a institucí.",
+    "source": "John Searle: The Construction of Social Reality (1995)",
+    "seedElo": 1880
+  },
+  {
+    "id": "tom-B31",
+    "type": "K",
+    "category": "theory-of-mind",
+    "text": "Ve hře na důvěru investor pošle část z 10 dolarů, poslaná částka se ztrojnásobí a správce může libovolně vrátit. Jaký je typický výsledek?",
+    "options": [
+      "Investoři neposílají nic a správci nevracejí nic.",
+      "Investoři posílají zhruba polovinu a část se vrací.",
+      "Investoři posílají vše a správci vracejí polovinu.",
+      "Investoři posílají málo a správci vracejí dvojnásob."
+    ],
+    "correct": 1,
+    "explanation": "V původním pokusu Berga a spol. poslali investoři průměrně kolem pěti dolarů a správci vrátili v průměru o něco méně, než dostali navíc — tedy nezanedbatelnou, ale nekompletní reciprocitu. Zpětnou indukcí by racionální sobec neposlal nic, protože správce nemá důvod vracet. Chování hráčů se lépe vysvětlí modelováním záměrů a očekávané reciprocity než čistou maximalizací zisku.",
+    "source": "Berg, Dickhaut a McCabe (Games and Economic Behavior, 1995)",
+    "seedElo": 1880
+  },
+  {
+    "id": "tom-B32",
+    "type": "F",
+    "category": "theory-of-mind",
+    "text": "Cosmidesová vysvětluje snadnost Wasonovy úlohy v podobě sociálního pravidla tím, že:",
+    "options": [
+      "deontická podoba úlohy je logicky jednodušší než popisná",
+      "lidé si pravidlo o věku a pití lépe pamatují ze života",
+      "máme zvláštní ustrojení na hledání porušitelů dohody",
+      "sociální podoba úlohy nabízí méně karet k prozkoumání"
+    ],
+    "correct": 2,
+    "explanation": "Abstraktní verze úlohy s čísly a písmeny řeší správně kolem desetiny lidí, verze „kdo pije alkohol, musí být plnoletý“ tři čtvrtiny, přestože logická struktura je táž. Cosmidesová a Tooby z toho odvozují modul na detekci podvodníků, který je nutným doplňkem sociální směny. Kritici (Cheng a Holyoak, Sperber) namítají, že stačí obecnější deontické či relevanční vysvětlení bez specializovaného modulu.",
+    "source": "Cosmides a Tooby (The Adapted Mind, 1992)",
+    "seedElo": 1890
+  },
+  {
+    "id": "tom-B33",
+    "type": "F",
+    "category": "theory-of-mind",
+    "text": "Podle Clarkova pojetí groundingu se mluvčí a posluchač ve společném vědění ujišťují tak, že:",
+    "options": [
+      "mluvčí předem vyjmenuje vše, co u posluchače předpokládá",
+      "posluchač mlčí, dokud mluvčí celé sdělení nedokončí",
+      "oba se drží pouze faktů obecně známých v jejich kultuře",
+      "posluchač dává průběžně najevo, nakolik sdělení přijal"
+    ],
+    "correct": 3,
+    "explanation": "Grounding je průběžný proces: přikyvování, „hmm“, pohled, doplnění slova i opravy slouží jako doklad přijetí a posouvají společné vědění dopředu. V Clarkových pokusech s referenčními úkoly si dvojice postupně vytvoří vlastní zkratkové názvy pro obtížné obrazce a čas na domluvu prudce klesá. Komunikace je tedy společná činnost, ne přenos balíčku od mluvčího k posluchači.",
+    "source": "Clark a Wilkes-Gibbs (Cognition, 1986); Clark a Brennan (1991)",
+    "seedElo": 1890
+  },
+  {
+    "id": "tom-B34",
+    "type": "F",
+    "category": "theory-of-mind",
+    "text": "Epleyova tříčinitelová teorie antropomorfizace jmenuje jako spouštěče znalost o lidech a dále:",
+    "options": [
+      "potřebu zábavy a sklon k obrazotvornému myšlení",
+      "potřebu předvídat dění a potřebu společenského styku",
+      "nízké vzdělání a malou zkušenost s moderní technikou",
+      "náboženskou výchovu a sklon věřit v nadpřirozeno"
+    ],
+    "correct": 1,
+    "explanation": "Model SEEK staví na třech faktorech: dostupnosti znalostí o lidech jako výchozím vzoru, effectance motivation (potřebě rozumět a předvídat) a sociality motivation (potřebě kontaktu). Teorie zároveň symetricky vysvětluje dehumanizaci jako opačný pól téhož připisování mysli. Vzdělání ani religiozita nejsou hlavními prediktory — rozhodují motivace v dané chvíli.",
+    "source": "Epley, Waytz a Cacioppo (Psychological Review, 2007)",
+    "seedElo": 1900
+  },
+  {
+    "id": "tom-B35",
+    "type": "F",
+    "category": "theory-of-mind",
+    "text": "Paul Bloom ve své kritice empatie jako mravního vodítka upozorňuje hlavně na to, že:",
+    "options": [
+      "empatie je bodová, straní blízkým a podléhá jediné oběti",
+      "empatie je vzácná a většina lidí jí není vůbec schopna",
+      "empatie je vrozená, a tedy se nedá výchovou nijak měnit",
+      "empatie vede k pomoci, ale nikdy k mravnímu odsouzení"
+    ],
+    "correct": 0,
+    "explanation": "Bloom míří na sdílení afektu: funguje jako bodové světlo, zaostřuje na jednoho identifikovatelného člověka, straní podobným a blízkým a je slepé ke statistikám. Proto podle něj vede k horším rozhodnutím ve velkých otázkách a k vyhoření u pomáhajících. Jeho alternativou není chlad, ale rational compassion — starost o druhé řízená rozvahou, nikoli nákazou.",
+    "source": "Paul Bloom: Against Empathy (2016)",
+    "seedElo": 1900
+  },
+  {
+    "id": "tom-B36",
+    "type": "F",
+    "category": "theory-of-mind",
+    "text": "Nakažlivý pláč u novorozenců se od empatie odlišuje tím, že:",
+    "options": [
+      "se objevuje jen v reakci na pláč vlastního sourozence",
+      "mizí do konce prvního týdne a už se nikdy neopakuje",
+      "chybí v něm rozlišení mezi vlastní a cizí tísní",
+      "nastupuje až poté, co dítě pozná samo sebe v zrcadle"
+    ],
+    "correct": 2,
+    "explanation": "Novorozenec pláče na nahrávku pláče jiného novorozence silněji než na stejně hlasitý umělý zvuk či na vlastní pláč — jde tedy o specifickou reakci, ne o pouhý úlek. Chybí v ní ale hranice mezi já a druhým, takže výsledkem je vlastní tíseň, nikoli starost o toho druhého. Empatická starost s pomáhajícím chováním se objevuje až ve druhém roce, spolu se sebeuvědoměním.",
+    "source": "Sagi a Hoffman (1976); Simner (1971); Hoffman: Empathy and Moral Development (2000)",
+    "seedElo": 1900
+  },
+  {
+    "id": "tom-B37",
+    "type": "F",
+    "category": "theory-of-mind",
+    "text": "Cialdiniho pokusy s nápisy proti krádeži zkamenělého dřeva ukázaly, že sdělení „mnoho návštěvníků dřevo odnáší“:",
+    "options": [
+      "krádeže omezilo lépe než výzva dřevo neodnášet",
+      "krádeže zvýšilo, protože je vylíčilo jako běžné",
+      "na chování návštěvníků nemělo žádný měřitelný vliv",
+      "působilo jen na návštěvníky, kteří přijeli poprvé"
+    ],
+    "correct": 1,
+    "explanation": "Deskriptivní norma říká, co lidé dělají; injunktivní, co se má dělat. Nápis mířený jako varování sdělil deskriptivně, že krádež je běžná, a míra krádeží stoupla oproti kontrole zhruba trojnásobně. Kampaně proti nežádoucímu chování se proto často střelí do nohy, když jeho rozšířenost zdůrazňují.",
+    "source": "Cialdini, Demaine, Sagarin a spol. (Social Influence, 2006)",
+    "seedElo": 1900
+  },
+  {
+    "id": "tom-B38",
+    "type": "F",
+    "category": "theory-of-mind",
+    "text": "Klimecki a spol. srovnávali trénink empatie a trénink soucitu; po tréninku soucitu účastníci při pohledu na cizí utrpení hlásili:",
+    "options": [
+      "více kladných pocitů, aniž by ubylo prožívané starosti",
+      "méně kladných i záporných pocitů, tedy celkovou otupělost",
+      "více záporných pocitů a silnější chuť od podnětu odejít",
+      "stejné pocity jako předtím, změnila se pouze aktivace mozku"
+    ],
+    "correct": 0,
+    "explanation": "Uspořádání bylo dvoufázové: nejprve empatický trénink, který zvýšil negativní afekt a tíseň, pak trénink soucitu u téže skupiny. Po druhé fázi vzrostl pozitivní afekt při sledování týchž tísnivých scén, aniž by se vytratila starost o postiženého — nešlo tedy o otupění ani o odvrácení pozornosti. Soucit tak vypadá jako trénovatelná ochrana proti vyhoření z empatie.",
+    "source": "Klimecki, Leiberg, Ricard a Singer (SCAN, 2014)",
+    "seedElo": 1950
+  },
+  {
+    "id": "tom-B39",
+    "type": "F",
+    "category": "theory-of-mind",
+    "text": "Ostenzivně-inferenční komunikace podle Sperbera a Wilsona nese záruku, že sdělení:",
+    "options": [
+      "je pravdivé a mluvčí za jeho pravdivost ručí svou ctí",
+      "je doslovné, dokud mluvčí neoznámí přenesený význam",
+      "je nové, tedy neobsahuje nic už dříve řečeného stranám",
+      "stojí za námahu, kterou si jeho zpracování vyžádá"
+    ],
+    "correct": 3,
+    "explanation": "Ostenzivní podnět je akt, kterým dávám najevo, že něco sděluji — a tím podle Sperbera a Wilsona automaticky nesu presumpci optimální relevance: stojí to za tvou pozornost a je to formulováno tak relevantně, jak mi mé schopnosti a záměry dovolily. Záruka se tedy netýká pravdivosti ani doslovnosti, ale výnosnosti zpracování. Právě proto se posluchač může zastavit u prvního uspokojivého výkladu.",
+    "source": "Sperber a Wilson: Relevance (2. vydání, 1995)",
+    "seedElo": 1950
+  },
+  {
+    "id": "tom-B40",
+    "type": "F",
+    "category": "theory-of-mind",
+    "text": "Pluralitní ignorance se od naivního realismu liší tím, že jde o stav, kdy:",
+    "options": [
+      "člověk pokládá vlastní pohled na věc za nezkreslený",
+      "člověk nezná názory druhých a nezajímá se o ně vůbec",
+      "většina normu soukromě odmítá, ale myslí si, že jiní ne",
+      "menšina prosadí normu tím, že mluví hlasitěji než ostatní"
+    ],
+    "correct": 2,
+    "explanation": "Klasickým dokladem je studie o pití na amerických univerzitách: většina studentů byla z míry opilství nesvá, ale každý se domníval, že ostatním to vyhovuje, a proto veřejně nic nenamítal. Vzniká tak norma, kterou soukromě nikdo nechce, ale všichni ji svým mlčením udržují. Na rozdíl od naivního realismu jde o chybný odhad cizích postojů, ne o přeceňování objektivity vlastního pohledu.",
+    "source": "Prentice a Miller (JPSP, 1993); Katz a Allport (1931)",
+    "seedElo": 1960
+  },
+  {
+    "id": "tom-B41",
+    "type": "F",
+    "category": "theory-of-mind",
+    "text": "Gray a Wegner popsali morální typizaci (moral typecasting), podle níž:",
+    "options": [
+      "kdo je viděn jako konající, je hůř viděn jako trpící",
+      "kdo víc trpí, tomu lidé připisují i větší mravní zásluhy",
+      "mravní posouzení činu závisí hlavně na jeho následcích",
+      "mysl připisujeme tím ochotněji, čím je bytost podobnější nám"
+    ],
+    "correct": 0,
+    "explanation": "Role mravního aktéra a mravního pacienta se v našem vnímání vylučují: hrdinovi i padouchovi připisujeme méně schopnosti trpět, kdežto oběti méně odpovědnosti za jednání. V pokusech proto účastníci cítili menší soucit s bolestí hrdiny a menší ochotu vinit toho, kdo byl předtím sám poškozen. Vysvětluje to i jev obviňování obětí a naopak nadměrné mravní pověření těch, kdo mnoho vytrpěli.",
+    "source": "Gray a Wegner: Moral Typecasting (JPSP, 2009)",
+    "seedElo": 1970
+  },
+  {
+    "id": "tom-B42",
+    "type": "F",
+    "category": "theory-of-mind",
+    "text": "Za doklad sdílené intencionality u batolat se považuje to, že ukazují prstem i tehdy, když:",
+    "options": [
+      "chtějí předmět dostat do ruky a dospělý je poblíž",
+      "jen sdělují informaci, z níž nemají samy žádný prospěch",
+      "je dospělý předem vyzve, aby ukázaly na daný předmět",
+      "napodobují gesto, které právě viděly u jiného malého dítěte"
+    ],
+    "correct": 1,
+    "explanation": "Roční děti ukazují dospělému, kam mu spadla sponka, kterou hledá, ačkoli z toho nic nemají — jde o informativní, nikoli imperativní gesto. Motiv je čistě kooperativní: chci, abys věděl to, co potřebuješ vědět. Tomasello v tom vidí zárodek lidské kooperativní komunikace, protože takové gesto předpokládá společný cíl i model cizí neznalosti.",
+    "source": "Liszkowski, Carpenter, Striano a Tomasello (2006)",
+    "seedElo": 1980
+  },
+  {
+    "id": "tom-B43",
+    "type": "F",
+    "category": "theory-of-mind",
+    "text": "Sperberův pojem epistemické ostražitosti (epistemic vigilance) řeší otázku, jak:",
+    "options": [
+      "si pamatujeme, kdo nám které tvrzení kdy sdělil",
+      "se učíme jazyku dřív, než rozumíme cizím záměrům",
+      "dokážeme vůbec rozpoznat, že mluvčí něco tvrdí",
+      "může být sdělování stabilní i při riziku klamání"
+    ],
+    "correct": 3,
+    "explanation": "Kdyby posluchači přijímali vše, vyplatilo by se mluvčím lhát a komunikace by se zhroutila; proto musí existovat soubor mechanismů, které hlídají důvěryhodnost zdroje i soudržnost obsahu. Sperber sem řadí sledování kompetence a zájmů mluvčího, kontrolu proti tomu, co už víme, a nároky na argumenty. Z téhož kořene vyrůstá argumentativní teorie usuzování Mercierova a Sperberova.",
+    "source": "Sperber a spol.: Epistemic Vigilance (Mind & Language, 2010)",
+    "seedElo": 1990
+  },
+  {
+    "id": "tom-B44",
+    "type": "K",
+    "category": "theory-of-mind",
+    "text": "V modelu úrovní uvažování (k-level) volí hráč úrovně 0 náhodně. Co podle modelu dělá hráč úrovně 2?",
+    "options": [
+      "Volí nejlepší odpověď proti náhodnému hráči.",
+      "Volí rovnovážnou volbu nekonečného uvažování.",
+      "Volí nejlepší odpověď proti hráči úrovně jedna.",
+      "Volí náhodně, ale jen mezi zcela krajními hodnotami."
+    ],
+    "correct": 2,
+    "explanation": "Každá úroveň je nejlepší odpovědí na úroveň o jedna nižší: úroveň 1 hraje proti náhodným, úroveň 2 proti těm, kdo hrají proti náhodným. Nashova rovnováha odpovídá až limitě nekonečného iterování, kterou reální hráči nedosahují. Odhady z dat kladou většinu lidí na úroveň 1 až 2, a proto se v soutěžích vyplácí být jen o krok chytřejší než průměr, ne o deset.",
+    "source": "Stahl a Wilson (1995); Camerer, Ho a Chong (QJE, 2004)",
+    "seedElo": 2000
+  }
+]
