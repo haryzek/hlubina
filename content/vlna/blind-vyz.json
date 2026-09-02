@@ -1,0 +1,562 @@
+[
+ {
+  "id": "vyz-A01",
+  "text": "Turner a kol. (2008) porovnali publikované studie antidepresiv s kompletním registrem studií u FDA. Co našli?",
+  "options": [
+   "z publikovaných studií vyznělo pozitivně 94 %, zatímco v registru FDA jen 51 %",
+   "shoda registru a publikací byla vysoká, lišily se jen velikosti účinku o 3 %",
+   "negativní studie sice vyšly, ale v průměru o čtyři roky později než pozitivní",
+   "publikováno bylo 94 % studií, ale u poloviny byl přepsán primární cílový ukazatel"
+  ]
+ },
+ {
+  "id": "vyz-A02",
+  "text": "Proč čekací listina jako kontrolní podmínka nadhodnocuje účinek psychoterapie?",
+  "options": [
+   "měření na čekací listině probíhá později, takže zachytí i návrat k průměru",
+   "čekání může tlumit spontánní úzdravu a chová se spíš jako nocebo než jako nula",
+   "pacienti na čekací listině častěji berou léky, které maskují zlepšení v dotaznících",
+   "čekací listiny bývají kratší než terapie, takže srovnávaná období nejsou stejná"
+  ]
+ },
+ {
+  "id": "vyz-A03",
+  "text": "Cuijpers a kol. (2010) korigovali souhrnný účinek psychoterapie deprese na publikační zkreslení metodou trim-and-fill. Jak se změnil?",
+  "options": [
+   "nezměnil se, protože trychtýřový graf vyšel symetrický a chybějící studie nebyly",
+   "vzrostl zhruba z 0,50 na 0,60, protože v šuplících zůstávaly hlavně nulové studie",
+   "klesl zhruba z 0,67 na 0,42 standardizovaného rozdílu, tedy o víc než třetinu",
+   "klesl zhruba z 0,90 na 0,80 standardizovaného rozdílu, tedy zanedbatelně málo"
+  ]
+ },
+ {
+  "id": "vyz-A04",
+  "text": "Jak častý je v psychoterapii zhoršený stav na konci léčby oproti stavu při vstupu?",
+  "options": [
+   "kolem 20 % u dospělých a u dětí a dospívajících výrazně méně často",
+   "kolem 15 % u dospělých a u dětí a dospívajících také přibližně 15 %",
+   "kolem 3 % u dospělých a u dětí a dospívajících zhruba stejně často",
+   "kolem 5 až 10 % u dospělých a u dětí a dospívajících ještě častěji"
+  ]
+ },
+ {
+  "id": "vyz-A05",
+  "text": "Proč je pojem „placebo“ v psychoterapeutickém výzkumu metodologicky problematický?",
+  "options": [
+   "protože vztah a očekávání nejsou inertním obalem, ale samy patří k účinným složkám léčby",
+   "protože placebo je definováno farmakologicky a psychoterapii nelze podat v pevné dávce",
+   "protože etické komise nedovolují nasadit skutečně neúčinnou psychologickou intervenci",
+   "protože placebo efekt v psychoterapii mizí, jakmile výsledek hodnotí nezávislý posuzovatel"
+  ]
+ },
+ {
+  "id": "vyz-A06",
+  "text": "K jakému závěru došla metaanalýza komponentních (dismantling) studií Ahna a Wampolda (2001)?",
+  "options": [
+   "odebrání teoreticky klíčové složky vedlo k významnému poklesu účinku ve většině studií",
+   "odebrání teoreticky klíčové složky nevedlo k rozdílu proti úplnému balíku léčby",
+   "přidání složky zvýšilo účinek jen tam, kde terapeuta školil přímo autor metody",
+   "komponentní studie byly příliš malé, takže autoři jejich výsledky odmítli sloučit"
+  ]
+ },
+ {
+  "id": "vyz-A07",
+  "text": "Kolik rozptylu výsledku připadá podle metaanalytických odhadů na osobu terapeuta?",
+  "options": [
+   "kolem 25 %, tedy víc, než připadá na metodu a pracovní alianci dohromady",
+   "kolem 0,5 %, tedy zhruba tolik, kolik připadá na rozdíly mezi metodami léčby",
+   "kolem 5 %, přičemž v naturalistických souborech víc než v randomizovaných studiích",
+   "kolem 5 %, přičemž v randomizovaných studiích víc než v naturalistických souborech"
+  ]
+ },
+ {
+  "id": "vyz-A08",
+  "text": "Munder a kol. (2013) shrnuli metaanalýzy vlivu oddanosti výzkumníka (allegiance) na výsledek. Co zjistili?",
+  "options": [
+   "velmi silný vztah kolem r = 0,85, odpovídající dvěma třetinám rozptylu účinku",
+   "obrácený vztah — studie s vysokou oddaností autorů vykazovaly menší účinky",
+   "žádný vztah — po kontrole metodologické kvality studií souvislost zcela zmizela",
+   "středně silný vztah kolem r = 0,26, který nešlo vysvětlit jen kvalitou studií"
+  ]
+ },
+ {
+  "id": "vyz-A09",
+  "text": "Co ukázala metaanalýza Webba, DeRubeise a Barbera (2010) o adherenci a kompetenci terapeuta?",
+  "options": [
+   "ani adherence, ani kompetence nevykazovaly významný vztah k výsledku léčby",
+   "kompetence souvisela s výsledkem jen tam, kde byla adherence terapeuta nízká",
+   "adherence i kompetence předpovídaly výsledek silně, obojí zhruba na úrovni aliance",
+   "adherence výsledek předpovídala, zatímco kompetence s výsledkem nesouvisela vůbec"
+  ]
+ },
+ {
+  "id": "vyz-A10",
+  "text": "Co měří Andersonova metoda facilitativních interpersonálních dovedností (FIS)?",
+  "options": [
+   "počet hodin, které terapeut strávil cíleným nácvikem mimo vlastní sezení",
+   "kvalitu odpovědí terapeuta na videoukázky obtížných momentů s pacientem",
+   "míru shody terapeuta s manuálem hodnocenou ze záznamů reálných sezení",
+   "sebeposouzení terapeuta v dotazníku empatie, vřelosti a autenticity"
+  ]
+ },
+ {
+  "id": "vyz-A11",
+  "text": "Jak zní nejsilnější alternativní vysvětlení korelace mezi pracovní aliancí a výsledkem léčby?",
+  "options": [
+   "pacienti s lepší prognózou vstupují do léčby s výrazně jistějším typem citové vazby",
+   "vysoká aliance i dobrý výsledek jsou obojí důsledkem terapeutovy adherence k manuálu",
+   "časné zlepšení symptomů předchází vysokému hodnocení aliance a působí je, ne naopak",
+   "aliance i výsledek hodnotí týž člověk, takže korelaci vyrábí sdílená metoda měření"
+  ]
+ },
+ {
+  "id": "vyz-A12",
+  "text": "Co ukázaly víceúrovňové studie aliance a symptomů se zpožděnými (time-lagged) modely?",
+  "options": [
+   "vztah aliance a symptomů zmizel, jakmile byla zohledněna změna z předcházejícího sezení",
+   "změna symptomů předpovídala alianci, ale aliance změnu symptomů v žádném modelu ne",
+   "vztah zůstal jen na úrovni rozdílů mezi terapeuty, uvnitř jednoho pacienta zcela zmizel",
+   "aliance v sezení předpovídá změnu symptomů do dalšího sezení i po kontrole předchozí změny"
+  ]
+ },
+ {
+  "id": "vyz-A13",
+  "text": "Proč je v analýze aliance důležité oddělit její vnitroosobní složku od složky mezi pacienty?",
+  "options": [
+   "protože kolísání aliance uvnitř pacienta je kauzálnímu působení blíž než rozdíly mezi lidmi",
+   "protože mezi-osobní složka je vždy silnějším prediktorem výsledku než kolísání v čase",
+   "protože vnitroosobní složka zachycuje chybu měření, kterou je nutné z modelu odstranit",
+   "protože jen mezi-osobní složka je ovlivnitelná terapeutem, vnitroosobní je rysem pacienta"
+  ]
+ },
+ {
+  "id": "vyz-A14",
+  "text": "Siev a Chambless (2007) porovnali kognitivní terapii a relaxaci u úzkostných poruch. Jaký vzorec našli?",
+  "options": [
+   "u obou poruch byla relaxace o něco účinnější než kognitivní terapie",
+   "u generalizované úzkosti byly rovnocenné, u panické poruchy byla relaxace horší",
+   "u panické poruchy byly rovnocenné, u generalizované úzkosti byla relaxace horší",
+   "rozdíly zmizely, jakmile byla do modelu zahrnuta oddanost autorů dané metodě"
+  ]
+ },
+ {
+  "id": "vyz-A15",
+  "text": "Která metodologická námitka kritiků nejvíc oslabuje závěr o rovnocennosti psychoterapií?",
+  "options": [
+   "rovnocennost byla zjištěna jen u depresí a u jiných diagnóz nebyla nikdy testována",
+   "velikost účinku 0,20 je ve skutečnosti veliká, jen se počítá na nevhodné metrice",
+   "srovnávají se jen „bona fide“ terapie, čímž jsou slabí kandidáti vyloučeni předem",
+   "slučují se jen studie s aktivní kontrolou, takže se účinek obou ramen podhodnotí"
+  ]
+ },
+ {
+  "id": "vyz-A16",
+  "text": "Co zjistila metaanalýza aditivních a komponentních designů Bella, Marcuse a Goodlada (2013)?",
+  "options": [
+   "přidaná složka zlepšila obecné ukazatele, ale nikoli přímo cílový problém",
+   "přidaná složka výsledek zhoršila, protože pacienta zahltila množstvím technik",
+   "přidaná i odebraná složka měnily výsledek stejně silně, ale opačným směrem",
+   "přidaná složka zlepšila cílový problém, ale nikoli obecné ukazatele výsledku"
+  ]
+ },
+ {
+  "id": "vyz-A17",
+  "text": "Jak Tang a DeRubeis (1999) popsali fenomén náhlých zisků (sudden gains)?",
+  "options": [
+   "nastávají zhruba u 40 % pacientů a nesou velkou část jejich celkového zlepšení",
+   "nastávají výhradně mezi prvním a druhým sezením a později se už nevyskytují",
+   "nastávají v terapii i na čekací listině stejně často, jde tedy o regresi k průměru",
+   "nastávají zhruba u poloviny pacientů a nesou zhruba desetinu celkového zlepšení"
+  ]
+ },
+ {
+  "id": "vyz-A18",
+  "text": "Co ukazují novější metaanalýzy rutinního měření výsledku se zpětnou vazbou terapeutovi?",
+  "options": [
+   "velký účinek u všech pacientů, srovnatelný s rozdílem proti čekací listině",
+   "malý celkový účinek soustředěný u pacientů, kteří nejdou podle očekávání",
+   "žádný účinek, pokud terapeut nedostane zároveň i klinické podpůrné nástroje",
+   "účinek výhradně na předčasné ukončení léčby, nikoli na symptomatický výsledek"
+  ]
+ },
+ {
+  "id": "vyz-A19",
+  "text": "Jak Barber a kol. (2006) popsali vztah mezi adherencí terapeuta k technice a výsledkem léčby?",
+  "options": [
+   "lineárně rostoucí — čím vyšší adherence, tím lepší výsledek u všech pacientů",
+   "lineárně klesající — vysoká adherence signalizuje rigiditu a horší výsledek",
+   "křivkový — nejlepší výsledky při střední úrovni, horší při nízké i velmi vysoké",
+   "nulový u depresí, ale silně kladný u poruch osobnosti a u závislostí"
+  ]
+ },
+ {
+  "id": "vyz-A20",
+  "text": "K čemu dospělo metaanalytické srovnání manualizované a nemanualizované psychoterapie?",
+  "options": [
+   "manuál zlepšil výsledek jen tam, kde byla zároveň měřena kompetence terapeuta",
+   "manuál zvýšil účinek zhruba o 0,3 jednotky, hlavně u méně zkušených terapeutů",
+   "manuál snížil účinek zhruba o 0,3 jednotky kvůli ztrátě citlivosti na pacienta",
+   "mezi manualizovanou a nemanualizovanou léčbou nebyl významný rozdíl ve výsledku"
+  ]
+ },
+ {
+  "id": "vyz-A21",
+  "text": "Čím se hermeneutický jednopřípadový design účinnosti (HSCED) liší od běžné kazuistiky?",
+  "options": [
+   "staví proti sobě afirmativní a skeptický tým, které nad týmiž daty vedou spor",
+   "měří výsledek výhradně standardizovanými dotazníky, nikoli výpovědí klienta",
+   "vyžaduje nejméně tři opakované základní linie u tří odlišných klientů zároveň",
+   "vyžaduje randomizaci pořadí jednotlivých fází léčby uvnitř jediného případu"
+  ]
+ },
+ {
+  "id": "vyz-A22",
+  "text": "Jaký vzorec výsledků přinesla helsinská studie porovnávající krátkodobé a dlouhodobé terapie?",
+  "options": [
+   "rozdíly mezi délkami léčby se neobjevily v žádném z předem určených časových bodů",
+   "zprvu vedly krátkodobé terapie, po třech letech je předstihla dlouhodobá psychodynamická",
+   "dlouhodobá psychodynamická vedla od začátku a svůj náskok si udržela i po pěti letech",
+   "krátkodobé terapie byly lepší v každém měřeném bodě včetně pětiletého sledování"
+  ]
+ },
+ {
+  "id": "vyz-A23",
+  "text": "Jaká byla hlavní metodologická výtka vůči metaanalýze dlouhodobé psychodynamické terapie (Leichsenring a Rabung, 2008)?",
+  "options": [
+   "zahrnula výhradně randomizované studie, čímž vyloučila naturalistickou většinu dat",
+   "sloučila hodnoty před léčbou a po ní zcela bez použití jakékoli kontrolní skupiny",
+   "chybně počítala velikosti účinku a míchala nesourodé cílové skupiny i kontrolní podmínky",
+   "nezveřejnila protokol, ačkoli její výpočty byly jinak opakovaně nezávisle potvrzeny"
+  ]
+ },
+ {
+  "id": "vyz-A24",
+  "text": "Které zaslepení je v psychoterapeutických studiích prakticky dosažitelné?",
+  "options": [
+   "zaslepení pacienta vůči tomu, zda vůbec nějakou léčebnou podmínku dostává",
+   "zaslepení pacienta vůči tomu, kterou z porovnávaných aktivních terapií dostává",
+   "zaslepení terapeuta vůči podávané léčbě i vůči zkoumané hypotéze zároveň",
+   "zaslepení nezávislého posuzovatele výsledku vůči přidělené léčebné podmínce"
+  ]
+ },
+ {
+  "id": "vyz-A25",
+  "text": "Jak vypadá realistický rozklad rozptylu výsledku psychoterapie podle Wampolda a Imela?",
+  "options": [
+   "metoda pod 1 %, terapeut kolem 5 %, aliance kolem 5 až 8 %, zbytek nevysvětlen",
+   "metoda kolem 15 %, terapeut kolem 10 %, aliance kolem 20 %, zbytek nevysvětlen",
+   "metoda kolem 8 %, terapeut pod 1 %, aliance kolem 30 %, zbytek nevysvětlen",
+   "metoda kolem 5 %, terapeut kolem 5 %, aliance kolem 1 %, zbytek nevysvětlen"
+  ]
+ },
+ {
+  "id": "vyz-A26",
+  "text": "Jaký je současný stav evidence pro cílený nácvik (deliberate practice) u psychoterapeutů?",
+  "options": [
+   "opakovaně replikovaný experimentální důkaz, že nácvik zlepšuje výsledky pacientů",
+   "opřený hlavně o korelační data z malých souborů, experimentálních důkazů je málo",
+   "průkazně negativní — nácvik zlepšuje dovednosti terapeuta, ale zhoršuje výsledky",
+   "prakticky nezkoumaný, protože nacvičované dovednosti nelze spolehlivě měřit"
+  ]
+ },
+ {
+  "id": "vyz-A27",
+  "text": "Jak se u psychoterapie deprese liší velikost účinku podle typu kontrolní podmínky?",
+  "options": [
+   "největší proti obvyklé péči, menší proti čekací listině, nejmenší proti jiné psychoterapii",
+   "typ kontroly velikost účinku neovlivňuje, rozdíly jdou zcela na vrub kvalitě provedení",
+   "největší proti čekací listině, menší proti obvyklé péči, nejmenší proti pilulkovému placebu",
+   "největší proti pilulkovému placebu, menší proti obvyklé péči, nejmenší proti čekací listině"
+  ]
+ },
+ {
+  "id": "vyz-A28",
+  "text": "Co ukazuje evidence o zohlednění preferencí pacienta při volbě léčebného postupu?",
+  "options": [
+   "výrazně zlepšuje výsledek léčby, ale na předčasné ukončení nemá žádný vliv",
+   "nemá vliv na nic, protože preference se v průběhu léčby stejně rychle mění",
+   "zvyšuje setrvání v léčbě, ale zároveň mírně zhoršuje symptomatický výsledek",
+   "snižuje předčasné ukončení léčby zhruba o třetinu a mírně zlepšuje výsledek"
+  ]
+ },
+ {
+  "id": "vyz-B01",
+  "text": "Terapeut pracuje v obci s osmi sty obyvateli. Nová klientka je matkou spolužáka jeho dcery a setkávání ve škole je nevyhnutelné. Co je z hlediska profesní etiky nejpřiměřenější postup?",
+  "options": [
+   "Pojmenovat překryv rolí předem, dohodnout pravidla kontaktu mimo ordinaci a téma průběžně revidovat",
+   "Zakázku odmítnout, protože jakýkoli mimoterapeutický kontakt představuje porušení hranic vztahu",
+   "Zakázku přijmout a o překryvu rolí nemluvit, aby se klientka zbytečně necítila nepohodlně",
+   "Přijmout ji jen tehdy, pokud se obě strany písemně zavážou, že se ve škole nebudou zdravit"
+  ]
+ },
+ {
+  "id": "vyz-B02",
+  "text": "Klient v dlouhodobé terapii přestal po ztrátě zaměstnání platit a dluží za čtyři sezení. Co je z hlediska profesní etiky nejméně obhajitelné?",
+  "options": [
+   "Snížit dočasně honorář a znovu projednat rámec platby jako terapeutické téma",
+   "Ukončit terapii okamžitě na konci sezení, bez rozhovoru o ukončení a bez doporučení dál",
+   "Ukončit spolupráci po předchozím projednání, s nabídkou několika sezení a kontaktů na jinou péči",
+   "Zachovat terapii beze změny a s klientem otevřít, co dluh znamená v jeho vztahové historii"
+  ]
+ },
+ {
+  "id": "vyz-B03",
+  "text": "Ve výcvikovém institutu je frekventantův osobní terapeut zároveň členem komise, která rozhoduje o jeho postupu do další fáze výcviku. Kde je jádro etického problému?",
+  "options": [
+   "V tom, že osobní terapie ve výcviku má být vždy hrazena institutem, nikoli frekventantem",
+   "V tom, že terapeut nemůže současně poskytovat terapii a docházet na vlastní supervizi",
+   "V mocenské asymetrii, která systémově omezuje frekventantovu svobodu odkrývat v terapii nejzranitelnější materiál",
+   "V tom, že frekventant nemůže mít nad rámec osobní terapie ještě samostatného supervizora"
+  ]
+ },
+ {
+  "id": "vyz-B04",
+  "text": "Supervidovaný ve výcviku vede terapii, v níž dojde k vážnému poškození klienta. Jak se v běžném etickém a právním rámci liší formální supervize od kolegiální konzultace?",
+  "options": [
+   "V obou případech nese plnou odpovědnost pouze ten, kdo s klientem reálně pracoval",
+   "V obou případech je odpovědnost automaticky sdílena rovným dílem mezi oběma odborníky",
+   "Konzultant nese odpovědnost vždy, supervizor jen tehdy, pokud sezení osobně nahrával",
+   "Supervizor nese spoluodpovědnost za klinickou péči, zatímco konzultant poskytuje jen nezávazné stanovisko"
+  ]
+ },
+ {
+  "id": "vyz-B05",
+  "text": "Patnáctiletá klientka dochází na terapii na přání rodičů. Otec žádá po každém sezení shrnutí. Co odpovídá etickému standardu práce s nezletilými?",
+  "options": [
+   "Rozsah sdílení s rodiči dohodnout se všemi na začátku a v tomto rámci chránit obsah sezení",
+   "Rodičům předávat úplný obsah sezení, protože nezletilá nemůže být nositelem mlčenlivosti",
+   "Rodičům nesdělovat vůbec nic, protože mlčenlivost dospívajícího nemá žádné zákonné výjimky",
+   "Nechat rozhodnutí o každém jednotlivém sdělení výhradně na aktuální náladě dospívající klientky"
+  ]
+ },
+ {
+  "id": "vyz-B06",
+  "text": "Terapeut působící v ČR nabízí videosezení klientce, která se přestěhovala do jiné země. Který aspekt je z hlediska profesní etiky nejzávažnější a nejčastěji přehlížený?",
+  "options": [
+   "Že videohovor technicky neumožňuje sledovat neverbální projevy a terapie tím ztrácí účinnost",
+   "Že rozhodující je právní řád a systém oprávnění místa, kde se klient při sezení nachází",
+   "Že online terapii lze podle většiny kodexů poskytovat výhradně jako krizovou intervenci",
+   "Že mlčenlivost při přeshraničním hovoru zaniká, protože data putují přes cizí servery"
+  ]
+ },
+ {
+  "id": "vyz-B07",
+  "text": "Klient žádá o nahlédnutí do dokumentace, kterou o něm terapeut vede. Co je z hlediska profesní etiky a české právní úpravy nejpřesnější?",
+  "options": [
+   "Dokumentaci lze zpřístupnit až po skončení terapie a jen prostřednictvím jiného odborníka",
+   "Nahlížení lze odmítnout, pokud terapeut usoudí, že by jej obsah zápisů mohl rozrušit",
+   "Pacient má právo do své zdravotnické dokumentace nahlížet a pořizovat si z ní kopie",
+   "Právo nahlížet mají výhradně orgány činné v trestním řízení a revizní lékaři pojišťovny"
+  ]
+ },
+ {
+  "id": "vyz-B08",
+  "text": "Terapeut chce nahrávat sezení pro účely vlastní supervize. Která podmínka bývá v praxi opomíjena nejčastěji, ačkoli ji etika vyžaduje?",
+  "options": [
+   "Nahrávat je možné jen tehdy, když supervizor sám nahrávku nikdy neuvidí ani neuslyší",
+   "Klient musí být předem seznámen s tím, že nahrávky nelze za žádných okolností smazat",
+   "Nahrávání je přípustné pouze u klientů, kteří jsou v terapii déle než dvanáct měsíců",
+   "Souhlas je odvolatelný a klient musí vědět, kde se záznam uchovává a kdy bude smazán"
+  ]
+ },
+ {
+  "id": "vyz-B09",
+  "text": "Terapeut chce zařadit vlastní klienty do studie účinnosti své metody. Který etický problém je zde specifický a nejzávažnější?",
+  "options": [
+   "Dvojí role výzkumníka a terapeuta ohrožuje dobrovolnost souhlasu i objektivitu hodnocení výsledku",
+   "Studie na vlastních klientech nemůže nikdy dosáhnout dostatečné statistické síly pro publikaci",
+   "Výzkum v klinické praxi vždy vyžaduje randomizaci s pasivní kontrolní skupinou bez léčby",
+   "Klienti v terapii nejsou schopni porozumět povaze výzkumu, a proto nemohou dát souhlas"
+  ]
+ },
+ {
+  "id": "vyz-B10",
+  "text": "Kolega opakovaně přichází na sezení pod vlivem alkoholu; klienti si zatím nestěžovali. Jak vypadá postup odpovídající struktuře etických kodexů?",
+  "options": [
+   "Vyčkat, dokud nepodá stížnost některý z klientů, protože bez ní jde o pouhou domněnku",
+   "Nejprve zkusit řešení přímým rozhovorem s kolegou, a při přetrvávajícím riziku podat podnět komoře",
+   "Podat anonymní podnět do médií, aby vznikl veřejný tlak na profesní organizaci a instituci",
+   "Neřešit nic, protože povinnost mlčenlivosti brání sdělit cokoli o práci jiného odborníka"
+  ]
+ },
+ {
+  "id": "vyz-B11",
+  "text": "Gabbard formuloval zásady pro publikování kazuistik. Který závěr nejlépe vystihuje jeho stanovisko ke kombinaci souhlasu a zkreslení údajů?",
+  "options": [
+   "Souhlas činí jakékoli zkreslení údajů nadbytečným, protože klient nese odpovědnost za své rozhodnutí",
+   "Zkreslení je vždy neetické, protože poškozuje vědeckou hodnotu sdělení pro odbornou obec",
+   "Souhlas i zkreslení mají vlastní rizika a autor si musí vědomě zvolit strategii i cenu, kterou platí",
+   "Postačí odstranit jméno a bydliště, ostatní klinické údaje lze ponechat zcela beze změny"
+  ]
+ },
+ {
+  "id": "vyz-B12",
+  "text": "Kodexy se rozcházejí v pohledu na nesexuální kontakt s bývalým klientem po ukončení terapie. Čím se psychoanalytická pozice liší od obecně psychologické?",
+  "options": [
+   "Psychoanalytická pozice nesexuální kontakt výslovně doporučuje jako přirozený závěr procesu",
+   "Obecně psychologické kodexy jakýkoli kontakt s bývalým klientem zakazují bez časového omezení",
+   "Obě pozice se shodují, že po formálním ukončení terapie žádná omezení nadále neplatí",
+   "Psychoanalytická pozice předpokládá, že přenos nezaniká, takže asymetrie vztahu trvá i po ukončení"
+  ]
+ },
+ {
+  "id": "vyz-B13",
+  "text": "Terapeut prochází vlastní těžkou životní krizí a přistihuje se, že na sezeních opakovaně ztrácí pozornost. Co odpovídá standardu profesní odpovědnosti?",
+  "options": [
+   "Vyhledat konzultaci či vlastní terapii a podle jejího výsledku omezit nebo pozastavit klinickou práci",
+   "Pokračovat beze změny, protože přiznat oslabení by narušilo důvěru klientů v terapeutovu stabilitu",
+   "Sdělit všem klientům podrobnosti své krize, aby rozuměli změnám v jeho pozornosti a ladění",
+   "Zvýšit počet sezení, protože pravidelná práce s klienty je pro terapeuta nejlepší formou úzdravy"
+  ]
+ },
+ {
+  "id": "vyz-B14",
+  "text": "Terapeut je požádán soudem o znalecký posudek na svého dlouhodobého klienta v opatrovnickém sporu. Co je z hlediska profesní etiky nejvhodnější?",
+  "options": [
+   "Posudek zpracovat, protože nikdo jiný klienta nezná tak dobře a soud potřebuje kvalitní podklad",
+   "Roli znalce odmítnout a soudu nabídnout nejvýše faktickou zprávu v rozsahu daném zproštěním mlčenlivosti",
+   "Posudek zpracovat, ale předem s klientem dohodnout, které závěry v něm budou uvedeny",
+   "Ukončit terapii, přijmout roli znalce a po odevzdání posudku terapii znovu obnovit"
+  ]
+ },
+ {
+  "id": "vyz-B15",
+  "text": "Berlínský psychoanalytický institut, vzniklý kolem polikliniky založené roku 1920, prosadil model výcviku, který se stal mezinárodním standardem. Z čeho se skládal?",
+  "options": [
+   "Z veřejné přednáškové série, závěrečné zkoušky a doživotního členství v místní společnosti",
+   "Ze studia u jednoho učitele, jeho písemného doporučení a obhajoby teoretické práce",
+   "Z osobní analýzy kandidáta, teoretického kurikula a supervidované práce s vlastními případy",
+   "Z lékařského vzdělání, roční stáže na klinice a samostatné analýzy vlastních snů"
+  ]
+ },
+ {
+  "id": "vyz-B16",
+  "text": "Spor o laickou analýzu měl v USA jiný průběh než v Evropě. Co nejlépe vystihuje americkou situaci?",
+  "options": [
+   "Americká společnost laickou analýzu podporovala, zatímco Freud v roce 1926 žádal lékařský monopol",
+   "Otázka nikdy nebyla sporná, protože Freud sám požadoval lékařské vzdělání pro všechny analytiky",
+   "IPA laickou analýzu zakázala celosvětově a americké společnosti byly jediné, které ji tolerovaly",
+   "Americká psychoanalýza trvala na lékařském vzdělání kandidátů a otevřela se nelékařům až koncem osmdesátých let"
+  ]
+ },
+ {
+  "id": "vyz-B17",
+  "text": "Co se dělo v takzvaném Göringově institutu, založeném v Berlíně roku 1936?",
+  "options": [
+   "Psychoterapeutické školy tam pod nacistickým dohledem koexistovaly a analytici nežidovského původu pokračovali v práci",
+   "Šlo o čistě výzkumné pracoviště bez klinického provozu, kde se testovaly dědičné teorie duševních nemocí",
+   "Instituce psychoterapii jako takovou zakázala a věnovala se výhradně neurologické a somatické léčbě",
+   "Byl to exilový institut, kam se po roce 1936 přesunula většina emigrujících vídeňských analytiků"
+  ]
+ },
+ {
+  "id": "vyz-B18",
+  "text": "Ferencziho Klinický deník z roku 1932 vyšel tiskem až v osmdesátých letech. Co je jeho hlavním obsahem?",
+  "options": [
+   "Systematický výklad techniky volných asociací určený jako učebnice pro kandidáty výcviku",
+   "Sebekritický záznam experimentů s technikou, včetně selhání vzájemné analýzy a otázky upřímnosti analytika",
+   "Polemika s Kleinovou o dětské technice a obhajoba klasické interpretace přenosu u dětí",
+   "Sbírka kazuistik dokládajících převahu hypnózy nad analytickou prací s odporem u traumatu"
+  ]
+ },
+ {
+  "id": "vyz-B19",
+  "text": "Jeffrey Masson vyvolal roku 1984 spor knihou o Freudově opuštění teorie svádění. Co tvrdil a jaká byla převažující odborná reakce?",
+  "options": [
+   "Tvrdil, že Freud teorii svádění nikdy neopustil, a historici mu dali za pravdu na základě korespondence",
+   "Tvrdil, že teorii svádění vymyslel Fliess, a obor toto autorství postupně přijal za prokázané",
+   "Tvrdil, že Freud opustil teorii ze zbabělosti vůči kolegům, a odborná obec to označila za zjednodušení",
+   "Tvrdil, že Freud teorii opustil na základě nových dat o dětství, což bylo přijato bez výhrad"
+  ]
+ },
+ {
+  "id": "vyz-B20",
+  "text": "Jak probíhal Lacanův rozchod s mezinárodní psychoanalytickou institucí?",
+  "options": [
+   "Nikdy nebyl členem IPA, protože jeho výcvik v Paříži nebyl mezinárodně uznán už od počátku",
+   "IPA jej vyloučila roku 1953 kvůli publikaci Écrits a on hned poté založil vlastní společnost",
+   "Sám z IPA vystoupil roku 1964 na protest proti americké medikalizaci psychoanalytického výcviku",
+   "Roku 1953 se odštěpil od pařížské společnosti, roku 1963 přišel o statut výcvikového analytika a v roce 1964 založil vlastní školu"
+  ]
+ },
+ {
+  "id": "vyz-B21",
+  "text": "Franco Basaglia je spojen s italskou psychiatrickou reformou. Co se v Itálii roku 1978 stalo?",
+  "options": [
+   "Zákon č. 180 zastavil nové přijímání do psychiatrických léčeben a nasměroval péči do komunitních služeb",
+   "Zákon zavedl povinnou psychoterapii pro všechny pacienty propuštěné z psychiatrických léčeben",
+   "Byla založena první italská psychoanalytická společnost, která převzala správu velkých léčeben",
+   "Vláda zakázala podávání neuroleptik v ústavní péči a nahradila je terapeutickými komunitami"
+  ]
+ },
+ {
+  "id": "vyz-B22",
+  "text": "Jaký je nejlépe doložený souhrnný výsledek americké deinstitucionalizace navazující na zákon o komunitních centrech duševního zdraví z roku 1963?",
+  "options": [
+   "Počet lůžek klesl a slíbená komunitní síť byla plně vybudována podle původního plánu",
+   "Počet lůžek výrazně klesl, ale komunitní služby zůstaly poddimenzované a část populace se přesunula do vězení a bezdomovectví",
+   "Počet lůžek se prakticky nezměnil, protože zákon nebyl nikdy provázen skutečným financováním",
+   "Počet lůžek klesl a míra bezdomovectví i uvěznění osob s psychózou zároveň setrvale klesala"
+  ]
+ },
+ {
+  "id": "vyz-B23",
+  "text": "Zavedení chlorpromazinu do psychiatrie na počátku padesátých let mělo pro psychoterapii nepřímé důsledky. Který popis je nejpřesnější?",
+  "options": [
+   "Psychoterapie se stala dominantní léčbou psychóz, protože léky umožnily analytickou práci na lůžku",
+   "Farmaka nahradila psychoterapii ve všech diagnózách a psychoterapeutický výzkum na desetiletí ustal",
+   "Posílilo biologický jazyk oboru a psychoterapie byla postupně tlačena k prokazování účinnosti podle lékového modelu",
+   "Zavedení léků nemělo na postavení psychoterapie žádný doložitelný institucionální ani ekonomický vliv"
+  ]
+ },
+ {
+  "id": "vyz-B24",
+  "text": "Co přivedlo Aarona Becka k odklonu od psychoanalytického výkladu deprese?",
+  "options": [
+   "Zjištění, že antidepresiva působí rychleji než jakákoli forma dlouhodobé psychoterapie deprese",
+   "Osobní analýza, v níž nenašel u sebe potvrzení hypotézy o agresi obrácené proti vlastní osobě",
+   "Nesouhlas s Ellisem, který jej přesvědčil o nadřazenosti přímé disputace iracionálních přesvědčení",
+   "Výzkum snů depresivních pacientů, v nichž místo obrácené hostility nacházel témata ztráty a selhání"
+  ]
+ },
+ {
+  "id": "vyz-B25",
+  "text": "Hovoří-li se o třech vlnách behaviorální a kognitivní tradice, co odlišuje třetí vlnu od druhé?",
+  "options": [
+   "Těžiště se přesouvá od změny obsahu myšlenek ke změně vztahu k prožívání, k přijetí a kontextu",
+   "Třetí vlna opouští empirické ověřování a vrací se k interpretaci nevědomých konfliktů",
+   "Třetí vlna se liší jen delším trváním terapie a důrazem na domácí úkoly mezi sezeními",
+   "Druhá vlna pracovala s přijetím a všímavostí, zatímco třetí zavedla restrukturaci schémat"
+  ]
+ },
+ {
+  "id": "vyz-B26",
+  "text": "Která dvojice správně spojuje směr rodinné terapie s jeho charakteristickým přínosem?",
+  "options": [
+   "Milánská škola zavedla pojem dvojné vazby, zatímco skupina v Palo Alto formulovala strukturální mapování rodiny",
+   "Skupina v Palo Alto přinesla teorii dvojné vazby, milánská škola cirkulární dotazování a neutralitu terapeuta",
+   "Minuchin vypracoval techniku pozitivní konotace, milánská škola pak práci s rodinnými hranicemi a koalicemi",
+   "Milánská škola vytvořila strukturální terapii, Minuchin komunikační teorii rodinné homeostázy a paradoxu"
+  ]
+ },
+ {
+  "id": "vyz-B27",
+  "text": "Co ukázaly takzvané dismantling studie u EMDR ohledně sporu o mechanismus účinku?",
+  "options": [
+   "Prokázaly, že bez očních pohybů metoda nemá žádný účinek přesahující pouhé čekání na zlepšení",
+   "Prokázaly, že oční pohyby jsou jediným aktivním prvkem a expoziční složka je klinicky bezvýznamná",
+   "Metoda účinná je, avšak přidaná hodnota samotných bilaterálních očních pohybů se opakovaně nepotvrdila",
+   "Metoda se ukázala jako neúčinná u posttraumatické poruchy a byla z doporučených postupů vyřazena"
+  ]
+ },
+ {
+  "id": "vyz-B28",
+  "text": "Menningerův projekt výzkumu psychoterapie, shrnutý Wallersteinem v knize Forty-Two Lives in Treatment, přinesl závěr, který zaskočil analytickou obec. Který to byl?",
+  "options": [
+   "Že žádná z forem terapie nevedla u sledovaných pacientů k měřitelné a trvalé změně",
+   "Že expresivní analytická práce přinesla trvalou změnu, zatímco podpůrná terapie efekt neměla",
+   "Že výsledek závisel výhradně na diagnóze pacienta a nikoli na použité formě terapie",
+   "Že podpůrné složky přinášely více změny, než se čekalo, a výsledky obou modalit se sbližovaly"
+  ]
+ }
+]

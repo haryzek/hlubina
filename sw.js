@@ -1,6 +1,6 @@
 /* HLUBINA service worker — precache všeho, cache-first. */
 
-const CACHE = 'hlubina-v13';
+const CACHE = 'hlubina-v14';
 
 const CORE = [
   './',

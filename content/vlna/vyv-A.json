@@ -1,0 +1,450 @@
+[
+  {
+    "id": "vyv-A01",
+    "type": "K",
+    "category": "vyvoj",
+    "text": "Proč podle Main a Hesse vede vyděšené či děsící chování pečovatele právě k dezorganizaci vazby?",
+    "options": [
+      "Vazebná figura je současně zdrojem i jediným řešením strachu, což tvoří paradox bez východiska",
+      "Dítě se naučí strach systematicky potlačovat a vybuduje si nadměrně soběstačnou vyhýbavou strategii",
+      "Opakovaná krátká odloučení vyčerpají vazebný systém a dítě přejde do fáze odpoutání od pečovatele",
+      "Pečovatel odpovídá příliš pomalu na signály nouze, takže se u dítěte nestihne vytvořit preference"
+    ],
+    "correct": 0,
+    "explanation": "Main a Hesse mluví o „strachu bez řešení“ (fright without solution): biologicky daná tendence běžet k vazebné figuře koliduje s tendencí od ní utéct, protože ta figura je sama zdrojem poplachu. Organizovaná strategie proto nemůže vzniknout a chování se hroutí do rozporných, stereotypních či ztuhlých sekvencí.",
+    "source": "Main & Hesse, 1990",
+    "seedElo": 2150
+  },
+  {
+    "id": "vyv-A02",
+    "type": "F",
+    "category": "vyvoj",
+    "text": "Které projevy patří mezi kategorie kódované škálou vyděšeného/děsícího chování rodiče (FR)?",
+    "options": [
+      "Zpožděné odpovědi na pláč, plochý afekt a nízká četnost vzájemného očního kontaktu s dítětem",
+      "Dravčí herní projevy, náhlé znehybnění s prázdným pohledem a úleková reakce na vlastní dítě",
+      "Nadměrná stimulace, direktivní vedení hry a soustavné přerušování iniciativy vycházející od dítěte",
+      "Kolísání mezi vřelostí a odtažitostí podle nálady a nedůsledné prosazování hranic v běžném dni"
+    ],
+    "correct": 1,
+    "explanation": "Systém FR kóduje mimo jiné disociativní a transovité stavy, ztuhnutí uprostřed pohybu, „dravčí“ přiblížení, ustupování před dítětem a přímé projevy úleku. Klíčové je, že nejde o hostilitu ani o nízkou senzitivitu, ale o momenty, kdy rodič vysílá signál poplachu bez zjevného vnějšího zdroje.",
+    "source": "Main & Hesse; Hesse & Main, 2006",
+    "seedElo": 2300
+  },
+  {
+    "id": "vyv-A03",
+    "type": "K",
+    "category": "vyvoj",
+    "text": "Čím se hostilně-bezmocný (hostile-helpless) stav mysli u Lyons-Ruth liší od klasifikace unresolved v AAI?",
+    "options": [
+      "Vyžaduje doloženou ztrátu blízké osoby a hodnotí se výhradně z pasáží o úmrtí v rodině",
+      "Je definován převahou idealizace rodičů a smířlivým normalizujícím tónem bez konkrétních vzpomínek",
+      "Prostupuje celým rozhovorem jako nesmířená identifikace s hostilní i bezmocnou stranou vztahu",
+      "Opírá se o pozorování dyády v laboratoři, nikoli o analýzu narativu dospělého o dětství"
+    ],
+    "correct": 2,
+    "explanation": "Unresolved se kóduje lokálně: z lapsů v uvažování či diskurzu v pasážích o ztrátě nebo traumatu. Hostilně-bezmocný stav mysli je naproti tomu globální rys narativu — mluvčí zůstává nerozřešeně identifikován s oběma póly násilného vztahu a mezi nimi osciluje. Lyons-Ruth ho spojuje především s dezorganizací a s hraniční patologií.",
+    "source": "Lyons-Ruth, Yellin, Melnick & Atwood, 2005",
+    "seedElo": 2200
+  },
+  {
+    "id": "vyv-A04",
+    "type": "K",
+    "category": "vyvoj",
+    "text": "Do jakých podob se u dříve dezorganizovaných dětí typicky vyvine kontrolující chování v předškolním a mladším školním věku?",
+    "options": [
+      "Do trvalého vyhýbání se rodiči doprovázeného zvýšenou vazbou na vrstevnickou skupinu",
+      "Do plošné pasivity a rezignace na jakoukoli iniciativu vůči rodiči i cizím dospělým",
+      "Do kolísání mezi lepivým přimykáním a hněvivým odmítáním v okamžiku opětovného shledání s rodičem",
+      "Do kontrolující-punitivní varianty nebo do kontrolující-pečující, případně jejich směsi"
+    ],
+    "correct": 3,
+    "explanation": "Kolem šesti let většina dezorganizovaných dětí obnoví organizovanou strategii tím, že převezme řízení vztahu: buď rodiče ponižuje a komanduje (punitivní), nebo o něj úzkostně pečuje a baví ho (caregiving). Jde o obrácení rolí — dítě reguluje rodiče místo naopak. Ambivalentní kolísání při shledání je znak klasifikace C, ne kontrolujícího vzorce.",
+    "source": "Main & Cassidy, 1988; Solomon & George",
+    "seedElo": 2150
+  },
+  {
+    "id": "vyv-A05",
+    "type": "K",
+    "category": "vyvoj",
+    "text": "Co přesně označuje van IJzendoornova „transmission gap“ v transgeneračním přenosu vazby?",
+    "options": [
+      "Že vazba rodiče předpovídá vazbu dítěte jen v klinických, nikoli v běžných populačních vzorcích",
+      "Že souvislost mezi AAI rodiče a vazbou dítěte mizí, jakmile se kontroluje temperament dítěte",
+      "Že pozorovaná senzitivita rodiče vysvětluje jen menší část přenosu z AAI rodiče na vazbu dítěte",
+      "Že klasifikace v AAI se u téhož rodiče výrazně mění mezi narozením prvního a druhého dítěte"
+    ],
+    "correct": 2,
+    "explanation": "Metaanalýzy ukázaly silnou vazbu mezi AAI rodiče a klasifikací dítěte a zároveň jen střední souvislost senzitivity s jistotou vazby. Senzitivita tedy funguje jako mediátor jen zčásti a zbytek řetězce zůstává nevysvětlen. Kandidáty na doplnění jsou mentalizace, markované zrcadlení, kvalita komunikace či mikroregulace v dyádě.",
+    "source": "Van IJzendoorn, 1995; De Wolff & Van IJzendoorn, 1997",
+    "seedElo": 2300
+  },
+  {
+    "id": "vyv-A06",
+    "type": "K",
+    "category": "vyvoj",
+    "text": "V jakém smyslu se v hodnocení AAI využívají Griceovy konverzační maximy?",
+    "options": [
+      "Slouží jako měřítko koherence: kvalita, kvantita, relevance a způsob výpovědi o vztazích",
+      "Slouží k odhadu pravdivosti vzpomínek porovnáním s výpověďmi ostatních členů rodiny",
+      "Slouží k určení, zda mluvčí hodnotí své rodiče převážně kladně, nebo naopak převážně kriticky",
+      "Slouží k měření množství vzpomínek na období před nástupem do školy a jejich živosti"
+    ],
+    "correct": 0,
+    "explanation": "Koherentní narativ podle Main dostojí Griceovým maximám: je pravdivý a doložený příklady, přiměřeně stručný, drží se otázky a je srozumitelně podán. Skóre koherence, nikoli obsah vzpomínek, rozhoduje o klasifikaci — proto může být autonomní i člověk s velmi těžkým dětstvím, pokud o něm dokáže souvisle vyprávět.",
+    "source": "Main, Goldwyn & Hesse, AAI scoring manual",
+    "seedElo": 2000
+  },
+  {
+    "id": "vyv-A07",
+    "type": "K",
+    "category": "vyvoj",
+    "text": "Na základě čeho se v AAI přiděluje klasifikace unresolved/disorganized (U/d)?",
+    "options": [
+      "Podle celkové míry hněvu vůči rodičům, který se v rozhovoru opakovaně vrací a stupňuje",
+      "Podle rozporu mezi vřelým popisem rodiče a chybějícími konkrétními vzpomínkami na péči",
+      "Podle výskytu více než dvou ztrát blízkých osob v období před dovršením dvanácti let věku",
+      "Podle lokálních lapsů v monitorování uvažování nebo řeči v pasážích o ztrátě či traumatu"
+    ],
+    "correct": 3,
+    "explanation": "Kóduje se přechodná dezorganizace diskurzu právě tam, kde se mluví o úmrtí či zneužití: mluvčí například hovoří o zemřelém jako o žijícím, propadne se do smuteční řeči, uvede nemožné kauzality nebo dlouho mlčí. Nerozhoduje počet ztrát ani jejich závažnost, ale to, jak je narativ v daném místě zpracován.",
+    "source": "Main & Goldwyn; Hesse, 2008",
+    "seedElo": 2200
+  },
+  {
+    "id": "vyv-A08",
+    "type": "F",
+    "category": "vyvoj",
+    "text": "Který empirický nález nejsilněji mluví proti tvrzení, že klasifikace ve Strange Situation měří v podstatě temperament dítěte?",
+    "options": [
+      "Klasifikace dítěte zůstává naprosto stejná při opakovaném testování s odstupem několika let",
+      "Klasifikace téhož dítěte s matkou a s otcem se shodují jen slabě, nikoli podle očekávání",
+      "Novorozenecká míra dráždivosti nemá žádný vztah k pozdějšímu chování v laboratorní situaci",
+      "Děti s obtížným temperamentem bývají v cizí situaci klasifikovány výhradně jako vyhýbavé"
+    ],
+    "correct": 1,
+    "explanation": "Kdyby cizí situace měřila rys dítěte, klasifikace s různými pečovateli by se musely shodovat; metaanalýza Foxe a kolegů našla jen mírnou konkordanci. Vazba je tedy vlastnost vztahu, ne dítěte. Temperament přitom není bezvýznamný — ovlivňuje spíš podobu distresu a přispívá k rozlišení uvnitř kategorií než k volbě strategie.",
+    "source": "Fox, Kimmerly & Schafer, 1991; Sroufe, 1985",
+    "seedElo": 2000
+  },
+  {
+    "id": "vyv-A09",
+    "type": "K",
+    "category": "vyvoj",
+    "text": "Čím se Belskyho model diferenciální susceptibility liší od klasického modelu diatéza–stres?",
+    "options": [
+      "Předpokládá, že rizikové geny se projeví teprve po vystavení opakovanému a dlouhodobému traumatu v dospělosti",
+      "Předpokládá, že citliví jedinci prospívají v podpůrném prostředí nadprůměrně, nejen že v zátěži strádají",
+      "Předpokládá, že vliv prostředí je zprostředkován výhradně epigenetickými změnami v metylaci DNA",
+      "Předpokládá, že podíl dědičnosti na chování roste s věkem a v dospělosti převáží nad výchovou"
+    ],
+    "correct": 1,
+    "explanation": "Diatéza–stres čeká pouze zhoršení u zranitelných; diferenciální susceptibilita předpovídá překřížení regresních přímek — titíž „orchidejoví“ jedinci dopadají hůř v nepříznivém a lépe v příznivém prostředí než „pampeliškoví“. Ke zjištění nestačí interakce jako taková, je nutné doložit i pozitivní konec kontinua.",
+    "source": "Belsky & Pluess, 2009; Ellis & Boyce",
+    "seedElo": 2100
+  },
+  {
+    "id": "vyv-A10",
+    "type": "K",
+    "category": "vyvoj",
+    "text": "Jak dnes vypadá důkazní situace u kandidátních genů (například DRD4 nebo 5-HTTLPR) a dezorganizované vazby?",
+    "options": [
+      "Polymorfismus DRD4 je dnes uznán jako hlavní příčina dezorganizace nezávisle na jakémkoli chování pečující osoby",
+      "Genetické vlivy byly zcela vyloučeny, dezorganizace je vysvětlena pouze chováním pečující osoby",
+      "Kandidátní geny predikují dezorganizaci silněji než kterýkoli známý ukazatel rodičovského chování",
+      "Přímé efekty se v metaanalýzách neprokázaly spolehlivě, nálezy jsou nekonzistentní a replikace slabé"
+    ],
+    "correct": 3,
+    "explanation": "Jednotlivé studie interakcí gen–prostředí byly zpočátku nadějné, ale metaanalytická syntéza nepotvrdila robustní hlavní efekt kandidátních genů na klasifikaci vazby a řada nálezů se nereplikovala. Pole se posunulo k celogenomovým přístupům a k opatrnějším odhadům; dezorganizace zůstává primárně vztahovým fenoménem.",
+    "source": "Bakermans-Kranenburg & Van IJzendoorn, přehledy replikací",
+    "seedElo": 2250
+  },
+  {
+    "id": "vyv-A11",
+    "type": "F",
+    "category": "vyvoj",
+    "text": "Jak silná je podle metaanalýzy Fearona a kolegů souvislost mezi dezorganizovanou vazbou a externalizujícími problémy?",
+    "options": [
+      "Malá až střední, přibližně d kolem 0,34, tedy prakticky významná, ale zdaleka ne deterministická",
+      "Velmi silná, přibližně d kolem 1,20, což z dezorganizace činí nejlepší známý prediktor agrese",
+      "Zcela zanedbatelná, přibližně d kolem 0,02, takže souvislost není odlišitelná od náhody",
+      "Střední až velká, přibližně d kolem 0,80, tedy srovnatelná s vlivem rodičovské psychopatologie"
+    ],
+    "correct": 0,
+    "explanation": "Fearon a kolegové našli u dezorganizace nejsilnější, ale stále jen mírný vztah k externalizujícím problémům; nejistota obecně vycházela slabší. Takový efekt znamená posun rizika, nikoli osud — většina dezorganizovaných dětí poruchu chování nerozvine. Pro klinické tvrzení o jednotlivci je tedy velikost efektu nedostačující.",
+    "source": "Fearon, Bakermans-Kranenburg, Van IJzendoorn a kol., 2010",
+    "seedElo": 2100
+  },
+  {
+    "id": "vyv-A12",
+    "type": "F",
+    "category": "vyvoj",
+    "text": "Co ukázala metaanalýza Groha a kolegů o vztahu vazebné nejistoty a internalizujících symptomů?",
+    "options": [
+      "Vztah byl silnější než u externalizujících problémů a nesla jej hlavně dezorganizovaná klasifikace",
+      "Vztah nebyl nalezen vůbec; internalizující symptomy se ukázaly jako nezávislé na rané vazbě",
+      "Vztah byl malý, řádově kolem d 0,15, a dezorganizace k němu významně nepřispívala",
+      "Vztah byl srovnatelný s externalizujícím a plně vysvětlený souběžnou depresivitou matky"
+    ],
+    "correct": 2,
+    "explanation": "Groh a kolegové našli jen malý efekt vazebné nejistoty na internalizující symptomy, zřetelnější u vyhýbavosti; dezorganizace zde na rozdíl od externalizující domény samostatný přínos nevykázala. Vzniká tak asymetrický obraz: raná vazba předpovídá lépe potíže v regulaci vůči druhým než úzkostně-depresivní projevy.",
+    "source": "Groh, Roisman, Van IJzendoorn a kol., 2012",
+    "seedElo": 2250
+  },
+  {
+    "id": "vyv-A13",
+    "type": "K",
+    "category": "vyvoj",
+    "text": "Který model stability vazby nejlépe odpovídá metaanalytickým datům o vztahu mezi měřeními s dlouhým odstupem?",
+    "options": [
+      "Model úplné plasticity, podle nějž po několika letech mizí jakákoli souvislost s ranou klasifikací",
+      "Model kritického období, podle nějž je vazba po prvním roce života prakticky neměnná a uzavřená",
+      "Model náhodné fluktuace, podle nějž se klasifikace mění nezávisle na okolnostech i na minulosti",
+      "Prototypový model, v němž korelace s odstupem klesají, ale ustálí se na nenulové nízké úrovni"
+    ],
+    "correct": 3,
+    "explanation": "Fraleyho metaanalýza porovnala revizionistický model (vliv minulosti se postupně přepisuje k nule) s prototypovým (přetrvává trvalá, byť slabá stopa). Data lépe odpovídají prototypu: korelace s rostoucím odstupem klesají, ale k nule nedospějí. Stabilita je přitom výrazně nižší tam, kde do rodiny vstoupí velké stresory.",
+    "source": "Fraley, 2002; Waters a kol., 2000",
+    "seedElo": 2250
+  },
+  {
+    "id": "vyv-A14",
+    "type": "K",
+    "category": "vyvoj",
+    "text": "Co v longitudinální bielefeldské studii Grossmannových nejlépe předpovídalo pozdější vazebné reprezentace z otcovské strany?",
+    "options": [
+      "Klasifikace dítěte s otcem v cizí situaci pořízená ve dvanácti a v osmnácti měsících věku",
+      "Množství času, které otec s dítětem trávil o samotě v prvních dvou letech jeho života",
+      "Citlivá a zároveň přiměřeně náročná podpora otce ve společné hře a při explorování",
+      "Míra shody mezi výchovnými postoji obou rodičů v dotazníku vyplněném na konci batolecího věku"
+    ],
+    "correct": 2,
+    "explanation": "U otců se cizí situace ukázala jako slabý prediktor. Grossmannovi navrhli, že otcovský příspěvek nevede primárně přes utišení v nouzi, ale přes explorační pól vazebně-exploračního systému: citlivá podpora ve hře, která dítě povzbuzuje a zároveň nezahlcuje, předpovídala reprezentace v adolescenci lépe než klasifikace v laboratoři.",
+    "source": "Grossmann, Grossmann a kol., 2002",
+    "seedElo": 2200
+  },
+  {
+    "id": "vyv-A15",
+    "type": "F",
+    "category": "vyvoj",
+    "text": "Jak vychází metaanalytická souvislost mezi senzitivitou otce a jistotou vazby dítěte k němu?",
+    "options": [
+      "Vychází jako silnější než u matek, protože otcové se dítěti věnují cíleněji a v kratších úsecích",
+      "Vychází jako významná, ale slabší než u matek, takže samotná senzitivita otce vysvětlí jen málo",
+      "Vychází zcela nulová, což vedlo k závěru, že vazba k otci vzniká nezávisle na jeho chování",
+      "Vychází jako zcela shodná s mateřskou, díky čemuž se výsledky obou rodičů běžně slučují"
+    ],
+    "correct": 1,
+    "explanation": "Metaanalýza van IJzendoorna a De Wolffové zjistila u otců statisticky významnou, avšak menší asociaci než u matek. Nabízí se dvojí čtení: buď je otcovská role v raném věku odlišná (hra, explorace), nebo běžné škály senzitivity zachycují spíš mateřský styl interakce. Obě čtení jsou dodnes ve hře.",
+    "source": "Van IJzendoorn & De Wolff, 1997",
+    "seedElo": 2050
+  },
+  {
+    "id": "vyv-A16",
+    "type": "K",
+    "category": "vyvoj",
+    "text": "Jak Bowlby řešil vztah mezi mnohočetnými vazebnými vztahy a předpokladem monotropie?",
+    "options": [
+      "Dítě si tvoří více vazeb, ale řadí je do hierarchie s jednou preferovanou figurou v jejím čele",
+      "Dítě si tvoří pouze jedinou pravou vazbu a ostatní vztahy zůstávají výhradně herními partnery",
+      "Dítě si tvoří vazby ke všem pečovatelům rovnocenně a v nouzi mezi nimi volí zcela náhodně",
+      "Dítě si tvoří vazby postupně tak, že každá nová plně nahradí tu předchozí i s jejím modelem"
+    ],
+    "correct": 0,
+    "explanation": "Monotropie u Bowlbyho neznamená jedinou vazbu, ale uspořádanost: pod tlakem se dítě obrací k figuře na vrcholu hierarchie, a teprve když není dostupná, sestupuje níž. Sítě vazeb bývají v mnoha kulturách široké. Otevřenou otázkou zůstává, jak se z dílčích vztahů skládá celková reprezentace vazby.",
+    "source": "Bowlby, 1969; Howes, 1999",
+    "seedElo": 1900
+  },
+  {
+    "id": "vyv-A17",
+    "type": "F",
+    "category": "vyvoj",
+    "text": "Jak se v mezikulturních srovnáních Strange Situation liší distribuce v Japonsku a v severním Německu?",
+    "options": [
+      "Japonské vzorky vykazují více rezistentní klasifikace C, severoněmecké naopak více vyhýbavé A",
+      "Japonské vzorky vykazují více vyhýbavé klasifikace A, severoněmecké naopak více rezistentní C",
+      "Oba vzorky vykazují shodně vyšší podíl dezorganizace, ale odlišný poměr jistých klasifikací",
+      "Oba vzorky se od severoamerické normy neliší v ničem kromě delší doby latence k pláči"
+    ],
+    "correct": 0,
+    "explanation": "Interpretace je opatrná: v Japonsku, kde bývá odloučení od matky vzácné, může procedura vyvolat nezvykle silný distres a nadhodnotit kategorii C; v severním Německu naopak dobová výchova k rané samostatnosti nadhodnocuje A. Celkově ale ve všech kulturách převažuje jistá vazba a mezikulturní rozdíly jsou menší než rozdíly uvnitř kultur.",
+    "source": "Miyake a kol.; Grossmann a kol.; Van IJzendoorn & Kroonenberg, 1988",
+    "seedElo": 1950
+  },
+  {
+    "id": "vyv-A18",
+    "type": "K",
+    "category": "vyvoj",
+    "text": "K jakému závěru dospěla taxometrická analýza dat ze Strange Situation u Fraleyho a Spiekerové?",
+    "options": [
+      "Data podporují existenci právě tří přirozených typů, čtvrtá kategorie D je artefakt kódování",
+      "Data podporují existenci dvou latentních tříd, jisté a nejisté, bez dalšího smysluplného dělení",
+      "Data lépe odpovídají spojitým rozměrům než přirozeným kategoriím vazebné organizace",
+      "Data neumožňují žádný závěr, protože taxometrické metody nelze na chování kojenců použít"
+    ],
+    "correct": 2,
+    "explanation": "Fraley a Spiekerová reanalyzovali velký vzorek NICHD a zjistili, že variabilita v cizí situaci se lépe popíše dvěma spojitými rozměry (zhruba vyhýbání a úzkost či rezistence) než diskrétními typy. Kategorie zůstávají užitečnou zkratkou pro klinickou komunikaci, ale nemají doloženou povahu přirozených druhů.",
+    "source": "Fraley & Spieker, 2003",
+    "seedElo": 2350
+  },
+  {
+    "id": "vyv-A19",
+    "type": "K",
+    "category": "vyvoj",
+    "text": "Co podle Fonagyho a Gergelyho nastane, když je zrcadlení afektu kontingentní, ale chybí mu markovanost?",
+    "options": [
+      "Dítě si vytvoří přesnou představu o svém stavu, jen ji bude umět pojmenovat později než vrstevníci",
+      "Dítě přisoudí zrcadlený afekt rodiči, vlastní stav se nestane reprezentací a prožitek eskaluje",
+      "Dítě zcela ztratí zájem o obličej pečovatele a jeho pozornost se přesune k neživým předmětům",
+      "Dítě začne své afekty vyjadřovat pouze tělesně a řeč emocí se u něj rozvine až v předškolním věku"
+    ],
+    "correct": 1,
+    "explanation": "Markovanost (přehnané, „jakoby“ provedení) říká dítěti, že výraz patří jemu, nikoli rodiči. Bez ní je zrcadlení realistické, dítě čte úzkost jako skutečný stav pečovatele a místo uklidnění dostane potvrzení, že je situace opravdu nebezpečná. Fonagy tento vzorec spojuje s traumatizací a s prožitkem zaplavení.",
+    "source": "Fonagy, Gergely, Jurist & Target, 2002",
+    "seedElo": 2200
+  },
+  {
+    "id": "vyv-A20",
+    "type": "K",
+    "category": "vyvoj",
+    "text": "Jak Fonagy vysvětluje klinické projevy externalizace cizího self (alien self)?",
+    "options": [
+      "Cizí self se projeví jako trvalá ztráta paměti na dětství a jako pocit neskutečnosti vzpomínek",
+      "Cizí self se projeví jako nadměrná identifikace s profesní rolí a jako vyhoření v dospělosti",
+      "Cizí self se projeví jako zvýšená schopnost číst záměry druhých a jako sklon k idealizaci partnera",
+      "Cizí self se vytěsní do druhého, jenž musí zůstat nablízku, jinak hrozí obrat agrese proti tělu"
+    ],
+    "correct": 3,
+    "explanation": "Neintegrované, z pečovatele internalizované části self prožívá člověk jako nesnesitelně cizí uvnitř. Řešením je promítnout je do druhého a udržet s ním kontakt — odtud lpění na vztahu, který zraňuje. Když druhý zmizí, cizí self se vrací dovnitř a agrese se obrací proti vlastnímu tělu; Fonagy tak vykládá sebepoškozování u hraniční poruchy.",
+    "source": "Fonagy & Target; Bateman & Fonagy, 2004",
+    "seedElo": 2200
+  },
+  {
+    "id": "vyv-A21",
+    "type": "K",
+    "category": "vyvoj",
+    "text": "Co Jurist a Fonagy míní pojmem mentalizovaná afektivita?",
+    "options": [
+      "Schopnost rozpoznat afekty druhých z mimiky rychleji, než je stačíme vědomě pojmenovat slovy",
+      "Schopnost prožívat afekt a současně mu porozumět, tedy jej identifikovat, modulovat a vyjádřit",
+      "Schopnost dočasně odpojit afekt od myšlení, aby bylo možné rozhodovat se v krizi bez zkreslení",
+      "Schopnost převést tělesné napětí do symbolické podoby snu a tím je zpracovat ve spánku"
+    ],
+    "correct": 1,
+    "explanation": "Nejde o chladnou reflexi emoce zpětně, ale o mentalizaci zevnitř probíhajícího prožitku — proto „dospělá“ forma afektivní regulace. Jurist ji rozkládá na tři kroky: identifikovat afekt, modulovat jeho intenzitu či trvání a vyjádřit jej navenek nebo vnitřně. Právě tato kapacita je cílem řady mentalizačně orientovaných intervencí.",
+    "source": "Jurist, in Fonagy, Gergely, Jurist & Target, 2002",
+    "seedElo": 2150
+  },
+  {
+    "id": "vyv-A22",
+    "type": "K",
+    "category": "vyvoj",
+    "text": "Jak se pretend mode nejčastěji projevuje v průběhu psychoterapie dospělého pacienta?",
+    "options": [
+      "Plynulým psychologickým vyprávěním odpojeným od afektu a od skutečných následků v životě",
+      "Přesvědčením, že vnitřní prožitek přesně odpovídá vnější realitě a nelze o něm pochybovat",
+      "Trváním na tom, že o vztahu vypovídají jen pozorovatelné skutky, nikoli slova a úmysly",
+      "Náhlými výbuchy hněvu, po nichž pacient nedokáže rekonstruovat, co je vyvolalo a proč"
+    ],
+    "correct": 0,
+    "explanation": "V pretend modu se představy odpojí od reality: pacient mluví „mentalizačně“, používá správné pojmy, ale nic z toho nemá tíhu ani důsledky. Typickými vodítky pro terapeuta jsou nuda, pocit prázdné hry a chybějící překvapení. Nebezpečím je kolusivní pseudoterapie, kdy oba tento chod udržují; nutná je konfrontace s realitou a afektem.",
+    "source": "Bateman & Fonagy, MBT",
+    "seedElo": 2050
+  },
+  {
+    "id": "vyv-A23",
+    "type": "K",
+    "category": "vyvoj",
+    "text": "Čím se vyznačuje epistemická hypervigilance v pojetí Fonagyho a Allisonové?",
+    "options": [
+      "Zvýšenou přesností v odhadování záměrů druhých, doprovázenou úzkostí ze sociálního hodnocení",
+      "Neschopností zapamatovat si obsah rozhovoru kvůli přetížení pracovní paměti při silném afektu",
+      "Trvalým vyhledáváním autorit, jejichž sdělení jsou přijímána bez jakéhokoli kritického posouzení",
+      "Přístupem, kdy je sdělení druhého předem bráno jako možná neplatné či skrytě sledující jiný cíl"
+    ],
+    "correct": 3,
+    "explanation": "Epistemická důvěra otevírá kanál pro přijímání sociálně přenášeného vědění; její opak kanál uzavírá. Hypervigilance je přitom adaptací na prostředí, kde druzí opravdu klamali — proto se nemá číst jako defekt, ale jako naučená obrana. Terapeuticky se neotevírá argumenty, nýbrž zkušeností, že terapeut pacientovu mysl skutečně přesně vidí.",
+    "source": "Fonagy & Allison, 2014",
+    "seedElo": 2100
+  },
+  {
+    "id": "vyv-A24",
+    "type": "K",
+    "category": "vyvoj",
+    "text": "Které tři komunikační systémy popisují Fonagy a Allison jako mechanismus účinku psychoterapie?",
+    "options": [
+      "Přenos, protipřenos a odpor jako tři kanály, jimiž se do terapie dostává pacientova minulost",
+      "Nevědomé, předvědomé a vědomé sdělení, jejichž postupné propojení tvoří jádro léčebné změny",
+      "Předání obsahu modelu mysli, obnovení mentalizace a otevření učení ze sociálního světa mimo terapii",
+      "Verbální, neverbální a tělesně prožívaná rovina sdělení, jež musí být v souladu, aby vznikla důvěra"
+    ],
+    "correct": 2,
+    "explanation": "První systém předává důvěryhodný model mysli a hlavně signalizuje pacientovi, že je viděn. To ve druhém systému obnovuje mentalizaci a snižuje epistemickou ostražitost. Třetí a rozhodující krok je salutogenní: pacient začne přijímat poznatky i mimo ordinaci, takže dlouhodobě neléčí terapie, ale znovuotevřené sociální prostředí.",
+    "source": "Fonagy & Allison, 2014; Fonagy, Campbell & Luyten",
+    "seedElo": 2350
+  },
+  {
+    "id": "vyv-A25",
+    "type": "K",
+    "category": "vyvoj",
+    "text": "Co Daniel Stern a Bostonská skupina míní „momentem setkání“ ve své teorii terapeutické změny?",
+    "options": [
+      "Okamžik, kdy pacient poprvé pojmenuje dosud vytěsněné přání a přijme za ně odpovědnost",
+      "Okamžik, kdy terapeut podá přesnou přenosovou interpretaci a pacient ji potvrdí vzpomínkou",
+      "Okamžik autentické vzájemné odpovědi, který mění implicitní vztahové vědění bez interpretace",
+      "Okamžik prudkého afektivního propuknutí, po němž se v terapii uvolní dosud blokovaný materiál"
+    ],
+    "correct": 2,
+    "explanation": "Vedle explicitního, vědomého poznání běží implicitní vztahové vědění o tom, jak se s druhým dá být. Po „nyní momentu“, kdy se navyklý chod naruší a je nutná osobní odpověď, může přijít moment setkání, který toto implicitní vědění přepíše. Změna se tak neděje jen zvědoměním, ale i v samotné látce vztahu.",
+    "source": "Stern a kol., 1998; Boston Change Process Study Group",
+    "seedElo": 2000
+  },
+  {
+    "id": "vyv-A26",
+    "type": "F",
+    "category": "vyvoj",
+    "text": "Čím se u Trevarthena liší sekundární intersubjektivita od primární?",
+    "options": [
+      "Primární je vrozená, sekundární se objevuje až se schopností mluvit ve větách kolem tří let",
+      "Primární se týká vztahu k matce, sekundární výhradně vztahů k vrstevníkům v předškolní skupině",
+      "Primární probíhá v tichu a pohledech, sekundární vyžaduje zvukovou hru a napodobování slabik",
+      "Primární je přímá dyadická výměna, sekundární přidává třetí prvek, k němuž se pozornost sdílí"
+    ],
+    "correct": 3,
+    "explanation": "V prvních měsících spolu kojenec a pečovatel ladí protokonverzaci tváří v tvář — rytmus, pauzy, střídání. Kolem devátého měsíce vzniká trojúhelník: dítě, dospělý a předmět, což umožňuje ukazování, sdílenou pozornost a sociální referencování. Trevarthen v tom vidí vrozenou motivaci sdílet prožitek, ne jen dosáhnout cíle.",
+    "source": "Trevarthen & Hubley, 1978",
+    "seedElo": 1850
+  },
+  {
+    "id": "vyv-A27",
+    "type": "F",
+    "category": "vyvoj",
+    "text": "Co typicky ukáže paradigma nehybné tváře (still-face) u zhruba tříměsíčního kojence?",
+    "options": [
+      "Snahu tvář znovu zapojit, po jejím selhání odvrácení a projevy sebeuklidňování a nelibosti",
+      "Klidné vyčkávání bez známek stresu, protože kojenec v tomto věku ještě vzájemnost neočekává",
+      "Okamžité usnutí jako reakci na snížení stimulace ze strany dospělého v laboratorních podmínkách",
+      "Zesílení úsměvů a broukání po celou dobu epizody, dokud se dospělý znovu nezapojí do hry"
+    ],
+    "correct": 0,
+    "explanation": "Kojenec nejprve zvýší úsilí o obnovení kontaktu, a když neuspěje, odvrátí se, zesmutní a sahá po sebeuklidňujících projevech. Paradigma tak dokládá, že už v prvních měsících existuje očekávání vzájemné odpovědi a základní schopnost autoregulace. Míra i rychlost zotavení po skončení epizody se přitom liší dyáda od dyády.",
+    "source": "Tronick, Als, Adamson, Wise & Brazelton, 1978",
+    "seedElo": 1900
+  },
+  {
+    "id": "vyv-A28",
+    "type": "K",
+    "category": "vyvoj",
+    "text": "Co říká Beebeové model středního pásma (midrange) o vztahu mezi kontingencí v dyádě a dezorganizací vazby?",
+    "options": [
+      "Riziko roste lineárně s klesající kontingencí, takže nejvyšší je při naprosté absenci odpovědí",
+      "Riziko roste na obou koncích: při nízké i při nadměrně vysoké vzájemné kontingenci v dyádě",
+      "Riziko nesouvisí s kontingencí, nýbrž pouze s množstvím vzájemného očního kontaktu ve výměně",
+      "Riziko je nejvyšší uprostřed rozpětí, protože průměrná kontingence dítěti neposkytuje vodítka"
+    ],
+    "correct": 1,
+    "explanation": "Mikroanalýzy videa ukázaly, že optimální je střední pásmo koordinace: ponechává prostor pro nesoulad i pro jeho reparaci. Příliš nízká kontingence znamená nedostupnost, příliš vysoká zase ostražité sledování či vpád do prostoru dítěte. Beebeová obojí spojuje se čtyřměsíčními prediktory pozdější dezorganizace.",
+    "source": "Beebe a kol., 2010; Jaffe, Beebe a kol., 2001",
+    "seedElo": 2350
+  }
+]

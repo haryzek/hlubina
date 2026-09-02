@@ -1,0 +1,450 @@
+[
+  {
+    "id": "vyz-A01",
+    "type": "F",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Turner a kol. (2008) porovnali publikované studie antidepresiv s kompletním registrem studií u FDA. Co našli?",
+    "options": [
+      "z publikovaných studií vyznělo pozitivně 94 %, zatímco v registru FDA jen 51 %",
+      "shoda registru a publikací byla vysoká, lišily se jen velikosti účinku o 3 %",
+      "negativní studie sice vyšly, ale v průměru o čtyři roky později než pozitivní",
+      "publikováno bylo 94 % studií, ale u poloviny byl přepsán primární cílový ukazatel"
+    ],
+    "correct": 0,
+    "explanation": "Selektivní publikování posunulo obraz účinnosti: souhrnné velikosti účinku byly v literatuře nadhodnoceny zhruba o třetinu proti registrovaným datům. Stejný mechanismus platí i pro psychoterapii, jen tam chybí regulátor, který by studie povinně registroval. Proto se dnes u metaanalýz rutinně testuje asymetrie trychtýřového grafu.",
+    "source": "Turner, Matthews, Linardatos, Tell a Rosenthal, New England Journal of Medicine (2008)",
+    "seedElo": 1900
+  },
+  {
+    "id": "vyz-A02",
+    "type": "K",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Proč čekací listina jako kontrolní podmínka nadhodnocuje účinek psychoterapie?",
+    "options": [
+      "měření na čekací listině probíhá později, takže zachytí i návrat k průměru",
+      "čekání může tlumit spontánní úzdravu a chová se spíš jako nocebo než jako nula",
+      "pacienti na čekací listině častěji berou léky, které maskují zlepšení v dotaznících",
+      "čekací listiny bývají kratší než terapie, takže srovnávaná období nejsou stejná"
+    ],
+    "correct": 1,
+    "explanation": "Čekající pacient ví, že pomoc má přijít, a často odkládá vlastní úsilí i jinou péči; jeho křivka je proto plošší než přirozený průběh bez léčby. Účinky proti čekací listině vycházejí systematicky větší než proti obvyklé péči a ještě větší než proti pilulkovému placebu. Čekací listina tedy není neutrální nula, ale sama zásah.",
+    "source": "Furukawa a kol., Acta Psychiatrica Scandinavica (2014)",
+    "seedElo": 1900
+  },
+  {
+    "id": "vyz-A03",
+    "type": "F",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Cuijpers a kol. (2010) korigovali souhrnný účinek psychoterapie deprese na publikační zkreslení metodou trim-and-fill. Jak se změnil?",
+    "options": [
+      "nezměnil se, protože trychtýřový graf vyšel symetrický a chybějící studie nebyly",
+      "vzrostl zhruba z 0,50 na 0,60, protože v šuplících zůstávaly hlavně nulové studie",
+      "klesl zhruba z 0,67 na 0,42 standardizovaného rozdílu, tedy o víc než třetinu",
+      "klesl zhruba z 0,90 na 0,80 standardizovaného rozdílu, tedy zanedbatelně málo"
+    ],
+    "correct": 2,
+    "explanation": "Korekce nesnížila účinek na nulu, ale posunula ho z pásma středního do pásma malého až středního. Přidejme k tomu, že studie s nižší metodologickou kvalitou vykazují systematicky větší účinky, a odhad se posouvá ještě níž. Psychoterapie deprese funguje, jen skromněji, než tvrdily nekorigované souhrny.",
+    "source": "Cuijpers, Smit, Bohlmeijer, Hollon a Andersson, British Journal of Psychiatry (2010)",
+    "seedElo": 1950
+  },
+  {
+    "id": "vyz-A04",
+    "type": "F",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Jak častý je v psychoterapii zhoršený stav na konci léčby oproti stavu při vstupu?",
+    "options": [
+      "kolem 20 % u dospělých a u dětí a dospívajících výrazně méně často",
+      "kolem 15 % u dospělých a u dětí a dospívajících také přibližně 15 %",
+      "kolem 3 % u dospělých a u dětí a dospívajících zhruba stejně často",
+      "kolem 5 až 10 % u dospělých a u dětí a dospívajících ještě častěji"
+    ],
+    "correct": 3,
+    "explanation": "Zhoršení není vzácná anomálie, ale běžná součást statistiky, kterou se dlouho nikdo neobtěžoval sledovat. U dětí a dospívajících se odhady pohybují ještě výš, protože do léčby často vstupují bez vlastní motivace. Nežádoucí účinky psychoterapie navíc nejsou totéž co zhoršení symptomů — patří sem i poškozené vztahy nebo ztráta důvěry v pomoc.",
+    "source": "Lambert, Bergin and Garfield's Handbook (2013); Hansen, Lambert a Forman (2002)",
+    "seedElo": 1950
+  },
+  {
+    "id": "vyz-A05",
+    "type": "K",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Proč je pojem „placebo“ v psychoterapeutickém výzkumu metodologicky problematický?",
+    "options": [
+      "protože vztah a očekávání nejsou inertním obalem, ale samy patří k účinným složkám léčby",
+      "protože placebo je definováno farmakologicky a psychoterapii nelze podat v pevné dávce",
+      "protože etické komise nedovolují nasadit skutečně neúčinnou psychologickou intervenci",
+      "protože placebo efekt v psychoterapii mizí, jakmile výsledek hodnotí nezávislý posuzovatel"
+    ],
+    "correct": 0,
+    "explanation": "Ve farmakologii má smysl oddělit účinnou látku od inertního obalu. V psychoterapii je ale „obal“ — naděje, rituál, vztah — právě to, co podle kontextuálního modelu léčí, takže odečíst ho znamená odečíst léčbu samu. Proto se dnes mluví spíš o kontrolách se strukturální ekvivalencí než o placebu.",
+    "source": "Wampold a Imel, The Great Psychotherapy Debate (2015); Kirsch (2005)",
+    "seedElo": 2000
+  },
+  {
+    "id": "vyz-A06",
+    "type": "F",
+    "category": "vyzkum-etika-dejiny",
+    "text": "K jakému závěru došla metaanalýza komponentních (dismantling) studií Ahna a Wampolda (2001)?",
+    "options": [
+      "odebrání teoreticky klíčové složky vedlo k významnému poklesu účinku ve většině studií",
+      "odebrání teoreticky klíčové složky nevedlo k rozdílu proti úplnému balíku léčby",
+      "přidání složky zvýšilo účinek jen tam, kde terapeuta školil přímo autor metody",
+      "komponentní studie byly příliš malé, takže autoři jejich výsledky odmítli sloučit"
+    ],
+    "correct": 1,
+    "explanation": "Ze 27 srovnání nevyšlo ani jedno systematické zvýhodnění úplného balíku, což je pro medicínský model nepříjemné: kdyby specifická složka nesla účinek, její odebrání by mělo být vidět. Kritici namítají, že dismantling studie jsou zpravidla podmocněné a rozdíl velikosti 0,2 by spolehlivě neodhalily. Spor tedy neuzavírá, jen posouvá důkazní břemeno.",
+    "source": "Ahn a Wampold, Journal of Counseling Psychology (2001)",
+    "seedElo": 2000
+  },
+  {
+    "id": "vyz-A07",
+    "type": "F",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Kolik rozptylu výsledku připadá podle metaanalytických odhadů na osobu terapeuta?",
+    "options": [
+      "kolem 25 %, tedy víc, než připadá na metodu a pracovní alianci dohromady",
+      "kolem 0,5 %, tedy zhruba tolik, kolik připadá na rozdíly mezi metodami léčby",
+      "kolem 5 %, přičemž v naturalistických souborech víc než v randomizovaných studiích",
+      "kolem 5 %, přičemž v randomizovaných studiích víc než v naturalistických souborech"
+    ],
+    "correct": 2,
+    "explanation": "Randomizované studie terapeuty vybírají, školí a supervidují, čímž rozdíly mezi nimi stlačují; v běžné praxi se rozevřou zhruba na dvojnásobek. Pět procent zní málo, ale je to řádově víc než rozdíl mezi metodami — a na rozdíl od metody je to vlastnost, kterou nelze koupit v manuálu. Podíl navíc roste u obtížnějších pacientů.",
+    "source": "Baldwin a Imel, Bergin and Garfield's Handbook (2013)",
+    "seedElo": 2000
+  },
+  {
+    "id": "vyz-A08",
+    "type": "F",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Munder a kol. (2013) shrnuli metaanalýzy vlivu oddanosti výzkumníka (allegiance) na výsledek. Co zjistili?",
+    "options": [
+      "velmi silný vztah kolem r = 0,85, odpovídající dvěma třetinám rozptylu účinku",
+      "obrácený vztah — studie s vysokou oddaností autorů vykazovaly menší účinky",
+      "žádný vztah — po kontrole metodologické kvality studií souvislost zcela zmizela",
+      "středně silný vztah kolem r = 0,26, který nešlo vysvětlit jen kvalitou studií"
+    ],
+    "correct": 3,
+    "explanation": "Ranější odhady mluvily o vztahu tak silném, že by oddanost vysvětlila skoro všechny rozdíly mezi terapiemi; ty se ukázaly jako nadsazené a částečně zaměňovaly příčinu s následkem. Střední velikost přesto stačí na to, aby srovnávací studie bez nezávislého týmu byly podezřelé. Praktickým opatřením je vyvážená oddanost autorů nebo adversariální spolupráce.",
+    "source": "Munder, Brütsch, Leonhart, Gerger a Barth, Clinical Psychology Review (2013)",
+    "seedElo": 2050
+  },
+  {
+    "id": "vyz-A09",
+    "type": "F",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Co ukázala metaanalýza Webba, DeRubeise a Barbera (2010) o adherenci a kompetenci terapeuta?",
+    "options": [
+      "ani adherence, ani kompetence nevykazovaly významný vztah k výsledku léčby",
+      "kompetence souvisela s výsledkem jen tam, kde byla adherence terapeuta nízká",
+      "adherence i kompetence předpovídaly výsledek silně, obojí zhruba na úrovni aliance",
+      "adherence výsledek předpovídala, zatímco kompetence s výsledkem nesouvisela vůbec"
+    ],
+    "correct": 0,
+    "explanation": "Obě korelace vyšly blízko nule, což je paradox: školíme a supervidujeme právě na to, co s výsledkem měřitelně nesouvisí. Vysvětlení mohou být přinejmenším tři — omezený rozsah hodnot ve studiích, špatné škály, nebo skutečně nelineární vztah. Kompetence navíc bývá hodnocena bez ohledu na kontext, v němž má terapeut techniku použít.",
+    "source": "Webb, DeRubeis a Barber, Journal of Consulting and Clinical Psychology (2010)",
+    "seedElo": 2050
+  },
+  {
+    "id": "vyz-A10",
+    "type": "K",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Co měří Andersonova metoda facilitativních interpersonálních dovedností (FIS)?",
+    "options": [
+      "počet hodin, které terapeut strávil cíleným nácvikem mimo vlastní sezení",
+      "kvalitu odpovědí terapeuta na videoukázky obtížných momentů s pacientem",
+      "míru shody terapeuta s manuálem hodnocenou ze záznamů reálných sezení",
+      "sebeposouzení terapeuta v dotazníku empatie, vřelosti a autenticity"
+    ],
+    "correct": 1,
+    "explanation": "Terapeut reaguje na standardizované nahrávky obtížných pacientů a nezávislí posuzovatelé hodnotí verbální plynulost, emoční expresivitu, přesvědčivost, teplo a schopnost pracovat s hostilitou. Skóre předpovídalo skutečné výsledky pacientů daného terapeuta, a to i prospektivně u studentů před výcvikem. Jde o jeden z mála robustních prediktorů toho, kdo bude dobrý terapeut.",
+    "source": "Anderson, Ogles, Patterson, Lambert a Vermeersch (2009); Anderson a kol. (2016)",
+    "seedElo": 2050
+  },
+  {
+    "id": "vyz-A11",
+    "type": "F",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Jak zní nejsilnější alternativní vysvětlení korelace mezi pracovní aliancí a výsledkem léčby?",
+    "options": [
+      "pacienti s lepší prognózou vstupují do léčby s výrazně jistějším typem citové vazby",
+      "vysoká aliance i dobrý výsledek jsou obojí důsledkem terapeutovy adherence k manuálu",
+      "časné zlepšení symptomů předchází vysokému hodnocení aliance a působí je, ne naopak",
+      "aliance i výsledek hodnotí týž člověk, takže korelaci vyrábí sdílená metoda měření"
+    ],
+    "correct": 2,
+    "explanation": "Feeley a DeRubeis ukázali, že když se do modelu vloží zlepšení symptomů předcházející měření aliance, prediktivní síla aliance výrazně klesne. Aliance by pak byla spíš teploměrem než topením. Námitka sdíleného zdroje měření je také reálná, ale slabší, protože vztah přežívá i při hodnocení aliance pozorovatelem.",
+    "source": "Feeley, DeRubeis a Gelfand, Journal of Consulting and Clinical Psychology (1999)",
+    "seedElo": 2100
+  },
+  {
+    "id": "vyz-A12",
+    "type": "F",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Co ukázaly víceúrovňové studie aliance a symptomů se zpožděnými (time-lagged) modely?",
+    "options": [
+      "vztah aliance a symptomů zmizel, jakmile byla zohledněna změna z předcházejícího sezení",
+      "změna symptomů předpovídala alianci, ale aliance změnu symptomů v žádném modelu ne",
+      "vztah zůstal jen na úrovni rozdílů mezi terapeuty, uvnitř jednoho pacienta zcela zmizel",
+      "aliance v sezení předpovídá změnu symptomů do dalšího sezení i po kontrole předchozí změny"
+    ],
+    "correct": 3,
+    "explanation": "Sezení po sezení lze oddělit, co čemu předchází, a aliance si i po odečtení předchozího zlepšení ponechává malý, ale opakovaně replikovaný prediktivní podíl. Vztah je přitom obousměrný: zlepšení také zvedá alianci. Kauzalitu to nedokazuje, ale vyvrací silnou verzi námitky, že aliance je pouhým odrazem už proběhlého zlepšení.",
+    "source": "Falkenström, Granström a Holmqvist, Journal of Counseling Psychology (2013)",
+    "seedElo": 2100
+  },
+  {
+    "id": "vyz-A13",
+    "type": "K",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Proč je v analýze aliance důležité oddělit její vnitroosobní složku od složky mezi pacienty?",
+    "options": [
+      "protože kolísání aliance uvnitř pacienta je kauzálnímu působení blíž než rozdíly mezi lidmi",
+      "protože mezi-osobní složka je vždy silnějším prediktorem výsledku než kolísání v čase",
+      "protože vnitroosobní složka zachycuje chybu měření, kterou je nutné z modelu odstranit",
+      "protože jen mezi-osobní složka je ovlivnitelná terapeutem, vnitroosobní je rysem pacienta"
+    ],
+    "correct": 0,
+    "explanation": "Rozdíly mezi pacienty jsou beznadějně zamotané do prognostických charakteristik — kdo umí navázat vztah, ten se často uzdraví i jinak. Naopak když u téhož pacienta stoupne aliance nad jeho vlastní průměr a poté klesnou symptomy, je konfundující vliv stabilních rysů vyloučen. Zilcha-Mano proto navrhuje číst obě složky jako různé věci, ne jako jednu.",
+    "source": "Zilcha-Mano, American Psychologist (2017)",
+    "seedElo": 2150
+  },
+  {
+    "id": "vyz-A14",
+    "type": "F",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Siev a Chambless (2007) porovnali kognitivní terapii a relaxaci u úzkostných poruch. Jaký vzorec našli?",
+    "options": [
+      "u obou poruch byla relaxace o něco účinnější než kognitivní terapie",
+      "u generalizované úzkosti byly rovnocenné, u panické poruchy byla relaxace horší",
+      "u panické poruchy byly rovnocenné, u generalizované úzkosti byla relaxace horší",
+      "rozdíly zmizely, jakmile byla do modelu zahrnuta oddanost autorů dané metodě"
+    ],
+    "correct": 1,
+    "explanation": "Autoři to použili jako protipříklad proti plošné rovnocennosti terapií: sloučí-li se diagnózy dohromady, specifické rozdíly se v průměru rozpustí. Wampold odpověděl, že šlo o srovnání s podmínkou, která pro paniku není bona fide léčbou. Spor tak ilustruje, jak silně závěry o rovnocennosti závisejí na výběru srovnávaných podmínek.",
+    "source": "Siev a Chambless, Journal of Consulting and Clinical Psychology (2007)",
+    "seedElo": 2150
+  },
+  {
+    "id": "vyz-A15",
+    "type": "F",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Která metodologická námitka kritiků nejvíc oslabuje závěr o rovnocennosti psychoterapií?",
+    "options": [
+      "rovnocennost byla zjištěna jen u depresí a u jiných diagnóz nebyla nikdy testována",
+      "velikost účinku 0,20 je ve skutečnosti veliká, jen se počítá na nevhodné metrice",
+      "srovnávají se jen „bona fide“ terapie, čímž jsou slabí kandidáti vyloučeni předem",
+      "slučují se jen studie s aktivní kontrolou, takže se účinek obou ramen podhodnotí"
+    ],
+    "correct": 2,
+    "explanation": "Kritérium bona fide vyžaduje teoretické ukotvení, dostatečnou dávku a vyškolené terapeuty — což jsou přesně podmínky, za nichž se dá rovnocennost čekat. K tomu se přidává druhá námitka: nezamítnutá nulová hypotéza při nízké statistické síle není důkaz rovnosti. Sloučení napříč diagnózami navíc může zamaskovat rozdíly platné pro konkrétní poruchu.",
+    "source": "Lilienfeld (2014); Siev, Huppert a Chambless, Psychotherapy Research (2009)",
+    "seedElo": 2150
+  },
+  {
+    "id": "vyz-A16",
+    "type": "F",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Co zjistila metaanalýza aditivních a komponentních designů Bella, Marcuse a Goodlada (2013)?",
+    "options": [
+      "přidaná složka zlepšila obecné ukazatele, ale nikoli přímo cílový problém",
+      "přidaná složka výsledek zhoršila, protože pacienta zahltila množstvím technik",
+      "přidaná i odebraná složka měnily výsledek stejně silně, ale opačným směrem",
+      "přidaná složka zlepšila cílový problém, ale nikoli obecné ukazatele výsledku"
+    ],
+    "correct": 3,
+    "explanation": "Specifické techniky tedy zřejmě dělají něco specifického — jen se to neprojeví na celkovém stavu pacienta. To je pro obě strany sporu částečná výhra: medicínský model dostává důkaz specificity, kontextuální model si drží tvrzení, že celkový výsledek je řízen jinými silami. Rozdíl mezi cílovým a obecným ukazatelem je zde klíčovou rozlišovací hranou.",
+    "source": "Bell, Marcus a Goodlad, Journal of Consulting and Clinical Psychology (2013)",
+    "seedElo": 2150
+  },
+  {
+    "id": "vyz-A17",
+    "type": "F",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Jak Tang a DeRubeis (1999) popsali fenomén náhlých zisků (sudden gains)?",
+    "options": [
+      "nastávají zhruba u 40 % pacientů a nesou velkou část jejich celkového zlepšení",
+      "nastávají výhradně mezi prvním a druhým sezením a později se už nevyskytují",
+      "nastávají v terapii i na čekací listině stejně často, jde tedy o regresi k průměru",
+      "nastávají zhruba u poloviny pacientů a nesou zhruba desetinu celkového zlepšení"
+    ],
+    "correct": 0,
+    "explanation": "Zlom v jediném mezisezeňovém intervalu obvykle přinesl kolem poloviny celkového zlepšení a předcházela mu podstatná kognitivní změna v předchozím sezení. Pacienti s náhlým ziskem byli na tom lépe i při následném sledování. Kritici ale ukázali, že podobné skoky se objevují i mimo terapii, takže část jevu jde na vrub kolísání měření.",
+    "source": "Tang a DeRubeis, Journal of Consulting and Clinical Psychology (1999)",
+    "seedElo": 2200
+  },
+  {
+    "id": "vyz-A18",
+    "type": "F",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Co ukazují novější metaanalýzy rutinního měření výsledku se zpětnou vazbou terapeutovi?",
+    "options": [
+      "velký účinek u všech pacientů, srovnatelný s rozdílem proti čekací listině",
+      "malý celkový účinek soustředěný u pacientů, kteří nejdou podle očekávání",
+      "žádný účinek, pokud terapeut nedostane zároveň i klinické podpůrné nástroje",
+      "účinek výhradně na předčasné ukončení léčby, nikoli na symptomatický výsledek"
+    ],
+    "correct": 1,
+    "explanation": "Souhrnný účinek se pohybuje v pásmu malých hodnot a rané nadšené odhady se v nezávislých replikacích zmenšily. Užitek je zřetelný tam, kde by terapeut jinak zhoršení nepoznal — bez zpětné vazby totiž terapeuti své neúspěchy systematicky podceňují. Zpětná vazba tak není zesilovač úspěchu, ale detektor selhání.",
+    "source": "de Jong a kol., Clinical Psychology Review (2021)",
+    "seedElo": 2200
+  },
+  {
+    "id": "vyz-A19",
+    "type": "F",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Jak Barber a kol. (2006) popsali vztah mezi adherencí terapeuta k technice a výsledkem léčby?",
+    "options": [
+      "lineárně rostoucí — čím vyšší adherence, tím lepší výsledek u všech pacientů",
+      "lineárně klesající — vysoká adherence signalizuje rigiditu a horší výsledek",
+      "křivkový — nejlepší výsledky při střední úrovni, horší při nízké i velmi vysoké",
+      "nulový u depresí, ale silně kladný u poruch osobnosti a u závislostí"
+    ],
+    "correct": 2,
+    "explanation": "Málo techniky znamená bezradnost, hodně techniky znamená hluchotu vůči tomu, co se v místnosti děje. Vztah navíc moderuje aliance: při slabé alianci se vysoká adherence pojí s horším výsledkem, při silné alianci škodí méně. To vysvětluje, proč lineární korelace adherence s výsledkem vycházejí v metaanalýzách kolem nuly.",
+    "source": "Barber a kol., Journal of Consulting and Clinical Psychology (2006)",
+    "seedElo": 2200
+  },
+  {
+    "id": "vyz-A20",
+    "type": "F",
+    "category": "vyzkum-etika-dejiny",
+    "text": "K čemu dospělo metaanalytické srovnání manualizované a nemanualizované psychoterapie?",
+    "options": [
+      "manuál zlepšil výsledek jen tam, kde byla zároveň měřena kompetence terapeuta",
+      "manuál zvýšil účinek zhruba o 0,3 jednotky, hlavně u méně zkušených terapeutů",
+      "manuál snížil účinek zhruba o 0,3 jednotky kvůli ztrátě citlivosti na pacienta",
+      "mezi manualizovanou a nemanualizovanou léčbou nebyl významný rozdíl ve výsledku"
+    ],
+    "correct": 3,
+    "explanation": "Manuál plní hlavně metodologickou funkci — zajišťuje, že se ve dvou ramenech studie skutečně dělá něco odlišného — ale sám o sobě výsledek nezvedá. Zároveň zužuje rozptyl toho, co terapeuti dělají, což může maskovat rozdíly mezi nimi. Tvrzení „manualizovaná léčba je účinnější“ tedy zatím nemá oporu v přímém srovnání.",
+    "source": "Truijens, Zühlke-van Hulzen a Vanheule, Journal of Clinical Psychology (2019)",
+    "seedElo": 2200
+  },
+  {
+    "id": "vyz-A21",
+    "type": "K",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Čím se hermeneutický jednopřípadový design účinnosti (HSCED) liší od běžné kazuistiky?",
+    "options": [
+      "staví proti sobě afirmativní a skeptický tým, které nad týmiž daty vedou spor",
+      "měří výsledek výhradně standardizovanými dotazníky, nikoli výpovědí klienta",
+      "vyžaduje nejméně tři opakované základní linie u tří odlišných klientů zároveň",
+      "vyžaduje randomizaci pořadí jednotlivých fází léčby uvnitř jediného případu"
+    ],
+    "correct": 0,
+    "explanation": "Skeptický tým musí systematicky vyčerpat alternativní vysvětlení změny — spontánní úzdravu, mimoterapeutické události, léky, očekávání, zkreslení sebeposouzení — a afirmativní tým jim čelí bohatým souborem dat. Rozsudek pak vynáší nezávislý posuzovatel. Design tak přenáší logiku falzifikace do jediného případu, místo aby ji nahrazoval počtem účastníků.",
+    "source": "Elliott, Psychotherapy Research (2002)",
+    "seedElo": 2250
+  },
+  {
+    "id": "vyz-A22",
+    "type": "F",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Jaký vzorec výsledků přinesla helsinská studie porovnávající krátkodobé a dlouhodobé terapie?",
+    "options": [
+      "rozdíly mezi délkami léčby se neobjevily v žádném z předem určených časových bodů",
+      "zprvu vedly krátkodobé terapie, po třech letech je předstihla dlouhodobá psychodynamická",
+      "dlouhodobá psychodynamická vedla od začátku a svůj náskok si udržela i po pěti letech",
+      "krátkodobé terapie byly lepší v každém měřeném bodě včetně pětiletého sledování"
+    ],
+    "correct": 1,
+    "explanation": "Křivky se protínají: rychlost a trvanlivost nejsou totéž a otázka „co je účinnější“ bez určení časového bodu nemá odpověď. Ve víceletém sledování se rozdíly opět stíraly a část účastníků obou ramen mezitím vyhledala další léčbu. Studie navíc nebyla plně randomizovaná napříč všemi rameny, což omezuje sílu kauzálních závěrů.",
+    "source": "Knekt a kol., Psychological Medicine (2008) a navazující sledování",
+    "seedElo": 2250
+  },
+  {
+    "id": "vyz-A23",
+    "type": "F",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Jaká byla hlavní metodologická výtka vůči metaanalýze dlouhodobé psychodynamické terapie (Leichsenring a Rabung, 2008)?",
+    "options": [
+      "zahrnula výhradně randomizované studie, čímž vyloučila naturalistickou většinu dat",
+      "sloučila hodnoty před léčbou a po ní zcela bez použití jakékoli kontrolní skupiny",
+      "chybně počítala velikosti účinku a míchala nesourodé cílové skupiny i kontrolní podmínky",
+      "nezveřejnila protokol, ačkoli její výpočty byly jinak opakovaně nezávisle potvrzeny"
+    ],
+    "correct": 2,
+    "explanation": "Kritici přepočítali data a část původního náskoku dlouhodobé terapie zmizela; do jednoho souhrnu navíc vstupovaly studie s velmi odlišnými pacienty i srovnávacími rameny. Autoři výtky zčásti přijali a v pozdějších pracích analýzu upravili. Případ je učebnicovým příkladem toho, že metaanalýza není o nic pevnější než pravidla, podle nichž se do ní vybíralo.",
+    "source": "Bhar a kol. (2010); Littell a Shlonsky (2011); Leichsenring a Rabung, JAMA (2008)",
+    "seedElo": 2250
+  },
+  {
+    "id": "vyz-A24",
+    "type": "K",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Které zaslepení je v psychoterapeutických studiích prakticky dosažitelné?",
+    "options": [
+      "zaslepení pacienta vůči tomu, zda vůbec nějakou léčebnou podmínku dostává",
+      "zaslepení pacienta vůči tomu, kterou z porovnávaných aktivních terapií dostává",
+      "zaslepení terapeuta vůči podávané léčbě i vůči zkoumané hypotéze zároveň",
+      "zaslepení nezávislého posuzovatele výsledku vůči přidělené léčebné podmínce"
+    ],
+    "correct": 3,
+    "explanation": "Pacient i terapeut vždycky vědí, co se v místnosti děje, takže dvojité zaslepení je principiálně nedosažitelné a označení „double-blind“ v psychoterapii nedává smysl. Zaslepit lze posuzovatele výsledku a statistika. Právě proto vycházejí účinky měřené sebeposouzením systematicky větší než účinky hodnocené zaslepeným posuzovatelem.",
+    "source": "Cuijpers a kol., Psychological Medicine (2010); Boutron a kol. (2007)",
+    "seedElo": 2300
+  },
+  {
+    "id": "vyz-A25",
+    "type": "F",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Jak vypadá realistický rozklad rozptylu výsledku psychoterapie podle Wampolda a Imela?",
+    "options": [
+      "metoda pod 1 %, terapeut kolem 5 %, aliance kolem 5 až 8 %, zbytek nevysvětlen",
+      "metoda kolem 15 %, terapeut kolem 10 %, aliance kolem 20 %, zbytek nevysvětlen",
+      "metoda kolem 8 %, terapeut pod 1 %, aliance kolem 30 %, zbytek nevysvětlen",
+      "metoda kolem 5 %, terapeut kolem 5 %, aliance kolem 1 %, zbytek nevysvětlen"
+    ],
+    "correct": 0,
+    "explanation": "Součet všech dobře doložených prediktorů se pohybuje kolem patnácti procent; drtivá většina rozptylu zůstává nevysvětlená a připadá na pacienta, jeho okolnosti a chybu měření. Čísla se navíc překrývají — aliance a terapeut nejsou nezávislé zdroje. Sčítat je proto nelze mechanicky a každý koláčový graf tohoto typu je zjednodušením.",
+    "source": "Wampold a Imel, The Great Psychotherapy Debate (2015)",
+    "seedElo": 2300
+  },
+  {
+    "id": "vyz-A26",
+    "type": "F",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Jaký je současný stav evidence pro cílený nácvik (deliberate practice) u psychoterapeutů?",
+    "options": [
+      "opakovaně replikovaný experimentální důkaz, že nácvik zlepšuje výsledky pacientů",
+      "opřený hlavně o korelační data z malých souborů, experimentálních důkazů je málo",
+      "průkazně negativní — nácvik zlepšuje dovednosti terapeuta, ale zhoršuje výsledky",
+      "prakticky nezkoumaný, protože nacvičované dovednosti nelze spolehlivě měřit"
+    ],
+    "correct": 1,
+    "explanation": "Původní nález spojující čas věnovaný nácviku s výsledky pacientů stál na několika desítkách terapeutů a retrospektivních odhadech vlastního času. Novější experimentální práce ukazují zlepšení nacvičovaných dovedností, ale přenos na výsledky pacientů zůstává většinou nedoložený. Doporučení je tak zatím spíš rozumnou hypotézou než prokázanou intervencí.",
+    "source": "Chow a kol., Psychotherapy (2015); Hill, Spiegel, Hoffman a kol. (2017)",
+    "seedElo": 2300
+  },
+  {
+    "id": "vyz-A27",
+    "type": "F",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Jak se u psychoterapie deprese liší velikost účinku podle typu kontrolní podmínky?",
+    "options": [
+      "největší proti obvyklé péči, menší proti čekací listině, nejmenší proti jiné psychoterapii",
+      "typ kontroly velikost účinku neovlivňuje, rozdíly jdou zcela na vrub kvalitě provedení",
+      "největší proti čekací listině, menší proti obvyklé péči, nejmenší proti pilulkovému placebu",
+      "největší proti pilulkovému placebu, menší proti obvyklé péči, nejmenší proti čekací listině"
+    ],
+    "correct": 2,
+    "explanation": "Rozdíly mezi typy kontrol jsou tak velké, že samotná volba srovnávací podmínky rozhoduje o tom, zda terapie vyjde jako mocný nebo skromný nástroj. Srovnávat metaanalýzy s odlišnými kontrolami je proto nesmysl. Cuijpers z toho vyvozuje, že se má typ kontroly hlásit stejně pečlivě jako velikost účinku sama.",
+    "source": "Cuijpers, van Straten, Bohlmeijer, Hollon a Andersson (2010) a navazující práce",
+    "seedElo": 2350
+  },
+  {
+    "id": "vyz-A28",
+    "type": "K",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Co ukazuje evidence o zohlednění preferencí pacienta při volbě léčebného postupu?",
+    "options": [
+      "výrazně zlepšuje výsledek léčby, ale na předčasné ukončení nemá žádný vliv",
+      "nemá vliv na nic, protože preference se v průběhu léčby stejně rychle mění",
+      "zvyšuje setrvání v léčbě, ale zároveň mírně zhoršuje symptomatický výsledek",
+      "snižuje předčasné ukončení léčby zhruba o třetinu a mírně zlepšuje výsledek"
+    ],
+    "correct": 3,
+    "explanation": "Zohlednění preferencí patří k nejlépe doloženým prvkům personalizace, i když jeho účinek na symptomy je malý; hlavní zisk leží v tom, že pacient v léčbě zůstane. To je zajímavé samo o sobě: personalizace zde nepůsobí přes lepší technickou shodu, ale přes ochotu pokračovat. Ostatní formy matchingu mají oporu podstatně slabší.",
+    "source": "Swift, Callahan a Vollmer, Journal of Clinical Psychology (2011)",
+    "seedElo": 2350
+  }
+]

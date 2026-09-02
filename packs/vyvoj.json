@@ -16,20 +16,52 @@
   "seedElo": 1300
  },
  {
-  "id": "vyv-002",
+  "id": "vyv-008",
   "type": "F",
   "category": "vyvoj",
-  "text": "Jak Freud rozlišoval mezi fixací a regresí?",
+  "text": "Čím je charakteristické chování jistě připoutaného dítěte (typ B) ve Strange Situation?",
   "options": [
-   "Fixace je vědomá, regrese nevědomá",
-   "Fixace se týká libida, regrese pouze agrese",
-   "Regrese je patologická, fixace normální součást vývoje",
-   "Fixace je ulpění části libida na vývojovém stádiu, regrese je pozdější návrat k tomuto bodu pod tlakem konfliktu"
+   "Užívá matku jako bezpečnou základnu pro exploraci a při shledání aktivně vyhledá kontakt, který je zklidní",
+   "Nikdy nepláče při separaci a je stále v těsném kontaktu s matkou",
+   "Exploruje stejně ochotně s matkou i s cizí osobou",
+   "Při shledání se nechá utišit pouze fyzickým kontaktem trvajícím celou epizodu"
   ],
-  "correct": 3,
-  "explanation": "Fixace znamená, že část libidinózní energie zůstane vázána na určité stádium či objekt; regrese je pozdější ústup k tomuto fixačnímu bodu, typicky když aktuální konflikt nebo frustrace přesáhne únosnou míru. Oba pojmy spolu souvisejí — čím silnější fixace, tím snazší regrese. Rozlišení vědomé/nevědomé ani vazba jen na agresi neodpovídají Freudovu pojetí.",
-  "source": "Freud, S.: Přednášky k úvodu do psychoanalýzy, 1916–17, přednáška 22",
-  "seedElo": 1500
+  "correct": 0,
+  "explanation": "Jistota se pozná podle rovnováhy explorace a attachmentu: dítě se od matky vzdaluje za hračkami, při stresu se k ní vrací a její návrat je účinně zklidní, takže se může vrátit ke hře. Absence pláče není kritériem, stejná ochota explorovat s cizincem svědčí spíše o vyhýbavosti a nutnost nepřetržitého kontaktu jistotě neodpovídá.",
+  "source": "Ainsworth, M. D. S. et al.: Patterns of Attachment, 1978",
+  "seedElo": 1300
+ },
+ {
+  "id": "vyv-017",
+  "type": "F",
+  "category": "vyvoj",
+  "text": "Jaký je ústřední konflikt prvního psychosociálního stádia podle Eriksona a jaká ctnost z jeho zdárného řešení vzchází?",
+  "options": [
+   "Autonomie proti studu a pochybám; vůle",
+   "Iniciativa proti vině; účelnost",
+   "Bazální důvěra proti nedůvěře; naděje",
+   "Snaživost proti méněcennosti; kompetence"
+  ],
+  "correct": 2,
+  "explanation": "V prvním roce života se z konzistentní a citlivé péče rodí bazální důvěra ve svět i v sebe; Erikson jako výslednou ctnost označil naději. Autonomie vs. stud patří batolecímu období, iniciativa vs. vina předškolnímu a snaživost vs. méněcennost školnímu věku.",
+  "source": "Erikson, E. H.: Childhood and Society, 1950 (čes. Dětství a společnost)",
+  "seedElo": 1300
+ },
+ {
+  "id": "vyv-019",
+  "type": "K",
+  "category": "vyvoj",
+  "text": "Batole se rozpláče, když matka odchází z místnosti. Který pojem tento jev vystihuje — na rozdíl od reakce na příchod neznámého člověka?",
+  "options": [
+   "Strach z cizích lidí",
+   "Separační úzkost",
+   "Dezorganizovaný attachment",
+   "Anaklitická deprese"
+  ],
+  "correct": 1,
+  "explanation": "Separační úzkost je distres z odloučení od attachmentové postavy; strach z cizích lidí (objevující se kolem 8. měsíce) je reakce na neznámou osobu i za přítomnosti matky. Jde o dva odlišitelné, byť časově blízké jevy. Dezorganizace je klasifikační kategorie chování, anaklitická deprese (Spitz) je reakce na dlouhodobou deprivaci, ne na běžný odchod.",
+  "source": "Bowlby, J.: Attachment and Loss, Vol. 2: Separation, 1973",
+  "seedElo": 1300
  },
  {
   "id": "vyv-003",
@@ -46,22 +78,6 @@
   "explanation": "Po fázích normálního autismu a symbiózy následuje diferenciace (líhnutí, cca 5–10 měsíců), praktikování (cca 10–16 měsíců, opojení z lokomoce) a znovusbližování (rapprochement, cca 16–24 měsíců). Proces vrcholí konsolidací individuality a počátky emoční objektní stálosti kolem třetího roku.",
   "source": "Mahler, M., Pine, F., Bergman, A.: The Psychological Birth of the Human Infant, 1975",
   "seedElo": 1400
- },
- {
-  "id": "vyv-004",
-  "type": "F",
-  "category": "vyvoj",
-  "text": "Co podle Mahlerové znamená dosažení emoční objektní stálosti?",
-  "options": [
-   "Dítě udrží vnitřní, převážně dobrý obraz matky i v její nepřítomnosti a při frustraci",
-   "Dítě chápe, že skrytý předmět nepřestal existovat",
-   "Dítě se přestane bát cizích lidí",
-   "Dítě dokáže být samo bez jakýchkoli projevů úzkosti"
-  ],
-  "correct": 0,
-  "explanation": "Emoční objektní stálost (kolem 3. roku) znamená, že dítě má stabilní, libidinózně obsazenou vnitřní reprezentaci matky, která přežívá její nepřítomnost i vztek na ni — dobrý a zlobivý obraz se integrují. Trvalost předmětu (druhá možnost) je Piagetův kognitivní pojem; nejde ani o zmizení strachu z cizích lidí, ani o úplnou absenci separační úzkosti.",
-  "source": "Mahler, M., Pine, F., Bergman, A.: The Psychological Birth of the Human Infant, 1975, kap. o čtvrté podfázi",
-  "seedElo": 1500
  },
  {
   "id": "vyv-005",
@@ -97,6 +113,102 @@
   "deepDive": "Robertsonův film o dvouleté Lauře v nemocnici byl svého času šok: personál považoval „zklidnění' dítěte po pár dnech za adaptaci, Robertson s Bowlbym v něm rozpoznali odpoutání — obrannou rezignaci na vztah. Právě fáze detachmentu je klinicky nejzrádnější: dítě vypadá spokojeně, ale po návratu matky ji míjí pohledem jako cizí. Tato pozorování změnila nemocniční praxi (návštěvy rodičů, rooming-in) a stala se empirickým základem teorie attachmentu. Pro kliniku z toho plyne trvalá lekce: zevní klid po ztrátě nelze zaměňovat se zpracováním ztráty."
  },
  {
+  "id": "vyv-012",
+  "type": "F",
+  "category": "vyvoj",
+  "text": "Jakou funkci plní podle Winnicotta přechodový objekt?",
+  "options": [
+   "Nahrazuje matku, aby na ní dítě přestalo být závislé",
+   "Slouží jako první cíl agresivních pudů mimo tělo matky",
+   "Chrání dítě před nočními děsy podmíněným zklidněním",
+   "Obsazuje mezioblast mezi vnitřní a vnější realitou a pomáhá dítěti překlenout separaci od matky"
+  ],
+  "correct": 3,
+  "explanation": "Přechodový objekt (medvídek, cípek deky) patří do „přechodového prostoru' — není ani čistě subjektivní, ani čistě objektivní, a otázka „vytvořilo sis ho, nebo jsi ho našel?' se u něj zásadně neklade. Pomáhá dítěti nést nepřítomnost matky a je předchůdcem hry a kultury. Nejde o prostou náhradu matky ani o kanál agrese či podmíněné zklidnění.",
+  "source": "Winnicott, D. W.: Transitional Objects and Transitional Phenomena, 1953",
+  "seedElo": 1400
+ },
+ {
+  "id": "vyv-013",
+  "type": "F",
+  "category": "vyvoj",
+  "text": "Proč je podle Winnicotta „dost dobrá matka' pro vývoj dítěte vhodnější než matka dokonalá?",
+  "options": [
+   "Její postupně dávkovaná selhání umožňují dítěti snesitelně zažívat frustraci a budovat vlastní psychické kapacity",
+   "Dokonalá péče vede ke genetické predispozici k úzkosti",
+   "Dost dobrá matka tráví s dítětem méně času, čímž podporuje nezávislost",
+   "Dokonalá matka u dítěte vyvolává oidipskou rivalitu příliš brzy"
+  ],
+  "correct": 0,
+  "explanation": "Dost dobrá matka se zprvu téměř úplně adaptuje na potřeby kojence a pak selhává postupně, v míře, kterou dítě unese — právě tato dávkovaná deziluze nutí a umožňuje dítěti rozvíjet vlastní schopnosti a vnímat realitu. Trvale dokonalá adaptace by dítě držela v iluzi omnipotence; s genetikou, množstvím času ani oidipským komplexem argument nesouvisí.",
+  "source": "Winnicott, D. W.: Transitional Objects and Transitional Phenomena, 1953; Playing and Reality, 1971",
+  "seedElo": 1400
+ },
+ {
+  "id": "vyv-034",
+  "type": "V",
+  "category": "vyvoj",
+  "text": "Dvouletý Matěj všude nosí ušmudlaný cípek staré deky; usíná jen s ním, čichá k němu a rodiče mají zakázáno ho vyprat. Matka se ptá, zda jde o poruchu. Z hlediska Winnicottovy teorie je nejpřiléhavější porozumění tomuto jevu jaké?",
+  "options": [
+   "Jde o kompulzivní rituál signalizující ranou obsedantní strukturu",
+   "Jde o známku citové deprivace — dítě nahrazuje chybějící mateřskou péči",
+   "Jde o autostimulaci typickou pro poruchy senzorického zpracování",
+   "Jde o zdravý přechodový fenomén — objekt pomáhá dítěti překlenout separaci a je známkou dobrého vývoje, nikoli poruchy"
+  ],
+  "correct": 3,
+  "explanation": "Přechodový objekt je normální a vývojově cenný: dítě si jím udržuje spojení s mateřskou péčí v její nepřítomnosti a cvičí se v bytí mezi vnitřním a vnějším. Winnicott výslovně poznamenává, že objekt nesmí být měněn ani vypraný — jeho kontinuita (i pach) je podstatná. Deprivační výklad je převrácený: přechodový objekt předpokládá dost dobrou péči, na níž může stavět; kompulzivní a senzorický výklad nemají v normálním obrazu oporu.",
+  "source": "Winnicott, D. W.: Transitional Objects and Transitional Phenomena, 1953",
+  "seedElo": 1400
+ },
+ {
+  "id": "vyv-038",
+  "type": "V",
+  "category": "vyvoj",
+  "text": "Tříletý Kubík byl týden hospitalizován bez rodičů. První dny plakal a volal maminku, pak se utišil a personál ho chválil, jak „si zvykl'. Po návratu domů matku míjí pohledem, nereaguje na její náruč a chová se, „jako by mu byla cizí'. Z hlediska Bowlbyho a Robertsona je Kubíkovo chování po návratu nejpravděpodobněji projevem čeho?",
+  "options": [
+   "Zdravé adaptace a osamostatnění urychleného pobytem",
+   "Vrozeného vyhýbavého temperamentu, který se pobytem jen zviditelnil",
+   "Fáze odpoutání (detachment) — obranného stažení attachmentu po protestu a zoufalství",
+   "Regrese do symbiotické fáze"
+  ],
+  "correct": 2,
+  "explanation": "Sekvence protest — utišení interpretované personálem jako zvyknutí — ignorování matky po shledání je klasický popis třetí fáze separační reakce: odpoutání, obranné deaktivace attachmentu, jež zpravidla po čase (často přes fázi lpění a vzteku) odeznívá. „Zdravá adaptace' je právě ten omyl, který Robertsonovy filmy vyvracely; temperament nevysvětluje náhlou změnu vázanou na separaci a symbiotická regrese by znamenala lpění, ne odmítání.",
+  "source": "Bowlby, J.: Attachment and Loss, Vol. 2: Separation, 1973; Robertson, J. & J.: Young Children in Brief Separation, 1971",
+  "seedElo": 1400
+ },
+ {
+  "id": "vyv-002",
+  "type": "F",
+  "category": "vyvoj",
+  "text": "Jak Freud rozlišoval mezi fixací a regresí?",
+  "options": [
+   "Fixace je vědomá, regrese nevědomá",
+   "Fixace se týká libida, regrese pouze agrese",
+   "Regrese je patologická, fixace normální součást vývoje",
+   "Fixace je ulpění části libida na vývojovém stádiu, regrese je pozdější návrat k tomuto bodu pod tlakem konfliktu"
+  ],
+  "correct": 3,
+  "explanation": "Fixace znamená, že část libidinózní energie zůstane vázána na určité stádium či objekt; regrese je pozdější ústup k tomuto fixačnímu bodu, typicky když aktuální konflikt nebo frustrace přesáhne únosnou míru. Oba pojmy spolu souvisejí — čím silnější fixace, tím snazší regrese. Rozlišení vědomé/nevědomé ani vazba jen na agresi neodpovídají Freudovu pojetí.",
+  "source": "Freud, S.: Přednášky k úvodu do psychoanalýzy, 1916–17, přednáška 22",
+  "seedElo": 1500
+ },
+ {
+  "id": "vyv-004",
+  "type": "F",
+  "category": "vyvoj",
+  "text": "Co podle Mahlerové znamená dosažení emoční objektní stálosti?",
+  "options": [
+   "Dítě udrží vnitřní, převážně dobrý obraz matky i v její nepřítomnosti a při frustraci",
+   "Dítě chápe, že skrytý předmět nepřestal existovat",
+   "Dítě se přestane bát cizích lidí",
+   "Dítě dokáže být samo bez jakýchkoli projevů úzkosti"
+  ],
+  "correct": 0,
+  "explanation": "Emoční objektní stálost (kolem 3. roku) znamená, že dítě má stabilní, libidinózně obsazenou vnitřní reprezentaci matky, která přežívá její nepřítomnost i vztek na ni — dobrý a zlobivý obraz se integrují. Trvalost předmětu (druhá možnost) je Piagetův kognitivní pojem; nejde ani o zmizení strachu z cizích lidí, ani o úplnou absenci separační úzkosti.",
+  "source": "Mahler, M., Pine, F., Bergman, A.: The Psychological Birth of the Human Infant, 1975, kap. o čtvrté podfázi",
+  "seedElo": 1500
+ },
+ {
   "id": "vyv-007",
   "type": "F",
   "category": "vyvoj",
@@ -113,20 +225,149 @@
   "seedElo": 1500
  },
  {
-  "id": "vyv-008",
+  "id": "vyv-015",
   "type": "F",
   "category": "vyvoj",
-  "text": "Čím je charakteristické chování jistě připoutaného dítěte (typ B) ve Strange Situation?",
+  "text": "Co znamená reflektivní funkce v pojetí Petera Fonagyho?",
   "options": [
-   "Užívá matku jako bezpečnou základnu pro exploraci a při shledání aktivně vyhledá kontakt, který je zklidní",
-   "Nikdy nepláče při separaci a je stále v těsném kontaktu s matkou",
-   "Exploruje stejně ochotně s matkou i s cizí osobou",
-   "Při shledání se nechá utišit pouze fyzickým kontaktem trvajícím celou epizodu"
+   "Schopnost přesně si vybavovat rané vzpomínky",
+   "Schopnost potlačit emoční reakci ve prospěch racionální analýzy",
+   "Kapacitu chápat chování vlastní i druhých jako motivované vnitřními mentálními stavy — přesvědčeními, pocity, záměry",
+   "Vrozený temperamentový rys měřitelný od narození"
+  ],
+  "correct": 2,
+  "explanation": "Reflektivní funkce je operacionalizace mentalizace: implicitní i explicitní interpretování jednání skrze mentální stavy. Rozvíjí se v jistém attachmentovém vztahu a měří se mj. na AAI škálou RF. Není to paměťový výkon, potlačení emocí (mentalizace emoce zahrnuje) ani vrozený fixní rys.",
+  "source": "Fonagy, P., Gergely, G., Jurist, E., Target, M.: Affect Regulation, Mentalization, and the Development of the Self, 2002",
+  "seedElo": 1500
+ },
+ {
+  "id": "vyv-020",
+  "type": "K",
+  "category": "vyvoj",
+  "text": "Čím se liší emoční objektní stálost (Mahlerová) od trvalosti objektu (object permanence, Piaget)?",
+  "options": [
+   "Jsou to synonyma z různých jazykových tradic",
+   "Trvalost objektu je afektivní výdobytek, objektní stálost kognitivní",
+   "Objektní stálost se týká neživých předmětů, trvalost objektu lidí",
+   "Trvalost objektu je kognitivní poznání, že věci existují i mimo vnímání; objektní stálost je afektivní kapacita udržet dobrou vnitřní reprezentaci osoby i při frustraci a nepřítomnosti"
+  ],
+  "correct": 3,
+  "explanation": "Piagetova trvalost objektu (rozvinutá kolem 8.–18. měsíce) je kognitivní schéma o existenci předmětů mimo vnímání. Mahlerové emoční objektní stálost (kolem 3. roku) staví na tomto základu, ale přidává afektivní rozměr: matka zůstává „dobrá' i když frustruje a není přítomna. Druhá možnost prohazuje definice, třetí prohazuje domény.",
+  "source": "Mahler, Pine, Bergman: The Psychological Birth of the Human Infant, 1975; Piaget, J.: La construction du réel chez l'enfant, 1937",
+  "seedElo": 1500
+ },
+ {
+  "id": "vyv-021",
+  "type": "K",
+  "category": "vyvoj",
+  "text": "Které chování při shledání ve Strange Situation odlišuje ambivalentní typ (C) od vyhýbavého typu (A)?",
+  "options": [
+   "Dítě C kombinuje vyhledávání kontaktu se vztekem či pasivitou a nelze je utišit; dítě A kontakt aktivně nevyhledává a odvrací pozornost k hračkám",
+   "Dítě C matku ignoruje; dítě A se na ni vztekle vrhá",
+   "Dítě C zamrzá v podivných pozicích; dítě A stereotypně kýve tělem",
+   "Dítě C se rychle utiší; dítě A pláče celou epizodu"
   ],
   "correct": 0,
-  "explanation": "Jistota se pozná podle rovnováhy explorace a attachmentu: dítě se od matky vzdaluje za hračkami, při stresu se k ní vrací a její návrat je účinně zklidní, takže se může vrátit ke hře. Absence pláče není kritériem, stejná ochota explorovat s cizincem svědčí spíše o vyhýbavosti a nutnost nepřetržitého kontaktu jistotě neodpovídá.",
+  "explanation": "Typ C (rezistentní/ambivalentní) maximalizuje attachmentové signály: lpí a zároveň se vzteká či pasivně hroutí, uklidnění selhává. Typ A minimalizuje: odvrací se, věnuje se hračkám, distres skrývá (fyziologicky je přitom aktivovaný). Druhá možnost je prohozením obou vzorců, třetí popisuje dezorganizaci (D).",
   "source": "Ainsworth, M. D. S. et al.: Patterns of Attachment, 1978",
-  "seedElo": 1300
+  "seedElo": 1500
+ },
+ {
+  "id": "vyv-023",
+  "type": "K",
+  "category": "vyvoj",
+  "text": "Jak Winnicott rozlišuje pravé self od falešného self?",
+  "options": [
+   "Pravé self je vědomé, falešné self nevědomé",
+   "Pravé self vzniká výchovou, falešné self je vrozené",
+   "Pravé self vyrůstá ze spontánních gest, na něž prostředí odpovědělo; falešné self je fasáda z compliance, vzniklá tam, kde se dítě muselo přizpůsobit potřebám prostředí",
+   "Falešné self je vždy patologické a v terapii má být odstraněno"
+  ],
+  "correct": 2,
+  "explanation": "Pravé self je zdroj spontaneity a pocitu reálnosti; rodí se tam, kde matka odpovídá na spontánní gesto dítěte místo aby mu vnucovala své. Falešné self vzniká z nutnosti vyhovět (compliance) a chrání pravé self ukrytím. Winnicott zdůrazňoval kontinuum — zdravé falešné self zahrnuje i běžnou sociální zdvořilost, takže „vždy patologické a k odstranění' neplatí.",
+  "source": "Winnicott, D. W.: Ego Distortion in Terms of True and False Self, 1960",
+  "seedElo": 1500
+ },
+ {
+  "id": "vyv-029",
+  "type": "K",
+  "category": "vyvoj",
+  "text": "Čím se krize znovusbližování (rapprochement) liší od předchozí fáze praktikování podle Mahlerové?",
+  "options": [
+   "V praktikování dítě matku úzkostně sleduje, ve znovusbližování ji ignoruje",
+   "Znovusbližování předchází praktikování a připravuje na ně",
+   "V praktikování dítě opojeně dobývá svět a matku téměř nepotřebuje vnímat; ve znovusbližování si uvědomí svou oddělenost a malost a osciluje mezi lpěním na matce a jejím odmítáním",
+   "Liší se pouze věkem, chování dítěte je shodné"
+  ],
+  "correct": 2,
+  "explanation": "Praktikující batole je „opilé světem' (elace, love affair with the world) a separaci si nepřipouští. Ve znovusbližování (cca 16–24 měsíců) kognitivní zrání přinese vystřízlivění: jsem malý a oddělený. Výsledkem je typická ambitendence — přiběhnout a vzápětí odstrčit, dožadovat se a vzdorovat. První možnost obrací vzorce, druhá obrací pořadí fází.",
+  "source": "Mahler, Pine, Bergman: The Psychological Birth of the Human Infant, 1975",
+  "seedElo": 1500,
+  "deepDive": "Rapprochement je možná nejcitovanější klinická metafora z celé Mahlerové: dospělí pacienti s hraniční organizací osobnosti bývají popisováni jako uvízlí v nekonečné znovusbližovací krizi — „pojď sem, jdi pryč' — protože se nikdy nedointegroval dobrý a zlý obraz objektu do stálé reprezentace. Pro rodiče je to zároveň nejtěžší fáze: dítě, které včera suverénně běhalo, dnes visí na noze a vzápětí kope. Mahlerová zdůrazňovala, že matka musí ustát obojí — být k dispozici, ale netrestat ani expanzi, ani návrat. Optimální odpověď v této fázi považovala za klíčovou pro pozdější snášení ambivalence v blízkých vztazích."
+ },
+ {
+  "id": "vyv-031",
+  "type": "V",
+  "category": "vyvoj",
+  "text": "Dvacetiměsíční Anežka na hřišti odbíhá stále dál od matky, pak se náhle rozběhne zpět, vyžaduje chování, ale jakmile ji matka zvedne, prohne se v zádech a chce dolů; vzápětí se vzteká, že ji matka postavila. Z hlediska teorie Mahlerové je toto chování nejpravděpodobněji projevem čeho?",
+  "options": [
+   "Symbiotické fáze s nedostatečnou diferenciací",
+   "Ambitendence typické pro znovusbližovací krizi",
+   "Dezorganizovaného attachmentu vyžadujícího klinické vyšetření",
+   "Anální fixace s bojem o kontrolu"
+  ],
+  "correct": 1,
+  "explanation": "Věk i vzorec — oscilace mezi vyhledáváním blízkosti a jejím vzdorovitým odmítáním — přesně odpovídá ambitendenci rapprochementové krize: dítě objevilo svou oddělenost a chce matku i autonomii zároveň. Symbióza patří prvnímu půlroku; pro dezorganizaci by musely být přítomny bizarní, kolabující sekvence, ne srozumitelný konflikt; anální výklad by vyžadoval kontext kontroly a vzdoru kolem tělesných funkcí.",
+  "source": "Mahler, Pine, Bergman: The Psychological Birth of the Human Infant, 1975",
+  "seedElo": 1500
+ },
+ {
+  "id": "vyv-032",
+  "type": "V",
+  "category": "vyvoj",
+  "text": "Ve Strange Situation si čtrnáctiměsíční Tomáš při odchodu matky krátce přestane hrát, ale nepláče. Když se matka vrátí, nezvedne k ní oči, otočí se k ní zády a soustředěně manipuluje s kostkou. Z hlediska Ainsworthové klasifikace toto chování nejpravděpodobněji odpovídá kterému vzorci?",
+  "options": [
+   "Typ B — jistý, dítě je pouze temperamentově klidné",
+   "Typ C — ambivalentní",
+   "Typ A — vyhýbavý",
+   "Typ D — dezorganizovaný"
+  ],
+  "correct": 2,
+  "explanation": "Aktivní vyhnutí při shledání — odvrácení, ignorování, přesměrování pozornosti k předmětům — je definičním jádrem typu A; výzkumy navíc ukazují, že tyto děti jsou fyziologicky ve stresu, jen ho nesignalizují. Jisté dítě by matku pozdravilo alespoň pohledem či úsměvem, ambivalentní by lpělo a vztekalo se, dezorganizace by vyžadovala nekoherentní či bizarní sekvence, ne konzistentní strategii odvrácení.",
+  "source": "Ainsworth, M. D. S. et al.: Patterns of Attachment, 1978; Sroufe, L. A., Waters, E.: Heart rate as a convergent measure, 1977",
+  "seedElo": 1500
+ },
+ {
+  "id": "vyv-037",
+  "type": "V",
+  "category": "vyvoj",
+  "text": "Pacient s hraniční poruchou osobnosti říká terapeutce: „Vy si myslíte, že jsem ubožák. Vím to, cítím to úplně jasně, takže to tak je.' Na nabídku prozkoumat, odkud se jistota bere, reaguje podrážděně — jeho pocit přece JE důkaz. Z hlediska teorie mentalizace pacient právě funguje v jakém modu?",
+  "options": [
+   "V modu psychické ekvivalence — vnitřní stav je prožíván jako vnější fakt",
+   "V modu předstírání — řeč o pocitech odpojená od reality",
+   "V teleologickém modu — platí jen viditelné činy",
+   "V integrovaném reflektivním modu s přesnou percepcí protipřenosu"
+  ],
+  "correct": 0,
+  "explanation": "Rovnice „cítím to, tedy to tak je' je definiční projev psychické ekvivalence: reprezentace splývá s realitou a alternativní perspektiva je nedostupná, až urážlivá. Pretend mode by vypadal opačně — plynulé, ale prázdné rozumování o pocitech; teleologický modus by vyžadoval důkazy činem; a o reflektivní modus nejde právě proto, že jistota nepřipouští zkoumání.",
+  "source": "Fonagy, P., Bateman, A.: Mentalization-Based Treatment for BPD, 2006; Fonagy, Target: Playing with reality, IJP, 1996",
+  "seedElo": 1500
+ },
+ {
+  "id": "vyv-044",
+  "type": "I",
+  "category": "vyvoj",
+  "text": "Rodiče tříletého chlapce se radí: po narození sestřičky se počural, žadoní o dudlík a mluví jako miminko. Z hlediska vývojově informované psychoedukace — tedy kritéria normalizace přechodné regrese a ochrany vztahu — je nejvhodnějším doporučením co?",
+  "options": [
+   "Regresivní projevy důsledně ignorovat a odměňovat jen „velké' chování, aby se nezpevnily",
+   "Vysvětlit, že jde o obvyklou přechodnou regresi při narození sourozence, dopřát mu dávky „miminkovské' péče bez zesměšnění a zároveň mu zajistit výlučný čas s rodiči a ocenění jeho velikosti",
+   "Doporučit okamžité psychologické vyšetření pro riziko trvalé fixace",
+   "Vysadit dudlík úplně a zavést systém bodů za suché noci"
+  ],
+  "correct": 1,
+  "explanation": "Z hlediska daného kritéria je klíčové rodiče zklidnit: přechodná regrese po narození sourozence je normativní odpověď na otřes pozice a dítě si jí říká o ujištění, že o péči nepřijde. Laskavé tolerování regrese plus aktivní sycení vztahu (výlučný čas, ocenění) ji obvykle nechá odeznít. Čisté ignorování a bodové systémy míjejí vztahovou funkci symptomu a mohou zvýšit úzkost; okamžitá patologizace neodpovídá běžnému a čerstvému obrazu.",
+  "source": "A. Freud: Normality and Pathology in Childhood, 1965; Brazelton, T. B., Sparrow, J.: Understanding Sibling Rivalry, 2005",
+  "seedElo": 1500
  },
  {
   "id": "vyv-009",
@@ -162,55 +403,6 @@
   "seedElo": 1600
  },
  {
-  "id": "vyv-011",
-  "type": "F",
-  "category": "vyvoj",
-  "text": "Koho označuje pojem earned secure (získaná jistota) ve výzkumu attachmentu?",
-  "options": [
-   "Dítě, které získalo jistý attachment až k náhradnímu pečovateli",
-   "Dospělého, který se stal jistým díky dlouhodobému partnerskému vztahu, což AAI přímo měří",
-   "Dospělého s jistou klasifikací AAI, který si jistotu vybudoval navzdory popisované nepříznivé rané zkušenosti",
-   "Osobu, která v dotazníku vykazuje nízkou úzkostnost i vyhýbavost"
-  ],
-  "correct": 2,
-  "explanation": "Earned secure jsou lidé, jejichž narativ v AAI je koherentní a autonomní, přestože popisují chladné či odmítavé rodičovství — jistotu si „vydobyli', často skrze pozdější korektivní vztahy včetně terapie. AAI přitom neměří přímo mechanismus (partnerský vztah), jen výslednou organizaci mysli; dotazníkové skóry jsou jiná metodologie.",
-  "source": "Pearson, J. L., Cohn, D. A., Cowan, P. A., Cowan, C. P.: Earned- and continuous-security in adult attachment, Development and Psychopathology, 1994",
-  "seedElo": 1700,
-  "deepDive": "Earned secure je jeden z nejnadějnějších konceptů celé attachmentové tradice: vnitřní pracovní modely nejsou doživotní rozsudek. Longitudinální data naznačují, že cestou bývá vztah, v němž byl člověk konzistentně viděn a držen — partner, mentor, terapeut. Zajímavý detail: earned-secure rodiče vychovávají děti stejně citlivě jako kontinuálně jistí, i když sami referují více depresivních symptomů. Koherence narativu, ne bezbolestná historie, je to, co se přenáší dál. Pro terapii je to tichý argument, že práce na „převyprávění' vlastního příběhu není kosmetika."
- },
- {
-  "id": "vyv-012",
-  "type": "F",
-  "category": "vyvoj",
-  "text": "Jakou funkci plní podle Winnicotta přechodový objekt?",
-  "options": [
-   "Nahrazuje matku, aby na ní dítě přestalo být závislé",
-   "Slouží jako první cíl agresivních pudů mimo tělo matky",
-   "Chrání dítě před nočními děsy podmíněným zklidněním",
-   "Obsazuje mezioblast mezi vnitřní a vnější realitou a pomáhá dítěti překlenout separaci od matky"
-  ],
-  "correct": 3,
-  "explanation": "Přechodový objekt (medvídek, cípek deky) patří do „přechodového prostoru' — není ani čistě subjektivní, ani čistě objektivní, a otázka „vytvořilo sis ho, nebo jsi ho našel?' se u něj zásadně neklade. Pomáhá dítěti nést nepřítomnost matky a je předchůdcem hry a kultury. Nejde o prostou náhradu matky ani o kanál agrese či podmíněné zklidnění.",
-  "source": "Winnicott, D. W.: Transitional Objects and Transitional Phenomena, 1953",
-  "seedElo": 1400
- },
- {
-  "id": "vyv-013",
-  "type": "F",
-  "category": "vyvoj",
-  "text": "Proč je podle Winnicotta „dost dobrá matka' pro vývoj dítěte vhodnější než matka dokonalá?",
-  "options": [
-   "Její postupně dávkovaná selhání umožňují dítěti snesitelně zažívat frustraci a budovat vlastní psychické kapacity",
-   "Dokonalá péče vede ke genetické predispozici k úzkosti",
-   "Dost dobrá matka tráví s dítětem méně času, čímž podporuje nezávislost",
-   "Dokonalá matka u dítěte vyvolává oidipskou rivalitu příliš brzy"
-  ],
-  "correct": 0,
-  "explanation": "Dost dobrá matka se zprvu téměř úplně adaptuje na potřeby kojence a pak selhává postupně, v míře, kterou dítě unese — právě tato dávkovaná deziluze nutí a umožňuje dítěti rozvíjet vlastní schopnosti a vnímat realitu. Trvale dokonalá adaptace by dítě držela v iluzi omnipotence; s genetikou, množstvím času ani oidipským komplexem argument nesouvisí.",
-  "source": "Winnicott, D. W.: Transitional Objects and Transitional Phenomena, 1953; Playing and Reality, 1971",
-  "seedElo": 1400
- },
- {
   "id": "vyv-014",
   "type": "F",
   "category": "vyvoj",
@@ -225,54 +417,6 @@
   "explanation": "Stern popsal smysly self, které se postupně vynořují a dále koexistují: vynořující se self (0–2 měsíce), jádrové self (2–6 měsíců), subjektivní self (7–15 měsíců, objev sdílení vnitřních stavů) a verbální self. Zásadně odmítl představu fází, které se opouštějí — vrstvy zůstávají aktivní celý život. Ostatní možnosti míchají Freuda, Mahlerovou a Winnicotta.",
   "source": "Stern, D.: The Interpersonal World of the Infant, 1985",
   "seedElo": 1600
- },
- {
-  "id": "vyv-015",
-  "type": "F",
-  "category": "vyvoj",
-  "text": "Co znamená reflektivní funkce v pojetí Petera Fonagyho?",
-  "options": [
-   "Schopnost přesně si vybavovat rané vzpomínky",
-   "Schopnost potlačit emoční reakci ve prospěch racionální analýzy",
-   "Kapacitu chápat chování vlastní i druhých jako motivované vnitřními mentálními stavy — přesvědčeními, pocity, záměry",
-   "Vrozený temperamentový rys měřitelný od narození"
-  ],
-  "correct": 2,
-  "explanation": "Reflektivní funkce je operacionalizace mentalizace: implicitní i explicitní interpretování jednání skrze mentální stavy. Rozvíjí se v jistém attachmentovém vztahu a měří se mj. na AAI škálou RF. Není to paměťový výkon, potlačení emocí (mentalizace emoce zahrnuje) ani vrozený fixní rys.",
-  "source": "Fonagy, P., Gergely, G., Jurist, E., Target, M.: Affect Regulation, Mentalization, and the Development of the Self, 2002",
-  "seedElo": 1500
- },
- {
-  "id": "vyv-016",
-  "type": "F",
-  "category": "vyvoj",
-  "text": "Jakou roli hraje podle Fonagyho epistemická důvěra ve vývoji i v psychoterapii?",
-  "options": [
-   "Zajišťuje důvěru pacienta v diagnózu stanovenou odborníkem",
-   "Otevírá kanál pro přijímání sociálně předávaného poznání od druhého jako relevantního pro mě a zobecnitelného; její zhroucení vede k rigiditě a „nepoučitelnosti' ze zkušenosti",
-   "Označuje důvěru výzkumníka ve validitu měřicích nástrojů",
-   "Je synonymem bazální důvěry podle Eriksona"
-  ],
-  "correct": 1,
-  "explanation": "Epistemická důvěra je ochota přijmout komunikovanou informaci jako důvěryhodnou a osobně relevantní; otevírají ji ostenzivní signály (oční kontakt, oslovení, kontingentní reagování). Epistemická nedůvěra po traumatu činí člověka „tvrdým k učení' — a účinná terapie podle Fonagyho funguje mj. tím, že ji obnovuje. S Eriksonovou bazální důvěrou koncept souvisí, ale není totožný — týká se specificky přijímání poznání.",
-  "source": "Fonagy, P., Allison, E.: The role of mentalizing and epistemic trust in the therapeutic relationship, Psychotherapy, 2014",
-  "seedElo": 1700
- },
- {
-  "id": "vyv-017",
-  "type": "F",
-  "category": "vyvoj",
-  "text": "Jaký je ústřední konflikt prvního psychosociálního stádia podle Eriksona a jaká ctnost z jeho zdárného řešení vzchází?",
-  "options": [
-   "Autonomie proti studu a pochybám; vůle",
-   "Iniciativa proti vině; účelnost",
-   "Bazální důvěra proti nedůvěře; naděje",
-   "Snaživost proti méněcennosti; kompetence"
-  ],
-  "correct": 2,
-  "explanation": "V prvním roce života se z konzistentní a citlivé péče rodí bazální důvěra ve svět i v sebe; Erikson jako výslednou ctnost označil naději. Autonomie vs. stud patří batolecímu období, iniciativa vs. vina předškolnímu a snaživost vs. méněcennost školnímu věku.",
-  "source": "Erikson, E. H.: Childhood and Society, 1950 (čes. Dětství a společnost)",
-  "seedElo": 1300
  },
  {
   "id": "vyv-018",
@@ -292,86 +436,6 @@
   "deepDive": "Krisova formule „regression in the service of the ego' elegantně obrátila znaménko u pojmu, který do té doby zněl skoro vždy patologicky. Tvořivý člověk podle něj umí to, co rigidní obrana nedovolí: pustit kontrolu, nechat vystoupit primární proces — a pak se vrátit a materiál zpracovat sekundárním procesem. Stejný mechanismus se předpokládá u schopnosti volně asociovat na gauči, u hry dítěte i u dobrého terapeutova snění (reverie). Klinicky užitečné rozlišení: problém není regrese sama, ale její nevratnost a to, kdo ji řídí."
  },
  {
-  "id": "vyv-019",
-  "type": "K",
-  "category": "vyvoj",
-  "text": "Batole se rozpláče, když matka odchází z místnosti. Který pojem tento jev vystihuje — na rozdíl od reakce na příchod neznámého člověka?",
-  "options": [
-   "Strach z cizích lidí",
-   "Separační úzkost",
-   "Dezorganizovaný attachment",
-   "Anaklitická deprese"
-  ],
-  "correct": 1,
-  "explanation": "Separační úzkost je distres z odloučení od attachmentové postavy; strach z cizích lidí (objevující se kolem 8. měsíce) je reakce na neznámou osobu i za přítomnosti matky. Jde o dva odlišitelné, byť časově blízké jevy. Dezorganizace je klasifikační kategorie chování, anaklitická deprese (Spitz) je reakce na dlouhodobou deprivaci, ne na běžný odchod.",
-  "source": "Bowlby, J.: Attachment and Loss, Vol. 2: Separation, 1973",
-  "seedElo": 1300
- },
- {
-  "id": "vyv-020",
-  "type": "K",
-  "category": "vyvoj",
-  "text": "Čím se liší emoční objektní stálost (Mahlerová) od trvalosti objektu (object permanence, Piaget)?",
-  "options": [
-   "Jsou to synonyma z různých jazykových tradic",
-   "Trvalost objektu je afektivní výdobytek, objektní stálost kognitivní",
-   "Objektní stálost se týká neživých předmětů, trvalost objektu lidí",
-   "Trvalost objektu je kognitivní poznání, že věci existují i mimo vnímání; objektní stálost je afektivní kapacita udržet dobrou vnitřní reprezentaci osoby i při frustraci a nepřítomnosti"
-  ],
-  "correct": 3,
-  "explanation": "Piagetova trvalost objektu (rozvinutá kolem 8.–18. měsíce) je kognitivní schéma o existenci předmětů mimo vnímání. Mahlerové emoční objektní stálost (kolem 3. roku) staví na tomto základu, ale přidává afektivní rozměr: matka zůstává „dobrá' i když frustruje a není přítomna. Druhá možnost prohazuje definice, třetí prohazuje domény.",
-  "source": "Mahler, Pine, Bergman: The Psychological Birth of the Human Infant, 1975; Piaget, J.: La construction du réel chez l'enfant, 1937",
-  "seedElo": 1500
- },
- {
-  "id": "vyv-021",
-  "type": "K",
-  "category": "vyvoj",
-  "text": "Které chování při shledání ve Strange Situation odlišuje ambivalentní typ (C) od vyhýbavého typu (A)?",
-  "options": [
-   "Dítě C kombinuje vyhledávání kontaktu se vztekem či pasivitou a nelze je utišit; dítě A kontakt aktivně nevyhledává a odvrací pozornost k hračkám",
-   "Dítě C matku ignoruje; dítě A se na ni vztekle vrhá",
-   "Dítě C zamrzá v podivných pozicích; dítě A stereotypně kýve tělem",
-   "Dítě C se rychle utiší; dítě A pláče celou epizodu"
-  ],
-  "correct": 0,
-  "explanation": "Typ C (rezistentní/ambivalentní) maximalizuje attachmentové signály: lpí a zároveň se vzteká či pasivně hroutí, uklidnění selhává. Typ A minimalizuje: odvrací se, věnuje se hračkám, distres skrývá (fyziologicky je přitom aktivovaný). Druhá možnost je prohozením obou vzorců, třetí popisuje dezorganizaci (D).",
-  "source": "Ainsworth, M. D. S. et al.: Patterns of Attachment, 1978",
-  "seedElo": 1500
- },
- {
-  "id": "vyv-022",
-  "type": "K",
-  "category": "vyvoj",
-  "text": "Čím se Winnicottův holding liší od Bionova kontejnování (container–contained)?",
-  "options": [
-   "Holding je metafora pro fyzické nošení dítěte, kontejnování pro kojení",
-   "Holding označuje celkové prostředí spolehlivé péče chránící kontinuitu bytí dítěte; kontejnování je proces, v němž matka přijímá nesnesitelné projikované obsahy, sněním (rêverie) je zpracuje a vrací ve stravitelné podobě",
-   "Kontejnování popisuje otcovskou funkci, holding mateřskou",
-   "Jde o týž proces, Bion jen přejal Winnicottův termín"
-  ],
-  "correct": 1,
-  "explanation": "Holding je širší environmentální pojem: spolehlivá, predikovatelná péče (fyzická i psychická), která chrání dítě před nemyslitelnými úzkostmi a přerušením kontinuity bytí. Kontejnování je specifický intrapsychicko-interpersonální proces transformace beta-elementů na alfa-elementy skrze matčino snění. Pojmy se překrývají, ale nejsou totožné a nevznikly přejímkou; genderové rozdělení funkcí definiční není.",
-  "source": "Winnicott, D. W.: The Theory of the Parent-Infant Relationship, 1960; Bion, W. R.: Learning from Experience, 1962",
-  "seedElo": 1700
- },
- {
-  "id": "vyv-023",
-  "type": "K",
-  "category": "vyvoj",
-  "text": "Jak Winnicott rozlišuje pravé self od falešného self?",
-  "options": [
-   "Pravé self je vědomé, falešné self nevědomé",
-   "Pravé self vzniká výchovou, falešné self je vrozené",
-   "Pravé self vyrůstá ze spontánních gest, na něž prostředí odpovědělo; falešné self je fasáda z compliance, vzniklá tam, kde se dítě muselo přizpůsobit potřebám prostředí",
-   "Falešné self je vždy patologické a v terapii má být odstraněno"
-  ],
-  "correct": 2,
-  "explanation": "Pravé self je zdroj spontaneity a pocitu reálnosti; rodí se tam, kde matka odpovídá na spontánní gesto dítěte místo aby mu vnucovala své. Falešné self vzniká z nutnosti vyhovět (compliance) a chrání pravé self ukrytím. Winnicott zdůrazňoval kontinuum — zdravé falešné self zahrnuje i běžnou sociální zdvořilost, takže „vždy patologické a k odstranění' neplatí.",
-  "source": "Winnicott, D. W.: Ego Distortion in Terms of True and False Self, 1960",
-  "seedElo": 1500
- },
- {
   "id": "vyv-024",
   "type": "K",
   "category": "vyvoj",
@@ -386,23 +450,6 @@
   "explanation": "Při atunaci matka zachytí intenzitu, rytmus a tvar afektu a odpoví napříč modalitami — na radostné zatřesení tělíčkem odpoví vokálním „kúúú' se stejným crescendem. Právě crossmodalita signalizuje dítěti, že sdíleno je vnitřní prožívání, ne povrch chování. Imitace kopíruje vnější formu; není zralejší formou atunace ani nejsou modality takto rozděleny.",
   "source": "Stern, D.: The Interpersonal World of the Infant, 1985, kap. 7",
   "seedElo": 1600
- },
- {
-  "id": "vyv-025",
-  "type": "K",
-  "category": "vyvoj",
-  "text": "Co odlišuje značkované zrcadlení (marked mirroring) od neznačkovaného zrcadlení afektu?",
-  "options": [
-   "Značkované zrcadlení je zveličené a „jakoby' orámované, takže dítě afekt pozná jako svůj zobrazený stav; neznačkované je realistický projev rodičova vlastního afektu, který dítě děsí a stav mu připíše rodiči",
-   "Značkované zrcadlení je verbální, neznačkované neverbální",
-   "Značkované zrcadlení provádí terapeut, neznačkované rodič",
-   "Neznačkované zrcadlení je přesnější, a proto vývojově prospěšnější"
-  ],
-  "correct": 0,
-  "explanation": "Značka (markedness) — přehnaná mimika, zpomalení, „jakoby' tón — říká dítěti: tohle není můj afekt, to je zobrazení tvého. Dítě tak může svůj stav vidět, uchopit a založit si jeho sekundární reprezentaci. Neznačkované zrcadlení úzkosti dítě zaplaví: vnímá reálně vyděšeného rodiče, což afekt stupňuje a je předpokladem např. borderline patologie. Rozdíl neleží v kanálu ani v osobě zrcadlícího.",
-  "source": "Gergely, G., Watson, J.: The social biofeedback theory of parental affect-mirroring, IJP, 1996; Fonagy et al., 2002",
-  "seedElo": 1700,
-  "deepDive": "Gergelyho a Watsonova teorie sociálního biofeedbacku je jedna z nejelegantnějších mikroteorií vývoje: dítě zpočátku svým vnitřním stavům „nerozumí' — jsou to jen difuzní tělesné bouře. Rodič funguje jako zrcadlo s popiskem: zrcadlí afekt kontingentně (takže dítě pozná, že jde o odpověď na něj) a značkovaně (takže ho nepovažuje za rodičův). Z toho se rodí sekundární reprezentace afektu — základ pozdější regulace i mentalizace. Selhat lze dvěma směry: nekontingentní zrcadlení (rodič reaguje na něco jiného) přispívá k narcistické linii, neznačkované (rodič je afektem sám zaplaven) k borderline linii."
  },
  {
   "id": "vyv-026",
@@ -421,103 +468,6 @@
   "seedElo": 1600
  },
  {
-  "id": "vyv-027",
-  "type": "K",
-  "category": "vyvoj",
-  "text": "Co odlišuje teleologický modus od psychické ekvivalence u dospělého pacienta?",
-  "options": [
-   "V teleologickém modu se záměry druhých uznávají jen tehdy, projeví-li se fyzickým činem (jen skutek se počítá); v psychické ekvivalenci je vlastní vnitřní prožitek zaměňován s vnější realitou",
-   "Teleologický modus se týká vnímání minulosti, psychická ekvivalence budoucnosti",
-   "Teleologický modus je defekt paměti, psychická ekvivalence defekt vnímání",
-   "Jde o dvě jména téhož prementalizačního modu"
-  ],
-  "correct": 0,
-  "explanation": "Teleologicky fungující pacient uvěří v zájem druhého jen skrze pozorovatelné akty — prodloužené sezení, dotek, dárek; slova nic neváží. V psychické ekvivalenci pacient svůj pocit prožívá jako fakt o světě. Oba jsou prementalizační módy, ale s odlišnou logikou selhání: první redukuje mysl na činy, druhý povyšuje mysl na realitu. Nejsou synonyma a s dělením minulost/budoucnost nesouvisejí.",
-  "source": "Fonagy, P., Bateman, A.: Mentalization-Based Treatment for Borderline Personality Disorder, 2006",
-  "seedElo": 1800
- },
- {
-  "id": "vyv-028",
-  "type": "K",
-  "category": "vyvoj",
-  "text": "Jak Winnicott rozlišoval privaci (privation) a deprivaci (deprivation) a k čemu vztahoval antisociální tendenci?",
-  "options": [
-   "Privace je ztráta v adolescenci, deprivace v kojeneckém věku",
-   "Privace znamená, že dobrá zkušenost nikdy nebyla; deprivace, že byla a byla ztracena — a právě s deprivací spojoval antisociální tendenci jako naději a nárokování ztraceného",
-   "Deprivace je tělesné strádání, privace citové",
-   "Privaci působí matka, deprivaci otec"
-  ],
-  "correct": 1,
-  "explanation": "Winnicottův klíčový rozdíl: deprivované dítě kdysi dost dobré prostředí mělo, pak o ně přišlo — a antisociální čin (krádež, destrukce) je paradoxně znamením naděje: dítě se domáhá toho, na co mělo nárok. Privace (nikdy nic dobrého) vede spíše k poruchám samotné struktury self. Rozdíl neleží ve věku, tělesnosti ani v osobě rodiče.",
-  "source": "Winnicott, D. W.: The Antisocial Tendency, 1956, in: Deprivation and Delinquency, 1984",
-  "seedElo": 1800
- },
- {
-  "id": "vyv-029",
-  "type": "K",
-  "category": "vyvoj",
-  "text": "Čím se krize znovusbližování (rapprochement) liší od předchozí fáze praktikování podle Mahlerové?",
-  "options": [
-   "V praktikování dítě matku úzkostně sleduje, ve znovusbližování ji ignoruje",
-   "Znovusbližování předchází praktikování a připravuje na ně",
-   "V praktikování dítě opojeně dobývá svět a matku téměř nepotřebuje vnímat; ve znovusbližování si uvědomí svou oddělenost a malost a osciluje mezi lpěním na matce a jejím odmítáním",
-   "Liší se pouze věkem, chování dítěte je shodné"
-  ],
-  "correct": 2,
-  "explanation": "Praktikující batole je „opilé světem' (elace, love affair with the world) a separaci si nepřipouští. Ve znovusbližování (cca 16–24 měsíců) kognitivní zrání přinese vystřízlivění: jsem malý a oddělený. Výsledkem je typická ambitendence — přiběhnout a vzápětí odstrčit, dožadovat se a vzdorovat. První možnost obrací vzorce, druhá obrací pořadí fází.",
-  "source": "Mahler, Pine, Bergman: The Psychological Birth of the Human Infant, 1975",
-  "seedElo": 1500,
-  "deepDive": "Rapprochement je možná nejcitovanější klinická metafora z celé Mahlerové: dospělí pacienti s hraniční organizací osobnosti bývají popisováni jako uvízlí v nekonečné znovusbližovací krizi — „pojď sem, jdi pryč' — protože se nikdy nedointegroval dobrý a zlý obraz objektu do stálé reprezentace. Pro rodiče je to zároveň nejtěžší fáze: dítě, které včera suverénně běhalo, dnes visí na noze a vzápětí kope. Mahlerová zdůrazňovala, že matka musí ustát obojí — být k dispozici, ale netrestat ani expanzi, ani návrat. Optimální odpověď v této fázi považovala za klíčovou pro pozdější snášení ambivalence v blízkých vztazích."
- },
- {
-  "id": "vyv-030",
-  "type": "K",
-  "category": "vyvoj",
-  "text": "Jak se v AAI liší dismissing (odmítající/distancovaný) stav mysli od preoccupied (zapleteného)?",
-  "options": [
-   "Dismissing mluvčí je zahlcen hněvivými detaily o rodičích, preoccupied vztahy idealizuje bez dokladů",
-   "Dismissing mluvčí idealizuje či bagatelizuje rané vztahy a na doklady si „nevzpomíná'; preoccupied mluvčí je vtažen do dosud živého hněvu či pasivní zmatenosti a narativ ztrácí hranice a koherenci",
-   "Dismissing odpovídá dětskému typu C, preoccupied typu A",
-   "Liší se pouze délkou odpovědí, obsahově jsou zaměnitelné"
-  ],
-  "correct": 1,
-  "explanation": "Dismissing (Ds) narativ minimalizuje: obecná idealizace („skvělé dětství') bez konkrétních epizod, normalizace odmítání, krátké odpovědi. Preoccupied (E) narativ maximalizuje: dlouhé, gramaticky se hroutící pasáže, přítomný hněv, mluvčí je minulostí stále pohlcen. Paralely k dětským typům jsou Ds–A a E–C, takže třetí možnost je prohozením; délka odpovědí sama klasifikaci nenese.",
-  "source": "Main, M., Goldwyn, R.: Adult Attachment Classification System; Hesse, E. in: Cassidy & Shaver (eds.), Handbook of Attachment, 2008",
-  "seedElo": 1700
- },
- {
-  "id": "vyv-031",
-  "type": "V",
-  "category": "vyvoj",
-  "text": "Dvacetiměsíční Anežka na hřišti odbíhá stále dál od matky, pak se náhle rozběhne zpět, vyžaduje chování, ale jakmile ji matka zvedne, prohne se v zádech a chce dolů; vzápětí se vzteká, že ji matka postavila. Z hlediska teorie Mahlerové je toto chování nejpravděpodobněji projevem čeho?",
-  "options": [
-   "Symbiotické fáze s nedostatečnou diferenciací",
-   "Ambitendence typické pro znovusbližovací krizi",
-   "Dezorganizovaného attachmentu vyžadujícího klinické vyšetření",
-   "Anální fixace s bojem o kontrolu"
-  ],
-  "correct": 1,
-  "explanation": "Věk i vzorec — oscilace mezi vyhledáváním blízkosti a jejím vzdorovitým odmítáním — přesně odpovídá ambitendenci rapprochementové krize: dítě objevilo svou oddělenost a chce matku i autonomii zároveň. Symbióza patří prvnímu půlroku; pro dezorganizaci by musely být přítomny bizarní, kolabující sekvence, ne srozumitelný konflikt; anální výklad by vyžadoval kontext kontroly a vzdoru kolem tělesných funkcí.",
-  "source": "Mahler, Pine, Bergman: The Psychological Birth of the Human Infant, 1975",
-  "seedElo": 1500
- },
- {
-  "id": "vyv-032",
-  "type": "V",
-  "category": "vyvoj",
-  "text": "Ve Strange Situation si čtrnáctiměsíční Tomáš při odchodu matky krátce přestane hrát, ale nepláče. Když se matka vrátí, nezvedne k ní oči, otočí se k ní zády a soustředěně manipuluje s kostkou. Z hlediska Ainsworthové klasifikace toto chování nejpravděpodobněji odpovídá kterému vzorci?",
-  "options": [
-   "Typ B — jistý, dítě je pouze temperamentově klidné",
-   "Typ C — ambivalentní",
-   "Typ A — vyhýbavý",
-   "Typ D — dezorganizovaný"
-  ],
-  "correct": 2,
-  "explanation": "Aktivní vyhnutí při shledání — odvrácení, ignorování, přesměrování pozornosti k předmětům — je definičním jádrem typu A; výzkumy navíc ukazují, že tyto děti jsou fyziologicky ve stresu, jen ho nesignalizují. Jisté dítě by matku pozdravilo alespoň pohledem či úsměvem, ambivalentní by lpělo a vztekalo se, dezorganizace by vyžadovala nekoherentní či bizarní sekvence, ne konzistentní strategii odvrácení.",
-  "source": "Ainsworth, M. D. S. et al.: Patterns of Attachment, 1978; Sroufe, L. A., Waters, E.: Heart rate as a convergent measure, 1977",
-  "seedElo": 1500
- },
- {
   "id": "vyv-033",
   "type": "V",
   "category": "vyvoj",
@@ -532,22 +482,6 @@
   "explanation": "Zamrznutí uprostřed sekvence, couvání a přibližování s odvrácenou hlavou jsou přímo indexy dezorganizace: protichůdné systémy (přiblížit se — utéct) běží současně a žádná strategie nevyhrává. Typ A by ukázal konzistentní, plynulé vyhnutí bez rozporných fragmentů; „zdravá opatrnost' nevysvětluje bizarnost vůči vlastní matce a sociální fobie se v tomto věku a vůči attachmentové postavě takto nediagnostikuje.",
   "source": "Main, M., Solomon, J.: Procedures for identifying infants as disorganized/disoriented, in: Greenberg, Cicchetti, Cummings (eds.): Attachment in the Preschool Years, 1990",
   "seedElo": 1600
- },
- {
-  "id": "vyv-034",
-  "type": "V",
-  "category": "vyvoj",
-  "text": "Dvouletý Matěj všude nosí ušmudlaný cípek staré deky; usíná jen s ním, čichá k němu a rodiče mají zakázáno ho vyprat. Matka se ptá, zda jde o poruchu. Z hlediska Winnicottovy teorie je nejpřiléhavější porozumění tomuto jevu jaké?",
-  "options": [
-   "Jde o kompulzivní rituál signalizující ranou obsedantní strukturu",
-   "Jde o známku citové deprivace — dítě nahrazuje chybějící mateřskou péči",
-   "Jde o autostimulaci typickou pro poruchy senzorického zpracování",
-   "Jde o zdravý přechodový fenomén — objekt pomáhá dítěti překlenout separaci a je známkou dobrého vývoje, nikoli poruchy"
-  ],
-  "correct": 3,
-  "explanation": "Přechodový objekt je normální a vývojově cenný: dítě si jím udržuje spojení s mateřskou péčí v její nepřítomnosti a cvičí se v bytí mezi vnitřním a vnějším. Winnicott výslovně poznamenává, že objekt nesmí být měněn ani vypraný — jeho kontinuita (i pach) je podstatná. Deprivační výklad je převrácený: přechodový objekt předpokládá dost dobrou péči, na níž může stavět; kompulzivní a senzorický výklad nemají v normálním obrazu oporu.",
-  "source": "Winnicott, D. W.: Transitional Objects and Transitional Phenomena, 1953",
-  "seedElo": 1400
  },
  {
   "id": "vyv-035",
@@ -582,38 +516,6 @@
   "seedElo": 1600
  },
  {
-  "id": "vyv-037",
-  "type": "V",
-  "category": "vyvoj",
-  "text": "Pacient s hraniční poruchou osobnosti říká terapeutce: „Vy si myslíte, že jsem ubožák. Vím to, cítím to úplně jasně, takže to tak je.' Na nabídku prozkoumat, odkud se jistota bere, reaguje podrážděně — jeho pocit přece JE důkaz. Z hlediska teorie mentalizace pacient právě funguje v jakém modu?",
-  "options": [
-   "V modu psychické ekvivalence — vnitřní stav je prožíván jako vnější fakt",
-   "V modu předstírání — řeč o pocitech odpojená od reality",
-   "V teleologickém modu — platí jen viditelné činy",
-   "V integrovaném reflektivním modu s přesnou percepcí protipřenosu"
-  ],
-  "correct": 0,
-  "explanation": "Rovnice „cítím to, tedy to tak je' je definiční projev psychické ekvivalence: reprezentace splývá s realitou a alternativní perspektiva je nedostupná, až urážlivá. Pretend mode by vypadal opačně — plynulé, ale prázdné rozumování o pocitech; teleologický modus by vyžadoval důkazy činem; a o reflektivní modus nejde právě proto, že jistota nepřipouští zkoumání.",
-  "source": "Fonagy, P., Bateman, A.: Mentalization-Based Treatment for BPD, 2006; Fonagy, Target: Playing with reality, IJP, 1996",
-  "seedElo": 1500
- },
- {
-  "id": "vyv-038",
-  "type": "V",
-  "category": "vyvoj",
-  "text": "Tříletý Kubík byl týden hospitalizován bez rodičů. První dny plakal a volal maminku, pak se utišil a personál ho chválil, jak „si zvykl'. Po návratu domů matku míjí pohledem, nereaguje na její náruč a chová se, „jako by mu byla cizí'. Z hlediska Bowlbyho a Robertsona je Kubíkovo chování po návratu nejpravděpodobněji projevem čeho?",
-  "options": [
-   "Zdravé adaptace a osamostatnění urychleného pobytem",
-   "Vrozeného vyhýbavého temperamentu, který se pobytem jen zviditelnil",
-   "Fáze odpoutání (detachment) — obranného stažení attachmentu po protestu a zoufalství",
-   "Regrese do symbiotické fáze"
-  ],
-  "correct": 2,
-  "explanation": "Sekvence protest — utišení interpretované personálem jako zvyknutí — ignorování matky po shledání je klasický popis třetí fáze separační reakce: odpoutání, obranné deaktivace attachmentu, jež zpravidla po čase (často přes fázi lpění a vzteku) odeznívá. „Zdravá adaptace' je právě ten omyl, který Robertsonovy filmy vyvracely; temperament nevysvětluje náhlou změnu vázanou na separaci a symbiotická regrese by znamenala lpění, ne odmítání.",
-  "source": "Bowlby, J.: Attachment and Loss, Vol. 2: Separation, 1973; Robertson, J. & J.: Young Children in Brief Separation, 1971",
-  "seedElo": 1400
- },
- {
   "id": "vyv-039",
   "type": "X",
   "category": "vyvoj",
@@ -646,22 +548,6 @@
   "seedElo": 1600
  },
  {
-  "id": "vyv-041",
-  "type": "X",
-  "category": "vyvoj",
-  "text": "Osmnáctiměsíční chlapec s nadšením hraje „kuk' — schovává se za závěs a s výskotem se objevuje. Který výklad této hry odpovídá perspektivě Freudova vnuka, tedy klasické psychoanalýzy (fort-da) — na rozdíl od piagetovského a sternovského čtení?",
-  "options": [
-   "Aktivní zvládání pasivně zažívané separace: dítě ve hře samo řídí mizení a návrat, a tak symbolicky opanovává odchody matky",
-   "Procvičování nově nabytého schématu trvalosti objektu",
-   "Sdílení afektivního vrcholu s druhým — trénink interafektivity",
-   "Habituace na diskrepantní podnět"
-  ],
-  "correct": 0,
-  "explanation": "Freud na hře „fort-da' svého vnuka s cívkou ukázal princip obratu z pasivity do aktivity: co dítě trpně snáší (odchod matky), ve hře samo inscenuje a ovládá — včetně slastného návratu. Piagetovské čtení by zdůraznilo kognitivní schéma trvalosti objektu, sternovské sdílení afektů; habituace je psychofyziologický, nikoli psychoanalytický jazyk. Otázka žádá právě freudovský rámec.",
-  "source": "Freud, S.: Mimo princip slasti, 1920, kap. 2",
-  "seedElo": 1700
- },
- {
   "id": "vyv-042",
   "type": "X",
   "category": "vyvoj",
@@ -676,6 +562,120 @@
   "explanation": "Erikson chápal adolescentní zkoušení rolí jako normativní práci na identitě; moratorium je společností tolerovaný odklad závazků, v němž se experimentuje. Attachmentové čtení by mluvilo o pracovních modelech a bezpečné základně, mahlerovská tradice (Blosova „druhá individuace') o odpoutávání od zvnitřněných rodičů, Winnicott o pravém a falešném self. Otázka žádá eriksonovský rámec.",
   "source": "Erikson, E. H.: Identity: Youth and Crisis, 1968; Blos, P.: The second individuation process of adolescence, 1967",
   "seedElo": 1600
+ },
+ {
+  "id": "vyv-045",
+  "type": "I",
+  "category": "vyvoj",
+  "text": "Do terapie přichází muž s historií týrání v dětství a dezorganizovanými rysy attachmentu: střídavě terapeuta idealizuje a děsí se ho, po silnějších sezeních ruší další termíny. Z hlediska attachmentově informované praxe — tedy kritéria vybudování bezpečné základny před explorací traumatu — je nejvhodnější počáteční strategií co?",
+  "options": [
+   "Co nejdříve zahájit expoziční zpracování traumatických vzpomínek, dokud je motivován",
+   "Interpretovat rušení termínů jako odpor a nastavit sankce za absence",
+   "Prioritně budovat predikovatelnost a bezpečí: stabilní rámec, transparentnost, titrace blízkosti podle pacientovy tolerance a průběžné ošetřování trhlin v aliance",
+   "Omezit kontakt na podpůrná setkání jednou měsíčně, aby se vztah nestal příliš intenzivním"
+  ],
+  "correct": 2,
+  "explanation": "Z hlediska kritéria bezpečné základny je u dezorganizované vztahové historie samotný terapeutický vztah zdrojem poplachu (blízkost = nebezpečí), takže první fází je stát se predikovatelnou, bezpečnou figurou: pevný a průhledný rámec, dávkování intenzity, opravy trhlin. Předčasná expozice bez stabilizace hrozí zaplavením a útěkem z terapie; sankční čtení „odporu' opakuje trestající objekt; řídnutí kontaktu problém neřeší, jen se vyhýbá vztahu, který má léčit.",
+  "source": "Bowlby, J.: A Secure Base, 1988; Slade, A. in: Cassidy & Shaver (eds.): Handbook of Attachment, 3. vyd., 2016",
+  "seedElo": 1600
+ },
+ {
+  "id": "vyv-011",
+  "type": "F",
+  "category": "vyvoj",
+  "text": "Koho označuje pojem earned secure (získaná jistota) ve výzkumu attachmentu?",
+  "options": [
+   "Dítě, které získalo jistý attachment až k náhradnímu pečovateli",
+   "Dospělého, který se stal jistým díky dlouhodobému partnerskému vztahu, což AAI přímo měří",
+   "Dospělého s jistou klasifikací AAI, který si jistotu vybudoval navzdory popisované nepříznivé rané zkušenosti",
+   "Osobu, která v dotazníku vykazuje nízkou úzkostnost i vyhýbavost"
+  ],
+  "correct": 2,
+  "explanation": "Earned secure jsou lidé, jejichž narativ v AAI je koherentní a autonomní, přestože popisují chladné či odmítavé rodičovství — jistotu si „vydobyli', často skrze pozdější korektivní vztahy včetně terapie. AAI přitom neměří přímo mechanismus (partnerský vztah), jen výslednou organizaci mysli; dotazníkové skóry jsou jiná metodologie.",
+  "source": "Pearson, J. L., Cohn, D. A., Cowan, P. A., Cowan, C. P.: Earned- and continuous-security in adult attachment, Development and Psychopathology, 1994",
+  "seedElo": 1700,
+  "deepDive": "Earned secure je jeden z nejnadějnějších konceptů celé attachmentové tradice: vnitřní pracovní modely nejsou doživotní rozsudek. Longitudinální data naznačují, že cestou bývá vztah, v němž byl člověk konzistentně viděn a držen — partner, mentor, terapeut. Zajímavý detail: earned-secure rodiče vychovávají děti stejně citlivě jako kontinuálně jistí, i když sami referují více depresivních symptomů. Koherence narativu, ne bezbolestná historie, je to, co se přenáší dál. Pro terapii je to tichý argument, že práce na „převyprávění' vlastního příběhu není kosmetika."
+ },
+ {
+  "id": "vyv-016",
+  "type": "F",
+  "category": "vyvoj",
+  "text": "Jakou roli hraje podle Fonagyho epistemická důvěra ve vývoji i v psychoterapii?",
+  "options": [
+   "Zajišťuje důvěru pacienta v diagnózu stanovenou odborníkem",
+   "Otevírá kanál pro přijímání sociálně předávaného poznání od druhého jako relevantního pro mě a zobecnitelného; její zhroucení vede k rigiditě a „nepoučitelnosti' ze zkušenosti",
+   "Označuje důvěru výzkumníka ve validitu měřicích nástrojů",
+   "Je synonymem bazální důvěry podle Eriksona"
+  ],
+  "correct": 1,
+  "explanation": "Epistemická důvěra je ochota přijmout komunikovanou informaci jako důvěryhodnou a osobně relevantní; otevírají ji ostenzivní signály (oční kontakt, oslovení, kontingentní reagování). Epistemická nedůvěra po traumatu činí člověka „tvrdým k učení' — a účinná terapie podle Fonagyho funguje mj. tím, že ji obnovuje. S Eriksonovou bazální důvěrou koncept souvisí, ale není totožný — týká se specificky přijímání poznání.",
+  "source": "Fonagy, P., Allison, E.: The role of mentalizing and epistemic trust in the therapeutic relationship, Psychotherapy, 2014",
+  "seedElo": 1700
+ },
+ {
+  "id": "vyv-022",
+  "type": "K",
+  "category": "vyvoj",
+  "text": "Čím se Winnicottův holding liší od Bionova kontejnování (container–contained)?",
+  "options": [
+   "Holding je metafora pro fyzické nošení dítěte, kontejnování pro kojení",
+   "Holding označuje celkové prostředí spolehlivé péče chránící kontinuitu bytí dítěte; kontejnování je proces, v němž matka přijímá nesnesitelné projikované obsahy, sněním (rêverie) je zpracuje a vrací ve stravitelné podobě",
+   "Kontejnování popisuje otcovskou funkci, holding mateřskou",
+   "Jde o týž proces, Bion jen přejal Winnicottův termín"
+  ],
+  "correct": 1,
+  "explanation": "Holding je širší environmentální pojem: spolehlivá, predikovatelná péče (fyzická i psychická), která chrání dítě před nemyslitelnými úzkostmi a přerušením kontinuity bytí. Kontejnování je specifický intrapsychicko-interpersonální proces transformace beta-elementů na alfa-elementy skrze matčino snění. Pojmy se překrývají, ale nejsou totožné a nevznikly přejímkou; genderové rozdělení funkcí definiční není.",
+  "source": "Winnicott, D. W.: The Theory of the Parent-Infant Relationship, 1960; Bion, W. R.: Learning from Experience, 1962",
+  "seedElo": 1700
+ },
+ {
+  "id": "vyv-025",
+  "type": "K",
+  "category": "vyvoj",
+  "text": "Co odlišuje značkované zrcadlení (marked mirroring) od neznačkovaného zrcadlení afektu?",
+  "options": [
+   "Značkované zrcadlení je zveličené a „jakoby' orámované, takže dítě afekt pozná jako svůj zobrazený stav; neznačkované je realistický projev rodičova vlastního afektu, který dítě děsí a stav mu připíše rodiči",
+   "Značkované zrcadlení je verbální, neznačkované neverbální",
+   "Značkované zrcadlení provádí terapeut, neznačkované rodič",
+   "Neznačkované zrcadlení je přesnější, a proto vývojově prospěšnější"
+  ],
+  "correct": 0,
+  "explanation": "Značka (markedness) — přehnaná mimika, zpomalení, „jakoby' tón — říká dítěti: tohle není můj afekt, to je zobrazení tvého. Dítě tak může svůj stav vidět, uchopit a založit si jeho sekundární reprezentaci. Neznačkované zrcadlení úzkosti dítě zaplaví: vnímá reálně vyděšeného rodiče, což afekt stupňuje a je předpokladem např. borderline patologie. Rozdíl neleží v kanálu ani v osobě zrcadlícího.",
+  "source": "Gergely, G., Watson, J.: The social biofeedback theory of parental affect-mirroring, IJP, 1996; Fonagy et al., 2002",
+  "seedElo": 1700,
+  "deepDive": "Gergelyho a Watsonova teorie sociálního biofeedbacku je jedna z nejelegantnějších mikroteorií vývoje: dítě zpočátku svým vnitřním stavům „nerozumí' — jsou to jen difuzní tělesné bouře. Rodič funguje jako zrcadlo s popiskem: zrcadlí afekt kontingentně (takže dítě pozná, že jde o odpověď na něj) a značkovaně (takže ho nepovažuje za rodičův). Z toho se rodí sekundární reprezentace afektu — základ pozdější regulace i mentalizace. Selhat lze dvěma směry: nekontingentní zrcadlení (rodič reaguje na něco jiného) přispívá k narcistické linii, neznačkované (rodič je afektem sám zaplaven) k borderline linii."
+ },
+ {
+  "id": "vyv-030",
+  "type": "K",
+  "category": "vyvoj",
+  "text": "Jak se v AAI liší dismissing (odmítající/distancovaný) stav mysli od preoccupied (zapleteného)?",
+  "options": [
+   "Dismissing mluvčí je zahlcen hněvivými detaily o rodičích, preoccupied vztahy idealizuje bez dokladů",
+   "Dismissing mluvčí idealizuje či bagatelizuje rané vztahy a na doklady si „nevzpomíná'; preoccupied mluvčí je vtažen do dosud živého hněvu či pasivní zmatenosti a narativ ztrácí hranice a koherenci",
+   "Dismissing odpovídá dětskému typu C, preoccupied typu A",
+   "Liší se pouze délkou odpovědí, obsahově jsou zaměnitelné"
+  ],
+  "correct": 1,
+  "explanation": "Dismissing (Ds) narativ minimalizuje: obecná idealizace („skvělé dětství') bez konkrétních epizod, normalizace odmítání, krátké odpovědi. Preoccupied (E) narativ maximalizuje: dlouhé, gramaticky se hroutící pasáže, přítomný hněv, mluvčí je minulostí stále pohlcen. Paralely k dětským typům jsou Ds–A a E–C, takže třetí možnost je prohozením; délka odpovědí sama klasifikaci nenese.",
+  "source": "Main, M., Goldwyn, R.: Adult Attachment Classification System; Hesse, E. in: Cassidy & Shaver (eds.), Handbook of Attachment, 2008",
+  "seedElo": 1700
+ },
+ {
+  "id": "vyv-041",
+  "type": "X",
+  "category": "vyvoj",
+  "text": "Osmnáctiměsíční chlapec s nadšením hraje „kuk' — schovává se za závěs a s výskotem se objevuje. Který výklad této hry odpovídá perspektivě Freudova vnuka, tedy klasické psychoanalýzy (fort-da) — na rozdíl od piagetovského a sternovského čtení?",
+  "options": [
+   "Aktivní zvládání pasivně zažívané separace: dítě ve hře samo řídí mizení a návrat, a tak symbolicky opanovává odchody matky",
+   "Procvičování nově nabytého schématu trvalosti objektu",
+   "Sdílení afektivního vrcholu s druhým — trénink interafektivity",
+   "Habituace na diskrepantní podnět"
+  ],
+  "correct": 0,
+  "explanation": "Freud na hře „fort-da' svého vnuka s cívkou ukázal princip obratu z pasivity do aktivity: co dítě trpně snáší (odchod matky), ve hře samo inscenuje a ovládá — včetně slastného návratu. Piagetovské čtení by zdůraznilo kognitivní schéma trvalosti objektu, sternovské sdílení afektů; habituace je psychofyziologický, nikoli psychoanalytický jazyk. Otázka žádá právě freudovský rámec.",
+  "source": "Freud, S.: Mimo princip slasti, 1920, kap. 2",
+  "seedElo": 1700
  },
  {
   "id": "vyv-043",
@@ -694,35 +694,888 @@
   "seedElo": 1700
  },
  {
-  "id": "vyv-044",
-  "type": "I",
+  "id": "vyv-027",
+  "type": "K",
   "category": "vyvoj",
-  "text": "Rodiče tříletého chlapce se radí: po narození sestřičky se počural, žadoní o dudlík a mluví jako miminko. Z hlediska vývojově informované psychoedukace — tedy kritéria normalizace přechodné regrese a ochrany vztahu — je nejvhodnějším doporučením co?",
+  "text": "Co odlišuje teleologický modus od psychické ekvivalence u dospělého pacienta?",
   "options": [
-   "Regresivní projevy důsledně ignorovat a odměňovat jen „velké' chování, aby se nezpevnily",
-   "Vysvětlit, že jde o obvyklou přechodnou regresi při narození sourozence, dopřát mu dávky „miminkovské' péče bez zesměšnění a zároveň mu zajistit výlučný čas s rodiči a ocenění jeho velikosti",
-   "Doporučit okamžité psychologické vyšetření pro riziko trvalé fixace",
-   "Vysadit dudlík úplně a zavést systém bodů za suché noci"
+   "V teleologickém modu se záměry druhých uznávají jen tehdy, projeví-li se fyzickým činem (jen skutek se počítá); v psychické ekvivalenci je vlastní vnitřní prožitek zaměňován s vnější realitou",
+   "Teleologický modus se týká vnímání minulosti, psychická ekvivalence budoucnosti",
+   "Teleologický modus je defekt paměti, psychická ekvivalence defekt vnímání",
+   "Jde o dvě jména téhož prementalizačního modu"
   ],
-  "correct": 1,
-  "explanation": "Z hlediska daného kritéria je klíčové rodiče zklidnit: přechodná regrese po narození sourozence je normativní odpověď na otřes pozice a dítě si jí říká o ujištění, že o péči nepřijde. Laskavé tolerování regrese plus aktivní sycení vztahu (výlučný čas, ocenění) ji obvykle nechá odeznít. Čisté ignorování a bodové systémy míjejí vztahovou funkci symptomu a mohou zvýšit úzkost; okamžitá patologizace neodpovídá běžnému a čerstvému obrazu.",
-  "source": "A. Freud: Normality and Pathology in Childhood, 1965; Brazelton, T. B., Sparrow, J.: Understanding Sibling Rivalry, 2005",
-  "seedElo": 1500
+  "correct": 0,
+  "explanation": "Teleologicky fungující pacient uvěří v zájem druhého jen skrze pozorovatelné akty — prodloužené sezení, dotek, dárek; slova nic neváží. V psychické ekvivalenci pacient svůj pocit prožívá jako fakt o světě. Oba jsou prementalizační módy, ale s odlišnou logikou selhání: první redukuje mysl na činy, druhý povyšuje mysl na realitu. Nejsou synonyma a s dělením minulost/budoucnost nesouvisejí.",
+  "source": "Fonagy, P., Bateman, A.: Mentalization-Based Treatment for Borderline Personality Disorder, 2006",
+  "seedElo": 1800
  },
  {
-  "id": "vyv-045",
-  "type": "I",
+  "id": "vyv-028",
+  "type": "K",
   "category": "vyvoj",
-  "text": "Do terapie přichází muž s historií týrání v dětství a dezorganizovanými rysy attachmentu: střídavě terapeuta idealizuje a děsí se ho, po silnějších sezeních ruší další termíny. Z hlediska attachmentově informované praxe — tedy kritéria vybudování bezpečné základny před explorací traumatu — je nejvhodnější počáteční strategií co?",
+  "text": "Jak Winnicott rozlišoval privaci (privation) a deprivaci (deprivation) a k čemu vztahoval antisociální tendenci?",
   "options": [
-   "Co nejdříve zahájit expoziční zpracování traumatických vzpomínek, dokud je motivován",
-   "Interpretovat rušení termínů jako odpor a nastavit sankce za absence",
-   "Prioritně budovat predikovatelnost a bezpečí: stabilní rámec, transparentnost, titrace blízkosti podle pacientovy tolerance a průběžné ošetřování trhlin v aliance",
-   "Omezit kontakt na podpůrná setkání jednou měsíčně, aby se vztah nestal příliš intenzivním"
+   "Privace je ztráta v adolescenci, deprivace v kojeneckém věku",
+   "Privace znamená, že dobrá zkušenost nikdy nebyla; deprivace, že byla a byla ztracena — a právě s deprivací spojoval antisociální tendenci jako naději a nárokování ztraceného",
+   "Deprivace je tělesné strádání, privace citové",
+   "Privaci působí matka, deprivaci otec"
+  ],
+  "correct": 1,
+  "explanation": "Winnicottův klíčový rozdíl: deprivované dítě kdysi dost dobré prostředí mělo, pak o ně přišlo — a antisociální čin (krádež, destrukce) je paradoxně znamením naděje: dítě se domáhá toho, na co mělo nárok. Privace (nikdy nic dobrého) vede spíše k poruchám samotné struktury self. Rozdíl neleží ve věku, tělesnosti ani v osobě rodiče.",
+  "source": "Winnicott, D. W.: The Antisocial Tendency, 1956, in: Deprivation and Delinquency, 1984",
+  "seedElo": 1800
+ },
+ {
+  "id": "vyv-A26",
+  "type": "F",
+  "category": "vyvoj",
+  "text": "Čím se u Trevarthena liší sekundární intersubjektivita od primární?",
+  "options": [
+   "Primární je vrozená, sekundární se objevuje až se schopností mluvit ve větách kolem tří let",
+   "Primární se týká vztahu k matce, sekundární výhradně vztahů k vrstevníkům v předškolní skupině",
+   "Primární probíhá v tichu a pohledech, sekundární vyžaduje zvukovou hru a napodobování slabik",
+   "Primární je přímá dyadická výměna, sekundární přidává třetí prvek, k němuž se pozornost sdílí"
+  ],
+  "correct": 3,
+  "explanation": "V prvních měsících spolu kojenec a pečovatel ladí protokonverzaci tváří v tvář — rytmus, pauzy, střídání. Kolem devátého měsíce vzniká trojúhelník: dítě, dospělý a předmět, což umožňuje ukazování, sdílenou pozornost a sociální referencování. Trevarthen v tom vidí vrozenou motivaci sdílet prožitek, ne jen dosáhnout cíle.",
+  "source": "Trevarthen & Hubley, 1978",
+  "seedElo": 1850
+ },
+ {
+  "id": "vyv-B09",
+  "type": "K",
+  "category": "vyvoj",
+  "text": "Co Ann Masten míní pojmem obyčejná magie (ordinary magic) v souvislosti s resiliencí?",
+  "options": [
+   "Resilience je vzácný rys výjimečných jedinců s neobvyklou nervovou výbavou",
+   "Resilience vzniká hlavně z traumatu, které jedince nutí přerůst sám sebe",
+   "Resilience plyne z běžných adaptačních systémů, nikoli ze vzácných vlastností",
+   "Resilience je vlastnost neměnná v čase a stejně účinná ve všech situacích"
   ],
   "correct": 2,
-  "explanation": "Z hlediska kritéria bezpečné základny je u dezorganizované vztahové historie samotný terapeutický vztah zdrojem poplachu (blízkost = nebezpečí), takže první fází je stát se predikovatelnou, bezpečnou figurou: pevný a průhledný rámec, dávkování intenzity, opravy trhlin. Předčasná expozice bez stabilizace hrozí zaplavením a útěkem z terapie; sankční čtení „odporu' opakuje trestající objekt; řídnutí kontaktu problém neřeší, jen se vyhýbá vztahu, který má léčit.",
-  "source": "Bowlby, J.: A Secure Base, 1988; Slade, A. in: Cassidy & Shaver (eds.): Handbook of Attachment, 3. vyd., 2016",
-  "seedElo": 1600
+  "explanation": "Masten shrnula desítky let výzkumu tak, že dobrý vývoj v riziku nevyžaduje nic výjimečného: opírá se o běžné systémy — fungující vztahy s pečujícími dospělými, sebe-regulace, motivační systémy, škola, komunita. Ohrožení nastává tehdy, když jsou tyto obyčejné systémy poškozené. Resilience je navíc procesem v čase a kontextu, ne stabilním rysem osobnosti.",
+  "seedElo": 1880
+ },
+ {
+  "id": "vyv-A16",
+  "type": "K",
+  "category": "vyvoj",
+  "text": "Jak Bowlby řešil vztah mezi mnohočetnými vazebnými vztahy a předpokladem monotropie?",
+  "options": [
+   "Dítě si tvoří více vazeb, ale řadí je do hierarchie s jednou preferovanou figurou v jejím čele",
+   "Dítě si tvoří pouze jedinou pravou vazbu a ostatní vztahy zůstávají výhradně herními partnery",
+   "Dítě si tvoří vazby ke všem pečovatelům rovnocenně a v nouzi mezi nimi volí zcela náhodně",
+   "Dítě si tvoří vazby postupně tak, že každá nová plně nahradí tu předchozí i s jejím modelem"
+  ],
+  "correct": 0,
+  "explanation": "Monotropie u Bowlbyho neznamená jedinou vazbu, ale uspořádanost: pod tlakem se dítě obrací k figuře na vrcholu hierarchie, a teprve když není dostupná, sestupuje níž. Sítě vazeb bývají v mnoha kulturách široké. Otevřenou otázkou zůstává, jak se z dílčích vztahů skládá celková reprezentace vazby.",
+  "source": "Bowlby, 1969; Howes, 1999",
+  "seedElo": 1900
+ },
+ {
+  "id": "vyv-A27",
+  "type": "F",
+  "category": "vyvoj",
+  "text": "Co typicky ukáže paradigma nehybné tváře (still-face) u zhruba tříměsíčního kojence?",
+  "options": [
+   "Snahu tvář znovu zapojit, po jejím selhání odvrácení a projevy sebeuklidňování a nelibosti",
+   "Klidné vyčkávání bez známek stresu, protože kojenec v tomto věku ještě vzájemnost neočekává",
+   "Okamžité usnutí jako reakci na snížení stimulace ze strany dospělého v laboratorních podmínkách",
+   "Zesílení úsměvů a broukání po celou dobu epizody, dokud se dospělý znovu nezapojí do hry"
+  ],
+  "correct": 0,
+  "explanation": "Kojenec nejprve zvýší úsilí o obnovení kontaktu, a když neuspěje, odvrátí se, zesmutní a sahá po sebeuklidňujících projevech. Paradigma tak dokládá, že už v prvních měsících existuje očekávání vzájemné odpovědi a základní schopnost autoregulace. Míra i rychlost zotavení po skončení epizody se přitom liší dyáda od dyády.",
+  "source": "Tronick, Als, Adamson, Wise & Brazelton, 1978",
+  "seedElo": 1900
+ },
+ {
+  "id": "vyv-B01",
+  "type": "V",
+  "category": "vyvoj",
+  "text": "Co byl hlavní zjištěný vztah v původní ACE studii (Felitti a Anda, 1998) mezi počtem nepříznivých zážitků v dětství a zdravím v dospělosti?",
+  "options": [
+   "Stupňovitý dávkově závislý vztah skóre k somatickým i psychickým následkům",
+   "Prahový efekt, kdy až čtyři a více kategorií vůbec zvyšovalo riziko nemocí",
+   "Vztah jen k psychiatrickým diagnózám, nikoli k tělesným onemocněním dospělých",
+   "Silná vazba pouze u sexuálního zneužití, ostatní kategorie riziko neměnily"
+  ],
+  "correct": 0,
+  "explanation": "ACE studie ukázala monotónní gradient: s každou další kategorií nepříznivé zkušenosti rostlo riziko napříč velmi různorodými výsledky — od deprese a závislostí po ischemickou chorobu srdeční, CHOPN a předčasnou smrt. Žádný jasný práh nalezen nebyl a efekt nebyl vázán na jednu kategorii. Jde přitom o populační, retrospektivní a korelační zjištění.",
+  "seedElo": 1900
+ },
+ {
+  "id": "vyv-B06",
+  "type": "K",
+  "category": "vyvoj",
+  "text": "Proč se ve vývojové psychologii posunulo užívání termínu kritické období směrem k termínu senzitivní období?",
+  "options": [
+   "Většina lidských funkcí zůstává tvárná i po období nejvyšší citlivosti",
+   "Ukázalo se, že u člověka žádná období zvýšené plasticity vůbec neexistují",
+   "Termín kritické období byl vyhrazen jen pro imprinting u ptáků a savců",
+   "Senzitivní období označuje kratší a přesněji ohraničený úsek než kritické"
+  ],
+  "correct": 0,
+  "explanation": "Data o adoptovaných a institucionalizovaných dětech i o pozdním osvojování jazyka ukázala, že hranice nejsou nepropustné: po uplynutí okna se učení stává obtížnějším a nákladnějším, nikoli nemožným. Termín senzitivní období tuto graduálnost vystihuje lépe. Ostré kritické okno zůstává přiléhavé jen pro úzké okruhy, například binokulární vidění.",
+  "seedElo": 1900
+ },
+ {
+  "id": "vyv-A17",
+  "type": "F",
+  "category": "vyvoj",
+  "text": "Jak se v mezikulturních srovnáních Strange Situation liší distribuce v Japonsku a v severním Německu?",
+  "options": [
+   "Japonské vzorky vykazují více rezistentní klasifikace C, severoněmecké naopak více vyhýbavé A",
+   "Japonské vzorky vykazují více vyhýbavé klasifikace A, severoněmecké naopak více rezistentní C",
+   "Oba vzorky vykazují shodně vyšší podíl dezorganizace, ale odlišný poměr jistých klasifikací",
+   "Oba vzorky se od severoamerické normy neliší v ničem kromě delší doby latence k pláči"
+  ],
+  "correct": 0,
+  "explanation": "Interpretace je opatrná: v Japonsku, kde bývá odloučení od matky vzácné, může procedura vyvolat nezvykle silný distres a nadhodnotit kategorii C; v severním Německu naopak dobová výchova k rané samostatnosti nadhodnocuje A. Celkově ale ve všech kulturách převažuje jistá vazba a mezikulturní rozdíly jsou menší než rozdíly uvnitř kultur.",
+  "source": "Miyake a kol.; Grossmann a kol.; Van IJzendoorn & Kroonenberg, 1988",
+  "seedElo": 1950
+ },
+ {
+  "id": "vyv-B08",
+  "type": "V",
+  "category": "vyvoj",
+  "text": "Co patřilo mezi nejsilnější prediktory dobré adaptace u rizikových dětí ve studii Emmy Werner na Kauai?",
+  "options": [
+   "Vysoké IQ dítěte měřené v předškolním věku nezávisle na sociálním prostředí",
+   "Absence jakékoli rizikové zátěže v prvních dvou letech života dítěte",
+   "Stabilní pečující vztah alespoň s jednou osobou uvnitř nebo mimo rodinu",
+   "Brzké osamostatnění a odchod z rodiny v raném adolescentním období"
+  ],
+  "correct": 2,
+  "explanation": "Werner sledovala celý ročník narozených dětí po několik desetiletí; z rizikové třetiny se zhruba třetina vyvíjela dobře. Opakujícím se prediktorem byl přístup alespoň k jedné spolehlivé pečující osobě — prarodič, učitel, soused — spolu s příznivým temperamentem a zapojením do komunity. Studie zároveň ukázala, že adaptace nebyla stálá a část lidí se „vyrovnala\" až v dospělosti.",
+  "seedElo": 1950
+ },
+ {
+  "id": "vyv-A06",
+  "type": "K",
+  "category": "vyvoj",
+  "text": "V jakém smyslu se v hodnocení AAI využívají Griceovy konverzační maximy?",
+  "options": [
+   "Slouží jako měřítko koherence: kvalita, kvantita, relevance a způsob výpovědi o vztazích",
+   "Slouží k odhadu pravdivosti vzpomínek porovnáním s výpověďmi ostatních členů rodiny",
+   "Slouží k určení, zda mluvčí hodnotí své rodiče převážně kladně, nebo naopak převážně kriticky",
+   "Slouží k měření množství vzpomínek na období před nástupem do školy a jejich živosti"
+  ],
+  "correct": 0,
+  "explanation": "Koherentní narativ podle Main dostojí Griceovým maximám: je pravdivý a doložený příklady, přiměřeně stručný, drží se otázky a je srozumitelně podán. Skóre koherence, nikoli obsah vzpomínek, rozhoduje o klasifikaci — proto může být autonomní i člověk s velmi těžkým dětstvím, pokud o něm dokáže souvisle vyprávět.",
+  "source": "Main, Goldwyn & Hesse, AAI scoring manual",
+  "seedElo": 2000
+ },
+ {
+  "id": "vyv-A08",
+  "type": "F",
+  "category": "vyvoj",
+  "text": "Který empirický nález nejsilněji mluví proti tvrzení, že klasifikace ve Strange Situation měří v podstatě temperament dítěte?",
+  "options": [
+   "Klasifikace dítěte zůstává naprosto stejná při opakovaném testování s odstupem několika let",
+   "Klasifikace téhož dítěte s matkou a s otcem se shodují jen slabě, nikoli podle očekávání",
+   "Novorozenecká míra dráždivosti nemá žádný vztah k pozdějšímu chování v laboratorní situaci",
+   "Děti s obtížným temperamentem bývají v cizí situaci klasifikovány výhradně jako vyhýbavé"
+  ],
+  "correct": 1,
+  "explanation": "Kdyby cizí situace měřila rys dítěte, klasifikace s různými pečovateli by se musely shodovat; metaanalýza Foxe a kolegů našla jen mírnou konkordanci. Vazba je tedy vlastnost vztahu, ne dítěte. Temperament přitom není bezvýznamný — ovlivňuje spíš podobu distresu a přispívá k rozlišení uvnitř kategorií než k volbě strategie.",
+  "source": "Fox, Kimmerly & Schafer, 1991; Sroufe, 1985",
+  "seedElo": 2000
+ },
+ {
+  "id": "vyv-A25",
+  "type": "K",
+  "category": "vyvoj",
+  "text": "Co Daniel Stern a Bostonská skupina míní „momentem setkání“ ve své teorii terapeutické změny?",
+  "options": [
+   "Okamžik, kdy pacient poprvé pojmenuje dosud vytěsněné přání a přijme za ně odpovědnost",
+   "Okamžik, kdy terapeut podá přesnou přenosovou interpretaci a pacient ji potvrdí vzpomínkou",
+   "Okamžik autentické vzájemné odpovědi, který mění implicitní vztahové vědění bez interpretace",
+   "Okamžik prudkého afektivního propuknutí, po němž se v terapii uvolní dosud blokovaný materiál"
+  ],
+  "correct": 2,
+  "explanation": "Vedle explicitního, vědomého poznání běží implicitní vztahové vědění o tom, jak se s druhým dá být. Po „nyní momentu“, kdy se navyklý chod naruší a je nutná osobní odpověď, může přijít moment setkání, který toto implicitní vědění přepíše. Změna se tak neděje jen zvědoměním, ale i v samotné látce vztahu.",
+  "source": "Stern a kol., 1998; Boston Change Process Study Group",
+  "seedElo": 2000
+ },
+ {
+  "id": "vyv-B15",
+  "type": "K",
+  "category": "vyvoj",
+  "text": "Co Peter Blos označuje jako druhou individuaci a kdy k ní podle něj dochází?",
+  "options": [
+   "Odpoutání od symbiózy s matkou v batolecím věku mezi druhým a třetím rokem",
+   "Vytvoření partnerského svazku v rané dospělosti s posunem pouta na partnera",
+   "Uvolnění vazby na internalizované rodičovské objekty v adolescenci",
+   "Přijetí generativní role rodiče ve středním věku po odchodu vlastních dětí"
+  ],
+  "correct": 2,
+  "explanation": "Blos navázal na Mahlerovou: první individuace se odehrává v batolecím věku a týká se reálných pečujících osob, druhá individuace v adolescenci a týká se jejich vnitřních reprezentací. Dospívající musí uvolnit infantilní objektní vazby, aby mohl investovat do vrstevníků a partnerů. Přechodná regrese, nálada a idealizace vrstevnické skupiny jsou v tomto pojetí normativní součástí procesu.",
+  "seedElo": 2000
+ },
+ {
+  "id": "vyv-B17",
+  "type": "V",
+  "category": "vyvoj",
+  "text": "Dvacetiletý student přerušil studium, střídá brigády, zkouší kapelu i dobrovolnictví a mluví o tom se zájmem, bez úzkosti a s plánem se na podzim rozhodnout. Rodiče se ptají, zda nejde o poruchu. Které kritérium nejlépe odliší Marciovo moratorium od difuze identity?",
+  "options": [
+   "Absence jakéhokoli závazku k hodnotám či rolím v daném životním období",
+   "Aktivní zkoumání alternativ, i když trvalý závazek zatím není přijat",
+   "Krátké trvání zkoušení, které nesmí přesáhnout jeden akademický rok",
+   "Souhlas rodičů s tím, jak mladý dospělý své směřování aktuálně hledá"
+  ],
+  "correct": 1,
+  "explanation": "Marcia kříží dvě dimenze: explorace a závazek. Moratorium znamená vysokou exploraci bez závazku, difuze nízkou exploraci i nízký závazek — tedy nikoli hledání, ale rezignaci či lhostejnost. Rozlišujícím znakem tu je přítomnost cíleného zkoušení a zájmu, ne délka fáze ani hodnocení okolí.",
+  "seedElo": 2000
+ },
+ {
+  "id": "vyv-A15",
+  "type": "F",
+  "category": "vyvoj",
+  "text": "Jak vychází metaanalytická souvislost mezi senzitivitou otce a jistotou vazby dítěte k němu?",
+  "options": [
+   "Vychází jako silnější než u matek, protože otcové se dítěti věnují cíleněji a v kratších úsecích",
+   "Vychází jako významná, ale slabší než u matek, takže samotná senzitivita otce vysvětlí jen málo",
+   "Vychází zcela nulová, což vedlo k závěru, že vazba k otci vzniká nezávisle na jeho chování",
+   "Vychází jako zcela shodná s mateřskou, díky čemuž se výsledky obou rodičů běžně slučují"
+  ],
+  "correct": 1,
+  "explanation": "Metaanalýza van IJzendoorna a De Wolffové zjistila u otců statisticky významnou, avšak menší asociaci než u matek. Nabízí se dvojí čtení: buď je otcovská role v raném věku odlišná (hra, explorace), nebo běžné škály senzitivity zachycují spíš mateřský styl interakce. Obě čtení jsou dodnes ve hře.",
+  "source": "Van IJzendoorn & De Wolff, 1997",
+  "seedElo": 2050
+ },
+ {
+  "id": "vyv-A22",
+  "type": "K",
+  "category": "vyvoj",
+  "text": "Jak se pretend mode nejčastěji projevuje v průběhu psychoterapie dospělého pacienta?",
+  "options": [
+   "Plynulým psychologickým vyprávěním odpojeným od afektu a od skutečných následků v životě",
+   "Přesvědčením, že vnitřní prožitek přesně odpovídá vnější realitě a nelze o něm pochybovat",
+   "Trváním na tom, že o vztahu vypovídají jen pozorovatelné skutky, nikoli slova a úmysly",
+   "Náhlými výbuchy hněvu, po nichž pacient nedokáže rekonstruovat, co je vyvolalo a proč"
+  ],
+  "correct": 0,
+  "explanation": "V pretend modu se představy odpojí od reality: pacient mluví „mentalizačně“, používá správné pojmy, ale nic z toho nemá tíhu ani důsledky. Typickými vodítky pro terapeuta jsou nuda, pocit prázdné hry a chybějící překvapení. Nebezpečím je kolusivní pseudoterapie, kdy oba tento chod udržují; nutná je konfrontace s realitou a afektem.",
+  "source": "Bateman & Fonagy, MBT",
+  "seedElo": 2050
+ },
+ {
+  "id": "vyv-B07",
+  "type": "V",
+  "category": "vyvoj",
+  "text": "Co ukázal Bucharest Early Intervention Project (BEIP) o načasování odchodu z ústavní péče?",
+  "options": [
+   "Zlepšení bylo stejné bez ohledu na věk umístění do pěstounské rodiny",
+   "Děti umístěné po druhém roce dohnaly kontrolní skupinu nikdy neumístěnou",
+   "Kognitivní zisky se objevily jen u dětí umístěných až po třetím roce věku",
+   "Dřívější umístění do pěstounské péče znamenalo lepší kognitivní i vazebné výsledky"
+  ],
+  "correct": 3,
+  "explanation": "BEIP nalezl vliv načasování: děti umístěné do pěstounské péče dříve (přibližně před druhým rokem) měly lepší kognitivní výsledky, vyšší podíl bezpečné vazby a příznivější vývoj EEG než děti umístěné později. Zlepšení bylo přitom u některých domén jen částečné a k úrovni nikdy neinstitucionalizovaných dětí se skupina zcela nedostala. Jde tedy o doklad senzitivního období, nikoli o důkaz nezvratnosti.",
+  "seedElo": 2050
+ },
+ {
+  "id": "vyv-B16",
+  "type": "V",
+  "category": "vyvoj",
+  "text": "Které tvrzení o adolescentním mozku je podložené a které patří k častým popularizačním zkratkám?",
+  "options": [
+   "Prefrontální kůra je do osmnácti let nezralá, poté dozrávání prakticky končí",
+   "Doložen je nesoulad ve zrání odměnových a kontrolních okruhů, ne prostá nezralost",
+   "Nezralá prefrontální kůra vysvětluje většinu rozdílů v rizikovém chování jedinců",
+   "Adolescenti nedokáží v laboratorních úlohách odhadnout riziko lépe než děti"
+  ],
+  "correct": 1,
+  "explanation": "Dualsystémové modely (Steinberg, Casey) popisují dřívější dozrávání subkortikálních odměnových okruhů oproti pomaleji zrající kontrole — riziko roste hlavně v emočně nabitých a vrstevnicky sycených situacích. Adolescenti přitom v klidných laboratorních úlohách posuzují riziko podobně jako dospělí. Tvrzení, že „nehotový prefrontální kortex\" vysvětluje chování jednotlivce, i představa ostré hranice v osmnácti letech, jsou zjednodušení, na která upozorňují i sami autoři.",
+  "seedElo": 2050
+ },
+ {
+  "id": "vyv-B18",
+  "type": "K",
+  "category": "vyvoj",
+  "text": "Jak Erikson chápe generativitu a v čem se liší od pouhého rodičovství?",
+  "options": [
+   "Je to biologické plození potomků jako předpoklad zdravého středního věku",
+   "Je to schopnost udržet dlouhodobý intimní vztah bez ztráty vlastní identity",
+   "Je to bilancování života jako celku a přijetí vlastní konečné podoby",
+   "Je to péče o to, co člověka přesahuje, tvorbou, vedením i předáváním"
+  ],
+  "correct": 3,
+  "explanation": "Generativita versus stagnace je úkolem střední dospělosti a ctností je péče (care). Naplňuje se rodičovstvím, ale stejně tak mentorstvím, tvorbou, učením nebo prací pro obec; rodič může být negenerativní a bezdětný člověk vysoce generativní. Intimita versus izolace patří k rané dospělosti a integrita versus zoufalství ke stáří.",
+  "seedElo": 2050
+ },
+ {
+  "id": "vyv-A09",
+  "type": "K",
+  "category": "vyvoj",
+  "text": "Čím se Belskyho model diferenciální susceptibility liší od klasického modelu diatéza–stres?",
+  "options": [
+   "Předpokládá, že rizikové geny se projeví teprve po vystavení opakovanému a dlouhodobému traumatu v dospělosti",
+   "Předpokládá, že citliví jedinci prospívají v podpůrném prostředí nadprůměrně, nejen že v zátěži strádají",
+   "Předpokládá, že vliv prostředí je zprostředkován výhradně epigenetickými změnami v metylaci DNA",
+   "Předpokládá, že podíl dědičnosti na chování roste s věkem a v dospělosti převáží nad výchovou"
+  ],
+  "correct": 1,
+  "explanation": "Diatéza–stres čeká pouze zhoršení u zranitelných; diferenciální susceptibilita předpovídá překřížení regresních přímek — titíž „orchidejoví“ jedinci dopadají hůř v nepříznivém a lépe v příznivém prostředí než „pampeliškoví“. Ke zjištění nestačí interakce jako taková, je nutné doložit i pozitivní konec kontinua.",
+  "source": "Belsky & Pluess, 2009; Ellis & Boyce",
+  "seedElo": 2100
+ },
+ {
+  "id": "vyv-A11",
+  "type": "F",
+  "category": "vyvoj",
+  "text": "Jak silná je podle metaanalýzy Fearona a kolegů souvislost mezi dezorganizovanou vazbou a externalizujícími problémy?",
+  "options": [
+   "Malá až střední, přibližně d kolem 0,34, tedy prakticky významná, ale zdaleka ne deterministická",
+   "Velmi silná, přibližně d kolem 1,20, což z dezorganizace činí nejlepší známý prediktor agrese",
+   "Zcela zanedbatelná, přibližně d kolem 0,02, takže souvislost není odlišitelná od náhody",
+   "Střední až velká, přibližně d kolem 0,80, tedy srovnatelná s vlivem rodičovské psychopatologie"
+  ],
+  "correct": 0,
+  "explanation": "Fearon a kolegové našli u dezorganizace nejsilnější, ale stále jen mírný vztah k externalizujícím problémům; nejistota obecně vycházela slabší. Takový efekt znamená posun rizika, nikoli osud — většina dezorganizovaných dětí poruchu chování nerozvine. Pro klinické tvrzení o jednotlivci je tedy velikost efektu nedostačující.",
+  "source": "Fearon, Bakermans-Kranenburg, Van IJzendoorn a kol., 2010",
+  "seedElo": 2100
+ },
+ {
+  "id": "vyv-A23",
+  "type": "K",
+  "category": "vyvoj",
+  "text": "Čím se vyznačuje epistemická hypervigilance v pojetí Fonagyho a Allisonové?",
+  "options": [
+   "Zvýšenou přesností v odhadování záměrů druhých, doprovázenou úzkostí ze sociálního hodnocení",
+   "Neschopností zapamatovat si obsah rozhovoru kvůli přetížení pracovní paměti při silném afektu",
+   "Trvalým vyhledáváním autorit, jejichž sdělení jsou přijímána bez jakéhokoli kritického posouzení",
+   "Přístupem, kdy je sdělení druhého předem bráno jako možná neplatné či skrytě sledující jiný cíl"
+  ],
+  "correct": 3,
+  "explanation": "Epistemická důvěra otevírá kanál pro přijímání sociálně přenášeného vědění; její opak kanál uzavírá. Hypervigilance je přitom adaptací na prostředí, kde druzí opravdu klamali — proto se nemá číst jako defekt, ale jako naučená obrana. Terapeuticky se neotevírá argumenty, nýbrž zkušeností, že terapeut pacientovu mysl skutečně přesně vidí.",
+  "source": "Fonagy & Allison, 2014",
+  "seedElo": 2100
+ },
+ {
+  "id": "vyv-B03",
+  "type": "V",
+  "category": "vyvoj",
+  "text": "Jak dopadl návrh diagnózy Developmental Trauma Disorder (DTD) a co obsahuje ICD-11 na jeho místě?",
+  "options": [
+   "DTD byla přijata do DSM-5 a ICD-11 ji převzala pod jménem komplexní PTSD",
+   "DTD do DSM-5 nepřijali; ICD-11 zavedla komplexní PTSD s poruchou sebeorganizace",
+   "DTD byla přijata v ICD-11, zatímco DSM-5 ji odmítla pro nedostatek dat",
+   "Obě klasifikace DTD přijaly, liší se jen v požadované délce trvání příznaků"
+  ],
+  "correct": 1,
+  "explanation": "Návrh DTD (van der Kolk a pracovní skupina NCTSN) byl do DSM-5 odmítnut s odůvodněním, že chybí data o odlišné validitě oproti stávajícím diagnózám. ICD-11 místo toho zavedla komplexní PTSD: jádrové příznaky PTSD plus trvalá porucha sebeorganizace — dysregulace afektu, negativní sebepojetí a obtíže ve vztazích. cPTSD ale není vývojově specifická a nevznikla jako dětská diagnóza.",
+  "seedElo": 2100
+ },
+ {
+  "id": "vyv-B13",
+  "type": "V",
+  "category": "vyvoj",
+  "text": "V čem je BEIP metodologicky výjimečný oproti dřívějším studiím institucionalizovaných dětí?",
+  "options": [
+   "Sledoval děti déle než jakákoli jiná studie ústavní péče v Evropě",
+   "Použil jako kontrolu adoptované děti z jiné země se stejným zázemím",
+   "Poprvé měřil EEG a kortizol u dětí vyrůstajících v ústavní péči",
+   "Randomizoval děti mezi setrvání v ústavu a novou pěstounskou péči"
+  ],
+  "correct": 3,
+  "explanation": "BEIP je prakticky jediná randomizovaná kontrolovaná studie odchodu z ústavu: děti byly losem přiřazeny k pokračující ústavní péči nebo k nově vybudované pěstounské síti, což umožňuje kauzální závěry, jaké observační studie (například anglo-rumunské adopce) nedovolují. Právě randomizace ale vyvolala trvající etický spor o přijatelnost designu.",
+  "seedElo": 2100
+ },
+ {
+  "id": "vyv-B14",
+  "type": "V",
+  "category": "vyvoj",
+  "text": "Co je cílovou proměnnou programů posilujících rodičovskou reflektivní funkci, například Minding the Baby?",
+  "options": [
+   "Schopnost rodiče vidět za chováním dítěte jeho záměry a prožitky",
+   "Přesnost rodičovského odhadu vývojových norem a milníků dítěte",
+   "Množství verbálního kontaktu rodiče s dítětem během běžného dne",
+   "Míra shody mezi temperamentem rodiče a temperamentem jeho dítěte"
+  ],
+  "correct": 0,
+  "explanation": "Rodičovská reflektivní funkce je specifická schopnost uvažovat o dítěti jako o bytosti s vlastními stavy mysli a spojovat je s jeho chováním. Programy jako Minding the Baby (Slade, Sadler) na ni cílí přímo a měří ji škálami z rozhovoru o rodičovství. Klíčové je, že nejde o znalosti o vývoji ani o množství stimulace, nýbrž o kvalitu mentalizace vztaženou ke konkrétnímu dítěti.",
+  "seedElo": 2100
+ },
+ {
+  "id": "vyv-A01",
+  "type": "K",
+  "category": "vyvoj",
+  "text": "Proč podle Main a Hesse vede vyděšené či děsící chování pečovatele právě k dezorganizaci vazby?",
+  "options": [
+   "Vazebná figura je současně zdrojem i jediným řešením strachu, což tvoří paradox bez východiska",
+   "Dítě se naučí strach systematicky potlačovat a vybuduje si nadměrně soběstačnou vyhýbavou strategii",
+   "Opakovaná krátká odloučení vyčerpají vazebný systém a dítě přejde do fáze odpoutání od pečovatele",
+   "Pečovatel odpovídá příliš pomalu na signály nouze, takže se u dítěte nestihne vytvořit preference"
+  ],
+  "correct": 0,
+  "explanation": "Main a Hesse mluví o „strachu bez řešení“ (fright without solution): biologicky daná tendence běžet k vazebné figuře koliduje s tendencí od ní utéct, protože ta figura je sama zdrojem poplachu. Organizovaná strategie proto nemůže vzniknout a chování se hroutí do rozporných, stereotypních či ztuhlých sekvencí.",
+  "source": "Main & Hesse, 1990",
+  "seedElo": 2150
+ },
+ {
+  "id": "vyv-A04",
+  "type": "K",
+  "category": "vyvoj",
+  "text": "Do jakých podob se u dříve dezorganizovaných dětí typicky vyvine kontrolující chování v předškolním a mladším školním věku?",
+  "options": [
+   "Do trvalého vyhýbání se rodiči doprovázeného zvýšenou vazbou na vrstevnickou skupinu",
+   "Do plošné pasivity a rezignace na jakoukoli iniciativu vůči rodiči i cizím dospělým",
+   "Do kolísání mezi lepivým přimykáním a hněvivým odmítáním v okamžiku opětovného shledání s rodičem",
+   "Do kontrolující-punitivní varianty nebo do kontrolující-pečující, případně jejich směsi"
+  ],
+  "correct": 3,
+  "explanation": "Kolem šesti let většina dezorganizovaných dětí obnoví organizovanou strategii tím, že převezme řízení vztahu: buď rodiče ponižuje a komanduje (punitivní), nebo o něj úzkostně pečuje a baví ho (caregiving). Jde o obrácení rolí — dítě reguluje rodiče místo naopak. Ambivalentní kolísání při shledání je znak klasifikace C, ne kontrolujícího vzorce.",
+  "source": "Main & Cassidy, 1988; Solomon & George",
+  "seedElo": 2150
+ },
+ {
+  "id": "vyv-A21",
+  "type": "K",
+  "category": "vyvoj",
+  "text": "Co Jurist a Fonagy míní pojmem mentalizovaná afektivita?",
+  "options": [
+   "Schopnost rozpoznat afekty druhých z mimiky rychleji, než je stačíme vědomě pojmenovat slovy",
+   "Schopnost prožívat afekt a současně mu porozumět, tedy jej identifikovat, modulovat a vyjádřit",
+   "Schopnost dočasně odpojit afekt od myšlení, aby bylo možné rozhodovat se v krizi bez zkreslení",
+   "Schopnost převést tělesné napětí do symbolické podoby snu a tím je zpracovat ve spánku"
+  ],
+  "correct": 1,
+  "explanation": "Nejde o chladnou reflexi emoce zpětně, ale o mentalizaci zevnitř probíhajícího prožitku — proto „dospělá“ forma afektivní regulace. Jurist ji rozkládá na tři kroky: identifikovat afekt, modulovat jeho intenzitu či trvání a vyjádřit jej navenek nebo vnitřně. Právě tato kapacita je cílem řady mentalizačně orientovaných intervencí.",
+  "source": "Jurist, in Fonagy, Gergely, Jurist & Target, 2002",
+  "seedElo": 2150
+ },
+ {
+  "id": "vyv-B25",
+  "type": "V",
+  "category": "vyvoj",
+  "text": "Při natáčení interakce matka na pokyn znehybní obličej. Tříměsíční chlapec nejprve zesílí úsměvy, broukání a pohyby rukou, pak se odvrací, kroutí se a rozpláče. Co tato sekvence především demonstruje?",
+  "options": [
+   "Vrozený strach z neznámé situace objevující se kolem třetího měsíce",
+   "Časnou schopnost kojence rozpoznat, že matka předstírá a hraje roli",
+   "Nástup separační úzkosti vázaný na ztrátu zrakového kontaktu s matkou",
+   "Očekávání vzájemnosti a pokus o její obnovení, pak vyčerpání regulace"
+  ],
+  "correct": 3,
+  "explanation": "Still-face paradigma (Tronick) ukazuje, že kojenec má už ve třech měsících očekávání kontingentní vzájemné výměny. Nejprve nasazuje aktivní opravné chování, a když selže, přechází k odvracení, sebeuklidňování a distresu. Nejde tedy o separaci ani o strach z neznámého, ale o narušení a marný pokus o obnovu interakční regulace.",
+  "seedElo": 2150
+ },
+ {
+  "id": "vyv-B26",
+  "type": "V",
+  "category": "vyvoj",
+  "text": "Patnáctiletá dívka se poslední měsíce uzavírá do pokoje, hodiny visí na telefonu, s rodiči je odmítavá a stručná, ve škole ale obstojí a s kamarádkami je živá. Které kritérium nejlépe odliší běžnou adolescentní regresi od začínající patologie?",
+  "options": [
+   "Míra odmítání rodičů, protože zdravý dospívající rodiče neodmítá",
+   "Zachovaný výkon a vztahy mimo rodinu, tedy prostupnost stažení",
+   "Délka stažení, protože nad tři měsíce jde spolehlivě o poruchu",
+   "Přítomnost konfliktu s rodiči, který v normě zůstává pod hranicí hádek"
+  ],
+  "correct": 1,
+  "explanation": "Adolescentní stažení od rodičů a přechodná regrese jsou v Blosově i Eriksonově rámci normativní součástí odpoutávání. Klinicky rozhoduje pervazivnost: zda pokles zasahuje i školu, vrstevníky, spánek, chuť k jídlu a schopnost prožívat radost. Selektivní stažení jen vůči rodičům při zachovaném fungování jinde svědčí spíše pro vývojový proces než pro poruchu.",
+  "seedElo": 2150
+ },
+ {
+  "id": "vyv-A03",
+  "type": "K",
+  "category": "vyvoj",
+  "text": "Čím se hostilně-bezmocný (hostile-helpless) stav mysli u Lyons-Ruth liší od klasifikace unresolved v AAI?",
+  "options": [
+   "Vyžaduje doloženou ztrátu blízké osoby a hodnotí se výhradně z pasáží o úmrtí v rodině",
+   "Je definován převahou idealizace rodičů a smířlivým normalizujícím tónem bez konkrétních vzpomínek",
+   "Prostupuje celým rozhovorem jako nesmířená identifikace s hostilní i bezmocnou stranou vztahu",
+   "Opírá se o pozorování dyády v laboratoři, nikoli o analýzu narativu dospělého o dětství"
+  ],
+  "correct": 2,
+  "explanation": "Unresolved se kóduje lokálně: z lapsů v uvažování či diskurzu v pasážích o ztrátě nebo traumatu. Hostilně-bezmocný stav mysli je naproti tomu globální rys narativu — mluvčí zůstává nerozřešeně identifikován s oběma póly násilného vztahu a mezi nimi osciluje. Lyons-Ruth ho spojuje především s dezorganizací a s hraniční patologií.",
+  "source": "Lyons-Ruth, Yellin, Melnick & Atwood, 2005",
+  "seedElo": 2200
+ },
+ {
+  "id": "vyv-A07",
+  "type": "K",
+  "category": "vyvoj",
+  "text": "Na základě čeho se v AAI přiděluje klasifikace unresolved/disorganized (U/d)?",
+  "options": [
+   "Podle celkové míry hněvu vůči rodičům, který se v rozhovoru opakovaně vrací a stupňuje",
+   "Podle rozporu mezi vřelým popisem rodiče a chybějícími konkrétními vzpomínkami na péči",
+   "Podle výskytu více než dvou ztrát blízkých osob v období před dovršením dvanácti let věku",
+   "Podle lokálních lapsů v monitorování uvažování nebo řeči v pasážích o ztrátě či traumatu"
+  ],
+  "correct": 3,
+  "explanation": "Kóduje se přechodná dezorganizace diskurzu právě tam, kde se mluví o úmrtí či zneužití: mluvčí například hovoří o zemřelém jako o žijícím, propadne se do smuteční řeči, uvede nemožné kauzality nebo dlouho mlčí. Nerozhoduje počet ztrát ani jejich závažnost, ale to, jak je narativ v daném místě zpracován.",
+  "source": "Main & Goldwyn; Hesse, 2008",
+  "seedElo": 2200
+ },
+ {
+  "id": "vyv-A14",
+  "type": "K",
+  "category": "vyvoj",
+  "text": "Co v longitudinální bielefeldské studii Grossmannových nejlépe předpovídalo pozdější vazebné reprezentace z otcovské strany?",
+  "options": [
+   "Klasifikace dítěte s otcem v cizí situaci pořízená ve dvanácti a v osmnácti měsících věku",
+   "Množství času, které otec s dítětem trávil o samotě v prvních dvou letech jeho života",
+   "Citlivá a zároveň přiměřeně náročná podpora otce ve společné hře a při explorování",
+   "Míra shody mezi výchovnými postoji obou rodičů v dotazníku vyplněném na konci batolecího věku"
+  ],
+  "correct": 2,
+  "explanation": "U otců se cizí situace ukázala jako slabý prediktor. Grossmannovi navrhli, že otcovský příspěvek nevede primárně přes utišení v nouzi, ale přes explorační pól vazebně-exploračního systému: citlivá podpora ve hře, která dítě povzbuzuje a zároveň nezahlcuje, předpovídala reprezentace v adolescenci lépe než klasifikace v laboratoři.",
+  "source": "Grossmann, Grossmann a kol., 2002",
+  "seedElo": 2200
+ },
+ {
+  "id": "vyv-A19",
+  "type": "K",
+  "category": "vyvoj",
+  "text": "Co podle Fonagyho a Gergelyho nastane, když je zrcadlení afektu kontingentní, ale chybí mu markovanost?",
+  "options": [
+   "Dítě si vytvoří přesnou představu o svém stavu, jen ji bude umět pojmenovat později než vrstevníci",
+   "Dítě přisoudí zrcadlený afekt rodiči, vlastní stav se nestane reprezentací a prožitek eskaluje",
+   "Dítě zcela ztratí zájem o obličej pečovatele a jeho pozornost se přesune k neživým předmětům",
+   "Dítě začne své afekty vyjadřovat pouze tělesně a řeč emocí se u něj rozvine až v předškolním věku"
+  ],
+  "correct": 1,
+  "explanation": "Markovanost (přehnané, „jakoby“ provedení) říká dítěti, že výraz patří jemu, nikoli rodiči. Bez ní je zrcadlení realistické, dítě čte úzkost jako skutečný stav pečovatele a místo uklidnění dostane potvrzení, že je situace opravdu nebezpečná. Fonagy tento vzorec spojuje s traumatizací a s prožitkem zaplavení.",
+  "source": "Fonagy, Gergely, Jurist & Target, 2002",
+  "seedElo": 2200
+ },
+ {
+  "id": "vyv-A20",
+  "type": "K",
+  "category": "vyvoj",
+  "text": "Jak Fonagy vysvětluje klinické projevy externalizace cizího self (alien self)?",
+  "options": [
+   "Cizí self se projeví jako trvalá ztráta paměti na dětství a jako pocit neskutečnosti vzpomínek",
+   "Cizí self se projeví jako nadměrná identifikace s profesní rolí a jako vyhoření v dospělosti",
+   "Cizí self se projeví jako zvýšená schopnost číst záměry druhých a jako sklon k idealizaci partnera",
+   "Cizí self se vytěsní do druhého, jenž musí zůstat nablízku, jinak hrozí obrat agrese proti tělu"
+  ],
+  "correct": 3,
+  "explanation": "Neintegrované, z pečovatele internalizované části self prožívá člověk jako nesnesitelně cizí uvnitř. Řešením je promítnout je do druhého a udržet s ním kontakt — odtud lpění na vztahu, který zraňuje. Když druhý zmizí, cizí self se vrací dovnitř a agrese se obrací proti vlastnímu tělu; Fonagy tak vykládá sebepoškozování u hraniční poruchy.",
+  "source": "Fonagy & Target; Bateman & Fonagy, 2004",
+  "seedElo": 2200
+ },
+ {
+  "id": "vyv-B02",
+  "type": "I",
+  "category": "vyvoj",
+  "text": "Která výtka vůči ACE skóre je metodologicky nejzávažnější, pokud má být skóre použito jako screeningový nástroj u jednotlivce?",
+  "options": [
+   "Studie byla provedena jen v Kalifornii, což omezuje geografickou platnost",
+   "Retrospektivní dotazování dospělých na dětství snižuje spolehlivost vzpomínek",
+   "Populační gradient rizika má příliš nízkou predikční přesnost pro jedince",
+   "Kategorie nepokrývají chudobu, rasismus ani expozici komunitnímu násilí"
+  ],
+  "correct": 2,
+  "explanation": "Všechny uvedené výtky jsou reálné, ale pro screening je rozhodující ta třetí: silná asociace na úrovni populace se nepřevádí na spolehlivou individuální predikci, plocha pod křivkou je nízká a většina lidí s vysokým skóre daný následek nikdy nerozvine. Použití skóre jako individuální prognózy je forma ekologického klamu. Autoři ACE sami před tímto užitím varovali.",
+  "seedElo": 2200
+ },
+ {
+  "id": "vyv-B10",
+  "type": "V",
+  "category": "vyvoj",
+  "text": "Dvě děti ze stejné třídy prošly stejným rodičovským programem. U Kryštofa se chování zlepšilo výrazně nad průměr skupiny, u Denise se prakticky nezměnilo. Kryštof byl přitom před intervencí hodnocen jako nejdráždivější a nejreaktivnější. Které kritérium podporuje výklad diferenciální susceptibilitou spíše než modelem rizika?",
+  "options": [
+   "Kryštof měl horší výchozí stav, takže měl větší prostor pro zlepšení",
+   "Reaktivní děti profitují z dobrého prostředí víc, nejen že trpí špatným",
+   "Denis byl vůči intervenci odolný, což svědčí pro jeho vyšší resilienci",
+   "Rozdíl vzniká měřením, protože extrémní skóre regredují k průměru"
+  ],
+  "correct": 1,
+  "explanation": "Model diathesis-stress předpovídá u reaktivních dětí jen horší výsledky ve špatném prostředí. Diferenciální susceptibilita (Belsky, Ellis, Boyce) vyžaduje navíc opačné rameno: v podpůrném prostředí tytéž děti překonají méně reaktivní vrstevníky. Kritériem je tedy zkřížená interakce „k lepšímu i k horšímu\", ne pouhá velikost zlepšení. Regresi k průměru je přitom nutné vyloučit metodologicky.",
+  "seedElo": 2200
+ },
+ {
+  "id": "vyv-B12",
+  "type": "V",
+  "category": "vyvoj",
+  "text": "Které tvrzení nejlépe vystihuje současnou evidenci o krátkých attachment-based intervencích typu VIPP-SD nebo ABC?",
+  "options": [
+   "Účinné jsou hlavně dlouhé programy nad rok trvání s důrazem na vhled rodiče",
+   "Prokazatelně mění kategorii vazby, senzitivitu rodiče však ovlivňují málo",
+   "Efekt je omezen na rodiny bez sociálního rizika, jinde se neprojevuje",
+   "Krátké programy zaměřené na senzitivní chování mění chování rodiče spolehlivěji"
+  ],
+  "correct": 3,
+  "explanation": "Metaanalýzy Bakermans-Kranenburgové a van IJzendoorna vedly k závěru „less is more\": krátké, behaviorálně zacílené a videem podpořené programy (VIPP-SD, ABC) zvyšují senzitivitu rodiče se středním efektem. Posun v klasifikaci vazby dítěte bývá menší a nejistější, a u dezorganizace jsou výsledky smíšené. Delší a vhledově orientované programy nejsou automaticky účinnější.",
+  "seedElo": 2200
+ },
+ {
+  "id": "vyv-B19",
+  "type": "V",
+  "category": "vyvoj",
+  "text": "Při ambulantním vyšetření se po hlasitém zabouchnutí dveří čtrnáctiměsíční dívka rozejde k matce, v půli cesty ztuhne s rukama u těla, několik vteřin hledí do prázdna a pak se odvrátí ke zdi. Které pozorovatelné kritérium svědčí spíše pro dezorganizaci než pro vyhýbavou strategii?",
+  "options": [
+   "Zhroucení strategie uprostřed pohybu se ztuhnutím a nepřítomným pohledem",
+   "Odvrácení pozornosti od matky a zaměření se na neutrální část místnosti",
+   "Absence pláče a zjevného distresu při návratu pečující osoby do místnosti",
+   "Zpomalení pohybu k matce oproti běžnému tempu chůze u dítěte toho věku"
+  ],
+  "correct": 0,
+  "explanation": "Vyhýbavá vazba je organizovaná strategie: dítě konzistentně odklání pozornost od pečující osoby a udržuje ji na okolí. Dezorganizaci definuje Mainová a Solomonová jako zhroucení či rozpor strategie — ztuhnutí, znehybnění, disociativní pauzy, současné přibližování a únik. Rozhodující tedy není absence distresu, ale přerušení a nesourodost chování v okamžiku, kdy je vazebný systém aktivován.",
+  "seedElo": 2200
+ },
+ {
+  "id": "vyv-B22",
+  "type": "V",
+  "category": "vyvoj",
+  "text": "Pacient v terapii plynně mluví o svých „vzorcích attachmentu\" a „regulaci afektu\", sezení působí produktivně, ale mimo terapii se nic nemění a terapeut se přistihne, že se nudí. Které kritérium nejlépe podpírá pretend mode oproti skutečné mentalizaci?",
+  "options": [
+   "Odpojení mluvy o duševním od reálného prožitku a od změny v životě",
+   "Časté používání odborných pojmů, které pacient nasbíral četbou",
+   "Neschopnost pacienta připustit jinou perspektivu než svou vlastní",
+   "Silná emoční intenzita, se kterou pacient o svých stavech vypráví"
+  ],
+  "correct": 0,
+  "explanation": "Pretend mode není poznat podle slovníku, ale podle odpojení: reprezentace běží naprázdno, bez ukotvení v afektu a bez důsledků pro vnější realitu. Typickým vodítkem je právě protipřenosová nuda či pocit nekonečného hladkého povídání. Skutečná mentalizace bývá naopak kostrbatější, provázená nejistotou a vede k rozdílu, který je vidět mimo ordinaci.",
+  "seedElo": 2200
+ },
+ {
+  "id": "vyv-A10",
+  "type": "K",
+  "category": "vyvoj",
+  "text": "Jak dnes vypadá důkazní situace u kandidátních genů (například DRD4 nebo 5-HTTLPR) a dezorganizované vazby?",
+  "options": [
+   "Polymorfismus DRD4 je dnes uznán jako hlavní příčina dezorganizace nezávisle na jakémkoli chování pečující osoby",
+   "Genetické vlivy byly zcela vyloučeny, dezorganizace je vysvětlena pouze chováním pečující osoby",
+   "Kandidátní geny predikují dezorganizaci silněji než kterýkoli známý ukazatel rodičovského chování",
+   "Přímé efekty se v metaanalýzách neprokázaly spolehlivě, nálezy jsou nekonzistentní a replikace slabé"
+  ],
+  "correct": 3,
+  "explanation": "Jednotlivé studie interakcí gen–prostředí byly zpočátku nadějné, ale metaanalytická syntéza nepotvrdila robustní hlavní efekt kandidátních genů na klasifikaci vazby a řada nálezů se nereplikovala. Pole se posunulo k celogenomovým přístupům a k opatrnějším odhadům; dezorganizace zůstává primárně vztahovým fenoménem.",
+  "source": "Bakermans-Kranenburg & Van IJzendoorn, přehledy replikací",
+  "seedElo": 2250
+ },
+ {
+  "id": "vyv-A12",
+  "type": "F",
+  "category": "vyvoj",
+  "text": "Co ukázala metaanalýza Groha a kolegů o vztahu vazebné nejistoty a internalizujících symptomů?",
+  "options": [
+   "Vztah byl silnější než u externalizujících problémů a nesla jej hlavně dezorganizovaná klasifikace",
+   "Vztah nebyl nalezen vůbec; internalizující symptomy se ukázaly jako nezávislé na rané vazbě",
+   "Vztah byl malý, řádově kolem d 0,15, a dezorganizace k němu významně nepřispívala",
+   "Vztah byl srovnatelný s externalizujícím a plně vysvětlený souběžnou depresivitou matky"
+  ],
+  "correct": 2,
+  "explanation": "Groh a kolegové našli jen malý efekt vazebné nejistoty na internalizující symptomy, zřetelnější u vyhýbavosti; dezorganizace zde na rozdíl od externalizující domény samostatný přínos nevykázala. Vzniká tak asymetrický obraz: raná vazba předpovídá lépe potíže v regulaci vůči druhým než úzkostně-depresivní projevy.",
+  "source": "Groh, Roisman, Van IJzendoorn a kol., 2012",
+  "seedElo": 2250
+ },
+ {
+  "id": "vyv-A13",
+  "type": "K",
+  "category": "vyvoj",
+  "text": "Který model stability vazby nejlépe odpovídá metaanalytickým datům o vztahu mezi měřeními s dlouhým odstupem?",
+  "options": [
+   "Model úplné plasticity, podle nějž po několika letech mizí jakákoli souvislost s ranou klasifikací",
+   "Model kritického období, podle nějž je vazba po prvním roce života prakticky neměnná a uzavřená",
+   "Model náhodné fluktuace, podle nějž se klasifikace mění nezávisle na okolnostech i na minulosti",
+   "Prototypový model, v němž korelace s odstupem klesají, ale ustálí se na nenulové nízké úrovni"
+  ],
+  "correct": 3,
+  "explanation": "Fraleyho metaanalýza porovnala revizionistický model (vliv minulosti se postupně přepisuje k nule) s prototypovým (přetrvává trvalá, byť slabá stopa). Data lépe odpovídají prototypu: korelace s rostoucím odstupem klesají, ale k nule nedospějí. Stabilita je přitom výrazně nižší tam, kde do rodiny vstoupí velké stresory.",
+  "source": "Fraley, 2002; Waters a kol., 2000",
+  "seedElo": 2250
+ },
+ {
+  "id": "vyv-B04",
+  "type": "V",
+  "category": "vyvoj",
+  "text": "Které z tvrzení spojovaných s Besselem van der Kolkem má nejsilnější empirickou oporu?",
+  "options": [
+   "Traumatická paměť je uložena v těle mimo dosah jakéhokoli slovního zpracování",
+   "Jóga a neurofeedback jsou u PTSD prokazatelně účinnější než expoziční terapie",
+   "Tělesné vzpomínky lze při terapii spolehlivě odlišit od pozdějších rekonstrukcí",
+   "Chronické trauma se často projevuje dysregulací afektu a tělesnými příznaky"
+  ],
+  "correct": 3,
+  "explanation": "Dobře doložené je, že chronická interpersonální traumatizace se typicky projevuje poruchou regulace afektu, somatickými symptomy a dysregulací pozornosti — to je jádro konstruktu cPTSD. Naopak silná verze „tělesné paměti\" jako doslova uloženého a jinak nedostupného záznamu, nadřazenost jógy či neurofeedbacku nad trauma-fokusovanou terapií (kde jde spíše o adjuvantní postupy s menším efektem) a možnost odlišit tělesnou vzpomínku od rekonstrukce empirickou oporu nemají.",
+  "seedElo": 2250
+ },
+ {
+  "id": "vyv-B20",
+  "type": "V",
+  "category": "vyvoj",
+  "text": "Sedmiletý chlapec při společné konzultaci sleduje matčinu náladu, podá jí kapesník, komentuje, že vypadá unaveně, a jemně řídí, o čem se mluví. Matka působí bezradně a nechává se vést. Který popis nejlépe vystihuje pozorovaný vzorec?",
+  "options": [
+   "Kontrolující-trestající vzorec s ponižováním a příkazy vůči rodiči",
+   "Bezpečná vazba s časnou empatií odpovídající vývojové úrovni věku",
+   "Kontrolující-pečující vzorec jako pozdější podoba dezorganizace vazby",
+   "Ambivalentní vazba udržující pozornost rodiče stupňovaným distresem"
+  ],
+  "correct": 2,
+  "explanation": "Dezorganizace v batolecím věku se ve školním věku typicky reorganizuje do kontrolujícího chování vůči rodiči, které Mainová popsala ve dvou podobách: pečující (dítě rodiče opatruje, baví, řídí) a trestající (dítě rodiče ponižuje, komanduje). Rozlišujícím kritériem je tón a funkce převzaté role, ne samotná citlivost dítěte. Zdravá empatie se od kontroly liší tím, že dítě neudržuje rodičovskou funkci jako trvalý úkol.",
+  "seedElo": 2250
+ },
+ {
+  "id": "vyv-B23",
+  "type": "V",
+  "category": "vyvoj",
+  "text": "Muž po konfliktu trvá na tom, že jím kolegyně pohrdá; usvědčuje ji podle něj její výraz. Nabídku jiného vysvětlení prožívá jako popírání reality. Za dva dny o věci mluví s odstupem a připouští pochybnost. Které kritérium odlišuje psychickou ekvivalenci od paranoidního bludu?",
+  "options": [
+   "Přesvědčení je vázané na konkrétní osobu a netýká se širšího systému",
+   "Pacient si zachovává náhled na to, že jeho hodnocení může být mylné",
+   "Přesvědčení mizí samo bez jakéhokoli zásahu do několika minut po hádce",
+   "Jistota kolísá s emočním vzrušením a mimo afekt je opět zpochybnitelná"
+  ],
+  "correct": 3,
+  "explanation": "Psychická ekvivalence je stavová: v afektu splývá vnitřní reprezentace s realitou a alternativa je nemyslitelná, po odeznění vzrušení se schopnost pochybovat vrací. Blud je naproti tomu stabilní napříč afektivními stavy a odolný vůči změně kontextu. Rozlišujícím kritériem tedy není obsah ani ohraničenost tématu, ale závislost jistoty na aktuální emoční aktivaci.",
+  "seedElo": 2250
+ },
+ {
+  "id": "vyv-B28",
+  "type": "I",
+  "category": "vyvoj",
+  "text": "Pacientka na příjmu vyplní dotazník s ACE skóre 5. Kolega navrhuje na tom rovnou založit prognózu a indikovat intenzivní trauma-fokusovanou léčbu bez další rozvahy. Co je na tomto postupu odborně nejproblematičtější?",
+  "options": [
+   "ACE dotazník nebyl nikdy validován pro použití u dospělých pacientů",
+   "Skóre nerozlišuje jednotlivé kategorie, a proto nadhodnocuje zanedbání",
+   "Populační riziko se nepřenáší na jednotlivce, skóre neurčuje prognózu",
+   "Dotazník má být zadán až po stabilizaci, jinak zhoršuje stav pacienta"
+  ],
+  "correct": 2,
+  "explanation": "ACE skóre je epidemiologický nástroj: popisuje rozložení rizika ve velkých souborech, nikoli prognózu konkrétního člověka, a jeho individuální predikční přesnost je nízká. Skóre navíc váží velmi různorodé zkušenosti stejnou hodnotou a nezachycuje jejich závažnost, trvání ani ochranné faktory. Klinicky použitelná je jako podnět k rozhovoru a vodítko k dalšímu zjišťování, ne jako základ indikace.",
+  "seedElo": 2250
+ },
+ {
+  "id": "vyv-A02",
+  "type": "F",
+  "category": "vyvoj",
+  "text": "Které projevy patří mezi kategorie kódované škálou vyděšeného/děsícího chování rodiče (FR)?",
+  "options": [
+   "Zpožděné odpovědi na pláč, plochý afekt a nízká četnost vzájemného očního kontaktu s dítětem",
+   "Dravčí herní projevy, náhlé znehybnění s prázdným pohledem a úleková reakce na vlastní dítě",
+   "Nadměrná stimulace, direktivní vedení hry a soustavné přerušování iniciativy vycházející od dítěte",
+   "Kolísání mezi vřelostí a odtažitostí podle nálady a nedůsledné prosazování hranic v běžném dni"
+  ],
+  "correct": 1,
+  "explanation": "Systém FR kóduje mimo jiné disociativní a transovité stavy, ztuhnutí uprostřed pohybu, „dravčí“ přiblížení, ustupování před dítětem a přímé projevy úleku. Klíčové je, že nejde o hostilitu ani o nízkou senzitivitu, ale o momenty, kdy rodič vysílá signál poplachu bez zjevného vnějšího zdroje.",
+  "source": "Main & Hesse; Hesse & Main, 2006",
+  "seedElo": 2300
+ },
+ {
+  "id": "vyv-A05",
+  "type": "K",
+  "category": "vyvoj",
+  "text": "Co přesně označuje van IJzendoornova „transmission gap“ v transgeneračním přenosu vazby?",
+  "options": [
+   "Že vazba rodiče předpovídá vazbu dítěte jen v klinických, nikoli v běžných populačních vzorcích",
+   "Že souvislost mezi AAI rodiče a vazbou dítěte mizí, jakmile se kontroluje temperament dítěte",
+   "Že pozorovaná senzitivita rodiče vysvětluje jen menší část přenosu z AAI rodiče na vazbu dítěte",
+   "Že klasifikace v AAI se u téhož rodiče výrazně mění mezi narozením prvního a druhého dítěte"
+  ],
+  "correct": 2,
+  "explanation": "Metaanalýzy ukázaly silnou vazbu mezi AAI rodiče a klasifikací dítěte a zároveň jen střední souvislost senzitivity s jistotou vazby. Senzitivita tedy funguje jako mediátor jen zčásti a zbytek řetězce zůstává nevysvětlen. Kandidáty na doplnění jsou mentalizace, markované zrcadlení, kvalita komunikace či mikroregulace v dyádě.",
+  "source": "Van IJzendoorn, 1995; De Wolff & Van IJzendoorn, 1997",
+  "seedElo": 2300
+ },
+ {
+  "id": "vyv-B05",
+  "type": "V",
+  "category": "vyvoj",
+  "text": "Co ukazují lidská data o HPA ose po raném stresu ve srovnání s modely u hlodavců?",
+  "options": [
+   "U lidí i hlodavců je nález shodný: trvale zvýšená bazální hladina kortizolu",
+   "U lidí jsou nálezy nekonzistentní, hyper i hypokortizolismus dle kontextu",
+   "U lidí se dysregulace HPA osy opakovaně nepodařilo prokázat žádnou metodou",
+   "Lidská data ukazují jednotně sníženou reaktivitu kortizolu na sociální stres"
+  ],
+  "correct": 1,
+  "explanation": "U hlodavců lze ranou péči i stres experimentálně kontrolovat a nálezy jsou poměrně konzistentní. U lidí jsou data korelační a heterogenní: podle typu expozice, doby od ní, věku, pohlaví a psychopatologie se nachází zvýšená i snížená bazální hladina a zvýšená i otupená reaktivita. Zjednodušení „trauma trvale zvyšuje kortizol\" je tedy nadinterpretací.",
+  "seedElo": 2300
+ },
+ {
+  "id": "vyv-B21",
+  "type": "V",
+  "category": "vyvoj",
+  "text": "Pacientka opakovaně popisuje pocit, že je v ní „něco cizího, co jí kazí vztahy\". V hodinách narůstá tlak, aby terapeut prožíval bezmoc a vinu, a po sezeních, kdy se to podaří, se pacientce zřetelně uleví. Které kritérium nejlépe podporuje čtení přes alien self?",
+  "options": [
+   "Pacientka si po sezení vybaví více vzpomínek na dětské zážitky s matkou",
+   "Terapeut prožívá silné emoce, což ukazuje na běžný projektivní přenos",
+   "Úleva nastává až poté, co nesnesitelnou část prožívá druhý místo ní",
+   "Pacientka o cizí části mluví ve třetí osobě, tedy jde o disociaci"
+  ],
+  "correct": 2,
+  "explanation": "Fonagy a Targetová popisují alien self jako neasimilované části sebe, internalizované z nezrcadlících stavů pečující osoby. Jeho funkční znak je externalizace: teprve když druhý nese to nesnesitelné, klesá vnitřní tlak. Rozhodujícím kritériem tedy není intenzita terapeutových pocitů ani způsob řeči, ale opakovaná vazba mezi převzetím stavu druhým a úlevou pacientky.",
+  "seedElo": 2300
+ },
+ {
+  "id": "vyv-B24",
+  "type": "V",
+  "category": "vyvoj",
+  "text": "Pacient po roce terapie pozorně poslouchá, souhlasí, ale nic z toho, co v hodinách zazní, nepřenáší do života; opakovaně poznamená, že terapeut „to říká, protože je za to placený\". Které kritérium nejlépe vystihuje epistemickou nedůvěru podle Fonagyho?",
+  "options": [
+   "Pacient odmítá obsah sdělení, protože jej považuje za věcně nesprávný",
+   "Sdělení nejsou vnímána jako osobně relevantní, kanál k učení se uzavírá",
+   "Pacient se brání změně kvůli sekundárnímu zisku ze svých potíží v rodině",
+   "Pacient nemá slovník pro afekty, a proto sdělení nedokáže zpracovat"
+  ],
+  "correct": 1,
+  "explanation": "Epistemická důvěra je ochota přijímat informaci od druhého jako důvěryhodnou, relevantní a zobecnitelnou; otevírá ji ostenzivní signál, že mi druhý rozumí jako mysli. Při epistemické nedůvěře pacient obsah nerozporuje, ale nepovažuje ho za určený sobě, takže se neusadí a neprosákne do života. Kritériem je tedy zablokovaný přenos sociálního učení, ne nesouhlas ani deficit slovníku.",
+  "seedElo": 2300
+ },
+ {
+  "id": "vyv-A18",
+  "type": "K",
+  "category": "vyvoj",
+  "text": "K jakému závěru dospěla taxometrická analýza dat ze Strange Situation u Fraleyho a Spiekerové?",
+  "options": [
+   "Data podporují existenci právě tří přirozených typů, čtvrtá kategorie D je artefakt kódování",
+   "Data podporují existenci dvou latentních tříd, jisté a nejisté, bez dalšího smysluplného dělení",
+   "Data lépe odpovídají spojitým rozměrům než přirozeným kategoriím vazebné organizace",
+   "Data neumožňují žádný závěr, protože taxometrické metody nelze na chování kojenců použít"
+  ],
+  "correct": 2,
+  "explanation": "Fraley a Spiekerová reanalyzovali velký vzorek NICHD a zjistili, že variabilita v cizí situaci se lépe popíše dvěma spojitými rozměry (zhruba vyhýbání a úzkost či rezistence) než diskrétními typy. Kategorie zůstávají užitečnou zkratkou pro klinickou komunikaci, ale nemají doloženou povahu přirozených druhů.",
+  "source": "Fraley & Spieker, 2003",
+  "seedElo": 2350
+ },
+ {
+  "id": "vyv-A24",
+  "type": "K",
+  "category": "vyvoj",
+  "text": "Které tři komunikační systémy popisují Fonagy a Allison jako mechanismus účinku psychoterapie?",
+  "options": [
+   "Přenos, protipřenos a odpor jako tři kanály, jimiž se do terapie dostává pacientova minulost",
+   "Nevědomé, předvědomé a vědomé sdělení, jejichž postupné propojení tvoří jádro léčebné změny",
+   "Předání obsahu modelu mysli, obnovení mentalizace a otevření učení ze sociálního světa mimo terapii",
+   "Verbální, neverbální a tělesně prožívaná rovina sdělení, jež musí být v souladu, aby vznikla důvěra"
+  ],
+  "correct": 2,
+  "explanation": "První systém předává důvěryhodný model mysli a hlavně signalizuje pacientovi, že je viděn. To ve druhém systému obnovuje mentalizaci a snižuje epistemickou ostražitost. Třetí a rozhodující krok je salutogenní: pacient začne přijímat poznatky i mimo ordinaci, takže dlouhodobě neléčí terapie, ale znovuotevřené sociální prostředí.",
+  "source": "Fonagy & Allison, 2014; Fonagy, Campbell & Luyten",
+  "seedElo": 2350
+ },
+ {
+  "id": "vyv-A28",
+  "type": "K",
+  "category": "vyvoj",
+  "text": "Co říká Beebeové model středního pásma (midrange) o vztahu mezi kontingencí v dyádě a dezorganizací vazby?",
+  "options": [
+   "Riziko roste lineárně s klesající kontingencí, takže nejvyšší je při naprosté absenci odpovědí",
+   "Riziko roste na obou koncích: při nízké i při nadměrně vysoké vzájemné kontingenci v dyádě",
+   "Riziko nesouvisí s kontingencí, nýbrž pouze s množstvím vzájemného očního kontaktu ve výměně",
+   "Riziko je nejvyšší uprostřed rozpětí, protože průměrná kontingence dítěti neposkytuje vodítka"
+  ],
+  "correct": 1,
+  "explanation": "Mikroanalýzy videa ukázaly, že optimální je střední pásmo koordinace: ponechává prostor pro nesoulad i pro jeho reparaci. Příliš nízká kontingence znamená nedostupnost, příliš vysoká zase ostražité sledování či vpád do prostoru dítěte. Beebeová obojí spojuje se čtyřměsíčními prediktory pozdější dezorganizace.",
+  "source": "Beebe a kol., 2010; Jaffe, Beebe a kol., 2001",
+  "seedElo": 2350
+ },
+ {
+  "id": "vyv-B11",
+  "type": "I",
+  "category": "vyvoj",
+  "text": "Co lze o epigenetice a traumatu u lidí považovat za doložené a co je nadinterpretací?",
+  "options": [
+   "Doložené jsou korelace metylace s expozicí; mezigenerační kauzalita doložená není",
+   "Doložený je přenos metylačních značek přes tři generace lidských potomků",
+   "Doloženo je, že metylace NR3C1 spolehlivě predikuje PTSD u jednotlivce",
+   "Meaneyho výsledky u potkanů byly u lidí replikovány v randomizovaných studiích"
+  ],
+  "correct": 0,
+  "explanation": "U lidí existují opakované, ale často malé a nekonzistentně replikované asociace mezi ranou adverzitou a metylací genů jako NR3C1 nebo FKBP5. Yehudiny nálezy u potomků přeživších holokaust jsou korelační, na malých vzorcích a nedokáží oddělit biologický přenos od sdíleného prostředí a rodičovského chování. Meaneyho práce u potkanů je experimentální a u člověka ji takto replikovat nelze; tvrzení o „zděděném traumatu v genech\" jsou proto předběhnutá.",
+  "seedElo": 2350
  }
 ]

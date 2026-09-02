@@ -1,0 +1,450 @@
+[
+  {
+    "id": "vyz-B01",
+    "type": "E",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Terapeut pracuje v obci s osmi sty obyvateli. Nová klientka je matkou spolužáka jeho dcery a setkávání ve škole je nevyhnutelné. Co je z hlediska profesní etiky nejpřiměřenější postup?",
+    "options": [
+      "Pojmenovat překryv rolí předem, dohodnout pravidla kontaktu mimo ordinaci a téma průběžně revidovat",
+      "Zakázku odmítnout, protože jakýkoli mimoterapeutický kontakt představuje porušení hranic vztahu",
+      "Zakázku přijmout a o překryvu rolí nemluvit, aby se klientka zbytečně necítila nepohodlně",
+      "Přijmout ji jen tehdy, pokud se obě strany písemně zavážou, že se ve škole nebudou zdravit"
+    ],
+    "correct": 0,
+    "explanation": "V malých komunitách jsou nevyhnutelné duální kontakty spíše pravidlem než výjimkou; etické kodexy je proto neřeší plošným zákazem, ale požadavkem předvídat je, minimalizovat riziko újmy a explicitně o nich mluvit. Plošné odmítnutí by v praxi znamenalo odepření péče, plošné mlčení zase přenechává riziko klientce.",
+    "source": "APA Ethical Principles, std. 3.05; Schank & Skovholt, Ethical Practice in Small Communities, 2006",
+    "seedElo": 1900
+  },
+  {
+    "id": "vyz-B02",
+    "type": "E",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Klient v dlouhodobé terapii přestal po ztrátě zaměstnání platit a dluží za čtyři sezení. Co je z hlediska profesní etiky nejméně obhajitelné?",
+    "options": [
+      "Snížit dočasně honorář a znovu projednat rámec i splatnost plateb jako terapeutické téma",
+      "Ukončit terapii okamžitě na konci sezení, bez rozhovoru o ukončení a bez doporučení dál",
+      "Ukončit spolupráci po předchozím projednání, s nabídkou několika sezení a kontaktů na jinou péči",
+      "Zachovat terapii beze změny a s klientem otevřít, co dluh znamená v jeho vztahové historii"
+    ],
+    "correct": 1,
+    "explanation": "Ukončení pro neplacení není samo o sobě neetické, ale nesmí mít podobu opuštění klienta. Kodexy vyžadují, aby byl konec předem projednán, aby klient dostal prostor a odkazy na navazující péči, a aby byl zvážen aktuální stav a riziko. Náhlé ukončení bez těchto kroků naplňuje pojem abandonment.",
+    "source": "APA Ethical Principles, std. 10.09 a 10.10; Younggren & Gottlieb, 2008",
+    "seedElo": 2050
+  },
+  {
+    "id": "vyz-B03",
+    "type": "E",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Ve výcvikovém institutu je frekventantův osobní terapeut zároveň členem komise, která rozhoduje o jeho postupu do další fáze výcviku. Kde je jádro etického problému?",
+    "options": [
+      "V tom, že osobní terapie ve výcviku má být vždy hrazena institutem, nikoli frekventantem",
+      "V tom, že terapeut nemůže současně poskytovat terapii a docházet na vlastní supervizi",
+      "V mocenské asymetrii, která omezuje frekventantovu svobodu otevřít nejzranitelnější materiál",
+      "V tom, že frekventant nemůže mít nad rámec osobní terapie ještě samostatného supervizora"
+    ],
+    "correct": 2,
+    "explanation": "Problém není v samotné existenci výcvikové terapie, ale ve spojení léčebné a hodnotící role: frekventant, jehož odhalení může ovlivnit jeho kariéru, se učí selektovat. Řada institutů proto zavedla oddělení výcvikového terapeuta od hodnotících orgánů, tzv. non-reporting model. Zbylé varianty popisují uspořádání, která sama o sobě problematická nejsou.",
+    "source": "Kernberg, Thirty Methods to Destroy the Creativity of Psychoanalytic Candidates, 1996",
+    "seedElo": 2200
+  },
+  {
+    "id": "vyz-B04",
+    "type": "E",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Supervidovaný ve výcviku vede terapii, v níž dojde k vážnému poškození klienta. Jak se v běžném etickém a právním rámci liší formální supervize od kolegiální konzultace?",
+    "options": [
+      "V obou případech nese plnou odpovědnost jen ten, kdo s klientem v sezeních reálně pracoval",
+      "V obou případech je odpovědnost automaticky sdílena rovným dílem mezi oběma odborníky",
+      "Konzultant nese odpovědnost vždy, supervizor jen tehdy, pokud sezení osobně nahrával",
+      "Supervizor nese spoluodpovědnost za vedenou péči, konzultant dává jen nezávazné stanovisko"
+    ],
+    "correct": 3,
+    "explanation": "Formální supervize výcvikového pracovníka zahrnuje dohled i odpovědnost za vedenou péči, včetně povinnosti sledovat rizika a případně zasáhnout. Konzultace je naproti tomu poradou mezi rovnými, kde odpovědnost zůstává tazateli. Zaměňování obou režimů je jedním z nejčastějších zdrojů sporů o odpovědnost.",
+    "source": "Falender & Shafranske, Clinical Supervision, 2004; APA Guidelines for Clinical Supervision, 2014",
+    "seedElo": 2200
+  },
+  {
+    "id": "vyz-B05",
+    "type": "E",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Patnáctiletá klientka dochází na terapii na přání rodičů. Otec žádá po každém sezení shrnutí. Co odpovídá etickému standardu práce s nezletilými?",
+    "options": [
+      "Rozsah sdílení s rodiči dohodnout se všemi na začátku a v tomto rámci chránit obsah sezení",
+      "Rodičům předávat úplný obsah sezení, protože nezletilá nemůže být nositelem mlčenlivosti",
+      "Rodičům nesdělovat vůbec nic, protože mlčenlivost dospívajícího nemá žádné zákonné výjimky",
+      "Nechat rozhodnutí o každém jednotlivém sdělení výhradně na aktuální náladě dospívající klientky"
+    ],
+    "correct": 0,
+    "explanation": "Klientem je dítě, ale zákonní zástupci mají práva i legitimní zájem na informacích, takže se řeší spíš rámec než absolutní pravidlo. Standardem je dohoda na počátku: rodiče dostávají obecný rámec o průběhu a rizicích, obsah sezení zůstává chráněn, výjimkou je ohrožení. Předem dohodnutý režim chrání jak terapii, tak terapeuta.",
+    "source": "Koocher & Keith-Spiegel, Ethics in Psychology and the Mental Health Professions, 2016",
+    "seedElo": 1850
+  },
+  {
+    "id": "vyz-B06",
+    "type": "E",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Terapeut působící v ČR nabízí videosezení klientce, která se přestěhovala do jiné země. Který aspekt je z hlediska profesní etiky nejzávažnější a nejčastěji přehlížený?",
+    "options": [
+      "Že videohovor technicky neumožňuje sledovat neverbální projevy a terapie tím ztrácí účinnost",
+      "Že rozhodující je právní řád a systém oprávnění místa, kde se klient při sezení nachází",
+      "Že online terapii lze podle většiny kodexů poskytovat výhradně jako krizovou intervenci",
+      "Že mlčenlivost při přeshraničním hovoru zaniká, protože data putují přes cizí servery"
+    ],
+    "correct": 1,
+    "explanation": "Jurisdikce se u telezdravotních služeb odvíjí od místa pobytu klienta, ne poskytovatele, takže přesun klienta do zahraničí může znamenat, že terapeut pracuje bez platného oprávnění a bez krytí pojištěním. Řeší se to ověřením místních pravidel, případně předáním do místní péče. Ostatní varianty jsou buď nepřesné, nebo nemají oporu v kodexech.",
+    "source": "APA Guidelines for the Practice of Telepsychology, 2013",
+    "seedElo": 2050
+  },
+  {
+    "id": "vyz-B07",
+    "type": "E",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Klient žádá o nahlédnutí do dokumentace, kterou o něm terapeut vede. Co je z hlediska profesní etiky a české právní úpravy nejpřesnější?",
+    "options": [
+      "Dokumentaci lze zpřístupnit až po skončení terapie a jen prostřednictvím jiného odborníka",
+      "Nahlížení lze odmítnout, pokud terapeut usoudí, že by jej obsah zápisů mohl rozrušit",
+      "Pacient má právo do své zdravotnické dokumentace nahlížet a pořizovat si z ní kopie",
+      "Právo nahlížet mají výhradně orgány činné v trestním řízení a revizní lékaři pojišťovny"
+    ],
+    "correct": 2,
+    "explanation": "Zákon o zdravotních službách (č. 372/2011 Sb.) zakotvuje právo pacienta nahlížet do vlastní zdravotnické dokumentace a pořizovat si výpisy či kopie. Praktickým důsledkem je, že zápisy je třeba psát tak, aby obstály před čtenářem, jímž je klient sám: věcně, bez spekulací a bez zbytných údajů o třetích osobách.",
+    "source": "Zákon č. 372/2011 Sb., o zdravotních službách, § 65",
+    "seedElo": 2150
+  },
+  {
+    "id": "vyz-B08",
+    "type": "E",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Terapeut chce nahrávat sezení pro účely vlastní supervize. Která podmínka bývá v praxi opomíjena nejčastěji, ačkoli ji etika vyžaduje?",
+    "options": [
+      "Nahrávat je možné jen tehdy, když supervizor sám nahrávku nikdy neuvidí ani neuslyší",
+      "Klient musí být předem seznámen s tím, že nahrávky nelze za žádných okolností smazat",
+      "Nahrávání je přípustné pouze u klientů, kteří jsou v terapii déle než dvanáct měsíců",
+      "Souhlas je odvolatelný a klient musí vědět, kde se záznam uchovává a kdy bude smazán"
+    ],
+    "correct": 3,
+    "explanation": "Souhlas s nahráváním není jednorázový podpis, ale proces: klient má vědět účel, okruh osob se přístupem, způsob zabezpečení a lhůtu skartace, a smí souhlas kdykoli odvolat bez dopadu na péči. Právě údaje o uchování a možnosti odvolání se z formulářů nejčastěji vytrácejí.",
+    "source": "APA Ethical Principles, std. 4.03 a 6.02; GDPR čl. 7 odst. 3",
+    "seedElo": 2150
+  },
+  {
+    "id": "vyz-B09",
+    "type": "E",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Terapeut chce zařadit vlastní klienty do studie účinnosti své metody. Který etický problém je zde specifický a nejzávažnější?",
+    "options": [
+      "Dvojí role výzkumníka a terapeuta ohrožuje dobrovolnost souhlasu i objektivitu hodnocení výsledku",
+      "Studie na vlastních klientech nemůže nikdy dosáhnout dostatečné statistické síly pro publikaci",
+      "Výzkum v klinické praxi vždy vyžaduje randomizaci s pasivní kontrolní skupinou bez léčby",
+      "Klienti v terapii nejsou schopni porozumět povaze výzkumu, a proto nemohou dát souhlas"
+    ],
+    "correct": 0,
+    "explanation": "Klient je závislý na terapeutovi pro svou péči, takže odmítnutí účasti může vnímat jako riskantní, a terapeut je zároveň zaujatý hodnotitel vlastní práce. Standardní opatření jsou proto oddělení osoby získávající souhlas, hodnocení výsledků nezávislým posuzovatelem a výslovná záruka, že odmítnutí nijak neovlivní péči.",
+    "source": "Appelbaum et al., therapeutic misconception, 1987; Deklarace z Helsinek",
+    "seedElo": 2100
+  },
+  {
+    "id": "vyz-B10",
+    "type": "E",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Kolega opakovaně přichází na sezení pod vlivem alkoholu; klienti si zatím nestěžovali. Jak vypadá postup odpovídající struktuře etických kodexů?",
+    "options": [
+      "Vyčkat, dokud nepodá stížnost některý z klientů, protože bez ní jde o pouhou domněnku",
+      "Zkusit nejprve řešení přímým rozhovorem s kolegou a při trvajícím riziku podat podnět komoře",
+      "Podat anonymní podnět do médií, aby vznikl veřejný tlak na profesní organizaci a instituci",
+      "Neřešit nic, protože povinnost mlčenlivosti brání sdělit cokoli o práci jiného odborníka"
+    ],
+    "correct": 1,
+    "explanation": "Kodexy obvykle stupňují reakci: pokud je to možné a nehrozí porušení mlčenlivosti klientů, řeší se věc nejprve neformálně s dotyčným, a teprve při přetrvávajícím riziku vážné újmy formálním podnětem. Čekání na stížnost klienta přenáší ochranu na nejzranitelnější stranu a odpovědnosti nezbavuje.",
+    "source": "APA Ethical Principles, std. 1.04 a 1.05",
+    "seedElo": 2150
+  },
+  {
+    "id": "vyz-B11",
+    "type": "E",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Gabbard formuloval zásady pro publikování kazuistik. Který závěr nejlépe vystihuje jeho stanovisko ke kombinaci souhlasu a zkreslení údajů?",
+    "options": [
+      "Souhlas činí jakékoli zkreslení údajů nadbytečným, protože klient nese odpovědnost za své rozhodnutí",
+      "Zkreslení je vždy neetické, protože poškozuje vědeckou hodnotu sdělení pro odbornou obec",
+      "Souhlas i zkreslení mají vlastní rizika a autor si musí vědomě zvolit strategii i cenu, kterou platí",
+      "Postačí odstranit jméno a bydliště, ostatní klinické údaje lze ponechat zcela beze změny"
+    ],
+    "correct": 2,
+    "explanation": "Gabbard ukazuje, že vyžádání souhlasu vstupuje do přenosu a klient jej může dát z podřízenosti, zatímco důsledné zkreslení chrání identitu, ale mění klinický materiál. Doporučuje proto vědomou volbu jedné strategie, nejčastěji důkladné zkreslení nebo kompozitní kazuistiku, nikoli mechanické odstranění jména.",
+    "source": "Gabbard, Disguise or Consent, Int. J. Psychoanal., 2000",
+    "seedElo": 2350
+  },
+  {
+    "id": "vyz-B12",
+    "type": "E",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Kodexy se rozcházejí v pohledu na nesexuální kontakt s bývalým klientem po ukončení terapie. Čím se psychoanalytická pozice liší od obecně psychologické?",
+    "options": [
+      "Psychoanalytická pozice nesexuální kontakt výslovně doporučuje jako přirozený závěr procesu",
+      "Obecně psychologické kodexy jakýkoli kontakt s bývalým klientem zakazují bez časového omezení",
+      "Obě pozice se shodují, že po formálním ukončení terapie žádná omezení nadále neplatí",
+      "Psychoanalytická pozice předpokládá, že přenos nezaniká, takže asymetrie vztahu trvá i po ukončení"
+    ],
+    "correct": 3,
+    "explanation": "Psychologické kodexy pracují spíš s posouzením rizika újmy a časovým odstupem, zatímco psychoanalytická tradice vychází z premisy, že přenosový vztah nekončí posledním sezením a bývalý analytik zůstává vnitřní figurou. Z toho plyne mnohem zdrženlivější postoj k pozdějším rolím ve vztahu ke klientovi.",
+    "source": "Gabbard & Lester, Boundaries and Boundary Violations in Psychoanalysis, 1995",
+    "seedElo": 2300
+  },
+  {
+    "id": "vyz-B13",
+    "type": "E",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Terapeut prochází vlastní těžkou životní krizí a přistihuje se, že na sezeních opakovaně ztrácí pozornost. Co odpovídá standardu profesní odpovědnosti?",
+    "options": [
+      "Vyhledat konzultaci či vlastní terapii a podle jejího výsledku omezit nebo pozastavit klinickou práci",
+      "Pokračovat beze změny, protože přiznat oslabení by narušilo důvěru klientů v terapeutovu stabilitu",
+      "Sdělit všem klientům podrobnosti své krize, aby rozuměli změnám v jeho pozornosti a ladění",
+      "Zvýšit počet sezení, protože pravidelná práce s klienty je pro terapeuta nejlepší formou úzdravy"
+    ],
+    "correct": 0,
+    "explanation": "Kodexy zavádějí pojem oslabené způsobilosti (impairment) a ukládají povinnost rozpoznat, kdy osobní obtíže brání kompetentnímu výkonu, vyhledat pomoc a případně práci omezit. Sebepéče zde není soukromou ctností, ale profesní povinností, protože riziko nese klient.",
+    "source": "APA Ethical Principles, std. 2.06; Barnett et al., Self-care, 2007",
+    "seedElo": 2200
+  },
+  {
+    "id": "vyz-B14",
+    "type": "E",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Terapeut je požádán soudem o znalecký posudek na svého dlouhodobého klienta v opatrovnickém sporu. Co je z hlediska profesní etiky nejvhodnější?",
+    "options": [
+      "Posudek zpracovat, protože nikdo jiný klienta nezná tak dobře a soud potřebuje kvalitní podklad",
+      "Roli znalce odmítnout a nabídnout nejvýše faktickou zprávu v rozsahu zproštění mlčenlivosti",
+      "Posudek zpracovat, ale předem s klientem dohodnout, které závěry v něm budou uvedeny",
+      "Ukončit terapii, přijmout roli znalce a po odevzdání posudku terapii znovu obnovit"
+    ],
+    "correct": 1,
+    "explanation": "Ošetřující a znalecká role mají odlišný závazek: terapeut je vázán prospěchem klienta a pracuje s jeho subjektivní výpovědí, znalec slouží soudu a musí ověřovat data z více zdrojů. Spojení obou rolí ohrožuje terapii i objektivitu posudku, proto se doporučuje roli znalce odmítnout a poskytnout pouze faktickou zprávu.",
+    "source": "Greenberg & Shuman, Irreconcilable Conflict Between Therapeutic and Forensic Roles, 1997",
+    "seedElo": 2250
+  },
+  {
+    "id": "vyz-B15",
+    "type": "F",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Berlínský psychoanalytický institut, vzniklý kolem polikliniky založené roku 1920, prosadil model výcviku, který se stal mezinárodním standardem. Z čeho se skládal?",
+    "options": [
+      "Z veřejné přednáškové série, závěrečné zkoušky a doživotního členství v místní společnosti",
+      "Ze studia u jednoho učitele, jeho písemného doporučení a obhajoby teoretické práce",
+      "Z osobní analýzy kandidáta, teoretického kurikula a supervidované práce s vlastními případy",
+      "Z lékařského vzdělání, roční stáže na klinice a samostatné analýzy vlastních snů"
+    ],
+    "correct": 2,
+    "explanation": "Takzvaný berlínský model, spojený především s Maxem Eitingonem, zavedl tripartitní strukturu: tréninkovou analýzu, systematickou teorii a supervidované případy. IPA jej v polovině dvacátých let přijala jako standard a v jeho jádru přetrvává dodnes. Poliklinika navíc od roku 1920 nabízela bezplatnou analýzu nemajetným.",
+    "source": "Eitingon, zpráva o výcviku, IPA kongres 1925; Danto, Freud's Free Clinics, 2005",
+    "seedElo": 2000
+  },
+  {
+    "id": "vyz-B16",
+    "type": "F",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Spor o laickou analýzu měl v USA jiný průběh než v Evropě. Co nejlépe vystihuje americkou situaci?",
+    "options": [
+      "Americká společnost laickou analýzu podporovala, zatímco Freud v roce 1926 žádal lékařský monopol",
+      "Otázka nikdy nebyla sporná, protože Freud sám požadoval lékařské vzdělání pro všechny analytiky",
+      "IPA laickou analýzu zakázala celosvětově a americké společnosti byly jediné, které ji tolerovaly",
+      "Americká psychoanalýza trvala na lékařském vzdělání a nelékařům se otevřela až koncem osmdesátých let"
+    ],
+    "correct": 3,
+    "explanation": "Freud v práci Otázka laické analýzy (1926) hájil právo nelékařů analyzovat, americká psychoanalytická obec však prosadila požadavek lékařského diplomu a psychiatrické atestace. Restrikce padla až po soudním sporu psychologů, urovnaném koncem osmdesátých let, který otevřel výcvik i nelékařům.",
+    "source": "Freud, Die Frage der Laienanalyse, 1926; Wallerstein, Lay Analysis, 1998",
+    "seedElo": 2250
+  },
+  {
+    "id": "vyz-B17",
+    "type": "F",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Co se dělo v takzvaném Göringově institutu, založeném v Berlíně roku 1936?",
+    "options": [
+      "Psychoterapeutické školy tam pod dohledem režimu koexistovaly a nežidovští analytici pracovali dál",
+      "Šlo o čistě výzkumné pracoviště bez klinického provozu, kde se testovaly dědičné teorie duševních nemocí",
+      "Instituce psychoterapii jako takovou zakázala a věnovala se výhradně neurologické a somatické léčbě",
+      "Byl to exilový institut, kam se po roce 1936 přesunula většina emigrujících vídeňských analytiků"
+    ],
+    "correct": 0,
+    "explanation": "Německý institut pro psychologický výzkum a psychoterapii, vedený Matthiasem Heinrichem Göringem, sdružoval adlerovce, jungiány a neoanalytiky; židovští analytici byli vyloučeni a psychoanalytická terminologie potlačena, ale klinická práce pokračovala, včetně zakázek pro armádu a průmysl. Diskuse o míře kolaborace a přizpůsobení trvá dodnes.",
+    "source": "Cocks, Psychotherapy in the Third Reich: The Göring Institute, 1985",
+    "seedElo": 2250
+  },
+  {
+    "id": "vyz-B18",
+    "type": "F",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Ferencziho Klinický deník z roku 1932 vyšel tiskem až v osmdesátých letech. Co je jeho hlavním obsahem?",
+    "options": [
+      "Systematický výklad techniky volných asociací určený jako učebnice pro kandidáty výcviku",
+      "Sebekritický záznam experimentů s technikou, nezdaru vzájemné analýzy a upřímnosti analytika",
+      "Polemika s Kleinovou o dětské technice a obhajoba klasické interpretace přenosu u dětí",
+      "Sbírka kazuistik dokládajících převahu hypnózy nad analytickou prací s odporem u traumatu"
+    ],
+    "correct": 1,
+    "explanation": "Deník zachycuje Ferencziho pokusy o vzájemnou analýzu, jeho reflexi jejich neúspěchu a úvahy o profesním pokrytectví analytika, které navazují na přednášku o zmatení jazyků z téhož roku. Jeho pozdní vydání přispělo k rehabilitaci Ferencziho jako předchůdce relační a intersubjektivní tradice.",
+    "source": "Ferenczi, The Clinical Diary (ed. Dupont), angl. 1988; přednáška Confusion of Tongues, 1932",
+    "seedElo": 2300
+  },
+  {
+    "id": "vyz-B19",
+    "type": "F",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Jeffrey Masson vyvolal roku 1984 spor knihou o Freudově opuštění teorie svádění. Co tvrdil a jaká byla převažující odborná reakce?",
+    "options": [
+      "Tvrdil, že Freud teorii svádění nikdy neopustil, a historici mu dali za pravdu na základě korespondence",
+      "Tvrdil, že teorii svádění vymyslel Fliess, a obor toto autorství postupně přijal za prokázané",
+      "Tvrdil, že Freud opustil teorii ze zbabělosti vůči kolegům, a odborná obec to označila za zjednodušení",
+      "Tvrdil, že Freud teorii opustil na základě nových dat o dětství, což bylo přijato bez výhrad"
+    ],
+    "correct": 2,
+    "explanation": "Masson, tehdejší ředitel projektů Freudova archivu, v knize The Assault on Truth tvrdil, že Freud reálné zneužívání znal a teorii obětoval kvůli profesnímu tlaku. Kritici mu vytkli selektivní práci s prameny a přehlížení Freudova teoretického vývoje, spor však oboru připomněl, jak dlouho podceňoval realitu sexuálního zneužívání.",
+    "source": "Masson, The Assault on Truth, 1984; kritiky Gay, Schimek, Malcolm",
+    "seedElo": 2300
+  },
+  {
+    "id": "vyz-B20",
+    "type": "F",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Jak probíhal Lacanův rozchod s mezinárodní psychoanalytickou institucí?",
+    "options": [
+      "Nikdy nebyl členem IPA, protože jeho pařížský výcvik nebyl od počátku mezinárodně uznán za platný",
+      "IPA jej vyloučila roku 1953 kvůli publikaci Écrits a on hned poté založil vlastní pařížskou společnost",
+      "Sám z IPA vystoupil roku 1964 na protest proti americké medikalizaci a lékařskému monopolu ve výcviku",
+      "Roku 1953 odešel z pařížské společnosti, roku 1963 pozbyl statut výcvikového analytika a založil vlastní školu"
+    ],
+    "correct": 3,
+    "explanation": "Po rozkolu roku 1953 vznikla Société française de psychanalyse, jejíž přijetí do IPA bylo roku 1963 podmíněno tím, že Lacan přestane být výcvikovým analytikem, mimo jiné kvůli sezením proměnlivé délky. V lednu 1964 založil École freudienne de Paris, kterou sám roku 1980 rozpustil.",
+    "source": "Roudinesco, Jacques Lacan & Co., 1990",
+    "seedElo": 2350
+  },
+  {
+    "id": "vyz-B21",
+    "type": "F",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Franco Basaglia je spojen s italskou psychiatrickou reformou. Co se v Itálii roku 1978 stalo?",
+    "options": [
+      "Zákon č. 180 zastavil nová přijetí do psychiatrických léčeben a přesunul péči do komunitních služeb",
+      "Zákon zavedl povinnou psychoterapii pro všechny pacienty propuštěné z psychiatrických léčeben",
+      "Byla založena první italská psychoanalytická společnost, která převzala správu velkých léčeben",
+      "Vláda zakázala podávání neuroleptik v ústavní péči a nahradila je terapeutickými komunitami"
+    ],
+    "correct": 0,
+    "explanation": "Zákon 180, zvaný podle Basagliy, zakázal nová přijetí do velkých psychiatrických nemocnic a přesunul péči do komunitních center a oddělení všeobecných nemocnic. Jeho naplňování se region od regionu lišilo, ale Terst se stal referenčním modelem deinstitucionalizace, na který se odkazuje dodnes.",
+    "source": "Basaglia, L'istituzione negata, 1968; italský zákon č. 180/1978",
+    "seedElo": 1950
+  },
+  {
+    "id": "vyz-B22",
+    "type": "I",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Jaký je nejlépe doložený souhrnný výsledek americké deinstitucionalizace navazující na zákon o komunitních centrech duševního zdraví z roku 1963?",
+    "options": [
+      "Počet lůžek klesl a slíbená komunitní síť byla podle původního plánu plně vybudována a financována",
+      "Počet lůžek klesl, komunitní služby zůstaly poddimenzované a část lidí skončila ve vězení a bez domova",
+      "Počet lůžek se prakticky nezměnil, protože zákon nebyl nikdy provázen skutečným financováním",
+      "Počet lůžek klesl a míra bezdomovectví i uvěznění osob s psychózou zároveň setrvale klesala"
+    ],
+    "correct": 1,
+    "explanation": "Lůžková kapacita státních psychiatrických nemocnic v USA se od padesátých let propadla o více než devadesát procent, avšak federální financování komunitních center nikdy nedosáhlo plánované úrovně. Důsledkem je transinstitucionalizace: přesun značné části populace do vězeňského systému a mezi lidi bez domova.",
+    "source": "Community Mental Health Act, 1963; Torrey, American Psychosis, 2013",
+    "seedElo": 2100
+  },
+  {
+    "id": "vyz-B23",
+    "type": "I",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Zavedení chlorpromazinu do psychiatrie na počátku padesátých let mělo pro psychoterapii nepřímé důsledky. Který popis je nejpřesnější?",
+    "options": [
+      "Psychoterapie se stala dominantní léčbou psychóz, protože léky umožnily analytickou práci na lůžku",
+      "Farmaka nahradila psychoterapii ve všech diagnózách a psychoterapeutický výzkum na desetiletí ustal",
+      "Posílilo biologický jazyk oboru a psychoterapie musela prokazovat účinnost podle lékového modelu",
+      "Zavedení léků nemělo na postavení psychoterapie žádný doložitelný institucionální ani ekonomický vliv"
+    ],
+    "correct": 2,
+    "explanation": "Delay a Deniker referovali o chlorpromazinu roku 1952 a úspěch farmak posunul těžiště psychiatrie k biologickému modelu, k diagnostickým kritériím typu DSM-III a k financování podle měřitelných výsledků. Psychoterapie na to reagovala manualizací a randomizovanými studiemi, tedy převzetím metodologie lékového výzkumu.",
+    "source": "Delay & Deniker, 1952; Shorter, A History of Psychiatry, 1997",
+    "seedElo": 2150
+  },
+  {
+    "id": "vyz-B24",
+    "type": "F",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Co přivedlo Aarona Becka k odklonu od psychoanalytického výkladu deprese?",
+    "options": [
+      "Zjištění, že antidepresiva působí rychleji než jakákoli forma dlouhodobé psychoterapie deprese",
+      "Osobní analýza, v níž nenašel u sebe potvrzení hypotézy o agresi obrácené proti vlastní osobě",
+      "Nesouhlas s Ellisem, který jej přesvědčil o nadřazenosti přímé disputace iracionálních přesvědčení",
+      "Výzkum snů depresivních pacientů, v nichž místo obrácené hostility nacházel témata ztráty a selhání"
+    ],
+    "correct": 3,
+    "explanation": "Beck původně chtěl psychoanalytickou hypotézu o depresi jako hostilitě obrácené dovnitř empiricky doložit, jeho data o snech a kognici ji však nepotvrdila. Místo toho popsal opakující se negativní obsahy o vlastní osobě, světě a budoucnosti, z nichž vyrostla kognitivní triáda a kognitivní terapie deprese.",
+    "source": "Beck, Depression: Clinical, Experimental and Theoretical Aspects, 1967",
+    "seedElo": 1900
+  },
+  {
+    "id": "vyz-B25",
+    "type": "I",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Hovoří-li se o třech vlnách behaviorální a kognitivní tradice, co odlišuje třetí vlnu od druhé?",
+    "options": [
+      "Těžiště se přesouvá od změny obsahu myšlenek ke změně vztahu k prožívání, k přijetí a kontextu",
+      "Třetí vlna opouští empirické ověřování a vrací se k interpretaci nevědomých konfliktů",
+      "Třetí vlna se liší jen delším trváním terapie a důrazem na domácí úkoly mezi sezeními",
+      "Druhá vlna pracovala s přijetím a všímavostí, zatímco třetí zavedla restrukturaci schémat"
+    ],
+    "correct": 0,
+    "explanation": "První vlna byla behaviorální, druhá kognitivní s důrazem na testování a změnu obsahu myšlenek, třetí vlna (ACT, DBT, MBCT) cílí na funkci a kontext prožívání a pracuje s přijetím, defúzí a všímavostí. Nejde o opuštění empirie, ale o jinou teorii změny.",
+    "source": "Hayes, Acceptance and Commitment Therapy a pojem třetí vlny, 2004",
+    "seedElo": 2000
+  },
+  {
+    "id": "vyz-B26",
+    "type": "F",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Která dvojice správně spojuje směr rodinné terapie s jeho charakteristickým přínosem?",
+    "options": [
+      "Milánská škola zavedla pojem dvojné vazby, zatímco skupina v Palo Alto formulovala strukturální mapování rodiny",
+      "Skupina v Palo Alto přinesla teorii dvojné vazby, milánská škola cirkulární dotazování a neutralitu terapeuta",
+      "Minuchin vypracoval techniku pozitivní konotace, milánská škola pak práci s rodinnými hranicemi a koalicemi",
+      "Milánská škola vytvořila strukturální terapii, Minuchin komunikační teorii rodinné homeostázy a paradoxu"
+    ],
+    "correct": 1,
+    "explanation": "Batesonova skupina v Palo Alto publikovala teorii dvojné vazby roku 1956 a rozpracovala komunikační pohled na rodinu. Milánský tým kolem Selvini Palazzoli přišel s pozitivní konotací, paradoxem a později s hypotetizováním, cirkularitou a neutralitou. Strukturální terapii s prací na hranicích a koalicích rozvinul Minuchin.",
+    "source": "Bateson et al., Toward a Theory of Schizophrenia, 1956; Selvini Palazzoli et al., 1980",
+    "seedElo": 2050
+  },
+  {
+    "id": "vyz-B27",
+    "type": "I",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Co ukázaly takzvané dismantling studie u EMDR ohledně sporu o mechanismus účinku?",
+    "options": [
+      "Prokázaly, že bez očních pohybů metoda nemá žádný účinek přesahující pouhé čekání na zlepšení",
+      "Prokázaly, že oční pohyby jsou jediným aktivním prvkem a expoziční složka je klinicky bezvýznamná",
+      "Metoda účinná je, avšak přidaná hodnota samotných bilaterálních očních pohybů se opakovaně nepotvrdila",
+      "Metoda se ukázala jako neúčinná u posttraumatické poruchy a byla z doporučených postupů vyřazena"
+    ],
+    "correct": 2,
+    "explanation": "EMDR, kterou Francine Shapiro popsala na konci osmdesátých let, patří mezi doporučované postupy u posttraumatické stresové poruchy. Studie odstraňující jednotlivé komponenty však opakovaně ukazují, že účinek nese hlavně opakovaná expozice traumatické vzpomínce a její zpracování, zatímco specifický přínos očních pohybů zůstává sporný.",
+    "source": "Shapiro, 1989; Davidson & Parker, metaanalýza, 2001",
+    "seedElo": 2100
+  },
+  {
+    "id": "vyz-B28",
+    "type": "I",
+    "category": "vyzkum-etika-dejiny",
+    "text": "Menningerův projekt výzkumu psychoterapie, shrnutý Wallersteinem v knize Forty-Two Lives in Treatment, přinesl závěr, který zaskočil analytickou obec. Který to byl?",
+    "options": [
+      "Že žádná z forem terapie nevedla u sledovaných pacientů k měřitelné a trvalé změně",
+      "Že expresivní analytická práce přinesla trvalou změnu, zatímco podpůrná terapie efekt neměla",
+      "Že výsledek závisel výhradně na diagnóze pacienta a nikoli na použité formě terapie",
+      "Že podpůrné složky přinášely více změny, než se čekalo, a výsledky obou modalit se sbližovaly"
+    ],
+    "correct": 3,
+    "explanation": "Projekt zahájený v padesátých letech sledoval dvaačtyřicet pacientů v psychoanalýze a psychoterapii. Wallerstein došel k tomu, že podpůrné intervence vedly k podstatnějším a trvalejším změnám, než teorie připouštěla, a že rozdíl mezi expresivní a podpůrnou linií je v praxi méně ostrý než v učebnicích.",
+    "source": "Wallerstein, Forty-Two Lives in Treatment, 1986",
+    "seedElo": 2200
+  }
+]

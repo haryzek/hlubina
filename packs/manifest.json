@@ -43,16 +43,16 @@
   "id": "vyvoj",
   "file": "vyvoj.json",
   "title": "Vývojové teorie",
-  "count": 45,
-  "version": 1,
+  "count": 100,
+  "version": 2,
   "obor": "psychoanalyza"
  },
  {
   "id": "vyzkum",
   "file": "vyzkum.json",
   "title": "Výzkum, etika, dějiny",
-  "count": 47,
-  "version": 1,
+  "count": 100,
+  "version": 2,
   "obor": "psychoanalyza"
  },
  {

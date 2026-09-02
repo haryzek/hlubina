@@ -112,11 +112,20 @@ Cíl: **každý balíček rovných 100 otázek**. Postup na jeden balíček:
    v manifestu. **Co neprojde, se zahazuje, neopravuje.**
 5. `node tools/validate.mjs` → bump SW → commit → push → ověřit deploy.
 
-**Hotovo 2026-09-02: všech 14 balíčků nových oborů má 100 otázek** —
-obory přírodní vědy, filosofie, vědomí a mysl i general jsou kompletní
-(1843 otázek celkem). Zbývá už jen **psychoanalýza**: dorovnat 7 balíčků
-(48/50/50/45/45/45/47) na 100 s kalibrací **2100** (tvrdá vlna — Bobovo
-Elo 2069, sondáž ukázala 75 % na pásmu 1850–2150) a knihy v režimu LITE.
+**HOTOVO 2026-09-02: stovkový závazek splněn — všech 21 balíčků má 100
+otázek** (+ sondáž 77 a Kernberg 36 = **2158 otázek**). Kompletní obory:
+psychoanalýza, přírodní vědy, filosofie, vědomí a mysl, general.
+
+Tvrdá vlna psychoanalýzy (kalibrace **2100**, rozptyl 1850–2350) přidala
+do každého ze 7 balíčků ~52 expertních otázek: pozdní a málo čtené
+koncepty (Green, Laplanche, Bionovo O, Balint, Meltzer, Steiner, Britton,
+Sandler, Loewald, relační obrat, Boston CPSG), jemné diferenciální
+vignety, techniku dle úrovně organizace, etiku hranic, attachment
+research a metodologii výzkumu. Ztrátovost verifikací byla nízká
+(0–2 z 56 per dávka), anti-tell u tvrdé vlny nejlepší z celé produkce.
+
+Zbývá: knihy v režimu LITE (Kernberg 2018 kap. 3–13, Kernberg 1975,
+TFP Guide 2014, McWilliams) a položky z nápadníku.
 
 ## Kalibrace hlavní generace (z odehraných sondáží, 2026-09-01)
 
