@@ -3,16 +3,16 @@
   "id": "obrany",
   "file": "obrany.json",
   "title": "Obrany",
-  "count": 48,
-  "version": 1,
+  "count": 100,
+  "version": 2,
   "obor": "psychoanalyza"
  },
  {
   "id": "prenos",
   "file": "prenos.json",
   "title": "Přenos a technika",
-  "count": 50,
-  "version": 1,
+  "count": 100,
+  "version": 2,
   "obor": "psychoanalyza"
  },
  {

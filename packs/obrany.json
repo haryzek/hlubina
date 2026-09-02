@@ -1,19 +1,51 @@
 [
  {
-  "id": "obr-001",
+  "id": "obr-009",
   "type": "V",
   "category": "obrany",
-  "text": "Klientka v terapii opakovaně nedokáže vybavit žádnou vzpomínku na období rozvodu rodičů, přestože jí tehdy bylo dvanáct let a sourozenci si období pamatují detailně. Když se terapeutka tématu dotkne, klientka upřímně říká, že si 'prostě nic nevybavuje', a působí zmateně, nikoli vyhýbavě. Který obranný mechanismus je z hlediska psychodynamického porozumění nejpravděpodobnějším vysvětlením?",
+  "text": "Muž, který nezískal vytoužené povýšení, večer doma vysvětluje, že o tu pozici 'vlastně vůbec nestál' — znamenala by víc byrokracie, horší kolektiv a méně času na rodinu. Před vyhlášením výsledku přitom o pozici mluvil s nadšením a připravoval se na ni měsíce. Který mechanismus z hlediska psychodynamického porozumění jeho večerní výklad nejlépe vystihuje?",
   "options": [
-   "Popření — klientka odmítá uznat, že se rozvod stal",
-   "Disociace — klientka během rozvodu opustila kontakt s realitou",
-   "Vytěsnění — nepřijatelné vzpomínky a afekty byly aktivně odsunuty mimo vědomí",
-   "Racionalizace — klientka si vytvořila přijatelné vysvětlení své amnézie"
+   "Racionalizace — nepřijatelné zklamání je nahrazeno přijatelným, zdánlivě rozumným vysvětlením",
+   "Popření — muž odmítá vzít na vědomí, že povýšení nezískal",
+   "Devalvace — muž znehodnocuje kolegu, který pozici získal",
+   "Reaktivní výtvor — touha po povýšení se mění ve své opačné prožívání"
+  ],
+  "correct": 0,
+  "explanation": "Racionalizace je klasické 'kyselé hrozny': skutečný motiv (zklamání, zraněná ctižádost) je nahrazen společensky i vnitřně přijatelným zdůvodněním, které zní logicky. Popření by znamenalo neuznat samotný fakt neúspěchu, který muž uznává. Devalvace zde míří na pozici, ne na osobu, a je nástrojem racionalizace, nikoli jádrem vzorce; reaktivní výtvor by vyžadoval trvalejší přeměnu přání v opak na úrovni afektu, ne jen vysvětlení po prohře.",
+  "source": "Obecná psychoanalytická literatura; srov. Vaillant, G. E.: Adaptation to Life (1977)",
+  "seedElo": 1300
+ },
+ {
+  "id": "obr-016",
+  "type": "V",
+  "category": "obrany",
+  "text": "Sedmiletý chlapec, dosud samostatný, začne po narození sestry znovu mluvit šišlavě, vyžaduje krmení lžičkou a v noci se pomočuje, přestože byl dva roky suchý. Rodiče jsou bezradní, vývojově ani zdravotně se nic jiného nezměnilo. Který mechanismus z hlediska psychodynamického porozumění chování nejlépe vystihuje?",
+  "options": [
+   "Acting out — chlapec odehrává žárlivost vůči sestře v chování",
+   "Regrese — pod tíhou konfliktu se chlapec vrací k dřívějším, již opuštěným vývojovým způsobům fungování",
+   "Identifikace — chlapec se ztotožňuje s novorozenou sestrou",
+   "Somatizace — psychický konflikt se vyjadřuje pomočováním"
+  ],
+  "correct": 1,
+  "explanation": "Regrese je návrat k vývojově dřívějším, už překonaným způsobům uspokojení a fungování ve chvíli, kdy aktuální konflikt (ztráta výlučné pozice) přesahuje kapacitu dítěte — šišlání, krmení i enuréza jsou přesně takové návraty. Identifikace se sestrou je možná dílčí motiv, ale nevystihuje obranný charakter celého vzorce. Acting out popisuje odehrání nevědomého konfliktu v impulzivním jednání, ne návrat na dřívější vývojovou úroveň; somatizace by pokryla jen pomočování.",
+  "source": "A. Freudová: Já a obranné mechanismy (1936); obecná vývojová psychopatologie",
+  "seedElo": 1300
+ },
+ {
+  "id": "obr-038",
+  "type": "F",
+  "category": "obrany",
+  "text": "Kdo poprvé systematicky katalogizoval obranné mechanismy já v samostatné monografii a ve kterém díle?",
+  "options": [
+   "Sigmund Freud ve Výkladu snů (1900)",
+   "Melanie Kleinová v Závisti a vděčnosti (1957)",
+   "Anna Freudová v knize Já a obranné mechanismy (1936)",
+   "George Vaillant v Adaptation to Life (1977)"
   ],
   "correct": 2,
-  "explanation": "Vytěsnění (represe) je motivované zapomenutí: obsah byl kdysi vědomý, ale je aktivně držen mimo vědomí, takže subjekt zažívá upřímnou mezeru v paměti. Popření by znamenalo neuznávat samotný fakt rozvodu, což klientka dělá — ví, že proběhl. Disociace by se typicky projevila spíše aktuálními stavy odpojení než izolovanou dětskou amnézií a racionalizace by vyžadovala ospravedlňující vysvětlení, které klientka nenabízí.",
-  "source": "McWilliams, N.: Psychoanalytická diagnóza (1994/2015), kap. Obranné mechanismy — represe",
-  "seedElo": 1450
+  "explanation": "Sigmund Freud pojem obrany zavedl a průběžně popsal řadu jednotlivých mechanismů, ale první systematickou monografii jim věnovala až Anna Freudová: Das Ich und die Abwehrmechanismen (1936) katalogizuje mechanismy včetně nově popsané identifikace s agresorem a přesouvá těžiště analýzy z ono na já. Kleinová rozpracovala rané obrany (štěpení, projektivní identifikaci), ale ne formou katalogu; Vaillant o čtyři dekády později přidal empirickou hierarchii a longitudinální data.",
+  "source": "Freudová, A.: Já a obranné mechanismy (1936)",
+  "seedElo": 1300
  },
  {
   "id": "obr-002",
@@ -29,6 +61,54 @@
   "correct": 0,
   "explanation": "Popření operuje na rovině vnímání reality: ohrožující fakt je znám (muž o diagnóze slyšel), ale jeho význam a důsledky jsou odmítány, což je pro okolí zjevné. Vytěsnění by znamenalo, že si diagnózu vůbec nevybavuje. Sublimace by vyžadovala tvořivé zpracování konfliktu, ne jeho ignorování, a izolace afektu by připouštěla fakta při odpojení emocí — muž ale zpochybňuje samotná fakta.",
   "source": "McWilliams, N.: Psychoanalytická diagnóza (1994/2015), kap. Primární obranné procesy",
+  "seedElo": 1350
+ },
+ {
+  "id": "obr-022",
+  "type": "V",
+  "category": "obrany",
+  "text": "Úředník po ponižující poradě, na níž ho nadřízený před kolegy zesměšnil, mlčky přikyvoval a omlouval se. Doma večer bez zjevného důvodu vybuchne kvůli neuklizené aktovce na syna a seřve psa, který mu přišel naproti. Který mechanismus z hlediska psychodynamického porozumění večerní scénu nejlépe vystihuje?",
+  "options": [
+   "Acting out — úředník odehrává nevědomý konflikt s autoritou",
+   "Identifikace s agresorem — úředník doma opakuje šéfovo ponižování",
+   "Regrese — úředník se pod stresem chová dětsky",
+   "Přemístění — afekt je odkloněn z ohrožujícího objektu na bezpečnější náhradní cíle"
+  ],
+  "correct": 3,
+  "explanation": "Přemístění mění adresu afektu: agrese, kterou nebylo bezpečné namířit na nadřízeného, se vybíjí na hierarchicky 'bezpečnějších' cílech — dítěti a psovi — při zachování původní emoce. Identifikace s agresorem je lákavý distraktor, ale vyžadovala by strukturální přejetí agresorovy role a stylu (ponižování před publikem jako vzorec), ne jednorázový odklon afektu. Acting out je širší pojem pro odehrání nesymbolizovaného konfliktu a regrese by znamenala návrat k vývojově dřívějšímu fungování.",
+  "source": "A. Freudová: Já a obranné mechanismy (1936); obecná psychoanalytická literatura",
+  "seedElo": 1350
+ },
+ {
+  "id": "obr-035",
+  "type": "F",
+  "category": "obrany",
+  "text": "Které mechanismy řadí George Vaillant ve své hierarchii mezi zralé obrany?",
+  "options": [
+   "Intelektualizace, racionalizace, izolace afektu, přemístění",
+   "Sublimace, altruismus, humor, suprese a anticipace",
+   "Popření, štěpení, projekce, disociace",
+   "Vytěsnění, reaktivní výtvor, odčinění, regrese"
+  ],
+  "correct": 1,
+  "explanation": "Vaillantova čtyřstupňová hierarchie (psychotické — nezralé — neurotické — zralé) řadí na vrchol pětici sublimace, altruismus, humor, suprese a anticipace: obrany, které realitu neruší, ale umožňují ji tvořivě unést. První distraktor vyjmenovává neurotické obrany, třetí psychotické a nezralé, čtvrtý směs neurotických. V Grant Study Vaillant doložil, že převaha zralých obran predikuje dlouhodobé zdraví a životní spokojenost.",
+  "source": "Vaillant, G. E.: Adaptation to Life (1977); Vaillant, G. E.: The Wisdom of the Ego (1993)",
+  "seedElo": 1350
+ },
+ {
+  "id": "obr-047",
+  "type": "E",
+  "category": "obrany",
+  "text": "Student psychoterapie shrnuje látku: 'Obranné mechanismy popsala psychoanalýza jako nevědomé strategie zvládání úzkosti. Každý člověk nějaké obrany používá. Obrany jsou ze své podstaty patologické, a cílem zdravého vývoje je proto obran se zcela zbavit. Vaillant ukázal, že obrany lze řadit podle zralosti.' Které tvrzení je z hlediska psychodynamické teorie chybné?",
+  "options": [
+   "Že obranné mechanismy jsou nevědomé strategie zvládání úzkosti",
+   "Že obrany používá každý člověk",
+   "Že Vaillant řadil obrany podle zralosti",
+   "Že obrany jsou ze své podstaty patologické a cílem vývoje je zbavit se jich"
+  ],
+  "correct": 3,
+  "explanation": "Obrany jsou normální a nezbytnou výbavou psychiky — chrání před zahlcením a umožňují adaptaci; McWilliams zdůrazňuje, že 'obranný' charakter je věcí pozorovatele, pro subjekt jde prostě o způsob bytí ve světě. Patologie nespočívá v přítomnosti obran, ale v jejich rigiditě, nezralosti a nepřiléhavosti situaci; cílem vývoje i terapie je flexibilnější a zralejší obranný repertoár, ne psychika bez obran. Ostatní tři tvrzení odpovídají standardní teorii.",
+  "source": "McWilliams, N.: Psychoanalytická diagnóza (1994/2015), úvod ke kap. o obranách; Vaillant, G. E. (1977)",
   "seedElo": 1350
  },
  {
@@ -49,22 +129,6 @@
   "deepDive": "Štěpení (splitting) popsala Melanie Klein jako základní operaci paranoidně-schizoidní pozice: nemluvně drží 'dobrý' a 'špatný' prs odděleně, aby ochránilo dobrou zkušenost před zničením agresí. Kernberg z něj udělal diagnostický pilíř — u hraniční organizace osobnosti štěpení nahrazuje vytěsnění jako centrální obranu a vysvětluje nestabilitu vztahů i identity. Klinicky se pozná právě podle **celostního překlápění** obrazu druhých i sebe a podle toho, že pacient rozpor mezi oběma obrazy necítí jako problém. Integrace štěpených reprezentací je pak jedním z hlavních cílů psychodynamické léčby hraničních stavů (TFP)."
  },
  {
-  "id": "obr-004",
-  "type": "V",
-  "category": "obrany",
-  "text": "Terapeut si během sezení s klientkou, která mluví klidně a spolupracujícím tónem, všimne, že v něm narůstá nezvyklá, těžko vysvětlitelná zlost a nutkání klientku sarkasticky usadit — pocit, který u sebe v práci téměř nezná. Klientka sama žádnou zlost nepopisuje ani neprojevuje. Které porozumění situaci je z hlediska psychodynamického myšlení nejpřiléhavější?",
-  "options": [
-   "Terapeutův acting out — terapeut odehrává vlastní nezpracovaný konflikt",
-   "Prostá projekce klientky — klientka terapeutovi připisuje zlost, kterou u sebe nevidí",
-   "Terapeutova identifikace s agresorem — terapeut přejímá roli útočníka z vlastní historie",
-   "Projektivní identifikace — klientka nevědomě evokuje v terapeutovi odštěpený afekt, který sama nemůže unést"
-  ],
-  "correct": 3,
-  "explanation": "Klíčovým vodítkem je, že terapeut reálně prožívá cizorodý afekt, který neodpovídá jeho obvyklému fungování — to je interpersonální 'tlak' typický pro projektivní identifikaci, kde příjemce je nevědomě nucen odštěpený obsah skutečně pocítit. U prosté projekce by klientka zlost připisovala terapeutovi, ale on by ji prožívat nemusel. Acting out ani identifikace s agresorem nevysvětlují, proč se afekt objevuje právě s touto klientkou a je pro terapeuta netypický.",
-  "source": "Ogden, T. H.: Projective Identification and Psychotherapeutic Technique (1982)",
-  "seedElo": 1650
- },
- {
   "id": "obr-005",
   "type": "V",
   "category": "obrany",
@@ -81,6 +145,102 @@
   "seedElo": 1400
  },
  {
+  "id": "obr-008",
+  "type": "V",
+  "category": "obrany",
+  "text": "Klientka, které se právě rozpadlo dlouholeté manželství, tráví sezení přednáškami o attachmentové teorii, statistikách rozvodovosti a evolučních základech párové vazby. Mluví zasvěceně a ráda o tématu diskutuje, ale kdykoli se terapeut zeptá, jak se jí rozpad vztahu dotýká, vrátí se k další teorii. Který mechanismus z hlediska psychodynamického porozumění vzorec nejlépe vystihuje?",
+  "options": [
+   "Racionalizace — klientka si zdůvodňuje, proč je rozvod vlastně dobře",
+   "Intelektualizace — bolestivé téma je drženo v bezpečné vzdálenosti abstraktním teoretizováním",
+   "Sublimace — klientka přetváří bolest v hodnotný intelektuální zájem",
+   "Odčinění — přednáškami symbolicky ruší svůj podíl na rozpadu vztahu"
+  ],
+  "correct": 1,
+  "explanation": "Intelektualizace udržuje kontakt s tématem, ale na abstraktní, obecné rovině, která chrání před osobním afektem — klientka o vztazích mluví neustále, jen nikdy o svém prožitku. Racionalizace by nabízela ospravedlňující vysvětlení ('je to tak lepší'), které vinětka neobsahuje. Sublimace předpokládá skutečné tvořivé zpracování s uvolněním, ne obranné vyhýbání, a odčinění by mělo strukturu magického rušení viny konkrétním aktem.",
+  "source": "Vaillant, G. E.: Adaptation to Life (1977); McWilliams, N.: Psychoanalytická diagnóza (1994/2015)",
+  "seedElo": 1400
+ },
+ {
+  "id": "obr-012",
+  "type": "V",
+  "category": "obrany",
+  "text": "Klientka s historií opakovaného násilí v dětství popisuje, že když na ni partner zvýší hlas, 'odpluje' — vnímá scénu jakoby zpoza skla, tělo má necitlivé, čas se deformuje a část hádky si pak nedokáže vybavit. Mimo tyto situace funguje bez obtíží. Který mechanismus z hlediska psychodynamického porozumění prožitek nejlépe vystihuje?",
+  "options": [
+   "Vytěsnění — vzpomínky na hádky jsou dodatečně odsunuty z vědomí",
+   "Izolace afektu — klientka je při hádkách odpojena od emocí",
+   "Regrese — klientka se pod stresem vrací k dětskému způsobu fungování",
+   "Disociace — vědomí, vnímání a paměť se za ohrožení odpojují od integrovaného prožívání"
+  ],
+  "correct": 3,
+  "explanation": "Derealizace ('zpoza skla'), tělesná necitlivost, zkreslení času a následná amnézie jsou klasické znaky disociace — celostní alterace vědomí, typicky navázaná na traumatickou historii a spouštěnou podnětem připomínajícím ohrožení. Vytěsnění by vysvětlilo mezeru v paměti, ale ne změněný stav vědomí v reálném čase. Izolace afektu ponechává vnímání i paměť intaktní a odpojuje jen emoci; regrese by se projevila dětským chováním, ne odpojením od prožívání.",
+  "source": "McWilliams, N.: Psychoanalytická diagnóza (1994/2015), kap. Disociace; Putnam, F. W. (1997)",
+  "seedElo": 1400
+ },
+ {
+  "id": "obr-017",
+  "type": "V",
+  "category": "obrany",
+  "text": "Klientka opakovaně přichází k lékařům s bolestmi žaludku, tlakem na hrudi a závratěmi; rozsáhlá vyšetření nenacházejí organickou příčinu. V terapii se ukazuje, že obtíže se zhoršují vždy po kontaktu s autoritářským otcem, ale klientka spojení odmítá — o otci mluví neutrálně a trvá na tom, že problém je 'čistě tělesný'. Který mechanismus z hlediska psychodynamického porozumění nejlépe vystihuje, co se děje?",
+  "options": [
+   "Somatizace — psychický konflikt a nezpracovaný afekt se vyjadřují tělesnými symptomy",
+   "Hypochondrie — klientka úzkostně interpretuje běžné tělesné počitky",
+   "Regrese — klientka se nemocí vrací do role opečovávaného dítěte",
+   "Izolace afektu — klientka mluví o otci bez emocí"
+  ],
+  "correct": 0,
+  "explanation": "Somatizace znamená, že afekt, který nemůže být prožit a symbolizován psychicky, nachází výraz v těle — časová vazba obtíží na kontakt s otcem při současném popírání psychické roviny je pro ni typická. Hypochondrie je úzkostná interpretace počitků, ne jejich produkce konfliktem. Regrese do role nemocného by mohla být sekundárním ziskem, ale nevysvětluje mechanismus vzniku symptomů; izolace afektu je zde přítomna jen jako doprovodný rys řeči o otci, ne jako jádro.",
+  "source": "McWilliams, N.: Psychoanalytická diagnóza (1994/2015), kap. Somatizace; McDougall, J.: Theatres of the Body (1989)",
+  "seedElo": 1400
+ },
+ {
+  "id": "obr-027",
+  "type": "K",
+  "category": "obrany",
+  "text": "Jaký je klíčový rozdíl mezi supresí (potlačením) a represí (vytěsněním)?",
+  "options": [
+   "Suprese se týká vzpomínek, represe emocí",
+   "Represe je zralá obrana, suprese primitivní",
+   "Jde o dva názvy téhož mechanismu v různých překladech",
+   "Suprese je vědomé, záměrné odložení obsahu na později, represe je nevědomé odsunutí obsahu mimo dosah vědomí"
+  ],
+  "correct": 3,
+  "explanation": "Suprese je jediný z klasických mechanismů operující vědomě: subjekt obsah zná a záměrně ho odkládá ('teď na to nebudu myslet, vrátím se k tomu po zkoušce') — proto ji Vaillant řadí mezi zralé, adaptivní obrany. Represe probíhá bez vědomé účasti a obsah se stává nepřístupným, což se klinicky projeví mezerou, symptomem či deriváty. Hierarchie je tedy opačná, než tvrdí druhý distraktor, a rozdíl neleží v typu obsahu, nýbrž ve vědomé kontrole a přístupnosti.",
+  "source": "Vaillant, G. E.: Adaptation to Life (1977); McWilliams, N.: Psychoanalytická diagnóza (1994/2015)",
+  "seedElo": 1400
+ },
+ {
+  "id": "obr-039",
+  "type": "F",
+  "category": "obrany",
+  "text": "Se kterou vývojovou pozicí spojuje Melanie Kleinová štěpení jako centrální obrannou operaci?",
+  "options": [
+   "S depresivní pozicí",
+   "S oidipskou fází",
+   "Se separačně-individuační fází",
+   "S paranoidně-schizoidní pozicí"
+  ],
+  "correct": 3,
+  "explanation": "V paranoidně-schizoidní pozici (Klein, 1946) chrání nezralé já dobrou zkušenost před vlastní agresí tím, že objekt i self štěpí na idealizované a persekuční části; k tomu patří projektivní identifikace a persekuční úzkost. Depresivní pozice je naopak stadiem integrace — dítě poznává, že milovaný a nenáviděný objekt je týž, a úzkost persekuční střídá úzkost depresivní (starost o objekt). Oidipská fáze je freudovský koncept a separace-individuace pochází od Mahlerové.",
+  "source": "Klein, M.: Notes on Some Schizoid Mechanisms (1946)",
+  "seedElo": 1400
+ },
+ {
+  "id": "obr-001",
+  "type": "V",
+  "category": "obrany",
+  "text": "Klientka v terapii opakovaně nedokáže vybavit žádnou vzpomínku na období rozvodu rodičů, přestože jí tehdy bylo dvanáct let a sourozenci si období pamatují detailně. Když se terapeutka tématu dotkne, klientka upřímně říká, že si 'prostě nic nevybavuje', a působí zmateně, nikoli vyhýbavě. Který obranný mechanismus je z hlediska psychodynamického porozumění nejpravděpodobnějším vysvětlením?",
+  "options": [
+   "Popření — klientka odmítá uznat, že se rozvod stal",
+   "Disociace — klientka během rozvodu opustila kontakt s realitou",
+   "Vytěsnění — nepřijatelné vzpomínky a afekty byly aktivně odsunuty mimo vědomí",
+   "Racionalizace — klientka si vytvořila přijatelné vysvětlení své amnézie"
+  ],
+  "correct": 2,
+  "explanation": "Vytěsnění (represe) je motivované zapomenutí: obsah byl kdysi vědomý, ale je aktivně držen mimo vědomí, takže subjekt zažívá upřímnou mezeru v paměti. Popření by znamenalo neuznávat samotný fakt rozvodu, což klientka dělá — ví, že proběhl. Disociace by se typicky projevila spíše aktuálními stavy odpojení než izolovanou dětskou amnézií a racionalizace by vyžadovala ospravedlňující vysvětlení, které klientka nenabízí.",
+  "source": "McWilliams, N.: Psychoanalytická diagnóza (1994/2015), kap. Obranné mechanismy — represe",
+  "seedElo": 1450
+ },
+ {
   "id": "obr-006",
   "type": "V",
   "category": "obrany",
@@ -94,6 +254,70 @@
   "correct": 2,
   "explanation": "Introjekce znamená, že vnější objekt (zde kritizující matka) je 'vzat dovnitř' a jeho hlas je prožíván jako vlastní — přesně to klientka popisuje. Identifikace s agresorem by se projevila spíše aktivním přejetím agresorovy role vůči druhým, což vinětka neukazuje. Racionalizace by vysvětlovala obsah kritiky, ne její vznik, a projekce jde přesně opačným směrem — zevnitř ven.",
   "source": "McWilliams, N.: Psychoanalytická diagnóza (1994/2015), kap. Introjekce; Freud, S.: Truchlení a melancholie (1917)",
+  "seedElo": 1450
+ },
+ {
+  "id": "obr-013",
+  "type": "V",
+  "category": "obrany",
+  "text": "Klient ve třetím sezení prohlašuje, že jeho terapeutka je 'jediný člověk, který mu kdy skutečně rozuměl', jistě 'nejlepší odbornice v zemi', a že vedle ní všichni předchozí terapeuti byli šarlatáni. Terapeutka cítí lichotivé pokušení i nejasný neklid — tuší, jak snadno se může obraz překlopit. Který mechanismus z hlediska psychodynamického porozumění klientův postoj nejlépe vystihuje?",
+  "options": [
+   "Introjekce — klient přijímá terapeutku jako vnitřní dobrý objekt",
+   "Zralá vděčnost — projev nosné pracovní aliance",
+   "Primitivní idealizace — terapeutka je obsazena jako všemocný dokonalý objekt, s implicitní devalvací ostatních",
+   "Reaktivní výtvor — klient přeměňuje nedůvěru k terapeutce v obdiv"
+  ],
+  "correct": 2,
+  "explanation": "Primitivní idealizace přisuzuje objektu dokonalost a všemoc, aby chránila před úzkostí ze závislosti na omylném druhém; jejím podpisem je zde extrémnost, časná fáze vztahu a párová devalvace ostatních terapeutů — rub téže mince. Zralá vděčnost by unesla terapeutčinu omylnost a nepotřebovala by srovnání. Introjekce popisuje zvnitřnění, ne přehnané obsazení vnějšího objektu, a pro reaktivní výtvor chybí doklad původní hostility právě vůči terapeutce.",
+  "source": "Kernberg, O. F.: Borderline Conditions and Pathological Narcissism (1975); McWilliams, N.: Psychoanalytická diagnóza (1994/2015)",
+  "seedElo": 1450
+ },
+ {
+  "id": "obr-019",
+  "type": "V",
+  "category": "obrany",
+  "text": "Chirurška v terapii s humorem popisuje, že si jako dítě všimla vlastní fascinace 'řezáním a krví' a děsila se, co to o ní vypovídá. Dnes tuto energii plně vkládá do operování, které ji naplňuje, je v něm vynikající a agresivní impulzy ji mimo sál netrápí. Z hlediska Vaillantovy hierarchie obran — který mechanismus vzorec nejlépe vystihuje?",
+  "options": [
+   "Reaktivní výtvor — agresivní impulz je přeměněn v opak, v péči o pacienty",
+   "Izolace afektu — chirurška operuje díky odpojení od emocí",
+   "Intelektualizace — fascinace je zpracována medicínským věděním",
+   "Sublimace — nepřijatelný impulz je přesměrován do společensky hodnotné činnosti, v níž dochází i k reálnému uspokojení"
+  ],
+  "correct": 3,
+  "explanation": "Sublimace je u Vaillanta vrcholně zralá obrana: původní impulz není potlačen ani obrácen, ale kanalizován do tvořivé či prospěšné činnosti, v níž se skutečně (byť přetvořené) uspokojuje — chirurška svou fascinaci žije, těší ji a nikomu neškodí. Reaktivní výtvor by impulz přeměnil v úzkostné opozitum s rigidní kvalitou, ne v jeho kultivované naplnění. Izolace afektu a intelektualizace jsou neurotické obrany držící prožitek na distanc, zatímco zde je prožitek plně přítomen.",
+  "source": "Vaillant, G. E.: Adaptation to Life (1977); Freud, S.: Tři pojednání k teorii sexuality (1905)",
+  "seedElo": 1450
+ },
+ {
+  "id": "obr-029",
+  "type": "K",
+  "category": "obrany",
+  "text": "Který příklad nejlépe ilustruje rozdíl mezi racionalizací a intelektualizací?",
+  "options": [
+   "Racionalizace: mluvit o rozchodu odborným jazykem. Intelektualizace: tvrdit, že rozchod byl vlastně výhra",
+   "Racionalizace je vědomá lež, intelektualizace nevědomý proces",
+   "Racionalizace: 'ta práce byla stejně nudná, dobře že mě vyhodili'. Intelektualizace: hodinová přednáška o makroekonomických příčinách nezaměstnanosti místo prožitku vlastní ztráty",
+   "Oba pojmy popisují totéž — nahrazení emoce logikou"
+  ],
+  "correct": 2,
+  "explanation": "Racionalizace vyrábí přijatelné zdůvodnění, které chrání sebeobraz a mění hodnocení události ('vlastně je to dobře / měl jsem dobrý důvod'). Intelektualizace neobhajuje, ale distancuje: drží téma v abstraktní, neosobní rovině, aby se afekt nepřiblížil. První distraktor obě definice přesně prohazuje. Oba mechanismy jsou nevědomé (racionalizace není lež — subjekt svému zdůvodnění věří) a nejsou totožné: jeden mění význam, druhý vzdálenost.",
+  "source": "Vaillant, G. E.: Adaptation to Life (1977); McWilliams, N.: Psychoanalytická diagnóza (1994/2015)",
+  "seedElo": 1450
+ },
+ {
+  "id": "obr-033",
+  "type": "K",
+  "category": "obrany",
+  "text": "Muž zuří na svou šéfovou. Ve variantě A večer doma nakřičí na dceru. Ve variantě B začne být přesvědčen, že šéfová zuří na něj, a svou zlost u sebe nevnímá. Které přiřazení mechanismů je nejpřesnější?",
+  "options": [
+   "A přemístění (afekt mění cíl, ale zůstává vlastní), B projekce (afekt mění vlastníka — je připsán druhému)",
+   "A projekce, B přemístění",
+   "A acting out, B introjekce",
+   "V obou případech jde o projekci na různé objekty"
+  ],
+  "correct": 0,
+  "explanation": "Rozlišení stojí na otázce, co se s afektem děje: při přemístění zůstává zlost prožívána jako vlastní, jen si najde bezpečnější cíl (dceru); při projekci subjekt vlastnictví afektu ztrácí a nachází ho v druhém ('ona zuří na mě'), typicky se současnou slepotou k vlastní zlosti. Druhý distraktor pojmy prohazuje. Acting out by vyžadoval odehrání nesymbolizovaného konfliktu v impulzivním jednání jako celku a introjekce jde směrem dovnitř, ne ven.",
+  "source": "A. Freudová: Já a obranné mechanismy (1936); McWilliams, N.: Psychoanalytická diagnóza (1994/2015)",
   "seedElo": 1450
  },
  {
@@ -113,167 +337,6 @@
   "seedElo": 1500
  },
  {
-  "id": "obr-008",
-  "type": "V",
-  "category": "obrany",
-  "text": "Klientka, které se právě rozpadlo dlouholeté manželství, tráví sezení přednáškami o attachmentové teorii, statistikách rozvodovosti a evolučních základech párové vazby. Mluví zasvěceně a ráda o tématu diskutuje, ale kdykoli se terapeut zeptá, jak se jí rozpad vztahu dotýká, vrátí se k další teorii. Který mechanismus z hlediska psychodynamického porozumění vzorec nejlépe vystihuje?",
-  "options": [
-   "Racionalizace — klientka si zdůvodňuje, proč je rozvod vlastně dobře",
-   "Intelektualizace — bolestivé téma je drženo v bezpečné vzdálenosti abstraktním teoretizováním",
-   "Sublimace — klientka přetváří bolest v hodnotný intelektuální zájem",
-   "Odčinění — přednáškami symbolicky ruší svůj podíl na rozpadu vztahu"
-  ],
-  "correct": 1,
-  "explanation": "Intelektualizace udržuje kontakt s tématem, ale na abstraktní, obecné rovině, která chrání před osobním afektem — klientka o vztazích mluví neustále, jen nikdy o svém prožitku. Racionalizace by nabízela ospravedlňující vysvětlení ('je to tak lepší'), které vinětka neobsahuje. Sublimace předpokládá skutečné tvořivé zpracování s uvolněním, ne obranné vyhýbání, a odčinění by mělo strukturu magického rušení viny konkrétním aktem.",
-  "source": "Vaillant, G. E.: Adaptation to Life (1977); McWilliams, N.: Psychoanalytická diagnóza (1994/2015)",
-  "seedElo": 1400
- },
- {
-  "id": "obr-009",
-  "type": "V",
-  "category": "obrany",
-  "text": "Muž, který nezískal vytoužené povýšení, večer doma vysvětluje, že o tu pozici 'vlastně vůbec nestál' — znamenala by víc byrokracie, horší kolektiv a méně času na rodinu. Před vyhlášením výsledku přitom o pozici mluvil s nadšením a připravoval se na ni měsíce. Který mechanismus z hlediska psychodynamického porozumění jeho večerní výklad nejlépe vystihuje?",
-  "options": [
-   "Racionalizace — nepřijatelné zklamání je nahrazeno přijatelným, zdánlivě rozumným vysvětlením",
-   "Popření — muž odmítá vzít na vědomí, že povýšení nezískal",
-   "Devalvace — muž znehodnocuje kolegu, který pozici získal",
-   "Reaktivní výtvor — touha po povýšení se mění ve své opačné prožívání"
-  ],
-  "correct": 0,
-  "explanation": "Racionalizace je klasické 'kyselé hrozny': skutečný motiv (zklamání, zraněná ctižádost) je nahrazen společensky i vnitřně přijatelným zdůvodněním, které zní logicky. Popření by znamenalo neuznat samotný fakt neúspěchu, který muž uznává. Devalvace zde míří na pozici, ne na osobu, a je nástrojem racionalizace, nikoli jádrem vzorce; reaktivní výtvor by vyžadoval trvalejší přeměnu přání v opak na úrovni afektu, ne jen vysvětlení po prohře.",
-  "source": "Obecná psychoanalytická literatura; srov. Vaillant, G. E.: Adaptation to Life (1977)",
-  "seedElo": 1300
- },
- {
-  "id": "obr-010",
-  "type": "V",
-  "category": "obrany",
-  "text": "Klientka v terapii mluví o mladší sestře výhradně v superlativech a s okázalou péčí — nosí jí dárky, organizuje jí oslavy, 'udělala by pro ni cokoliv'. Terapeutka si postupně všímá, že péče má nutkavou, přepjatou kvalitu, klientka nesnese jakoukoli zmínku o možné rivalitě a při sestřiných úspěších se jí objevují migrény. Který mechanismus z hlediska psychodynamického porozumění vzorec nejlépe vystihuje?",
-  "options": [
-   "Altruismus — zralá obrana, kdy klientka nachází uspokojení v péči o sestru",
-   "Idealizace — sestra je obsazena jako dokonalý objekt",
-   "Reaktivní výtvor — nepřijatelná hostilita vůči sestře je přeměněna ve své vědomé opozitum",
-   "Odčinění — klientka dárky symbolicky ruší dávné ublížení sestře"
-  ],
-  "correct": 2,
-  "explanation": "Reaktivní výtvor prozrazuje právě přepjatá, rigidní a nutkavá kvalita opačného postoje spolu s nulovou tolerancí k náznaku původního impulzu — láska 'protestuje příliš'. Zralý altruismus je pružný, bez nutkavosti a snese ambivalenci. Idealizace by se týkala vnímání sestry jako dokonalé, ale nevysvětlí nutkavou péči ani somatické signály potlačené hostility; odčinění by mělo strukturu rušení konkrétního provinění, ne trvalé přeměny celého postoje.",
-  "source": "A. Freudová: Já a obranné mechanismy (1936); McWilliams, N.: Psychoanalytická diagnóza (1994/2015)",
-  "seedElo": 1550
- },
- {
-  "id": "obr-011",
-  "type": "V",
-  "category": "obrany",
-  "text": "Muž se během hádky v duchu přistihne při přání, aby jeho stárnoucí otec 'už tu nebyl'. Od té chvíle mu každý večer volá, kontroluje, zda si vzal léky, a o víkendech mu jezdí opravovat dům, přestože ho tyto rituály vyčerpávají a otec o ně nestojí. Když jednou volání vynechá, zaplaví ho úzkost, kterou zažene tím, že zavolá dvakrát. Který mechanismus z hlediska psychodynamického porozumění vzorec nejlépe vystihuje?",
-  "options": [
-   "Altruismus — muž zraleji přetavuje konflikt do péče o otce",
-   "Odčinění (undoing) — nutkavé akty mají magicky zrušit nepřátelské přání",
-   "Izolace afektu — muž je odpojen od hostility vůči otci",
-   "Somatizace — konflikt s otcem se vyjadřuje tělesným vyčerpáním"
-  ],
-  "correct": 1,
-  "explanation": "Odčinění má strukturu magického rušení: po nepřijatelném impulzu následuje akt, který ho má symbolicky 'vzít zpět', a vynechání aktu spouští úzkost, kterou tiší jeho zdvojení — přesně rituální logika vinětky. Altruismus by byl pružný a přinášel uspokojení, ne nutkavost a vyčerpání. Izolace afektu by odpojila emoci od myšlenky, ale nevysvětlí rituály, a somatizace je zde nanejvýš vedlejším projevem, ne organizujícím mechanismem.",
-  "source": "Freud, S.: Poznámky k případu nutkavé neurózy ('Krysí muž', 1909); A. Freudová: Já a obranné mechanismy (1936)",
-  "seedElo": 1550,
-  "deepDive": "Odčinění (undoing) popsal Freud na případu 'Krysího muže' jako jádro nutkavé neurózy: myšlenka je pro pacienta magicky rovna činu ('omnipotence myšlenek'), takže nepřátelské přání vyžaduje protiakt, který ho anuluje. Odtud vede přímá linie k modernímu porozumění OCD — kompulze jako neutralizační akt po vtíravé myšlence. Klinicky užitečné rozlišení: odčinění ruší **už proběhlý** impulz či akt, zatímco reaktivní výtvor **preventivně přeměňuje** celý postoj v opak. Oba mechanismy se u obsedantní dynamiky často vyskytují spolu s izolací afektu jako charakteristická triáda."
- },
- {
-  "id": "obr-012",
-  "type": "V",
-  "category": "obrany",
-  "text": "Klientka s historií opakovaného násilí v dětství popisuje, že když na ni partner zvýší hlas, 'odpluje' — vnímá scénu jakoby zpoza skla, tělo má necitlivé, čas se deformuje a část hádky si pak nedokáže vybavit. Mimo tyto situace funguje bez obtíží. Který mechanismus z hlediska psychodynamického porozumění prožitek nejlépe vystihuje?",
-  "options": [
-   "Vytěsnění — vzpomínky na hádky jsou dodatečně odsunuty z vědomí",
-   "Izolace afektu — klientka je při hádkách odpojena od emocí",
-   "Regrese — klientka se pod stresem vrací k dětskému způsobu fungování",
-   "Disociace — vědomí, vnímání a paměť se za ohrožení odpojují od integrovaného prožívání"
-  ],
-  "correct": 3,
-  "explanation": "Derealizace ('zpoza skla'), tělesná necitlivost, zkreslení času a následná amnézie jsou klasické znaky disociace — celostní alterace vědomí, typicky navázaná na traumatickou historii a spouštěnou podnětem připomínajícím ohrožení. Vytěsnění by vysvětlilo mezeru v paměti, ale ne změněný stav vědomí v reálném čase. Izolace afektu ponechává vnímání i paměť intaktní a odpojuje jen emoci; regrese by se projevila dětským chováním, ne odpojením od prožívání.",
-  "source": "McWilliams, N.: Psychoanalytická diagnóza (1994/2015), kap. Disociace; Putnam, F. W. (1997)",
-  "seedElo": 1400
- },
- {
-  "id": "obr-013",
-  "type": "V",
-  "category": "obrany",
-  "text": "Klient ve třetím sezení prohlašuje, že jeho terapeutka je 'jediný člověk, který mu kdy skutečně rozuměl', jistě 'nejlepší odbornice v zemi', a že vedle ní všichni předchozí terapeuti byli šarlatáni. Terapeutka cítí lichotivé pokušení i nejasný neklid — tuší, jak snadno se může obraz překlopit. Který mechanismus z hlediska psychodynamického porozumění klientův postoj nejlépe vystihuje?",
-  "options": [
-   "Introjekce — klient přijímá terapeutku jako vnitřní dobrý objekt",
-   "Zralá vděčnost — projev nosné pracovní aliance",
-   "Primitivní idealizace — terapeutka je obsazena jako všemocný dokonalý objekt, s implicitní devalvací ostatních",
-   "Reaktivní výtvor — klient přeměňuje nedůvěru k terapeutce v obdiv"
-  ],
-  "correct": 2,
-  "explanation": "Primitivní idealizace přisuzuje objektu dokonalost a všemoc, aby chránila před úzkostí ze závislosti na omylném druhém; jejím podpisem je zde extrémnost, časná fáze vztahu a párová devalvace ostatních terapeutů — rub téže mince. Zralá vděčnost by unesla terapeutčinu omylnost a nepotřebovala by srovnání. Introjekce popisuje zvnitřnění, ne přehnané obsazení vnějšího objektu, a pro reaktivní výtvor chybí doklad původní hostility právě vůči terapeutce.",
-  "source": "Kernberg, O. F.: Borderline Conditions and Pathological Narcissism (1975); McWilliams, N.: Psychoanalytická diagnóza (1994/2015)",
-  "seedElo": 1450
- },
- {
-  "id": "obr-014",
-  "type": "V",
-  "category": "obrany",
-  "text": "Klientka, která minulý týden terapeutovi svěřila hluboce zahanbující vzpomínku, přichází na další sezení s chladným výsměchem: terapie je 'pseudověda', terapeut 'to dělá jen pro peníze' a stejně 'nikdy nic pořádného nedokázal'. Terapeut si vybaví, jak blízké a otevřené bylo minulé setkání. Který mechanismus z hlediska psychodynamického porozumění náhlou změnu nejlépe vysvětluje?",
-  "options": [
-   "Devalvace — znehodnocení objektu chrání před zranitelností a studem z předchozí blízkosti",
-   "Racionalizace — klientka logicky zdůvodňuje své pochybnosti o terapii",
-   "Acting out — klientka odehrává přenosový konflikt mimo sezení",
-   "Projektivní identifikace — klientka do terapeuta ukládá vlastní pocit bezcennosti"
-  ],
-  "correct": 0,
-  "explanation": "Devalvace typicky nastupuje po momentě zranitelnosti: znehodnocením objektu se ruší jeho moc nad subjektem — bezcennému člověku jsem přece nic důležitého nesvěřila. Časová souslednost (stud po odhalení → útok na hodnotu terapeuta) je zde klíčovým vodítkem. Racionalizace by nevysvětlila afektivní náboj a načasování. Acting out se odehrává v jednání mimo slovo či rámec, zatímco zde jde o postoj vyjádřený přímo v sezení; projektivní identifikace by vyžadovala doklad, že terapeut bezcennost reálně prožívá.",
-  "source": "Kernberg, O. F.: Severe Personality Disorders (1984); McWilliams, N.: Psychoanalytická diagnóza (1994/2015)",
-  "seedElo": 1550
- },
- {
-  "id": "obr-015",
-  "type": "V",
-  "category": "obrany",
-  "text": "Podnikatel v terapii vyžaduje termíny přesně podle svého diáře, opakovaně 'testuje' terapeutku odbornými chytáky a s uspokojením komentuje, kdykoli se mu podaří ji zaskočit. Popisuje přesvědčení, že 'kdo nekontroluje situaci, toho situace semele', a viditelně ožívá ve chvílích, kdy má nad průběhem sezení navrch. Který mechanismus z hlediska psychodynamického porozumění vzorec nejlépe vystihuje?",
-  "options": [
-   "Intelektualizace — klient drží emoce na uzdě odbornými debatami",
-   "Identifikace s agresorem — klient opakuje chování dominantního rodiče",
-   "Devalvace — klient znehodnocuje terapeutku, aby se cítil nadřazeně",
-   "Omnipotentní kontrola — klient udržuje pocit všemoci ovládáním objektu a situace"
-  ],
-  "correct": 3,
-  "explanation": "Organizujícím principem je zde potřeba mít objekt i situaci pod vlastní mocí — testování, diktování rámce a slast z převahy ('ožívá, když má navrch') jsou projevy omnipotentní kontroly, obrany proti nesnesitelné bezmoci a závislosti. Devalvace i intelektualizace mohou být jejími nástroji, ale nevystihují jádro: nejde primárně o znehodnocení ani o abstrakci, nýbrž o kontrolu. Identifikace s agresorem by vyžadovala doklad o přejetí role konkrétního agresora z historie.",
-  "source": "McWilliams, N.: Psychoanalytická diagnóza (1994/2015), kap. Omnipotentní kontrola; Klein, M. (1946)",
-  "seedElo": 1600
- },
- {
-  "id": "obr-016",
-  "type": "V",
-  "category": "obrany",
-  "text": "Sedmiletý chlapec, dosud samostatný, začne po narození sestry znovu mluvit šišlavě, vyžaduje krmení lžičkou a v noci se pomočuje, přestože byl dva roky suchý. Rodiče jsou bezradní, vývojově ani zdravotně se nic jiného nezměnilo. Který mechanismus z hlediska psychodynamického porozumění chování nejlépe vystihuje?",
-  "options": [
-   "Acting out — chlapec odehrává žárlivost vůči sestře v chování",
-   "Regrese — pod tíhou konfliktu se chlapec vrací k dřívějším, již opuštěným vývojovým způsobům fungování",
-   "Identifikace — chlapec se ztotožňuje s novorozenou sestrou",
-   "Somatizace — psychický konflikt se vyjadřuje pomočováním"
-  ],
-  "correct": 1,
-  "explanation": "Regrese je návrat k vývojově dřívějším, už překonaným způsobům uspokojení a fungování ve chvíli, kdy aktuální konflikt (ztráta výlučné pozice) přesahuje kapacitu dítěte — šišlání, krmení i enuréza jsou přesně takové návraty. Identifikace se sestrou je možná dílčí motiv, ale nevystihuje obranný charakter celého vzorce. Acting out popisuje odehrání nevědomého konfliktu v impulzivním jednání, ne návrat na dřívější vývojovou úroveň; somatizace by pokryla jen pomočování.",
-  "source": "A. Freudová: Já a obranné mechanismy (1936); obecná vývojová psychopatologie",
-  "seedElo": 1300
- },
- {
-  "id": "obr-017",
-  "type": "V",
-  "category": "obrany",
-  "text": "Klientka opakovaně přichází k lékařům s bolestmi žaludku, tlakem na hrudi a závratěmi; rozsáhlá vyšetření nenacházejí organickou příčinu. V terapii se ukazuje, že obtíže se zhoršují vždy po kontaktu s autoritářským otcem, ale klientka spojení odmítá — o otci mluví neutrálně a trvá na tom, že problém je 'čistě tělesný'. Který mechanismus z hlediska psychodynamického porozumění nejlépe vystihuje, co se děje?",
-  "options": [
-   "Somatizace — psychický konflikt a nezpracovaný afekt se vyjadřují tělesnými symptomy",
-   "Hypochondrie — klientka úzkostně interpretuje běžné tělesné počitky",
-   "Regrese — klientka se nemocí vrací do role opečovávaného dítěte",
-   "Izolace afektu — klientka mluví o otci bez emocí"
-  ],
-  "correct": 0,
-  "explanation": "Somatizace znamená, že afekt, který nemůže být prožit a symbolizován psychicky, nachází výraz v těle — časová vazba obtíží na kontakt s otcem při současném popírání psychické roviny je pro ni typická. Hypochondrie je úzkostná interpretace počitků, ne jejich produkce konfliktem. Regrese do role nemocného by mohla být sekundárním ziskem, ale nevysvětluje mechanismus vzniku symptomů; izolace afektu je zde přítomna jen jako doprovodný rys řeči o otci, ne jako jádro.",
-  "source": "McWilliams, N.: Psychoanalytická diagnóza (1994/2015), kap. Somatizace; McDougall, J.: Theatres of the Body (1989)",
-  "seedElo": 1400
- },
- {
   "id": "obr-018",
   "type": "V",
   "category": "obrany",
@@ -288,22 +351,6 @@
   "explanation": "Acting out je odehrání toho, co nemůže být cítěno a řečeno: konflikt aktivovaný v terapii (opuštění otcem) se místo prožitku a slov vybije v impulzivním jednání, typicky s vynecháním sezení a bez vědomé souvislosti. Přemístění je dílčí složkou (cíl agrese), ale nevystihuje celkovou náhradu prožívání jednáním. Regrese ani disociace nevysvětlují časovou vazbu na otevřené téma a funkci jednání jako vybití nesymbolizovaného afektu.",
   "source": "Freud, S.: Vzpomínání, opakování a propracování (1914); McWilliams, N.: Psychoanalytická diagnóza (1994/2015)",
   "seedElo": 1500
- },
- {
-  "id": "obr-019",
-  "type": "V",
-  "category": "obrany",
-  "text": "Chirurška v terapii s humorem popisuje, že si jako dítě všimla vlastní fascinace 'řezáním a krví' a děsila se, co to o ní vypovídá. Dnes tuto energii plně vkládá do operování, které ji naplňuje, je v něm vynikající a agresivní impulzy ji mimo sál netrápí. Z hlediska Vaillantovy hierarchie obran — který mechanismus vzorec nejlépe vystihuje?",
-  "options": [
-   "Reaktivní výtvor — agresivní impulz je přeměněn v opak, v péči o pacienty",
-   "Izolace afektu — chirurška operuje díky odpojení od emocí",
-   "Intelektualizace — fascinace je zpracována medicínským věděním",
-   "Sublimace — nepřijatelný impulz je přesměrován do společensky hodnotné činnosti, v níž dochází i k reálnému uspokojení"
-  ],
-  "correct": 3,
-  "explanation": "Sublimace je u Vaillanta vrcholně zralá obrana: původní impulz není potlačen ani obrácen, ale kanalizován do tvořivé či prospěšné činnosti, v níž se skutečně (byť přetvořené) uspokojuje — chirurška svou fascinaci žije, těší ji a nikomu neškodí. Reaktivní výtvor by impulz přeměnil v úzkostné opozitum s rigidní kvalitou, ne v jeho kultivované naplnění. Izolace afektu a intelektualizace jsou neurotické obrany držící prožitek na distanc, zatímco zde je prožitek plně přítomen.",
-  "source": "Vaillant, G. E.: Adaptation to Life (1977); Freud, S.: Tři pojednání k teorii sexuality (1905)",
-  "seedElo": 1450
  },
  {
   "id": "obr-020",
@@ -339,22 +386,6 @@
   "seedElo": 1500
  },
  {
-  "id": "obr-022",
-  "type": "V",
-  "category": "obrany",
-  "text": "Úředník po ponižující poradě, na níž ho nadřízený před kolegy zesměšnil, mlčky přikyvoval a omlouval se. Doma večer bez zjevného důvodu vybuchne kvůli neuklizené aktovce na syna a seřve psa, který mu přišel naproti. Který mechanismus z hlediska psychodynamického porozumění večerní scénu nejlépe vystihuje?",
-  "options": [
-   "Acting out — úředník odehrává nevědomý konflikt s autoritou",
-   "Identifikace s agresorem — úředník doma opakuje šéfovo ponižování",
-   "Regrese — úředník se pod stresem chová dětsky",
-   "Přemístění — afekt je odkloněn z ohrožujícího objektu na bezpečnější náhradní cíle"
-  ],
-  "correct": 3,
-  "explanation": "Přemístění mění adresu afektu: agrese, kterou nebylo bezpečné namířit na nadřízeného, se vybíjí na hierarchicky 'bezpečnějších' cílech — dítěti a psovi — při zachování původní emoce. Identifikace s agresorem je lákavý distraktor, ale vyžadovala by strukturální přejetí agresorovy role a stylu (ponižování před publikem jako vzorec), ne jednorázový odklon afektu. Acting out je širší pojem pro odehrání nesymbolizovaného konfliktu a regrese by znamenala návrat k vývojově dřívějšímu fungování.",
-  "source": "A. Freudová: Já a obranné mechanismy (1936); obecná psychoanalytická literatura",
-  "seedElo": 1350
- },
- {
   "id": "obr-023",
   "type": "V",
   "category": "obrany",
@@ -370,119 +401,6 @@
   "source": "A. Freudová: Já a obranné mechanismy (1936), kap. Identifikace s agresorem; Ferenczi, S. (1932)",
   "seedElo": 1500,
   "deepDive": "Pojem zavedla Anna Freudová (1936) na dětských pozorováních: dítě zvládá strach z autority tím, že si její atributy — gesta, moc, agresi — přisvojí. Nezávisle a jinak jej uchopil Ferenczi v *Zmatení jazyků* (1932): traumatizované dítě se s agresorem identifikuje introjekcí jeho viny a přání, což je blíže pozdějšímu porozumění traumatické vazbě. Mechanismus je klíčem k transgeneračnímu přenosu násilí — 'stávám se tím, co mě děsilo' — a v mírnějších podobách i k běžným jevům, jako když šikanovaní šikanují. Terapeuticky bývá průlomem moment, kdy pacient rozpozná agresorův hlas ve vlastním jednání, aniž se za něj zničí studem."
- },
- {
-  "id": "obr-024",
-  "type": "V",
-  "category": "obrany",
-  "text": "Na psychiatrickém oddělení se tým během týdne rozdělil kvůli jednomu pacientovi: část sester ho hájí jako 'citlivého člověka, kterému nikdo nikdy nepomohl', druhá část ho pokládá za 'manipulátora, který si oddělení omotal kolem prstu'. Obě skupiny na sebe zaujímají nezvykle nepřátelské postoje a porada eskaluje v konflikt, jaký tým u jiných pacientů nezná. Který mechanismus z hlediska psychodynamického porozumění dění v týmu nejlépe vysvětluje?",
-  "options": [
-   "Přemístění — tým si na pacientovi vybíjí konflikty s vedením",
-   "Pacientovo štěpení s projektivní identifikací — rozštěpené reprezentace 'dobrý/špatný' jsou uloženy do různých částí týmu, který je pak odehrává mezi sebou",
-   "Skupinová racionalizace — obě skupiny si zdůvodňují svůj postoj",
-   "Identifikace týmu s pacientovou rodinou — tým opakuje rodinné role"
-  ],
-  "correct": 1,
-  "explanation": "Rozdělení týmu na tábor 'celý dobrý' a 'celý špatný' obraz téhož pacienta, s afektem nezvyklým pro jiné případy, je klasický obraz institucionálního štěpení: pacient prostřednictvím projektivní identifikace ukládá rozštěpené self- a objektní reprezentace do různých členů týmu, kteří je pak mezi sebou reálně odehrávají. Přemístění ani racionalizace nevysvětlí, proč se konflikt organizuje právě kolem tohoto pacienta a kopíruje strukturu dobrý/špatný. Opakování rodinných rolí je příbuzná, ale méně specifická formulace téhož jevu.",
-  "source": "Main, T. F.: The Ailment (1957); Gabbard, G. O.: Psychodynamic Psychiatry in Clinical Practice (5. vyd., 2014)",
-  "seedElo": 1650
- },
- {
-  "id": "obr-025",
-  "type": "K",
-  "category": "obrany",
-  "text": "Terapeutka supervidované kolegyni vysvětluje rozdíl mezi projekcí a projektivní identifikací. Které rozlišení je nejpřesnější?",
-  "options": [
-   "U projekce zůstává projikovaný obsah 'uložen' v objektu jen ve fantazii subjektu, u projektivní identifikace je objekt interpersonálním tlakem nevědomě veden k tomu, aby projikovaný obsah reálně prožíval či odehrával",
-   "Projekce se týká pozitivních obsahů, projektivní identifikace negativních",
-   "Projekce je vědomá strategie, projektivní identifikace nevědomý mechanismus",
-   "Projekce se vyskytuje jen u psychóz, projektivní identifikace jen u hraniční organizace"
-  ],
-  "correct": 0,
-  "explanation": "Standardní současné rozlišení: projekce je jednosměrný intrapsychický akt (obsah je objektu připsán), zatímco projektivní identifikace zahrnuje interpersonální složku — subjekt jemným nevědomým tlakem (nucení, provokace, selektivní chování) skutečně vyvolává v příjemci projikovaný stav, který příjemce cítí jako cizorodý. Valence obsahu ani vědomost rozdíl nezakládají — oba mechanismy jsou nevědomé a mohou nést obsahy obojí valence — a oba se vyskytují napříč úrovněmi organizace, byť PI je typická pro primitivnější fungování.",
-  "source": "Ogden, T. H.: Projective Identification and Psychotherapeutic Technique (1982); Gabbard, G. O.: Psychodynamic Psychiatry (2014)",
-  "seedElo": 1600
- },
- {
-  "id": "obr-026",
-  "type": "K",
-  "category": "obrany",
-  "text": "V čem se pojetí projektivní identifikace u Melanie Kleinové liší od pozdějšího rozpracování u Thomase Ogdena?",
-  "options": [
-   "Kleinová ji pokládala za zralou obranu, Ogden za primitivní",
-   "Kleinová popsala PI u dospělých pacientů, Ogden ji přenesl do dětské analýzy",
-   "Kleinová ji pojímala primárně jako intrapsychickou fantazii o umístění částí self do objektu, Ogden zdůraznil reálný interpersonální proces, v němž příjemce projikované obsahy skutečně prožívá a může je zpracovat",
-   "Ogden pojem odmítl a nahradil jej pojmem kontejnování"
-  ],
-  "correct": 2,
-  "explanation": "U Kleinové (1946) je projektivní identifikace především nevědomou fantazií: části self jsou ve fantazii vloženy do objektu, aby byly ovládnuty či zbaveny. Ogden (1979, 1982) — v návaznosti na Biona — ukázal, že jde zároveň o reálný dvoufázový interpersonální proces: projektor vyvíjí tlak, příjemce obsah skutečně prožívá ('psychologicky zpracovaná' verze pak může být vrácena), čímž se PI stává i komunikací a potenciálním nástrojem změny. Kontejnování je Bionův pojem, který Ogden integruje, nikoli náhrada PI; směr od dětské analýzy k dospělým je historicky obrácený, než tvrdí distraktor.",
-  "source": "Klein, M.: Notes on Some Schizoid Mechanisms (1946); Ogden, T. H.: On Projective Identification (1979)",
-  "seedElo": 1750,
-  "deepDive": "Vývoj pojmu projektivní identifikace je učebnicovým příkladem posunu psychoanalýzy od jednoosobní k dvouosobní psychologii. Kleinová (1946) jej razí jako fantazii paranoidně-schizoidní pozice. Bion (1962) přidává rozlišení normální (komunikativní) a patologické PI a model kontejner–kontejnované: matka/analytik nestravitelné obsahy 'metabolizuje' a vrací v snesitelné podobě. Ogden (1979) proces systematizuje do tří fází — projektivní fantazie, interpersonální tlak, znovuzvnitřnění zpracované verze — čímž z obrany dělá zároveň komunikaci a motor terapeutické změny. Právě proto je dnes protipřenos chápán ne jako překážka, ale jako primární zdroj dat o pacientově vnitřním světě."
- },
- {
-  "id": "obr-027",
-  "type": "K",
-  "category": "obrany",
-  "text": "Jaký je klíčový rozdíl mezi supresí (potlačením) a represí (vytěsněním)?",
-  "options": [
-   "Suprese se týká vzpomínek, represe emocí",
-   "Represe je zralá obrana, suprese primitivní",
-   "Jde o dva názvy téhož mechanismu v různých překladech",
-   "Suprese je vědomé, záměrné odložení obsahu na později, represe je nevědomé odsunutí obsahu mimo dosah vědomí"
-  ],
-  "correct": 3,
-  "explanation": "Suprese je jediný z klasických mechanismů operující vědomě: subjekt obsah zná a záměrně ho odkládá ('teď na to nebudu myslet, vrátím se k tomu po zkoušce') — proto ji Vaillant řadí mezi zralé, adaptivní obrany. Represe probíhá bez vědomé účasti a obsah se stává nepřístupným, což se klinicky projeví mezerou, symptomem či deriváty. Hierarchie je tedy opačná, než tvrdí druhý distraktor, a rozdíl neleží v typu obsahu, nýbrž ve vědomé kontrole a přístupnosti.",
-  "source": "Vaillant, G. E.: Adaptation to Life (1977); McWilliams, N.: Psychoanalytická diagnóza (1994/2015)",
-  "seedElo": 1400
- },
- {
-  "id": "obr-028",
-  "type": "K",
-  "category": "obrany",
-  "text": "Dva klienti mluví o smrti matky. První líčí pohřeb věcně a přesně, ale na otázku po citech odpovídá 'nic necítím'. Druhý se otázkám na city vyhýbá jinak: rozvine úvahu o kulturních dějinách pohřebních rituálů a fázích truchlení podle odborné literatury. Které přiřazení mechanismů je nejpřesnější?",
-  "options": [
-   "První intelektualizace, druhý izolace afektu",
-   "První izolace afektu (obsah bez emoce), druhý intelektualizace (útěk od prožitku k abstraktnímu teoretizování)",
-   "Oba izolace afektu, liší se jen mírou",
-   "První suprese, druhý racionalizace"
-  ],
-  "correct": 1,
-  "explanation": "Izolace afektu odděluje emoci od kognitivního obsahu — fakta jsou plně přítomná, cit chybí, což přesně popisuje prvního klienta. Intelektualizace jde o krok dál: nejenže afekt chybí, ale klient se navíc přesouvá do obecné, abstraktní roviny (teorie, literatura), která od osobního tématu vzdaluje i obsahově. Intelektualizace tedy izolaci afektu typicky obsahuje a nadstavuje ji — proto 'oba izolace' stírá právě tu distinkci, na níž otázka stojí. Suprese by byla vědomá a dočasná, racionalizace by ospravedlňovala, ne teoretizovala.",
-  "source": "McWilliams, N.: Psychoanalytická diagnóza (1994/2015), kap. Izolace afektu a intelektualizace",
-  "seedElo": 1550
- },
- {
-  "id": "obr-029",
-  "type": "K",
-  "category": "obrany",
-  "text": "Který příklad nejlépe ilustruje rozdíl mezi racionalizací a intelektualizací?",
-  "options": [
-   "Racionalizace: mluvit o rozchodu odborným jazykem. Intelektualizace: tvrdit, že rozchod byl vlastně výhra",
-   "Racionalizace je vědomá lež, intelektualizace nevědomý proces",
-   "Racionalizace: 'ta práce byla stejně nudná, dobře že mě vyhodili'. Intelektualizace: hodinová přednáška o makroekonomických příčinách nezaměstnanosti místo prožitku vlastní ztráty",
-   "Oba pojmy popisují totéž — nahrazení emoce logikou"
-  ],
-  "correct": 2,
-  "explanation": "Racionalizace vyrábí přijatelné zdůvodnění, které chrání sebeobraz a mění hodnocení události ('vlastně je to dobře / měl jsem dobrý důvod'). Intelektualizace neobhajuje, ale distancuje: drží téma v abstraktní, neosobní rovině, aby se afekt nepřiblížil. První distraktor obě definice přesně prohazuje. Oba mechanismy jsou nevědomé (racionalizace není lež — subjekt svému zdůvodnění věří) a nejsou totožné: jeden mění význam, druhý vzdálenost.",
-  "source": "Vaillant, G. E.: Adaptation to Life (1977); McWilliams, N.: Psychoanalytická diagnóza (1994/2015)",
-  "seedElo": 1450
- },
- {
-  "id": "obr-030",
-  "type": "K",
-  "category": "obrany",
-  "text": "Čím se reaktivní výtvor liší od odčinění (undoing), když oba mechanismy pracují proti nepřijatelnému impulzu?",
-  "options": [
-   "Reaktivní výtvor trvale přeměňuje celý postoj v jeho opak (nenávist ⇒ přepjatá láska), odčinění po impulzu následuje jako akt, který ho má magicky zrušit či vzít zpět",
-   "Reaktivní výtvor je primitivní obrana, odčinění zralá",
-   "Odčinění se týká myšlenek, reaktivní výtvor jen činů",
-   "Reaktivní výtvor je vědomý, odčinění nevědomé"
-  ],
-  "correct": 0,
-  "explanation": "Rozdíl je strukturní a časový: reaktivní výtvor je trvalá transformace postoje — impulz se do vědomí vůbec nedostane, protože je nahrazen svým opozitem s typicky přepjatou kvalitou. Odčinění impulz či akt připouští proběhnout a teprve poté ho ritualizovaným protiaktem 'anuluje', jako by magie mohla vrátit čas — odtud vazba na kompulze. Oba jsou nevědomé neurotické obrany (typické pro obsedantní dynamiku), takže distraktory o hierarchii i vědomosti jsou nepřesné.",
-  "source": "A. Freudová: Já a obranné mechanismy (1936); Fenichel, O.: The Psychoanalytic Theory of Neurosis (1945)",
-  "seedElo": 1600
  },
  {
   "id": "obr-031",
@@ -517,52 +435,86 @@
   "seedElo": 1500
  },
  {
-  "id": "obr-033",
-  "type": "K",
-  "category": "obrany",
-  "text": "Muž zuří na svou šéfovou. Ve variantě A večer doma nakřičí na dceru. Ve variantě B začne být přesvědčen, že šéfová zuří na něj, a svou zlost u sebe nevnímá. Které přiřazení mechanismů je nejpřesnější?",
-  "options": [
-   "A přemístění (afekt mění cíl, ale zůstává vlastní), B projekce (afekt mění vlastníka — je připsán druhému)",
-   "A projekce, B přemístění",
-   "A acting out, B introjekce",
-   "V obou případech jde o projekci na různé objekty"
-  ],
-  "correct": 0,
-  "explanation": "Rozlišení stojí na otázce, co se s afektem děje: při přemístění zůstává zlost prožívána jako vlastní, jen si najde bezpečnější cíl (dceru); při projekci subjekt vlastnictví afektu ztrácí a nachází ho v druhém ('ona zuří na mě'), typicky se současnou slepotou k vlastní zlosti. Druhý distraktor pojmy prohazuje. Acting out by vyžadoval odehrání nesymbolizovaného konfliktu v impulzivním jednání jako celku a introjekce jde směrem dovnitř, ne ven.",
-  "source": "A. Freudová: Já a obranné mechanismy (1936); McWilliams, N.: Psychoanalytická diagnóza (1994/2015)",
-  "seedElo": 1450
- },
- {
-  "id": "obr-034",
-  "type": "K",
-  "category": "obrany",
-  "text": "Čím se liší disociace od štěpení, když oba pojmy popisují 'rozdělení' psychiky?",
-  "options": [
-   "Disociace je zralá obrana, štěpení primitivní",
-   "Jde o synonyma — disociace je jen novější termín pro štěpení",
-   "Disociace vertikálně odděluje celé stavy vědomí a prožívání (až s amnestickými bariérami), štěpení odděluje protikladné afektivní reprezentace self a objektů ('celý dobrý' vs. 'celý špatný') při zachovaném kontinuálním vědomí",
-   "Štěpení se týká vnímání času, disociace vnímání objektů"
-  ],
-  "correct": 2,
-  "explanation": "Štěpení je operace na objektových a self-reprezentacích: vědomí zůstává kontinuální, ale obrazy sebe a druhých se překlápějí mezi nekompatibilními 'celý dobrý / celý špatný' stavy — typicky u hraniční organizace. Disociace dělí samotné vědomí a prožívání do oddělených stavů (derealizace, depersonalizace, amnézie, v krajní podobě disociativní identita) — typicky v souvislosti s traumatem. Nejsou to synonyma ani stupně téže škály; obě patří k primitivnějším procesům, takže hierarchický distraktor neplatí.",
-  "source": "Kernberg, O. F. (1975); McWilliams, N.: Psychoanalytická diagnóza (1994/2015); Putnam, F. W. (1997)",
-  "seedElo": 1700
- },
- {
-  "id": "obr-035",
+  "id": "obr-041",
   "type": "F",
   "category": "obrany",
-  "text": "Které mechanismy řadí George Vaillant ve své hierarchii mezi zralé obrany?",
+  "text": "Z jakého empirického zdroje vychází Vaillantova hierarchie obran a co z něj plyne?",
   "options": [
-   "Intelektualizace, racionalizace, izolace afektu, přemístění",
-   "Sublimace, altruismus, humor, suprese a anticipace",
-   "Popření, štěpení, projekce, disociace",
-   "Vytěsnění, reaktivní výtvor, odčinění, regrese"
+   "Z metaanalýzy dotazníkových studií obran z 90. let",
+   "Z Vaillantovy vlastní klinické praxe s hospitalizovanými pacienty",
+   "Z longitudinální Grant Study (Harvard Study of Adult Development), která desítky let sledovala tytéž muže a ukázala, že zralost obran v mladé dospělosti predikuje pozdější zdraví, vztahy i pracovní úspěch",
+   "Z experimentálních laboratorních studií vytěsnění"
+  ],
+  "correct": 2,
+  "explanation": "Vaillant navázal na Grant Study, jednu z nejdelších longitudinálních studií vývoje dospělých (započata 1938), a z opakovaných rozhovorů a záznamů kódoval převažující obranné styly účastníků. Klíčový nález: zralost obran byla jedním z nejsilnějších prediktorů dlouhodobého tělesného i duševního zdraví, kvality vztahů a kariéry — silnějším než řada sociodemografických faktorů. Právě longitudinální, nikoli dotazníková či laboratorní povaha dat dala hierarchii obran empirickou váhu.",
+  "source": "Vaillant, G. E.: Adaptation to Life (1977); Vaillant, G. E.: Triumphs of Experience (2012)",
+  "seedElo": 1500,
+  "deepDive": "Grant Study začala v roce 1938 sledováním 268 harvardských studentů a stala se páteří Harvard Study of Adult Development, která běží dodnes. Vaillant, jenž studii desítky let vedl, kódoval obranné styly z materiálu sbíraného opakovaně přes celý život účastníků — čímž obešel hlavní slabinu výzkumu obran, totiž že nevědomý proces nelze měřit sebeposouzením. Hierarchie (psychotické → nezralé → neurotické → zralé) není morálním žebříčkem: tentýž člověk se po ose pohybuje podle zátěže a vývoj směrem ke zralejším obranám probíhá často až ve středním věku. Vaillantův slavný závěr studie zní, že o dobrém životě rozhodují vřelé vztahy — a zralé obrany jsou tím, co je umožňuje udržet."
+ },
+ {
+  "id": "obr-010",
+  "type": "V",
+  "category": "obrany",
+  "text": "Klientka v terapii mluví o mladší sestře výhradně v superlativech a s okázalou péčí — nosí jí dárky, organizuje jí oslavy, 'udělala by pro ni cokoliv'. Terapeutka si postupně všímá, že péče má nutkavou, přepjatou kvalitu, klientka nesnese jakoukoli zmínku o možné rivalitě a při sestřiných úspěších se jí objevují migrény. Který mechanismus z hlediska psychodynamického porozumění vzorec nejlépe vystihuje?",
+  "options": [
+   "Altruismus — zralá obrana, kdy klientka nachází uspokojení v péči o sestru",
+   "Idealizace — sestra je obsazena jako dokonalý objekt",
+   "Reaktivní výtvor — nepřijatelná hostilita vůči sestře je přeměněna ve své vědomé opozitum",
+   "Odčinění — klientka dárky symbolicky ruší dávné ublížení sestře"
+  ],
+  "correct": 2,
+  "explanation": "Reaktivní výtvor prozrazuje právě přepjatá, rigidní a nutkavá kvalita opačného postoje spolu s nulovou tolerancí k náznaku původního impulzu — láska 'protestuje příliš'. Zralý altruismus je pružný, bez nutkavosti a snese ambivalenci. Idealizace by se týkala vnímání sestry jako dokonalé, ale nevysvětlí nutkavou péči ani somatické signály potlačené hostility; odčinění by mělo strukturu rušení konkrétního provinění, ne trvalé přeměny celého postoje.",
+  "source": "A. Freudová: Já a obranné mechanismy (1936); McWilliams, N.: Psychoanalytická diagnóza (1994/2015)",
+  "seedElo": 1550
+ },
+ {
+  "id": "obr-011",
+  "type": "V",
+  "category": "obrany",
+  "text": "Muž se během hádky v duchu přistihne při přání, aby jeho stárnoucí otec 'už tu nebyl'. Od té chvíle mu každý večer volá, kontroluje, zda si vzal léky, a o víkendech mu jezdí opravovat dům, přestože ho tyto rituály vyčerpávají a otec o ně nestojí. Když jednou volání vynechá, zaplaví ho úzkost, kterou zažene tím, že zavolá dvakrát. Který mechanismus z hlediska psychodynamického porozumění vzorec nejlépe vystihuje?",
+  "options": [
+   "Altruismus — muž zraleji přetavuje konflikt do péče o otce",
+   "Odčinění (undoing) — nutkavé akty mají magicky zrušit nepřátelské přání",
+   "Izolace afektu — muž je odpojen od hostility vůči otci",
+   "Somatizace — konflikt s otcem se vyjadřuje tělesným vyčerpáním"
   ],
   "correct": 1,
-  "explanation": "Vaillantova čtyřstupňová hierarchie (psychotické — nezralé — neurotické — zralé) řadí na vrchol pětici sublimace, altruismus, humor, suprese a anticipace: obrany, které realitu neruší, ale umožňují ji tvořivě unést. První distraktor vyjmenovává neurotické obrany, třetí psychotické a nezralé, čtvrtý směs neurotických. V Grant Study Vaillant doložil, že převaha zralých obran predikuje dlouhodobé zdraví a životní spokojenost.",
-  "source": "Vaillant, G. E.: Adaptation to Life (1977); Vaillant, G. E.: The Wisdom of the Ego (1993)",
-  "seedElo": 1350
+  "explanation": "Odčinění má strukturu magického rušení: po nepřijatelném impulzu následuje akt, který ho má symbolicky 'vzít zpět', a vynechání aktu spouští úzkost, kterou tiší jeho zdvojení — přesně rituální logika vinětky. Altruismus by byl pružný a přinášel uspokojení, ne nutkavost a vyčerpání. Izolace afektu by odpojila emoci od myšlenky, ale nevysvětlí rituály, a somatizace je zde nanejvýš vedlejším projevem, ne organizujícím mechanismem.",
+  "source": "Freud, S.: Poznámky k případu nutkavé neurózy ('Krysí muž', 1909); A. Freudová: Já a obranné mechanismy (1936)",
+  "seedElo": 1550,
+  "deepDive": "Odčinění (undoing) popsal Freud na případu 'Krysího muže' jako jádro nutkavé neurózy: myšlenka je pro pacienta magicky rovna činu ('omnipotence myšlenek'), takže nepřátelské přání vyžaduje protiakt, který ho anuluje. Odtud vede přímá linie k modernímu porozumění OCD — kompulze jako neutralizační akt po vtíravé myšlence. Klinicky užitečné rozlišení: odčinění ruší **už proběhlý** impulz či akt, zatímco reaktivní výtvor **preventivně přeměňuje** celý postoj v opak. Oba mechanismy se u obsedantní dynamiky často vyskytují spolu s izolací afektu jako charakteristická triáda."
+ },
+ {
+  "id": "obr-014",
+  "type": "V",
+  "category": "obrany",
+  "text": "Klientka, která minulý týden terapeutovi svěřila hluboce zahanbující vzpomínku, přichází na další sezení s chladným výsměchem: terapie je 'pseudověda', terapeut 'to dělá jen pro peníze' a stejně 'nikdy nic pořádného nedokázal'. Terapeut si vybaví, jak blízké a otevřené bylo minulé setkání. Který mechanismus z hlediska psychodynamického porozumění náhlou změnu nejlépe vysvětluje?",
+  "options": [
+   "Devalvace — znehodnocení objektu chrání před zranitelností a studem z předchozí blízkosti",
+   "Racionalizace — klientka logicky zdůvodňuje své pochybnosti o terapii",
+   "Acting out — klientka odehrává přenosový konflikt mimo sezení",
+   "Projektivní identifikace — klientka do terapeuta ukládá vlastní pocit bezcennosti"
+  ],
+  "correct": 0,
+  "explanation": "Devalvace typicky nastupuje po momentě zranitelnosti: znehodnocením objektu se ruší jeho moc nad subjektem — bezcennému člověku jsem přece nic důležitého nesvěřila. Časová souslednost (stud po odhalení → útok na hodnotu terapeuta) je zde klíčovým vodítkem. Racionalizace by nevysvětlila afektivní náboj a načasování. Acting out se odehrává v jednání mimo slovo či rámec, zatímco zde jde o postoj vyjádřený přímo v sezení; projektivní identifikace by vyžadovala doklad, že terapeut bezcennost reálně prožívá.",
+  "source": "Kernberg, O. F.: Severe Personality Disorders (1984); McWilliams, N.: Psychoanalytická diagnóza (1994/2015)",
+  "seedElo": 1550
+ },
+ {
+  "id": "obr-028",
+  "type": "K",
+  "category": "obrany",
+  "text": "Dva klienti mluví o smrti matky. První líčí pohřeb věcně a přesně, ale na otázku po citech odpovídá 'nic necítím'. Druhý se otázkám na city vyhýbá jinak: rozvine úvahu o kulturních dějinách pohřebních rituálů a fázích truchlení podle odborné literatury. Které přiřazení mechanismů je nejpřesnější?",
+  "options": [
+   "První intelektualizace, druhý izolace afektu",
+   "První izolace afektu (obsah bez emoce), druhý intelektualizace (útěk od prožitku k abstraktnímu teoretizování)",
+   "Oba izolace afektu, liší se jen mírou",
+   "První suprese, druhý racionalizace"
+  ],
+  "correct": 1,
+  "explanation": "Izolace afektu odděluje emoci od kognitivního obsahu — fakta jsou plně přítomná, cit chybí, což přesně popisuje prvního klienta. Intelektualizace jde o krok dál: nejenže afekt chybí, ale klient se navíc přesouvá do obecné, abstraktní roviny (teorie, literatura), která od osobního tématu vzdaluje i obsahově. Intelektualizace tedy izolaci afektu typicky obsahuje a nadstavuje ji — proto 'oba izolace' stírá právě tu distinkci, na níž otázka stojí. Suprese by byla vědomá a dočasná, racionalizace by ospravedlňovala, ne teoretizovala.",
+  "source": "McWilliams, N.: Psychoanalytická diagnóza (1994/2015), kap. Izolace afektu a intelektualizace",
+  "seedElo": 1550
  },
  {
   "id": "obr-036",
@@ -581,87 +533,6 @@
   "seedElo": 1550
  },
  {
-  "id": "obr-037",
-  "type": "F",
-  "category": "obrany",
-  "text": "Jakou roli hrají obranné mechanismy v Kernbergově modelu úrovní organizace osobnosti?",
-  "options": [
-   "Převažující obrany jsou jedním ze tří strukturálních kritérií: neurotická organizace se opírá o vytěsnění a vyšší obrany, hraniční organizace o štěpení a příbuzné primitivní obrany při zachovalém testování reality",
-   "Obrany určují pouze typ symptomů, nikoli úroveň organizace",
-   "Kernberg obrany jako diagnostické kritérium odmítl a nahradil je testováním reality",
-   "Hraniční organizace se pozná podle úplné absence obranných mechanismů"
-  ],
-  "correct": 0,
-  "explanation": "Kernbergova strukturální diagnóza stojí na třech pilířích: integrace identity, převažující obranné operace a testování reality. Neurotickou organizaci charakterizuje represe s vyššími obranami a integrovaná identita; hraniční organizaci difuze identity a primitivní obrany centrované kolem štěpení (idealizace/devalvace, projektivní identifikace, omnipotentní kontrola, popření) při vcelku zachovalém testování reality; jeho ztráta ukazuje k psychotické organizaci. Obrany tedy Kernberg neodmítá — jsou jedním z hlavních markerů úrovně, ne pouhým zdrojem symptomů.",
-  "source": "Kernberg, O. F.: Severe Personality Disorders (1984), kap. Structural Diagnosis",
-  "seedElo": 1600
- },
- {
-  "id": "obr-038",
-  "type": "F",
-  "category": "obrany",
-  "text": "Kdo poprvé systematicky katalogizoval obranné mechanismy já v samostatné monografii a ve kterém díle?",
-  "options": [
-   "Sigmund Freud ve Výkladu snů (1900)",
-   "Melanie Kleinová v Závisti a vděčnosti (1957)",
-   "Anna Freudová v knize Já a obranné mechanismy (1936)",
-   "George Vaillant v Adaptation to Life (1977)"
-  ],
-  "correct": 2,
-  "explanation": "Sigmund Freud pojem obrany zavedl a průběžně popsal řadu jednotlivých mechanismů, ale první systematickou monografii jim věnovala až Anna Freudová: Das Ich und die Abwehrmechanismen (1936) katalogizuje mechanismy včetně nově popsané identifikace s agresorem a přesouvá těžiště analýzy z ono na já. Kleinová rozpracovala rané obrany (štěpení, projektivní identifikaci), ale ne formou katalogu; Vaillant o čtyři dekády později přidal empirickou hierarchii a longitudinální data.",
-  "source": "Freudová, A.: Já a obranné mechanismy (1936)",
-  "seedElo": 1300
- },
- {
-  "id": "obr-039",
-  "type": "F",
-  "category": "obrany",
-  "text": "Se kterou vývojovou pozicí spojuje Melanie Kleinová štěpení jako centrální obrannou operaci?",
-  "options": [
-   "S depresivní pozicí",
-   "S oidipskou fází",
-   "Se separačně-individuační fází",
-   "S paranoidně-schizoidní pozicí"
-  ],
-  "correct": 3,
-  "explanation": "V paranoidně-schizoidní pozici (Klein, 1946) chrání nezralé já dobrou zkušenost před vlastní agresí tím, že objekt i self štěpí na idealizované a persekuční části; k tomu patří projektivní identifikace a persekuční úzkost. Depresivní pozice je naopak stadiem integrace — dítě poznává, že milovaný a nenáviděný objekt je týž, a úzkost persekuční střídá úzkost depresivní (starost o objekt). Oidipská fáze je freudovský koncept a separace-individuace pochází od Mahlerové.",
-  "source": "Klein, M.: Notes on Some Schizoid Mechanisms (1946)",
-  "seedElo": 1400
- },
- {
-  "id": "obr-040",
-  "type": "F",
-  "category": "obrany",
-  "text": "Jak Thomas Ogden strukturuje proces projektivní identifikace?",
-  "options": [
-   "Jako dvoufázový proces: projekce a následná represe",
-   "Jako třífázový proces: nevědomá fantazie umístění části self do druhého, interpersonální tlak vedoucí příjemce k odpovídajícímu prožívání, a znovuzvnitřnění obsahu zpracovaného příjemcem",
-   "Jako čistě intrapsychickou fantazii bez interpersonální složky",
-   "Jako vědomou manipulativní strategii hraničních pacientů"
-  ],
-  "correct": 1,
-  "explanation": "Ogden (1979) rozčlenil PI do tří fází: (1) fantazie zbavit se části self a uložit ji do druhého, (2) reálný interpersonální tlak, jímž je příjemce nevědomě veden prožívat a jednat kongruentně s projekcí, (3) reinternalizace — projektor si bere zpět verzi obsahu 'metabolizovanou' příjemcem, což v terapii otevírá cestu ke změně. Čistě intrapsychické pojetí odpovídá spíše rané Kleinové, kterou Ogden právě rozšiřuje; PI není vědomá manipulace, byť tak může na příjemce působit.",
-  "source": "Ogden, T. H.: On Projective Identification, Int. J. Psychoanal. (1979)",
-  "seedElo": 1700
- },
- {
-  "id": "obr-041",
-  "type": "F",
-  "category": "obrany",
-  "text": "Z jakého empirického zdroje vychází Vaillantova hierarchie obran a co z něj plyne?",
-  "options": [
-   "Z metaanalýzy dotazníkových studií obran z 90. let",
-   "Z Vaillantovy vlastní klinické praxe s hospitalizovanými pacienty",
-   "Z longitudinální Grant Study (Harvard Study of Adult Development), která desítky let sledovala tytéž muže a ukázala, že zralost obran v mladé dospělosti predikuje pozdější zdraví, vztahy i pracovní úspěch",
-   "Z experimentálních laboratorních studií vytěsnění"
-  ],
-  "correct": 2,
-  "explanation": "Vaillant navázal na Grant Study, jednu z nejdelších longitudinálních studií vývoje dospělých (započata 1938), a z opakovaných rozhovorů a záznamů kódoval převažující obranné styly účastníků. Klíčový nález: zralost obran byla jedním z nejsilnějších prediktorů dlouhodobého tělesného i duševního zdraví, kvality vztahů a kariéry — silnějším než řada sociodemografických faktorů. Právě longitudinální, nikoli dotazníková či laboratorní povaha dat dala hierarchii obran empirickou váhu.",
-  "source": "Vaillant, G. E.: Adaptation to Life (1977); Vaillant, G. E.: Triumphs of Experience (2012)",
-  "seedElo": 1500,
-  "deepDive": "Grant Study začala v roce 1938 sledováním 268 harvardských studentů a stala se páteří Harvard Study of Adult Development, která běží dodnes. Vaillant, jenž studii desítky let vedl, kódoval obranné styly z materiálu sbíraného opakovaně přes celý život účastníků — čímž obešel hlavní slabinu výzkumu obran, totiž že nevědomý proces nelze měřit sebeposouzením. Hierarchie (psychotické → nezralé → neurotické → zralé) není morálním žebříčkem: tentýž člověk se po ose pohybuje podle zátěže a vývoj směrem ke zralejším obranám probíhá často až ve středním věku. Vaillantův slavný závěr studie zní, že o dobrém životě rozhodují vřelé vztahy — a zralé obrany jsou tím, co je umožňuje udržet."
- },
- {
   "id": "obr-042",
   "type": "F",
   "category": "obrany",
@@ -678,20 +549,68 @@
   "seedElo": 1550
  },
  {
-  "id": "obr-043",
-  "type": "I",
+  "id": "obr-015",
+  "type": "V",
   "category": "obrany",
-  "text": "Klient s hraniční organizací na sezení po terapeutově návratu z dovolené chladně prohlásí: 'Stejně jste stejný šarlatán jako všichni přede mnou. Nevím, proč sem ještě chodím.' Terapeut cítí bodnutí a impuls se hájit. Která reakce je z hlediska psychodynamického porozumění a udržení terapeutického rámce nejvhodnější?",
+  "text": "Podnikatel v terapii vyžaduje termíny přesně podle svého diáře, opakovaně 'testuje' terapeutku odbornými chytáky a s uspokojením komentuje, kdykoli se mu podaří ji zaskočit. Popisuje přesvědčení, že 'kdo nekontroluje situaci, toho situace semele', a viditelně ožívá ve chvílích, kdy má nad průběhem sezení navrch. Který mechanismus z hlediska psychodynamického porozumění vzorec nejlépe vystihuje?",
   "options": [
-   "Vysvětlit klientovi své kvalifikace a připomenout dosavadní pokroky v terapii",
-   "Přijmout devalvaci bez obrany a explorovat její souvislost s přerušením: 'Napadá mě, jestli to, jak teď o mně přemýšlíte, nesouvisí s tím, že jsem tu tři týdny nebyl'",
-   "Interpretovat klientovi, že používá primitivní obranu devalvace typickou pro jeho diagnózu",
-   "Nabídnout ukončení terapie, když v ni klient ztratil důvěru"
+   "Intelektualizace — klient drží emoce na uzdě odbornými debatami",
+   "Identifikace s agresorem — klient opakuje chování dominantního rodiče",
+   "Devalvace — klient znehodnocuje terapeutku, aby se cítil nadřazeně",
+   "Omnipotentní kontrola — klient udržuje pocit všemoci ovládáním objektu a situace"
   ],
-  "correct": 1,
-  "explanation": "Devalvace po separaci je přenosová komunikace o zranění opuštěním; nejvhodnější je ji neodehrát (nehájit se, neodvrhnout klienta) a zvědavě propojit s kontextem přerušení, čímž se afekt vrací do vztahu, kde může být zpracován. Obhajoba kvalifikace znamená nechat se vtáhnout do odehrání a implicitně potvrdit, že devalvace terapeuta ohrožuje. Poučování o 'primitivní obraně' je zahanbující intelektualizovaný protiútok a nabídka ukončení by byla protipřenosovým odvržením — přesně tím opuštěním, jehož se klient děsí.",
-  "source": "Kernberg, O. F. a kol.: Transference-Focused Psychotherapy (2015); Gabbard, G. O.: Psychodynamic Psychiatry (2014)",
-  "seedElo": 1650
+  "correct": 3,
+  "explanation": "Organizujícím principem je zde potřeba mít objekt i situaci pod vlastní mocí — testování, diktování rámce a slast z převahy ('ožívá, když má navrch') jsou projevy omnipotentní kontroly, obrany proti nesnesitelné bezmoci a závislosti. Devalvace i intelektualizace mohou být jejími nástroji, ale nevystihují jádro: nejde primárně o znehodnocení ani o abstrakci, nýbrž o kontrolu. Identifikace s agresorem by vyžadovala doklad o přejetí role konkrétního agresora z historie.",
+  "source": "McWilliams, N.: Psychoanalytická diagnóza (1994/2015), kap. Omnipotentní kontrola; Klein, M. (1946)",
+  "seedElo": 1600
+ },
+ {
+  "id": "obr-025",
+  "type": "K",
+  "category": "obrany",
+  "text": "Terapeutka supervidované kolegyni vysvětluje rozdíl mezi projekcí a projektivní identifikací. Které rozlišení je nejpřesnější?",
+  "options": [
+   "U projekce zůstává projikovaný obsah 'uložen' v objektu jen ve fantazii subjektu, u projektivní identifikace je objekt interpersonálním tlakem nevědomě veden k tomu, aby projikovaný obsah reálně prožíval či odehrával",
+   "Projekce se týká pozitivních obsahů, projektivní identifikace negativních",
+   "Projekce je vědomá strategie, projektivní identifikace nevědomý mechanismus",
+   "Projekce se vyskytuje jen u psychóz, projektivní identifikace jen u hraniční organizace"
+  ],
+  "correct": 0,
+  "explanation": "Standardní současné rozlišení: projekce je jednosměrný intrapsychický akt (obsah je objektu připsán), zatímco projektivní identifikace zahrnuje interpersonální složku — subjekt jemným nevědomým tlakem (nucení, provokace, selektivní chování) skutečně vyvolává v příjemci projikovaný stav, který příjemce cítí jako cizorodý. Valence obsahu ani vědomost rozdíl nezakládají — oba mechanismy jsou nevědomé a mohou nést obsahy obojí valence — a oba se vyskytují napříč úrovněmi organizace, byť PI je typická pro primitivnější fungování.",
+  "source": "Ogden, T. H.: Projective Identification and Psychotherapeutic Technique (1982); Gabbard, G. O.: Psychodynamic Psychiatry (2014)",
+  "seedElo": 1600
+ },
+ {
+  "id": "obr-030",
+  "type": "K",
+  "category": "obrany",
+  "text": "Čím se reaktivní výtvor liší od odčinění (undoing), když oba mechanismy pracují proti nepřijatelnému impulzu?",
+  "options": [
+   "Reaktivní výtvor trvale přeměňuje celý postoj v jeho opak (nenávist ⇒ přepjatá láska), odčinění po impulzu následuje jako akt, který ho má magicky zrušit či vzít zpět",
+   "Reaktivní výtvor je primitivní obrana, odčinění zralá",
+   "Odčinění se týká myšlenek, reaktivní výtvor jen činů",
+   "Reaktivní výtvor je vědomý, odčinění nevědomé"
+  ],
+  "correct": 0,
+  "explanation": "Rozdíl je strukturní a časový: reaktivní výtvor je trvalá transformace postoje — impulz se do vědomí vůbec nedostane, protože je nahrazen svým opozitem s typicky přepjatou kvalitou. Odčinění impulz či akt připouští proběhnout a teprve poté ho ritualizovaným protiaktem 'anuluje', jako by magie mohla vrátit čas — odtud vazba na kompulze. Oba jsou nevědomé neurotické obrany (typické pro obsedantní dynamiku), takže distraktory o hierarchii i vědomosti jsou nepřesné.",
+  "source": "A. Freudová: Já a obranné mechanismy (1936); Fenichel, O.: The Psychoanalytic Theory of Neurosis (1945)",
+  "seedElo": 1600
+ },
+ {
+  "id": "obr-037",
+  "type": "F",
+  "category": "obrany",
+  "text": "Jakou roli hrají obranné mechanismy v Kernbergově modelu úrovní organizace osobnosti?",
+  "options": [
+   "Převažující obrany jsou jedním ze tří strukturálních kritérií: neurotická organizace se opírá o vytěsnění a vyšší obrany, hraniční organizace o štěpení a příbuzné primitivní obrany při zachovalém testování reality",
+   "Obrany určují pouze typ symptomů, nikoli úroveň organizace",
+   "Kernberg obrany jako diagnostické kritérium odmítl a nahradil je testováním reality",
+   "Hraniční organizace se pozná podle úplné absence obranných mechanismů"
+  ],
+  "correct": 0,
+  "explanation": "Kernbergova strukturální diagnóza stojí na třech pilířích: integrace identity, převažující obranné operace a testování reality. Neurotickou organizaci charakterizuje represe s vyššími obranami a integrovaná identita; hraniční organizaci difuze identity a primitivní obrany centrované kolem štěpení (idealizace/devalvace, projektivní identifikace, omnipotentní kontrola, popření) při vcelku zachovalém testování reality; jeho ztráta ukazuje k psychotické organizaci. Obrany tedy Kernberg neodmítá — jsou jedním z hlavních markerů úrovně, ne pouhým zdrojem symptomů.",
+  "source": "Kernberg, O. F.: Severe Personality Disorders (1984), kap. Structural Diagnosis",
+  "seedElo": 1600
  },
  {
   "id": "obr-044",
@@ -710,20 +629,68 @@
   "seedElo": 1600
  },
  {
-  "id": "obr-045",
+  "id": "obr-048",
+  "type": "E",
+  "category": "obrany",
+  "text": "Začínající terapeutka referuje na supervizi: 'Klient mi celé sezení vyprávěl, jak jeho kolegové jsou líní a všechno sabotují, přičemž z popisu je zřejmé, že takto na pracovišti jedná spíš on sám a u sebe to nevidí. Jde tedy o učebnicovou projektivní identifikaci — připsal kolegům vlastní nepřijatelné chování.' Kde je z hlediska přesného užití pojmů chyba v její formulaci?",
+  "options": [
+   "Popsané chování nemůže být obranou, protože klient o kolezích mluví vědomě",
+   "Popsaný jev je ve skutečnosti přemístění agrese z terapeutky na kolegy",
+   "Popsaný jev je prostá projekce; o projektivní identifikaci by šlo, až kdyby klient interpersonálním tlakem reálně vyvolával projikované stavy v druhých — například lenost či sabotování v protipřenosu terapeutky",
+   "Chyba není — projekce a projektivní identifikace jsou zaměnitelné pojmy"
+  ],
+  "correct": 2,
+  "explanation": "Terapeutka popsala čisté připsání vlastního nepřijatelného obsahu druhým bez jakéhokoli dokladu interpersonálního tlaku či indukovaného prožitku — tedy projekci. Projektivní identifikace by vyžadovala druhou, interpersonální fázi: příjemce (kolegové, terapeutka) by byl nevědomě tlačen projikovaný stav skutečně prožívat nebo odehrávat. Záměna obou pojmů je jedna z nejčastějších chyb v klinickém žargonu. Vědomost řeči o kolezích obranu nevylučuje (nevědomý je mechanismus, ne slova) a pro přemístění chybí jakýkoli doklad původního afektu vůči terapeutce.",
+  "source": "Ogden, T. H.: On Projective Identification (1979); Gabbard, G. O.: Psychodynamic Psychiatry (2014)",
+  "seedElo": 1600
+ },
+ {
+  "id": "obr-004",
+  "type": "V",
+  "category": "obrany",
+  "text": "Terapeut si během sezení s klientkou, která mluví klidně a spolupracujícím tónem, všimne, že v něm narůstá nezvyklá, těžko vysvětlitelná zlost a nutkání klientku sarkasticky usadit — pocit, který u sebe v práci téměř nezná. Klientka sama žádnou zlost nepopisuje ani neprojevuje. Které porozumění situaci je z hlediska psychodynamického myšlení nejpřiléhavější?",
+  "options": [
+   "Terapeutův acting out — terapeut odehrává vlastní nezpracovaný konflikt",
+   "Prostá projekce klientky — klientka terapeutovi připisuje zlost, kterou u sebe nevidí",
+   "Terapeutova identifikace s agresorem — terapeut přejímá roli útočníka z vlastní historie",
+   "Projektivní identifikace — klientka nevědomě evokuje v terapeutovi odštěpený afekt, který sama nemůže unést"
+  ],
+  "correct": 3,
+  "explanation": "Klíčovým vodítkem je, že terapeut reálně prožívá cizorodý afekt, který neodpovídá jeho obvyklému fungování — to je interpersonální 'tlak' typický pro projektivní identifikaci, kde příjemce je nevědomě nucen odštěpený obsah skutečně pocítit. U prosté projekce by klientka zlost připisovala terapeutovi, ale on by ji prožívat nemusel. Acting out ani identifikace s agresorem nevysvětlují, proč se afekt objevuje právě s touto klientkou a je pro terapeuta netypický.",
+  "source": "Ogden, T. H.: Projective Identification and Psychotherapeutic Technique (1982)",
+  "seedElo": 1650
+ },
+ {
+  "id": "obr-024",
+  "type": "V",
+  "category": "obrany",
+  "text": "Na psychiatrickém oddělení se tým během týdne rozdělil kvůli jednomu pacientovi: část sester ho hájí jako 'citlivého člověka, kterému nikdo nikdy nepomohl', druhá část ho pokládá za 'manipulátora, který si oddělení omotal kolem prstu'. Obě skupiny na sebe zaujímají nezvykle nepřátelské postoje a porada eskaluje v konflikt, jaký tým u jiných pacientů nezná. Který mechanismus z hlediska psychodynamického porozumění dění v týmu nejlépe vysvětluje?",
+  "options": [
+   "Přemístění — tým si na pacientovi vybíjí konflikty s vedením",
+   "Pacientovo štěpení s projektivní identifikací — rozštěpené reprezentace 'dobrý/špatný' jsou uloženy do různých částí týmu, který je pak odehrává mezi sebou",
+   "Skupinová racionalizace — obě skupiny si zdůvodňují svůj postoj",
+   "Identifikace týmu s pacientovou rodinou — tým opakuje rodinné role"
+  ],
+  "correct": 1,
+  "explanation": "Rozdělení týmu na tábor 'celý dobrý' a 'celý špatný' obraz téhož pacienta, s afektem nezvyklým pro jiné případy, je klasický obraz institucionálního štěpení: pacient prostřednictvím projektivní identifikace ukládá rozštěpené self- a objektní reprezentace do různých členů týmu, kteří je pak mezi sebou reálně odehrávají. Přemístění ani racionalizace nevysvětlí, proč se konflikt organizuje právě kolem tohoto pacienta a kopíruje strukturu dobrý/špatný. Opakování rodinných rolí je příbuzná, ale méně specifická formulace téhož jevu.",
+  "source": "Main, T. F.: The Ailment (1957); Gabbard, G. O.: Psychodynamic Psychiatry in Clinical Practice (5. vyd., 2014)",
+  "seedElo": 1650
+ },
+ {
+  "id": "obr-043",
   "type": "I",
   "category": "obrany",
-  "text": "Terapeut u klientky s traumatickou historií opakovaně zjišťuje, že se během sezení cítí neschopně a bezmocně — stav, který u jiných klientů nezná a který nápadně odpovídá tomu, jak klientka popisuje své dětské prožívání s nedostupnou matkou. Jak s tímto protipřenosem z hlediska psychodynamického porozumění nejvhodněji naložit?",
+  "text": "Klient s hraniční organizací na sezení po terapeutově návratu z dovolené chladně prohlásí: 'Stejně jste stejný šarlatán jako všichni přede mnou. Nevím, proč sem ještě chodím.' Terapeut cítí bodnutí a impuls se hájit. Která reakce je z hlediska psychodynamického porozumění a udržení terapeutického rámce nejvhodnější?",
   "options": [
-   "Použít prožitek jako informaci o klientčině vnitřním světě: v duchu ho kontejnovat, zvážit, že nese její odštěpenou zkušenost, a až to bude únosné, citlivě ji pomoci tuto zkušenost slovy uchopit",
-   "Sdělit klientce bezprostředně a v plném rozsahu, co v něm vyvolává",
-   "Považovat pocity za signál vlastní nezpracované problematiky a řešit je výhradně v osobní terapii",
-   "Pocity potlačit a soustředit se na obsah klientčina sdělení"
+   "Vysvětlit klientovi své kvalifikace a připomenout dosavadní pokroky v terapii",
+   "Přijmout devalvaci bez obrany a explorovat její souvislost s přerušením: 'Napadá mě, jestli to, jak teď o mně přemýšlíte, nesouvisí s tím, že jsem tu tři týdny nebyl'",
+   "Interpretovat klientovi, že používá primitivní obranu devalvace typickou pro jeho diagnózu",
+   "Nabídnout ukončení terapie, když v ni klient ztratil důvěru"
   ],
-  "correct": 0,
-  "explanation": "Cizorodý, na klientku vázaný protipřenos odpovídající její rané zkušenosti je typickým projevem projektivní identifikace — a od Biona a Ogdena platí, že jeho hlavní hodnota je informační: terapeut obsah kontejnuje, zpracuje a vrací v snesitelné, verbalizované podobě. Bezprostřední plné odkrytí by klientku zatížilo terapeutovým stavem místo zpracování jejího. Výhradní přesun do osobní terapie i potlačení by cennou komunikaci zahodily — ačkoli reflexe vlastního podílu (co je moje, co její) je samozřejmou součástí kontejnování.",
-  "source": "Bion, W. R.: Learning from Experience (1962); Ogden, T. H.: Projective Identification and Psychotherapeutic Technique (1982)",
-  "seedElo": 1700
+  "correct": 1,
+  "explanation": "Devalvace po separaci je přenosová komunikace o zranění opuštěním; nejvhodnější je ji neodehrát (nehájit se, neodvrhnout klienta) a zvědavě propojit s kontextem přerušení, čímž se afekt vrací do vztahu, kde může být zpracován. Obhajoba kvalifikace znamená nechat se vtáhnout do odehrání a implicitně potvrdit, že devalvace terapeuta ohrožuje. Poučování o 'primitivní obraně' je zahanbující intelektualizovaný protiútok a nabídka ukončení by byla protipřenosovým odvržením — přesně tím opuštěním, jehož se klient děsí.",
+  "source": "Kernberg, O. F. a kol.: Transference-Focused Psychotherapy (2015); Gabbard, G. O.: Psychodynamic Psychiatry (2014)",
+  "seedElo": 1650
  },
  {
   "id": "obr-046",
@@ -742,35 +709,900 @@
   "seedElo": 1650
  },
  {
-  "id": "obr-047",
-  "type": "E",
+  "id": "obr-034",
+  "type": "K",
   "category": "obrany",
-  "text": "Student psychoterapie shrnuje látku: 'Obranné mechanismy popsala psychoanalýza jako nevědomé strategie zvládání úzkosti. Každý člověk nějaké obrany používá. Obrany jsou ze své podstaty patologické, a cílem zdravého vývoje je proto obran se zcela zbavit. Vaillant ukázal, že obrany lze řadit podle zralosti.' Které tvrzení je z hlediska psychodynamické teorie chybné?",
+  "text": "Čím se liší disociace od štěpení, když oba pojmy popisují 'rozdělení' psychiky?",
   "options": [
-   "Že obranné mechanismy jsou nevědomé strategie zvládání úzkosti",
-   "Že obrany používá každý člověk",
-   "Že Vaillant řadil obrany podle zralosti",
-   "Že obrany jsou ze své podstaty patologické a cílem vývoje je zbavit se jich"
-  ],
-  "correct": 3,
-  "explanation": "Obrany jsou normální a nezbytnou výbavou psychiky — chrání před zahlcením a umožňují adaptaci; McWilliams zdůrazňuje, že 'obranný' charakter je věcí pozorovatele, pro subjekt jde prostě o způsob bytí ve světě. Patologie nespočívá v přítomnosti obran, ale v jejich rigiditě, nezralosti a nepřiléhavosti situaci; cílem vývoje i terapie je flexibilnější a zralejší obranný repertoár, ne psychika bez obran. Ostatní tři tvrzení odpovídají standardní teorii.",
-  "source": "McWilliams, N.: Psychoanalytická diagnóza (1994/2015), úvod ke kap. o obranách; Vaillant, G. E. (1977)",
-  "seedElo": 1350
- },
- {
-  "id": "obr-048",
-  "type": "E",
-  "category": "obrany",
-  "text": "Začínající terapeutka referuje na supervizi: 'Klient mi celé sezení vyprávěl, jak jeho kolegové jsou líní a všechno sabotují, přičemž z popisu je zřejmé, že takto na pracovišti jedná spíš on sám a u sebe to nevidí. Jde tedy o učebnicovou projektivní identifikaci — připsal kolegům vlastní nepřijatelné chování.' Kde je z hlediska přesného užití pojmů chyba v její formulaci?",
-  "options": [
-   "Popsané chování nemůže být obranou, protože klient o kolezích mluví vědomě",
-   "Popsaný jev je ve skutečnosti přemístění agrese z terapeutky na kolegy",
-   "Popsaný jev je prostá projekce; o projektivní identifikaci by šlo, až kdyby klient interpersonálním tlakem reálně vyvolával projikované stavy v druhých — například lenost či sabotování v protipřenosu terapeutky",
-   "Chyba není — projekce a projektivní identifikace jsou zaměnitelné pojmy"
+   "Disociace je zralá obrana, štěpení primitivní",
+   "Jde o synonyma — disociace je jen novější termín pro štěpení",
+   "Disociace vertikálně odděluje celé stavy vědomí a prožívání (až s amnestickými bariérami), štěpení odděluje protikladné afektivní reprezentace self a objektů ('celý dobrý' vs. 'celý špatný') při zachovaném kontinuálním vědomí",
+   "Štěpení se týká vnímání času, disociace vnímání objektů"
   ],
   "correct": 2,
-  "explanation": "Terapeutka popsala čisté připsání vlastního nepřijatelného obsahu druhým bez jakéhokoli dokladu interpersonálního tlaku či indukovaného prožitku — tedy projekci. Projektivní identifikace by vyžadovala druhou, interpersonální fázi: příjemce (kolegové, terapeutka) by byl nevědomě tlačen projikovaný stav skutečně prožívat nebo odehrávat. Záměna obou pojmů je jedna z nejčastějších chyb v klinickém žargonu. Vědomost řeči o kolezích obranu nevylučuje (nevědomý je mechanismus, ne slova) a pro přemístění chybí jakýkoli doklad původního afektu vůči terapeutce.",
-  "source": "Ogden, T. H.: On Projective Identification (1979); Gabbard, G. O.: Psychodynamic Psychiatry (2014)",
-  "seedElo": 1600
+  "explanation": "Štěpení je operace na objektových a self-reprezentacích: vědomí zůstává kontinuální, ale obrazy sebe a druhých se překlápějí mezi nekompatibilními 'celý dobrý / celý špatný' stavy — typicky u hraniční organizace. Disociace dělí samotné vědomí a prožívání do oddělených stavů (derealizace, depersonalizace, amnézie, v krajní podobě disociativní identita) — typicky v souvislosti s traumatem. Nejsou to synonyma ani stupně téže škály; obě patří k primitivnějším procesům, takže hierarchický distraktor neplatí.",
+  "source": "Kernberg, O. F. (1975); McWilliams, N.: Psychoanalytická diagnóza (1994/2015); Putnam, F. W. (1997)",
+  "seedElo": 1700
+ },
+ {
+  "id": "obr-040",
+  "type": "F",
+  "category": "obrany",
+  "text": "Jak Thomas Ogden strukturuje proces projektivní identifikace?",
+  "options": [
+   "Jako dvoufázový proces: projekce a následná represe",
+   "Jako třífázový proces: nevědomá fantazie umístění části self do druhého, interpersonální tlak vedoucí příjemce k odpovídajícímu prožívání, a znovuzvnitřnění obsahu zpracovaného příjemcem",
+   "Jako čistě intrapsychickou fantazii bez interpersonální složky",
+   "Jako vědomou manipulativní strategii hraničních pacientů"
+  ],
+  "correct": 1,
+  "explanation": "Ogden (1979) rozčlenil PI do tří fází: (1) fantazie zbavit se části self a uložit ji do druhého, (2) reálný interpersonální tlak, jímž je příjemce nevědomě veden prožívat a jednat kongruentně s projekcí, (3) reinternalizace — projektor si bere zpět verzi obsahu 'metabolizovanou' příjemcem, což v terapii otevírá cestu ke změně. Čistě intrapsychické pojetí odpovídá spíše rané Kleinové, kterou Ogden právě rozšiřuje; PI není vědomá manipulace, byť tak může na příjemce působit.",
+  "source": "Ogden, T. H.: On Projective Identification, Int. J. Psychoanal. (1979)",
+  "seedElo": 1700
+ },
+ {
+  "id": "obr-045",
+  "type": "I",
+  "category": "obrany",
+  "text": "Terapeut u klientky s traumatickou historií opakovaně zjišťuje, že se během sezení cítí neschopně a bezmocně — stav, který u jiných klientů nezná a který nápadně odpovídá tomu, jak klientka popisuje své dětské prožívání s nedostupnou matkou. Jak s tímto protipřenosem z hlediska psychodynamického porozumění nejvhodněji naložit?",
+  "options": [
+   "Použít prožitek jako informaci o klientčině vnitřním světě: v duchu ho kontejnovat, zvážit, že nese její odštěpenou zkušenost, a až to bude únosné, citlivě ji pomoci tuto zkušenost slovy uchopit",
+   "Sdělit klientce bezprostředně a v plném rozsahu, co v něm vyvolává",
+   "Považovat pocity za signál vlastní nezpracované problematiky a řešit je výhradně v osobní terapii",
+   "Pocity potlačit a soustředit se na obsah klientčina sdělení"
+  ],
+  "correct": 0,
+  "explanation": "Cizorodý, na klientku vázaný protipřenos odpovídající její rané zkušenosti je typickým projevem projektivní identifikace — a od Biona a Ogdena platí, že jeho hlavní hodnota je informační: terapeut obsah kontejnuje, zpracuje a vrací v snesitelné, verbalizované podobě. Bezprostřední plné odkrytí by klientku zatížilo terapeutovým stavem místo zpracování jejího. Výhradní přesun do osobní terapie i potlačení by cennou komunikaci zahodily — ačkoli reflexe vlastního podílu (co je moje, co její) je samozřejmou součástí kontejnování.",
+  "source": "Bion, W. R.: Learning from Experience (1962); Ogden, T. H.: Projective Identification and Psychotherapeutic Technique (1982)",
+  "seedElo": 1700
+ },
+ {
+  "id": "obr-026",
+  "type": "K",
+  "category": "obrany",
+  "text": "V čem se pojetí projektivní identifikace u Melanie Kleinové liší od pozdějšího rozpracování u Thomase Ogdena?",
+  "options": [
+   "Kleinová ji pokládala za zralou obranu, Ogden za primitivní",
+   "Kleinová popsala PI u dospělých pacientů, Ogden ji přenesl do dětské analýzy",
+   "Kleinová ji pojímala primárně jako intrapsychickou fantazii o umístění částí self do objektu, Ogden zdůraznil reálný interpersonální proces, v němž příjemce projikované obsahy skutečně prožívá a může je zpracovat",
+   "Ogden pojem odmítl a nahradil jej pojmem kontejnování"
+  ],
+  "correct": 2,
+  "explanation": "U Kleinové (1946) je projektivní identifikace především nevědomou fantazií: části self jsou ve fantazii vloženy do objektu, aby byly ovládnuty či zbaveny. Ogden (1979, 1982) — v návaznosti na Biona — ukázal, že jde zároveň o reálný dvoufázový interpersonální proces: projektor vyvíjí tlak, příjemce obsah skutečně prožívá ('psychologicky zpracovaná' verze pak může být vrácena), čímž se PI stává i komunikací a potenciálním nástrojem změny. Kontejnování je Bionův pojem, který Ogden integruje, nikoli náhrada PI; směr od dětské analýzy k dospělým je historicky obrácený, než tvrdí distraktor.",
+  "source": "Klein, M.: Notes on Some Schizoid Mechanisms (1946); Ogden, T. H.: On Projective Identification (1979)",
+  "seedElo": 1750,
+  "deepDive": "Vývoj pojmu projektivní identifikace je učebnicovým příkladem posunu psychoanalýzy od jednoosobní k dvouosobní psychologii. Kleinová (1946) jej razí jako fantazii paranoidně-schizoidní pozice. Bion (1962) přidává rozlišení normální (komunikativní) a patologické PI a model kontejner–kontejnované: matka/analytik nestravitelné obsahy 'metabolizuje' a vrací v snesitelné podobě. Ogden (1979) proces systematizuje do tří fází — projektivní fantazie, interpersonální tlak, znovuzvnitřnění zpracované verze — čímž z obrany dělá zároveň komunikaci a motor terapeutické změny. Právě proto je dnes protipřenos chápán ne jako překážka, ale jako primární zdroj dat o pacientově vnitřním světě."
+ },
+ {
+  "id": "obr-A28",
+  "type": "F",
+  "category": "obrany",
+  "text": "Ve stati Humor (1927) vysvětluje Freud humorný postoj tím, že:",
+  "options": [
+   "ego se vysměje superegu a načas se zbaví jeho tíživých nároků i výčitek",
+   "ono propašuje do vědomí zakázané přání skryté v úspoře psychické energie",
+   "superego promluví k egu laskavě a ukáže mu ohrožení jako pouhou malichernost",
+   "ego se ztotožní s posluchačem a jeho smíchem si potvrdí svou vlastní hodnotu"
+  ],
+  "correct": 2,
+  "explanation": "Oproti Vtipu z roku 1905 Freud posouvá důraz: v humoru se neušetří energie na vytěsnění, nýbrž na afektu, který se nekonal. Obvykle přísné superego se nakrátko chová k egu jako dospělý k vystrašenému dítěti a naznačí mu, že svět je jen hra. Vaillant proto řadí humor mezi zralé obrany — dovoluje pohlédnout na bolestné, aniž by se přestalo brát vážně.",
+  "source": "Sigmund Freud, Der Humor (1927)",
+  "seedElo": 1850
+ },
+ {
+  "id": "obr-B14",
+  "type": "V",
+  "category": "obrany",
+  "text": "Žena odchází ze sezení, kde se cítila zahanbená terapeutčinou poznámkou o jejím vzhledu. Cestou domů je klidná, doma se ale během hodiny rozčílí na psa kvůli chlupům na gauči a na syna kvůli neuklizené bundě. O terapeutce příště mluví jen v dobrém a poznámku sama nezmíní. Co je nejpravděpodobnější z hlediska kritéria: cesta afektu od ohrožujícího objektu k jinému cíli při zachovaném obsahu?",
+  "options": [
+   "projekce — vlastní hněv je připsán terapeutce jako její hněv",
+   "obrácení proti sobě — zlost je stočena do sebeobviňování",
+   "reaktivní výtvor — hněv je nahrazen okázalou vděčností",
+   "přemístění — afekt z ohrožujícího objektu jde na bezpečnější"
+  ],
+  "correct": 3,
+  "explanation": "Rozhodující je, že hněv nikam nezmizel ani se nezměnil ve svůj opak, jen si našel bezpečnější adresáty — psa a syna. Projekce by znamenala, že žena vidí hněv v terapeutce; nic takového nepopisuje. Reaktivní výtvor by vyžadoval převrácení do opačného postoje a obrácení proti sobě by se projevilo sebeobviňováním, ne výbuchy směrem ven.",
+  "source": "Anna Freudová, Já a obranné mechanismy",
+  "seedElo": 1850
+ },
+ {
+  "id": "obr-B27",
+  "type": "V",
+  "category": "obrany",
+  "text": "Žena čekající tři dny na výsledek biopsie si předem promyslí, co udělá při každé variantě: koho zavolá, kdy si vezme volno, co řekne dětem. U toho pláče a říká, že se bojí. Plánu se drží, spí a v práci funguje; ve chvílích strachu se k plánu vrací a strach neustupuje, jen je snesitelnější. Co je nejpravděpodobnější z hlediska kritéria: realistická příprava na budoucnost při ponechaném a prožívaném afektu?",
+  "options": [
+   "anticipace — realistické plánování s předem prožitou úzkostí",
+   "intelektualizace — úzkost je neutralizována odbornou abstrakcí",
+   "omnipotentní kontrola — úzkost mizí díky pocitu vlády nad děním",
+   "obsedantní přemítání — scénáře se opakují bez jakékoli úlevy"
+  ],
+  "correct": 0,
+  "explanation": "Rozhodující je, že afekt zůstal na místě a je prožíván, plánování ho nemá odstranit, jen učinit snesitelným — to je znak anticipace jako zralé obrany. Intelektualizace by úzkost odsunula pomocí abstrakce a žena by o strachu nemluvila. Omnipotentní kontrola by přinesla pocit, že výsledek lze ovlivnit, a obsedantní přemítání by bylo neodbytné, neúlevné a fungování by narušilo.",
+  "source": "George Vaillant, The Wisdom of the Ego",
+  "seedElo": 1850
+ },
+ {
+  "id": "obr-A10",
+  "type": "K",
+  "category": "obrany",
+  "text": "Chirurg při náročné operaci necítí soucit ani úzkost a plně se soustředí na výkon; večer doma je s rodinou vřelý a otevřený. Z hlediska teorie obran jde o:",
+  "options": [
+   "patologickou izolaci afektu, protože trvalé odštěpení citu poškozuje vztahovou kapacitu",
+   "adaptivní užití obrany, protože je vázaná na situaci a mimo ni je prožívání dostupné",
+   "manickou obranu, protože ovládání těla druhého člověka nese rysy triumfu a pohrdání",
+   "psychosomatickou de-afektualizaci, protože chybí symbolické zpracování prožívaného"
+  ],
+  "correct": 1,
+  "explanation": "Rozhodujícím kritériem zdravé obrany není její „úroveň“, ale flexibilita: zda je vázaná na kontext, časově omezená a zda po ní zůstává přístup k afektu. Táž izolace afektu je adaptivní na operačním sále a patologická v manželství. Obrany se proto neposuzují izolovaně, nýbrž podle nákladů, které si vybírají na fungování a na vztazích.",
+  "source": "George E. Vaillant, Ego Mechanisms of Defense (1992); Nancy McWilliams, Psychoanalytická diagnóza (1994)",
+  "seedElo": 1900
+ },
+ {
+  "id": "obr-A16",
+  "type": "F",
+  "category": "obrany",
+  "text": "Bionovy „základní předpoklady“ ve skupinách (dependence, fight-flight, pairing) je nejlépe chápat jako:",
+  "options": [
+   "sdílené nevědomé obrany skupiny proti úzkosti z úkolu, jež nahrazují pracovní činnost",
+   "vývojová stadia, jimiž každá skupina postupně prochází v pevném a nevratném pořadí",
+   "role, které si členové skupiny vědomě rozdělí, aby si usnadnili plnění daného úkolu",
+   "typy vedení, jež si skupina volí podle osobnosti a stylu svého formálního vedoucího skupiny"
+  ],
+  "correct": 0,
+  "explanation": "Bion staví proti sobě pracovní skupinu, která sleduje úkol a snáší frustraci, a skupinu ovládanou základním předpokladem, kde se o úzkost stará sdílená fantazie místo práce. Skupina buď čeká na spasitelného vůdce (dependence), hledá nepřítele (fight-flight), nebo doufá ve spásu zrozenou z dvojice (pairing). Jde tedy o obranu na úrovni celku, ne o součet obran jednotlivců.",
+  "source": "Wilfred R. Bion, Experiences in Groups (1961)",
+  "seedElo": 1900
+ },
+ {
+  "id": "obr-B01",
+  "type": "V",
+  "category": "obrany",
+  "text": "Klientka přichází deset dní po otcově pohřbu. Mluví rychle, rozjíždí tři nové projekty a opakuje, že smrt je jen přechod a otec by chtěl, aby letěla. Spánek, chuť k jídlu i pracovní výkon jsou beze změny. Když terapeut vysloví slovo rakev, na vteřinu jí ztuhne obličej — a hned se rozesměje. Co je nejpravděpodobnější z hlediska kritéria: triumf a pohrdání vůči ztrátě při zachovaném vegetativním rytmu, s krátkým průsakem afektu?",
+  "options": [
+   "manická obrana — triumf a pohrdání nad ztrátou, afekt prosakuje",
+   "hypomanická epizoda — elevace nálady se sníženou potřebou spánku",
+   "reaktivní výtvor — nepřátelství vůči otci obrácené v starostlivost",
+   "neurotické popření — fakt smrti dosud nedorazil do vědomí"
+  ],
+  "correct": 0,
+  "explanation": "Manická obrana stojí na triádě kontroly, triumfu a pohrdání vůči ztrátě; rozhodujícím markerem je tu vteřinové ztuhnutí — afekt je pod povrchem a průsak se okamžitě zakrývá smíchem. Hypomanie by přinesla vegetativní posun, především sníženou potřebu spánku, a nebyla by vázána jen na téma ztráty. Reaktivní výtvor je trvalý povahový postoj proti impulzu, ne vzepětí kolem konkrétní události; neurotické popření by neobstálo, protože fakt smrti je plně ve vědomí.",
+  "source": "Melanie Klein, Smutek a jeho vztah k manikodepresivním stavům",
+  "seedElo": 1900
+ },
+ {
+  "id": "obr-A05",
+  "type": "F",
+  "category": "obrany",
+  "text": "Anna Freudová vysvětluje nápadné filosofování dospívajících (intelektualizaci v adolescenci) tak, že:",
+  "options": [
+   "myšlení sleduje pudový vzestup a zpracovává jej abstraktně, místo aby řídilo jednání",
+   "myšlení chrání před realitou vnějšího světa, jehož nároky dospívající zatím nezvládá",
+   "myšlení nahrazuje chybějící rodičovské vzory a přejímá tím roli vnitřního soudce a rádce",
+   "myšlení slouží ke zvýšení výkonu rozumu, který v pubertě skokově roste spolu s tělem"
+  ],
+  "correct": 0,
+  "explanation": "Nejde o vyšší intelektuální výkon ani o únik před vnějším světem: vášnivé debaty o lásce, svobodě či Bohu jsou podle Anny Freudové myšlenkovým doprovodem právě probuzených pudových přání. Intelektualizace zde tedy není od pudu odtržena — je na něj těsně navázána, jen jej převádí do neosobní řeči pojmů. Proto také s odezněním pubertálního tlaku často zmizí.",
+  "source": "Anna Freudová, Já a obranné mechanismy (1936), kap. 13",
+  "seedElo": 1950
+ },
+ {
+  "id": "obr-B08",
+  "type": "V",
+  "category": "obrany",
+  "text": "Muž slíbí manželce, že vyzvedne její matku na nádraží. Vyjede pozdě, jede podle svých slov opatrně pomalu, cestou si nemůže vzpomenout na nástupiště a dorazí o hodinu později. Doma se okázale a mnohomluvně omlouvá, přitom se usmívá, a na dotaz, zda mu ta jízda vadila, řekne, že mu to vůbec nevadilo. Co je nejpravděpodobnější z hlediska kritéria: hostilita vyjádřená formou selhávajícího výkonu při vědomě vstřícném postoji?",
+  "options": [
+   "reaktivní výtvor — nepřátelství je nahrazeno okázalou vstřícností",
+   "acting out — nevědomý konflikt je odehrán mimo terapeutický rámec",
+   "rozštěpení ambivalence — manželka je vnímána jen v jedné poloze",
+   "pasivní agrese — hostilita je vyjádřena skrze selhávající výkon"
+  ],
+  "correct": 3,
+  "explanation": "Určující je, že agrese je celá uložena do formy provedení: souhlas je zachován, ale výsledek druhého poškodí, a omluva je součástí téhož manévru. Reaktivní výtvor by znamenal skutečně a trvale nadstandardní službu bez sabotáže. Acting out popisuje spíš odehrání konfliktu mimo léčbu jako celek než tento konkrétní vztahový vzorec; o rozštěpení ambivalence nesvědčí nic, obě polohy jsou naopak přítomné najednou.",
+  "source": "George Vaillant, Adaptation to Life",
+  "seedElo": 1950
+ },
+ {
+  "id": "obr-A01",
+  "type": "K",
+  "category": "obrany",
+  "text": "Matka, která se sama musela vzdát studia, s vášní organizuje dceřinu kariéru a každý dceřin polevující výkon prožívá jako osobní křivdu. Anna Freudová by zde uvažovala o:",
+  "options": [
+   "obratu agrese proti sobě, který se projeví soustavným sebeobviňováním z vlastního selhání",
+   "reaktivním výtvoru, v němž se zakázané přání nahradí nápadně přehnaným opačným postojem",
+   "altruistickém odevzdání, kdy se vlastní přání žije v druhém a jeho úspěch je uspokojuje",
+   "přemístění, při němž se citový náboj přenese z původního objektu na objekt méně ohrožující"
+  ],
+  "correct": 2,
+  "explanation": "Altruistické odevzdání spojuje projekci s přemístěním pudového cíle: subjekt se svého přání nevzdá, jen je nechá žít v druhém a horlivě mu k němu dopomáhá. Anna Freudová upozorňuje, že za obětavostí se skrývá i agrese — ve prospěch druhého se člověk odváží prosazovat to, co si u sebe zakázal. Odtud i zuřivost, když zástupce selže.",
+  "source": "Anna Freudová, Já a obranné mechanismy (1936), kap. 10",
+  "seedElo": 2000
+ },
+ {
+  "id": "obr-A06",
+  "type": "F",
+  "category": "obrany",
+  "text": "Wilhelm Reich zavádí pojem „charakterový pancíř“ (Charakterpanzer). Rozumí jím:",
+  "options": [
+   "soubor příznaků, jimiž se neurotický konflikt projevuje v tělesných orgánech pacienta",
+   "vrstvu vědomých zásad, jimiž si člověk zdůvodňuje své jinak nepřijatelné jednání",
+   "chronické ztuhnutí ega do trvalé formy, jež plní obrannou funkci bez ohledu na obsah",
+   "obranné seskupení, které vzniká teprve v analýze jako reakce na osobu terapeuta"
+  ],
+  "correct": 2,
+  "explanation": "Pancíř je pro Reicha obrana, která se z jednotlivého aktu stala trvalým způsobem bytí — držením těla, tónem hlasu, zdvořilostí, ironií. Protože nemá jeden obsah, nelze ji zrušit obsahovou interpretací; nejprve se musí zviditelnit její forma. Odtud Reichova analýza charakteru jako práce s tím, jak pacient mluví, nikoli co říká.",
+  "source": "Wilhelm Reich, Charakteranalyse (1933)",
+  "seedElo": 2000
+ },
+ {
+  "id": "obr-A08",
+  "type": "F",
+  "category": "obrany",
+  "text": "Ve Vaillantově hierarchii patří do skupiny nezralých (immature) obran typicky:",
+  "options": [
+   "potlačení, anticipace, altruismus a humor, tedy obrany typické pro zdravé dospělé",
+   "bludná projekce, popření vnější reality a psychotické zkreslení vnímání skutečnosti",
+   "vytěsnění, přemístění, izolace afektu a reaktivní výtvor, tedy neurotické mechanismy",
+   "projekce, pasivní agrese, hypochondrie, schizoidní fantazie a acting out jednáním"
+  ],
+  "correct": 3,
+  "explanation": "Vaillant staví nezralé obrany mezi psychotické a neurotické: jsou běžné u adolescentů a u poruch osobnosti, jsou pro okolí nakažlivé a mění spíš druhé než sebe. Neurotické obrany mění vlastní prožitek, zralé (potlačení, anticipace, altruismus, humor, sublimace) uspokojují přání a zároveň berou ohled na realitu i na druhé lidi.",
+  "source": "George E. Vaillant, Ego Mechanisms of Defense (1992)",
+  "seedElo": 2000
+ },
+ {
+  "id": "obr-A22",
+  "type": "K",
+  "category": "obrany",
+  "text": "Pacientka mluví plynně a psychologicky o svých pocitech, terapeut se přitom nudí a po sezení si nepamatuje, o čem byla řeč. Podle mentalizačního rámce jde nejspíš o:",
+  "options": [
+   "psychickou ekvivalenci, kdy je vnitřní prožitek brán jako doslovná vnější skutečnost",
+   "pretend mode, kdy se řeč o duševních stavech odpojí od reality a mentalizuje naprázdno",
+   "teleologický modus, kdy jsou záměry uznány jen tehdy, projeví-li se hmatatelným činem",
+   "alexithymii, kdy pacient nemá pro své tělesné pocity slova a nedokáže je pojmenovat"
+  ],
+  "correct": 1,
+  "explanation": "Pretend mode je jeden z prementalizačních modů: obsah mysli běží naprázdno, bez vazby na vnější realitu a na afekt. Pozná se podle plynulé psychologické řeči, po níž nic nenásleduje, případně podle hypermentalizace — dlouhých spekulací o motivech druhých. Obrannou funkcí je vyhnout se skutečnému, tělesně cítěnému prožitku; protipólem je psychická ekvivalence, kde se vnitřní bere doslova.",
+  "source": "Anthony Bateman a Peter Fonagy, Mentalization-Based Treatment for Borderline Personality Disorder (2004)",
+  "seedElo": 2000
+ },
+ {
+  "id": "obr-B17",
+  "type": "V",
+  "category": "obrany",
+  "text": "Lékařka jde ráno na sál, ačkoli čeká na výsledek dceřiny biopsie. Před operací si řekne, že to tam je, ale že se k tomu vrátí večer. Operuje soustředěně a bez chyby, doma pak sedí u telefonu, pláče a mluví o strachu, který popisuje jako celý den odložený stranou. Co je nejpravděpodobnější z hlediska kritéria: vědomá dostupnost obsahu a jeho doložený návrat v čase, který si člověk sám určil?",
+  "options": [
+   "vytěsnění — obsah je nedostupný vědomí a nelze jej vyvolat",
+   "izolace afektu — obsah je přítomen, cit je od něj oddělen trvale",
+   "potlačení (suprese) — vědomé odložení s pozdějším návratem",
+   "disociace — vědomí se rozděluje a část zážitku se stává cizí"
+  ],
+  "correct": 2,
+  "explanation": "Kritérium je splněno doslova: obsah zůstal vědomý, odklad byl záměrný a afekt se v ohlášeném čase vrátil v plné síle — to je definice suprese jako zralé obrany. Vytěsnění by znamenalo, že obsah není k dispozici a nedá se vyvolat vůlí. Izolace afektu by cit oddělila i večer, kdy ale lékařka pláče, a disociace by přinesla odcizení nebo mezeru v prožitku, o čemž není zmínka.",
+  "source": "George Vaillant, The Wisdom of the Ego",
+  "seedElo": 2000
+ },
+ {
+  "id": "obr-B21",
+  "type": "V",
+  "category": "obrany",
+  "text": "Student se tři měsíce těšil na stáž v konkrétní laboratoři, psal o ní nadšeně a chodil se dívat na její web. Po zamítavém dopise prohlásí, že tam stejně vládne hrozná atmosféra a že by ho to nudilo. O zklamání nemluví, o dopisu ví a zmiňuje ho věcně. Co je nejpravděpodobnější z hlediska kritéria: dodatečné rozumné zdůvodnění nezdaru při zachovaném vědomí faktu?",
+  "options": [
+   "popření — informace o nepřijetí se do vědomí vůbec nedostala",
+   "racionalizace — nezdar dostává dodatečné rozumné odůvodnění",
+   "intelektualizace — konflikt je zpracován abstraktní teorií",
+   "obranná devalvace — hodnota objektu klesá kvůli ochraně před bolestí"
+  ],
+  "correct": 1,
+  "explanation": "Student fakt zamítnutí zná a nepopírá ho, jen mu dodává přijatelné vysvětlení, které chrání sebeúctu — to je jádro racionalizace. Popření by vyžadovalo, aby informace nebyla ve vědomí přijata. Devalvace laboratoře je tu obsahovou složkou téhož manévru, ale kritérium se ptá po mechanismu, a intelektualizace by znamenala posun do abstraktní teorie, ne prosté zdůvodnění.",
+  "source": "Anna Freudová, Já a obranné mechanismy",
+  "seedElo": 2000
+ },
+ {
+  "id": "obr-B25",
+  "type": "V",
+  "category": "obrany",
+  "text": "Muž vysvětluje, proč nepomohl bratrovi během jeho nemoci: každý si má nést svůj kříž sám, jinak z něj bude parazit, a laskavost lidi kazí. Nemluví o penězích, čase ani vzdálenosti, mluví o povinnosti a o tom, co je správné. Když terapeutka zmíní bratrův strach, muž zopakuje větu o kříži. Co je nejpravděpodobnější z hlediska kritéria: povaha zdůvodnění, tedy zda se opírá o okolnosti, nebo o mravní princip?",
+  "options": [
+   "racionalizace — jednání je zdůvodněno praktickými okolnostmi",
+   "intelektualizace — téma je převedeno do abstraktní roviny",
+   "moralizace — jednání dostává oporu v mravní povinnosti",
+   "izolace afektu — vina je oddělena od svého obsahového jádra"
+  ],
+  "correct": 2,
+  "explanation": "Kritérium odděluje dvě blízké obrany podle typu opory: racionalizace se dovolává okolností a rozumnosti, moralizace hledá povinnost a nachází důvod, proč je jednání správné. Muž nemluví o tom, že nemohl, ale o tom, že neměl, a opakování mravní formule i po zmínce bratrova strachu to potvrzuje. Intelektualizace by přinesla teorii či pojmový aparát a izolace afektu by ponechala popis obsahu bez citu, ne mravní argument.",
+  "source": "Nancy McWilliams, Psychoanalytic Diagnosis",
+  "seedElo": 2000
+ },
+ {
+  "id": "obr-A11",
+  "type": "F",
+  "category": "obrany",
+  "text": "Melanie Kleinová popisuje manickou obranu jako trojici postojů vůči objektu. Jsou to:",
+  "options": [
+   "kontrola, triumf a pohrdání — postoje, jimiž se popírá závislost na potřebném objektu",
+   "závist, žárlivost a chamtivost — postoje, jimiž se útočí na dobro uvnitř dobrého objektu",
+   "idealizace, popření a rozštěpení — postoje, jimiž se dobrý objekt chrání před útokem",
+   "vděčnost, reparace a truchlení — postoje, jimiž se poškozený objekt uvnitř obnovuje"
+  ],
+  "correct": 0,
+  "explanation": "Manická obrana čelí depresivní úzkosti — bolesti z poškození milovaného objektu a ze závislosti na něm. Kontrola popírá, že objekt je svobodný; triumf popírá, že na něm záleží; pohrdání popírá, že jeho ztráta bolí. Klein zdůrazňuje, že tím je zároveň znemožněna skutečná reparace, protože ta žádá přiznat objektu hodnotu a vlastní vinu.",
+  "source": "Melanie Kleinová, A Contribution to the Psychogenesis of Manic-Depressive States (1935)",
+  "seedElo": 2050
+ },
+ {
+  "id": "obr-A23",
+  "type": "F",
+  "category": "obrany",
+  "text": "Teorie strukturální disociace osobnosti (Van der Hart, Nijenhuis, Steele) tvrdí, že:",
+  "options": [
+   "osobnost se dělí na část zdánlivě normální a část emoční, jež nese obranné reakce na trauma",
+   "disociace je jen krajní stupeň běžné pozornostní absorpce a vlastní strukturu nemá",
+   "disociativní příznaky vznikají teprve v dospělosti a s ranými vztahy nijak nesouvisejí",
+   "disociace je jen jiné jméno pro vytěsnění, popsané slovníkem traumatologické školy"
+  ],
+  "correct": 0,
+  "explanation": "Model navazuje na Janeta: trauma brání integraci a osobnost zůstává rozdělena. Zdánlivě normální část (ANP) obstarává každodenní život a traumatickému materiálu se vyhýbá, emoční část (EP) je fixována na obranné akce — boj, útěk, ztuhnutí, volání o pomoc. Primární, sekundární a terciární disociace se liší počtem a složitostí těchto částí.",
+  "source": "Onno van der Hart, Ellert Nijenhuis, Kathy Steele: The Haunted Self (2006)",
+  "seedElo": 2050
+ },
+ {
+  "id": "obr-B03",
+  "type": "V",
+  "category": "obrany",
+  "text": "Muž popisuje dopravní nehodu, při níž zemřela jeho spolujezdkyně: pamatuje si sled událostí, rychlost, barvu vozu i čas příjezdu záchranky. Na otázku po pocitech odpoví, že to bylo nepříjemné, a pokračuje v detailech. V jiných sezeních mluví o dceři s pláčem a s bohatým citovým slovníkem. Co je nejpravděpodobnější z hlediska kritéria: selektivita odpojení afektu při zachované schopnosti prožívat jinde?",
+  "options": [
+   "alexithymie — trvalý deficit v rozpoznávání a pojmenování emocí",
+   "disociace — část zážitku je nedostupná, chybí i obsah události",
+   "izolace afektu — obsah zůstává, citová složka je od něj odpojena",
+   "vytěsnění — celá vzpomínka byla odsunuta z vědomého pole"
+  ],
+  "correct": 2,
+  "explanation": "Rozlišujícím markerem je selektivita: afektivní slovník je u dcery plně k dispozici, chybí jen u jednoho tématu, což ukazuje na obranu, nikoli na deficit. Alexithymie je plošná a týkala by se i dcery. Disociace by narušila obsah nebo kontinuitu vzpomínky, ta je však detailní a souvislá; vytěsnění by znamenalo nedostupnost samotné události.",
+  "source": "Nancy McWilliams, Psychoanalytic Diagnosis",
+  "seedElo": 2050
+ },
+ {
+  "id": "obr-B23",
+  "type": "V",
+  "category": "obrany",
+  "text": "Žena, kterou matka v dětství opakovaně na týdny odkládala k příbuzným, ukončuje každý vztah sama. Dělá to zpravidla ve chvíli, kdy partner začne mluvit o společném bydlení, a popisuje to jako svobodné a klidné rozhodnutí. Po rozchodu se cítí silná a teprve po měsících přijde smutek. Co je nejpravděpodobnější z hlediska kritéria: obrácení role při opakování téhož traumatu, kdy se z předmětu děje stává jeho původce?",
+  "options": [
+   "obrat pasivního v aktivní — trauma je opakováno z pozice původce",
+   "identifikace s agresorem — žena přejímá vlastnosti opouštějící matky",
+   "anticipační vyhýbání — vztah končí kvůli předjímané úzkosti z opuštění",
+   "reaktivní výtvor — touha po vazbě se mění v okázalou nezávislost"
+  ],
+  "correct": 0,
+  "explanation": "Kritérium míří na strukturu opakování: totéž opuštění se odehraje znovu, ale s obrácenými rolemi, a tím se bezmoc mění ve zdánlivou moc. Identifikace s agresorem je blízká, jde však o převzetí vlastností a postoje ohrožujícího objektu, nikoli jen o výměnu pozic v témže scénáři; materiál nic o přejímání matčiných rysů neuvádí. Anticipační vyhýbání by vedlo k tomu, že vztah vůbec nevznikne, a reaktivní výtvor by znamenal trvalou povahovou nezávislost, ne opakovaný akt.",
+  "source": "Sigmund Freud, Mimo princip slasti",
+  "seedElo": 2050
+ },
+ {
+  "id": "obr-A13",
+  "type": "F",
+  "category": "obrany",
+  "text": "Rozdíl mezi „evakuační“ a „komunikační“ projektivní identifikací spočívá podle bionovské tradice v tom, že:",
+  "options": [
+   "evakuační se týká zlých částí self, komunikační výhradně částí dobrých a cenných",
+   "evakuační se zbavuje nesnesitelného obsahu, komunikační jej vkládá, aby byl pochopen",
+   "evakuační probíhá ve snu a fantazii, komunikační jen v reálném chování vůči druhému",
+   "evakuační je vlastní neuróze, komunikační se objevuje výhradně u psychotických pacientů"
+  ],
+  "correct": 1,
+  "explanation": "Bion popsal „normální“ projektivní identifikaci jako nejranější formu komunikace: kojenec vkládá nesnesitelný zážitek do matky, aby jej ona přijala, zpracovala a vrátila stravitelný. Nadměrná, patologická varianta usiluje jen o vyprázdnění a o kontrolu objektu, nikoli o porozumění. Rozdíl je tedy v míře a záměru, nikoli v obsahu projikovaného.",
+  "source": "Wilfred R. Bion, Learning from Experience (1962)",
+  "seedElo": 2100
+ },
+ {
+  "id": "obr-A21",
+  "type": "K",
+  "category": "obrany",
+  "text": "Týrané dítě trvá na tom, že je zlé a že si bití zaslouží, zatímco rodiče horlivě hájí. Fairbairnova „morální obrana“ to vysvětluje tak, že:",
+  "options": [
+   "dítě napodobuje agresora a přejímá jeho hodnocení, aby uniklo bezmoci vlastní role",
+   "dítě chrání rodiče ze strachu z odvety, kdyby jeho kritika pronikla ven na veřejnost",
+   "dítě raději nese zlo v sobě, aby objekt zůstal dobrý a svět tím i nadále snesitelný",
+   "dítě popírá násilí, protože vzpomínka na ně je vytěsněna spolu s celým tím obdobím"
+  ],
+  "correct": 2,
+  "explanation": "Fairbairn to shrnul obrazem: lépe být hříšníkem ve světě, jemuž vládne Bůh, než světcem ve světě, jemuž vládne ďábel. Vzít vinu na sebe je cena za udržení dobrého vnějšího objektu, na němž dítě zcela závisí. Vlastní špatnost je navíc nadějná — s hříchem se dá něco dělat, se zlým světem nikoli.",
+  "source": "W. R. D. Fairbairn, Psychoanalytic Studies of the Personality (1952)",
+  "seedElo": 2100
+ },
+ {
+  "id": "obr-B10",
+  "type": "I",
+  "category": "obrany",
+  "text": "Klient s citem a barvitě mluví o tom, jak se mu stýská po partnerce, která je měsíc pryč. Terapeutka poznamená, že něco podobného možná probíhá i mezi nimi dvěma, když mívá pauzu. Klient bez přerušení přejde k obecné úvaze o tom, jak dnešní psychoterapie přeceňuje vztah, a mluví dál kultivovaně a se zájmem. Co je nyní nejvhodnější z hlediska kritéria: intervence mířící nejprve na obranu v přenosu, nikoli na obsah?",
+  "options": [
+   "ukázat posun: jakmile jde o nás dva, řeč se přesune k obecnému",
+   "vrátit se k partnerce a prohloubit dosud otevřený citový materiál",
+   "interpretovat přání být terapeutce blízko jako přenos z dětství",
+   "nabídnout výklad o tom, jak se v terapii pracuje se vztahem"
+  ],
+  "correct": 0,
+  "explanation": "Kritérium ukládá pracovat s tím, co se právě děje s formou řeči: posun od živého citu k obecnosti přesně v okamžiku zmínky o vztahu je pozorovatelný a sdělitelný fakt. Návrat k partnerce obranu respektuje, ale posiluje ji tím, že ji nechá nepovšimnutou. Interpretace dětského původu přeskakuje obranu rovnou k obsahu a psychoedukace přijímá klientovu abstraktní rovinu jako téma.",
+  "source": "Paul Gray, The Ego and Analysis of Defense",
+  "seedElo": 2100
+ },
+ {
+  "id": "obr-B20",
+  "type": "V",
+  "category": "obrany",
+  "text": "Muž popisuje, že během rodinných večeří odejde do vnitřního světa, kde má vlastní město s ulicemi a obyvateli. Navenek sedí, přikyvuje a usmívá se. Když se ho terapeutka zeptá, o čem se u stolu mluvilo, zopakuje rozhovor téměř doslova a dodá, že mu doma bylo lépe než jim. Co je nejpravděpodobnější z hlediska kritéria: neporušená kontinuita vědomí a paměti při přesunu uspokojení do fantazie?",
+  "options": [
+   "disociativní stav — část dění se do paměti vůbec nezapsala",
+   "vyhýbavé chování — situace je opuštěna, aby se snížila úzkost",
+   "schizoidní fantazie — vztahovost se sytí ve vnitřním světě",
+   "depersonalizace — prožitek sebe je odcizený a nereálný"
+  ],
+  "correct": 2,
+  "explanation": "Klíčem je, že si muž pamatuje celý rozhovor, tedy nešlo o výpadek vědomí, a že vnitřní svět není prázdný útěk, ale místo, kde se vztahy skutečně odehrávají. To odpovídá schizoidnímu řešení konfliktu mezi touhou po blízkosti a strachem z ní. Disociace by narušila paměť, vyhýbání by znamenalo fyzický odchod ze situace a depersonalizace by přinesla odcizení sobě, ne bohatě obydlené město.",
+  "source": "Nancy McWilliams, Psychoanalytic Diagnosis",
+  "seedElo": 2100
+ },
+ {
+  "id": "obr-A07",
+  "type": "F",
+  "category": "obrany",
+  "text": "Reichova technická zásada v analýze charakteru zní, že analytik má nejprve:",
+  "options": [
+   "vyložit obsah posledního snu, protože ten ukazuje aktuální stav vytěsnění",
+   "zpracovat charakterový odpor a skrytý negativní přenos dřív než pudové obsahy",
+   "posílit pozitivní přenos, aby pacient snesl pozdější interpretace vlastních přání",
+   "rekonstruovat dětskou traumatickou scénu a teprve z ní odvodit povahu odporu"
+  ],
+  "correct": 1,
+  "explanation": "Reich tvrdil, že interpretace obsahu podaná skrz nedotčený pancíř je přijata bez afektu a analýzu spíš ztvrdí. Proto se má systematicky a opakovaně poukazovat na formu odporu, dokud se za zdvořilostí neobjeví latentní negativní přenos. Teprve uvolněný afekt dává obsahové interpretaci účinek.",
+  "source": "Wilhelm Reich, Charakteranalyse (1933), část I",
+  "seedElo": 2150
+ },
+ {
+  "id": "obr-A09",
+  "type": "F",
+  "category": "obrany",
+  "text": "Vaillantova longitudinální data o vývoji obran ukazují, že:",
+  "options": [
+   "poměr zralých a nezralých obran zůstává po adolescenci u téže osoby prakticky stálý",
+   "zralost obran koreluje s inteligencí, nikoli však s tělesným zdravím ani s prací",
+   "nezralé obrany mizí až po šedesátce, kdy jejich místo zaujmou obrany psychotické",
+   "podíl zralých obran s věkem stoupá a jejich zralost předpovídá pozdější přizpůsobení"
+  ],
+  "correct": 3,
+  "explanation": "Sledování týchž mužů po desetiletí ukázalo posun od nezralých obran v mládí ke zralým ve středním věku — obranný styl se tedy vyvíjí a není fixní. Zralost obran přitom předpovídala psychosociální i tělesné zdraví nezávisle na sociální vrstvě, vzdělání a příjmu. Obrana je proto pro Vaillanta vývojová proměnná, ne diagnostická nálepka.",
+  "source": "George E. Vaillant, Adaptation to Life (1977)",
+  "seedElo": 2150
+ },
+ {
+  "id": "obr-A26",
+  "type": "F",
+  "category": "obrany",
+  "text": "Nejpřesnější rozlišení mezi „acting out“ a „enactmentem“, jak jej zavedl Theodore Jacobs, zní:",
+  "options": [
+   "acting out je jednání pacienta místo vzpomínky, enactment je společný děj obou aktérů",
+   "acting out probíhá v sezení, enactment naopak výhradně mimo ně, v pacientově životě",
+   "acting out je vědomé porušení pravidel, enactment je nevědomý odpor pacienta v sezení",
+   "acting out se týká agrese, enactment sexuality; obojí jsou však jen varianty odporu"
+  ],
+  "correct": 0,
+  "explanation": "Freudovo agieren znamená opakovat v jednání to, co si pacient nemůže vybavit. Jacobs pojmem enactment upozornil, že do děje bývá vtažen i analytik: jeho protipřenosová reakce scénu spoluvytváří, takže nejde o pacientovo selhání, nýbrž o dvoustranný jev. Proto je enactment brán spíš za pracovní materiál než za komplikaci — jeho rozpoznání otvírá přístup k nezvyslovené části přenosu.",
+  "source": "Theodore J. Jacobs, On Countertransference Enactments (1986)",
+  "seedElo": 2150
+ },
+ {
+  "id": "obr-B05",
+  "type": "V",
+  "category": "obrany",
+  "text": "Klient ve třetím roce terapie plynně mluví o své dezorganizované vazbě, o matčině mentalizačním selhání a o tom, jak se mu to promítá do vztahů. Terapeutka má pocit, že sedí na přednášce; sezení běží hladce, klient odchází spokojený, ale ve vnějším životě ani v přenosu se roky nic nemění. Co je nejpravděpodobnější z hlediska kritéria: formálně správný mentalizační jazyk odpojený od prožitkové reality, bez napětí?",
+  "options": [
+   "intelektualizace — afekt je vázán abstrakcí, ale napětí zůstává znát",
+   "racionalizace — nepřijatelný motiv dostává přijatelné odůvodnění",
+   "pretend mode — mentalizační řeč běží bez opory v prožívání",
+   "obsedantní přemítání — myšlenka se opakuje bez úlevy a bez konce"
+  ],
+  "correct": 2,
+  "explanation": "Rozlišuje absence napětí a hladkost: u intelektualizace je cítit, že abstrakce něco drží, a terapeut vnímá tlak pod ní. Zde je řeč o vnitřních stavech formálně bezvadná, ale nespojená s prožitkem a bez jakéhokoli dopadu — to je popis pretend mode. Racionalizace by zdůvodňovala konkrétní jednání a obsedantní přemítání by přinášelo nepolevující nepohodu, ne spokojenost.",
+  "source": "Peter Fonagy a Mary Target, Playing with Reality",
+  "seedElo": 2150
+ },
+ {
+  "id": "obr-B15",
+  "type": "I",
+  "category": "obrany",
+  "text": "Klient v jednom sezení mluví o terapeutovi jako o jediném, kdo mu kdy rozuměl, a o své psychiatričce jako o naprosté nule. Za týden je to obrácené: psychiatrička konečně někdo rozumný, terapeut jen mlčí a nic nedělá. Klient si střídání nevšímá a mezi oběma obrazy necítí žádný rozpor. Co je nyní nejvhodnější z hlediska kritéria: nezpevnit rozštěpení a zároveň nevynucovat předčasnou integraci?",
+  "options": [
+   "říct, že psychiatrička je jistě dobrá odbornice a nezaslouží kritiku",
+   "všimnout si nahlas, že dobré a špatné se střídají mezi dvěma lidmi",
+   "interpretovat nenávist k psychiatričce jako přenesenou zlobu na matku",
+   "počkat, dokud se obraz sám neustálí, a téma zatím vůbec neotvírat"
+  ],
+  "correct": 1,
+  "explanation": "Kritérium vede k popisné intervenci, která obojí drží ve stejném zorném poli, aniž by po klientovi žádala, aby oba obrazy hned spojil. Obhajoba psychiatričky je korekcí reality a staví terapeuta na jednu stranu rozštěpu. Genetická interpretace přeskakuje aktuální dění a odklad tématu ponechává obranu bez povšimnutí a v tichosti ji stvrzuje.",
+  "source": "Otto Kernberg, Severe Personality Disorders",
+  "seedElo": 2150
+ },
+ {
+  "id": "obr-B26",
+  "type": "I",
+  "category": "obrany",
+  "text": "Klient řekne terapeutce, že na něj minule byla podrážděná. Terapeutka si po zvážení uvědomí, že to je pravda — přišla po ostrém sporu doma. Klient však pokračuje, že to jen potvrzuje, že jím pohrdala od prvního dne a pohrdat bude vždycky, a mluví o tom s klidnou jistotou. Co je nyní nejvhodnější z hlediska kritéria: oddělit pravdivou percepci od obranného zpracování, které na ni navazuje?",
+  "options": [
+   "trvat na tom, že jde o jeho projekci, a interpretovat její dětský původ",
+   "omluvit se za podráždění a téma jeho trvalosti dále vůbec neotvírat",
+   "potvrdit jeho percepci a pak zkoumat, proč z ní plyne trvalé pohrdání",
+   "mlčet a počkat, zda klient sám svou percepci časem opustí či rozvine"
+  ],
+  "correct": 2,
+  "explanation": "Kritérium žádá dvojí krok, protože materiál obsahuje dvě různé věci: přesný postřeh a jeho rozšíření do nadčasového soudu o pohrdání. Popřít percepci jako projekci by klienta učilo nedůvěřovat vlastnímu vnímání a obranu by jen posílilo. Samotná omluva bez druhého kroku nechá zobecnění nedotčené a mlčení ponechá klienta v přesvědčení, které se bez pojmenování zpravidla utvrdí.",
+  "source": "Merton Gill, Analysis of Transference",
+  "seedElo": 2150
+ },
+ {
+  "id": "obr-A03",
+  "type": "F",
+  "category": "obrany",
+  "text": "Anna Freudová rozlišuje obranu proti pudu a obranu proti afektu. O jejich vztahu tvrdí, že:",
+  "options": [
+   "afekt se na rozdíl od pudu bránit nedá, protože je vědomý už ve chvíli svého vzniku",
+   "obrana proti afektu je vždy až druhotná a nastupuje teprve po selhání obrany proti pudu",
+   "afekty se brání jen u dětí, zatímco dospělé ego bojuje výhradně proti pudovým přáním",
+   "ego bojuje proti afektu z týchž motivů, z jakých odmítá pud, jehož je afekt doprovodem"
+  ],
+  "correct": 3,
+  "explanation": "Afekt — úzkost, hněv, touha, žárlivost — sdílí osud pudu, ke kterému patří: je-li nepřijatelné přání, je nepřijatelný i jeho citový doprovod. Ego proto proti afektu nasazuje týž rejstřík: potlačení, přeměnu v opak, přemístění. Anna Freudová tím rozšířila teorii obran z pudové ekonomiky na afektivní život a otevřela cestu pozdější práci s emocemi v terapii.",
+  "source": "Anna Freudová, Já a obranné mechanismy (1936), kap. 3",
+  "seedElo": 2200
+ },
+ {
+  "id": "obr-A04",
+  "type": "F",
+  "category": "obrany",
+  "text": "Adolescentní asketismus se podle Anny Freudové liší od neurotického potlačení tím, že:",
+  "options": [
+   "se týká jen sexuality, kdežto potlačení zasahuje i agresi a závislostní přání",
+   "míří proti pudovosti jako takové, nikoli proti obsahu jednoho konkrétního přání",
+   "je vždy vědomě zvolený a mladý člověk ho dokáže kdykoli rozhodnutím odvolat",
+   "vzniká teprve po první zamilovanosti a je reakcí na zklamání ze skutečného partnera"
+  ],
+  "correct": 1,
+  "explanation": "Asketický adolescent neodmítá jednu vytěsněnou touhu, ale nedůvěřuje žádosti vůbec — omezuje jídlo, spánek, pohodlí, oblečení i sex. Anna Freudová to čte jako kvantitativní obranu proti pudovému přívalu puberty, nikoli jako obsahově cílené potlačení. Odtud i typický náhlý zvrat do opačného extrému nevázanosti.",
+  "source": "Anna Freudová, Já a obranné mechanismy (1936), kap. 12",
+  "seedElo": 2200
+ },
+ {
+  "id": "obr-A12",
+  "type": "F",
+  "category": "obrany",
+  "text": "Kernberg tvrdí, že interpretace primitivních obran u hraniční organizace osobnosti má oproti organizaci neurotické ten účinek, že:",
+  "options": [
+   "vede k trvalému zhoršení testování reality, které je nutné tlumit medikací",
+   "je neúčinná, dokud nevznikne stabilní pozitivní přenos a pracovní spojenectví",
+   "bezprostředně v sezení zlepšuje fungování ega a zpřesňuje testování reality",
+   "jen posiluje odpor, protože pacient interpretaci prožívá jako útok na identitu"
+  ],
+  "correct": 2,
+  "explanation": "U neurotické organizace interpretace obrany odkryje konflikt a přechodně zvýší úzkost. U hraniční organizace je tomu podle Kernberga naopak: interpretace štěpení a s ním spojených primitivních obran integruje protikladné ego-stavy a fungování se zlepší hned v sezení. Právě to slouží k odlišení hraniční struktury od psychotické, kde týž zásah testování reality zhoršuje.",
+  "source": "Otto F. Kernberg, Borderline Conditions and Pathological Narcissism (1975)",
+  "seedElo": 2200
+ },
+ {
+  "id": "obr-B02",
+  "type": "V",
+  "category": "obrany",
+  "text": "Terapeutka si po supervizi uvědomí, že s tímto klientem mluví ostřeji než s kýmkoli jiným. V posledním sezení se přistihla při ironické poznámce o jeho oblečení, což jindy nedělá. Klient nato řekl: vidíte, i vy si myslíte, že jsem směšný. Co je nejpravděpodobnější z hlediska kritéria: doložená změna terapeutova vlastního chování ve směru projikovaného obsahu?",
+  "options": [
+   "projekce — obsah je uložen do druhého, ten však zůstává beze změny",
+   "projektivní identifikace — terapeutka jedná pod nevědomým tlakem",
+   "externalizace — nezdar je připisován okolnostem mimo klienta",
+   "obrácení proti sobě — agrese je stočena zpět k vlastní osobě"
+  ],
+  "correct": 1,
+  "explanation": "Kritériem je zde interpersonální účinek: u prosté projekce by klient viděl posměch v terapeutce, která by se ale chovala jako obvykle. Tady se změnilo chování terapeutky — byla vtažena do role posmívajícího se objektu, což je jádro projektivní identifikace. Externalizace míří na neosobní okolnosti a obrácení proti sobě by se projevilo sebeobviňováním, ne tlakem na druhého.",
+  "source": "Thomas Ogden, Projective Identification and Psychotherapeutic Technique",
+  "seedElo": 2200
+ },
+ {
+  "id": "obr-B07",
+  "type": "V",
+  "category": "obrany",
+  "text": "Po hodině, kde terapeutka řekla něco, co klienta zjevně zasáhlo, přijde klient příště s tím, že si tu větu doma trochu upravil, aby dávala smysl, a že už neví, od koho ji vlastně slyšel. Dodá, že takové věci člověka spíš ruší, a téma opustí. Co je nejpravděpodobnější z hlediska kritéria: dobré je přijato, ale znehodnoceno a přivlastněno tak, aby zdroj zmizel?",
+  "options": [
+   "obranná devalvace — hodnota objektu klesá, aby nebolela závislost",
+   "závist v kleiniánském smyslu — dobrota objektu je kažena a přivlastněna",
+   "sekundární narcistická urážka — narušená grandiozita hledá nápravu",
+   "negativní terapeutická reakce — zlepšení vyvolává vinu a zhoršení"
+  ],
+  "correct": 1,
+  "explanation": "Kritérium míří na osud dobrého: klient ho nezavrhl, vzal si ho, pokazil úpravou a vymazal, že přišlo od někoho druhého — to je závistivý útok na zdroj dobra, ne pouhé snížení jeho hodnoty. Obranná devalvace by dobré odmítla jako bezcenné, aniž by si ho přisvojila. Negativní terapeutická reakce se pozná podle zhoršení po pokroku, které tu popsáno není, a narcistická urážka by přinesla ostudu a potřebu nápravy obrazu sebe.",
+  "source": "Melanie Klein, Závist a vděčnost",
+  "seedElo": 2200
+ },
+ {
+  "id": "obr-B12",
+  "type": "V",
+  "category": "obrany",
+  "text": "Terapeut si při psaní poznámek uvědomí, že klientce už potřetí prodloužil sezení o deset minut, aniž si toho v dané chvíli všiml. Klientka nikdy o víc času nežádala, jen v hodinách opakovaně mluví o tom, jak ji všichni odbývají a nikdo nemá čas. Ani jeden z nich to dosud nepojmenoval. Co je nejpravděpodobnější z hlediska kritéria: pojmenování formy jevu, tedy scény odehrané uvnitř terapeutického vztahu oběma účastníky?",
+  "options": [
+   "acting out — nevědomý konflikt se odehrává mimo léčbu, v životě",
+   "protipřenosové jednání jako izolované selhání rámce terapeuta",
+   "projektivní identifikace jako celkové vysvětlení dění mezi nimi",
+   "enactment — dvojice společně odehrává scénu uvnitř vztahu"
+  ],
+  "correct": 3,
+  "explanation": "Kritérium žádá název pro formu jevu: obě strany se bez vědomého úmyslu podílejí na scéně uvnitř rámce, což je definice enactmentu. Acting out míří ven z léčby a izolované selhání rámce by nevysvětlilo, proč vzorec přesně odpovídá klientčinu tématu. Projektivní identifikace je zde pravděpodobný mechanismus pohonu, ale je to popis nevědomého procesu, ne pojmenování toho, co se ve dvojici odehrálo.",
+  "source": "Theodore Jacobs, The Use of the Self",
+  "seedElo": 2200
+ },
+ {
+  "id": "obr-A17",
+  "type": "K",
+  "category": "obrany",
+  "text": "Pacient po každém sezení, které mu pomohlo, přichází s prudkým zhoršením a s vnitřním hlasem, jenž mu vyčítá, že se ponížil a nechal se svést slabostí. Rosenfeld tento obraz vykládá tak, že:",
+  "options": [
+   "destruktivní část self vládne jako gang a trestá každé přilnutí k dobrému objektu jako zradu",
+   "destruktivita je celá projikována ven a pacient se cítí ohrožen vnějšími pronásledovateli",
+   "pacient postrádá vnitřní objekty, jeho svět je prázdný a zlepšení tak nemá k čemu přilnout",
+   "jde o běžný negativní přenos, jenž odezní, jakmile se upevní spojenectví s terapeutem"
+  ],
+  "correct": 0,
+  "explanation": "Rosenfeld rozlišil libidinózní a destruktivní narcismus; v druhém případě je závislost na dobrém objektu prožívána jako zrada gangu. Destruktivní část self vystupuje jako mocná a ochranitelská, každý pohyb k pomoci trestá — proto po zlepšení následuje negativní terapeutická reakce. Obranou tu není jednotlivý mechanismus, nýbrž celá organizovaná struktura.",
+  "source": "Herbert Rosenfeld, A Clinical Approach to the Psychoanalytic Theory of the Life and Death Instincts (1971)",
+  "seedElo": 2250
+ },
+ {
+  "id": "obr-A18",
+  "type": "K",
+  "category": "obrany",
+  "text": "Pacient dochází pátým rokem, je zdvořilý a spolehlivý, o všem umí mluvit, ale nic se nemění; není ani zoufalý, ani pronásledovaný. Steiner by řekl, že:",
+  "options": [
+   "regredoval do paranoidně-schizoidní pozice a je vydán pronásledující úzkosti bez úlevy",
+   "vstoupil do depresivní pozice a nese bolest ze škody způsobené milovanému objektu",
+   "setrvává v psychickém útočišti, jež ho drží mimo pronásledování i mimo bolest a vývoj",
+   "střídá obě pozice tak rychle, že žádnou z nich nedokáže dost dlouho udržet a využít"
+  ],
+  "correct": 2,
+  "explanation": "Útočiště je pro Steinera obranná organizace — vnitřní uspořádání objektů a částí self, často s rysy gangu, kláštera či firmy, kam se pacient stáhne. Nabízí úlevu jak od pronásledování paranoidně-schizoidní pozice, tak od viny pozice depresivní, ale za cenu zastaveného vývoje a stavu, kdy pacient „není ani šílený, ani smutný“.",
+  "source": "John Steiner, Psychic Retreats (1993)",
+  "seedElo": 2250
+ },
+ {
+  "id": "obr-A19",
+  "type": "K",
+  "category": "obrany",
+  "text": "Batole, které nikdy nezastaví — pořád mluví, hýbe se, napíná svaly a při náhlém tichu propuká v paniku z padání. Esther Bicková v tom vidí:",
+  "options": [
+   "hyperaktivitu jako vrozený temperament, jenž se obranné teorii vymyká a je konstituční",
+   "manickou obranu, v níž pohyb slouží triumfu a pohrdání vůči objektu, na němž dítě závisí",
+   "adhezivní identifikaci, při níž dítě napodobuje povrch matky a lepí se na její chování",
+   "druhou kůži, náhradní obal z pohybu a řeči nahrazující chybějící zadržující objekt"
+  ],
+  "correct": 3,
+  "explanation": "Bicková vychází z toho, že části osobnosti drží pohromadě až introjekce objektu, který dokáže pojmout — funkce prožívaná jako kůže. Selže-li, dítě si obal vyrobí samo: neustálým pohybem, napětím svalů, žvatláním, později předčasnou soběstačností. Tato pseudonezávislost působí odolně, ale při zátěži se hroutí do zážitků padání a rozsypání.",
+  "source": "Esther Bick, The Experience of the Skin in Early Object-Relations (1968)",
+  "seedElo": 2250
+ },
+ {
+  "id": "obr-A27",
+  "type": "F",
+  "category": "obrany",
+  "text": "Nejčastější teoretická námitka proti řazení sublimace mezi obranné mechanismy zní, že:",
+  "options": [
+   "sublimace se objevuje pouze u umělecky nadaných lidí, a není proto obecným pojmem",
+   "sublimace pud neodvrací, nýbrž mu dopřává uspokojení, takže postrádá obrannou funkci",
+   "sublimace nastupuje až v dospělosti, kdežto obrany se utvářejí výhradně v raném dětství",
+   "sublimace je vědomá volba činnosti, a nemůže tedy patřit mezi nevědomé mechanismy"
+  ],
+  "correct": 1,
+  "explanation": "Obrana má z definice bránit průchodu pudového přání do vědomí či do jednání; sublimace však přání propouští, jen mění jeho cíl a objekt na společensky ceněné. Hartmann to řešil pojmem neutralizace energie, Kleinová viděla v sublimaci spíš reparaci poškozeného objektu. Anna Freudová ji do svého výčtu zařadila s výhradou, že jde spíš o normální výkon ega než o obranu proti úzkosti.",
+  "source": "Anna Freudová (1936); Heinz Hartmann, Notes on the Theory of Sublimation (1955)",
+  "seedElo": 2250
+ },
+ {
+  "id": "obr-B04",
+  "type": "E",
+  "category": "obrany",
+  "text": "Supervidovaný formuluje: Klientka nemá přístup ke svým emocím, je alexithymická, budu ji tedy trénovat v pojmenovávání pocitů. Z materiálu ale vyplývá, že klientka doma pláče u filmů, o kamarádce mluví s něhou a ztuhne pouze tehdy, když přijde řeč na matku. Kde je z hlediska kritéria vztahu obrany a deficitu chyba ve formulaci?",
+  "options": [
+   "chyba je v tom, že deficit je diagnostikován z obranné selektivity",
+   "chyba je v tom, že plán edukace přichází dřív než diagnóza vazby",
+   "chyba je v tom, že alexithymii nelze určit bez dotazníku TAS-20",
+   "chyba je v tom, že klientčin pláč u filmů je sám o sobě obranný"
+  ],
+  "correct": 0,
+  "explanation": "Klíčové je, že citová kapacita je jinde plně přítomná a ztuhnutí je vázané na jedno téma — to je popis obrany, ne strukturálního deficitu. Trénink pojmenovávání by obranu jen obešel a nejspíš ji zpevnil, protože nepracuje s tím, čeho se afekt u matky týká. Pořadí edukace a diagnostiky ani chybějící dotazník nejsou tím, co formulaci nejvíc kazí; pláč u filmů je naopak důkaz proti alexithymii, ne obrana.",
+  "source": "Peter Fonagy a Anthony Bateman, Mentalization-Based Treatment",
+  "seedElo": 2250
+ },
+ {
+  "id": "obr-B16",
+  "type": "V",
+  "category": "obrany",
+  "text": "Terapeutka při klientově zdlouhavém vyprávění o matce cítí sílící netrpělivost a nutkání ho popohnat, aby už řekl pointu. Překvapí ji to, protože jindy je k němu vřelá a klid s ním má ráda. Klient přitom popisuje matku jako ženu, která ho nikdy nenechala domluvit. Co je nejpravděpodobnější z hlediska kritéria: s kterou vnitřní figurou klientova světa se terapeutka právě ztotožnila?",
+  "options": [
+   "konkordantní identifikace — terapeutka prožívá klientovo vlastní self",
+   "protipřenos ze subjektivity terapeutky, nesouvisející s klientem",
+   "empatické naladění na klientovu potlačenou touhu být popoháněn",
+   "komplementární identifikace — terapeutka prožívá klientův objekt"
+  ],
+  "correct": 3,
+  "explanation": "Terapeutka cítí přesně to, co podle klientova popisu dělá matka — nenechat domluvit — čili obsadila roli objektu, ne klientova self. Konkordantní identifikace by ji vedla k prožitku umlčovaného dítěte, tedy k bezmoci či dychtivosti být vyslyšena. Vlastní subjektivitu činí nepravděpodobnou to, že jinde s klientem klid snáší dobře, a pro touhu být popoháněn není v materiálu opora.",
+  "source": "Heinrich Racker, Transference and Countertransference",
+  "seedElo": 2250
+ },
+ {
+  "id": "obr-B22",
+  "type": "I",
+  "category": "obrany",
+  "text": "Úspěšná manažerka v jednom sezení lehce a s humorem vypráví o nočních nákupech za desítky tisíc a o pár minut později o pocitu naprosté prázdnoty a bezcennosti. Obě linie běží vedle sebe celé měsíce, nikdy se nepotkají a klientka mezi nimi nevidí žádný vztah ani rozpor. Co je nyní nejvhodnější z hlediska kritéria: intervence odpovídající vertikálnímu rozštěpu, tedy nikoli konfrontace s realitou?",
+  "options": [
+   "konfrontovat rozpor mezi jejími výdaji a rozpočtem s konkrétními čísly",
+   "pojmenovat, že vedle sebe běží dvě linie, které se nikdy nesetkají",
+   "interpretovat nakupování jako acting out agrese vůči nepřítomnému otci",
+   "doporučit léčbu nákupní závislosti a dynamickou práci zatím odložit"
+  ],
+  "correct": 1,
+  "explanation": "U vertikálního rozštěpu jde o dva souběžně vědomé sektory, které spolu nekomunikují; první krok je proto ukázat samu tu souběžnost a nechat ji vstoupit do pole pozornosti. Konfrontace s čísly pracuje s realitou a obvykle jen prohloubí stud v jednom ze sektorů. Genetická interpretace přeskakuje aktuální strukturu a odeslání do specializované léčby rozštěp v praxi stvrzuje tím, že ho institucionalizuje.",
+  "source": "Heinz Kohut, The Restoration of the Self",
+  "seedElo": 2250
+ },
+ {
+  "id": "obr-B28",
+  "type": "E",
+  "category": "obrany",
+  "text": "Supervidovaný referuje: Klient mi ve čtvrtém měsíci řekl, že mě obdivuje a že jsem jediný, kdo ho drží nad vodou. Odpověděl jsem mu, že ten obdiv je nejspíš obrana proti hněvu na mě za zrušenou hodinu. Klient pak zmateně mlčel, na konci se ptal, jestli udělal něco špatně, a na další sezení přišel o dvacet minut později. Kde je z hlediska kritéria nosnosti a načasování hlavní chyba?",
+  "options": [
+   "chyba je v tom, že obdiv nemůže nikdy sloužit jako obrana proti hněvu",
+   "chyba je v tom, že interpretace předběhla nosnost a rozbila oporu",
+   "chyba je v tom, že terapeut měl místo přenosu interpretovat vztah k otci",
+   "chyba je v tom, že zrušená hodina nesmí být v terapii vůbec tematizována"
+  ],
+  "correct": 1,
+  "explanation": "Interpretace mohla být obsahově trefná, ale přišla do vztahu, který idealizovaný obraz ještě potřeboval jako oporu, a reakce klienta — zmatek, stud a zpoždění — ukazuje na narušení, ne na porozumění. Kritérium nosnosti a načasování žádá napřed unést funkci obdivu a hněv otevřít až tehdy, když ho vztah udrží. Tvrzení, že obdiv nikdy nebývá obranou, je nepravdivé; zrušená hodina tematizovatelná je a genetická interpretace by problém načasování nevyřešila.",
+  "source": "Heinz Kohut, How Does Analysis Cure?",
+  "seedElo": 2250
+ },
+ {
+  "id": "obr-A14",
+  "type": "F",
+  "category": "obrany",
+  "text": "Bionovy „ataky na spojování“ (attacks on linking) označují obranný proces, při němž pacient:",
+  "options": [
+   "napadá vztah k terapeutovi, aby se vyhnul odloučení o víkendech a o svátcích",
+   "ničí vzpomínku na trauma tím, že ji rozdělí na nesouvislé smyslové útržky",
+   "odmítá spojení mezi svými rodiči, jehož představa v něm budí prudkou žárlivost",
+   "ničí samo spojování prvků zkušenosti, a znemožňuje tak vznik myšlení o zážitku"
+  ],
+  "correct": 3,
+  "explanation": "Bion míří pod obsah: útok nesměřuje na tu či onu myšlenku, nýbrž na funkci, která prvky spojuje ve smysluplný celek — tedy na aparát myšlení. Motivem je nesnesitelnost bolesti, kterou by poznání přineslo, a závist vůči objektu schopnému spojovat. Výsledkem je svět bez souvislostí, kde místo významu vládne fragment.",
+  "source": "Wilfred R. Bion, Attacks on Linking (1959)",
+  "seedElo": 2300
+ },
+ {
+  "id": "obr-A15",
+  "type": "F",
+  "category": "obrany",
+  "text": "„Bizarní objekty“ vznikají podle Biona tak, že:",
+  "options": [
+   "se vnitřní objekt rozštěpí na zcela dobrý a zcela zlý, jež se pak nikdy nemohou potkat",
+   "se dobrý objekt idealizuje natolik, že jeho obraz ztratí veškerý styk se skutečností",
+   "se úlomky ega a vnímání vmetou do vnějších věcí, jež je obalí a napříště jimi vládnou",
+   "se traumatická vzpomínka odštěpí a v mysli pak žije jako druhá samostatná osobnost"
+  ],
+  "correct": 2,
+  "explanation": "V psychotické části osobnosti je aparát vnímání a myšlení násilně rozdroben a projikován ven. Každý úlomek se v objektu, kam dopadl, cítí uvězněn a nasákne jeho vlastnostmi — vznikne třeba gramofon, který pacienta pozoruje. Bizarní objekt tedy není beztvará halucinace, nýbrž přesný důsledek nadměrné projektivní identifikace.",
+  "source": "Wilfred R. Bion, Differentiation of the Psychotic from the Non-Psychotic Personalities (1957)",
+  "seedElo": 2300
+ },
+ {
+  "id": "obr-A20",
+  "type": "F",
+  "category": "obrany",
+  "text": "Adhezivní identifikace, jak ji popsal Donald Meltzer, se od projektivní identifikace liší tím, že:",
+  "options": [
+   "vkládá části self do objektu, jenž je pak prožíván jako jimi zevnitř obsazený a ovládaný",
+   "přilne k povrchu objektu a napodobí jej, protože pro subjekt neexistuje vnitřní prostor",
+   "vytváří s objektem trvalý pár, v němž se oba střídají v roli nositele cizí projekce",
+   "spojuje subjekt s objektem skrze sdílenou vzpomínku na společně prožité rané trauma"
+  ],
+  "correct": 1,
+  "explanation": "Meltzer u autistických dětí popsal „dvourozměrnost“: svět bez hloubky, kde identita vzniká lepivým přilnutím k povrchu druhého a jeho mimikry. Na rozdíl od projektivní identifikace, jež předpokládá objekt s vnitřkem, kam lze něco vložit, tu vnitřní prostor chybí. Proto ztráta kontaktu znamená okamžitý rozpad pocitu já, nikoli zármutek z odloučení.",
+  "source": "Donald Meltzer a kol., Explorations in Autism (1975)",
+  "seedElo": 2300
+ },
+ {
+  "id": "obr-B06",
+  "type": "V",
+  "category": "obrany",
+  "text": "Klientka mluví o terapeutovi jako o jediném klidném místě ve svém životě. Během jeho třítýdenní dovolené se rozpadne do bezmoci a nespavosti, po návratu se během dvou sezení stabilizuje a pokračuje v práci. Znehodnocení nikdy nepřijde, a přitom terapeuta popisuje realisticky, včetně jeho únavy a přeřeknutí. Co je nejpravděpodobnější z hlediska kritéria: funkce obrazu pro regulaci self versus ochrana objektu před agresí?",
+  "options": [
+   "obranná idealizace — chrání objekt před klientčinou nevědomou agresí",
+   "splitting — objekt je udržován zcela odděleně od své zlé stránky",
+   "erotizovaný přenos — potřeba blízkosti nabrala sexualizovanou podobu",
+   "idealizující selfobjektový přenos — obraz slouží regulaci self"
+  ],
+  "correct": 3,
+  "explanation": "Rozhoduje spojení dvou markerů: obraz zůstává realistický v detailech a jeho ztráta vyvolá rozpad regulace, ne zlobu — to odpovídá selfobjektové potřebě, kde druhý plní funkci, kterou self ještě neumí samo. Obranná idealizace by objekt vylepšovala proti realitě a při frustraci by se běžně převrátila do devalvace. Splitting předpokládá odštěpenou zlou stránku, po níž tu není stopa; pro erotizaci chybí jakýkoli materiál.",
+  "source": "Heinz Kohut, The Analysis of the Self",
+  "seedElo": 2300
+ },
+ {
+  "id": "obr-B13",
+  "type": "V",
+  "category": "obrany",
+  "text": "Klient po každé otázce po prožívání dlouho mlčí a pak řekne, že neví. Jeho vyprávění je chudé i o zcela neutrálních věcech: dovolená byla dobrá, práce je práce. Intelekt má podle testu nadprůměrný, ale za osm měsíců nepopsal ani tělesný pocit, a mlčení není vázáno na žádné konkrétní téma. Co je nejpravděpodobnější z hlediska kritéria: absence selektivity, tedy plošnost jevu napříč konfliktními i neutrálními obsahy?",
+  "options": [
+   "obranné vytěsnění afektu, které ustupuje jen u konfliktních témat",
+   "izolace afektu uplatňovaná plošně na veškerý psychický obsah",
+   "odpor vůči terapeutovi projevovaný soustavnou zdrženlivostí",
+   "deficit reprezentační kapacity, nikoli obrana proti obsahu"
+  ],
+  "correct": 3,
+  "explanation": "Obrana je vždy vázána na něco, před čím chrání, a proto se pozná podle selektivity — chudoba se objeví u konfliktu a jinde ustoupí. Zde je pole prázdné i tam, kde není co bránit, což ukazuje spíš na chybějící kapacitu tvořit a sdělovat reprezentace vnitřních stavů. Odpor by kolísal podle vztahové situace a izolace afektu by ponechala bohatý obsahový popis, ten však chybí také.",
+  "source": "Peter Fonagy, Affect Regulation, Mentalization and the Development of the Self",
+  "seedElo": 2300
+ },
+ {
+  "id": "obr-B24",
+  "type": "V",
+  "category": "obrany",
+  "text": "Klientka po interpretaci, která se dotkla jejího výkonového nároku, začne mluvit tišším, téměř dětským hlasem a chce, aby terapeut rozhodl, zda má přijmout povýšení. Trvá to zbytek hodiny. Ze sezení odchází s úlevou, v následujícím týdnu funguje v práci dobře a nikam mimo hodinu se tento stav nepřenáší. Co je nejpravděpodobnější z hlediska kritéria: ohraničenost, vratnost a další osud regrese mimo terapeutický rámec?",
+  "options": [
+   "maligní regrese — narůstá nárok a mimo terapii se rozpadá fungování",
+   "hraniční strukturální porucha, kterou interpretace destabilizovala",
+   "somatizovaná úzkost přenesená do hlasové a posturální regrese",
+   "regrese ve službách ega — ohraničená, vratná a terapeuticky nosná"
+  ],
+  "correct": 3,
+  "explanation": "Rozhodují hranice a výsledek: stav vzniká uvnitř hodiny, po ní odeznívá a fungování mimo terapii se nezhoršuje, což odpovídá regresi ve službách ega. Maligní regrese by přinesla eskalující nároky, kontakty mezi sezeními a úpadek adaptace. Strukturální porucha by se neomezila na jednu hodinu a somatizace by vyžadovala tělesný symptom, ne změnu hlasu v přenosové situaci.",
+  "source": "Michael Balint, The Basic Fault",
+  "seedElo": 2300
+ },
+ {
+  "id": "obr-A24",
+  "type": "F",
+  "category": "obrany",
+  "text": "Pierre Marty a pařížská psychosomatická škola označují pojmem „pensée opératoire“ (operativní myšlení) stav, kdy:",
+  "options": [
+   "pacient myslí v obrazech a jeho fantazie se hromadí bez možnosti být vyjádřena slovy",
+   "pacient nadměrně symbolizuje a každý tělesný příznak vykládá jako skrytou zprávu duše",
+   "pacient prožívá myšlení jako napadané zvenčí a své nápady připisuje cizím vlivům",
+   "pacient popisuje fakta a úkony bez fantazie a afektu, takže mysl přiléhá k věcem"
+  ],
+  "correct": 3,
+  "explanation": "Operativní myšlení je konkrétní, popisné, vázané na akci a zbavené snění; Marty je spojoval s „esenciální depresí“ — útlumem bez viny a bez sebevýčitek — a se sklonem k somatickému onemocnění. Chybí tu psychická práce, jež by vzruch zpracovala mentálně, a tělo pak nese, co mysl nezpracovala. Jde tedy o důsledek nedostatku mentalizace, ne o symbolický význam příznaku.",
+  "source": "Pierre Marty a Michel de M'Uzan, La pensée opératoire (1963)",
+  "seedElo": 2350
+ },
+ {
+  "id": "obr-A25",
+  "type": "F",
+  "category": "obrany",
+  "text": "Joyce McDougallová označuje jako „disaffected“ (odcitovělé) ty pacienty, kteří:",
+  "options": [
+   "prožívají city intenzivně, ale odmítají je sdílet, protože se bojí odmítnutí druhými",
+   "nahrazují cit vzpomínkou a v terapii donekonečna vyprávějí podrobnosti ze svého dětství",
+   "cit vytěsňují do nevědomí, odkud se vrací v podobě snů a chybných výkonů v řeči",
+   "afekt vypudí dřív, než dostane význam, takže cit není potlačen, nýbrž rovnou zrušen"
+  ],
+  "correct": 3,
+  "explanation": "McDougallová popisuje obranu, která nepracuje s reprezentací, ale ruší ji: emoční vzruch je z psychiky vyhoštěn dřív, než se stane pocitem, na který lze myslet. Vzniká alexithymický obraz — člověk „neví, co cítí“ — a vzruch se vybíjí tělem či jednáním, závislostí, promiskuitou, nemocí. Odtud její řeč o psychosomatickém řešení konfliktu vedle klasického neurotického.",
+  "source": "Joyce McDougall, Theatres of the Body (1989)",
+  "seedElo": 2350
+ },
+ {
+  "id": "obr-B09",
+  "type": "V",
+  "category": "obrany",
+  "text": "Klientka chodí dva roky pravidelně, nosí sny, spolupracuje a nikdy neruší. Terapeut si přesto všímá, že se nic nemění a že v sezeních panuje zvláštní příjemný klid, jakási tichá dohoda. Kdykoli se přiblíží bolest, klientka plynule nabídne nový zajímavý materiál; necítí se ohrožená a je se stavem věcí spokojená. Co je nejpravděpodobnější z hlediska kritéria: stabilní organizace poskytující úlevu jak od kontaktu, tak od hrozby rozpadu?",
+  "options": [
+   "odpor v klasickém smyslu — vynořující se obsah je aktivně odmítán",
+   "negativní terapeutická reakce — každý pokrok je následován propadem",
+   "psychické útočiště — místo úlevy od kontaktu i od hrozby chaosu",
+   "falešné self — přizpůsobení potřebám okolí zakrývá pravé prožívání"
+  ],
+  "correct": 2,
+  "explanation": "Odpor se pozná podle bojovnosti a nepohody na hranici vytěsněného; tady je naopak klid, spokojenost a hladká spolupráce, která sama drží léčbu na místě. To odpovídá útočišti jako trvalému uspořádání, kde je klid vykoupen nehybností a ochranou před depresivní i paranoidně-schizoidní úzkostí. Negativní terapeutická reakce by ukázala zhoršení po pokroku, ne setrvalý stav; falešné self by se vázalo na uspokojování cizích nároků, o čemž materiál nemluví.",
+  "source": "John Steiner, Psychic Retreats",
+  "seedElo": 2350
  }
 ]

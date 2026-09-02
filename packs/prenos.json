@@ -1,5 +1,117 @@
 [
  {
+  "id": "pre-013",
+  "type": "V",
+  "category": "prenos-technika",
+  "text": "Klientka týden po sezení, kde poprvé otevřela vztek na otce, impulzivně napíše otci konfrontační dopis a přeruší s ním styky, aniž to v terapii zmínila předem. Který pojem jednání nejlépe vystihuje?",
+  "options": [
+   "Acting out — přenosové a terapií zvednuté obsahy se místo zpracování odehrají v jednání mimo sezení",
+   "Zdravá asertivita jako přímý výsledek terapie",
+   "Sublimace agresivního impulzu",
+   "Přenosové vyléčení (transference cure)"
+  ],
+  "correct": 0,
+  "explanation": "Impulzivní jednání navenek místo prožití a propracování v terapii je acting out: afekt zvednutý sezením se vybil dřív, než mohl být myšlen. Zdravá asertivita by typicky prošla reflexí a nebyla před terapeutkou skryta; sublimace je přetavení do kulturně hodnotné činnosti, přenosové vyléčení je útěk do zdraví z lásky k terapeutovi.",
+  "source": "Freud, S.: Erinnern, Wiederholen und Durcharbeiten, 1914; Greenson, R.: The Technique and Practice of Psychoanalysis, 1967",
+  "seedElo": 1300
+ },
+ {
+  "id": "pre-027",
+  "type": "I",
+  "category": "prenos-technika",
+  "text": "Klientka přinese živý sen o zamčeném sklepě. Která z reakcí terapeuta je z hlediska klasické techniky práce se snem NEJMÉNĚ vhodná?",
+  "options": [
+   "Vyžádat si volné asociace k jednotlivým prvkům snu",
+   "Zeptat se na denní zbytky — co sen mohlo z předchozího dne zachytit",
+   "Vyložit sklep podle výkladového klíče jako symbol potlačené sexuality a výklad klientce sdělit",
+   "Všímat si, jak a kdy v sezení sen vypráví a co jím může říkat terapeutovi"
+  ],
+  "correct": 2,
+  "explanation": "Freud výslovně odmítl mechanické 'slovníkové' dekódování: k latentnímu obsahu vedou asociace snícího, protože tentýž obraz znamená u každého něco jiného. Asociace, denní zbytky i způsob podání snu v přenosu jsou legitimní cesty; univerzální klíč obchází klientčinu psychiku i vztahový kontext.",
+  "source": "Freud, S.: Die Traumdeutung, 1900, kap. o metodě výkladu; Etchegoyen, H.: The Fundamentals of Psychoanalytic Technique, 1991",
+  "seedElo": 1300
+ },
+ {
+  "id": "pre-030",
+  "type": "I",
+  "category": "prenos-technika",
+  "text": "Klientka chodí soustavně o deset minut později a sezení pak otevírá omluvami, které zabírají další čas. Z hlediska kritéria 'jednání převést na mluvení, bez trestání' je nejvhodnější:",
+  "options": [
+   "Prodlužovat sezení o zameškaný čas, aby o nic nepřišla",
+   "Pozdní příchody pojmenovat jako opakující se vzorec a zvědavě zkoumat, co může vyjadřovat, při zachování standardního konce sezení",
+   "Ironicky poznamenat, že jednou snad přijde včas",
+   "Mlčky to tolerovat; čas je klientčina věc"
+  ],
+  "correct": 1,
+  "explanation": "Opakované zpoždění je pravděpodobně komunikace v jednání (ambivalence, strach, testování) a patří do řeči; standardní konec sezení přitom drží rámec, který dává zpoždění význam. Prodlužování význam maže a rámec bortí, ironie je odveta, tichá tolerance nechává acting out běžet bez užitku.",
+  "source": "Greenson, R.: The Technique and Practice of Psychoanalysis, 1967; Langs, R.: The Technique of Psychoanalytic Psychotherapy, 1973",
+  "seedElo": 1300
+ },
+ {
+  "id": "pre-031",
+  "type": "F",
+  "category": "prenos-technika",
+  "text": "Jak Freud v technických spisech (1912–1915) pojímá přenos v léčbě?",
+  "options": [
+   "Jako vzácnou komplikaci, která se objevuje jen u hysterie",
+   "Jako artefakt sugesce, který správná technika eliminuje",
+   "Jako nové vydání starých vztahových šablon vůči osobě lékaře — zprvu překážku, jež se stává hlavním nástrojem léčby",
+   "Jako vědomou strategii pacienta, jak se vyhnout platbě"
+  ],
+  "correct": 2,
+  "explanation": "Freud popsal přenos jako 'nové vydání' (Neuauflage) infantilních vztahových vzorců přenesených na lékaře; z původní překážky se v jeho pojetí stává bojiště i motor léčby, protože nemoc je v přenosu přítomná 'in effigie'. Nejde o vzácnost, artefakt ani vědomý kalkul — je všudypřítomný a nevědomý.",
+  "source": "Freud, S.: Zur Dynamik der Übertragung, 1912; Erinnern, Wiederholen und Durcharbeiten, 1914",
+  "seedElo": 1300
+ },
+ {
+  "id": "pre-032",
+  "type": "F",
+  "category": "prenos-technika",
+  "text": "Kdo zavedl rozlišení konkordantního a komplementárního protipřenosu?",
+  "options": [
+   "Paula Heimann",
+   "Otto Kernberg",
+   "Donald Winnicott",
+   "Heinrich Racker"
+  ],
+  "correct": 3,
+  "explanation": "Rozlišení pochází od argentinského analytika Heinricha Rackera (studie z 50. let, souborně 1968): konkordantní protipřenos je identifikace se self pacienta, komplementární s jeho vnitřními objekty. Heimann přinesla tezi protipřenosu jako nástroje, Winnicott objektivní nenávist v protipřenosu, Kernberg práci s protipřenosem u hraničních pacientů.",
+  "source": "Racker, H.: Transference and Countertransference, 1968",
+  "seedElo": 1300
+ },
+ {
+  "id": "pre-036",
+  "type": "F",
+  "category": "prenos-technika",
+  "text": "Co jsou ve Freudově teorii snu 'denní zbytky' (Tagesreste)?",
+  "options": [
+   "Zdánlivě nevýznamné zážitky z předchozího dne, jichž snová práce užívá jako materiálu, na nějž se váže nevědomé přání",
+   "Vzpomínky na dětství, které se ve snu vracejí nezměněné",
+   "Části snu, které si snící ráno nepamatuje",
+   "Symboly se stálým univerzálním významem"
+  ],
+  "correct": 0,
+  "explanation": "Denní zbytky jsou recentní, často banální dojmy z bdělého dne, které sen použije jako 'podnikatele', který si opatří kapitál od nevědomého přání — teprve spojení obojího dá vznik snu. Nejsou to zapomenuté části snu ani univerzální symboly; dětské vzpomínky vstupují do latentního obsahu jinou cestou.",
+  "source": "Freud, S.: Die Traumdeutung, 1900, kap. V a VII",
+  "seedElo": 1300
+ },
+ {
+  "id": "pre-048",
+  "type": "E",
+  "category": "prenos-technika",
+  "text": "Na prvním sezení klientka zmíní, že si nerozumí s dcerou. Terapeut odpoví: 'To je zjevně vaše nezpracovaná oidipská rivalita — nevědomě dceři závidíte mládí a přejete si ji odstranit.' Klientka se už neobjednala. Hlavní technická chyba je:",
+  "options": [
+   "Interpretace měla zaznít až po vyšetření snů",
+   "Terapeut neměl mluvit o rodinných vztazích na prvním sezení",
+   "Divoká interpretace: hluboký nevědomý obsah vyložený bez aliance, bez materiálu a bez přípravy působí jako útok a mobilizuje odpor či útěk",
+   "Obsah výkladu byl správný, jen měl být formulován latinsky mírněji"
+  ],
+  "correct": 2,
+  "explanation": "Freud tento typ chyby popsal jako 'divokou analýzu': i kdyby výklad náhodou mířil správně, sdělení nepřipraveného hlubokého obsahu bez vztahu a bez klientčiných vlastních asociací nemá léčivý účinek — vyvolá úzkost, odpor, nebo odchod. Pořadí je vztah a povrch nejdřív, hloubka potom; sny nejsou povinná vstupenka a rodinná témata na první sezení samozřejmě patří.",
+  "source": "Freud, S.: Über 'wilde' Psychoanalyse, 1910; Fenichel, O.: Problems of Psychoanalytic Technique, 1941",
+  "seedElo": 1300
+ },
+ {
   "id": "pre-001",
   "type": "V",
   "category": "prenos-technika",
@@ -66,22 +178,6 @@
   "deepDive": "Bion popsal, že nevědomá komunikace probíhá i **evokací**: klient v terapeutovi vyvolá stav, který sám nedokáže myslet ani pojmenovat. Nuda, ospalost, prázdnota nebo náhlá iritace tak nejsou jen 'šum' terapeuta — mohou být jediným kanálem, kterým se do místnosti dostane klientova raná zkušenost. Ogdenova praktická rada: nejdřív si stav přiznat a snést ho ('reverie'), pak se ptát, čí je a čemu odpovídá, a teprve nakonec zvažovat, zda a jak ho přetavit v interpretaci. Chybou je jak jednat (přerušit, rozptýlit se), tak stav automaticky připsat sobě či klientovi bez zkoumání."
  },
  {
-  "id": "pre-005",
-  "type": "V",
-  "category": "prenos-technika",
-  "text": "Terapeutka si zpětně uvědomí, že klientovi, který v dětství zažíval citovou deprivaci, už potřetí bez rozmyslu prodloužila sezení a jednou mu odpustila platbu — a on přesto stupňuje výčitky, že mu nedává dost. Který pojem situaci nejlépe vystihuje?",
-  "options": [
-   "Terapeutická flexibilita přiměřená klientovým potřebám",
-   "Enactment — společné odehrání přenosově-protipřenosového vzorce v jednání",
-   "Konkordantní protipřenos zpracovaný v rovině prožitku",
-   "Racionální korektivní emoční zkušenost dle Alexandera"
-  ],
-  "correct": 1,
-  "explanation": "Oba účastníci nevědomě jednají scénář (deprivované dítě — objekt, který má dluh splatit), místo aby jej pojmenovali; to je definice enactmentu, který terapeutka rozpozná typicky až zpětně. Flexibilita by byla vědomou technickou volbou, konkordantní protipřenos je prožitek, nikoli jednání, a korektivní zkušenost není opakované nereflektované porušování rámce.",
-  "source": "Jacobs, T.: On countertransference enactments, JAPA, 1986; Gabbard, G. O.: Psychodynamic Psychiatry in Clinical Practice",
-  "seedElo": 1700
- },
- {
   "id": "pre-006",
   "type": "V",
   "category": "prenos-technika",
@@ -112,22 +208,6 @@
   "explanation": "Nadměrná souhlasnost bez posunu je klasická forma odporu: klientka může opakovat vztahový vzorec 'být hodná, aby nebyla nebezpečná', a skutečné (třeba agresivní) přenosové city zůstávají mimo hru. Skutečná aliance se pozná podle práce, ne podle harmonie; stagnace navzdory 'ideální' spolupráci je diagnostický signál, ne artefakt.",
   "source": "Greenson, R.: The Technique and Practice of Psychoanalysis, 1967, kap. o odporu; Casement, P.: On Learning from the Patient, 1985",
   "seedElo": 1500
- },
- {
-  "id": "pre-008",
-  "type": "V",
-  "category": "prenos-technika",
-  "text": "Klient přináší na každé sezení výčet svých úspěchů a napjatě sleduje terapeutčinu tvář; když reaguje neutrálně, zhroutí se do studu a vzteku, že 'jí na něm nezáleží'. V pojmech self-psychologie jde nejspíše o:",
-  "options": [
-   "Erotizovaný přenos s narcistickou obranou",
-   "Komplementární protipřenos na straně klienta",
-   "Idealizující přenos s projekcí grandiozity",
-   "Zrcadlící přenos — klient potřebuje terapeutku jako selfobjekt potvrzující jeho hodnotu"
-  ],
-  "correct": 3,
-  "explanation": "Potřeba být viděn, obdivován a potvrzen, s fragmentací (stud, vztek) při selhání odezvy, definuje zrcadlící selfobjektový přenos dle Kohuta. Idealizace by směřovala k velikosti terapeutky, ne klienta; protipřenos je z definice jev na straně terapeuta.",
-  "source": "Kohut, H.: The Analysis of the Self, 1971; Kohut, H.: How Does Analysis Cure?, 1984",
-  "seedElo": 1700
  },
  {
   "id": "pre-009",
@@ -162,22 +242,6 @@
   "seedElo": 1500
  },
  {
-  "id": "pre-011",
-  "type": "V",
-  "category": "prenos-technika",
-  "text": "Klientka v terapii poprvé dlouze mlčí; sedí uvolněně, dívá se z okna, atmosféra je klidná až snivá. Terapeut cítí nutkání ticho rychle přerušit otázkou. Které porozumění situaci je nejpřiléhavější?",
-  "options": [
-   "Mlčení je vždy odpor a je třeba jej konfrontovat",
-   "Klientka pasivně-agresivně trestá terapeuta",
-   "Jde o rupturu aliance vyžadující okamžitou metakomunikaci",
-   "Mlčení může být i plodné (regrese ve službách růstu); nutkání je přerušit patří spíš terapeutově úzkosti"
-  ],
-  "correct": 3,
-  "explanation": "Mlčení má mnoho významů — odpor, trest, ale i tiché spočinutí či zpracovávání; uvolněná, snivá kvalita zde mluví pro druhé. Casement upozorňuje, že terapeutovo nutkání ticho vyplnit bývá jeho vlastní úzkostí z nekonání; automatická konfrontace by klidný proces přerušila a implicitně označila za problém.",
-  "source": "Casement, P.: On Learning from the Patient, 1985; Winnicott, D. W.: The capacity to be alone, IJP, 1958",
-  "seedElo": 1700
- },
- {
   "id": "pre-012",
   "type": "V",
   "category": "prenos-technika",
@@ -194,22 +258,6 @@
   "seedElo": 1500
  },
  {
-  "id": "pre-013",
-  "type": "V",
-  "category": "prenos-technika",
-  "text": "Klientka týden po sezení, kde poprvé otevřela vztek na otce, impulzivně napíše otci konfrontační dopis a přeruší s ním styky, aniž to v terapii zmínila předem. Který pojem jednání nejlépe vystihuje?",
-  "options": [
-   "Acting out — přenosové a terapií zvednuté obsahy se místo zpracování odehrají v jednání mimo sezení",
-   "Zdravá asertivita jako přímý výsledek terapie",
-   "Sublimace agresivního impulzu",
-   "Přenosové vyléčení (transference cure)"
-  ],
-  "correct": 0,
-  "explanation": "Impulzivní jednání navenek místo prožití a propracování v terapii je acting out: afekt zvednutý sezením se vybil dřív, než mohl být myšlen. Zdravá asertivita by typicky prošla reflexí a nebyla před terapeutkou skryta; sublimace je přetavení do kulturně hodnotné činnosti, přenosové vyléčení je útěk do zdraví z lásky k terapeutovi.",
-  "source": "Freud, S.: Erinnern, Wiederholen und Durcharbeiten, 1914; Greenson, R.: The Technique and Practice of Psychoanalysis, 1967",
-  "seedElo": 1300
- },
- {
   "id": "pre-014",
   "type": "V",
   "category": "prenos-technika",
@@ -224,22 +272,6 @@
   "explanation": "Návrat původních symptomů v terminační fázi je popsaný a očekávatelný jev: symptom promlouvá o strachu ze ztráty objektu a testuje, zda je odchod bezpečný. Automatické prodloužení by odehrálo klientovo přání vyhnout se separaci, urychlení by ji sadisticky potvrdilo; úkolem je ztrátu učinit tématem.",
   "source": "Gabbard, G. O.: Long-Term Psychodynamic Psychotherapy, 2004, kap. o ukončování; Greenson, R., 1967",
   "seedElo": 1500
- },
- {
-  "id": "pre-015",
-  "type": "V",
-  "category": "prenos-technika",
-  "text": "Klient s láskou vzpomíná, jak mu terapeutka minule 'přesně rozuměla', na sezení chodí rád, spolupracuje, a zároveň o ní nemá nerealistické představy a unese její omyly. Tento stav nejlépe popisuje:",
-  "options": [
-   "Idealizující přenos vyžadující včasnou interpretaci",
-   "Erotický přenos v počátečním stadiu",
-   "Nenamítatelný pozitivní přenos — vehikulum spolupráce, které se zpravidla neinterpretuje",
-   "Odpor formou pseudoaliance"
-  ],
-  "correct": 2,
-  "explanation": "Freud popsal 'nenamítatelný' (unobjectionable) pozitivní přenos jako mírně láskyplný postoj, který léčbu nese a neinterpretuje se, dokud nepřeroste v odpor. Realistické vnímání terapeutky a schopnost unést její chyby jej odlišují od idealizace i erotizace; pseudoaliance by se prozradila stagnací.",
-  "source": "Freud, S.: Zur Dynamik der Übertragung, 1912; Greenson, R.: The Technique and Practice of Psychoanalysis, 1967",
-  "seedElo": 1700
  },
  {
   "id": "pre-016",
@@ -372,22 +404,6 @@
   "deepDive": "Kohut razil myšlenku, že léčba nepostupuje navzdory terapeutovým selháním, ale zčásti *skrze ně*: **optimální frustrace** nastává, když selhání je únosné a je následováno poctivou reparací. Výzkum aliance (Safran a Muran) to potvrdil z jiné strany: epizody ruptura–reparace patří k nejsilnějším prediktorům dobrého výsledku, silnějším než hladký průběh bez konfliktů. Podmínkou je pořadí kroků: nejdřív reálné uznání ('spletla jsem se, to se stalo'), pak teprve význam ('a všimla jsem si, co to ve vás potvrdilo'). Obrácené pořadí — interpretace místo omluvy — klienti bezpečně poznají jako obranu terapeuta."
  },
  {
-  "id": "pre-024",
-  "type": "I",
-  "category": "prenos-technika",
-  "text": "Klient truchlící po smrti otce se zeptá terapeuta: 'Zemřel vám někdy někdo blízký?' V které situaci by terapeutovo sebeodhalení ('ano, otec') bylo z hlediska kritéria 'čí potřebě sdělení slouží' NEJMÉNĚ vhodné?",
-  "options": [
-   "Když po prozkoumání otázky usoudí, že stručné potvrzení sdílené lidské zkušenosti klienta ukotví",
-   "Když klient testuje, zda terapeut vůbec může rozumět, a fantazii už společně prozkoumali",
-   "Když by odpověď byla stručná, věcná a vrátila pozornost ke klientovu truchlení",
-   "Když terapeut cítí potřebu o vlastní čerstvé ztrátě mluvit a klientova otázka mu to umožňuje"
-  ],
-  "correct": 3,
-  "explanation": "Základní kritérium sebeodhalení zní: slouží klientovi, ne terapeutovi. Odhalení nesené terapeutovou vlastní neodtruchlenou potřebou obrací role a zatěžuje klienta péčí o terapeuta. Zbylé tři varianty popisují uvážlivé, stručné odhalení po prozkoumání, které se v současné technice připouští.",
-  "source": "Gabbard, G. O.: Long-Term Psychodynamic Psychotherapy, 2004, kap. o sebeodhalení; Maroda, K.: The Power of Countertransference, 1991",
-  "seedElo": 1700
- },
- {
   "id": "pre-025",
   "type": "I",
   "category": "prenos-technika",
@@ -402,38 +418,6 @@
   "explanation": "Negativní přenos je léčivý jen tehdy, když smí zaznít a být zkoumán u terapeuta, který ho unese bez odvety a bez kapitulace. Obhajoba přenos umlčí a potvrdí, že vztek je nebezpečný; omluva se slibem odehrává roli napravujícího objektu; okamžité 'je to projekce' je obranná deflekce, která navíc může být fakticky nepřesná.",
   "source": "Kernberg, O.: kap. o zvládání negativního přenosu, Severe Personality Disorders, 1984; Racker, H., 1968",
   "seedElo": 1500
- },
- {
-  "id": "pre-026",
-  "type": "I",
-  "category": "prenos-technika",
-  "text": "Terapeutka chce klientovi zprostředkovat, že jeho věčné 'dělání radosti' druhým je obrana proti strachu z odmítnutí. Podle Greensonova pojetí postupných kroků analýzy odporu má intervence začít:",
-  "options": [
-   "Genetickou rekonstrukcí: propojením vzorce s otcem, který lásku podmiňoval",
-   "Konfrontací a klarifikací: nejprve klientovi zpřístupnit, ŽE a JAK vzorec v řeči i vztahu opakuje",
-   "Úplnou přenosovou interpretací včetně nevědomé fantazie",
-   "Doporučením behaviorálního experimentu s odmítnutím"
-  ],
-  "correct": 1,
-  "explanation": "Greensonova sekvence zní konfrontace → klarifikace → interpretace → propracování: klient musí jev nejdřív vidět a ohraničit, teprve pak má smysl vykládat nevědomý význam a genezi. Skok rovnou ke genetice či nevědomé fantazii vyrábí intelektuální souhlas bez prožitku; behaviorální experiment je jiný terapeutický jazyk, nikoli krok této sekvence.",
-  "source": "Greenson, R.: The Technique and Practice of Psychoanalysis, 1967, kap. o technice analýzy odporu",
-  "seedElo": 1700
- },
- {
-  "id": "pre-027",
-  "type": "I",
-  "category": "prenos-technika",
-  "text": "Klientka přinese živý sen o zamčeném sklepě. Která z reakcí terapeuta je z hlediska klasické techniky práce se snem NEJMÉNĚ vhodná?",
-  "options": [
-   "Vyžádat si volné asociace k jednotlivým prvkům snu",
-   "Zeptat se na denní zbytky — co sen mohlo z předchozího dne zachytit",
-   "Vyložit sklep podle výkladového klíče jako symbol potlačené sexuality a výklad klientce sdělit",
-   "Všímat si, jak a kdy v sezení sen vypráví a co jím může říkat terapeutovi"
-  ],
-  "correct": 2,
-  "explanation": "Freud výslovně odmítl mechanické 'slovníkové' dekódování: k latentnímu obsahu vedou asociace snícího, protože tentýž obraz znamená u každého něco jiného. Asociace, denní zbytky i způsob podání snu v přenosu jsou legitimní cesty; univerzální klíč obchází klientčinu psychiku i vztahový kontext.",
-  "source": "Freud, S.: Die Traumdeutung, 1900, kap. o metodě výkladu; Etchegoyen, H.: The Fundamentals of Psychoanalytic Technique, 1991",
-  "seedElo": 1300
  },
  {
   "id": "pre-028",
@@ -468,54 +452,6 @@
   "seedElo": 1500
  },
  {
-  "id": "pre-030",
-  "type": "I",
-  "category": "prenos-technika",
-  "text": "Klientka chodí soustavně o deset minut později a sezení pak otevírá omluvami, které zabírají další čas. Z hlediska kritéria 'jednání převést na mluvení, bez trestání' je nejvhodnější:",
-  "options": [
-   "Prodlužovat sezení o zameškaný čas, aby o nic nepřišla",
-   "Pozdní příchody pojmenovat jako opakující se vzorec a zvědavě zkoumat, co může vyjadřovat, při zachování standardního konce sezení",
-   "Ironicky poznamenat, že jednou snad přijde včas",
-   "Mlčky to tolerovat; čas je klientčina věc"
-  ],
-  "correct": 1,
-  "explanation": "Opakované zpoždění je pravděpodobně komunikace v jednání (ambivalence, strach, testování) a patří do řeči; standardní konec sezení přitom drží rámec, který dává zpoždění význam. Prodlužování význam maže a rámec bortí, ironie je odveta, tichá tolerance nechává acting out běžet bez užitku.",
-  "source": "Greenson, R.: The Technique and Practice of Psychoanalysis, 1967; Langs, R.: The Technique of Psychoanalytic Psychotherapy, 1973",
-  "seedElo": 1300
- },
- {
-  "id": "pre-031",
-  "type": "F",
-  "category": "prenos-technika",
-  "text": "Jak Freud v technických spisech (1912–1915) pojímá přenos v léčbě?",
-  "options": [
-   "Jako vzácnou komplikaci, která se objevuje jen u hysterie",
-   "Jako artefakt sugesce, který správná technika eliminuje",
-   "Jako nové vydání starých vztahových šablon vůči osobě lékaře — zprvu překážku, jež se stává hlavním nástrojem léčby",
-   "Jako vědomou strategii pacienta, jak se vyhnout platbě"
-  ],
-  "correct": 2,
-  "explanation": "Freud popsal přenos jako 'nové vydání' (Neuauflage) infantilních vztahových vzorců přenesených na lékaře; z původní překážky se v jeho pojetí stává bojiště i motor léčby, protože nemoc je v přenosu přítomná 'in effigie'. Nejde o vzácnost, artefakt ani vědomý kalkul — je všudypřítomný a nevědomý.",
-  "source": "Freud, S.: Zur Dynamik der Übertragung, 1912; Erinnern, Wiederholen und Durcharbeiten, 1914",
-  "seedElo": 1300
- },
- {
-  "id": "pre-032",
-  "type": "F",
-  "category": "prenos-technika",
-  "text": "Kdo zavedl rozlišení konkordantního a komplementárního protipřenosu?",
-  "options": [
-   "Paula Heimann",
-   "Otto Kernberg",
-   "Donald Winnicott",
-   "Heinrich Racker"
-  ],
-  "correct": 3,
-  "explanation": "Rozlišení pochází od argentinského analytika Heinricha Rackera (studie z 50. let, souborně 1968): konkordantní protipřenos je identifikace se self pacienta, komplementární s jeho vnitřními objekty. Heimann přinesla tezi protipřenosu jako nástroje, Winnicott objektivní nenávist v protipřenosu, Kernberg práci s protipřenosem u hraničních pacientů.",
-  "source": "Racker, H.: Transference and Countertransference, 1968",
-  "seedElo": 1300
- },
- {
   "id": "pre-033",
   "type": "F",
   "category": "prenos-technika",
@@ -533,22 +469,6 @@
   "deepDive": "Do roku 1950 platilo freudovské memento: protipřenos je slepá skvrna, kterou má analytik odstranit vlastní analýzou. Heimann (mimochodem proti vůli své učitelky Kleinové) tezi obrátila: analytikova emoční odpověď je *výtvorem pacienta v analytikovi* a tedy datový kanál. Tím založila tzv. **totalistické** pojetí protipřenosu, které dnes dominuje. Málo se cituje její varování z téhož článku: nástroj ano, ale ne výmluva — analytik má své pocity **snášet a zkoumat**, ne vylévat na pacienta ('the analyst's counter-transference is not only part of the analytic relationship, but it is the patient's creation'). Racker pak dodal jemnou mechaniku (konkordance/komplementarita) a Winnicott legitimizoval i nenávist ('Hate in the Counter-Transference', 1949)."
  },
  {
-  "id": "pre-034",
-  "type": "F",
-  "category": "prenos-technika",
-  "text": "Co označuje pojem 'analytický třetí' (the analytic third) Thomase Ogdena?",
-  "options": [
-   "Třetí osobu (supervizora) přítomnou v mysli analytika",
-   "Intersubjektivně spoluvytvářený nevědomý útvar dvojice, který se podílí na prožívání obou a lze jej číst mj. v analytikově snění (reverie)",
-   "Třetí fázi analýzy po úvodní a střední",
-   "Oidipského třetího, tedy otcovskou funkci v přenosu"
-  ],
-  "correct": 1,
-  "explanation": "Ogdenův analytický třetí je nevědomý intersubjektivní 'subjekt' generovaný dvojicí analytik–pacient; analytik k němu má přístup skrz vlastní reverie, tělesné pocity a zdánlivě rušivé myšlenky. Nejde o supervizora, fázování léčby ani přímo o oidipskou konstelaci, byť slovo 'třetí' svádí.",
-  "source": "Ogden, T. H.: The analytic third: working with intersubjective clinical facts, IJP, 1994",
-  "seedElo": 1900
- },
- {
   "id": "pre-035",
   "type": "F",
   "category": "prenos-technika",
@@ -563,22 +483,6 @@
   "explanation": "Greenson (v návaznosti na Zetzelovou) odděluje pracovní spojenectví — rozumnou, relativně racionální spolupráci pozorujícího ega s analytikem — od přenosové neurózy; právě aliance dovoluje pacientovi pracovat i uprostřed bouřlivého přenosu. Není to souhrn pozitivního přenosu (ten je iracionální), formální smlouva ani identifikace s nad-já.",
   "source": "Greenson, R.: The working alliance and the transference neurosis, Psychoanalytic Quarterly, 34, 1965",
   "seedElo": 1500
- },
- {
-  "id": "pre-036",
-  "type": "F",
-  "category": "prenos-technika",
-  "text": "Co jsou ve Freudově teorii snu 'denní zbytky' (Tagesreste)?",
-  "options": [
-   "Zdánlivě nevýznamné zážitky z předchozího dne, jichž snová práce užívá jako materiálu, na nějž se váže nevědomé přání",
-   "Vzpomínky na dětství, které se ve snu vracejí nezměněné",
-   "Části snu, které si snící ráno nepamatuje",
-   "Symboly se stálým univerzálním významem"
-  ],
-  "correct": 0,
-  "explanation": "Denní zbytky jsou recentní, často banální dojmy z bdělého dne, které sen použije jako 'podnikatele', který si opatří kapitál od nevědomého přání — teprve spojení obojího dá vznik snu. Nejsou to zapomenuté části snu ani univerzální symboly; dětské vzpomínky vstupují do latentního obsahu jinou cestou.",
-  "source": "Freud, S.: Die Traumdeutung, 1900, kap. V a VII",
-  "seedElo": 1300
  },
  {
   "id": "pre-037",
@@ -613,22 +517,6 @@
   "seedElo": 1500
  },
  {
-  "id": "pre-039",
-  "type": "F",
-  "category": "prenos-technika",
-  "text": "Co míní Patrick Casement pojmem 'interní supervize' (internal supervision)?",
-  "options": [
-   "Pravidelnou intervizní skupinu na pracovišti",
-   "Zvnitřněný hlas výcvikového supervizora, jehož pokyny si terapeut vybavuje",
-   "Průběžnou reflektující funkci terapeuta přímo během sezení — mj. schopnost slyšet vlastní zamýšlenou intervenci ušima pacienta (trial identification) dřív, než ji vysloví",
-   "Povinnost supervize po celou dobu profesní dráhy"
-  ],
-  "correct": 2,
-  "explanation": "Casement odlišuje interní supervizi od zvnitřněného supervizora: nejde o poslouchání cizího hlasu v hlavě, ale o vlastní autonomní reflektující pozici v reálném čase sezení, včetně zkusmé identifikace s pacientem ('jak tohle uslyší?'). Institucionální formy supervize jsou jiná rovina.",
-  "source": "Casement, P.: On Learning from the Patient, 1985, kap. 2",
-  "seedElo": 1700
- },
- {
   "id": "pre-040",
   "type": "F",
   "category": "prenos-technika",
@@ -643,22 +531,6 @@
   "explanation": "Rozdíl je v ohnisku: přenosová interpretace pracuje s živým materiálem ve vztahu k terapeutovi, extratransferová s vnějšími vztahy; genetická pak s původem vzorce v minulosti. Strachey považoval přenosovou interpretaci za mutativní pro její emoční bezprostřednost, ale extratransferové interpretace zůstávají legitimní součástí techniky, ne chybou.",
   "source": "Strachey, J.: The nature of the therapeutic action of psycho-analysis, IJP, 1934; Gill, M.: Analysis of Transference, 1982",
   "seedElo": 1500
- },
- {
-  "id": "pre-041",
-  "type": "K",
-  "category": "prenos-technika",
-  "text": "Terapeutka A u depresivního klienta cítí bezmoc a malost, jako by sama nic nezvládala. Terapeutka B u obdobného klienta cítí nutkání ho zachraňovat a řídit jeho život, jako jeho hyperprotektivní matka. V Rackerových pojmech:",
-  "options": [
-   "A komplementární, B konkordantní protipřenos",
-   "Obě konkordantní protipřenos",
-   "Obě komplementární protipřenos",
-   "A konkordantní (identifikace se self klienta), B komplementární (identifikace s jeho objektem)"
-  ],
-  "correct": 3,
-  "explanation": "A prožívá klientův vlastní stav (bezmoc, malost) — identifikace se self, tedy konkordance; B je vtažena do role klientova vnitřního objektu (zachraňující matky) — komplementarita. Kontrast ukazuje, že týž klient může u různých terapeutů (i v různých chvílích) mobilizovat oba typy.",
-  "source": "Racker, H.: Transference and Countertransference, 1968",
-  "seedElo": 1700
  },
  {
   "id": "pre-042",
@@ -691,22 +563,6 @@
   "explanation": "Aliance je racionální spolupráce na úkolu a snese i negativní přenosové city (A); vřelé city bez pracovní spolupráce jsou přenos, nikoli aliance (B). Právě proto se oba pojmy oddělují: příjemná atmosféra není totéž co nosný pracovní vztah.",
   "source": "Zetzel, E.: Current concepts of transference, IJP, 1956; Greenson, R.: The working alliance and the transference neurosis, 1965",
   "seedElo": 1500
- },
- {
-  "id": "pre-044",
-  "type": "K",
-  "category": "prenos-technika",
-  "text": "Klientka A o svých citech k terapeutovi mluví s ostychem, ví, že patří 'do terapie', a zkoumá je. Klient B na naplnění citů k terapeutce naléhá, výklad odmítá jako vytáčku a hrozí ukončením, když neuslyší vzájemnost. Klasické rozlišení zní:",
-  "options": [
-   "A idealizující, B zrcadlící přenos",
-   "A přenosová láska, B pracovní spojenectví",
-   "A erotický přenos se zachovaným 'jako by'; B erotizovaný přenos, kde 'jako by' kolabuje a přenos slouží odporu",
-   "A sublimace, B regrese ve službách ega"
-  ],
-  "correct": 2,
-  "explanation": "Osou kontrastu je zachování symbolické, reflektovatelné kvality citů: erotický přenos je materiál, erotizovaný je nárok na reálné naplnění s kolapsem 'jako by' prostoru. Erotizovaná forma bývá odolnější vůči interpretaci a klade vyšší nároky na držení rámce; s idealizací/zrcadlením ani se sublimací kontrast nesouvisí.",
-  "source": "Blum, H. P.: The concept of erotized transference, JAPA, 21, 1973; Gabbard, G. O.: Boundaries and Boundary Violations, 2016",
-  "seedElo": 1700
  },
  {
   "id": "pre-045",
@@ -757,20 +613,164 @@
   "seedElo": 1500
  },
  {
-  "id": "pre-048",
+  "id": "pre-050",
   "type": "E",
   "category": "prenos-technika",
-  "text": "Na prvním sezení klientka zmíní, že si nerozumí s dcerou. Terapeut odpoví: 'To je zjevně vaše nezpracovaná oidipská rivalita — nevědomě dceři závidíte mládí a přejete si ji odstranit.' Klientka se už neobjednala. Hlavní technická chyba je:",
+  "text": "Terapeutka o klientovi, který na sezení dlouze mlčel, referuje: 'Bylo mi to nepříjemné, tak jsem mu řekla, že mlčení je pasivní agrese vůči mně a že takhle sabotuje léčbu. Ať příště přijde připravený, o čem bude mluvit.' Hlavní chyba je:",
   "options": [
-   "Interpretace měla zaznít až po vyšetření snů",
-   "Terapeut neměl mluvit o rodinných vztazích na prvním sezení",
-   "Divoká interpretace: hluboký nevědomý obsah vyložený bez aliance, bez materiálu a bez přípravy působí jako útok a mobilizuje odpor či útěk",
-   "Obsah výkladu byl správný, jen měl být formulován latinsky mírněji"
+   "Vlastní nepohodlí přetavila v obviňující 'interpretaci' a příkaz — protipřenos nebyl kontejnován, význam mlčení nebyl zkoumán a odpor byl trestán místo analyzován",
+   "Mlčení měla vydržet celé, i kdyby trvalo deset sezení",
+   "Správně rozpoznala pasivní agresi, jen ji měla nahlásit supervizorovi místo klientovi",
+   "Chybou bylo pouze slovo 'sabotuje'; jinak byl postup v pořádku"
+  ],
+  "correct": 0,
+  "explanation": "Sekvence je učebnicově obrácená: nepříjemný pocit se měl nejprve kontejnovat a prozkoumat (čí je? co komunikuje?), mlčení má řadu možných významů a 'interpretace' zde byla ventilací protipřenosu s morálním apelem. Domácí příprava témat navíc popírá volnou asociaci. Nejde o jediné slovo ani o povinnost mlčet donekonečna — jde o zhroucení reflektující pozice.",
+  "source": "Heimann, P.: On counter-transference, 1950; Greenson, R.: The Technique and Practice of Psychoanalysis, 1967; Casement, P., 1985",
+  "seedElo": 1500
+ },
+ {
+  "id": "pre-005",
+  "type": "V",
+  "category": "prenos-technika",
+  "text": "Terapeutka si zpětně uvědomí, že klientovi, který v dětství zažíval citovou deprivaci, už potřetí bez rozmyslu prodloužila sezení a jednou mu odpustila platbu — a on přesto stupňuje výčitky, že mu nedává dost. Který pojem situaci nejlépe vystihuje?",
+  "options": [
+   "Terapeutická flexibilita přiměřená klientovým potřebám",
+   "Enactment — společné odehrání přenosově-protipřenosového vzorce v jednání",
+   "Konkordantní protipřenos zpracovaný v rovině prožitku",
+   "Racionální korektivní emoční zkušenost dle Alexandera"
+  ],
+  "correct": 1,
+  "explanation": "Oba účastníci nevědomě jednají scénář (deprivované dítě — objekt, který má dluh splatit), místo aby jej pojmenovali; to je definice enactmentu, který terapeutka rozpozná typicky až zpětně. Flexibilita by byla vědomou technickou volbou, konkordantní protipřenos je prožitek, nikoli jednání, a korektivní zkušenost není opakované nereflektované porušování rámce.",
+  "source": "Jacobs, T.: On countertransference enactments, JAPA, 1986; Gabbard, G. O.: Psychodynamic Psychiatry in Clinical Practice",
+  "seedElo": 1700
+ },
+ {
+  "id": "pre-008",
+  "type": "V",
+  "category": "prenos-technika",
+  "text": "Klient přináší na každé sezení výčet svých úspěchů a napjatě sleduje terapeutčinu tvář; když reaguje neutrálně, zhroutí se do studu a vzteku, že 'jí na něm nezáleží'. V pojmech self-psychologie jde nejspíše o:",
+  "options": [
+   "Erotizovaný přenos s narcistickou obranou",
+   "Komplementární protipřenos na straně klienta",
+   "Idealizující přenos s projekcí grandiozity",
+   "Zrcadlící přenos — klient potřebuje terapeutku jako selfobjekt potvrzující jeho hodnotu"
+  ],
+  "correct": 3,
+  "explanation": "Potřeba být viděn, obdivován a potvrzen, s fragmentací (stud, vztek) při selhání odezvy, definuje zrcadlící selfobjektový přenos dle Kohuta. Idealizace by směřovala k velikosti terapeutky, ne klienta; protipřenos je z definice jev na straně terapeuta.",
+  "source": "Kohut, H.: The Analysis of the Self, 1971; Kohut, H.: How Does Analysis Cure?, 1984",
+  "seedElo": 1700
+ },
+ {
+  "id": "pre-011",
+  "type": "V",
+  "category": "prenos-technika",
+  "text": "Klientka v terapii poprvé dlouze mlčí; sedí uvolněně, dívá se z okna, atmosféra je klidná až snivá. Terapeut cítí nutkání ticho rychle přerušit otázkou. Které porozumění situaci je nejpřiléhavější?",
+  "options": [
+   "Mlčení je vždy odpor a je třeba jej konfrontovat",
+   "Klientka pasivně-agresivně trestá terapeuta",
+   "Jde o rupturu aliance vyžadující okamžitou metakomunikaci",
+   "Mlčení může být i plodné (regrese ve službách růstu); nutkání je přerušit patří spíš terapeutově úzkosti"
+  ],
+  "correct": 3,
+  "explanation": "Mlčení má mnoho významů — odpor, trest, ale i tiché spočinutí či zpracovávání; uvolněná, snivá kvalita zde mluví pro druhé. Casement upozorňuje, že terapeutovo nutkání ticho vyplnit bývá jeho vlastní úzkostí z nekonání; automatická konfrontace by klidný proces přerušila a implicitně označila za problém.",
+  "source": "Casement, P.: On Learning from the Patient, 1985; Winnicott, D. W.: The capacity to be alone, IJP, 1958",
+  "seedElo": 1700
+ },
+ {
+  "id": "pre-015",
+  "type": "V",
+  "category": "prenos-technika",
+  "text": "Klient s láskou vzpomíná, jak mu terapeutka minule 'přesně rozuměla', na sezení chodí rád, spolupracuje, a zároveň o ní nemá nerealistické představy a unese její omyly. Tento stav nejlépe popisuje:",
+  "options": [
+   "Idealizující přenos vyžadující včasnou interpretaci",
+   "Erotický přenos v počátečním stadiu",
+   "Nenamítatelný pozitivní přenos — vehikulum spolupráce, které se zpravidla neinterpretuje",
+   "Odpor formou pseudoaliance"
   ],
   "correct": 2,
-  "explanation": "Freud tento typ chyby popsal jako 'divokou analýzu': i kdyby výklad náhodou mířil správně, sdělení nepřipraveného hlubokého obsahu bez vztahu a bez klientčiných vlastních asociací nemá léčivý účinek — vyvolá úzkost, odpor, nebo odchod. Pořadí je vztah a povrch nejdřív, hloubka potom; sny nejsou povinná vstupenka a rodinná témata na první sezení samozřejmě patří.",
-  "source": "Freud, S.: Über 'wilde' Psychoanalyse, 1910; Fenichel, O.: Problems of Psychoanalytic Technique, 1941",
-  "seedElo": 1300
+  "explanation": "Freud popsal 'nenamítatelný' (unobjectionable) pozitivní přenos jako mírně láskyplný postoj, který léčbu nese a neinterpretuje se, dokud nepřeroste v odpor. Realistické vnímání terapeutky a schopnost unést její chyby jej odlišují od idealizace i erotizace; pseudoaliance by se prozradila stagnací.",
+  "source": "Freud, S.: Zur Dynamik der Übertragung, 1912; Greenson, R.: The Technique and Practice of Psychoanalysis, 1967",
+  "seedElo": 1700
+ },
+ {
+  "id": "pre-024",
+  "type": "I",
+  "category": "prenos-technika",
+  "text": "Klient truchlící po smrti otce se zeptá terapeuta: 'Zemřel vám někdy někdo blízký?' V které situaci by terapeutovo sebeodhalení ('ano, otec') bylo z hlediska kritéria 'čí potřebě sdělení slouží' NEJMÉNĚ vhodné?",
+  "options": [
+   "Když po prozkoumání otázky usoudí, že stručné potvrzení sdílené lidské zkušenosti klienta ukotví",
+   "Když klient testuje, zda terapeut vůbec může rozumět, a fantazii už společně prozkoumali",
+   "Když by odpověď byla stručná, věcná a vrátila pozornost ke klientovu truchlení",
+   "Když terapeut cítí potřebu o vlastní čerstvé ztrátě mluvit a klientova otázka mu to umožňuje"
+  ],
+  "correct": 3,
+  "explanation": "Základní kritérium sebeodhalení zní: slouží klientovi, ne terapeutovi. Odhalení nesené terapeutovou vlastní neodtruchlenou potřebou obrací role a zatěžuje klienta péčí o terapeuta. Zbylé tři varianty popisují uvážlivé, stručné odhalení po prozkoumání, které se v současné technice připouští.",
+  "source": "Gabbard, G. O.: Long-Term Psychodynamic Psychotherapy, 2004, kap. o sebeodhalení; Maroda, K.: The Power of Countertransference, 1991",
+  "seedElo": 1700
+ },
+ {
+  "id": "pre-026",
+  "type": "I",
+  "category": "prenos-technika",
+  "text": "Terapeutka chce klientovi zprostředkovat, že jeho věčné 'dělání radosti' druhým je obrana proti strachu z odmítnutí. Podle Greensonova pojetí postupných kroků analýzy odporu má intervence začít:",
+  "options": [
+   "Genetickou rekonstrukcí: propojením vzorce s otcem, který lásku podmiňoval",
+   "Konfrontací a klarifikací: nejprve klientovi zpřístupnit, ŽE a JAK vzorec v řeči i vztahu opakuje",
+   "Úplnou přenosovou interpretací včetně nevědomé fantazie",
+   "Doporučením behaviorálního experimentu s odmítnutím"
+  ],
+  "correct": 1,
+  "explanation": "Greensonova sekvence zní konfrontace → klarifikace → interpretace → propracování: klient musí jev nejdřív vidět a ohraničit, teprve pak má smysl vykládat nevědomý význam a genezi. Skok rovnou ke genetice či nevědomé fantazii vyrábí intelektuální souhlas bez prožitku; behaviorální experiment je jiný terapeutický jazyk, nikoli krok této sekvence.",
+  "source": "Greenson, R.: The Technique and Practice of Psychoanalysis, 1967, kap. o technice analýzy odporu",
+  "seedElo": 1700
+ },
+ {
+  "id": "pre-039",
+  "type": "F",
+  "category": "prenos-technika",
+  "text": "Co míní Patrick Casement pojmem 'interní supervize' (internal supervision)?",
+  "options": [
+   "Pravidelnou intervizní skupinu na pracovišti",
+   "Zvnitřněný hlas výcvikového supervizora, jehož pokyny si terapeut vybavuje",
+   "Průběžnou reflektující funkci terapeuta přímo během sezení — mj. schopnost slyšet vlastní zamýšlenou intervenci ušima pacienta (trial identification) dřív, než ji vysloví",
+   "Povinnost supervize po celou dobu profesní dráhy"
+  ],
+  "correct": 2,
+  "explanation": "Casement odlišuje interní supervizi od zvnitřněného supervizora: nejde o poslouchání cizího hlasu v hlavě, ale o vlastní autonomní reflektující pozici v reálném čase sezení, včetně zkusmé identifikace s pacientem ('jak tohle uslyší?'). Institucionální formy supervize jsou jiná rovina.",
+  "source": "Casement, P.: On Learning from the Patient, 1985, kap. 2",
+  "seedElo": 1700
+ },
+ {
+  "id": "pre-041",
+  "type": "K",
+  "category": "prenos-technika",
+  "text": "Terapeutka A u depresivního klienta cítí bezmoc a malost, jako by sama nic nezvládala. Terapeutka B u obdobného klienta cítí nutkání ho zachraňovat a řídit jeho život, jako jeho hyperprotektivní matka. V Rackerových pojmech:",
+  "options": [
+   "A komplementární, B konkordantní protipřenos",
+   "Obě konkordantní protipřenos",
+   "Obě komplementární protipřenos",
+   "A konkordantní (identifikace se self klienta), B komplementární (identifikace s jeho objektem)"
+  ],
+  "correct": 3,
+  "explanation": "A prožívá klientův vlastní stav (bezmoc, malost) — identifikace se self, tedy konkordance; B je vtažena do role klientova vnitřního objektu (zachraňující matky) — komplementarita. Kontrast ukazuje, že týž klient může u různých terapeutů (i v různých chvílích) mobilizovat oba typy.",
+  "source": "Racker, H.: Transference and Countertransference, 1968",
+  "seedElo": 1700
+ },
+ {
+  "id": "pre-044",
+  "type": "K",
+  "category": "prenos-technika",
+  "text": "Klientka A o svých citech k terapeutovi mluví s ostychem, ví, že patří 'do terapie', a zkoumá je. Klient B na naplnění citů k terapeutce naléhá, výklad odmítá jako vytáčku a hrozí ukončením, když neuslyší vzájemnost. Klasické rozlišení zní:",
+  "options": [
+   "A idealizující, B zrcadlící přenos",
+   "A přenosová láska, B pracovní spojenectví",
+   "A erotický přenos se zachovaným 'jako by'; B erotizovaný přenos, kde 'jako by' kolabuje a přenos slouží odporu",
+   "A sublimace, B regrese ve službách ega"
+  ],
+  "correct": 2,
+  "explanation": "Osou kontrastu je zachování symbolické, reflektovatelné kvality citů: erotický přenos je materiál, erotizovaný je nárok na reálné naplnění s kolapsem 'jako by' prostoru. Erotizovaná forma bývá odolnější vůči interpretaci a klade vyšší nároky na držení rámce; s idealizací/zrcadlením ani se sublimací kontrast nesouvisí.",
+  "source": "Blum, H. P.: The concept of erotized transference, JAPA, 21, 1973; Gabbard, G. O.: Boundaries and Boundary Violations, 2016",
+  "seedElo": 1700
  },
  {
   "id": "pre-049",
@@ -790,19 +790,819 @@
   "deepDive": "Studie závažných etických selhání v terapii ukazují pozoruhodně jednotnou dráhu: skoro nikdy nezačínají 'velkým' činem. Začíná se minutami navíc, sezením na konci dne, tykáním, drobnými dary, telefonáty 'jen výjimečně' — každá výjimka má dobrý důvod a všechny mají směr. Gutheil a Gabbard proto rozlišili **boundary crossing** (neškodné, někdy i užitečné vybočení, které lze otevřeně probrat) a **boundary violation** (vybočení škodlivé, typicky nemluvitelné). Praktický lakmus: *Můžu o tom bez studu říct supervizorovi a klientovi?* Jakmile terapeut nějaké uspořádání drží v tichosti nebo ho racionalizuje výjimečností klienta, je na svahu — a svah je kluzký právě proto, že každý jednotlivý krok vypadá nevinně."
  },
  {
-  "id": "pre-050",
+  "id": "pre-A27",
+  "type": "I",
+  "category": "prenos-technika",
+  "text": "Zásada dávkování interpretace znamená v klasické technice především, že analytik:",
+  "options": [
+   "podává v jednom sezení nejvýše jednu interpretaci a pak už mlčí",
+   "sděluje jen tolik, kolik pacientovo Já v dané chvíli unese a zpracuje",
+   "šetří hluboké výklady na závěrečnou fázi analýzy a na ukončení",
+   "střídá hluboké a povrchní výklady tak, aby udržel pacientovu pozornost"
+  ],
+  "correct": 1,
+  "explanation": "Kritériem dávky není počet vět ani hloubka sama, ale kapacita pacientova Já v daném okamžiku. Přebytek vede k intelektuálnímu přijetí nebo k zaplavení úzkostí, nedostatek k stagnaci. Praktickým testem je, co s materiálem pacient udělá v následujících minutách.",
+  "source": "Otto Fenichel, Problems of Psychoanalytic Technique, 1941",
+  "seedElo": 1850
+ },
+ {
+  "id": "pre-B04",
   "type": "E",
   "category": "prenos-technika",
-  "text": "Terapeutka o klientovi, který na sezení dlouze mlčel, referuje: 'Bylo mi to nepříjemné, tak jsem mu řekla, že mlčení je pasivní agrese vůči mně a že takhle sabotuje léčbu. Ať příště přijde připravený, o čem bude mluvit.' Hlavní chyba je:",
+  "text": "Terapeutka chce u konkrétního afektu rozhodnout, zda jde o protipřenos vyvolaný pacientem, nebo o její vlastní materiál. Které vodítko má z hlediska diagnostické hodnoty největší váhu?",
   "options": [
-   "Vlastní nepohodlí přetavila v obviňující 'interpretaci' a příkaz — protipřenos nebyl kontejnován, význam mlčení nebyl zkoumán a odpor byl trestán místo analyzován",
-   "Mlčení měla vydržet celé, i kdyby trvalo deset sezení",
-   "Správně rozpoznala pasivní agresi, jen ji měla nahlásit supervizorovi místo klientovi",
-   "Chybou bylo pouze slovo 'sabotuje'; jinak byl postup v pořádku"
+   "Zda je afekt příjemný, protože vlastní materiál se hlásí spíš úzkostí než uvolněním a zájmem.",
+   "Zda je afekt pro ni v jiných vztazích i s jinými pacienty netypický a časově vázaný na tuto dyádu.",
+   "Zda afekt vymizí do konce sezení, neboť pacientem vyvolaný prožitek nepřežívá konec setkání.",
+   "Zda dokáže afekt pojmenovat slovy, jelikož vlastní materiál bývá zásadně nepojmenovatelný."
+  ],
+  "correct": 1,
+  "explanation": "Nejsilnějším rozlišovacím kritériem je kontrast se základní linií: prožitek, který terapeutka běžně nemívá, který se objevuje právě s tímto pacientem a mizí mimo tuto dyádu, ukazuje spíš na pole vytvářené pacientem. Naopak afekt, jenž se opakuje napříč pacienty i soukromým životem, patří terapeutce. Rozhodnutí není nikdy jisté — proto supervize a vlastní terapie fungují jako kalibrační nástroje.",
+  "source": "Gabbard, Long-Term Psychodynamic Psychotherapy (2017)",
+  "seedElo": 1880
+ },
+ {
+  "id": "pre-034",
+  "type": "F",
+  "category": "prenos-technika",
+  "text": "Co označuje pojem 'analytický třetí' (the analytic third) Thomase Ogdena?",
+  "options": [
+   "Třetí osobu (supervizora) přítomnou v mysli analytika",
+   "Intersubjektivně spoluvytvářený nevědomý útvar dvojice, který se podílí na prožívání obou a lze jej číst mj. v analytikově snění (reverie)",
+   "Třetí fázi analýzy po úvodní a střední",
+   "Oidipského třetího, tedy otcovskou funkci v přenosu"
+  ],
+  "correct": 1,
+  "explanation": "Ogdenův analytický třetí je nevědomý intersubjektivní 'subjekt' generovaný dvojicí analytik–pacient; analytik k němu má přístup skrz vlastní reverie, tělesné pocity a zdánlivě rušivé myšlenky. Nejde o supervizora, fázování léčby ani přímo o oidipskou konstelaci, byť slovo 'třetí' svádí.",
+  "source": "Ogden, T. H.: The analytic third: working with intersubjective clinical facts, IJP, 1994",
+  "seedElo": 1900
+ },
+ {
+  "id": "pre-A01",
+  "type": "K",
+  "category": "prenos-technika",
+  "text": "Podle Malanova trojúhelníku konfliktu je úplná interpretace ta, která propojí tři prvky. Které to jsou?",
+  "options": [
+   "obranu, úzkost z jejího uvolnění a skrytý impulz či cit pod ní",
+   "přenos, vztah k terapeutovi mimo sezení a vztah k rodičům v dětství",
+   "symptom, jeho spouštěč v realitě a jeho zisk ve vztahové situaci",
+   "vzpomínku, s ní spojený afekt a její opakování v současném životě"
   ],
   "correct": 0,
-  "explanation": "Sekvence je učebnicově obrácená: nepříjemný pocit se měl nejprve kontejnovat a prozkoumat (čí je? co komunikuje?), mlčení má řadu možných významů a 'interpretace' zde byla ventilací protipřenosu s morálním apelem. Domácí příprava témat navíc popírá volnou asociaci. Nejde o jediné slovo ani o povinnost mlčet donekonečna — jde o zhroucení reflektující pozice.",
-  "source": "Heimann, P.: On counter-transference, 1950; Greenson, R.: The Technique and Practice of Psychoanalysis, 1967; Casement, P., 1985",
-  "seedElo": 1500
+  "explanation": "Trojúhelník konfliktu má vrcholy obrana – úzkost – skrytý cit (hidden feeling). Úplná interpretace ukazuje, jaký impulz se skrývá, jaká úzkost jej doprovází a jakou obranou se s ním pacient vyrovnává. Vynechání kteréhokoli vrcholu dělá výklad neúplným — nejčastěji chybí právě úzkost.",
+  "source": "David Malan, Individual Psychotherapy and the Science of Psychodynamics, 1979",
+  "seedElo": 1900
+ },
+ {
+  "id": "pre-A09",
+  "type": "I",
+  "category": "prenos-technika",
+  "text": "Fenichelovo pravidlo, že se interpretuje „odpor dříve než obsah“, se opírá o argument, že:",
+  "options": [
+   "obsah sdělený proti neodstraněné obraně zůstane pro pacienta bez účinku",
+   "obsah je vždy méně důležitý než způsob, jakým pacient s analytikem mluví",
+   "odpor je jedinou skutečnou překážkou, kterou lze v analýze vůbec vykládat",
+   "pacient si obranu musí uvědomit dřív, než analytik smí použít slovo přenos"
+  ],
+  "correct": 0,
+  "explanation": "Fenichel odvozuje pořadí z ekonomie: dokud obrana drží, nemá vytěsněný obsah kam vstoupit a výklad se buď odrazí, nebo se přijme jen intelektuálně. Doplňuje k tomu pravidlo interpretovat od povrchu do hloubky a jen tam, kde je materiál blízko vědomí.",
+  "source": "Otto Fenichel, Problems of Psychoanalytic Technique, 1941",
+  "seedElo": 1900
+ },
+ {
+  "id": "pre-B01",
+  "type": "E",
+  "category": "prenos-technika",
+  "text": "Winnicott ve stati „Hate in the Counter-Transference“ (1949) zavádí pojem objektivní nenávisti. Co ho z hlediska legitimity terapeutova afektu odlišuje od nenávisti neurotické?",
+  "options": [
+   "Je vědomá, zatímco neurotická nenávist zůstává nevědomá a projeví se jen v drobných chybách rámce.",
+   "Je slabší co do intenzity, a proto ji terapeut zvládne udržet, aniž by ji musel pacientovi sdělit.",
+   "Je oprávněnou reakcí na reálné chování pacienta, kterou by na terapeutově místě měl kdokoli zdravý.",
+   "Je vždy důsledkem projektivní identifikace, tedy afektem, jenž pacientovi patří a byl mu jen vrácen."
+  ],
+  "correct": 2,
+  "explanation": "Winnicott rozlišuje nenávist plynoucí z terapeutova vlastního neurotického materiálu od nenávisti „objektivní“ — tedy takové, kterou by pacientovo chování vyvolalo u každého přiměřeně zdravého člověka v téže roli. Legitimní je proto, že je přiměřená situaci; nebezpečná je až tehdy, když ji terapeut popře. Analogii hledá u matky, která své dítě nenávidí dřív, než ono může nenávidět ji, a přesto ho neopustí.",
+  "source": "Winnicott, Hate in the Counter-Transference (1949)",
+  "seedElo": 1900
+ },
+ {
+  "id": "pre-B02",
+  "type": "E",
+  "category": "prenos-technika",
+  "text": "Gutheil a Gabbard rozlišují hraniční přešlap (boundary crossing) od porušení hranice (boundary violation). Které kritérium je pro toto rozlišení z hlediska profesní etiky rozhodující?",
+  "options": [
+   "Zda odchylka od obvyklého rámce pacienta poškozuje či ho vtahuje do uspokojování potřeb terapeuta.",
+   "Zda k odchylce došlo v ordinaci, nebo mimo ni, protože prostor je nejobjektivnějším měřítkem rámce.",
+   "Zda odchylku terapeut zaznamenal do dokumentace a předem ji projednal se svým supervizorem.",
+   "Zda odchylka byla jednorázová, nebo se v průběhu léčby opakovala nejméně ve třech oddělených sezeních."
+  ],
+  "correct": 0,
+  "explanation": "Přešlap je nepodstatná či dokonce terapeuticky užitečná odchylka od obvyklého rámce (podání ruky, doprovod ke dveřím), která pacientovi neškodí a lze ji analyticky zpracovat. Porušení je exploatativní: slouží terapeutovi a poškozuje pacienta. Dokumentace, opakování ani místo nejsou samy o sobě rozlišujícím kritériem, byť mohou být varovnými signály.",
+  "source": "Gutheil & Gabbard, Am J Psychiatry (1993, 1998)",
+  "seedElo": 1900
+ },
+ {
+  "id": "pre-A02",
+  "type": "I",
+  "category": "prenos-technika",
+  "text": "Malanův trojúhelník osob (T–C–P) slouží podle jeho vlastního vymezení k tomu, aby terapeut:",
+  "options": [
+   "vedl pacienta od aktuálního symptomu zpět k jeho nejranější příčině",
+   "propojil týž konfliktní vzorec ve vztahu k terapeutovi, k blízkým i k rodičům",
+   "rozlišil, které vztahy pacienta jsou zdravé a které opakují starou patologii",
+   "zjistil, ve kterém ze tří vztahů je pacientův odpor v dané chvíli nejnižší"
+  ],
+  "correct": 1,
+  "explanation": "Trojúhelník osob má vrcholy Transference, Current a Past. Kritériem je identita vzorce, ne identita osob: terapeut ukazuje, že totéž se děje ve třech arénách. Malan sledoval jako prediktor výsledku právě počet interpretací spojujících přenos s rodičovskou postavou.",
+  "source": "David Malan, Individual Psychotherapy and the Science of Psychodynamics, 1979",
+  "seedElo": 1950
+ },
+ {
+  "id": "pre-B03",
+  "type": "V",
+  "category": "prenos-technika",
+  "text": "Terapeut po půl roce práce s mužem (38) zjišťuje, že si na sezeních připadá jako nepotřebný přívěsek: pacient mluví plynule, terapeutovy vstupy míjí bez povšimnutí a nic z nich se v dalších hodinách neobjeví. Co tento protipřenosový vzorec z hlediska charakterové organizace nejspíš signalizuje?",
+  "options": [
+   "Sílící negativní přenos, v němž pacient terapeuta zažívá jako pronásledovatele, jehož slova jsou nebezpečná.",
+   "Nastupující depresivní stažení, při kterém pacient ztrácí schopnost přijmout jakoukoli vnější nabídku.",
+   "Rozštěpení objektu, kdy pacient terapeuta střídavě idealizuje a znehodnocuje v rychlém sledu obou poloh.",
+   "Narcistickou organizaci, kde terapeut slouží jako publikum a jeho oddělená mysl je vyloučena z pole."
+  ],
+  "correct": 3,
+  "explanation": "Typickou protipřenosovou signaturou narcistického pacienta je pocit zbytnosti, únavné vyprázdněnosti a vyloučení z dění — terapeut je potřebný jako zrcadlo, nikoli jako samostatná mysl. Paranoidní organizace vyvolává spíš napětí a obezřetnost, hraniční prudké obraty a tlak k akci. Sám pocit „nejsem tu“ je proto diagnostickým údajem, nikoli známkou terapeutovy neschopnosti.",
+  "source": "Kernberg, Severe Personality Disorders (1984)",
+  "seedElo": 1950
+ },
+ {
+  "id": "pre-A10",
+  "type": "I",
+  "category": "prenos-technika",
+  "text": "Proč je podle Stracheyho mutativní právě přenosová interpretace?",
+  "options": [
+   "protože jen ona dovoluje pacientovi znovu prožít původní dětské trauma",
+   "protože jen u ní je pud v okamžiku výkladu skutečně nasměrován na analytika",
+   "protože jen ona obchází odpor a dostává se přímo k nevědomé fantazii",
+   "protože jen ona zaručuje, že pacient přijme analytikův výklad bez odporu"
+  ],
+  "correct": 1,
+  "explanation": "Stracheyho kritérium mutativnosti je „point of urgency“: výklad musí zasáhnout pudové hnutí v okamžiku, kdy je živé a míří na analytika. Pacient pak zjistí, že analytik nereaguje jako archaický objekt, a může přijmout mírnější introjekt. Mimo přenos podle Stracheyho tato podmínka splnitelná není.",
+  "source": "James Strachey, The Nature of the Therapeutic Action of Psycho-Analysis, IJP 1934",
+  "seedElo": 2000
+ },
+ {
+  "id": "pre-A24",
+  "type": "I",
+  "category": "prenos-technika",
+  "text": "V Kernbergově pojetí se práce s mlčením liší podle úrovně organizace osobnosti tak, že u neurotického pacienta mlčení spíše:",
+  "options": [
+   "signalizuje ztrátu kontaktu s realitou a vyžaduje aktivní oslovení",
+   "znamená klidné spočinutí, do něhož se nemá nijak zasahovat slovem",
+   "vyjadřuje odpor, jejž lze pojmenovat, kdežto u hraničního hrozí prázdnotou",
+   "je projevem nedostatku materiálu a řeší se změnou frekvence sezení"
+  ],
+  "correct": 2,
+  "explanation": "U neurotické organizace je mlčení obvykle obranou proti konkrétnímu obsahu a snese, aby bylo analyzováno jako odpor. U hraniční organizace může znamenat difuzi identity, prázdno nebo tichý útok a delší vyčkávání zesiluje úzkost i riziko odehrání. Kritériem volby je tedy strukturální diagnóza, ne délka pauzy.",
+  "source": "Otto Kernberg, Severe Personality Disorders, 1984",
+  "seedElo": 2000
+ },
+ {
+  "id": "pre-B06",
+  "type": "V",
+  "category": "prenos-technika",
+  "text": "Žena (44) dochází dva roky přesně a spolehlivě, mluví přesně a bez emocí o snech a četbě. Terapeutka má opakovaně pocit, že sedí za neviditelným sklem a že jakékoli sblížení by bylo vetřením. Jak nejlépe rozumět tomuto protipřenosu u schizoidní organizace?",
+  "options": [
+   "Jako odporu, který je třeba prolomit zvýšenou aktivitou a přímými dotazy na city vůči terapeutce.",
+   "Jako známce chybějící motivace k léčbě, kterou je vhodné otevřít úvahou o smysluplnosti pokračování.",
+   "Jako rezonanci s pacientčiným dilematem blízkosti a pohlcení — vzdálenost je způsob, jak vztah udržet.",
+   "Jako projev terapeutčiny vlastní nedostupnosti, kterou pacientka pouze zrcadlí v obranném stažení."
+  ],
+  "correct": 2,
+  "explanation": "Schizoidní pacient touží po kontaktu a zároveň se ho bojí jako pohlcení; terapeut proto typicky prožívá zvláštní směs blízkosti a nepřekročitelné bariéry. Protipřenosový pocit „nesmím se přiblížit“ je rezonancí s tímto dilematem, ne důkazem nezájmu. Technicky z toho plyne trpělivé respektování odstupu, protože nátlak na intimitu potvrzuje pacientčinu obavu z vpádu.",
+  "source": "McWilliams, Psychoanalytic Diagnosis (2011)",
+  "seedElo": 2000
+ },
+ {
+  "id": "pre-B11",
+  "type": "V",
+  "category": "prenos-technika",
+  "text": "Pacient (41) v hodině vstane, přiblíží se k terapeutce a řekne, že ví, kde parkuje, a že „by se jí mohlo něco stát“. Terapeutka cítí strach. Co je z hlediska bezpečnosti i zachování terapeutické funkce nejméně vhodné?",
+  "options": [
+   "Pojmenovat, co se právě v místnosti děje, a trvat na tom, že takto pracovat nelze, dokud se situace neuklidní.",
+   "Ukončit sezení dřív a stanovit podmínky, za nichž je další setkání možné, včetně případného přizvání třetí osoby.",
+   "Zvážit svou reálnou bezpečnost a v případě potřeby využít zákonné výjimky z mlčenlivosti kvůli hrozbě.",
+   "Interpretovat výhrůžku jako přenosovou repetici otcovy agrese a pokračovat v sezení podle plánu."
+  ],
+  "correct": 3,
+  "explanation": "Interpretace přenosu předpokládá, že rámec drží; při reálné hrozbě je nutné nejprve obnovit bezpečnost, jinak se z interpretace stává popření skutečnosti a terapeutka pacientovi potvrzuje, že jeho agrese nemá důsledky. Pojmenování situace, ukončení sezení a stanovení podmínek jsou legitimní kroky. Přenosový význam epizody lze zpracovat později, ale až z pozice, která je fyzicky udržitelná.",
+  "source": "Gabbard, Psychodynamic Psychiatry in Clinical Practice (2014)",
+  "seedElo": 2000
+ },
+ {
+  "id": "pre-A06",
+  "type": "I",
+  "category": "prenos-technika",
+  "text": "Merton Gill oproti klasické technice tvrdil, že prvním krokem má být:",
+  "options": [
+   "rekonstrukce dětské situace, která současné prožívání vysvětluje",
+   "interpretace odporu vůči uvědomění přenosu, tedy narážek na vztah",
+   "systematické mapování pacientových obran mimo vztah k analytikovi",
+   "trpělivé vyčkávání, dokud pacient přenos nepojmenuje sám a spontánně"
+  ],
+  "correct": 1,
+  "explanation": "Gill rozlišil odpor vůči uvědomění přenosu a odpor vůči jeho rozřešení. Kritériem je pořadí: nejdřív se zpracují alusivní, nepřímé narážky na vztah k analytikovi, teprve pak lze přenos rozpouštět a případně geneticky vykládat. Genetická interpretace podaná dřív podle Gilla slouží úniku od aktuálního vztahu.",
+  "source": "Merton Gill, Analysis of Transference I, 1982",
+  "seedElo": 2050
+ },
+ {
+  "id": "pre-A28",
+  "type": "I",
+  "category": "prenos-technika",
+  "text": "Nejspolehlivějším vodítkem, že interpretace zasáhla, je podle klasické techniky (Fenichel, Kris):",
+  "options": [
+   "pacientův výslovný souhlas a potvrzení, že to tak skutečně cítí",
+   "znatelné zklidnění a pocit úlevy, který v sezení nastane hned poté",
+   "posun v materiálu — nová vzpomínka, asociace nebo prohloubení afektu",
+   "vymizení symptomu, s nímž pacient do terapie původně přicházel"
+  ],
+  "correct": 2,
+  "explanation": "Souhlas i nesouhlas mohou být obranné, úleva může znamenat, že interpretace úzkost zakryla. Kritériem je proto validace materiálem: co následuje bezprostředně poté — nový vzpomínkový detail, posun tématu do hloubky, změna afektu. Tato zásada je zároveň důvodem, proč analytik po interpretaci mlčí a poslouchá.",
+  "source": "Otto Fenichel, Problems of Psychoanalytic Technique, 1941; Ernst Kris, The Recovery of Childhood Memories in Psychoanalysis, 1956",
+  "seedElo": 2050
+ },
+ {
+  "id": "pre-B05",
+  "type": "I",
+  "category": "prenos-technika",
+  "text": "Terapeut si uvědomí, že se na hodiny s jednou pacientkou těší jinak než na ostatní, upravuje si kvůli nim vzhled a v duchu si připravuje vtipy. Pacientka o ničem podobném nemluví. Jaké je z hlediska bezpečného zpracování erotického protipřenosu nejvhodnější první opatření?",
+  "options": [
+   "Vzít prožitek jako klinický údaj do supervize či vlastní terapie a zatím nezasahovat do rámce ani techniky.",
+   "Zvýšit odstup v chování, zkrátit sezení a omezit oční kontakt, dokud přitažlivost sama neodezní.",
+   "Otevřeně pacientce sdělit, co prožívá, aby se vyloučilo tajemství a obnovila se upřímnost vztahu.",
+   "Doporučit převedení k jinému terapeutovi, neboť erotický protipřenos vylučuje další nestrannou práci."
+  ],
+  "correct": 0,
+  "explanation": "Erotický protipřenos je běžný a sám o sobě není přestupkem; nebezpečné je jeho utajení a nezpracovanost. Prvním krokem je proto externí prostor k reflexi, kde lze rozlišit vlastní materiál od pole vytvářeného pacientkou. Sdělení pacientce zpravidla zatěžuje ji terapeutovou potřebou, tiché ochlazení rámce jí vzkazuje nesrozumitelné odmítnutí a předání je krajní řešení až při ztrátě schopnosti pracovat.",
+  "source": "Gabbard, Love and Hate in the Analytic Setting (1996)",
+  "seedElo": 2050
+ },
+ {
+  "id": "pre-B08",
+  "type": "V",
+  "category": "prenos-technika",
+  "text": "Žena (36) líčí sérii nespravedlností, které snáší bez hněvu, odmítá každou úlevu a po dobrém sezení se zpravidla vrátí zhoršená. Terapeut cítí tlak jí konečně pomoci a zároveň narůstající podráždění. Co tato dvojice protipřenosových hnutí u masochistické organizace ukazuje?",
+  "options": [
+   "Že terapeut ztratil neutralitu a měl by intervence omezit na pouhé zrcadlení pacientčiných slov.",
+   "Že pacientka potřebuje důraznější konfrontaci se sekundárním ziskem, jinak se utrpení nezmění.",
+   "Že jde o depresivní epizodu, kde je podráždění terapeuta nespecifickou reakcí na beznaděj pacientky.",
+   "Že terapeut obsadil oba póly vnitřní dvojice — zachránce i trýznitele —, a právě to je materiál k pochopení."
+  ],
+  "correct": 3,
+  "explanation": "U masochistické organizace se pravidelně objevuje protipřenosová dvojice zachraňujícího a trestajícího objektu: čím naléhavější je nutkání pomoci, tím blíž je i podráždění nad odmítáním pomoci. Negativní terapeutická reakce po dobrém sezení je součástí téhož vzorce. Klinicky užitečné není žádné z hnutí uskutečnit, nýbrž je popsat jako scénu, kterou pacientka ve vztahu opakuje.",
+  "source": "Kernberg, Severe Personality Disorders (1984)",
+  "seedElo": 2050
+ },
+ {
+  "id": "pre-B12",
+  "type": "I",
+  "category": "prenos-technika",
+  "text": "Terapeut musí kvůli operaci zrušit šest týdnů sezení. Jeden z pacientů se ho na příčinu opakovaně ptá. Co je z hlediska vyváženého ošetření rámce nejvhodnější?",
+  "options": [
+   "Sdělit úplnou diagnózu i prognózu, aby pacient nemusel spekulovat a mohl s realitou volně pracovat.",
+   "Oznámit s předstihem délku přerušení a věcný důvod v nejmenším nutném rozsahu a pak pracovat s reakcemi.",
+   "Neuvádět důvod vůbec a každý dotaz převádět zpět na fantazie, jež si pacient o nepřítomnosti vytváří.",
+   "Předat pacienta na dobu nepřítomnosti kolegovi a otázku po příčině přenechat k projednání jemu."
+  ],
+  "correct": 1,
+  "explanation": "Nepřítomnost z důvodu nemoci je reálnou událostí, kterou nelze převést výhradně na fantazii; pacient má právo na minimum věcné informace potřebné k orientaci, tedy na délku a rámcový důvod. Úplné odhalení zdravotního stavu ho zatěžuje péčí o terapeuta, úplné mlčení zase popírá zjevnou skutečnost. Hlavní prací pak je zpracovat, co přerušení v přenosu znamená — od úlevy po strach ze ztráty.",
+  "source": "Gabbard, Long-Term Psychodynamic Psychotherapy (2017)",
+  "seedElo": 2050
+ },
+ {
+  "id": "pre-A05",
+  "type": "I",
+  "category": "prenos-technika",
+  "text": "Betty Josephová pojmem „celková situace přenosu“ vymezuje jako materiál interpretace:",
+  "options": [
+   "vše, co se v sezení děje, včetně tlaku na analytika k určitému jednání",
+   "pacientova zjevná sdělení o analytikovi a jeho pocitech vůči němu",
+   "opakování dětských vztahů, které lze rekonstruovat z pacientovy historie",
+   "souhrn všech přenosů, které pacient v životě navazuje mimo ordinaci"
+  ],
+  "correct": 0,
+  "explanation": "Josephová rozšiřuje přenos z obsahu na celé pole: způsob mluvení, atmosféru, drobný tlak, který analytika nutí odpovídat určitým způsobem. Kritériem není, o kom pacient mluví, ale co se mezi nimi právě odehrává. Interpretovat lze pak i to, k čemu byl analytik zrovna sveden.",
+  "source": "Betty Joseph, Transference: The Total Situation, IJP 1985",
+  "seedElo": 2100
+ },
+ {
+  "id": "pre-A21",
+  "type": "I",
+  "category": "prenos-technika",
+  "text": "Technickou pastí u masochistického přenosu je podle Novickových to, že analytikova vlídnost:",
+  "options": [
+   "vede pacienta k rychlému zlepšení, které se ale neudrží v čase",
+   "může být prožita jako další ponížení a utrpení ještě prohloubit",
+   "obvykle vyvolá idealizaci, jež zablokuje agresivní stránku přenosu",
+   "sníží pacientovu úzkost natolik, že přestane přinášet asociace"
+  ],
+  "correct": 1,
+  "explanation": "U masochistické organizace je utrpení zdrojem tajné moci a omnipotentní vazby na objekt; nabídnutá dobrota konfrontuje pacienta s tím, co by musel opustit. Kritériem je reakce na úlevu: zhoršení po vstřícnosti je diagnostické. Pracuje se proto spíš s funkcí utrpení než s jeho odstraňováním.",
+  "source": "Jack a Kerry Kelly Novick, Fearful Symmetry, 1996",
+  "seedElo": 2100
+ },
+ {
+  "id": "pre-A26",
+  "type": "I",
+  "category": "prenos-technika",
+  "text": "Pacient plynule vypráví detailní příběhy ze zaměstnání. Z hlediska Grayovy analýzy obrany je nejnosnější nejdřív:",
+  "options": [
+   "obsah příběhu rovnou vyložit jako maskovaný přenos k terapeutovi",
+   "požádat pacienta o volné asociace ke všem postavám v tom příběhu",
+   "spojit příběh s obdobnou situací z pacientova dětství a rodiny",
+   "všimnout si samotné plynulosti vyprávění a pojmenovat její funkci"
+  ],
+  "correct": 3,
+  "explanation": "Hladké, souvislé vyprávění je formou obrany: drží materiál v narativu, kde nevznikají zlomy ani afekt. Gray by pracoval s tím, co je pozorovatelné v procesu — s hotovostí a vyhlazeností řeči — a nikoli s dodáním skrytého obsahu. Výklad obsahu podaný přes neporušenou obranu se zpravidla připojí k vyprávění jako další jeho kapitola.",
+  "source": "Paul Gray, The Ego and Analysis of Defense, 1994",
+  "seedElo": 2100
+ },
+ {
+  "id": "pre-B07",
+  "type": "V",
+  "category": "prenos-technika",
+  "text": "Muž (50) sleduje terapeutku pozorně, ptá se, kdo má přístup k jejím poznámkám, a všímá si drobných změn v místnosti. Terapeutka se přistihne, jak si předem promýšlí formulace a kontroluje, aby ji nešlo chytit za slovo. Co je z hlediska práce s paranoidním pacientem nejpřesnějším čtením této opatrnosti?",
+  "options": [
+   "Známka, že se terapeutka nechala vtáhnout do pacientovy patologie a měla by rámec uvolnit spontánností.",
+   "Signál pacientovy potřeby předvídatelnosti — přesnost je namístě, opatrnost však nesmí sklouznout k tajnůstkářství.",
+   "Důkaz, že pacient není vhodný pro dynamickou práci a měl by být převeden do podpůrného vedení.",
+   "Projev terapeutčina nezpracovaného strachu z autority, jenž s pacientovou organizací nesouvisí."
+  ],
+  "correct": 1,
+  "explanation": "Paranoidní pacient vyvolává v terapeutovi ostražitost a nutkání se pojistit; ta je částečně přiměřená, protože transparentnost a předvídatelnost jsou u této organizace léčebným faktorem. Riziko spočívá v tom, že se opatrnost promění v zastírání, které pacientovo podezření potvrdí. Vodítkem je proto klidná otevřenost o věcném rámci, nikoli jeho zrušení ani jeho utajení.",
+  "source": "McWilliams, Psychoanalytic Diagnosis (2011)",
+  "seedElo": 2100
+ },
+ {
+  "id": "pre-B09",
+  "type": "E",
+  "category": "prenos-technika",
+  "text": "Výzkum sebeodhalení terapeuta (Hill, Knox a další) rozlišuje odhalení faktů o životě terapeuta od odhalení bezprostředního prožitku ve vztahu. Co o jeho účinku z hlediska dostupných dat platí nejlépe?",
+  "options": [
+   "Je účinné tím víc, čím je obsáhlejší, protože rovnost ve sdílení posiluje pracovní alianci nejvíce.",
+   "Nemá prokazatelný účinek žádným směrem, a je proto věcí čistě osobního stylu jednotlivého terapeuta.",
+   "Bývá hodnoceno příznivě, je-li vzácné, krátké a vztažené k pacientovi, ne k potřebám terapeuta.",
+   "Je konzistentně škodlivé u všech diagnóz, protože vždy obrací pozornost od pacienta k terapeutovi."
+  ],
+  "correct": 2,
+  "explanation": "Data z kvalitativních i procesních studií naznačují, že pacienti hodnotí sebeodhalení příznivě, když je řídké, stručné, slouží jejich prožitku a nevyžaduje od nich péči o terapeuta. Nejspornější je odhalování osobních obsahů ze soukromí; naopak odhalení prožitku „tady a teď“ bývá blíž práci s přenosem. Frekvence a motiv rozhodují víc než samotný obsah.",
+  "source": "Hill & Knox, Psychotherapy Research (2001)",
+  "seedElo": 2100
+ },
+ {
+  "id": "pre-B10",
+  "type": "I",
+  "category": "prenos-technika",
+  "text": "Muž (29) s hraniční organizací opakovaně na konci sezení naznačí, že „to možná do příště nevydrží“, ale odmítá o plánu mluvit a hospitalizaci považuje za zradu. Co je z hlediska udržení léčitelného rámce nejvhodnějším postupem?",
+  "options": [
+   "Předem s ním dohodnout jasná pravidla pro krizi a rozsah odpovědnosti obou stran, ještě než krize propukne.",
+   "Nabídnout mu telefonickou dostupnost bez omezení, aby měl mezi sezeními jistotu a nemusel hrozit koncem.",
+   "Ponechat téma sebevraždy stranou jako projev odporu a soustředit se výhradně na jeho vztahové obtíže.",
+   "Ihned zahájit hospitalizaci, protože jakákoli zmínka o sebevraždě činí ambulantní práci neobhajitelnou."
+  ],
+  "correct": 0,
+  "explanation": "U chronické suicidality je nosným prvkem předem vyjednaný kontrakt: co terapeut zajišťuje, co zajišťuje pacient a za jakých podmínek se sahá k hospitalizaci. Bez toho se hrozba stane nástrojem přenosového vydírání a terapeut buď eskaluje ochranu, nebo ji vzdá. Neomezená dostupnost i mlčení k tématu jsou dvě podoby téhož selhání rámce; hospitalizace je pak intervencí, jejíž přenosový význam je nutné zpracovat.",
+  "source": "Yeomans, Clarkin & Kernberg, TFP: A Clinical Guide (2015)",
+  "seedElo": 2100
+ },
+ {
+  "id": "pre-A12",
+  "type": "I",
+  "category": "prenos-technika",
+  "text": "Analytik pociťuje netrpělivé podráždění a nutkání pacienta pokárat. Podle Rackerova pojetí protipřenosu je nejpravděpodobnějším významem, že:",
+  "options": [
+   "analytikova vlastní neuróza narušila jeho neutralitu a je třeba supervize",
+   "pacient nevědomě usiluje o konec terapie a testuje analytikovu trpělivost",
+   "analytik se identifikoval s tou částí pacienta, která se cítí kritizovaná",
+   "analytik byl vtažen do role pacientova vnitřního kritického objektu"
+  ],
+  "correct": 3,
+  "explanation": "Racker popisuje, jak pacient nevědomě aranžuje scénu tak, aby analytik obsadil roli jeho vnitřního objektu; tlak k odehrání je pak diagnostickým údajem o pacientově vnitřním světě. Kritériem je, zda analytikův prožitek odpovídá roli objektu (kritik) nebo roli self (kritizovaný). Past spočívá v tom, že se role skutečně odehraje místo pojmenování.",
+  "source": "Heinrich Racker, Transference and Countertransference, 1968",
+  "seedElo": 2150
+ },
+ {
+  "id": "pre-A14",
+  "type": "I",
+  "category": "prenos-technika",
+  "text": "Když analytik udělá zjevnou chybu, převažující současné doporučení (Renik, Gabbard) zní:",
+  "options": [
+   "chybu nekomentovat, aby se z ní nestal odvádějící obsah sezení",
+   "chybu uznat a otevřít, jak ji pacient prožil, bez zahlcení omluvami",
+   "chybu vysvětlit odkazem na okolnosti, aby se snížila pacientova úzkost",
+   "chybu interpretovat jako pacientovu projekci na analytikovo selhání"
+  ],
+  "correct": 1,
+  "explanation": "Uznání skutečnosti chrání pacientovo testování reality — popírání toho, co pacient správně vnímal, je opakováním rodinné mystifikace. Kritériem správné míry je, aby uznání otevřelo prostor pro pacientovy reakce, ne aby je omluvami zavřelo. Vysvětlování okolností přesouvá pozornost k analytikovi.",
+  "source": "Owen Renik, Playing One's Cards Face Up in Analysis, PQ 1999; Glen Gabbard, Long-Term Psychodynamic Psychotherapy, 2004",
+  "seedElo": 2150
+ },
+ {
+  "id": "pre-B15",
+  "type": "V",
+  "category": "prenos-technika",
+  "text": "Pacientka (27) po sezení, v němž se poprvé rozplakala, přestane chodit a na dvě zprávy neodpoví. Terapeut cítí směs viny a úlevy. Co je z hlediska profesní odpovědnosti i respektu k jejímu rozhodnutí nejvhodnější?",
+  "options": [
+   "Jednou písemně nabídnout prostor k rozloučení a informaci o dostupnosti a dál kontakt neiniciovat.",
+   "Opakovaně ji kontaktovat, dokud se neozve, protože přerušení po prolomení obrany je klinicky rizikové.",
+   "Nekontaktovat ji vůbec, jelikož mlčení je jednoznačným projevem vůle, který nelze nijak zpochybnit.",
+   "Obrátit se na osobu, kterou uvedla jako kontaktní, a požádat ji o zprostředkování dalšího setkání."
+  ],
+  "correct": 0,
+  "explanation": "Odchod bez rozloučení je nejčastěji útěkem před studem z obnažení, nikoli chladnou volbou; jedna zdrženlivá nabídka rozloučení a informace o možnosti návratu je proto přiměřená péče. Opakované naléhání ji však staví do role pronásledované a potvrzuje, že blízkost znamená ztrátu kontroly. Kontaktovat třetí osobu je bez souhlasu a bez akutního rizika porušením mlčenlivosti.",
+  "source": "Gabbard, Long-Term Psychodynamic Psychotherapy (2017)",
+  "seedElo": 2150
+ },
+ {
+  "id": "pre-B17",
+  "type": "I",
+  "category": "prenos-technika",
+  "text": "Pacient chce přejít na videohovory a připojuje se z auta cestou z práce, s kamerou nakloněnou a se zvukem provozu. Co je z hlediska udržení rámce v online práci nejvhodnějším krokem?",
+  "options": [
+   "Přijmout uspořádání jako součást pacientova života a pracovat pouze s obsahem, který v hodinách přináší.",
+   "Trvat na návratu k prezenční formě, protože online práce zásadní podmínky psychodynamické léčby nesplňuje.",
+   "Vyjednat podmínky připojení — soukromí, klid, stabilní místo — a obcházení brát jako materiál.",
+   "Sezení zkrátit na polovinu a snížit honorář, aby cena odpovídala nižší kvalitě takto vedeného setkání."
+  ],
+  "correct": 2,
+  "explanation": "Online formát nezruší potřebu rámce, jen ji přesouvá do podmínek, které dosud zajišťovala ordinace: soukromí, nerušenost a stálé místo. Ty je proto třeba výslovně dojednat jako součást kontraktu. Jejich opakované obcházení pak není technickou drobností, ale sdělením o vztahu — nejčastěji o potřebě uniknout intimitě setkání.",
+  "source": "Lemma, The Digital Age on the Couch (2017)",
+  "seedElo": 2150
+ },
+ {
+  "id": "pre-B19",
+  "type": "V",
+  "category": "prenos-technika",
+  "text": "Zkušený terapeut se přistihne, že v posledních měsících dává víc rad, dřív uzavírá témata a mlčení mu je nepříjemné. Klienti si nestěžují. Který výklad je z hlediska rozpoznání vyhoření v technice nejpřesnější?",
+  "options": [
+   "Jde o přirozené zrání stylu, v němž zkušenost umožňuje rychlejší a hospodárnější vedení hodiny.",
+   "Jde o posun k aktivitě, jenž šetří kapacitu snášet nejistotu — tedy o známku vyčerpání.",
+   "Jde o nespecifický jev bez klinického významu, dokud si někdo z klientů výslovně nestěžuje na vedení.",
+   "Jde o důsledek proměny klientely, která je v posledních letech obecně méně schopná snášet ticho v hodině."
+  ],
+  "correct": 1,
+  "explanation": "Vyhoření se v technice projeví dřív než v prožitku: roste direktivita, zkracuje se tolerance k nejistotě a mlčení, ubývá zvědavosti. Mechanismem je úspora emoční kapacity — rada je levnější než setrvání v nevědění. Absence stížností není vyvrácením, protože aktivnější vedení bývá klienty zpočátku hodnoceno příznivě.",
+  "source": "Maslach & Leiter; Norcross & VandenBos, Leaving It at the Office (2018)",
+  "seedElo": 2150
+ },
+ {
+  "id": "pre-A03",
+  "type": "I",
+  "category": "prenos-technika",
+  "text": "John Steiner doporučuje analytikem centrovanou interpretaci („vy si myslíte, že já…“) podle kritéria, že:",
+  "options": [
+   "pacient je schopen unést odkaz na své vlastní nevědomé přání a fantazii",
+   "je třeba urychlit vhled u pacienta se sklonem k intelektualizaci",
+   "pacient nesnese být předmětem interpretace a potřebuje být především vyslechnut",
+   "analytik se chce vyhnout přenosu a udržet práci u vnějších vztahů pacienta"
+  ],
+  "correct": 2,
+  "explanation": "Steiner rozlišuje interpretace centrované na pacienta (co pacient dělá, cítí, popírá) a na analytika (jak pacient vnímá analytika). Kritériem volby je pacientova únosnost: kdo potřebuje být především pochopen a obsažen, unese jen výklad své vlastní představy o analytikovi. Výklad centrovaný na pacienta se hodí až tam, kde je pacient schopen převzít vlastní materiál zpět.",
+  "source": "John Steiner, Psychic Retreats, 1993 (kap. o analyst-centred interpretations)",
+  "seedElo": 2200
+ },
+ {
+  "id": "pre-A07",
+  "type": "I",
+  "category": "prenos-technika",
+  "text": "Metoda „close process monitoring“ Paula Graye sleduje jako své hlavní vodítko:",
+  "options": [
+   "opakující se témata, která se vracejí napříč několika sezeními",
+   "protipřenosové pohnutky analytika jako vodítko k pacientovu nevědomí",
+   "místa, kde se v proudu asociací náhle mění směr, tón nebo téma",
+   "neverbální projevy pacienta na lehátku a jejich vztah k obsahu řeči"
+  ],
+  "correct": 2,
+  "explanation": "Gray učí sledovat mikrozlomy v asociačním proudu: náhlý přechod, zabrzdění, změnu osoby nebo času. Tyto zlomy jsou pozorovatelnou stopou obrany v akci a lze je pacientovi ukázat v jeho vlastním, právě proneseném materiálu. Cílem je rozšířit pacientovo pozorující Já, ne dodat obsah.",
+  "source": "Paul Gray, The Ego and Analysis of Defense, 1994",
+  "seedElo": 2200
+ },
+ {
+  "id": "pre-A13",
+  "type": "I",
+  "category": "prenos-technika",
+  "text": "Theodore Jacobs pojímá enactment technicky tak, že analytik má:",
+  "options": [
+   "zpětně prozkoumat vlastní podíl a použít jej jako data o poli mezi nimi",
+   "co nejdříve pacientovi přiznat chybu a omluvit se za porušení rámce",
+   "enactment nechat bez komentáře, dokud jej pacient sám nezmíní v asociacích",
+   "vrátit se k neutralitě a téma odehrání do interpretací raději nezanášet"
+  ],
+  "correct": 0,
+  "explanation": "Jacobs vychází z toho, že analytikovy drobné pohyby, tón a odchylky nesou nevědomou odpověď na pacienta. Kritériem užitečnosti není vyhnutí se odehrání (to je nevyhnutelné), ale schopnost je následně rozpoznat a analyzovat. Přiznání viny bez tohoto zkoumání zpravidla jen uzavře téma.",
+  "source": "Theodore Jacobs, The Use of the Self, 1991",
+  "seedElo": 2200
+ },
+ {
+  "id": "pre-B13",
+  "type": "V",
+  "category": "prenos-technika",
+  "text": "Terapeutka je ve čtvrtém měsíci těhotenství a změna je patrná. Pacientka (33), která má za sebou opakované potraty, o tom nic neříká a mluví o práci. Co je z hlediska práce s viditelnou realitou terapeutky nejvhodnější?",
+  "options": [
+   "Vyčkat, dokud téma neotevře pacientka sama, protože jinak by šlo o vnucení terapeutčiny osobní situace.",
+   "Skutečnost v přiměřené chvíli pojmenovat a otevřít prostor pro to, co v pacientce vyvolává.",
+   "Podat pacientce úplné informace o termínu porodu a plánech na návrat hned na začátku následujícího sezení.",
+   "Téma zmínit až v posledním měsíci před odchodem, aby léčba nebyla po celý zbytek roku touto věcí zastíněna."
+  ],
+  "correct": 1,
+  "explanation": "Viditelné těhotenství je nepřehlédnutelná realita, kterou pacient vnímá, i když o ní mlčí; ponechat ji nepojmenovanou znamená učinit z ní tabu a nechat pacientku samotnou s fantaziemi a závistí či vinou. Vhodné je téma otevřít včas, střídmě a s důrazem na pacientčin prožitek, nikoli na terapeutčiny plány. Praktické informace o přerušení se sdělují s dostatečným předstihem, ale nejsou jádrem práce.",
+  "source": "Etchegoyen, in Raphael-Leff (ed.), Pregnancy: The Inside Story (1993)",
+  "seedElo": 2200
+ },
+ {
+  "id": "pre-B14",
+  "type": "I",
+  "category": "prenos-technika",
+  "text": "Terapeut si při sezení uvědomí, že minule zaměnil dvě pacientovy vzpomínky a postavil na tom celou interpretaci, kterou pacient tehdy přijal. Co je z hlediska reparace chyby nejvhodnější?",
+  "options": [
+   "Chybu nechat být, jelikož pacient interpretaci přijal a její zpětné rušení by podkopalo jeho důvěru v proces.",
+   "Chybu obšírně vysvětlit včetně toho, co ji u terapeuta zavinilo, aby pacient viděl jeho poctivost.",
+   "Omyl přiznat věcně a bez omluvných výlevů a pak se ptát, co pro pacienta znamená terapeutův omyl.",
+   "Chybu použít jako důkaz, že pacient přijímá cokoli, a interpretovat to jako jeho poddajnost vůči autoritě."
+  ],
+  "correct": 2,
+  "explanation": "Chybu je třeba uznat, protože její popření pacienta učí nedůvěřovat vlastnímu vnímání; zároveň nadměrná omluva obrací roli a nutí pacienta terapeuta konejšit. Nosnou částí je otázka po významu: pro jednoho je omyl úlevou z ideálu, pro jiného zhroucením ochrany. Až po tomto zpracování má smysl pacientovu tehdejší poddajnost vůbec zmiňovat.",
+  "source": "Safran & Muran, Negotiating the Therapeutic Alliance (2000)",
+  "seedElo": 2200
+ },
+ {
+  "id": "pre-B16",
+  "type": "E",
+  "category": "prenos-technika",
+  "text": "Pacient dva roky po řádném ukončení navrhne terapeutce přátelský vztah. Které stanovisko nejlépe vystihuje etickou logiku postterminačního kontaktu v psychodynamickém rámci?",
+  "options": [
+   "Po uplynutí dvou let jsou závazky ze vztahu vyčerpány a další podoba kontaktu je běžnou soukromou věcí.",
+   "Kontakt je přijatelný, pokud se na něm obě strany shodnou a pokud se dojednané podmínky zapíší písemně.",
+   "Kontakt je nepřípustný jen tehdy, jde-li o vztah sexuální; nesexuální přátelství žádné omezení nepodléhá.",
+   "Přenos ukončením nemizí, a proto je postterminační kontakt riskantní: uzavírá cestu zpět."
+  ],
+  "correct": 3,
+  "explanation": "Asymetrie a přenosový náboj vztahu ukončením nekončí; přátelství s bývalým terapeutem proto pacientovi zpravidla znemožňuje se k němu vrátit jako k terapeutovi a může zpětně přepsat význam celé léčby. Časové hranice v etických kodexech (mnohde absolutní zákaz sexuálního vztahu) jsou minimem, nikoli měřítkem klinické moudrosti. Návrh je sám o sobě materiálem, který stojí za pochopení, ne jen za odmítnutí.",
+  "source": "Gabbard & Lester, Boundaries and Boundary Violations (1995)",
+  "seedElo": 2200
+ },
+ {
+  "id": "pre-B20",
+  "type": "E",
+  "category": "prenos-technika",
+  "text": "Supervizor si všimne, že supervidovaná se s jedním pacientem opakovaně dostává do bezmoci a téma zjevně souvisí s jejím vlastním rodinným materiálem. Kde vede z hlediska rozdílu mezi supervizí a terapií terapeuta správná hranice?",
+  "options": [
+   "Supervizor by měl osobní materiál rozpracovat přímo v supervizi, protože jinak zůstane pacient bez pomoci.",
+   "Supervizor by měl téma zcela pominout, jelikož osobní obsahy do supervizního vztahu vůbec nepatří.",
+   "Supervizor by měl supervizi ukončit a doporučit, aby se dvojice k práci vrátila až po skončení její terapie.",
+   "Supervizor by měl osobní podíl pojmenovat jen v rozsahu nutném pro práci a zbytek ponechat terapii."
+  ],
+  "correct": 3,
+  "explanation": "Supervize je odpovědná za pacienta a za práci s ním, nikoli za osobní proměnu supervidovaného; zároveň nemůže osobní podíl ignorovat, když blokuje léčbu. Hranicí je proto rozsah: pojmenovat, jak se materiál projevuje v práci, a jeho zdroj přenechat vlastní terapii. Překročení této hranice mění supervizi v dvojí vztah, v němž je hodnocený zároveň léčeným.",
+  "source": "Sarnat, Supervision Essentials for Psychodynamic Psychotherapies (2016)",
+  "seedElo": 2200
+ },
+ {
+  "id": "pre-B23",
+  "type": "V",
+  "category": "prenos-technika",
+  "text": "V šestitisícovém městě terapeut zjistí, že nový klient je otcem spolužáka jeho syna a že se budou potkávat na školních akcích. Co je z hlediska zvládnutí nevyhnutelného mimoterapeutického kontaktu nejvhodnější?",
+  "options": [
+   "Zakázku odmítnout, protože jakýkoli mimoterapeutický kontakt činí psychodynamickou práci neproveditelnou.",
+   "Zakázku přijmout a případná setkání ignorovat, aby se do léčby nevnášely zbytečné organizační ohledy.",
+   "Předem dojednat, jak se při setkání zachovají a co je sdělitelné, a vracet se k tomu podle potřeby.",
+   "Zakázku přijmout pod podmínkou, že se klient po dobu léčby školním akcím a setkáním cíleně vyhne."
+  ],
+  "correct": 2,
+  "explanation": "V malých komunitách je náhodný kontakt nevyhnutelný a jeho popření je fikcí, kterou pacient prohlédne. Standardem je předem vyjednaný postup — kdo koho zdraví, co se nezmiňuje, jak se o setkání mluví v hodině — a průběžná práce s tím, co setkání vyvolala. Odmítnutí zakázky má smysl až tam, kde je překryv rolí tak těsný, že by ohrozil důvěrnost či nestrannost.",
+  "source": "Gabbard & Lester, Boundaries and Boundary Violations (1995)",
+  "seedElo": 2200
+ },
+ {
+  "id": "pre-A04",
+  "type": "I",
+  "category": "prenos-technika",
+  "text": "Steiner varuje, že interpretace centrovaná na pacienta („vy cítíte závist“) může u pacienta v paranoidně-schizoidní pozici působit jako:",
+  "options": [
+   "nabídka nadměrné podpory, která pacienta zbaví motivace pracovat",
+   "vpád do jeho myšlení, který posílí přesvědčení o vlastní zdravosti",
+   "překlad, jemuž nerozumí, a proto jej mlčky ignoruje a téma opustí",
+   "obvinění a vnucení analytikova obsahu, před nímž se musí bránit"
+  ],
+  "correct": 3,
+  "explanation": "V paranoidně-schizoidním rozpoložení nemá pacient prostor přijmout projekci zpět; výklad jeho vlastního afektu je prožit jako útok a vrácení nesnesitelného obsahu. Steiner proto doporučuje nejdřív ukázat, jak pacient vidí analytika, a teprve po zklidnění posunout těžiště k pacientovi.",
+  "source": "John Steiner, Psychic Retreats, 1993",
+  "seedElo": 2250
+ },
+ {
+  "id": "pre-A08",
+  "type": "I",
+  "category": "prenos-technika",
+  "text": "Fred Busch klade jako podmínku, která má interpretaci obsahu předcházet:",
+  "options": [
+   "vytvoření dostatečně silné pozitivní vazby na osobu analytika",
+   "pacientovo verbální potvrzení, že rozumí základnímu konceptu nevědomí",
+   "objasnění vnějších okolností a životních událostí, které konflikt spustily",
+   "pacientova zkušenost s tím, jak jeho vlastní obrana v mysli funguje"
+  ],
+  "correct": 3,
+  "explanation": "Busch namítá, že hluboké výklady obsahu předbíhají pacientovu schopnost s vlastní myslí pracovat. Kritériem připravenosti je, zda pacient dokáže svou obranu pozorovat jako svou činnost. Bez toho zůstává interpretace informací zvenčí, kterou pacient buď poslušně přijme, nebo odmítne.",
+  "source": "Fred Busch, Rethinking Clinical Technique, 1999",
+  "seedElo": 2250
+ },
+ {
+  "id": "pre-A19",
+  "type": "K",
+  "category": "prenos-technika",
+  "text": "Blumovo rozlišení erotizovaného přenosu od erotického spočívá podle jeho kritéria hlavně v tom, že erotizovaný přenos:",
+  "options": [
+   "se objevuje pouze u pacientek v analýze s mužským analytikem",
+   "je běžnou fází analýzy, kterou stačí trpělivě vyložit a přečkat",
+   "je egosyntonní, vytrvale naléhavý a ztrácí charakter „jakoby“",
+   "vzniká jako reakce na analytikovu skrytou svůdnost v jeho technice"
+  ],
+  "correct": 2,
+  "explanation": "Erotický přenos si zachovává „jakoby“ kvalitu a je prožíván s ostychem i zvědavostí; erotizovaný je egosyntonní, houževnatý a požaduje reálné naplnění. Blum jej spojuje se závažnější patologií, ranou traumatizací a rizikem odehrání. Technicky vyžaduje důraz na rámec a analýzu agresivní a defenzivní funkce žádosti, ne pouhé vyčkávání.",
+  "source": "Harold Blum, The Concept of Erotized Transference, JAPA 1973",
+  "seedElo": 2250
+ },
+ {
+  "id": "pre-B18",
+  "type": "V",
+  "category": "prenos-technika",
+  "text": "Terapeutka si po půl roce videohovorů všimne, že u jedné pacientky sleduje častěji svůj vlastní obraz na obrazovce a hůř rozpozná, co v sezení cítí. Jak tomuto jevu z hlediska protipřenosové práce v online formátu nejlépe rozumět?",
+  "options": [
+   "Jako úskalí média, které tříští pozornost a oslabuje tělesnou stopu, z níž se protipřenos čte.",
+   "Jako spolehlivé známce nastupujícího vyhoření, jež si žádá okamžité snížení počtu pacientů v týdnu.",
+   "Jako projevu pacientčiny projektivní identifikace, který nemá s technickými podmínkami žádnou souvislost.",
+   "Jako bezvýznamnému zvyku, protože pohled na vlastní obraz je běžný a klinicky nic nevypovídá."
+  ],
+  "correct": 0,
+  "explanation": "Obrazovka mění podmínky, za nichž protipřenos vzniká i je rozpoznáván: chybí sdílený prostor a periferní tělesné signály, přibývá sebepozorování skrze vlastní náhled. Terapeut proto snadněji ztrácí přístup ke svým tělesným vodítkům a snadněji se přesouvá do sebekontroly. Praktickým opatřením je vlastní obraz skrýt a tělesnou pozornost obnovovat záměrně; teprve pak lze uvažovat o podílu pacientky.",
+  "source": "Lemma, The Digital Age on the Couch (2017)",
+  "seedElo": 2250
+ },
+ {
+  "id": "pre-B21",
+  "type": "V",
+  "category": "prenos-technika",
+  "text": "Pacient (34) v hodině řekne, že se terapeut minule „vůbec netrefil“ a že se cítil sám. Terapeut si uvědomí, že skutečně mluvil vedle. Jak s takovým empatickým selháním nakládá Kohutův model?",
+  "options": [
+   "Selhání je třeba předcházet co nejpřesnějším laděním; když nastane, jde o nezdařenou hodinu bez dalšího užitku.",
+   "Selhání se má co nejrychleji vyvážit zvýšenou vřelostí a mimořádnou vstřícností v následujících sezeních.",
+   "Selhání je znakem nedostatečné analytické kompetence a jeho opakování je důvodem k předání pacienta jinam.",
+   "Selhání je nevyhnutelné a jeho přiznání a pochopení pacientovy reakce je vlastním motorem budování struktury."
+  ],
+  "correct": 3,
+  "explanation": "Kohut považuje drobná, nezáměrná selhání empatie za nevyhnutelnou součást práce; léčebný účinek nemá jejich absence, nýbrž jejich zpracování. Pacient je uznán ve své zkušenosti opuštění a v malých dávkách zvládnutelné frustrace se buduje vnitřní struktura (transmutující internalizace). Kompenzační vřelost i sebeobviňování naopak proces obcházejí, protože pacientův prožitek nechají nezpracovaný.",
+  "source": "Kohut, The Restoration of the Self (1977)",
+  "seedElo": 2250
+ },
+ {
+  "id": "pre-A11",
+  "type": "F",
+  "category": "prenos-technika",
+  "text": "Randomizované studie Høglenda a spolupracovníků (First Experimental Study of Transference) ukázaly u přenosové interpretace, že:",
+  "options": [
+   "prospívá nejvíce pacientům s dobrými vztahy a zralou osobnostní organizací",
+   "její účinek se od podpůrné terapie v žádné podskupině pacientů nelišil",
+   "prospěla spíše pacientům s narušenými vztahy a nižší kvalitou objektních vztahů",
+   "její přínos rostl přímo úměrně s počtem interpretací podaných v sezení"
+  ],
+  "correct": 2,
+  "explanation": "Høglendův tým srovnával dynamickou terapii s přenosovými interpretacemi a bez nich. Interakce s kvalitou objektních vztahů šla proti klasickému očekávání: pacienti s horšími vztahy (a v některých analýzách též s poruchou osobnosti) z přenosové práce těžili víc. Dávkování bylo přitom nízké — jen několik interpretací za sezení.",
+  "source": "Per Høglend et al., Transference Interpretations in Dynamic Psychotherapy, Am J Psychiatry 2008",
+  "seedElo": 2300
+ },
+ {
+  "id": "pre-A16",
+  "type": "F",
+  "category": "prenos-technika",
+  "text": "Freud v Já a Ono (1923) vysvětlil negativní terapeutickou reakci především:",
+  "options": [
+   "nevědomým pocitem viny a potřebou trestu, kterou zlepšení ohrožuje",
+   "závistí vůči analytikovým schopnostem, jak ji později popsala Kleinová",
+   "selháním pracovního spojenectví a nedostatečnou přípravou pacienta",
+   "nadměrnou hloubkou interpretací, které pacientovo Já nedokáže unést"
+  ],
+  "correct": 0,
+  "explanation": "Freud přisoudil zhoršení po správné interpretaci nevědomé vině a morálnímu masochismu: uzdravení by znamenalo ztrátu trestu. Pozdější autoři nabídli jiné výklady — Kleinová závist vůči dobrému objektu, Rosenfeld destruktivní narcismus, Kernberg tíhu agrese; Freudův původní důraz byl ale na potřebě trestu.",
+  "source": "Sigmund Freud, Das Ich und das Es, 1923",
+  "seedElo": 2300
+ },
+ {
+  "id": "pre-A17",
+  "type": "K",
+  "category": "prenos-technika",
+  "text": "Podle José Blegera je analytický rámec (setting) kromě souboru pravidel také:",
+  "options": [
+   "souborem dohod, jejichž porušení je nutné vždy okamžitě interpretovat",
+   "němým vkladem nejranější symbiózy, který se ozve, až když se naruší",
+   "technickým nástrojem chránícím výhradně analytika před vtažením",
+   "výchovným prostředkem, jímž pacient přejímá analytikovy hodnoty"
+  ],
+  "correct": 1,
+  "explanation": "Bleger rozlišuje proces a rámec: do rámce se ukládá nejpsychotičtější, nediferencovaná část osobnosti, která je tam mlčky uložena a nepracuje se s ní. Proto se stává viditelnou teprve při narušení — změně času, místa nebo dovolené. Rámec tak není jen podmínkou analýzy, ale i jejím objektem.",
+  "source": "José Bleger, Psycho-Analysis of the Psycho-Analytic Frame, IJP 1967",
+  "seedElo": 2300
+ },
+ {
+  "id": "pre-B24",
+  "type": "V",
+  "category": "prenos-technika",
+  "text": "Kolegyně z téhož ambulantního pracoviště, s níž se terapeut potkává na poradách a supervizních skupinách, ho požádá o individuální terapii s odůvodněním, že mu jako jedinému důvěřuje. Co je z hlediska profesní etiky nejpřiléhavější?",
+  "options": [
+   "Nabídku odmítnout a pomoci jí najít terapeuta mimo pracoviště, kde souběh rolí nehrozí.",
+   "Nabídku přijmout, pokud se oba zavážou, že o terapii na pracovišti nikdy nepadne ani zmínka.",
+   "Nabídku přijmout a informovat vedoucího pracoviště, aby byl souběh rolí transparentní a podchycený.",
+   "Nabídku přijmout na zkušební období tří měsíců a poté společně vyhodnotit, zda souběh rolí vadí."
+  ],
+  "correct": 0,
+  "explanation": "Souběh terapeutického vztahu s pracovní a supervizní rolí vytváří dvojí vztah, jehož důsledky nelze dohodou odstranit: terapeut se dozvídá informace, které ovlivní jeho úsudek v pracovních věcech, a pacientka nemůže volně mluvit o kolezích, kteří jsou zároveň jeho kolegy. Slib mlčení tuto strukturu nemění, informování nadřízeného ji jen zveřejní. Namístě je předání mimo instituci.",
+  "source": "Gabbard & Lester, Boundaries and Boundary Violations (1995)",
+  "seedElo": 2300
+ },
+ {
+  "id": "pre-B26",
+  "type": "I",
+  "category": "prenos-technika",
+  "text": "Pacientka (58) v hlubokém truchlení po smrti manžela na konci sezení pláče a natáhne ruce k terapeutovi s prosbou o objetí. Co je z hlediska zacházení s dotykem v psychodynamickém rámci nejvhodnější?",
+  "options": [
+   "Objetí poskytnout, protože v akutním zármutku má reparativní dotyk přednost před abstraktními pravidly rámce.",
+   "Objetí odmítnout stručným poukazem na pravidla a hned přejít k organizačnímu ukončení hodiny.",
+   "Objetí neposkytnout, gesto laskavě pojmenovat a nechat prostor pro to, co potřeba dotyku znamená.",
+   "Objetí odložit na příští hodinu a mezitím s pacientkou písemně dojednat podmínky fyzického kontaktu."
+  ],
+  "correct": 2,
+  "explanation": "Dotyk mezi terapeutem a pacientem není absolutním tabu, ale jeho poskytnutí v přenosově nabité chvíli zpravidla uzavře to, co má být pochopeno — touhu po objektu, který se nevrátí. Nejnosnější je vlídné neuskutečnění spojené s uznáním potřeby a s otevřením jejího významu. Chladné odmítnutí bez pojmenování naopak pacientku zanechá se studem, který zůstane mimo práci.",
+  "source": "Gabbard & Lester, Boundaries and Boundary Violations (1995)",
+  "seedElo": 2300
+ },
+ {
+  "id": "pre-B27",
+  "type": "V",
+  "category": "prenos-technika",
+  "text": "Terapeutka po sezení, v němž pacient mluvil nejasně o svém podnikání, zadá jeho jméno do vyhledávače a projde jeho veřejný profil. Nikomu to neřekne. Co je z hlediska profesní etiky na tomto kroku problematické především?",
+  "options": [
+   "Získání informací mimo vztah bez pacientova vědomí, jež vytváří asymetrii a tiché vědění na jeho účet.",
+   "Skutečnost, že se jedná o zpracování osobních údajů, které je bez písemného souhlasu vždy protiprávní.",
+   "Nespolehlivost internetových zdrojů, kvůli níž si terapeutka může utvořit zkreslený obraz o pacientovi.",
+   "Ztráta času věnovaného pacientovi mimo hodinu, který není honorován a narušuje terapeutčiny hranice."
+  ],
+  "correct": 0,
+  "explanation": "Jádrem problému není nespolehlivost zdroje ani formální právní hledisko, nýbrž tajné vědění: terapeutka získává informace mimo dohodnutý prostor, aniž je pacient mohl sdělit sám, a musí je pak buď skrývat, nebo dodatečně přiznávat. To mění rovnováhu vztahu i to, co je v hodině myslitelné. Vyhledávání může být výjimečně namístě (například při akutním riziku), ale s explicitním důvodem a zpravidla s pacientovým vědomím.",
+  "source": "Lemma, The Digital Age on the Couch (2017)",
+  "seedElo": 2300
+ },
+ {
+  "id": "pre-A20",
+  "type": "I",
+  "category": "prenos-technika",
+  "text": "Za typický znak perverzního přenosu se v technické literatuře (Etchegoyen, Meltzer) pokládá:",
+  "options": [
+   "obracení významu interpretace tak, aby ztratila smysl a vzrušila",
+   "otevřeně vyslovované sexuální požadavky vůči analytikovi v úvodu",
+   "úplné vymizení asociací a přechod k dlouhým, obranně laděným mlčením",
+   "silná idealizace analytika střídaná náhlými depresivními stavy"
+  ],
+  "correct": 0,
+  "explanation": "Perverzní přenos není definován sexuálním obsahem, ale vztahem k pravdě: interpretace je přijata, převrácena a použita ke vzrušení nebo triumfu. Analytik se často cítí zmatený a nemůže najít pevný bod. Kritériem je systematická korupce významu, ne intenzita touhy.",
+  "source": "R. Horacio Etchegoyen, The Fundamentals of Psychoanalytic Technique, 1991",
+  "seedElo": 2350
+ },
+ {
+  "id": "pre-A23",
+  "type": "I",
+  "category": "prenos-technika",
+  "text": "Nachträglichkeit (opožděná účinnost) má v pojetí Laplanche a Pontalise ten technický důsledek, že:",
+  "options": [
+   "význam dřívější události se může ustavit až jejím pozdějším přepsáním",
+   "interpretace působí až po delší době, proto se má často opakovat",
+   "rekonstrukce raného traumatu je nejspolehlivější cestou k proměně symptomu",
+   "pacient si na dřívější sezení vzpomene teprve v závěru analýzy"
+  ],
+  "correct": 0,
+  "explanation": "Nejde o prosté opoždění účinku, ale o zpětné dodání významu: zážitek se stává traumatickým až v pozdějším kontextu, který jej přepíše. Technicky to znamená, že analýza nehledá jediný původní obraz, nýbrž sleduje řetěz přepisů — a že i sama interpretace zpětně mění minulý materiál.",
+  "source": "Jean Laplanche a J.-B. Pontalis, Vocabulaire de la psychanalyse, 1967",
+  "seedElo": 2350
+ },
+ {
+  "id": "pre-B25",
+  "type": "E",
+  "category": "prenos-technika",
+  "text": "Gabbard popisuje typický sled kroků, jímž se z drobných odchylek vyvine závažné porušení hranic. Co je na tomto „kluzkém svahu“ z hlediska prevence rozhodujícím zlomem?",
+  "options": [
+   "Okamžik, kdy terapeut poprvé překročí obvyklou délku sezení a nezaznamená to do své dokumentace.",
+   "Okamžik, kdy vztah přestane být předmětem sdílení a terapeut si o něm přestane mluvit v supervizi.",
+   "Okamžik, kdy pacient poprvé sám navrhne setkání mimo ordinaci, čímž se iniciativa přenese na jeho stranu.",
+   "Okamžik, kdy terapeut zjistí, že mu je pacient sympatický víc než ostatní lidé v jeho pracovním týdnu."
+  ],
+  "correct": 1,
+  "explanation": "Klíčovým prediktorem není konkrétní odchylka — ta bývá zpočátku nevinná (delší hodina, osobní sdělení, káva) —, nýbrž utajení: v okamžiku, kdy terapeut o vztahu přestane mluvit se supervizorem či kolegy, ztrácí korektivní zpětnou vazbu a svah se stává neřízeným. Sympatie ani pacientova iniciativa samy o sobě rizikem nejsou. Prevence proto stojí na trvalé viditelnosti vlastní práce.",
+  "source": "Gabbard, Am J Psychiatry (1994); Gabbard & Lester (1995)",
+  "seedElo": 2350
  }
 ]

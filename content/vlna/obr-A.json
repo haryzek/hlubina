@@ -1,0 +1,450 @@
+[
+  {
+    "id": "obr-A01",
+    "type": "K",
+    "category": "obrany",
+    "text": "Matka, která se sama musela vzdát studia, s vášní organizuje dceřinu kariéru a každý dceřin polevující výkon prožívá jako osobní křivdu. Anna Freudová by zde uvažovala o:",
+    "options": [
+      "obratu agrese proti sobě, který se projeví soustavným sebeobviňováním z vlastního selhání",
+      "reaktivním výtvoru, v němž se zakázané přání nahradí nápadně přehnaným opačným postojem",
+      "altruistickém odevzdání, kdy se vlastní přání žije v druhém a jeho úspěch je uspokojuje",
+      "přemístění, při němž se citový náboj přenese z původního objektu na objekt méně ohrožující"
+    ],
+    "correct": 2,
+    "explanation": "Altruistické odevzdání spojuje projekci s přemístěním pudového cíle: subjekt se svého přání nevzdá, jen je nechá žít v druhém a horlivě mu k němu dopomáhá. Anna Freudová upozorňuje, že za obětavostí se skrývá i agrese — ve prospěch druhého se člověk odváží prosazovat to, co si u sebe zakázal. Odtud i zuřivost, když zástupce selže.",
+    "source": "Anna Freudová, Já a obranné mechanismy (1936), kap. 10",
+    "seedElo": 2000
+  },
+  {
+    "id": "obr-A02",
+    "type": "F",
+    "category": "obrany",
+    "text": "Podle Anny Freudové je při „identifikaci s agresorem“ rozhodující, že dítě:",
+    "options": [
+      "přebírá agresi samotnou, nikoli osobu agresora, a obrací ji ven proti dalšímu člověku",
+      "přebírá osobu agresora jako celkový vzor a napodobuje jeho zvyky, řeč i způsob oblékání",
+      "přebírá vinu agresora do sebe a vytváří z ní jádro budoucího trestajícího svědomí",
+      "přebírá roli oběti natrvalo a opakuje ji v dalších vztazích jako nutkání k trestu"
+    ],
+    "correct": 0,
+    "explanation": "Anna Freudová rozlišuje identifikaci s osobou a identifikaci s jejím útokem: dítě si osvojí agresivní akt a obratem jej předvede někomu třetímu. Tento krok je předstupněm svědomí — teprve když se kritika obrátí dovnitř a zůstane uvnitř, vzniká superego. Dokud míří ven, jde o obranu, ne o morální instanci.",
+    "source": "Anna Freudová, Já a obranné mechanismy (1936), kap. 9",
+    "seedElo": 2150
+  },
+  {
+    "id": "obr-A03",
+    "type": "F",
+    "category": "obrany",
+    "text": "Anna Freudová rozlišuje obranu proti pudu a obranu proti afektu. O jejich vztahu tvrdí, že:",
+    "options": [
+      "afekt se na rozdíl od pudu bránit nedá, protože je vědomý už ve chvíli svého vzniku",
+      "obrana proti afektu je vždy až druhotná a nastupuje teprve po selhání obrany proti pudu",
+      "afekty se brání jen u dětí, zatímco dospělé ego bojuje výhradně proti pudovým přáním",
+      "ego bojuje proti afektu z týchž motivů, z jakých odmítá pud, jehož je afekt doprovodem"
+    ],
+    "correct": 3,
+    "explanation": "Afekt — úzkost, hněv, touha, žárlivost — sdílí osud pudu, ke kterému patří: je-li nepřijatelné přání, je nepřijatelný i jeho citový doprovod. Ego proto proti afektu nasazuje týž rejstřík: potlačení, přeměnu v opak, přemístění. Anna Freudová tím rozšířila teorii obran z pudové ekonomiky na afektivní život a otevřela cestu pozdější práci s emocemi v terapii.",
+    "source": "Anna Freudová, Já a obranné mechanismy (1936), kap. 3",
+    "seedElo": 2200
+  },
+  {
+    "id": "obr-A04",
+    "type": "F",
+    "category": "obrany",
+    "text": "Adolescentní asketismus se podle Anny Freudové liší od neurotického potlačení tím, že:",
+    "options": [
+      "se týká jen sexuality, kdežto potlačení zasahuje i agresi a závislostní přání",
+      "míří proti pudovosti jako takové, nikoli proti obsahu jednoho konkrétního přání",
+      "je vždy vědomě zvolený a mladý člověk ho dokáže kdykoli rozhodnutím odvolat",
+      "vzniká teprve po první zamilovanosti a je reakcí na zklamání ze skutečného partnera"
+    ],
+    "correct": 1,
+    "explanation": "Asketický adolescent neodmítá jednu vytěsněnou touhu, ale nedůvěřuje žádosti vůbec — omezuje jídlo, spánek, pohodlí, oblečení i sex. Anna Freudová to čte jako kvantitativní obranu proti pudovému přívalu puberty, nikoli jako obsahově cílené potlačení. Odtud i typický náhlý zvrat do opačného extrému nevázanosti.",
+    "source": "Anna Freudová, Já a obranné mechanismy (1936), kap. 12",
+    "seedElo": 2200
+  },
+  {
+    "id": "obr-A05",
+    "type": "F",
+    "category": "obrany",
+    "text": "Anna Freudová vysvětluje nápadné filosofování dospívajících (intelektualizaci v adolescenci) tak, že:",
+    "options": [
+      "myšlení sleduje pudový vzestup a zpracovává jej abstraktně, místo aby řídilo jednání",
+      "myšlení chrání před realitou vnějšího světa, jehož nároky dospívající zatím nezvládá",
+      "myšlení nahrazuje chybějící rodičovské vzory a přejímá tím roli vnitřního soudce a rádce",
+      "myšlení slouží ke zvýšení výkonu rozumu, který v pubertě skokově roste spolu s tělem"
+    ],
+    "correct": 0,
+    "explanation": "Nejde o vyšší intelektuální výkon ani o únik před vnějším světem: vášnivé debaty o lásce, svobodě či Bohu jsou podle Anny Freudové myšlenkovým doprovodem právě probuzených pudových přání. Intelektualizace zde tedy není od pudu odtržena — je na něj těsně navázána, jen jej převádí do neosobní řeči pojmů. Proto také s odezněním pubertálního tlaku často zmizí.",
+    "source": "Anna Freudová, Já a obranné mechanismy (1936), kap. 13",
+    "seedElo": 1950
+  },
+  {
+    "id": "obr-A06",
+    "type": "F",
+    "category": "obrany",
+    "text": "Wilhelm Reich zavádí pojem „charakterový pancíř“ (Charakterpanzer). Rozumí jím:",
+    "options": [
+      "soubor příznaků, jimiž se neurotický konflikt projevuje v tělesných orgánech pacienta",
+      "vrstvu vědomých zásad, jimiž si člověk zdůvodňuje své jinak nepřijatelné jednání",
+      "chronické ztuhnutí ega do trvalé formy, jež plní obrannou funkci bez ohledu na obsah",
+      "obranné seskupení, které vzniká teprve v analýze jako reakce na osobu terapeuta"
+    ],
+    "correct": 2,
+    "explanation": "Pancíř je pro Reicha obrana, která se z jednotlivého aktu stala trvalým způsobem bytí — držením těla, tónem hlasu, zdvořilostí, ironií. Protože nemá jeden obsah, nelze ji zrušit obsahovou interpretací; nejprve se musí zviditelnit její forma. Odtud Reichova analýza charakteru jako práce s tím, jak pacient mluví, nikoli co říká.",
+    "source": "Wilhelm Reich, Charakteranalyse (1933)",
+    "seedElo": 2000
+  },
+  {
+    "id": "obr-A07",
+    "type": "F",
+    "category": "obrany",
+    "text": "Reichova technická zásada v analýze charakteru zní, že analytik má nejprve:",
+    "options": [
+      "vyložit obsah posledního snu, protože ten ukazuje aktuální stav vytěsnění",
+      "zpracovat charakterový odpor a skrytý negativní přenos dřív než pudové obsahy",
+      "posílit pozitivní přenos, aby pacient snesl pozdější interpretace vlastních přání",
+      "rekonstruovat dětskou traumatickou scénu a teprve z ní odvodit povahu odporu"
+    ],
+    "correct": 1,
+    "explanation": "Reich tvrdil, že interpretace obsahu podaná skrz nedotčený pancíř je přijata bez afektu a analýzu spíš ztvrdí. Proto se má systematicky a opakovaně poukazovat na formu odporu, dokud se za zdvořilostí neobjeví latentní negativní přenos. Teprve uvolněný afekt dává obsahové interpretaci účinek.",
+    "source": "Wilhelm Reich, Charakteranalyse (1933), část I",
+    "seedElo": 2150
+  },
+  {
+    "id": "obr-A08",
+    "type": "F",
+    "category": "obrany",
+    "text": "Ve Vaillantově hierarchii patří do skupiny nezralých (immature) obran typicky:",
+    "options": [
+      "potlačení, anticipace, altruismus a humor, tedy obrany typické pro zdravé dospělé",
+      "bludná projekce, popření vnější reality a psychotické zkreslení vnímání skutečnosti",
+      "vytěsnění, přemístění, izolace afektu a reaktivní výtvor, tedy neurotické mechanismy",
+      "projekce, pasivní agrese, hypochondrie, schizoidní fantazie a acting out jednáním"
+    ],
+    "correct": 3,
+    "explanation": "Vaillant staví nezralé obrany mezi psychotické a neurotické: jsou běžné u adolescentů a u poruch osobnosti, jsou pro okolí nakažlivé a mění spíš druhé než sebe. Neurotické obrany mění vlastní prožitek, zralé (potlačení, anticipace, altruismus, humor, sublimace) uspokojují přání a zároveň berou ohled na realitu i na druhé lidi.",
+    "source": "George E. Vaillant, Ego Mechanisms of Defense (1992)",
+    "seedElo": 2000
+  },
+  {
+    "id": "obr-A09",
+    "type": "F",
+    "category": "obrany",
+    "text": "Vaillantova longitudinální data o vývoji obran ukazují, že:",
+    "options": [
+      "poměr zralých a nezralých obran zůstává po adolescenci u téže osoby prakticky stálý",
+      "zralost obran koreluje s inteligencí, nikoli však s tělesným zdravím ani s prací",
+      "nezralé obrany mizí až po šedesátce, kdy jejich místo zaujmou obrany psychotické",
+      "podíl zralých obran s věkem stoupá a jejich zralost předpovídá pozdější přizpůsobení"
+    ],
+    "correct": 3,
+    "explanation": "Sledování týchž mužů po desetiletí ukázalo posun od nezralých obran v mládí ke zralým ve středním věku — obranný styl se tedy vyvíjí a není fixní. Zralost obran přitom předpovídala psychosociální i tělesné zdraví nezávisle na sociální vrstvě, vzdělání a příjmu. Obrana je proto pro Vaillanta vývojová proměnná, ne diagnostická nálepka.",
+    "source": "George E. Vaillant, Adaptation to Life (1977)",
+    "seedElo": 2150
+  },
+  {
+    "id": "obr-A10",
+    "type": "K",
+    "category": "obrany",
+    "text": "Chirurg při náročné operaci necítí soucit ani úzkost a plně se soustředí na výkon; večer doma je s rodinou vřelý a otevřený. Z hlediska teorie obran jde o:",
+    "options": [
+      "patologickou izolaci afektu, protože trvalé odštěpení citu poškozuje vztahovou kapacitu",
+      "adaptivní užití obrany, protože je vázaná na situaci a mimo ni je prožívání dostupné",
+      "manickou obranu, protože ovládání těla druhého člověka nese rysy triumfu a pohrdání",
+      "psychosomatickou de-afektualizaci, protože chybí symbolické zpracování prožívaného"
+    ],
+    "correct": 1,
+    "explanation": "Rozhodujícím kritériem zdravé obrany není její „úroveň“, ale flexibilita: zda je vázaná na kontext, časově omezená a zda po ní zůstává přístup k afektu. Táž izolace afektu je adaptivní na operačním sále a patologická v manželství. Obrany se proto neposuzují izolovaně, nýbrž podle nákladů, které si vybírají na fungování a na vztazích.",
+    "source": "George E. Vaillant, Ego Mechanisms of Defense (1992); Nancy McWilliams, Psychoanalytická diagnóza (1994)",
+    "seedElo": 1900
+  },
+  {
+    "id": "obr-A11",
+    "type": "F",
+    "category": "obrany",
+    "text": "Melanie Kleinová popisuje manickou obranu jako trojici postojů vůči objektu. Jsou to:",
+    "options": [
+      "kontrola, triumf a pohrdání — postoje, jimiž se popírá závislost na potřebném objektu",
+      "závist, žárlivost a chamtivost — postoje, jimiž se útočí na dobro uvnitř dobrého objektu",
+      "idealizace, popření a rozštěpení — postoje, jimiž se dobrý objekt chrání před útokem",
+      "vděčnost, reparace a truchlení — postoje, jimiž se poškozený objekt uvnitř obnovuje"
+    ],
+    "correct": 0,
+    "explanation": "Manická obrana čelí depresivní úzkosti — bolesti z poškození milovaného objektu a ze závislosti na něm. Kontrola popírá, že objekt je svobodný; triumf popírá, že na něm záleží; pohrdání popírá, že jeho ztráta bolí. Klein zdůrazňuje, že tím je zároveň znemožněna skutečná reparace, protože ta žádá přiznat objektu hodnotu a vlastní vinu.",
+    "source": "Melanie Kleinová, A Contribution to the Psychogenesis of Manic-Depressive States (1935)",
+    "seedElo": 2050
+  },
+  {
+    "id": "obr-A12",
+    "type": "F",
+    "category": "obrany",
+    "text": "Kernberg tvrdí, že interpretace primitivních obran u hraniční organizace osobnosti má oproti organizaci neurotické ten účinek, že:",
+    "options": [
+      "vede k trvalému zhoršení testování reality, které je nutné tlumit medikací",
+      "je neúčinná, dokud nevznikne stabilní pozitivní přenos a pracovní spojenectví",
+      "bezprostředně v sezení zlepšuje fungování ega a zpřesňuje testování reality",
+      "jen posiluje odpor, protože pacient interpretaci prožívá jako útok na identitu"
+    ],
+    "correct": 2,
+    "explanation": "U neurotické organizace interpretace obrany odkryje konflikt a přechodně zvýší úzkost. U hraniční organizace je tomu podle Kernberga naopak: interpretace štěpení a s ním spojených primitivních obran integruje protikladné ego-stavy a fungování se zlepší hned v sezení. Právě to slouží k odlišení hraniční struktury od psychotické, kde týž zásah testování reality zhoršuje.",
+    "source": "Otto F. Kernberg, Borderline Conditions and Pathological Narcissism (1975)",
+    "seedElo": 2200
+  },
+  {
+    "id": "obr-A13",
+    "type": "F",
+    "category": "obrany",
+    "text": "Rozdíl mezi „evakuační“ a „komunikační“ projektivní identifikací spočívá podle bionovské tradice v tom, že:",
+    "options": [
+      "evakuační se týká zlých částí self, komunikační výhradně částí dobrých a cenných",
+      "evakuační se zbavuje nesnesitelného obsahu, komunikační jej vkládá, aby byl pochopen",
+      "evakuační probíhá ve snu a fantazii, komunikační jen v reálném chování vůči druhému",
+      "evakuační je vlastní neuróze, komunikační se objevuje výhradně u psychotických pacientů"
+    ],
+    "correct": 1,
+    "explanation": "Bion popsal „normální“ projektivní identifikaci jako nejranější formu komunikace: kojenec vkládá nesnesitelný zážitek do matky, aby jej ona přijala, zpracovala a vrátila stravitelný. Nadměrná, patologická varianta usiluje jen o vyprázdnění a o kontrolu objektu, nikoli o porozumění. Rozdíl je tedy v míře a záměru, nikoli v obsahu projikovaného.",
+    "source": "Wilfred R. Bion, Learning from Experience (1962)",
+    "seedElo": 2100
+  },
+  {
+    "id": "obr-A14",
+    "type": "F",
+    "category": "obrany",
+    "text": "Bionovy „ataky na spojování“ (attacks on linking) označují obranný proces, při němž pacient:",
+    "options": [
+      "napadá vztah k terapeutovi, aby se vyhnul odloučení o víkendech a o svátcích",
+      "ničí vzpomínku na trauma tím, že ji rozdělí na nesouvislé smyslové útržky",
+      "odmítá spojení mezi svými rodiči, jehož představa v něm budí prudkou žárlivost",
+      "ničí samo spojování prvků zkušenosti, a znemožňuje tak vznik myšlení o zážitku"
+    ],
+    "correct": 3,
+    "explanation": "Bion míří pod obsah: útok nesměřuje na tu či onu myšlenku, nýbrž na funkci, která prvky spojuje ve smysluplný celek — tedy na aparát myšlení. Motivem je nesnesitelnost bolesti, kterou by poznání přineslo, a závist vůči objektu schopnému spojovat. Výsledkem je svět bez souvislostí, kde místo významu vládne fragment.",
+    "source": "Wilfred R. Bion, Attacks on Linking (1959)",
+    "seedElo": 2300
+  },
+  {
+    "id": "obr-A15",
+    "type": "F",
+    "category": "obrany",
+    "text": "„Bizarní objekty“ vznikají podle Biona tak, že:",
+    "options": [
+      "se vnitřní objekt rozštěpí na zcela dobrý a zcela zlý, jež se pak nikdy nemohou potkat",
+      "se dobrý objekt idealizuje natolik, že jeho obraz ztratí veškerý styk se skutečností",
+      "se úlomky ega a vnímání vmetou do vnějších věcí, jež je obalí a napříště jimi vládnou",
+      "se traumatická vzpomínka odštěpí a v mysli pak žije jako druhá samostatná osobnost"
+    ],
+    "correct": 2,
+    "explanation": "V psychotické části osobnosti je aparát vnímání a myšlení násilně rozdroben a projikován ven. Každý úlomek se v objektu, kam dopadl, cítí uvězněn a nasákne jeho vlastnostmi — vznikne třeba gramofon, který pacienta pozoruje. Bizarní objekt tedy není beztvará halucinace, nýbrž přesný důsledek nadměrné projektivní identifikace.",
+    "source": "Wilfred R. Bion, Differentiation of the Psychotic from the Non-Psychotic Personalities (1957)",
+    "seedElo": 2300
+  },
+  {
+    "id": "obr-A16",
+    "type": "F",
+    "category": "obrany",
+    "text": "Bionovy „základní předpoklady“ ve skupinách (dependence, fight-flight, pairing) je nejlépe chápat jako:",
+    "options": [
+      "sdílené nevědomé obrany skupiny proti úzkosti z úkolu, jež nahrazují pracovní činnost",
+      "vývojová stadia, jimiž každá skupina postupně prochází v pevném a nevratném pořadí",
+      "role, které si členové skupiny vědomě rozdělí, aby si usnadnili plnění daného úkolu",
+      "typy vedení, jež si skupina volí podle osobnosti a stylu svého formálního vedoucího skupiny"
+    ],
+    "correct": 0,
+    "explanation": "Bion staví proti sobě pracovní skupinu, která sleduje úkol a snáší frustraci, a skupinu ovládanou základním předpokladem, kde se o úzkost stará sdílená fantazie místo práce. Skupina buď čeká na spasitelného vůdce (dependence), hledá nepřítele (fight-flight), nebo doufá ve spásu zrozenou z dvojice (pairing). Jde tedy o obranu na úrovni celku, ne o součet obran jednotlivců.",
+    "source": "Wilfred R. Bion, Experiences in Groups (1961)",
+    "seedElo": 1900
+  },
+  {
+    "id": "obr-A17",
+    "type": "K",
+    "category": "obrany",
+    "text": "Pacient po každém sezení, které mu pomohlo, přichází s prudkým zhoršením a s vnitřním hlasem, jenž mu vyčítá, že se ponížil a nechal se svést slabostí. Rosenfeld tento obraz vykládá tak, že:",
+    "options": [
+      "destruktivní část self vládne jako gang a trestá každé přilnutí k dobrému objektu jako zradu",
+      "destruktivita je celá projikována ven a pacient se cítí ohrožen vnějšími pronásledovateli",
+      "pacient postrádá vnitřní objekty, jeho svět je prázdný a zlepšení tak nemá k čemu přilnout",
+      "jde o běžný negativní přenos, jenž odezní, jakmile se upevní spojenectví s terapeutem"
+    ],
+    "correct": 0,
+    "explanation": "Rosenfeld rozlišil libidinózní a destruktivní narcismus; v druhém případě je závislost na dobrém objektu prožívána jako zrada gangu. Destruktivní část self vystupuje jako mocná a ochranitelská, každý pohyb k pomoci trestá — proto po zlepšení následuje negativní terapeutická reakce. Obranou tu není jednotlivý mechanismus, nýbrž celá organizovaná struktura.",
+    "source": "Herbert Rosenfeld, A Clinical Approach to the Psychoanalytic Theory of the Life and Death Instincts (1971)",
+    "seedElo": 2250
+  },
+  {
+    "id": "obr-A18",
+    "type": "K",
+    "category": "obrany",
+    "text": "Pacient dochází pátým rokem, je zdvořilý a spolehlivý, o všem umí mluvit, ale nic se nemění; není ani zoufalý, ani pronásledovaný. Steiner by řekl, že:",
+    "options": [
+      "regredoval do paranoidně-schizoidní pozice a je vydán pronásledující úzkosti bez úlevy",
+      "vstoupil do depresivní pozice a nese bolest ze škody způsobené milovanému objektu",
+      "setrvává v psychickém útočišti, jež ho drží mimo pronásledování i mimo bolest a vývoj",
+      "střídá obě pozice tak rychle, že žádnou z nich nedokáže dost dlouho udržet a využít"
+    ],
+    "correct": 2,
+    "explanation": "Útočiště je pro Steinera obranná organizace — vnitřní uspořádání objektů a částí self, často s rysy gangu, kláštera či firmy, kam se pacient stáhne. Nabízí úlevu jak od pronásledování paranoidně-schizoidní pozice, tak od viny pozice depresivní, ale za cenu zastaveného vývoje a stavu, kdy pacient „není ani šílený, ani smutný“.",
+    "source": "John Steiner, Psychic Retreats (1993)",
+    "seedElo": 2250
+  },
+  {
+    "id": "obr-A19",
+    "type": "K",
+    "category": "obrany",
+    "text": "Batole, které nikdy nezastaví — pořád mluví, hýbe se, napíná svaly a při náhlém tichu propuká v paniku z padání. Esther Bicková v tom vidí:",
+    "options": [
+      "hyperaktivitu jako vrozený temperament, jenž se obranné teorii vymyká a je konstituční",
+      "manickou obranu, v níž pohyb slouží triumfu a pohrdání vůči objektu, na němž dítě závisí",
+      "adhezivní identifikaci, při níž dítě napodobuje povrch matky a lepí se na její chování",
+      "druhou kůži, náhradní obal z pohybu a řeči nahrazující chybějící zadržující objekt"
+    ],
+    "correct": 3,
+    "explanation": "Bicková vychází z toho, že části osobnosti drží pohromadě až introjekce objektu, který dokáže pojmout — funkce prožívaná jako kůže. Selže-li, dítě si obal vyrobí samo: neustálým pohybem, napětím svalů, žvatláním, později předčasnou soběstačností. Tato pseudonezávislost působí odolně, ale při zátěži se hroutí do zážitků padání a rozsypání.",
+    "source": "Esther Bick, The Experience of the Skin in Early Object-Relations (1968)",
+    "seedElo": 2250
+  },
+  {
+    "id": "obr-A20",
+    "type": "F",
+    "category": "obrany",
+    "text": "Adhezivní identifikace, jak ji popsal Donald Meltzer, se od projektivní identifikace liší tím, že:",
+    "options": [
+      "vkládá části self do objektu, jenž je pak prožíván jako jimi zevnitř obsazený a ovládaný",
+      "přilne k povrchu objektu a napodobí jej, protože pro subjekt neexistuje vnitřní prostor",
+      "vytváří s objektem trvalý pár, v němž se oba střídají v roli nositele cizí projekce",
+      "spojuje subjekt s objektem skrze sdílenou vzpomínku na společně prožité rané trauma"
+    ],
+    "correct": 1,
+    "explanation": "Meltzer u autistických dětí popsal „dvourozměrnost“: svět bez hloubky, kde identita vzniká lepivým přilnutím k povrchu druhého a jeho mimikry. Na rozdíl od projektivní identifikace, jež předpokládá objekt s vnitřkem, kam lze něco vložit, tu vnitřní prostor chybí. Proto ztráta kontaktu znamená okamžitý rozpad pocitu já, nikoli zármutek z odloučení.",
+    "source": "Donald Meltzer a kol., Explorations in Autism (1975)",
+    "seedElo": 2300
+  },
+  {
+    "id": "obr-A21",
+    "type": "K",
+    "category": "obrany",
+    "text": "Týrané dítě trvá na tom, že je zlé a že si bití zaslouží, zatímco rodiče horlivě hájí. Fairbairnova „morální obrana“ to vysvětluje tak, že:",
+    "options": [
+      "dítě napodobuje agresora a přejímá jeho hodnocení, aby uniklo bezmoci vlastní role",
+      "dítě chrání rodiče ze strachu z odvety, kdyby jeho kritika pronikla ven na veřejnost",
+      "dítě raději nese zlo v sobě, aby objekt zůstal dobrý a svět tím i nadále snesitelný",
+      "dítě popírá násilí, protože vzpomínka na ně je vytěsněna spolu s celým tím obdobím"
+    ],
+    "correct": 2,
+    "explanation": "Fairbairn to shrnul obrazem: lépe být hříšníkem ve světě, jemuž vládne Bůh, než světcem ve světě, jemuž vládne ďábel. Vzít vinu na sebe je cena za udržení dobrého vnějšího objektu, na němž dítě zcela závisí. Vlastní špatnost je navíc nadějná — s hříchem se dá něco dělat, se zlým světem nikoli.",
+    "source": "W. R. D. Fairbairn, Psychoanalytic Studies of the Personality (1952)",
+    "seedElo": 2100
+  },
+  {
+    "id": "obr-A22",
+    "type": "K",
+    "category": "obrany",
+    "text": "Pacientka mluví plynně a psychologicky o svých pocitech, terapeut se přitom nudí a po sezení si nepamatuje, o čem byla řeč. Podle mentalizačního rámce jde nejspíš o:",
+    "options": [
+      "psychickou ekvivalenci, kdy je vnitřní prožitek brán jako doslovná vnější skutečnost",
+      "pretend mode, kdy se řeč o duševních stavech odpojí od reality a mentalizuje naprázdno",
+      "teleologický modus, kdy jsou záměry uznány jen tehdy, projeví-li se hmatatelným činem",
+      "alexithymii, kdy pacient nemá pro své tělesné pocity slova a nedokáže je pojmenovat"
+    ],
+    "correct": 1,
+    "explanation": "Pretend mode je jeden z prementalizačních modů: obsah mysli běží naprázdno, bez vazby na vnější realitu a na afekt. Pozná se podle plynulé psychologické řeči, po níž nic nenásleduje, případně podle hypermentalizace — dlouhých spekulací o motivech druhých. Obrannou funkcí je vyhnout se skutečnému, tělesně cítěnému prožitku; protipólem je psychická ekvivalence, kde se vnitřní bere doslova.",
+    "source": "Anthony Bateman a Peter Fonagy, Mentalization-Based Treatment for Borderline Personality Disorder (2004)",
+    "seedElo": 2000
+  },
+  {
+    "id": "obr-A23",
+    "type": "F",
+    "category": "obrany",
+    "text": "Teorie strukturální disociace osobnosti (Van der Hart, Nijenhuis, Steele) tvrdí, že:",
+    "options": [
+      "osobnost se dělí na část zdánlivě normální a část emoční, jež nese obranné reakce na trauma",
+      "disociace je jen krajní stupeň běžné pozornostní absorpce a vlastní strukturu nemá",
+      "disociativní příznaky vznikají teprve v dospělosti a s ranými vztahy nijak nesouvisejí",
+      "disociace je jen jiné jméno pro vytěsnění, popsané slovníkem traumatologické školy"
+    ],
+    "correct": 0,
+    "explanation": "Model navazuje na Janeta: trauma brání integraci a osobnost zůstává rozdělena. Zdánlivě normální část (ANP) obstarává každodenní život a traumatickému materiálu se vyhýbá, emoční část (EP) je fixována na obranné akce — boj, útěk, ztuhnutí, volání o pomoc. Primární, sekundární a terciární disociace se liší počtem a složitostí těchto částí.",
+    "source": "Onno van der Hart, Ellert Nijenhuis, Kathy Steele: The Haunted Self (2006)",
+    "seedElo": 2050
+  },
+  {
+    "id": "obr-A24",
+    "type": "F",
+    "category": "obrany",
+    "text": "Pierre Marty a pařížská psychosomatická škola označují pojmem „pensée opératoire“ (operativní myšlení) stav, kdy:",
+    "options": [
+      "pacient myslí v obrazech a jeho fantazie se hromadí bez možnosti být vyjádřena slovy",
+      "pacient nadměrně symbolizuje a každý tělesný příznak vykládá jako skrytou zprávu duše",
+      "pacient prožívá myšlení jako napadané zvenčí a své nápady připisuje cizím vlivům",
+      "pacient popisuje fakta a úkony bez fantazie a afektu, takže mysl přiléhá k věcem"
+    ],
+    "correct": 3,
+    "explanation": "Operativní myšlení je konkrétní, popisné, vázané na akci a zbavené snění; Marty je spojoval s „esenciální depresí“ — útlumem bez viny a bez sebevýčitek — a se sklonem k somatickému onemocnění. Chybí tu psychická práce, jež by vzruch zpracovala mentálně, a tělo pak nese, co mysl nezpracovala. Jde tedy o důsledek nedostatku mentalizace, ne o symbolický význam příznaku.",
+    "source": "Pierre Marty a Michel de M'Uzan, La pensée opératoire (1963)",
+    "seedElo": 2350
+  },
+  {
+    "id": "obr-A25",
+    "type": "F",
+    "category": "obrany",
+    "text": "Joyce McDougallová označuje jako „disaffected“ (odcitovělé) ty pacienty, kteří:",
+    "options": [
+      "prožívají city intenzivně, ale odmítají je sdílet, protože se bojí odmítnutí druhými",
+      "nahrazují cit vzpomínkou a v terapii donekonečna vyprávějí podrobnosti ze svého dětství",
+      "cit vytěsňují do nevědomí, odkud se vrací v podobě snů a chybných výkonů v řeči",
+      "afekt vypudí dřív, než dostane význam, takže cit není potlačen, nýbrž rovnou zrušen"
+    ],
+    "correct": 3,
+    "explanation": "McDougallová popisuje obranu, která nepracuje s reprezentací, ale ruší ji: emoční vzruch je z psychiky vyhoštěn dřív, než se stane pocitem, na který lze myslet. Vzniká alexithymický obraz — člověk „neví, co cítí“ — a vzruch se vybíjí tělem či jednáním, závislostí, promiskuitou, nemocí. Odtud její řeč o psychosomatickém řešení konfliktu vedle klasického neurotického.",
+    "source": "Joyce McDougall, Theatres of the Body (1989)",
+    "seedElo": 2350
+  },
+  {
+    "id": "obr-A26",
+    "type": "F",
+    "category": "obrany",
+    "text": "Nejpřesnější rozlišení mezi „acting out“ a „enactmentem“, jak jej zavedl Theodore Jacobs, zní:",
+    "options": [
+      "acting out je jednání pacienta místo vzpomínky, enactment je společný děj obou aktérů",
+      "acting out probíhá v sezení, enactment naopak výhradně mimo ně, v pacientově životě",
+      "acting out je vědomé porušení pravidel, enactment je nevědomý odpor pacienta v sezení",
+      "acting out se týká agrese, enactment sexuality; obojí jsou však jen varianty odporu"
+    ],
+    "correct": 0,
+    "explanation": "Freudovo agieren znamená opakovat v jednání to, co si pacient nemůže vybavit. Jacobs pojmem enactment upozornil, že do děje bývá vtažen i analytik: jeho protipřenosová reakce scénu spoluvytváří, takže nejde o pacientovo selhání, nýbrž o dvoustranný jev. Proto je enactment brán spíš za pracovní materiál než za komplikaci — jeho rozpoznání otvírá přístup k nezvyslovené části přenosu.",
+    "source": "Theodore J. Jacobs, On Countertransference Enactments (1986)",
+    "seedElo": 2150
+  },
+  {
+    "id": "obr-A27",
+    "type": "F",
+    "category": "obrany",
+    "text": "Nejčastější teoretická námitka proti řazení sublimace mezi obranné mechanismy zní, že:",
+    "options": [
+      "sublimace se objevuje pouze u umělecky nadaných lidí, a není proto obecným pojmem",
+      "sublimace pud neodvrací, nýbrž mu dopřává uspokojení, takže postrádá obrannou funkci",
+      "sublimace nastupuje až v dospělosti, kdežto obrany se utvářejí výhradně v raném dětství",
+      "sublimace je vědomá volba činnosti, a nemůže tedy patřit mezi nevědomé mechanismy"
+    ],
+    "correct": 1,
+    "explanation": "Obrana má z definice bránit průchodu pudového přání do vědomí či do jednání; sublimace však přání propouští, jen mění jeho cíl a objekt na společensky ceněné. Hartmann to řešil pojmem neutralizace energie, Kleinová viděla v sublimaci spíš reparaci poškozeného objektu. Anna Freudová ji do svého výčtu zařadila s výhradou, že jde spíš o normální výkon ega než o obranu proti úzkosti.",
+    "source": "Anna Freudová (1936); Heinz Hartmann, Notes on the Theory of Sublimation (1955)",
+    "seedElo": 2250
+  },
+  {
+    "id": "obr-A28",
+    "type": "F",
+    "category": "obrany",
+    "text": "Ve stati Humor (1927) vysvětluje Freud humorný postoj tím, že:",
+    "options": [
+      "ego se vysměje superegu a načas se zbaví jeho tíživých nároků i výčitek",
+      "ono propašuje do vědomí zakázané přání skryté v úspoře psychické energie",
+      "superego promluví k egu laskavě a ukáže mu ohrožení jako pouhou malichernost",
+      "ego se ztotožní s posluchačem a jeho smíchem si potvrdí svou vlastní hodnotu"
+    ],
+    "correct": 2,
+    "explanation": "Oproti Vtipu z roku 1905 Freud posouvá důraz: v humoru se neušetří energie na vytěsnění, nýbrž na afektu, který se nekonal. Obvykle přísné superego se nakrátko chová k egu jako dospělý k vystrašenému dítěti a naznačí mu, že svět je jen hra. Vaillant proto řadí humor mezi zralé obrany — dovoluje pohlédnout na bolestné, aniž by se přestalo brát vážně.",
+    "source": "Sigmund Freud, Der Humor (1927)",
+    "seedElo": 1850
+  }
+]

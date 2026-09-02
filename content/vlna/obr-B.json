@@ -1,0 +1,450 @@
+[
+  {
+    "id": "obr-B01",
+    "type": "V",
+    "category": "obrany",
+    "text": "Klientka přichází deset dní po otcově pohřbu. Mluví rychle, rozjíždí tři nové projekty a opakuje, že smrt je jen přechod a otec by chtěl, aby letěla. Spánek, chuť k jídlu i pracovní výkon jsou beze změny. Když terapeut vysloví slovo rakev, na vteřinu jí ztuhne obličej — a hned se rozesměje. Co je nejpravděpodobnější z hlediska kritéria: triumf a pohrdání vůči ztrátě při zachovaném vegetativním rytmu, s krátkým průsakem afektu?",
+    "options": [
+      "manická obrana — triumf a pohrdání nad ztrátou, afekt prosakuje",
+      "hypomanická epizoda — elevace nálady se sníženou potřebou spánku",
+      "reaktivní výtvor — nepřátelství vůči otci obrácené v starostlivost",
+      "neurotické popření — fakt smrti dosud nedorazil do vědomí"
+    ],
+    "correct": 0,
+    "explanation": "Manická obrana stojí na triádě kontroly, triumfu a pohrdání vůči ztrátě; rozhodujícím markerem je tu vteřinové ztuhnutí — afekt je pod povrchem a průsak se okamžitě zakrývá smíchem. Hypomanie by přinesla vegetativní posun, především sníženou potřebu spánku, a nebyla by vázána jen na téma ztráty. Reaktivní výtvor je trvalý povahový postoj proti impulzu, ne vzepětí kolem konkrétní události; neurotické popření by neobstálo, protože fakt smrti je plně ve vědomí.",
+    "source": "Melanie Klein, Smutek a jeho vztah k manikodepresivním stavům",
+    "seedElo": 1900
+  },
+  {
+    "id": "obr-B02",
+    "type": "V",
+    "category": "obrany",
+    "text": "Terapeutka si po supervizi uvědomí, že s tímto klientem mluví ostřeji než s kýmkoli jiným. V posledním sezení se přistihla při ironické poznámce o jeho oblečení, což jindy nedělá. Klient nato řekl: vidíte, i vy si myslíte, že jsem směšný. Co je nejpravděpodobnější z hlediska kritéria: doložená změna terapeutova vlastního chování ve směru projikovaného obsahu?",
+    "options": [
+      "projekce — obsah je uložen do druhého, ten však zůstává beze změny",
+      "projektivní identifikace — terapeutka jedná pod nevědomým tlakem",
+      "externalizace — nezdar je připisován okolnostem mimo klienta",
+      "obrácení proti sobě — agrese je stočena zpět k vlastní osobě"
+    ],
+    "correct": 1,
+    "explanation": "Kritériem je zde interpersonální účinek: u prosté projekce by klient viděl posměch v terapeutce, která by se ale chovala jako obvykle. Tady se změnilo chování terapeutky — byla vtažena do role posmívajícího se objektu, což je jádro projektivní identifikace. Externalizace míří na neosobní okolnosti a obrácení proti sobě by se projevilo sebeobviňováním, ne tlakem na druhého.",
+    "source": "Thomas Ogden, Projective Identification and Psychotherapeutic Technique",
+    "seedElo": 2200
+  },
+  {
+    "id": "obr-B03",
+    "type": "V",
+    "category": "obrany",
+    "text": "Muž popisuje dopravní nehodu, při níž zemřela jeho spolujezdkyně: pamatuje si sled událostí, rychlost, barvu vozu i čas příjezdu záchranky. Na otázku po pocitech odpoví, že to bylo nepříjemné, a pokračuje v detailech. V jiných sezeních mluví o dceři s pláčem a s bohatým citovým slovníkem. Co je nejpravděpodobnější z hlediska kritéria: selektivita odpojení afektu při zachované schopnosti prožívat jinde?",
+    "options": [
+      "alexithymie — trvalý deficit v rozpoznávání a pojmenování emocí",
+      "disociace — část zážitku je nedostupná, chybí i obsah události",
+      "izolace afektu — obsah zůstává, citová složka je od něj odpojena",
+      "vytěsnění — celá vzpomínka byla odsunuta z vědomého pole"
+    ],
+    "correct": 2,
+    "explanation": "Rozlišujícím markerem je selektivita: afektivní slovník je u dcery plně k dispozici, chybí jen u jednoho tématu, což ukazuje na obranu, nikoli na deficit. Alexithymie je plošná a týkala by se i dcery. Disociace by narušila obsah nebo kontinuitu vzpomínky, ta je však detailní a souvislá; vytěsnění by znamenalo nedostupnost samotné události.",
+    "source": "Nancy McWilliams, Psychoanalytic Diagnosis",
+    "seedElo": 2050
+  },
+  {
+    "id": "obr-B04",
+    "type": "E",
+    "category": "obrany",
+    "text": "Supervidovaný formuluje: Klientka nemá přístup ke svým emocím, je alexithymická, budu ji tedy trénovat v pojmenovávání pocitů. Z materiálu ale vyplývá, že klientka doma pláče u filmů, o kamarádce mluví s něhou a ztuhne pouze tehdy, když přijde řeč na matku. Kde je z hlediska kritéria vztahu obrany a deficitu chyba ve formulaci?",
+    "options": [
+      "chyba je v tom, že deficit je diagnostikován z obranné selektivity",
+      "chyba je v tom, že plán edukace přichází dřív než diagnóza vazby",
+      "chyba je v tom, že alexithymii nelze určit bez dotazníku TAS-20",
+      "chyba je v tom, že klientčin pláč u filmů je sám o sobě obranný"
+    ],
+    "correct": 0,
+    "explanation": "Klíčové je, že citová kapacita je jinde plně přítomná a ztuhnutí je vázané na jedno téma — to je popis obrany, ne strukturálního deficitu. Trénink pojmenovávání by obranu jen obešel a nejspíš ji zpevnil, protože nepracuje s tím, čeho se afekt u matky týká. Pořadí edukace a diagnostiky ani chybějící dotazník nejsou tím, co formulaci nejvíc kazí; pláč u filmů je naopak důkaz proti alexithymii, ne obrana.",
+    "source": "Peter Fonagy a Anthony Bateman, Mentalization-Based Treatment",
+    "seedElo": 2250
+  },
+  {
+    "id": "obr-B05",
+    "type": "V",
+    "category": "obrany",
+    "text": "Klient ve třetím roce terapie plynně mluví o své dezorganizované vazbě, o matčině mentalizačním selhání a o tom, jak se mu to promítá do vztahů. Terapeutka má pocit, že sedí na přednášce; sezení běží hladce, klient odchází spokojený, ale ve vnějším životě ani v přenosu se roky nic nemění. Co je nejpravděpodobnější z hlediska kritéria: formálně správný mentalizační jazyk odpojený od prožitkové reality, bez napětí?",
+    "options": [
+      "intelektualizace — afekt je vázán abstrakcí, ale napětí zůstává znát",
+      "racionalizace — nepřijatelný motiv dostává přijatelné odůvodnění",
+      "pretend mode — mentalizační řeč běží bez opory v prožívání",
+      "obsedantní přemítání — myšlenka se opakuje bez úlevy a bez konce"
+    ],
+    "correct": 2,
+    "explanation": "Rozlišuje absence napětí a hladkost: u intelektualizace je cítit, že abstrakce něco drží, a terapeut vnímá tlak pod ní. Zde je řeč o vnitřních stavech formálně bezvadná, ale nespojená s prožitkem a bez jakéhokoli dopadu — to je popis pretend mode. Racionalizace by zdůvodňovala konkrétní jednání a obsedantní přemítání by přinášelo nepolevující nepohodu, ne spokojenost.",
+    "source": "Peter Fonagy a Mary Target, Playing with Reality",
+    "seedElo": 2150
+  },
+  {
+    "id": "obr-B06",
+    "type": "V",
+    "category": "obrany",
+    "text": "Klientka mluví o terapeutovi jako o jediném klidném místě ve svém životě. Během jeho třítýdenní dovolené se rozpadne do bezmoci a nespavosti, po návratu se během dvou sezení stabilizuje a pokračuje v práci. Znehodnocení nikdy nepřijde, a přitom terapeuta popisuje realisticky, včetně jeho únavy a přeřeknutí. Co je nejpravděpodobnější z hlediska kritéria: funkce obrazu pro regulaci self versus ochrana objektu před agresí?",
+    "options": [
+      "obranná idealizace — chrání objekt před klientčinou nevědomou agresí",
+      "splitting — objekt je udržován zcela odděleně od své zlé stránky",
+      "erotizovaný přenos — potřeba blízkosti nabrala sexualizovanou podobu",
+      "idealizující selfobjektový přenos — obraz slouží regulaci self"
+    ],
+    "correct": 3,
+    "explanation": "Rozhoduje spojení dvou markerů: obraz zůstává realistický v detailech a jeho ztráta vyvolá rozpad regulace, ne zlobu — to odpovídá selfobjektové potřebě, kde druhý plní funkci, kterou self ještě neumí samo. Obranná idealizace by objekt vylepšovala proti realitě a při frustraci by se běžně převrátila do devalvace. Splitting předpokládá odštěpenou zlou stránku, po níž tu není stopa; pro erotizaci chybí jakýkoli materiál.",
+    "source": "Heinz Kohut, The Analysis of the Self",
+    "seedElo": 2300
+  },
+  {
+    "id": "obr-B07",
+    "type": "V",
+    "category": "obrany",
+    "text": "Po hodině, kde terapeutka řekla něco, co klienta zjevně zasáhlo, přijde klient příště s tím, že si tu větu doma trochu upravil, aby dávala smysl, a že už neví, od koho ji vlastně slyšel. Dodá, že takové věci člověka spíš ruší, a téma opustí. Co je nejpravděpodobnější z hlediska kritéria: dobré je přijato, ale znehodnoceno a přivlastněno tak, aby zdroj zmizel?",
+    "options": [
+      "obranná devalvace — hodnota objektu klesá, aby nebolela závislost",
+      "závist v kleiniánském smyslu — dobrota objektu je kažena a přivlastněna",
+      "sekundární narcistická urážka — narušená grandiozita hledá nápravu",
+      "negativní terapeutická reakce — zlepšení vyvolává vinu a zhoršení"
+    ],
+    "correct": 1,
+    "explanation": "Kritérium míří na osud dobrého: klient ho nezavrhl, vzal si ho, pokazil úpravou a vymazal, že přišlo od někoho druhého — to je závistivý útok na zdroj dobra, ne pouhé snížení jeho hodnoty. Obranná devalvace by dobré odmítla jako bezcenné, aniž by si ho přisvojila. Negativní terapeutická reakce se pozná podle zhoršení po pokroku, které tu popsáno není, a narcistická urážka by přinesla ostudu a potřebu nápravy obrazu sebe.",
+    "source": "Melanie Klein, Závist a vděčnost",
+    "seedElo": 2200
+  },
+  {
+    "id": "obr-B08",
+    "type": "V",
+    "category": "obrany",
+    "text": "Muž slíbí manželce, že vyzvedne její matku na nádraží. Vyjede pozdě, jede podle svých slov opatrně pomalu, cestou si nemůže vzpomenout na nástupiště a dorazí o hodinu později. Doma se okázale a mnohomluvně omlouvá, přitom se usmívá, a na dotaz, zda mu ta jízda vadila, řekne, že mu to vůbec nevadilo. Co je nejpravděpodobnější z hlediska kritéria: hostilita vyjádřená formou selhávajícího výkonu při vědomě vstřícném postoji?",
+    "options": [
+      "reaktivní výtvor — nepřátelství je nahrazeno okázalou vstřícností",
+      "acting out — nevědomý konflikt je odehrán mimo terapeutický rámec",
+      "rozštěpení ambivalence — manželka je vnímána jen v jedné poloze",
+      "pasivní agrese — hostilita je vyjádřena skrze selhávající výkon"
+    ],
+    "correct": 3,
+    "explanation": "Určující je, že agrese je celá uložena do formy provedení: souhlas je zachován, ale výsledek druhého poškodí, a omluva je součástí téhož manévru. Reaktivní výtvor by znamenal skutečně a trvale nadstandardní službu bez sabotáže. Acting out popisuje spíš odehrání konfliktu mimo léčbu jako celek než tento konkrétní vztahový vzorec; o rozštěpení ambivalence nesvědčí nic, obě polohy jsou naopak přítomné najednou.",
+    "source": "George Vaillant, Adaptation to Life",
+    "seedElo": 1950
+  },
+  {
+    "id": "obr-B09",
+    "type": "V",
+    "category": "obrany",
+    "text": "Klientka chodí dva roky pravidelně, nosí sny, spolupracuje a nikdy neruší. Terapeut si přesto všímá, že se nic nemění a že v sezeních panuje zvláštní příjemný klid, jakási tichá dohoda. Kdykoli se přiblíží bolest, klientka plynule nabídne nový zajímavý materiál; necítí se ohrožená a je se stavem věcí spokojená. Co je nejpravděpodobnější z hlediska kritéria: stabilní organizace poskytující úlevu jak od kontaktu, tak od hrozby rozpadu?",
+    "options": [
+      "odpor v klasickém smyslu — vynořující se obsah je aktivně odmítán",
+      "negativní terapeutická reakce — každý pokrok je následován propadem",
+      "psychické útočiště — místo úlevy od kontaktu i od hrozby chaosu",
+      "falešné self — přizpůsobení potřebám okolí zakrývá pravé prožívání"
+    ],
+    "correct": 2,
+    "explanation": "Odpor se pozná podle bojovnosti a nepohody na hranici vytěsněného; tady je naopak klid, spokojenost a hladká spolupráce, která sama drží léčbu na místě. To odpovídá útočišti jako trvalému uspořádání, kde je klid vykoupen nehybností a ochranou před depresivní i paranoidně-schizoidní úzkostí. Negativní terapeutická reakce by ukázala zhoršení po pokroku, ne setrvalý stav; falešné self by se vázalo na uspokojování cizích nároků, o čemž materiál nemluví.",
+    "source": "John Steiner, Psychic Retreats",
+    "seedElo": 2350
+  },
+  {
+    "id": "obr-B10",
+    "type": "I",
+    "category": "obrany",
+    "text": "Klient s citem a barvitě mluví o tom, jak se mu stýská po partnerce, která je měsíc pryč. Terapeutka poznamená, že něco podobného možná probíhá i mezi nimi dvěma, když mívá pauzu. Klient bez přerušení přejde k obecné úvaze o tom, jak dnešní psychoterapie přeceňuje vztah, a mluví dál kultivovaně a se zájmem. Co je nyní nejvhodnější z hlediska kritéria: intervence mířící nejprve na obranu v přenosu, nikoli na obsah?",
+    "options": [
+      "ukázat posun: jakmile jde o nás dva, řeč se přesune k obecnému",
+      "vrátit se k partnerce a prohloubit dosud otevřený citový materiál",
+      "interpretovat přání být terapeutce blízko jako přenos z dětství",
+      "nabídnout výklad o tom, jak se v terapii pracuje se vztahem"
+    ],
+    "correct": 0,
+    "explanation": "Kritérium ukládá pracovat s tím, co se právě děje s formou řeči: posun od živého citu k obecnosti přesně v okamžiku zmínky o vztahu je pozorovatelný a sdělitelný fakt. Návrat k partnerce obranu respektuje, ale posiluje ji tím, že ji nechá nepovšimnutou. Interpretace dětského původu přeskakuje obranu rovnou k obsahu a psychoedukace přijímá klientovu abstraktní rovinu jako téma.",
+    "source": "Paul Gray, The Ego and Analysis of Defense",
+    "seedElo": 2100
+  },
+  {
+    "id": "obr-B11",
+    "type": "V",
+    "category": "obrany",
+    "text": "Muž den po hádce, ve které ženě řekl něco ostrého, přinese květiny. O hádce mluvit nedokáže a na dotaz jen opakuje, zda už je to smazané. Květiny nosí i ve dnech, kdy se nic nestalo, vždy stejné a vždy beze slov, a po jejich předání se mu viditelně uleví. Co je nejpravděpodobnější z hlediska kritéria: rituální úkon rušící čin versus oprava vztahu v kontaktu s druhým?",
+    "options": [
+      "reparace — vina je nesena a vztah je opravován v kontaktu s druhým",
+      "odčinění — magický úkon má zrušit samotnou skutečnost činu",
+      "reaktivní výtvor — trvalý postoj něhy nahrazuje nepřijatelnou zlobu",
+      "obrácení proti sobě — výčitky jsou obráceny do vlastní viny"
+    ],
+    "correct": 1,
+    "explanation": "Rozhoduje otázka, zda se něco děje ve vztahu, nebo mimo něj: reparace vyžaduje kontakt, přiznání škody a nesení viny, tady je naopak akt němý, stereotypní a jeho smyslem je, aby čin přestal platit. Rituální opakování i mimo provinění a úleva vázaná na provedení úkonu jsou klasické znaky odčinění. Reaktivní výtvor by byl povahový a nevázaný na jednotlivé skutky; obrácení proti sobě by se ukázalo v sebeobviňování, ne v symbolickém rušení.",
+    "source": "Sigmund Freud, Zábrany, symptom a úzkost",
+    "seedElo": 2050
+  },
+  {
+    "id": "obr-B12",
+    "type": "V",
+    "category": "obrany",
+    "text": "Terapeut si při psaní poznámek uvědomí, že klientce už potřetí prodloužil sezení o deset minut, aniž si toho v dané chvíli všiml. Klientka nikdy o víc času nežádala, jen v hodinách opakovaně mluví o tom, jak ji všichni odbývají a nikdo nemá čas. Ani jeden z nich to dosud nepojmenoval. Co je nejpravděpodobnější z hlediska kritéria: pojmenování formy jevu, tedy scény odehrané uvnitř terapeutického vztahu oběma účastníky?",
+    "options": [
+      "acting out — nevědomý konflikt se odehrává mimo léčbu, v životě",
+      "protipřenosové jednání jako izolované selhání rámce terapeuta",
+      "projektivní identifikace jako celkové vysvětlení dění mezi nimi",
+      "enactment — dvojice společně odehrává scénu uvnitř vztahu"
+    ],
+    "correct": 3,
+    "explanation": "Kritérium žádá název pro formu jevu: obě strany se bez vědomého úmyslu podílejí na scéně uvnitř rámce, což je definice enactmentu. Acting out míří ven z léčby a izolované selhání rámce by nevysvětlilo, proč vzorec přesně odpovídá klientčinu tématu. Projektivní identifikace je zde pravděpodobný mechanismus pohonu, ale je to popis nevědomého procesu, ne pojmenování toho, co se ve dvojici odehrálo.",
+    "source": "Theodore Jacobs, The Use of the Self",
+    "seedElo": 2200
+  },
+  {
+    "id": "obr-B13",
+    "type": "V",
+    "category": "obrany",
+    "text": "Klient po každé otázce po prožívání dlouho mlčí a pak řekne, že neví. Jeho vyprávění je chudé i o zcela neutrálních věcech: dovolená byla dobrá, práce je práce. Intelekt má podle testu nadprůměrný, ale za osm měsíců nepopsal ani tělesný pocit, a mlčení není vázáno na žádné konkrétní téma. Co je nejpravděpodobnější z hlediska kritéria: absence selektivity, tedy plošnost jevu napříč konfliktními i neutrálními obsahy?",
+    "options": [
+      "obranné vytěsnění afektu, které ustupuje jen u konfliktních témat",
+      "izolace afektu uplatňovaná plošně na veškerý psychický obsah",
+      "odpor vůči terapeutovi projevovaný soustavnou zdrženlivostí",
+      "deficit reprezentační kapacity, nikoli obrana proti obsahu"
+    ],
+    "correct": 3,
+    "explanation": "Obrana je vždy vázána na něco, před čím chrání, a proto se pozná podle selektivity — chudoba se objeví u konfliktu a jinde ustoupí. Zde je pole prázdné i tam, kde není co bránit, což ukazuje spíš na chybějící kapacitu tvořit a sdělovat reprezentace vnitřních stavů. Odpor by kolísal podle vztahové situace a izolace afektu by ponechala bohatý obsahový popis, ten však chybí také.",
+    "source": "Peter Fonagy, Affect Regulation, Mentalization and the Development of the Self",
+    "seedElo": 2300
+  },
+  {
+    "id": "obr-B14",
+    "type": "V",
+    "category": "obrany",
+    "text": "Žena odchází ze sezení, kde se cítila zahanbená terapeutčinou poznámkou o jejím vzhledu. Cestou domů je klidná, doma se ale během hodiny rozčílí na psa kvůli chlupům na gauči a na syna kvůli neuklizené bundě. O terapeutce příště mluví jen v dobrém a poznámku sama nezmíní. Co je nejpravděpodobnější z hlediska kritéria: cesta afektu od ohrožujícího objektu k jinému cíli při zachovaném obsahu?",
+    "options": [
+      "projekce — vlastní hněv je připsán terapeutce jako její hněv",
+      "obrácení proti sobě — zlost je stočena do sebeobviňování",
+      "reaktivní výtvor — hněv je nahrazen okázalou vděčností",
+      "přemístění — afekt z ohrožujícího objektu jde na bezpečnější"
+    ],
+    "correct": 3,
+    "explanation": "Rozhodující je, že hněv nikam nezmizel ani se nezměnil ve svůj opak, jen si našel bezpečnější adresáty — psa a syna. Projekce by znamenala, že žena vidí hněv v terapeutce; nic takového nepopisuje. Reaktivní výtvor by vyžadoval převrácení do opačného postoje a obrácení proti sobě by se projevilo sebeobviňováním, ne výbuchy směrem ven.",
+    "source": "Anna Freudová, Já a obranné mechanismy",
+    "seedElo": 1850
+  },
+  {
+    "id": "obr-B15",
+    "type": "I",
+    "category": "obrany",
+    "text": "Klient v jednom sezení mluví o terapeutovi jako o jediném, kdo mu kdy rozuměl, a o své psychiatričce jako o naprosté nule. Za týden je to obrácené: psychiatrička konečně někdo rozumný, terapeut jen mlčí a nic nedělá. Klient si střídání nevšímá a mezi oběma obrazy necítí žádný rozpor. Co je nyní nejvhodnější z hlediska kritéria: nezpevnit rozštěpení a zároveň nevynucovat předčasnou integraci?",
+    "options": [
+      "říct, že psychiatrička je jistě dobrá odbornice a nezaslouží kritiku",
+      "všimnout si nahlas, že dobré a špatné se střídají mezi dvěma lidmi",
+      "interpretovat nenávist k psychiatričce jako přenesenou zlobu na matku",
+      "počkat, dokud se obraz sám neustálí, a téma zatím vůbec neotvírat"
+    ],
+    "correct": 1,
+    "explanation": "Kritérium vede k popisné intervenci, která obojí drží ve stejném zorném poli, aniž by po klientovi žádala, aby oba obrazy hned spojil. Obhajoba psychiatričky je korekcí reality a staví terapeuta na jednu stranu rozštěpu. Genetická interpretace přeskakuje aktuální dění a odklad tématu ponechává obranu bez povšimnutí a v tichosti ji stvrzuje.",
+    "source": "Otto Kernberg, Severe Personality Disorders",
+    "seedElo": 2150
+  },
+  {
+    "id": "obr-B16",
+    "type": "V",
+    "category": "obrany",
+    "text": "Terapeutka při klientově zdlouhavém vyprávění o matce cítí sílící netrpělivost a nutkání ho popohnat, aby už řekl pointu. Překvapí ji to, protože jindy je k němu vřelá a klid s ním má ráda. Klient přitom popisuje matku jako ženu, která ho nikdy nenechala domluvit. Co je nejpravděpodobnější z hlediska kritéria: s kterou vnitřní figurou klientova světa se terapeutka právě ztotožnila?",
+    "options": [
+      "konkordantní identifikace — terapeutka prožívá klientovo vlastní self",
+      "protipřenos ze subjektivity terapeutky, nesouvisející s klientem",
+      "empatické naladění na klientovu potlačenou touhu být popoháněn",
+      "komplementární identifikace — terapeutka prožívá klientův objekt"
+    ],
+    "correct": 3,
+    "explanation": "Terapeutka cítí přesně to, co podle klientova popisu dělá matka — nenechat domluvit — čili obsadila roli objektu, ne klientova self. Konkordantní identifikace by ji vedla k prožitku umlčovaného dítěte, tedy k bezmoci či dychtivosti být vyslyšena. Vlastní subjektivitu činí nepravděpodobnou to, že jinde s klientem klid snáší dobře, a pro touhu být popoháněn není v materiálu opora.",
+    "source": "Heinrich Racker, Transference and Countertransference",
+    "seedElo": 2250
+  },
+  {
+    "id": "obr-B17",
+    "type": "V",
+    "category": "obrany",
+    "text": "Lékařka jde ráno na sál, ačkoli čeká na výsledek dceřiny biopsie. Před operací si řekne, že to tam je, ale že se k tomu vrátí večer. Operuje soustředěně a bez chyby, doma pak sedí u telefonu, pláče a mluví o strachu, který popisuje jako celý den odložený stranou. Co je nejpravděpodobnější z hlediska kritéria: vědomá dostupnost obsahu a jeho doložený návrat v čase, který si člověk sám určil?",
+    "options": [
+      "vytěsnění — obsah je nedostupný vědomí a nelze jej vyvolat",
+      "izolace afektu — obsah je přítomen, cit je od něj oddělen trvale",
+      "potlačení (suprese) — vědomé odložení s pozdějším návratem",
+      "disociace — vědomí se rozděluje a část zážitku se stává cizí"
+    ],
+    "correct": 2,
+    "explanation": "Kritérium je splněno doslova: obsah zůstal vědomý, odklad byl záměrný a afekt se v ohlášeném čase vrátil v plné síle — to je definice suprese jako zralé obrany. Vytěsnění by znamenalo, že obsah není k dispozici a nedá se vyvolat vůlí. Izolace afektu by cit oddělila i večer, kdy ale lékařka pláče, a disociace by přinesla odcizení nebo mezeru v prožitku, o čemž není zmínka.",
+    "source": "George Vaillant, The Wisdom of the Ego",
+    "seedElo": 2000
+  },
+  {
+    "id": "obr-B18",
+    "type": "E",
+    "category": "obrany",
+    "text": "Supervidovaná referuje: Klient si do své šéfové projikuje vlastní agresi, a proto se jí bojí. Rozhodla jsem se mu ukázat, že šéfová je ve skutečnosti docela hodná a že si to o ní myslí jen on. Klient v dalším sezení souhlasil, byl vstřícný a téma šéfové se už nevrátilo. Kde je z hlediska kritéria práce s obranou hlavní chyba v této intervenci?",
+    "options": [
+      "chyba je v tom, že interpretace míří na realitu místo na klientův svět",
+      "chyba je v tom, že projekce nikdy nemůže vysvětlit strach z nadřízené",
+      "chyba je v tom, že bez znalosti anamnézy nelze mluvit o obranách vůbec",
+      "chyba je v tom, že terapeutka měla nejprve interpretovat přenos k sobě"
+    ],
+    "correct": 0,
+    "explanation": "Korekce reality obranu nezrušuje, jen ji odsune z dohledu: klientův rychlý souhlas a zmizení tématu jsou spíš znakem přizpůsobení než zpracování. Práce s projekcí začíná u toho, jak nesnesitelný je pro klienta vlastní hněv, ne u toho, jaká šéfová objektivně je. Tvrzení, že projekce strach z nadřízené vysvětlit nemůže, je věcně nepravdivé; pravidlo o přednosti přenosu ani požadavek anamnézy zde nejsou tím kritickým bodem.",
+    "source": "Ralph Greenson, The Technique and Practice of Psychoanalysis",
+    "seedElo": 2200
+  },
+  {
+    "id": "obr-B19",
+    "type": "V",
+    "category": "obrany",
+    "text": "Muž rok po odeznění psychotické ataky vysvětluje, proč přestal hrát na housle: housle jsou přece jeho penis, a hrát na ně na veřejnosti proto nejde. Když terapeut nabídne, že jde možná o obraz, klient se vyděsí a trvá na tom, že to není obraz, ale prostý fakt. Jinak je řeč souvislá a orientace neporušená. Co je nejpravděpodobnější z hlediska kritéria: vztah symbolu a označované věci, jak se ukazuje v klientově vlastním prožitku?",
+    "options": [
+      "symbolická rovnice — symbol je prožíván totožně s označovaným",
+      "somatická konverze — konflikt je vyjádřen tělesným symptomem",
+      "konkrétní myšlení jako projev neurokognitivního deficitu",
+      "primitivní projektivní identifikace do terapeutovy interpretace"
+    ],
+    "correct": 0,
+    "explanation": "Rozhodující je klientova hrůza z návrhu, že jde o metaforu: symbol tu není zástupcem věci, ale věcí samou, což Segalová popsala jako symbolickou rovnici. Konverze by vyžadovala tělesný symptom, ne významovou identitu předmětu. Neurokognitivní deficit by se projevil plošným postižením abstrakce, řeč je však jinak souvislá; projektivní identifikace by popisovala, co se děje s terapeutem, ne strukturu klientova symbolu.",
+    "source": "Hanna Segal, Notes on Symbol Formation",
+    "seedElo": 2350
+  },
+  {
+    "id": "obr-B20",
+    "type": "V",
+    "category": "obrany",
+    "text": "Muž popisuje, že během rodinných večeří odejde do vnitřního světa, kde má vlastní město s ulicemi a obyvateli. Navenek sedí, přikyvuje a usmívá se. Když se ho terapeutka zeptá, o čem se u stolu mluvilo, zopakuje rozhovor téměř doslova a dodá, že mu doma bylo lépe než jim. Co je nejpravděpodobnější z hlediska kritéria: neporušená kontinuita vědomí a paměti při přesunu uspokojení do fantazie?",
+    "options": [
+      "disociativní stav — část dění se do paměti vůbec nezapsala",
+      "vyhýbavé chování — situace je opuštěna, aby se snížila úzkost",
+      "schizoidní fantazie — vztahovost se sytí ve vnitřním světě",
+      "depersonalizace — prožitek sebe je odcizený a nereálný"
+    ],
+    "correct": 2,
+    "explanation": "Klíčem je, že si muž pamatuje celý rozhovor, tedy nešlo o výpadek vědomí, a že vnitřní svět není prázdný útěk, ale místo, kde se vztahy skutečně odehrávají. To odpovídá schizoidnímu řešení konfliktu mezi touhou po blízkosti a strachem z ní. Disociace by narušila paměť, vyhýbání by znamenalo fyzický odchod ze situace a depersonalizace by přinesla odcizení sobě, ne bohatě obydlené město.",
+    "source": "Nancy McWilliams, Psychoanalytic Diagnosis",
+    "seedElo": 2100
+  },
+  {
+    "id": "obr-B21",
+    "type": "V",
+    "category": "obrany",
+    "text": "Student se tři měsíce těšil na stáž v konkrétní laboratoři, psal o ní nadšeně a chodil se dívat na její web. Po zamítavém dopise prohlásí, že tam stejně vládne hrozná atmosféra a že by ho to nudilo. O zklamání nemluví, o dopisu ví a zmiňuje ho věcně. Co je nejpravděpodobnější z hlediska kritéria: dodatečné rozumné zdůvodnění nezdaru při zachovaném vědomí faktu?",
+    "options": [
+      "popření — informace o nepřijetí se do vědomí vůbec nedostala",
+      "racionalizace — nezdar dostává dodatečné rozumné odůvodnění",
+      "intelektualizace — konflikt je zpracován abstraktní teorií",
+      "obranná devalvace — hodnota objektu klesá kvůli ochraně před bolestí"
+    ],
+    "correct": 1,
+    "explanation": "Student fakt zamítnutí zná a nepopírá ho, jen mu dodává přijatelné vysvětlení, které chrání sebeúctu — to je jádro racionalizace. Popření by vyžadovalo, aby informace nebyla ve vědomí přijata. Devalvace laboratoře je tu obsahovou složkou téhož manévru, ale kritérium se ptá po mechanismu, a intelektualizace by znamenala posun do abstraktní teorie, ne prosté zdůvodnění.",
+    "source": "Anna Freudová, Já a obranné mechanismy",
+    "seedElo": 2000
+  },
+  {
+    "id": "obr-B22",
+    "type": "I",
+    "category": "obrany",
+    "text": "Úspěšná manažerka v jednom sezení lehce a s humorem vypráví o nočních nákupech za desítky tisíc a o pár minut později o pocitu naprosté prázdnoty a bezcennosti. Obě linie běží vedle sebe celé měsíce, nikdy se nepotkají a klientka mezi nimi nevidí žádný vztah ani rozpor. Co je nyní nejvhodnější z hlediska kritéria: intervence odpovídající vertikálnímu rozštěpu, tedy nikoli konfrontace s realitou?",
+    "options": [
+      "konfrontovat rozpor mezi jejími výdaji a rozpočtem s konkrétními čísly",
+      "pojmenovat, že vedle sebe běží dvě linie, které se nikdy nesetkají",
+      "interpretovat nakupování jako acting out agrese vůči nepřítomnému otci",
+      "doporučit léčbu nákupní závislosti a dynamickou práci zatím odložit"
+    ],
+    "correct": 1,
+    "explanation": "U vertikálního rozštěpu jde o dva souběžně vědomé sektory, které spolu nekomunikují; první krok je proto ukázat samu tu souběžnost a nechat ji vstoupit do pole pozornosti. Konfrontace s čísly pracuje s realitou a obvykle jen prohloubí stud v jednom ze sektorů. Genetická interpretace přeskakuje aktuální strukturu a odeslání do specializované léčby rozštěp v praxi stvrzuje tím, že ho institucionalizuje.",
+    "source": "Heinz Kohut, The Restoration of the Self",
+    "seedElo": 2250
+  },
+  {
+    "id": "obr-B23",
+    "type": "V",
+    "category": "obrany",
+    "text": "Žena, kterou matka v dětství opakovaně na týdny odkládala k příbuzným, ukončuje každý vztah sama. Dělá to zpravidla ve chvíli, kdy partner začne mluvit o společném bydlení, a popisuje to jako svobodné a klidné rozhodnutí. Po rozchodu se cítí silná a teprve po měsících přijde smutek. Co je nejpravděpodobnější z hlediska kritéria: obrácení role při opakování téhož traumatu, kdy se z předmětu děje stává jeho původce?",
+    "options": [
+      "obrat pasivního v aktivní — trauma je opakováno z pozice původce",
+      "identifikace s agresorem — žena přejímá vlastnosti opouštějící matky",
+      "anticipační vyhýbání — vztah končí kvůli předjímané úzkosti z opuštění",
+      "reaktivní výtvor — touha po vazbě se mění v okázalou nezávislost"
+    ],
+    "correct": 0,
+    "explanation": "Kritérium míří na strukturu opakování: totéž opuštění se odehraje znovu, ale s obrácenými rolemi, a tím se bezmoc mění ve zdánlivou moc. Identifikace s agresorem je blízká, jde však o převzetí vlastností a postoje ohrožujícího objektu, nikoli jen o výměnu pozic v témže scénáři; materiál nic o přejímání matčiných rysů neuvádí. Anticipační vyhýbání by vedlo k tomu, že vztah vůbec nevznikne, a reaktivní výtvor by znamenal trvalou povahovou nezávislost, ne opakovaný akt.",
+    "source": "Sigmund Freud, Mimo princip slasti",
+    "seedElo": 2050
+  },
+  {
+    "id": "obr-B24",
+    "type": "V",
+    "category": "obrany",
+    "text": "Klientka po interpretaci, která se dotkla jejího výkonového nároku, začne mluvit tišším, téměř dětským hlasem a chce, aby terapeut rozhodl, zda má přijmout povýšení. Trvá to zbytek hodiny. Ze sezení odchází s úlevou, v následujícím týdnu funguje v práci dobře a nikam mimo hodinu se tento stav nepřenáší. Co je nejpravděpodobnější z hlediska kritéria: ohraničenost, vratnost a další osud regrese mimo terapeutický rámec?",
+    "options": [
+      "maligní regrese — narůstá nárok a mimo terapii se rozpadá fungování",
+      "hraniční strukturální porucha, kterou interpretace destabilizovala",
+      "somatizovaná úzkost přenesená do hlasové a posturální regrese",
+      "regrese ve službách ega — ohraničená, vratná a terapeuticky nosná"
+    ],
+    "correct": 3,
+    "explanation": "Rozhodují hranice a výsledek: stav vzniká uvnitř hodiny, po ní odeznívá a fungování mimo terapii se nezhoršuje, což odpovídá regresi ve službách ega. Maligní regrese by přinesla eskalující nároky, kontakty mezi sezeními a úpadek adaptace. Strukturální porucha by se neomezila na jednu hodinu a somatizace by vyžadovala tělesný symptom, ne změnu hlasu v přenosové situaci.",
+    "source": "Michael Balint, The Basic Fault",
+    "seedElo": 2300
+  },
+  {
+    "id": "obr-B25",
+    "type": "V",
+    "category": "obrany",
+    "text": "Muž vysvětluje, proč nepomohl bratrovi během jeho nemoci: každý si má nést svůj kříž sám, jinak z něj bude parazit, a laskavost lidi kazí. Nemluví o penězích, čase ani vzdálenosti, mluví o povinnosti a o tom, co je správné. Když terapeutka zmíní bratrův strach, muž zopakuje větu o kříži. Co je nejpravděpodobnější z hlediska kritéria: povaha zdůvodnění, tedy zda se opírá o okolnosti, nebo o mravní princip?",
+    "options": [
+      "racionalizace — jednání je zdůvodněno praktickými okolnostmi",
+      "intelektualizace — téma je převedeno do abstraktní roviny",
+      "moralizace — jednání dostává oporu v mravní povinnosti",
+      "izolace afektu — vina je oddělena od svého obsahového jádra"
+    ],
+    "correct": 2,
+    "explanation": "Kritérium odděluje dvě blízké obrany podle typu opory: racionalizace se dovolává okolností a rozumnosti, moralizace hledá povinnost a nachází důvod, proč je jednání správné. Muž nemluví o tom, že nemohl, ale o tom, že neměl, a opakování mravní formule i po zmínce bratrova strachu to potvrzuje. Intelektualizace by přinesla teorii či pojmový aparát a izolace afektu by ponechala popis obsahu bez citu, ne mravní argument.",
+    "source": "Nancy McWilliams, Psychoanalytic Diagnosis",
+    "seedElo": 2000
+  },
+  {
+    "id": "obr-B26",
+    "type": "I",
+    "category": "obrany",
+    "text": "Klient řekne terapeutce, že na něj minule byla podrážděná. Terapeutka si po zvážení uvědomí, že to je pravda — přišla po ostrém sporu doma. Klient však pokračuje, že to jen potvrzuje, že jím pohrdala od prvního dne a pohrdat bude vždycky, a mluví o tom s klidnou jistotou. Co je nyní nejvhodnější z hlediska kritéria: oddělit pravdivou percepci od obranného zpracování, které na ni navazuje?",
+    "options": [
+      "trvat na tom, že jde o jeho projekci, a interpretovat její dětský původ",
+      "omluvit se za podráždění a téma jeho trvalosti dále vůbec neotvírat",
+      "potvrdit jeho percepci a pak zkoumat, proč z ní plyne trvalé pohrdání",
+      "mlčet a počkat, zda klient sám svou percepci časem opustí či rozvine"
+    ],
+    "correct": 2,
+    "explanation": "Kritérium žádá dvojí krok, protože materiál obsahuje dvě různé věci: přesný postřeh a jeho rozšíření do nadčasového soudu o pohrdání. Popřít percepci jako projekci by klienta učilo nedůvěřovat vlastnímu vnímání a obranu by jen posílilo. Samotná omluva bez druhého kroku nechá zobecnění nedotčené a mlčení ponechá klienta v přesvědčení, které se bez pojmenování zpravidla utvrdí.",
+    "source": "Merton Gill, Analysis of Transference",
+    "seedElo": 2150
+  },
+  {
+    "id": "obr-B27",
+    "type": "V",
+    "category": "obrany",
+    "text": "Žena čekající tři dny na výsledek biopsie si předem promyslí, co udělá při každé variantě: koho zavolá, kdy si vezme volno, co řekne dětem. U toho pláče a říká, že se bojí. Plánu se drží, spí a v práci funguje; ve chvílích strachu se k plánu vrací a strach neustupuje, jen je snesitelnější. Co je nejpravděpodobnější z hlediska kritéria: realistická příprava na budoucnost při ponechaném a prožívaném afektu?",
+    "options": [
+      "anticipace — realistické plánování s předem prožitou úzkostí",
+      "intelektualizace — úzkost je neutralizována odbornou abstrakcí",
+      "omnipotentní kontrola — úzkost mizí díky pocitu vlády nad děním",
+      "obsedantní přemítání — scénáře se opakují bez jakékoli úlevy"
+    ],
+    "correct": 0,
+    "explanation": "Rozhodující je, že afekt zůstal na místě a je prožíván, plánování ho nemá odstranit, jen učinit snesitelným — to je znak anticipace jako zralé obrany. Intelektualizace by úzkost odsunula pomocí abstrakce a žena by o strachu nemluvila. Omnipotentní kontrola by přinesla pocit, že výsledek lze ovlivnit, a obsedantní přemítání by bylo neodbytné, neúlevné a fungování by narušilo.",
+    "source": "George Vaillant, The Wisdom of the Ego",
+    "seedElo": 1850
+  },
+  {
+    "id": "obr-B28",
+    "type": "E",
+    "category": "obrany",
+    "text": "Supervidovaný referuje: Klient mi ve čtvrtém měsíci řekl, že mě obdivuje a že jsem jediný, kdo ho drží nad vodou. Odpověděl jsem mu, že ten obdiv je nejspíš obrana proti hněvu na mě za zrušenou hodinu. Klient pak zmateně mlčel, na konci se ptal, jestli udělal něco špatně, a na další sezení přišel o dvacet minut později. Kde je z hlediska kritéria nosnosti a načasování hlavní chyba?",
+    "options": [
+      "chyba je v tom, že obdiv nemůže nikdy sloužit jako obrana proti hněvu",
+      "chyba je v tom, že interpretace předběhla nosnost a rozbila oporu",
+      "chyba je v tom, že terapeut měl místo přenosu interpretovat vztah k otci",
+      "chyba je v tom, že zrušená hodina nesmí být v terapii vůbec tematizována"
+    ],
+    "correct": 1,
+    "explanation": "Interpretace mohla být obsahově trefná, ale přišla do vztahu, který idealizovaný obraz ještě potřeboval jako oporu, a reakce klienta — zmatek, stud a zpoždění — ukazuje na narušení, ne na porozumění. Kritérium nosnosti a načasování žádá napřed unést funkci obdivu a hněv otevřít až tehdy, když ho vztah udrží. Tvrzení, že obdiv nikdy nebývá obranou, je nepravdivé; zrušená hodina tematizovatelná je a genetická interpretace by problém načasování nevyřešila.",
+    "source": "Heinz Kohut, How Does Analysis Cure?",
+    "seedElo": 2250
+  }
+]

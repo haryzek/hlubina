@@ -1,0 +1,450 @@
+[
+  {
+    "id": "pre-B01",
+    "type": "E",
+    "category": "prenos-technika",
+    "text": "Winnicott ve stati „Hate in the Counter-Transference“ (1949) zavádí pojem objektivní nenávisti. Co ho z hlediska legitimity terapeutova afektu odlišuje od nenávisti neurotické?",
+    "options": [
+      "Je vědomá, zatímco neurotická nenávist zůstává nevědomá a projeví se jen v drobných chybách rámce.",
+      "Je slabší co do intenzity, a proto ji terapeut zvládne udržet, aniž by ji musel pacientovi sdělit.",
+      "Je oprávněnou reakcí na reálné chování pacienta, kterou by na terapeutově místě měl kdokoli zdravý.",
+      "Je vždy důsledkem projektivní identifikace, tedy afektem, jenž pacientovi patří a byl mu jen vrácen."
+    ],
+    "correct": 2,
+    "explanation": "Winnicott rozlišuje nenávist plynoucí z terapeutova vlastního neurotického materiálu od nenávisti „objektivní“ — tedy takové, kterou by pacientovo chování vyvolalo u každého přiměřeně zdravého člověka v téže roli. Legitimní je proto, že je přiměřená situaci; nebezpečná je až tehdy, když ji terapeut popře. Analogii hledá u matky, která své dítě nenávidí dřív, než ono může nenávidět ji, a přesto ho neopustí.",
+    "source": "Winnicott, Hate in the Counter-Transference (1949)",
+    "seedElo": 1900
+  },
+  {
+    "id": "pre-B02",
+    "type": "E",
+    "category": "prenos-technika",
+    "text": "Gutheil a Gabbard rozlišují hraniční přešlap (boundary crossing) od porušení hranice (boundary violation). Které kritérium je pro toto rozlišení z hlediska profesní etiky rozhodující?",
+    "options": [
+      "Zda odchylka od obvyklého rámce pacienta poškozuje či ho vtahuje do uspokojování potřeb terapeuta.",
+      "Zda k odchylce došlo v ordinaci, nebo mimo ni, protože prostor je nejobjektivnějším měřítkem rámce.",
+      "Zda odchylku terapeut zaznamenal do dokumentace a předem ji projednal se svým supervizorem.",
+      "Zda odchylka byla jednorázová, nebo se v průběhu léčby opakovala nejméně ve třech oddělených sezeních."
+    ],
+    "correct": 0,
+    "explanation": "Přešlap je nepodstatná či dokonce terapeuticky užitečná odchylka od obvyklého rámce (podání ruky, doprovod ke dveřím), která pacientovi neškodí a lze ji analyticky zpracovat. Porušení je exploatativní: slouží terapeutovi a poškozuje pacienta. Dokumentace, opakování ani místo nejsou samy o sobě rozlišujícím kritériem, byť mohou být varovnými signály.",
+    "source": "Gutheil & Gabbard, Am J Psychiatry (1993, 1998)",
+    "seedElo": 1900
+  },
+  {
+    "id": "pre-B03",
+    "type": "V",
+    "category": "prenos-technika",
+    "text": "Terapeut po půl roce práce s mužem (38) zjišťuje, že si na sezeních připadá jako nepotřebný přívěsek: pacient mluví plynule, terapeutovy vstupy míjí bez povšimnutí a nic z nich se v dalších hodinách neobjeví. Co tento protipřenosový vzorec z hlediska charakterové organizace nejspíš signalizuje?",
+    "options": [
+      "Sílící negativní přenos, v němž pacient terapeuta zažívá jako pronásledovatele, jehož slova jsou nebezpečná.",
+      "Nastupující depresivní stažení, při kterém pacient ztrácí schopnost přijmout jakoukoli vnější nabídku.",
+      "Rozštěpení objektu, kdy pacient terapeuta střídavě idealizuje a znehodnocuje v rychlém sledu obou poloh.",
+      "Narcistickou organizaci, kde terapeut slouží jako publikum a jeho oddělená mysl je vyloučena z pole."
+    ],
+    "correct": 3,
+    "explanation": "Typickou protipřenosovou signaturou narcistického pacienta je pocit zbytnosti, únavné vyprázdněnosti a vyloučení z dění — terapeut je potřebný jako zrcadlo, nikoli jako samostatná mysl. Paranoidní organizace vyvolává spíš napětí a obezřetnost, hraniční prudké obraty a tlak k akci. Sám pocit „nejsem tu“ je proto diagnostickým údajem, nikoli známkou terapeutovy neschopnosti.",
+    "source": "Kernberg, Severe Personality Disorders (1984)",
+    "seedElo": 1950
+  },
+  {
+    "id": "pre-B04",
+    "type": "E",
+    "category": "prenos-technika",
+    "text": "Terapeutka chce u konkrétního afektu rozhodnout, zda jde o protipřenos vyvolaný pacientem, nebo o její vlastní materiál. Které vodítko má z hlediska diagnostické hodnoty největší váhu?",
+    "options": [
+      "Zda je afekt příjemný, protože vlastní materiál se hlásí spíš úzkostí než uvolněním a zájmem.",
+      "Zda je afekt pro ni v jiných vztazích i s jinými pacienty netypický a časově vázaný na tuto dyádu.",
+      "Zda afekt vymizí do konce sezení, neboť pacientem vyvolaný prožitek nepřežívá konec setkání.",
+      "Zda dokáže afekt pojmenovat slovy, jelikož vlastní materiál bývá zásadně nepojmenovatelný."
+    ],
+    "correct": 1,
+    "explanation": "Nejsilnějším rozlišovacím kritériem je kontrast se základní linií: prožitek, který terapeutka běžně nemívá, který se objevuje právě s tímto pacientem a mizí mimo tuto dyádu, ukazuje spíš na pole vytvářené pacientem. Naopak afekt, jenž se opakuje napříč pacienty i soukromým životem, patří terapeutce. Rozhodnutí není nikdy jisté — proto supervize a vlastní terapie fungují jako kalibrační nástroje.",
+    "source": "Gabbard, Long-Term Psychodynamic Psychotherapy (2017)",
+    "seedElo": 1880
+  },
+  {
+    "id": "pre-B05",
+    "type": "I",
+    "category": "prenos-technika",
+    "text": "Terapeut si uvědomí, že se na hodiny s jednou pacientkou těší jinak než na ostatní, upravuje si kvůli nim vzhled a v duchu si připravuje vtipy. Pacientka o ničem podobném nemluví. Jaké je z hlediska bezpečného zpracování erotického protipřenosu nejvhodnější první opatření?",
+    "options": [
+      "Vzít prožitek jako klinický údaj do supervize či vlastní terapie a zatím nezasahovat do rámce ani techniky.",
+      "Zvýšit odstup v chování, zkrátit sezení a omezit oční kontakt, dokud přitažlivost sama neodezní.",
+      "Otevřeně pacientce sdělit, co prožívá, aby se vyloučilo tajemství a obnovila se upřímnost vztahu.",
+      "Doporučit převedení k jinému terapeutovi, neboť erotický protipřenos vylučuje další nestrannou práci."
+    ],
+    "correct": 0,
+    "explanation": "Erotický protipřenos je běžný a sám o sobě není přestupkem; nebezpečné je jeho utajení a nezpracovanost. Prvním krokem je proto externí prostor k reflexi, kde lze rozlišit vlastní materiál od pole vytvářeného pacientkou. Sdělení pacientce zpravidla zatěžuje ji terapeutovou potřebou, tiché ochlazení rámce jí vzkazuje nesrozumitelné odmítnutí a předání je krajní řešení až při ztrátě schopnosti pracovat.",
+    "source": "Gabbard, Love and Hate in the Analytic Setting (1996)",
+    "seedElo": 2050
+  },
+  {
+    "id": "pre-B06",
+    "type": "V",
+    "category": "prenos-technika",
+    "text": "Žena (44) dochází dva roky přesně a spolehlivě, mluví přesně a bez emocí o snech a četbě. Terapeutka má opakovaně pocit, že sedí za neviditelným sklem a že jakékoli sblížení by bylo vetřením. Jak nejlépe rozumět tomuto protipřenosu u schizoidní organizace?",
+    "options": [
+      "Jako odporu, který je třeba prolomit zvýšenou aktivitou a přímými dotazy na city vůči terapeutce.",
+      "Jako známce chybějící motivace k léčbě, kterou je vhodné otevřít úvahou o smysluplnosti pokračování.",
+      "Jako rezonanci s pacientčiným dilematem blízkosti a pohlcení — vzdálenost je způsob, jak vztah udržet.",
+      "Jako projev terapeutčiny vlastní nedostupnosti, kterou pacientka pouze zrcadlí v obranném stažení."
+    ],
+    "correct": 2,
+    "explanation": "Schizoidní pacient touží po kontaktu a zároveň se ho bojí jako pohlcení; terapeut proto typicky prožívá zvláštní směs blízkosti a nepřekročitelné bariéry. Protipřenosový pocit „nesmím se přiblížit“ je rezonancí s tímto dilematem, ne důkazem nezájmu. Technicky z toho plyne trpělivé respektování odstupu, protože nátlak na intimitu potvrzuje pacientčinu obavu z vpádu.",
+    "source": "McWilliams, Psychoanalytic Diagnosis (2011)",
+    "seedElo": 2000
+  },
+  {
+    "id": "pre-B07",
+    "type": "V",
+    "category": "prenos-technika",
+    "text": "Muž (50) sleduje terapeutku pozorně, ptá se, kdo má přístup k jejím poznámkám, a všímá si drobných změn v místnosti. Terapeutka se přistihne, jak si předem promýšlí formulace a kontroluje, aby ji nešlo chytit za slovo. Co je z hlediska práce s paranoidním pacientem nejpřesnějším čtením této opatrnosti?",
+    "options": [
+      "Známka, že se terapeutka nechala vtáhnout do pacientovy patologie a měla by rámec uvolnit spontánností.",
+      "Signál pacientovy potřeby předvídatelnosti — přesnost je namístě, opatrnost však nesmí sklouznout k tajnůstkářství.",
+      "Důkaz, že pacient není vhodný pro dynamickou práci a měl by být převeden do podpůrného vedení.",
+      "Projev terapeutčina nezpracovaného strachu z autority, jenž s pacientovou organizací nesouvisí."
+    ],
+    "correct": 1,
+    "explanation": "Paranoidní pacient vyvolává v terapeutovi ostražitost a nutkání se pojistit; ta je částečně přiměřená, protože transparentnost a předvídatelnost jsou u této organizace léčebným faktorem. Riziko spočívá v tom, že se opatrnost promění v zastírání, které pacientovo podezření potvrdí. Vodítkem je proto klidná otevřenost o věcném rámci, nikoli jeho zrušení ani jeho utajení.",
+    "source": "McWilliams, Psychoanalytic Diagnosis (2011)",
+    "seedElo": 2100
+  },
+  {
+    "id": "pre-B08",
+    "type": "V",
+    "category": "prenos-technika",
+    "text": "Žena (36) líčí sérii nespravedlností, které snáší bez hněvu, odmítá každou úlevu a po dobrém sezení se zpravidla vrátí zhoršená. Terapeut cítí tlak jí konečně pomoci a zároveň narůstající podráždění. Co tato dvojice protipřenosových hnutí u masochistické organizace ukazuje?",
+    "options": [
+      "Že terapeut ztratil neutralitu a měl by intervence omezit na pouhé zrcadlení pacientčiných slov.",
+      "Že pacientka potřebuje důraznější konfrontaci se sekundárním ziskem, jinak se utrpení nezmění.",
+      "Že jde o depresivní epizodu, kde je podráždění terapeuta nespecifickou reakcí na beznaděj pacientky.",
+      "Že terapeut obsadil oba póly vnitřní dvojice — zachránce i trýznitele —, a právě to je materiál k pochopení."
+    ],
+    "correct": 3,
+    "explanation": "U masochistické organizace se pravidelně objevuje protipřenosová dvojice zachraňujícího a trestajícího objektu: čím naléhavější je nutkání pomoci, tím blíž je i podráždění nad odmítáním pomoci. Negativní terapeutická reakce po dobrém sezení je součástí téhož vzorce. Klinicky užitečné není žádné z hnutí uskutečnit, nýbrž je popsat jako scénu, kterou pacientka ve vztahu opakuje.",
+    "source": "Kernberg, Severe Personality Disorders (1984)",
+    "seedElo": 2050
+  },
+  {
+    "id": "pre-B09",
+    "type": "E",
+    "category": "prenos-technika",
+    "text": "Výzkum sebeodhalení terapeuta (Hill, Knox a další) rozlišuje odhalení faktů o životě terapeuta od odhalení bezprostředního prožitku ve vztahu. Co o jeho účinku z hlediska dostupných dat platí nejlépe?",
+    "options": [
+      "Je účinné tím víc, čím je obsáhlejší, protože rovnost ve sdílení posiluje pracovní alianci nejvíce.",
+      "Nemá prokazatelný účinek žádným směrem, a je proto věcí čistě osobního stylu jednotlivého terapeuta.",
+      "Bývá hodnoceno příznivě, je-li vzácné, krátké a vztažené k pacientovi, ne k potřebám terapeuta.",
+      "Je konzistentně škodlivé u všech diagnóz, protože vždy obrací pozornost od pacienta k terapeutovi."
+    ],
+    "correct": 2,
+    "explanation": "Data z kvalitativních i procesních studií naznačují, že pacienti hodnotí sebeodhalení příznivě, když je řídké, stručné, slouží jejich prožitku a nevyžaduje od nich péči o terapeuta. Nejspornější je odhalování osobních obsahů ze soukromí; naopak odhalení prožitku „tady a teď“ bývá blíž práci s přenosem. Frekvence a motiv rozhodují víc než samotný obsah.",
+    "source": "Hill & Knox, Psychotherapy Research (2001)",
+    "seedElo": 2100
+  },
+  {
+    "id": "pre-B10",
+    "type": "I",
+    "category": "prenos-technika",
+    "text": "Muž (29) s hraniční organizací opakovaně na konci sezení naznačí, že „to možná do příště nevydrží“, ale odmítá o plánu mluvit a hospitalizaci považuje za zradu. Co je z hlediska udržení léčitelného rámce nejvhodnějším postupem?",
+    "options": [
+      "Předem s ním dohodnout jasná pravidla pro krizi a rozsah odpovědnosti obou stran, ještě než krize propukne.",
+      "Nabídnout mu telefonickou dostupnost bez omezení, aby měl mezi sezeními jistotu a nemusel hrozit koncem.",
+      "Ponechat téma sebevraždy stranou jako projev odporu a soustředit se výhradně na jeho vztahové obtíže.",
+      "Ihned zahájit hospitalizaci, protože jakákoli zmínka o sebevraždě činí ambulantní práci neobhajitelnou."
+    ],
+    "correct": 0,
+    "explanation": "U chronické suicidality je nosným prvkem předem vyjednaný kontrakt: co terapeut zajišťuje, co zajišťuje pacient a za jakých podmínek se sahá k hospitalizaci. Bez toho se hrozba stane nástrojem přenosového vydírání a terapeut buď eskaluje ochranu, nebo ji vzdá. Neomezená dostupnost i mlčení k tématu jsou dvě podoby téhož selhání rámce; hospitalizace je pak intervencí, jejíž přenosový význam je nutné zpracovat.",
+    "source": "Yeomans, Clarkin & Kernberg, TFP: A Clinical Guide (2015)",
+    "seedElo": 2100
+  },
+  {
+    "id": "pre-B11",
+    "type": "V",
+    "category": "prenos-technika",
+    "text": "Pacient (41) v hodině vstane, přiblíží se k terapeutce a řekne, že ví, kde parkuje, a že „by se jí mohlo něco stát“. Terapeutka cítí strach. Co je z hlediska bezpečnosti i zachování terapeutické funkce nejméně vhodné?",
+    "options": [
+      "Pojmenovat, co se právě v místnosti děje, a trvat na tom, že takto pracovat nelze, dokud se situace neuklidní.",
+      "Ukončit sezení dřív a stanovit podmínky, za nichž je další setkání možné, včetně případného přizvání třetí osoby.",
+      "Zvážit svou reálnou bezpečnost a v případě potřeby využít zákonné výjimky z mlčenlivosti kvůli hrozbě.",
+      "Interpretovat výhrůžku jako přenosovou repetici otcovy agrese a pokračovat v sezení podle plánu."
+    ],
+    "correct": 3,
+    "explanation": "Interpretace přenosu předpokládá, že rámec drží; při reálné hrozbě je nutné nejprve obnovit bezpečnost, jinak se z interpretace stává popření skutečnosti a terapeutka pacientovi potvrzuje, že jeho agrese nemá důsledky. Pojmenování situace, ukončení sezení a stanovení podmínek jsou legitimní kroky. Přenosový význam epizody lze zpracovat později, ale až z pozice, která je fyzicky udržitelná.",
+    "source": "Gabbard, Psychodynamic Psychiatry in Clinical Practice (2014)",
+    "seedElo": 2000
+  },
+  {
+    "id": "pre-B12",
+    "type": "I",
+    "category": "prenos-technika",
+    "text": "Terapeut musí kvůli operaci zrušit šest týdnů sezení. Jeden z pacientů se ho na příčinu opakovaně ptá. Co je z hlediska vyváženého ošetření rámce nejvhodnější?",
+    "options": [
+      "Sdělit úplnou diagnózu i prognózu, aby pacient nemusel spekulovat a mohl s realitou volně pracovat.",
+      "Oznámit s předstihem délku přerušení a věcný důvod v nejmenším nutném rozsahu a pak pracovat s reakcemi.",
+      "Neuvádět důvod vůbec a každý dotaz převádět zpět na fantazie, jež si pacient o nepřítomnosti vytváří.",
+      "Předat pacienta na dobu nepřítomnosti kolegovi a otázku po příčině přenechat k projednání jemu."
+    ],
+    "correct": 1,
+    "explanation": "Nepřítomnost z důvodu nemoci je reálnou událostí, kterou nelze převést výhradně na fantazii; pacient má právo na minimum věcné informace potřebné k orientaci, tedy na délku a rámcový důvod. Úplné odhalení zdravotního stavu ho zatěžuje péčí o terapeuta, úplné mlčení zase popírá zjevnou skutečnost. Hlavní prací pak je zpracovat, co přerušení v přenosu znamená — od úlevy po strach ze ztráty.",
+    "source": "Gabbard, Long-Term Psychodynamic Psychotherapy (2017)",
+    "seedElo": 2050
+  },
+  {
+    "id": "pre-B13",
+    "type": "V",
+    "category": "prenos-technika",
+    "text": "Terapeutka je ve čtvrtém měsíci těhotenství a změna je patrná. Pacientka (33), která má za sebou opakované potraty, o tom nic neříká a mluví o práci. Co je z hlediska práce s viditelnou realitou terapeutky nejvhodnější?",
+    "options": [
+      "Vyčkat, dokud téma neotevře pacientka sama, protože jinak by šlo o vnucení terapeutčiny osobní situace.",
+      "Skutečnost v přiměřené chvíli pojmenovat a otevřít prostor pro to, co v pacientce vyvolává.",
+      "Podat pacientce úplné informace o termínu porodu a plánech na návrat hned na začátku následujícího sezení.",
+      "Téma zmínit až v posledním měsíci před odchodem, aby léčba nebyla po celý zbytek roku touto věcí zastíněna."
+    ],
+    "correct": 1,
+    "explanation": "Viditelné těhotenství je nepřehlédnutelná realita, kterou pacient vnímá, i když o ní mlčí; ponechat ji nepojmenovanou znamená učinit z ní tabu a nechat pacientku samotnou s fantaziemi a závistí či vinou. Vhodné je téma otevřít včas, střídmě a s důrazem na pacientčin prožitek, nikoli na terapeutčiny plány. Praktické informace o přerušení se sdělují s dostatečným předstihem, ale nejsou jádrem práce.",
+    "source": "Etchegoyen, in Raphael-Leff (ed.), Pregnancy: The Inside Story (1993)",
+    "seedElo": 2200
+  },
+  {
+    "id": "pre-B14",
+    "type": "I",
+    "category": "prenos-technika",
+    "text": "Terapeut si při sezení uvědomí, že minule zaměnil dvě pacientovy vzpomínky a postavil na tom celou interpretaci, kterou pacient tehdy přijal. Co je z hlediska reparace chyby nejvhodnější?",
+    "options": [
+      "Chybu nechat být, jelikož pacient interpretaci přijal a její zpětné rušení by podkopalo jeho důvěru v proces.",
+      "Chybu obšírně vysvětlit včetně toho, co ji u terapeuta zavinilo, aby pacient viděl jeho poctivost.",
+      "Omyl přiznat věcně a bez omluvných výlevů a pak se ptát, co pro pacienta znamená terapeutův omyl.",
+      "Chybu použít jako důkaz, že pacient přijímá cokoli, a interpretovat to jako jeho poddajnost vůči autoritě."
+    ],
+    "correct": 2,
+    "explanation": "Chybu je třeba uznat, protože její popření pacienta učí nedůvěřovat vlastnímu vnímání; zároveň nadměrná omluva obrací roli a nutí pacienta terapeuta konejšit. Nosnou částí je otázka po významu: pro jednoho je omyl úlevou z ideálu, pro jiného zhroucením ochrany. Až po tomto zpracování má smysl pacientovu tehdejší poddajnost vůbec zmiňovat.",
+    "source": "Safran & Muran, Negotiating the Therapeutic Alliance (2000)",
+    "seedElo": 2200
+  },
+  {
+    "id": "pre-B15",
+    "type": "V",
+    "category": "prenos-technika",
+    "text": "Pacientka (27) po sezení, v němž se poprvé rozplakala, přestane chodit a na dvě zprávy neodpoví. Terapeut cítí směs viny a úlevy. Co je z hlediska profesní odpovědnosti i respektu k jejímu rozhodnutí nejvhodnější?",
+    "options": [
+      "Jednou písemně nabídnout prostor k rozloučení a informaci o dostupnosti a dál kontakt neiniciovat.",
+      "Opakovaně ji kontaktovat, dokud se neozve, protože přerušení po prolomení obrany je klinicky rizikové.",
+      "Nekontaktovat ji vůbec, jelikož mlčení je jednoznačným projevem vůle, který nelze nijak zpochybnit.",
+      "Obrátit se na osobu, kterou uvedla jako kontaktní, a požádat ji o zprostředkování dalšího setkání."
+    ],
+    "correct": 0,
+    "explanation": "Odchod bez rozloučení je nejčastěji útěkem před studem z obnažení, nikoli chladnou volbou; jedna zdrženlivá nabídka rozloučení a informace o možnosti návratu je proto přiměřená péče. Opakované naléhání ji však staví do role pronásledované a potvrzuje, že blízkost znamená ztrátu kontroly. Kontaktovat třetí osobu je bez souhlasu a bez akutního rizika porušením mlčenlivosti.",
+    "source": "Gabbard, Long-Term Psychodynamic Psychotherapy (2017)",
+    "seedElo": 2150
+  },
+  {
+    "id": "pre-B16",
+    "type": "E",
+    "category": "prenos-technika",
+    "text": "Pacient dva roky po řádném ukončení navrhne terapeutce přátelský vztah. Které stanovisko nejlépe vystihuje etickou logiku postterminačního kontaktu v psychodynamickém rámci?",
+    "options": [
+      "Po uplynutí dvou let jsou závazky ze vztahu vyčerpány a další podoba kontaktu je běžnou soukromou věcí.",
+      "Kontakt je přijatelný, pokud se na něm obě strany shodnou a pokud se dojednané podmínky zapíší písemně.",
+      "Kontakt je nepřípustný jen tehdy, jde-li o vztah sexuální; nesexuální přátelství žádné omezení nepodléhá.",
+      "Přenos ukončením nemizí, a proto je postterminační kontakt riskantní: uzavírá cestu zpět."
+    ],
+    "correct": 3,
+    "explanation": "Asymetrie a přenosový náboj vztahu ukončením nekončí; přátelství s bývalým terapeutem proto pacientovi zpravidla znemožňuje se k němu vrátit jako k terapeutovi a může zpětně přepsat význam celé léčby. Časové hranice v etických kodexech (mnohde absolutní zákaz sexuálního vztahu) jsou minimem, nikoli měřítkem klinické moudrosti. Návrh je sám o sobě materiálem, který stojí za pochopení, ne jen za odmítnutí.",
+    "source": "Gabbard & Lester, Boundaries and Boundary Violations (1995)",
+    "seedElo": 2200
+  },
+  {
+    "id": "pre-B17",
+    "type": "I",
+    "category": "prenos-technika",
+    "text": "Pacient chce přejít na videohovory a připojuje se z auta cestou z práce, s kamerou nakloněnou a se zvukem provozu. Co je z hlediska udržení rámce v online práci nejvhodnějším krokem?",
+    "options": [
+      "Přijmout uspořádání jako součást pacientova života a pracovat pouze s obsahem, který v hodinách přináší.",
+      "Trvat na návratu k prezenční formě, protože online práce zásadní podmínky psychodynamické léčby nesplňuje.",
+      "Vyjednat podmínky připojení — soukromí, klid, stabilní místo — a obcházení brát jako materiál.",
+      "Sezení zkrátit na polovinu a snížit honorář, aby cena odpovídala nižší kvalitě takto vedeného setkání."
+    ],
+    "correct": 2,
+    "explanation": "Online formát nezruší potřebu rámce, jen ji přesouvá do podmínek, které dosud zajišťovala ordinace: soukromí, nerušenost a stálé místo. Ty je proto třeba výslovně dojednat jako součást kontraktu. Jejich opakované obcházení pak není technickou drobností, ale sdělením o vztahu — nejčastěji o potřebě uniknout intimitě setkání.",
+    "source": "Lemma, The Digital Age on the Couch (2017)",
+    "seedElo": 2150
+  },
+  {
+    "id": "pre-B18",
+    "type": "V",
+    "category": "prenos-technika",
+    "text": "Terapeutka si po půl roce videohovorů všimne, že u jedné pacientky sleduje častěji svůj vlastní obraz na obrazovce a hůř rozpozná, co v sezení cítí. Jak tomuto jevu z hlediska protipřenosové práce v online formátu nejlépe rozumět?",
+    "options": [
+      "Jako úskalí média, které tříští pozornost a oslabuje tělesnou stopu, z níž se protipřenos čte.",
+      "Jako spolehlivé známce nastupujícího vyhoření, jež si žádá okamžité snížení počtu pacientů v týdnu.",
+      "Jako projevu pacientčiny projektivní identifikace, který nemá s technickými podmínkami žádnou souvislost.",
+      "Jako bezvýznamnému zvyku, protože pohled na vlastní obraz je běžný a klinicky nic nevypovídá."
+    ],
+    "correct": 0,
+    "explanation": "Obrazovka mění podmínky, za nichž protipřenos vzniká i je rozpoznáván: chybí sdílený prostor a periferní tělesné signály, přibývá sebepozorování skrze vlastní náhled. Terapeut proto snadněji ztrácí přístup ke svým tělesným vodítkům a snadněji se přesouvá do sebekontroly. Praktickým opatřením je vlastní obraz skrýt a tělesnou pozornost obnovovat záměrně; teprve pak lze uvažovat o podílu pacientky.",
+    "source": "Lemma, The Digital Age on the Couch (2017)",
+    "seedElo": 2250
+  },
+  {
+    "id": "pre-B19",
+    "type": "V",
+    "category": "prenos-technika",
+    "text": "Zkušený terapeut se přistihne, že v posledních měsících dává víc rad, dřív uzavírá témata a mlčení mu je nepříjemné. Klienti si nestěžují. Který výklad je z hlediska rozpoznání vyhoření v technice nejpřesnější?",
+    "options": [
+      "Jde o přirozené zrání stylu, v němž zkušenost umožňuje rychlejší a hospodárnější vedení hodiny.",
+      "Jde o posun k aktivitě, jenž šetří kapacitu snášet nejistotu — tedy o známku vyčerpání.",
+      "Jde o nespecifický jev bez klinického významu, dokud si někdo z klientů výslovně nestěžuje na vedení.",
+      "Jde o důsledek proměny klientely, která je v posledních letech obecně méně schopná snášet ticho v hodině."
+    ],
+    "correct": 1,
+    "explanation": "Vyhoření se v technice projeví dřív než v prožitku: roste direktivita, zkracuje se tolerance k nejistotě a mlčení, ubývá zvědavosti. Mechanismem je úspora emoční kapacity — rada je levnější než setrvání v nevědění. Absence stížností není vyvrácením, protože aktivnější vedení bývá klienty zpočátku hodnoceno příznivě.",
+    "source": "Maslach & Leiter; Norcross & VandenBos, Leaving It at the Office (2018)",
+    "seedElo": 2150
+  },
+  {
+    "id": "pre-B20",
+    "type": "E",
+    "category": "prenos-technika",
+    "text": "Supervizor si všimne, že supervidovaná se s jedním pacientem opakovaně dostává do bezmoci a téma zjevně souvisí s jejím vlastním rodinným materiálem. Kde vede z hlediska rozdílu mezi supervizí a terapií terapeuta správná hranice?",
+    "options": [
+      "Supervizor by měl osobní materiál rozpracovat přímo v supervizi, protože jinak zůstane pacient bez pomoci.",
+      "Supervizor by měl téma zcela pominout, jelikož osobní obsahy do supervizního vztahu vůbec nepatří.",
+      "Supervizor by měl supervizi ukončit a doporučit, aby se dvojice k práci vrátila až po skončení její terapie.",
+      "Supervizor by měl osobní podíl pojmenovat jen v rozsahu nutném pro práci a zbytek ponechat terapii."
+    ],
+    "correct": 3,
+    "explanation": "Supervize je odpovědná za pacienta a za práci s ním, nikoli za osobní proměnu supervidovaného; zároveň nemůže osobní podíl ignorovat, když blokuje léčbu. Hranicí je proto rozsah: pojmenovat, jak se materiál projevuje v práci, a jeho zdroj přenechat vlastní terapii. Překročení této hranice mění supervizi v dvojí vztah, v němž je hodnocený zároveň léčeným.",
+    "source": "Sarnat, Supervision Essentials for Psychodynamic Psychotherapies (2016)",
+    "seedElo": 2200
+  },
+  {
+    "id": "pre-B21",
+    "type": "V",
+    "category": "prenos-technika",
+    "text": "Pacient (34) v hodině řekne, že se terapeut minule „vůbec netrefil“ a že se cítil sám. Terapeut si uvědomí, že skutečně mluvil vedle. Jak s takovým empatickým selháním nakládá Kohutův model?",
+    "options": [
+      "Selhání je třeba předcházet co nejpřesnějším laděním; když nastane, jde o nezdařenou hodinu bez dalšího užitku.",
+      "Selhání se má co nejrychleji vyvážit zvýšenou vřelostí a mimořádnou vstřícností v následujících sezeních.",
+      "Selhání je znakem nedostatečné analytické kompetence a jeho opakování je důvodem k předání pacienta jinam.",
+      "Selhání je nevyhnutelné a jeho přiznání a pochopení pacientovy reakce je vlastním motorem budování struktury."
+    ],
+    "correct": 3,
+    "explanation": "Kohut považuje drobná, nezáměrná selhání empatie za nevyhnutelnou součást práce; léčebný účinek nemá jejich absence, nýbrž jejich zpracování. Pacient je uznán ve své zkušenosti opuštění a v malých dávkách zvládnutelné frustrace se buduje vnitřní struktura (transmutující internalizace). Kompenzační vřelost i sebeobviňování naopak proces obcházejí, protože pacientův prožitek nechají nezpracovaný.",
+    "source": "Kohut, The Restoration of the Self (1977)",
+    "seedElo": 2250
+  },
+  {
+    "id": "pre-B22",
+    "type": "I",
+    "category": "prenos-technika",
+    "text": "Pacientka (31) sdělí, že její partner občas fyzicky trestá její osmileté dítě, a výslovně žádá, aby to zůstalo mezi nimi. Co je z hlediska limitů mlčenlivosti nejvhodnějším postupem?",
+    "options": [
+      "Slíbit mlčení, aby se neztratila důvěra, a téma průběžně otevírat, dokud pacientka nezmění postoj sama.",
+      "Vysvětlit, že mlčenlivost má zákonné meze tam, kde je ohroženo dítě, a hledat postup pokud možno s ní.",
+      "Podat oznámení okamžitě a bez vědomí pacientky, jelikož jakákoli zmínka by mohla ohrozit průběh šetření.",
+      "Předat případ do péče kolegy, který se věnuje dětem, a další práci s pacientkou zatím pozastavit."
+    ],
+    "correct": 1,
+    "explanation": "Mlčenlivost není absolutní: ohrožení dítěte patří mezi její zákonné meze a slib mlčení, který nelze dodržet, poškozuje vztah víc než jeho odmítnutí. Klinicky i eticky nejlepší je limity srozumitelně vysvětlit a postup pokud možno učinit společně, aby pacientka zůstala v roli aktéra. Utajené jednání za jejími zády je krajní možností, kterou ospravedlní jen bezprostřední riziko.",
+    "source": "Bollas & Sundelson, The New Informants (1995); ČPtS etický kodex",
+    "seedElo": 2150
+  },
+  {
+    "id": "pre-B23",
+    "type": "V",
+    "category": "prenos-technika",
+    "text": "V šestitisícovém městě terapeut zjistí, že nový klient je otcem spolužáka jeho syna a že se budou potkávat na školních akcích. Co je z hlediska zvládnutí nevyhnutelného mimoterapeutického kontaktu nejvhodnější?",
+    "options": [
+      "Zakázku odmítnout, protože jakýkoli mimoterapeutický kontakt činí psychodynamickou práci neproveditelnou.",
+      "Zakázku přijmout a případná setkání ignorovat, aby se do léčby nevnášely zbytečné organizační ohledy.",
+      "Předem dojednat, jak se při setkání zachovají a co je sdělitelné, a vracet se k tomu podle potřeby.",
+      "Zakázku přijmout pod podmínkou, že se klient po dobu léčby školním akcím a setkáním cíleně vyhne."
+    ],
+    "correct": 2,
+    "explanation": "V malých komunitách je náhodný kontakt nevyhnutelný a jeho popření je fikcí, kterou pacient prohlédne. Standardem je předem vyjednaný postup — kdo koho zdraví, co se nezmiňuje, jak se o setkání mluví v hodině — a průběžná práce s tím, co setkání vyvolala. Odmítnutí zakázky má smysl až tam, kde je překryv rolí tak těsný, že by ohrozil důvěrnost či nestrannost.",
+    "source": "Gabbard & Lester, Boundaries and Boundary Violations (1995)",
+    "seedElo": 2200
+  },
+  {
+    "id": "pre-B24",
+    "type": "V",
+    "category": "prenos-technika",
+    "text": "Kolegyně z téhož ambulantního pracoviště, s níž se terapeut potkává na poradách a supervizních skupinách, ho požádá o individuální terapii s odůvodněním, že mu jako jedinému důvěřuje. Co je z hlediska profesní etiky nejpřiléhavější?",
+    "options": [
+      "Nabídku odmítnout a pomoci jí najít terapeuta mimo pracoviště, kde souběh rolí nehrozí.",
+      "Nabídku přijmout, pokud se oba zavážou, že o terapii na pracovišti nikdy nepadne ani zmínka.",
+      "Nabídku přijmout a informovat vedoucího pracoviště, aby byl souběh rolí transparentní a podchycený.",
+      "Nabídku přijmout na zkušební období tří měsíců a poté společně vyhodnotit, zda souběh rolí vadí."
+    ],
+    "correct": 0,
+    "explanation": "Souběh terapeutického vztahu s pracovní a supervizní rolí vytváří dvojí vztah, jehož důsledky nelze dohodou odstranit: terapeut se dozvídá informace, které ovlivní jeho úsudek v pracovních věcech, a pacientka nemůže volně mluvit o kolezích, kteří jsou zároveň jeho kolegy. Slib mlčení tuto strukturu nemění, informování nadřízeného ji jen zveřejní. Namístě je předání mimo instituci.",
+    "source": "Gabbard & Lester, Boundaries and Boundary Violations (1995)",
+    "seedElo": 2300
+  },
+  {
+    "id": "pre-B25",
+    "type": "E",
+    "category": "prenos-technika",
+    "text": "Gabbard popisuje typický sled kroků, jímž se z drobných odchylek vyvine závažné porušení hranic. Co je na tomto „kluzkém svahu“ z hlediska prevence rozhodujícím zlomem?",
+    "options": [
+      "Okamžik, kdy terapeut poprvé překročí obvyklou délku sezení a nezaznamená to do své dokumentace.",
+      "Okamžik, kdy vztah přestane být předmětem sdílení a terapeut si o něm přestane mluvit v supervizi.",
+      "Okamžik, kdy pacient poprvé sám navrhne setkání mimo ordinaci, čímž se iniciativa přenese na jeho stranu.",
+      "Okamžik, kdy terapeut zjistí, že mu je pacient sympatický víc než ostatní lidé v jeho pracovním týdnu."
+    ],
+    "correct": 1,
+    "explanation": "Klíčovým prediktorem není konkrétní odchylka — ta bývá zpočátku nevinná (delší hodina, osobní sdělení, káva) —, nýbrž utajení: v okamžiku, kdy terapeut o vztahu přestane mluvit se supervizorem či kolegy, ztrácí korektivní zpětnou vazbu a svah se stává neřízeným. Sympatie ani pacientova iniciativa samy o sobě rizikem nejsou. Prevence proto stojí na trvalé viditelnosti vlastní práce.",
+    "source": "Gabbard, Am J Psychiatry (1994); Gabbard & Lester (1995)",
+    "seedElo": 2350
+  },
+  {
+    "id": "pre-B26",
+    "type": "I",
+    "category": "prenos-technika",
+    "text": "Pacientka (58) v hlubokém truchlení po smrti manžela na konci sezení pláče a natáhne ruce k terapeutovi s prosbou o objetí. Co je z hlediska zacházení s dotykem v psychodynamickém rámci nejvhodnější?",
+    "options": [
+      "Objetí poskytnout, protože v akutním zármutku má reparativní dotyk přednost před abstraktními pravidly rámce.",
+      "Objetí odmítnout stručným poukazem na pravidla a hned přejít k organizačnímu ukončení hodiny.",
+      "Objetí neposkytnout, gesto laskavě pojmenovat a nechat prostor pro to, co potřeba dotyku znamená.",
+      "Objetí odložit na příští hodinu a mezitím s pacientkou písemně dojednat podmínky fyzického kontaktu."
+    ],
+    "correct": 2,
+    "explanation": "Dotyk mezi terapeutem a pacientem není absolutním tabu, ale jeho poskytnutí v přenosově nabité chvíli zpravidla uzavře to, co má být pochopeno — touhu po objektu, který se nevrátí. Nejnosnější je vlídné neuskutečnění spojené s uznáním potřeby a s otevřením jejího významu. Chladné odmítnutí bez pojmenování naopak pacientku zanechá se studem, který zůstane mimo práci.",
+    "source": "Gabbard & Lester, Boundaries and Boundary Violations (1995)",
+    "seedElo": 2300
+  },
+  {
+    "id": "pre-B27",
+    "type": "V",
+    "category": "prenos-technika",
+    "text": "Terapeutka po sezení, v němž pacient mluvil nejasně o svém podnikání, zadá jeho jméno do vyhledávače a projde jeho veřejný profil. Nikomu to neřekne. Co je z hlediska profesní etiky na tomto kroku problematické především?",
+    "options": [
+      "Získání informací mimo vztah bez pacientova vědomí, jež vytváří asymetrii a tiché vědění na jeho účet.",
+      "Skutečnost, že se jedná o zpracování osobních údajů, které je bez písemného souhlasu vždy protiprávní.",
+      "Nespolehlivost internetových zdrojů, kvůli níž si terapeutka může utvořit zkreslený obraz o pacientovi.",
+      "Ztráta času věnovaného pacientovi mimo hodinu, který není honorován a narušuje terapeutčiny hranice."
+    ],
+    "correct": 0,
+    "explanation": "Jádrem problému není nespolehlivost zdroje ani formální právní hledisko, nýbrž tajné vědění: terapeutka získává informace mimo dohodnutý prostor, aniž je pacient mohl sdělit sám, a musí je pak buď skrývat, nebo dodatečně přiznávat. To mění rovnováhu vztahu i to, co je v hodině myslitelné. Vyhledávání může být výjimečně namístě (například při akutním riziku), ale s explicitním důvodem a zpravidla s pacientovým vědomím.",
+    "source": "Lemma, The Digital Age on the Couch (2017)",
+    "seedElo": 2300
+  },
+  {
+    "id": "pre-B28",
+    "type": "I",
+    "category": "prenos-technika",
+    "text": "Terapeut se stěhuje do jiného města a musí ukončit léčbu pacientky (30) s hraniční organizací po roce práce, tedy uprostřed procesu. Co je z hlediska minimalizace újmy a zpracování přenosu nejvhodnější?",
+    "options": [
+      "Sdělit rozhodnutí co nejpozději, aby se zbytečně nezkrátila doba, po kterou lze ještě plnohodnotně pracovat.",
+      "Nabídnout pokračování ve videohovorech a otázku skutečného konce tím pro obě strany zcela obejít.",
+      "Oznámit konec, předat kontakty na kolegy a pacientčin hněv převádět na její obecné téma opuštěnosti.",
+      "Oznámit rozhodnutí s velkým předstihem, unést hněv jako reálný i přenosový a zajistit návaznost."
+    ],
+    "correct": 3,
+    "explanation": "Ukončení z vůle terapeuta je pro hraniční pacientku opakováním opuštění a její hněv je zčásti zcela oprávněný; převádět ho výhradně na minulost je obranné a potvrzuje, že realita se nesmí pojmenovat. Nosným postupem je dostatečný předstih (typicky měsíce), unesení afektu bez obhajoby i bez sebeobviňování a konkrétní zajištění návaznosti. Pozdní sdělení i únik do videohovorů odkládají práci, kterou právě konec umožňuje.",
+    "source": "Yeomans, Clarkin & Kernberg, TFP: A Clinical Guide (2015)",
+    "seedElo": 2350
+  }
+]
