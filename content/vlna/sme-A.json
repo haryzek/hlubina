@@ -1,0 +1,450 @@
+[
+  {
+    "id": "sme-A01",
+    "type": "K",
+    "category": "smery-mosty",
+    "text": "V protokolu šesti F (Find, Focus, Flesh out, Feel toward, beFriend, Fears) slouží jeden krok jako hlavní test toho, zda klient přistupuje k části ze Self, nebo je smíšený s jinou částí. Který to je?",
+    "options": [
+      "Feel toward — jak se klient k dané části právě cítí",
+      "Focus — udržení pozornosti u jedné vybrané části",
+      "Flesh out — dokreslení podoby a projevů té části",
+      "Fears — zjišťování obav části z její vlastní změny"
+    ],
+    "correct": 0,
+    "explanation": "Odpověď na otázku „jak se k té části cítíš?“ je lakmusovým papírkem: cokoli jiného než zvědavost, soucit nebo klid znamená, že mluví další část, a ta se nejdřív žádá o krok stranou. Teprve pak má smysl část poznávat a získávat její důvěru.",
+    "source": "Richard C. Schwartz & Martha Sweezy, Internal Family Systems Therapy, 2. vyd., 2020",
+    "seedElo": 2150
+  },
+  {
+    "id": "sme-A02",
+    "type": "K",
+    "category": "smery-mosty",
+    "text": "Kdy IFS sahá po takzvaném direct access místo běžné práce „in-sight“?",
+    "options": [
+      "Když klient vidí část příliš živě a hrozí zahlcení obrazem",
+      "Když má klient více částí najednou a je třeba je seřadit",
+      "Když je klient s částí natolik smíšený, že ji nevidí zevnitř",
+      "Když část odmítá odevzdat své břemeno a je nutné zrychlit postup"
+    ],
+    "correct": 2,
+    "explanation": "Při in-sight klient část vnímá vnitřně a mluví s ní sám. Direct access znamená, že terapeut oslovuje část přímo — buď otevřeně („můžu mluvit s tou částí?“), nebo implicitně, bez pojmenování. Používá se u silného blendingu, u dětí a u klientů, kteří nevizualizují; cílem zůstává vrátit vedení Self.",
+    "source": "Frank Anderson, Martha Sweezy & Richard Schwartz, Internal Family Systems Skills Training Manual, 2017",
+    "seedElo": 2150
+  },
+  {
+    "id": "sme-A03",
+    "type": "K",
+    "category": "smery-mosty",
+    "text": "Čím se v IFS liší legacy burden (zděděné břemeno) od břemene osobního?",
+    "options": [
+      "Váže se vždy k jediné traumatické vzpomínce z raného dětství",
+      "Nepochází z klientova zážitku, ale je převzato z rodiny či kultury",
+      "Objevuje se až po odbřemenění všech ostatních částí systému",
+      "Projevuje se jen tělesným symptomem, nikdy přesvědčením o sobě samém"
+    ],
+    "correct": 1,
+    "explanation": "Zděděná břemena se přenášejí mezigeneračně nebo kolektivně — chudoba, válka, rasismus, rodinná hanba — a klient je nese, aniž by odpovídající událost sám zažil. Rituál odevzdání je podobný, jen se výslovně vrací tam, odkud břemeno přišlo, a ptá se, komu vlastně patřilo.",
+    "source": "Richard C. Schwartz & Martha Sweezy, Internal Family Systems Therapy, 2. vyd., 2020",
+    "seedElo": 2200
+  },
+  {
+    "id": "sme-A04",
+    "type": "K",
+    "category": "smery-mosty",
+    "text": "Terapeut narazí na polarizaci dvou ochranných částí — přísné disciplíny a útěku do pohodlí. Jak s ní IFS pracuje?",
+    "options": [
+      "Nejprve odbřemení silnější pól, slabší pak poleví sám",
+      "Přeznačí obě části jako jedinou část se dvěma tvářemi",
+      "Odloží obě části a jde rovnou k exulantovi, který je za nimi",
+      "Získá svolení obou pólů a moderuje jejich jednání ze Self"
+    ],
+    "correct": 3,
+    "explanation": "Polarizace se udržuje vzájemně: každý pól zesiluje, protože se bojí, co by druhý provedl, kdyby povolil. Posílení jedné strany proto eskaluje druhou. Terapeut si vyžádá souhlas obou, nechá je vidět se navzájem v přítomnosti Self a teprve pak vyjednává o přístupu ke společně střeženému exulantovi.",
+    "source": "Richard C. Schwartz & Martha Sweezy, Internal Family Systems Therapy, 2. vyd., 2020",
+    "seedElo": 2200
+  },
+  {
+    "id": "sme-A05",
+    "type": "K",
+    "category": "smery-mosty",
+    "text": "Jaká je nejčastější odborná výhrada vůči rituálu odevzdání břemene (unburdening) živlům?",
+    "options": [
+      "Vyžaduje hypnotickou indukci, kterou většina terapeutů neovládá",
+      "Je použitelný jen u klientů s výcvikem v meditaci všímavosti",
+      "Slibuje jednorázové odložení toho, co jinde vyžaduje prorábění",
+      "Nelze jej opakovat, takže jeho selhání ukončuje celou terapii"
+    ],
+    "correct": 2,
+    "explanation": "Kritici, zvláště z psychodynamické strany, upozorňují, že sugestivně rámovaný ceremoniál může navodit pocit hotovosti bez opakovaného zpracovávání, a že sugestibilnímu klientovi hrozí i zkreslení vzpomínek. Obhájci namítají, že rituál je vyvrcholením dlouhé práce s ochránci a že model počítá s kontrolami, zda se břemeno nevrátilo.",
+    "source": "Martha Sweezy & Ellen Ziskind (eds.), Innovations and Elaborations in Internal Family Systems Therapy, 2017",
+    "seedElo": 2350
+  },
+  {
+    "id": "sme-A06",
+    "type": "K",
+    "category": "smery-mosty",
+    "text": "Co je v IFS hlavní podmínkou, bez níž terapeut nemá jít k exulantovi?",
+    "options": [
+      "Svolení ochranných částí, které k němu přístup střeží",
+      "Vymizení flashbacků a nočních můr alespoň na měsíc",
+      "Přesná rekonstrukce původní traumatické události",
+      "Souhlas partnera nebo rodiny s hlubší fází terapie"
+    ],
+    "correct": 0,
+    "explanation": "Fázovost je v IFS vestavěná, ne přidaná zvenčí: ochránci mají právo veta a nejprve dostávají odpověď na to, čeho se bojí, kdyby ustoupili. Přeskočení tohoto kroku vede k zahlcení a k backlashi, tedy k eskalaci symptomů, jimiž ochránci systém znovu zavírají.",
+    "source": "Frank Anderson, Transcending Trauma, 2021",
+    "seedElo": 2250
+  },
+  {
+    "id": "sme-A07",
+    "type": "F",
+    "category": "smery-mosty",
+    "text": "Jak vypadá k dnešku empirická evidence pro účinnost IFS?",
+    "options": [
+      "Několik velkých RCT u PTSD s efekty na úrovni EMDR a expozice",
+      "Metaanalýza desítek randomizovaných studií u úzkosti",
+      "Žádná publikovaná studie účinnosti, jen kazuistické série",
+      "Jedno RCT u revmatoidní artritidy a otevřené pilotní studie"
+    ],
+    "correct": 3,
+    "explanation": "Randomizovaná studie Shadicka a kol. (2013) u revmatoidní artritidy ukázala zlepšení v sebeposuzovaných ukazatelích bolesti a deprese, nikoli v objektivních markerech zánětu. U PTSD po dětském traumatu existuje nerandomizovaná pilotní studie Hodgdonové a kol. (2021). IFS je tedy slibná, ale doložená podstatně slaběji než KBT, EMDR či schematerapie.",
+    "source": "Shadick et al., Journal of Rheumatology, 2013; Hodgdon et al., Journal of Aggression, Maltreatment & Trauma, 2021",
+    "seedElo": 2300
+  },
+  {
+    "id": "sme-A08",
+    "type": "K",
+    "category": "smery-mosty",
+    "text": "V čem spočívá spor o takzvaný ontologický status částí v IFS?",
+    "options": [
+      "Zda části vznikají v prvním roce života, nebo až s řečí",
+      "Zda jsou části skutečné vnitřní bytosti, nebo užitečná metafora",
+      "Zda lze existenci částí prokázat pomocí funkční magnetické rezonance",
+      "Zda části patří do vědomí, nebo výhradně do nevědomé sféry"
+    ],
+    "correct": 1,
+    "explanation": "Schwartz trvá na tom, že části jsou autonomní vnitřní osobnosti, ne jen figury řeči. Kritici v tom vidí reifikaci: užitečná fikce se prohlašuje za entitu a hrozí iatrogenní množení „vnitřních osob“. Klinicky přitom obě čtení vedou k téže práci, spor je tedy hlavně teoretický a etický.",
+    "source": "Richard C. Schwartz, No Bad Parts, 2021",
+    "seedElo": 2350
+  },
+  {
+    "id": "sme-A09",
+    "type": "K",
+    "category": "smery-mosty",
+    "text": "Co nejvíce odlišuje IFS od egostavové terapie manželů Watkinsových?",
+    "options": [
+      "IFS předpokládá nezraněné Self jako vrozené jádro systému",
+      "Egostavová terapie vůbec nepracuje s vnitřními dialogy",
+      "IFS zásadně odmítá jakoukoli práci s ranými dětskými vzpomínkami",
+      "Egostavová terapie vznikla až jako pozdější odnož IFS"
+    ],
+    "correct": 0,
+    "explanation": "Watkinsovi vycházejí z hypnózy a Federnovy ego-psychologie: egostavy jsou výsledkem normální diferenciace, introjekce a traumatu a oddělují je propustné hranice. IFS k podobnému obrazu mnohosti přidává postulát Self, které není další částí, nemusí být budováno ani posilováno, jen zpřístupněno tím, že části ustoupí.",
+    "source": "John G. Watkins & Helen H. Watkins, Ego States: Theory and Therapy, 1997",
+    "seedElo": 2200
+  },
+  {
+    "id": "sme-A10",
+    "type": "K",
+    "category": "smery-mosty",
+    "text": "V čem se IFS nejostřeji rozchází s teorií strukturální disociace osobnosti?",
+    "options": [
+      "V otázce, zda má vůbec smysl pracovat s traumatickými vzpomínkami",
+      "V názoru na užitečnost fázového modelu léčby traumatu",
+      "V tom, zda smí terapeut oslovovat jednotlivé části jménem",
+      "V tom, zda je mnohost mysli normou, nebo následkem traumatu"
+    ],
+    "correct": 3,
+    "explanation": "Van der Hart, Nijenhuis a Steele chápou rozdělení na zdánlivě normální a emoční část osobnosti jako důsledek selhané integrace pod tíhou traumatu; cílem léčby je integrace. IFS považuje mnohost za přirozený stav zdravé mysli — patologické nejsou části, ale role a břemena, do nichž byly vtlačeny.",
+    "source": "Onno van der Hart, Ellert Nijenhuis & Kathy Steele, The Haunted Self, 2006",
+    "seedElo": 2300
+  },
+  {
+    "id": "sme-A11",
+    "type": "K",
+    "category": "smery-mosty",
+    "text": "Jak se Jungovo pojetí bytostného Já (Self) liší od Self v IFS?",
+    "options": [
+      "Jungovo Self je totožné s vědomým já, IFS Self s nevědomím",
+      "Jungovo Self se objevuje až ve stáří, IFS Self už u dětí",
+      "Jungovo Self je cílem individuace, IFS Self je dostupné hned",
+      "Jungovo Self je archetyp stínu, IFS Self je souhrn všech částí"
+    ],
+    "correct": 2,
+    "explanation": "U Junga je Self regulujícím středem celé psýché včetně nevědomí a člověk se k němu celoživotně přibližuje procesem individuace. Schwartzovo Self je naopak vždy přítomné a nepoškozené, jen zakryté smíšenými částmi. Jungovy autonomní komplexy se přitom částem nápadně podobají — rozdíl je v archetypovém jádru, které IFS nepředpokládá.",
+    "source": "C. G. Jung, Aion, 1951; Richard C. Schwartz, No Bad Parts, 2021",
+    "seedElo": 2100
+  },
+  {
+    "id": "sme-A12",
+    "type": "K",
+    "category": "smery-mosty",
+    "text": "Terapeut cítí vůči klientovi rostoucí netrpělivost. Jak tuto situaci rámuje IFS?",
+    "options": [
+      "Jako projekci klientovy části do terapeutova prožívání",
+      "Jako signál, že klient není indikován pro tento model",
+      "Jako důkaz, že klientův ochránce převzal vedení celého sezení",
+      "Jako aktivaci terapeutovy části, kterou lze požádat o ústup"
+    ],
+    "correct": 3,
+    "explanation": "Protipřenos je v IFS popsán jako smíšení terapeuta s vlastní částí. Úkolem je to zpozorovat, požádat část o krok stranou a případně ji ošetřit ve vlastní terapii či supervizi. Kvalita Self-energie terapeuta je v modelu považována za hlavní léčivý činitel, proto se s ní pracuje explicitně a průběžně.",
+    "source": "Frank Anderson, Martha Sweezy & Richard Schwartz, Internal Family Systems Skills Training Manual, 2017",
+    "seedElo": 2000
+  },
+  {
+    "id": "sme-A13",
+    "type": "F",
+    "category": "smery-mosty",
+    "text": "Která dvojice schémat tvoří v Youngově modelu doménu Narušené hranice?",
+    "options": [
+      "Nárokovost/grandiozita a nedostatečná sebekontrola",
+      "Emoční deprivace a opuštěnost či nestabilita vztahu",
+      "Podřízenost a sebeobětování ve prospěch druhých",
+      "Negativita/pesimismus a přehnaná kontrola citů"
+    ],
+    "correct": 0,
+    "explanation": "Doména Narušené hranice obsahuje jen dvě schémata — nárokovost/grandiozitu a nedostatečnou sebekontrolu či sebekázeň — a odpovídá nenaplněné potřebě realistických limitů. Ostatní uvedené dvojice patří do domén Odpojení a odmítání, Zaměřenosti na druhé a Přehnané ostražitosti a inhibice.",
+    "source": "Jeffrey Young, Janet Klosko & Marjorie Weishaar, Schema Therapy: A Practitioner's Guide, 2003",
+    "seedElo": 1900
+  },
+  {
+    "id": "sme-A14",
+    "type": "F",
+    "category": "smery-mosty",
+    "text": "Do které domény řadí Young schéma Selhání?",
+    "options": [
+      "Odpojení a odmítání v blízkosti",
+      "Narušená autonomie a výkonnost",
+      "Přehnaná ostražitost a inhibice",
+      "Zaměřenost na druhé a podřízenost"
+    ],
+    "correct": 1,
+    "explanation": "Selhání — přesvědčení, že jsem ve srovnání s vrstevníky neschopný — stojí vedle závislosti a nekompetence, zranitelnosti vůči nemoci či pohromě a spletenectví s nevyvinutým já. Doména vzniká z nenaplněné potřeby autonomie a kompetence, typicky u přehnaně ochranitelské nebo naopak znevažující výchovy.",
+    "source": "Jeffrey Young, Janet Klosko & Marjorie Weishaar, Schema Therapy: A Practitioner's Guide, 2003",
+    "seedElo": 1950
+  },
+  {
+    "id": "sme-A15",
+    "type": "K",
+    "category": "smery-mosty",
+    "text": "Klientka se schématem emoční deprivace si opakovaně vybírá chladné, nedostupné partnery. Jaký copingový styl to je?",
+    "options": [
+      "Vyhýbání se (schema avoidance)",
+      "Kompenzace (overcompensation)",
+      "Poddání se (schema surrender)",
+      "Reaktivní formace (obranný obrat)"
+    ],
+    "correct": 2,
+    "explanation": "Poddání znamená, že člověk schéma nezpochybní, chová se v souladu s ním a znovu vytváří situace, které je potvrzují. Vyhýbání by vedlo k úniku z blízkosti vůbec, kompenzace k opačnému extrému, například k chladné dominanci. Reaktivní formace je pojem psychoanalytické teorie obran, nikoli schematerapie.",
+    "source": "Jeffrey Young, Janet Klosko & Marjorie Weishaar, Schema Therapy: A Practitioner's Guide, 2003",
+    "seedElo": 1850
+  },
+  {
+    "id": "sme-A16",
+    "type": "K",
+    "category": "smery-mosty",
+    "text": "Klient od počátku zpochybňuje terapeutovu kvalifikaci, srovnává ho s předchozími odborníky a poučuje ho o teorii. Jaký copingový styl se nejspíš odehrává v přenosu?",
+    "options": [
+      "Poddání se schématu defektnosti",
+      "Vyhýbání se schématu neúspěchu",
+      "Zdravý dospělý ověřující si rámec",
+      "Kompenzace schématu defektnosti"
+    ],
+    "correct": 3,
+    "explanation": "Kompenzace obrací zážitek méněcennosti naruby: devalvací a soutěží si klient udržuje pocit převahy a k jádru schématu se nedostane. Poddání by se v přenosu projevilo submisivním souhlasem, vyhýbání rušením sezení či mlžením. Odpovědí terapeuta je empatická konfrontace, ne obhajoba vlastní odbornosti.",
+    "source": "Arnoud Arntz & Gitta Jacob, Schema Therapy in Practice, 2013",
+    "seedElo": 2100
+  },
+  {
+    "id": "sme-A17",
+    "type": "K",
+    "category": "smery-mosty",
+    "text": "Čím se v módovém modelu projevuje sebeuklidňující ochránce?",
+    "options": [
+      "Stimulací či otupováním — jídlem, prací, hrami, látkami",
+      "Podřízením se každému požadavku okolí bez odmluvy",
+      "Sebekritikou a přesvědčením, že si zaslouží trest",
+      "Výbuchy vzteku, po nichž následuje pocit provinění"
+    ],
+    "correct": 0,
+    "explanation": "Detached self-soother tlumí emoce činnostmi, které navozují klid nebo naopak vzrušení: přejídáním, workoholismem, sexem, hrami, návykovými látkami. Nezůstává tedy prázdný, ale aktivně se sytí — a právě proto se s ním pracuje hůř, protože mód přináší okamžitou a spolehlivou úlevu.",
+    "source": "Arnoud Arntz & Gitta Jacob, Schema Therapy in Practice, 2013",
+    "seedElo": 2050
+  },
+  {
+    "id": "sme-A18",
+    "type": "K",
+    "category": "smery-mosty",
+    "text": "Klient říká: „Nemám právo si sednout, dokud není všechno hotové.“ O sobě nemluví s nenávistí, jen s neúprosným tlakem. Který mód promlouvá?",
+    "options": [
+      "Trestající rodič, protože klientovi upírá veškerý odpočinek",
+      "Náročný rodič, protože žádá výkon bez odsudku osoby",
+      "Odtažitý ochránce, protože brání prožitku vlastní únavy",
+      "Rozzlobené dítě, protože protestuje proti pravidlům"
+    ],
+    "correct": 1,
+    "explanation": "Náročný rodič nastavuje nadměrná měřítka výkonu, pořádku či skromnosti; jeho tón je tlakový, nikoli nenávistný. Trestající rodič naproti tomu útočí na hodnotu osoby a žádá trest, což vede k hanbě a sebepoškozování. Rozlišení mění intervenci: s náročným rodičem se vyjednává, trestajícího terapeut ze scény vykazuje.",
+    "source": "Arnoud Arntz & Gitta Jacob, Schema Therapy in Practice, 2013",
+    "seedElo": 2150
+  },
+  {
+    "id": "sme-A19",
+    "type": "K",
+    "category": "smery-mosty",
+    "text": "Který mód je typický pro narcistickou poruchu osobnosti a v hraničním módovém modelu chybí?",
+    "options": [
+      "Impulzivní dítě, které jedná bez ohledu na následky",
+      "Odtažitý ochránce, který odřezává city i kontakt",
+      "Sebezvelebující mód, který udržuje pocit výjimečnosti",
+      "Trestající rodič, který znehodnocuje vlastní osobu"
+    ],
+    "correct": 2,
+    "explanation": "Narcistickou organizaci popisuje Young trojicí osamělé dítě — sebezvelebující mód — odtažitý sebeuklidňovač. Hraniční model tvoří opuštěné a zneužité dítě, rozzlobené a impulzivní dítě, trestající rodič a odtažitý ochránce. Sebezvelebující mód je stabilní kompenzace, kterou hraniční pacienti typicky neudrží.",
+    "source": "Jeffrey Young, Janet Klosko & Marjorie Weishaar, Schema Therapy: A Practitioner's Guide, 2003",
+    "seedElo": 2200
+  },
+  {
+    "id": "sme-A20",
+    "type": "K",
+    "category": "smery-mosty",
+    "text": "Co je podle Arntze hlavním mechanismem imaginativního rescriptingu?",
+    "options": [
+      "Vyhasínání strachu opakovanou expozicí té traumatické vzpomínce",
+      "Zpevnění nové paměťové stopy pomocí bilaterální stimulace",
+      "Ověření faktické správnosti vzpomínky vnějšími doklady",
+      "Změna významu vzpomínky a naplnění tehdejší potřeby v obraze"
+    ],
+    "correct": 3,
+    "explanation": "Rescripting nemá přepsat historii ani ověřovat fakta: mění emoční význam scény tím, že do ní vstoupí dospělá figura, zastaví dění a nasytí frustrovanou potřebu ochrany či útěchy. Účinek proto nestojí na habituaci — u PTSD z dětství bývá metoda kratší než imaginální expozice a s nižším podílem předčasných ukončení.",
+    "source": "Arnoud Arntz & Marcel Weertman, Behaviour Research and Therapy, 1999",
+    "seedElo": 2250
+  },
+  {
+    "id": "sme-A21",
+    "type": "K",
+    "category": "smery-mosty",
+    "text": "Jak se v schematerapii typicky vede práce se židlemi u trestajícího rodiče?",
+    "options": [
+      "Mód dostane vlastní židli, terapeut ho konfrontuje a klient mluví ze zdravého dospělého",
+      "Klient postupně střídá židle podle schémat z dotazníku YSQ, dokud si neurčí to nejsilnější",
+      "Terapeut mlčí a klient vede volný dialog mezi všemi svými módy bez zásahu",
+      "Klient sedí na jedné židli a druhou nechá prázdnou jako místo pro vzpomínku"
+    ],
+    "correct": 0,
+    "explanation": "Externalizace na zvláštní židli umožní klientovi slyšet trestající hlas zvenčí jako cizí. Terapeut ho nejprve odmítne sám a nahlas, čímž modeluje postoj, a teprve pak zve klienta, aby promluvil z pozice zdravého dospělého. Cílem není katarze, ale posílení zdravého dospělého a oslabení internalizovaného hlasu.",
+    "source": "Arnoud Arntz & Gitta Jacob, Schema Therapy in Practice, 2013",
+    "seedElo": 2050
+  },
+  {
+    "id": "sme-A22",
+    "type": "K",
+    "category": "smery-mosty",
+    "text": "Co v schematerapii vymezuje hranice limited reparentingu?",
+    "options": [
+      "Přísný zákaz jakéhokoli kontaktu s klientem mimo dohodnutá sezení",
+      "Osobní hranice terapeuta a profesní etika, ne přání klienta",
+      "Nutnost, aby všechny potřeby sytil pouze zdravý dospělý",
+      "Pravidlo, že se sytí jen potřeba autonomie, nikoli vazby"
+    ],
+    "correct": 1,
+    "explanation": "Young výslovně říká, že terapeut naplňuje jádrové potřeby jen v mezích, které sám unese a které dovoluje etika — hranice se proto terapeut od terapeuta liší a otevřeně se s klientem probírají. Kontakt mezi sezeními, například v krizi, není zakázán, ale sjednáván a s rostoucí autonomií klienta postupně omezován.",
+    "source": "Jeffrey Young, Janet Klosko & Marjorie Weishaar, Schema Therapy: A Practitioner's Guide, 2003",
+    "seedElo": 2100
+  },
+  {
+    "id": "sme-A23",
+    "type": "F",
+    "category": "smery-mosty",
+    "text": "Giesen-Bloo a kol. (2006) srovnali tříletou schematerapii s přenosově zaměřenou psychoterapií (TFP) u hraniční poruchy. Co bylo hlavní námitkou tábora TFP?",
+    "options": [
+      "Že studie neměla kontrolní skupinu bez aktivní léčby",
+      "Že se výsledky opíraly pouze o sebeposuzovací škály",
+      "Že TFP nebyla ve studii vedena věrně a dostatečně zkušeně",
+      "Že vzorek tvořili výhradně muži z jediného centra"
+    ],
+    "correct": 2,
+    "explanation": "Ve studii s 88 pacienty dosáhla schematerapie po třech letech vyšší míry zotavení a nižšího předčasného ukončení. Yeomans a další ale namítli, že TFP byla poskytována v podmínkách neodpovídajících manuálu — zpochybnili adherenci, supervizi i zkušenost terapeutů. Spor o loajalitu k modelu zůstal nerozhodnut.",
+    "source": "Giesen-Bloo et al., Archives of General Psychiatry, 2006; kritická reakce Yeomans, Archives of General Psychiatry, 2007",
+    "seedElo": 2200
+  },
+  {
+    "id": "sme-A24",
+    "type": "F",
+    "category": "smery-mosty",
+    "text": "Jak je dnes hodnocena studie Farrellové a Shawa (2009) o skupinové schematerapii u hraniční poruchy?",
+    "options": [
+      "Jako multicentrická studie, jejíž výsledky platí za standard",
+      "Jako čistě kvalitativní práce bez měřitelných výstupů",
+      "Jako studie vyvrácená pro chyby v randomizaci účastnic",
+      "Jako malá studie s efektem, který se později neopakoval"
+    ],
+    "correct": 3,
+    "explanation": "Přidání osmiměsíční skupinové schematerapie k obvyklé péči vedlo u 32 pacientek k tomu, že drtivá většina přestala splňovat kritéria poruchy — efekt tak velký, že sám vzbudil pochybnosti. Pozdější rozsáhlá mezinárodní studie skupinovou formu potvrdila jako účinnou, ale s podstatně skromnějšími čísly.",
+    "source": "Farrell, Shaw & Webber, Journal of Behavior Therapy and Experimental Psychiatry, 2009; Arntz et al., JAMA Psychiatry, 2022",
+    "seedElo": 2250
+  },
+  {
+    "id": "sme-A25",
+    "type": "K",
+    "category": "smery-mosty",
+    "text": "Jak zní hlavní psychodynamická, kernbergovsky laděná výhrada vůči schematerapii?",
+    "options": [
+      "Sycení potřeb tlumí negativní přenos, který je třeba analyzovat",
+      "Pracuje výhradně s nevědomím a opomíjí vědomé strategie",
+      "Nepřipouští práci s ranými vzpomínkami ani s vývojovými potřebami",
+      "Odmítá manualizaci léčby, takže ji nelze empiricky ověřit"
+    ],
+    "correct": 0,
+    "explanation": "Z pozice TFP je aktivní gratifikace potřeb formou podpory, která brání tomu, aby se agrese a znehodnocení naplno rozvinuly ve vztahu k terapeutovi a mohly být interpretovány tady a teď. Schematerapeuti odpovídají, že negativní přenos zpracovávají také — jen prostředky empatické konfrontace a přerámování módů.",
+    "source": "Frank Yeomans, John Clarkin & Otto Kernberg, Transference-Focused Psychotherapy for Borderline Personality Disorder, 2015",
+    "seedElo": 2300
+  },
+  {
+    "id": "sme-A26",
+    "type": "K",
+    "category": "smery-mosty",
+    "text": "Čím se schéma sebeobětování liší od podřízenosti?",
+    "options": [
+      "Sebeobětování se týká práce, podřízenost jen partnerství",
+      "Sebeobětování je dobrovolné z viny, podřízenost ze strachu",
+      "Sebeobětování patří k narcismu, podřízenost k závislosti",
+      "Sebeobětování vzniká v dospělosti, podřízenost už v dětství"
+    ],
+    "correct": 1,
+    "explanation": "U podřízenosti člověk potlačuje potřeby i zlost, protože se bojí odplaty nebo opuštění; hněv se hromadí a uniká pasivně agresivně či somaticky. Sebeobětování je prožíváno jako vlastní volba motivovaná vinou a soucitem s druhými; cena se ukáže později v podobě vyčerpání a skryté hořkosti.",
+    "source": "Jeffrey Young, Janet Klosko & Marjorie Weishaar, Schema Therapy: A Practitioner's Guide, 2003",
+    "seedElo": 2000
+  },
+  {
+    "id": "sme-A27",
+    "type": "K",
+    "category": "smery-mosty",
+    "text": "Co v IFS následuje bezprostředně poté, co část odevzdá své břemeno?",
+    "options": [
+      "Terapeut ukončí sezení, aby se zážitek nerozředil",
+      "Systém se přeskupí sám a další kroky nejsou nutné",
+      "Část je pozvána, aby si přijala nové vlastnosti, které chce",
+      "Klient vypráví celý příběh traumatu ještě jednou a nahlas"
+    ],
+    "correct": 2,
+    "explanation": "Po odevzdání břemene, typicky některému z živlů, terapeut zve část, aby si vzala kvality, které jí chyběly — klid, energii, hravost. Teprve pak se s ostatními částmi, včetně ochránců, domlouvá nová role. Model počítá i s kontrolou po několika týdnech, zda se břemeno nevrátilo.",
+    "source": "Richard C. Schwartz & Martha Sweezy, Internal Family Systems Therapy, 2. vyd., 2020",
+    "seedElo": 2050
+  },
+  {
+    "id": "sme-A28",
+    "type": "F",
+    "category": "smery-mosty",
+    "text": "Které nenaplněné jádrové potřebě odpovídá doména Narušené hranice?",
+    "options": [
+      "Potřebě bezpečné vazby a přijetí druhými",
+      "Potřebě realistických limitů a sebekontroly",
+      "Potřebě spontánnosti, hry a bezstarostnosti",
+      "Potřebě svobody vyjadřovat platné emoce"
+    ],
+    "correct": 1,
+    "explanation": "Young přiřazuje každé z pěti domén jednu ze základních vývojových potřeb. Narušené hranice vznikají tam, kde dítě nedostalo realistické limity a nenaučilo se odkládat uspokojení — typicky při rozmazlování nebo při chaotické, nedůsledné výchově. Zbylé uvedené potřeby patří k doménám Odpojení, Zaměřenosti na druhé a Přehnané ostražitosti.",
+    "source": "Jeffrey Young, Janet Klosko & Marjorie Weishaar, Schema Therapy: A Practitioner's Guide, 2003",
+    "seedElo": 1900
+  }
+]

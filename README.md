@@ -112,9 +112,10 @@ Cíl: **každý balíček rovných 100 otázek**. Postup na jeden balíček:
    v manifestu. **Co neprojde, se zahazuje, neopravuje.**
 5. `node tools/validate.mjs` → bump SW → commit → push → ověřit deploy.
 
-**HOTOVO 2026-09-02: stovkový závazek splněn — všech 21 balíčků má 100
-otázek** (+ sondáž 77 a Kernberg 36 = **2158 otázek**). Kompletní obory:
-psychoanalýza, přírodní vědy, filosofie, vědomí a mysl, general.
+**HOTOVO 2026-09-02: stovkový závazek splněn — všech 22 balíčků má 100
+otázek** (+ sondáž 77 a Kernberg 36 = **2213 otázek**). Kompletní obory:
+psychoanalýza (8 balíčků), přírodní vědy (4), filosofie (4), vědomí
+a mysl (3), general (3).
 
 Tvrdá vlna psychoanalýzy (kalibrace **2100**, rozptyl 1850–2350) přidala
 do každého ze 7 balíčků ~52 expertních otázek: pozdní a málo čtené

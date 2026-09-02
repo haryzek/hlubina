@@ -1,0 +1,450 @@
+[
+ {
+  "id": "sme-B01",
+  "type": "F",
+  "category": "smery-mosty",
+  "text": "Co je z hlediska Linehanové DBT ústřední dialektikou, na které celá metoda stojí?",
+  "options": [
+   "Napětí mezi radikálním přijetím klientky takové, jaká je, a naléhavým požadavkem na změnu chování",
+   "Napětí mezi individuální terapií a skupinovým nácvikem dovedností v rámci jednoho léčebného programu",
+   "Napětí mezi biologickou zranitelností klientky a psychosociálním výkladem jejích současných potíží",
+   "Napětí mezi krátkodobou úlevou od tísně a dlouhodobým budováním smysluplného a hodnotného života"
+  ],
+  "correct": 0,
+  "explanation": "DBT je postavená na dialektické syntéze: terapeut musí klientku validovat jako někoho, kdo v daných podmínkách dělá to nejlepší, co umí, a zároveň od ní žádat, aby se chovala jinak. Vynechání jedné strany metodu rozbíjí — samotné přijetí vede ke stagnaci, samotný tlak na změnu klientku invaliduje a vyhání z terapie. Ostatní uvedená napětí v DBT existují, ale jsou odvozená, ne konstitutivní.",
+  "source": "Marsha Linehan: Cognitive-Behavioral Treatment of Borderline Personality Disorder (1993)",
+  "seedElo": 1880
+ },
+ {
+  "id": "sme-B02",
+  "type": "F",
+  "category": "smery-mosty",
+  "text": "Které tři systémy regulace afektu rozlišuje Gilbertova terapie zaměřená na soucit (CFT)?",
+  "options": [
+   "Systém vzrušení, systém útlumu a systém sociálního srovnávání se s druhými lidmi",
+   "Systém ohrožení a ochrany, systém popudu a získávání, systém utišení a spokojenosti",
+   "Systém odměny, systém trestu a systém neutrálního zpracování běžných denních podnětů",
+   "Systém vědomé kontroly, systém zautomatizovaných návyků a systém tělesných reakcí"
+  ],
+  "correct": 1,
+  "explanation": "Gilbert popisuje tři funkčně odlišné okruhy: hrozbový (rychlý, přednostní, spojený s úzkostí a hněvem), popudový (výkon, získávání, dopamin) a utišující afiliativní (bezpečí, spokojenost, spojený s péčí a oxytocinem). Klienti se silnou sebekritikou mají hypertrofovaný hrozbový a popudový systém a málo rozvinutý systém utišení, který proto CFT cíleně trénuje.",
+  "source": "Paul Gilbert: The Compassionate Mind (2009)",
+  "seedElo": 1900
+ },
+ {
+  "id": "sme-B03",
+  "type": "F",
+  "category": "smery-mosty",
+  "text": "Kdy sáhne emočně zaměřený terapeut (Greenberg) po práci se dvěma židlemi a kdy po prázdné židli?",
+  "options": [
+   "Dvě židle na počátku terapie pro diagnostiku, prázdná židle v závěru pro upevnění dosažené změny",
+   "Dvě židle při aktuálním konfliktu s blízkou osobou, prázdná židle při rozhodování mezi dvěma cestami",
+   "Dvě židle při vnitřním rozštěpu mezi částmi self, prázdná židle při nedokončené záležitosti s druhým",
+   "Dvě židle u klientů se silnou emocí, prázdná židle u klientů, kteří prožívání obtížně nacházejí"
+  ],
+  "correct": 2,
+  "explanation": "EFT přiřazuje techniku k rozpoznanému úkolovému znaku. Dialog dvou židlí patří k sebekritickému nebo sebepřerušujícímu rozštěpu, kdy proti sobě stojí dvě části téhož self. Prázdná židle patří k nedokončené záležitosti vůči významnému druhému, typicky s neuvolněným smutkem nebo hněvem; cílem je vyjádřit dosud nevyjádřenou potřebu.",
+  "source": "Leslie Greenberg: Emotion-Focused Therapy — Coaching Clients to Work Through Their Feelings (2002)",
+  "seedElo": 1930
+ },
+ {
+  "id": "sme-B04",
+  "type": "F",
+  "category": "smery-mosty",
+  "text": "Jak ACT pojmově odlišuje hodnotu od cíle?",
+  "options": [
+   "Hodnota je dlouhodobý cíl na mnoho let dopředu, kdežto cíl je jeho krátkodobý dílčí ekvivalent",
+   "Hodnota je pocit, který je třeba nejdřív vyvolat, kdežto cíl je chování, jež z tohoto pocitu plyne",
+   "Hodnota je společensky sdílená norma chování, kdežto cíl je čistě osobní preference jednotlivce",
+   "Hodnota je zvolený směr jednání, který nelze splnit a odškrtnout, kdežto cíl je dosažitelná událost"
+  ],
+  "correct": 3,
+  "explanation": "V ACT je hodnota slovně konstruovaná kvalita probíhajícího jednání — jako světová strana, kterou lze držet, ale nikdy do ní nedojít. Cíl je konkrétní dosažitelný výsledek, který v tomto směru leží a dá se odškrtnout. Rozlišení je terapeuticky podstatné: hodnota zůstává dostupná i po neúspěchu, zatímco splnění cíle člověka bez hodnoty nechá prázdného.",
+  "source": "Hayes, Strosahl a Wilson: Acceptance and Commitment Therapy (2. vydání, 2012)",
+  "seedElo": 1950
+ },
+ {
+  "id": "sme-B05",
+  "type": "F",
+  "category": "smery-mosty",
+  "text": "Co tvrdí biosociální teorie, na níž DBT staví vznik hraniční poruchy osobnosti?",
+  "options": [
+   "Emoční zranitelnost a invalidující prostředí se v čase vzájemně posilují v transakčním kruhu",
+   "Rozhodující je genetická zátěž, kterou prostředí může zmírnit, ale nikoli vytvořit ani vyvolat",
+   "Rozhodující je časné trauma, na jehož základě se teprve druhotně vyvíjí emoční přecitlivělost",
+   "Zranitelnost a prostředí působí nezávisle a jejich vlivy se v celkovém riziku prostě sečtou"
+  ],
+  "correct": 0,
+  "explanation": "Linehanová popisuje vývoj jako transakci, nikoli jako součet dvou nezávislých příčin: dítě s vyšší emoční citlivostí, intenzitou a pomalejším návratem k výchozímu stavu vyvolává v okolí reakce, které jeho prožitky zpochybňují nebo trestají, a invalidace jeho dysregulaci dále zvyšuje. Klíčové slovo je vzájemnost — každá strana v čase mění druhou. Právě proto DBT kombinuje validaci s nácvikem regulace.",
+  "source": "Linehan (1993); Crowell, Beauchaine a Linehan (Psychological Bulletin, 2009)",
+  "seedElo": 2020
+ },
+ {
+  "id": "sme-B06",
+  "type": "F",
+  "category": "smery-mosty",
+  "text": "Proč se MBT (Bateman a Fonagy) programově vyhýbá interpretacím nevědomých přání a významů?",
+  "options": [
+   "Nevědomé významy podle MBT neexistují, protože veškerý duševní obsah je principiálně vědomý",
+   "Taková interpretace vyžaduje mentalizační kapacitu, kterou pacient v dysregulaci právě nemá",
+   "Interpretace je vyhrazena skupinové části programu, kde ji nese celá skupina, nikoli terapeut",
+   "Pacienti s hraniční poruchou takové interpretace zpravidla odmítají a předčasně terapii končí"
+  ],
+  "correct": 1,
+  "explanation": "MBT drží postoj nevědění: terapeut se nestaví do role toho, kdo zná skrytý význam, ale spolu s pacientem zpomaluje a rekonstruuje, co se v mysli dělo. Důvod je technický, nikoli teoretický — složitá interpretace předpokládá právě tu schopnost představovat si duševní stavy, která u hraničního pacienta při aktivaci vazbového systému selhává. Nabídnutá interpretace pak vazbový systém dál hyperaktivuje a mentalizaci ještě více uzavře.",
+  "source": "Bateman a Fonagy: Mentalization-Based Treatment for Personality Disorders (2016)",
+  "seedElo": 2050
+ },
+ {
+  "id": "sme-B07",
+  "type": "F",
+  "category": "smery-mosty",
+  "text": "Co tvoří vrcholy trojúhelníku konfliktu, jak jej v ISTDP používá Davanloo (v návaznosti na Malana)?",
+  "options": [
+   "Přání klienta, odpověď druhého člověka a odpověď, kterou na to dává sám klient",
+   "Terapeut, blízká osoba v současnosti a raná pečující postava z klientova dětství",
+   "Obrana, úzkost a skrytý pocit, který mají obrana i úzkost udržet mimo vědomí",
+   "Myšlenka, emoce a chování, jež se navzájem udržují v uzavřeném kruhu potíží"
+  ],
+  "correct": 2,
+  "explanation": "Trojúhelník konfliktu má vrcholy obrana — úzkost — skrytý pocit a popisuje nitro jedné situace: pocit vyvolá úzkost a ta spustí obranu. Doplňuje ho trojúhelník osob (terapeut, současný blízký, raná postava), který týž vzorec sleduje napříč vztahy. Nabídnuté alternativy jsou trojúhelník osob, Luborského CCRT a kognitivní triáda myšlenka—emoce—chování.",
+  "source": "Malan: Individual Psychotherapy and the Science of Psychodynamics (1979); Davanloo: Unlocking the Unconscious (1990)",
+  "seedElo": 2060
+ },
+ {
+  "id": "sme-B08",
+  "type": "F",
+  "category": "smery-mosty",
+  "text": "Co je z hlediska narativní terapie (White a Epston) vlastním smyslem externalizace problému?",
+  "options": [
+   "Připravit klienta na expozici tím, že se obávaný podnět nejprve popíše z bezpečné vzdálenosti",
+   "Ukázat klientovi, že skutečná příčina potíží leží v rodinném systému, a nikoli v něm samotném",
+   "Zmírnit intenzitu emoce tím, že se problém pojmenuje neutrálním odborným diagnostickým termínem",
+   "Oddělit problém od identity člověka, aby se s ním dalo vyjednávat jako se samostatnou entitou"
+  ],
+  "correct": 3,
+  "explanation": "Externalizace mění gramatiku vyprávění: místo „jsem depresivní“ vzniká „Deprese mě přemlouvá, abych zůstal doma“. Tím se člověk přestává ztotožňovat s problémem a otevírá se prostor pro jedinečné výsledky — okamžiky, kdy problém nezvítězil a které dosud v příběhu nedostaly místo. Nejde o hledání viníka jinde ani o zmírnění emoce, ale o obnovení autorství vlastního příběhu.",
+  "source": "Michael White a David Epston: Narrative Means to Therapeutic Ends (1990)",
+  "seedElo": 2080
+ },
+ {
+  "id": "sme-B09",
+  "type": "F",
+  "category": "smery-mosty",
+  "text": "Co je hlavním praktickým důsledkem transteoretického modelu (Prochaska a DiClemente) pro vedení terapie?",
+  "options": [
+   "Procesy změny je nutné volit podle stadia, v němž klient právě je, jinak vzniká zdánlivý odpor",
+   "Klient musí projít všemi stadii v pevném pořadí a relaps znamená návrat na úplný začátek cyklu",
+   "Terapeut má co nejdříve uzavřít behaviorální kontrakt, protože ten sám o sobě posune klienta dál",
+   "Volba terapeutické školy je důležitější než načasování, protože stadia jsou napříč školami shodná"
+  ],
+  "correct": 0,
+  "explanation": "Model rozlišuje stadia (prekontemplace, kontemplace, příprava, akce, udržování) a procesy změny, které v nich fungují. Prožitkové procesy typu zvyšování uvědomění a emočního vzedmutí patří do raných stadií, zatímco kontrakty, řízení odměn a kontrola podnětů teprve do akce. Nasazení akčního nástroje na kontemplátora vytváří to, co terapeut často mylně čte jako odpor v klientovi; relaps je přitom v modelu popsán jako běžná součást spirály, ne jako selhání.",
+  "source": "Prochaska a DiClemente (1983); Prochaska, DiClemente a Norcross (American Psychologist, 1992)",
+  "seedElo": 2090
+ },
+ {
+  "id": "sme-B10",
+  "type": "F",
+  "category": "smery-mosty",
+  "text": "Z jakých tří složek se skládá jádrové konfliktní vztahové téma (CCRT) podle Luborského?",
+  "options": [
+   "Raná zkušenost, současný vztahový vzorec a jeho projev v přenosu vůči osobě terapeuta",
+   "Přání klienta, očekávaná či skutečná odpověď druhého a odpověď samotného klienta na ni",
+   "Obranný manévr, úzkost z něj plynoucí a nevědomý impulz, který se za obranou skrývá",
+   "Spouštěč, automatická interpretace situace a chování, jímž na tuto interpretaci reaguje"
+  ],
+  "correct": 1,
+  "explanation": "CCRT je empiricky získávaná formulace přenosu: z vyprávěných vztahových epizod se kóduje opakující se přání (W), odpověď druhého (RO) a odpověď self (RS). Metoda umožnila přenos měřit a ukázala, že jádrové téma bývá napříč vztahy pozoruhodně stálé a že jeho zpracování v terapii souvisí s výsledkem. Je to jeden z mála psychodynamických konstruktů se zavedeným reliabilním kódovacím systémem.",
+  "source": "Luborsky a Crits-Christoph: Understanding Transference — The CCRT Method (1990)",
+  "seedElo": 2100
+ },
+ {
+  "id": "sme-B11",
+  "type": "X",
+  "category": "smery-mosty",
+  "text": "Klientka se v sezení rozpláče tak, že přestává mluvit i slyšet terapeuta a nedokáže se zorientovat. Jak by tento moment nejspíš uchopil DBT terapeut?",
+  "options": [
+   "Jako projev nevědomé přenosové emoce, kterou lze právě teď pojmenovat a spojit s minulostí",
+   "Jako jádrový afekt, který je třeba doprovodit až na dno, aby proběhla transformace prožitku",
+   "Jako dysregulaci nad prahem, kde se práce přeruší a nasadí se dovednosti tolerance tísně",
+   "Jako aktivaci schématu opuštění, na kterou terapeut odpovídá omezeným rodičovstvím ve vztahu"
+  ],
+  "correct": 2,
+  "explanation": "DBT pracuje s představou prahu, za nímž mozek přestává být přístupný učení; nad ním nemá smysl pokračovat v obsahu, ale nejdřív snížit vybuzení. Používají se konkrétní dovednosti tolerance tísně, například TIP (změna tělesné teploty, intenzivní pohyb, dechové zpomalení, svalová relaxace), a teprve po návratu do zvládnutelného pásma se pokračuje. Ostatní možnosti odpovídají AEDP, psychodynamice a schematerapii.",
+  "source": "Marsha Linehan: DBT Skills Training Manual (2. vydání, 2015)",
+  "seedElo": 2040
+ },
+ {
+  "id": "sme-B12",
+  "type": "X",
+  "category": "smery-mosty",
+  "text": "Klient je po třetí odléčené depresivní epizodě bez příznaků a bojí se návratu. Jak konceptualizuje riziko relapsu MBCT?",
+  "options": [
+   "Jako nevyřešený vztahový konflikt, jenž se po odeznění epizody vrací s původní nezmenšenou silou",
+   "Jako důsledek nedostatečně dlouhé udržovací farmakoterapie, kterou má nácvik všímavosti plně nahradit",
+   "Jako oslabení sebeúčinnosti, které se posiluje plánováním příjemných činností a stupňovanou aktivací",
+   "Jako snadnou reaktivaci depresivního zpracovávání i mírným poklesem nálady, proti níž chrání decentrace"
+  ],
+  "correct": 3,
+  "explanation": "MBCT stojí na hypotéze diferenciální aktivace (Teasdale): u člověka s opakovanými epizodami se s každou další epizodou pevněji spojí mírně smutná nálada s celým depresivním režimem myšlení, takže spouštěč stačí čím dál menší. Trénink všímavosti neučí měnit obsah myšlenek, ale rozpoznat rozjezd režimu a zaujmout k němu decentrovaný vztah. Metaanalýza individuálních dat ukazuje ochranný účinek zejména u pacientů se třemi a více epizodami.",
+  "source": "Teasdale, Segal a Williams (JCCP, 2000); Kuyken a spol. (JAMA Psychiatry, 2016)",
+  "seedElo": 2010
+ },
+ {
+  "id": "sme-B13",
+  "type": "K",
+  "category": "smery-mosty",
+  "text": "Co ukázalo randomizované srovnání TFP, DBT a podpůrné terapie u hraniční poruchy (Clarkin a spol., 2007)?",
+  "options": [
+   "Suicidalitu snížily TFP i DBT, ale jen po TFP vzrostla reflektivní funkce a jistota vazby",
+   "DBT byla nadřazena ve všech sledovaných doménách včetně zlosti, impulzivity i agresivity",
+   "TFP byla nadřazena ve všech doménách a obě zbylé podmínky se navzájem nijak nelišily",
+   "Žádná z podmínek se od ostatních nelišila a všechny působily zcela srovnatelné zlepšení"
+  ],
+  "correct": 0,
+  "explanation": "Ve dvanáctiměsíční studii se zlepšily všechny tři léčby v řadě ukazatelů, takže žádná nebyla plošně poražena. Na suicidalitu působily TFP a DBT, kdežto na iritabilitu a přímou agresi jen TFP. Navazující analýza téhož souboru (Levy a spol., 2006) našla nárůst reflektivní funkce a posun k jisté vazbě pouze u TFP — to je mechanizmový, nikoli symptomový nález a je třeba ho číst opatrně vzhledem k velikosti souboru.",
+  "source": "Clarkin, Levy, Lenzenweger a Kernberg (American Journal of Psychiatry, 2007); Levy a spol. (JCCP, 2006)",
+  "seedElo": 2200
+ },
+ {
+  "id": "sme-B14",
+  "type": "F",
+  "category": "smery-mosty",
+  "text": "Jaký poznatek teorie relačních rámců (RFT) stojí za tím, že ACT nepovažuje kognitivní restrukturalizaci za nutnou?",
+  "options": [
+   "Slovní vztahy jsou u lidí vrozené moduly, které nelze žádným učením ani opakovanou zkušeností přestavět",
+   "Odvozené relační sítě se neodučují, jen se překrývají novými, takže funkci lze měnit snáz než obsah",
+   "Myšlenky nemají na chování žádný prokazatelný vliv, takže jejich obsah je z hlediska terapie nepodstatný",
+   "Transformace funkce podnětu probíhá jen u přímo posílených reakcí, nikoli u vztahů odvozených jazykem"
+  ],
+  "correct": 1,
+  "explanation": "RFT popisuje odvozené relační odpovídání a transformaci funkcí: jakmile se „já“ dostane do rámce s „bezcenný“, přenese se na ně averzivní funkce, aniž by to kdy bylo přímo posíleno. Takové sítě se historicky nemažou, jen se překrývají novým učením, což je stejný důvod, proč se vyhaslý strach vrací. ACT z toho vyvozuje, že se vyplatí měnit spíš funkci myšlenky (defúzí, akceptací) než její doslovný obsah.",
+  "source": "Hayes, Barnes-Holmes a Roche: Relational Frame Theory (2001)",
+  "seedElo": 2230
+ },
+ {
+  "id": "sme-B15",
+  "type": "K",
+  "category": "smery-mosty",
+  "text": "Co o mechanismu EMDR ukazují dismantling studie a laboratorní výzkum očních pohybů?",
+  "options": [
+   "Oční pohyby působí prokazatelně přes REM spánek, což potvrzují polysomnografické studie pacientů",
+   "Bilaterální stimulace je nutnou složkou a bez ní se účinek EMDR v dismantling studiích zcela vytrácí",
+   "Přidaná bilaterální stimulace účinek nezvyšuje, ale zátěž pracovní paměti vzpomínku oslabuje",
+   "EMDR bez očních pohybů je významně účinnější než plná verze, protože odpadá rušivý duální úkol"
+  ],
+  "correct": 2,
+  "explanation": "Metaanalýzy dismantling studií opakovaně nenašly přidanou hodnotu očních pohybů nad rámec expoziční složky protokolu — z hlediska klinického výsledku se jeví jako postradatelné. Laboratorní práce s hypotézou zatížení pracovní paměti přitom ukazují, že duální úkol při vybavování snižuje živost a emocionalitu vzpomínky, což je reálný, ale krátkodobý a analogový efekt. EMDR jako celek účinná je; spor se týká toho, čím to je.",
+  "source": "Davidson a Parker (JCCP, 2001); van den Hout a Engelhard (Clinical Psychology & Psychotherapy, 2012)",
+  "seedElo": 2180
+ },
+ {
+  "id": "sme-B16",
+  "type": "X",
+  "category": "smery-mosty",
+  "text": "Klient chodí pozdě, mluví obecně a na otázky po pocitech odpovídá výčtem myšlenek. Jak by tuto nespolupráci uchopil ISTDP terapeut (Davanloo)?",
+  "options": [
+   "Jako ochrannou část systému, se kterou terapeut nejprve naváže vztah a vyžádá si od ní svolení",
+   "Jako selhání mentalizace, kde terapeut zpomalí a s klientem rekonstruuje moment, kdy k němu došlo",
+   "Jako nesoulad mezi stadiem změny a zvolenou intervencí, jenž se řeší návratem k vyvažování zisků",
+   "Jako obranu proti komplexní přenosové emoci, na niž terapeut vyvíjí tlak a pojmenovává její cenu"
+  ],
+  "correct": 3,
+  "explanation": "ISTDP nečte nespolupráci jako nedostatek motivace, ale jako živý obranný systém, který právě v přenosu drží mimo vědomí komplexní směs něhy, hněvu a viny. Terapeut proto vyvíjí tlak na prožitek, vyzývá obranu (challenge) a zároveň klientovi ukazuje, co ho obrana v životě stojí, aby se od ní distancoval. Ostatní varianty odpovídají MBT, transteoretickému modelu a IFS.",
+  "source": "Davanloo: Unlocking the Unconscious (1990); Abbass: Reaching Through Resistance (2015)",
+  "seedElo": 2160
+ },
+ {
+  "id": "sme-B17",
+  "type": "X",
+  "category": "smery-mosty",
+  "text": "Tentýž moment zaplavení afektem v sezení, kdy klientka ztrácí kontakt. Jak jej konceptualizuje AEDP (Fosha)?",
+  "options": [
+   "Jako ztrátu dyadické regulace, kterou terapeut aktivně obnovuje, aby jádrový afekt mohl proběhnout",
+   "Jako vrchol jádrového afektu, který terapeut nechá volně kulminovat bez jakéhokoli zásahu zvenčí",
+   "Jako přesný okamžik pro interpretaci obrany, protože obrana je právě teď nejzřetelněji viditelná",
+   "Jako signál k ukončení prožitkové práce a k trvalému přechodu na nácvik dovedností a edukaci"
+  ],
+  "correct": 0,
+  "explanation": "AEDP ostře odlišuje jádrový afekt, který má vlnu s přirozeným koncem a vede k úlevě a novým možnostem jednání, od nezpracovatelného zahlcení. Zahlcení je pro Foshu známkou toho, že klient je v prožitku sám, a odpovědí je explicitní dyadická regulace — terapeut se zviditelní, zpomalí, nabídne přítomnost a rozruší osamělost. Teprve regulovaný afekt může doběhnout k transformačním stavům a k jejich společnému zpracování.",
+  "source": "Diana Fosha: The Transforming Power of Affect (2000)",
+  "seedElo": 2210
+ },
+ {
+  "id": "sme-B18",
+  "type": "X",
+  "category": "smery-mosty",
+  "text": "Klient při dotyku na bolestivé téma hlásí sevření žaludku a nutkání na zvracení. Co ten údaj znamená pro ISTDP terapeuta?",
+  "options": [
+   "Že jde o konverzní symptom, který se má vyložit jako symbolické vyjádření potlačeného přání",
+   "Že úzkost jde do hladkého svalstva, což signalizuje nižší kapacitu a nutnost tlak zmírnit",
+   "Že se aktivovalo tělesné schéma, na které se odpovídá představovou reskripcí původní scény",
+   "Že klient vstoupil do dorzálního vagálního útlumu a je namístě práci na chvíli zcela zastavit"
+  ],
+  "correct": 1,
+  "explanation": "Davanloo rozlišuje kanály, kterými se nevědomá úzkost vybíjí: příčně pruhované svalstvo (napětí rukou, vzdychání) svědčí pro dobrou kapacitu a dovoluje pokračovat v tlaku, kdežto hladké svalstvo (žaludek, střeva, migréna) a kognitivně-percepční poruchy (rozostření, závrať, výpadky) ukazují na nižší práh. U nich se přechází do odstupňovaného formátu a nejprve se buduje tolerance úzkosti. Sledování kanálu je tedy dávkovací nástroj, ne obsahová interpretace.",
+  "source": "Davanloo: Unlocking the Unconscious (1990); Abbass: Reaching Through Resistance (2015)",
+  "seedElo": 2170
+ },
+ {
+  "id": "sme-B19",
+  "type": "X",
+  "category": "smery-mosty",
+  "text": "Tentýž tělesný projev — sevření a napětí při vyprávění o traumatu. Jak jej rámuje senzomotorická psychoterapie (Ogdenová)?",
+  "options": [
+   "Jako podmíněnou reakci, kterou zháší opakovaná expozice traumatické vzpomínce bez vyhýbání",
+   "Jako somatický ekvivalent nevědomé fantazie, jejíž obsah se odkryje pomocí volných asociací",
+   "Jako nedokončenou obrannou akční tendenci, kterou lze v titrovaných krocích dovést do konce",
+   "Jako sekundární emoci, pod níž se hledá primární adaptivní pocit a s ním spojená potřeba"
+  ],
+  "correct": 2,
+  "explanation": "Senzomotorický přístup pracuje zdola nahoru: napětí se nečte jako symbol, ale jako zbytek pohybu, který se v ohrožení nemohl uskutečnit — odstrčení, útěk, ochrana hlavy. Terapeut sleduje tělesné vyprávění, zpomaluje je a v malých dávkách umožní pohyb dokončit, přičemž hlídá okno tolerance. Ostatní možnosti odpovídají psychoanalýze, expozičnímu modelu a EFT.",
+  "source": "Ogden, Minton a Pain: Trauma and the Body (2006)",
+  "seedElo": 2190
+ },
+ {
+  "id": "sme-B20",
+  "type": "X",
+  "category": "smery-mosty",
+  "text": "Klientka reaguje na terapeutovu vřelost odtažením a slzami, které jsou jí velmi nepříjemné. Jak to čte CFT terapeut (Gilbert)?",
+  "options": [
+   "Jako fúzi s myšlenkou, že vřelost je nebezpečná, na kterou se odpoví defúzním cvičením",
+   "Jako negativní přenos, v němž se terapeut stává obrazem odmítající rané pečující postavy",
+   "Jako projev schématu emoční deprivace, který se přímo koriguje omezeným rodičovstvím",
+   "Jako strach ze soucitu: systém utišení je slabý a jeho aktivace budí systém ohrožení"
+  ],
+  "correct": 3,
+  "explanation": "CFT předpokládá, že u lidí s ranou zkušeností zanedbání nebo hrozby je afiliativní systém utišení málo trénovaný, a jeho aktivace proto působí paradoxně nebezpečně — vřelost otevírá dosud neoplakaný smutek a spouští obranu. Gilbert to popisuje jako strach ze soucitu a měří ho zvláštními škálami. Odpovědí není vřelost ubrat, ale nacvičovat ji odstupňovaně, aby si systém utišení postupně budoval kapacitu.",
+  "source": "Gilbert: The Compassionate Mind (2009); Gilbert a spol. (Psychology and Psychotherapy, 2011)",
+  "seedElo": 2220
+ },
+ {
+  "id": "sme-B21",
+  "type": "X",
+  "category": "smery-mosty",
+  "text": "Jakou roli přisuzuje ACT terapeutickému vztahu na rovině vlastní teorie, nikoli jen jako obecnému faktoru?",
+  "options": [
+   "Vztah je kontext, v němž terapeut sám modeluje šest procesů a klient v něm trénuje flexibilitu",
+   "Vztah je korektivní emoční zkušenost, která sama o sobě přepisuje ranou vztahovou zkušenost klienta",
+   "Vztah je nespecifický faktor bez teoretického místa, protože veškerá změna plyne z domácích cvičení",
+   "Vztah je nástroj epistemické důvěry, díky níž klient přijímá sociální učení i mimo terapeutickou práci"
+  ],
+  "correct": 0,
+  "explanation": "ACT vztah neodsouvá mezi nespecifické faktory: terapeutovna je místo, kde se hexaflexové procesy dějí naživo mezi dvěma lidmi. Terapeut má být sám otevřený, přítomný a vedený hodnotami, protože tím zároveň modeluje cílové repertoáry a vytváří kontext, v němž je bezpečné je zkoušet. Nabídnuté alternativy patří psychodynamické tradici, karikatuře behaviorismu a Fonagyho pojetí epistemické důvěry.",
+  "source": "Hayes, Strosahl a Wilson: ACT (2. vydání, 2012); Pierson a Hayes (2007)",
+  "seedElo": 2240
+ },
+ {
+  "id": "sme-B22",
+  "type": "X",
+  "category": "smery-mosty",
+  "text": "Klient přinese sen o domě, v němž nejdou otevřít jedny dveře. Jak s ním nejspíš naloží gestalt terapeut (Perls)?",
+  "options": [
+   "Vyloží dveře jako cenzurou zkreslené splnění potlačeného dětského přání a bude hledat denní zbytky",
+   "Nechá klienta mluvit z pozice domu i dveří, protože každý prvek snu je odcizenou částí jeho self",
+   "Ověří, zda se motiv uzavření opakuje i v bdělém životě, a označí jej za jádrové přesvědčení",
+   "Bude sen číst jako zprávu o stavu vazbového systému a propojí ho s aktuální vztahovou situací"
+  ],
+  "correct": 1,
+  "explanation": "Perls sen nevykládá, nýbrž ho nechává znovu odehrát v přítomném čase. Každý prvek — dům, dveře, klika — je promítnutá a odcizená část osobnosti, kterou má klient ztělesnit a promluvit z ní, případně nechat části spolu mluvit na dvou židlích. Cílem je zpětné přivlastnění projekce a dokončení nedokončeného gestaltu, nikoli dešifrování skrytého významu terapeutem.",
+  "source": "Fritz Perls: Gestalt Therapy Verbatim (1969)",
+  "seedElo": 2250
+ },
+ {
+  "id": "sme-B23",
+  "type": "X",
+  "category": "smery-mosty",
+  "text": "Klient chce přestat pít, ale odchod od skleničky odkládá a na terapeutovy argumenty odpovídá protiargumenty. Jak to rámují motivační rozhovory (Miller a Rollnick)?",
+  "options": [
+   "Ambivalence je znakem nevědomého sekundárního zisku, jenž se má vyložit jako obrana proti ztrátě",
+   "Ambivalence je forma odporu, kterou je třeba konfrontovat pojmenováním důsledků pití pro rodinu",
+   "Ambivalence je normální stav a protiargumenty vyvolal terapeut tím, že sám nesl stranu změny",
+   "Ambivalence je deficit dovedností, který se překlene nácvikem odmítání a plánem rizikových situací"
+  ],
+  "correct": 2,
+  "explanation": "Miller a Rollnick popisují nápravný reflex terapeuta: jakmile terapeut argumentuje pro změnu, klient dopoví druhou stranu vlastní ambivalence a slyší sám sebe mluvit proti změně. Setrvávající řeč a rozladění tak nejsou vlastností klienta, ale produktem vztahu — proto třetí vydání pojem odpor opustilo. Terapeut místo přesvědčování cíleně vyvolává a posiluje řeč o změně na straně klienta.",
+  "source": "Miller a Rollnick: Motivační rozhovory (3. vydání, 2013)",
+  "seedElo": 2160
+ },
+ {
+  "id": "sme-B24",
+  "type": "K",
+  "category": "smery-mosty",
+  "text": "Jaký je současný stav odborné kritiky polyvagální teorie (Porges)?",
+  "options": [
+   "Teorie byla zcela opuštěna i v klinické praxi, protože se její předpovědi v terapii nepotvrdily",
+   "Teorie byla nezávisle potvrzena včetně tvrzení, že plazi nemají myelinizovanou vagovou větev",
+   "Kritika se týká jen klinických aplikací, zatímco fyziologické jádro teorie zůstává nesporné",
+   "Klíčové fylogenetické premisy i užití RSA jako čistého indexu vagálního tonu byly zpochybněny"
+  ],
+  "correct": 3,
+  "explanation": "Grossman a Taylor doložili, že myelinizovaná vagová vlákna se vyskytují i u jiných obratlovců než savců, takže evoluční příběh o třech postupně nabytých okruzích neobstojí, a že respirační sinusová arytmie je silně závislá na frekvenci a hloubce dechu, a proto není čistou mírou vagového tonu. Klinicky přitom teorie zůstává rozšířená jako srozumitelná metafora bezpečí a ohrožení. Poctivá formulace tedy zní: užitečná řeč, sporná fyziologie — nikoli potvrzená věda.",
+  "source": "Grossman a Taylor (Biological Psychology, 2007); Grossman (Biological Psychology, 2023)",
+  "seedElo": 2340
+ },
+ {
+  "id": "sme-B25",
+  "type": "K",
+  "category": "smery-mosty",
+  "text": "Co lze říci o tvrzení, že terapeutická změna v Coherence therapy probíhá cestou rekonsolidace paměti?",
+  "options": [
+   "Rekonsolidace je doložena laboratorně, ale její role v psychoterapii zůstává nepřímou hypotézou",
+   "Rekonsolidace byla přímo prokázána v klinických studiích Coherence therapy zobrazovacími metodami",
+   "Rekonsolidace u lidí prokázána nebyla, jde o pouhou extrapolaci z pokusů na hlodavcích bez dat",
+   "Rekonsolidace je jen jiný název pro vyhasínání, takže obě pojetí popisují týž paměťový mechanismus"
+  ],
+  "correct": 0,
+  "explanation": "Rekonsolidace je dobře doložený jev u zvířat (Nader a spol., 2000) a byla replikována i u lidí v paradigmatech strachu (Schiller a spol., 2010), byť s citlivými hraničními podmínkami a nekonzistentními replikacemi. Eckerova sekvence — vybavit emoční schéma, postavit vedle něj rozpornou živou zkušenost, opakovat juxtapozici — je s ní věrohodně slučitelná, ale že klinická změna probíhá právě tímto mechanismem, přímo prokázáno není. Od vyhasínání se rekonsolidace liší tím, že původní stopu mění, místo aby k ní přidala novou inhibiční.",
+  "source": "Nader, Schafe a LeDoux (Nature, 2000); Schiller a spol. (Nature, 2010); Ecker, Ticic a Hulley: Unlocking the Emotional Brain (2012)",
+  "seedElo": 2320
+ },
+ {
+  "id": "sme-B26",
+  "type": "K",
+  "category": "smery-mosty",
+  "text": "Co je v Davanlooově technice head-on collision a v čem spočívá hlavní odborná výhrada k ní?",
+  "options": [
+   "Nácvik konfrontace s obávanou situací v představě; namítá se, že jde o skrytou formu expozice",
+   "Soustředěné sražení s odporem jako celkem; namítá se riziko zahlcení u křehčích pacientů",
+   "Sdělení diagnózy a prognózy hned v úvodu; namítá se, že to podkopává terapeutickou alianci",
+   "Systematické zpochybňování klientových myšlenek; namítá se, že přehlíží tělesnou složku prožitku"
+  ],
+  "correct": 1,
+  "explanation": "Head-on collision je vystupňovaná intervence, v níž terapeut osloví obranný systém jako celek, pojmenuje jeho sebedestruktivní funkci a mobilizuje pacientovu vůli proti němu s cílem otevřít nevědomí. Kritika mířila na dvě věci: vysoký tlak může u fragilních pacientů s nízkou tolerancí úzkosti vést k dekompenzaci, a raná evidence stála na Davanlooových vlastních nekontrolovaných videozáznamech. Odpovědí byl odstupňovaný formát a pozdější kontrolované studie a metaanalýzy ISTDP.",
+  "source": "Davanloo: Unlocking the Unconscious (1990); Abbass a spol. (Psychotherapy and Psychosomatics, 2009)",
+  "seedElo": 2300
+ },
+ {
+  "id": "sme-B27",
+  "type": "X",
+  "category": "smery-mosty",
+  "text": "Klient roky nedokáže odejít z ničivého vztahu a každý vlastní plán odchodu sám zmaří. Jak to čte Coherence therapy (Ecker)?",
+  "options": [
+   "Setrvání je projevem deficitu asertivity, na nějž se nasadí nácvik dovedností a hraní rolí",
+   "Setrvání udržuje krátkodobé negativní posílení, které se rozbíjí plánem konkurenčních činností",
+   "Setrvání je koherentně nutné kvůli dosud neuvědomenému schématu, jehož pravdu je třeba najít",
+   "Setrvání ukazuje na hladinu stresu, při níž není namístě změna, nýbrž jen stabilizace režimu"
+  ],
+  "correct": 2,
+  "explanation": "Coherence therapy vychází z předpokladu symptomové koherence: symptom trvá proto, že je z hlediska nějakého nevědomého emočního schématu naprosto nezbytný, a mizí, jakmile toto schéma přestane platit. Terapeut proto nejdřív pracuje z pro-symptomové pozice a pomáhá klientovi prožitkově objevit, čemu odchod ohrožuje. Teprve pak se vedle schématu staví rozporná živá zkušenost, jejíž opakovaná juxtapozice schéma rozpouští.",
+  "source": "Ecker a Hulley: Depth Oriented Brief Therapy (1996); Ecker, Ticic a Hulley (2012)",
+  "seedElo": 2330
+ },
+ {
+  "id": "sme-B28",
+  "type": "X",
+  "category": "smery-mosty",
+  "text": "Jak sny pojímá Beckova kognitivní terapie, na rozdíl od klasické psychoanalýzy?",
+  "options": [
+   "Jako kompenzaci jednostranného vědomého postoje, kterou má snící postoj v bdělosti vyrovnávat",
+   "Jako maskované splnění přání, ale s tím, že cenzura pracuje s vědomými, nikoli nevědomými obsahy",
+   "Jako čistě náhodný šum mozkového kmene, který nenese pro terapii žádnou využitelnou informaci",
+   "Jako pokračování bdělých kognitivních schémat, tedy jako srozumitelné, nikoli maskované sdělení"
+  ],
+  "correct": 3,
+  "explanation": "Beck původně zkoumal sny depresivních pacientů, aby doložil psychoanalytickou hypotézu obráceného hněvu, ale našel něco jiného: témata snů (ztráta, porážka, odmítnutí) věrně kopírovala to, co pacienti mysleli v bdělém stavu, a nic maskovaného v nich nebylo. Tento nález ho vedl od motivačního modelu ke kognitivnímu a stal se jedním z kořenů kognitivní terapie. Poslední nabídnutá varianta odpovídá Jungově kompenzační teorii, předposlední hypotéze aktivace a syntézy.",
+  "source": "Beck a Ward (Archives of General Psychiatry, 1961); Beck: Cognitive Therapy and the Emotional Disorders (1976)",
+  "seedElo": 2350
+ }
+]
