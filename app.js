@@ -258,8 +258,14 @@ function renderQuestion() {
   const oborCount = new Set(packsInfo.map(p => p.obor)).size;
   const catLabel = (player.obor === 'all' && oborCount > 1 ? oborLabel(q._obor) + ' · ' : '') + (CAT_LABELS[q.category] || q.category);
   $('#q-meta').innerHTML = '';
+  const left = el('span', null, catLabel);
+  if (qstate[q.id]?.keep) {
+    const mark = el('span', 'keep-mark', ' ♻');
+    mark.title = 'V opakovacím oběhu („nechat“)';
+    left.append(mark);
+  }
   $('#q-meta').append(
-    el('span', null, catLabel),
+    left,
     el('span', null, TYPE_LABELS[q.type] || q.type)
   );
   updateHeader();
