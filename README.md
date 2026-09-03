@@ -274,10 +274,12 @@ sondáž je zákon.
 
 ## Nápadník (Bobova přání, zatím nepostavená)
 
-- **Oprava překliku**: možnost vzít odpověď zpět těsně po tapu (krátké
-  okno „vzít zpět", nebo potvrzení u typů, kde se přemýšlí dlouho).
-  Bob 2026-09-01: u logických úloh je překlik trestán stejně jako
-  neznalost, což zkresluje Elo. Nesmí zdržovat běžný flow.
+- ~~Oprava překliku~~ **HOTOVO 2026-09-04**: tlačítko „🙃 překlik"
+  ve feedbacku **anuluje** odpověď (vrátí Elo hráče i otázky, počítadla
+  a smaže záznam z logu) a zařadí otázku zpět do oběhu za ~10 otázek.
+  Vědomě NENÍ přepis odpovědi ex post: hráč už zná klíč, takže přepis
+  by do měření propašoval informaci, kterou v době rozhodování neměl.
+  Anulace nedá zisk ani ztrátu — druhá šance přijde naostro.
 
 - **Studijní scroll („učebnice")**: prolistovat všechny otázky balíčku
   jako opáčko — spíš scroll ODPOVĚĎMI (otázka + správná odpověď +

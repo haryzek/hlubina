@@ -161,6 +161,8 @@ function answer(optIndex) {
   const ok = order[optIndex] === q.correct;
   const st = qs(q.id);
   const eloB = eloOf(q._obor);
+  // snapshot pro případný „překlik“ (anulace odpovědi)
+  current.undo = { qElo: st.elo, pElo: eloB, seen: st.seen, wrong: st.wrong, due: st.due, last: st.last, cooldown: st.cooldown };
   const delta = applyElo(q, ok);
   player.answered++;
   player.answeredByObor[q._obor] = (player.answeredByObor[q._obor] || 0) + 1;
@@ -331,6 +333,29 @@ $('#btn-keep').onclick = () => {
   saveState();
   $('#btn-keep').classList.toggle('kept', !!st.keep);
   $('#btn-keep').textContent = st.keep ? '♻ necháno' : '♻ nechat';
+};
+
+$('#btn-misclick').onclick = () => {
+  if (!current || !current.undo) return;
+  const { q, undo } = current;
+  const st = qs(q.id);
+  // vrátíme stav otázky i hráčovo Elo přesně tam, kde byly před odpovědí
+  st.elo = undo.qElo; st.seen = undo.seen; st.wrong = undo.wrong;
+  st.due = undo.due; st.last = undo.last; st.cooldown = undo.cooldown;
+  player.elos[q._obor] = undo.pElo;
+  player.answered--;
+  player.answeredByObor[q._obor]--;
+  // odstraníme záznam z logu a z „posledních 50“
+  for (let i = answers.length - 1; i >= 0; i--) { if (answers[i].q === q.id) { answers.splice(i, 1); break; } }
+  const ri = recent.lastIndexOf(q.id);
+  if (ri >= 0) recent.splice(ri, 1);
+  // otázka se vrátí do oběhu zhruba za 10 otázek
+  st.due = player.answered + 10;
+  current.undo = null;
+  saveState();
+  updateHeader();
+  toast('Překlik anulován — otázka se vrátí.');
+  renderQuestion();
 };
 
 $('#btn-next').onclick = renderQuestion;

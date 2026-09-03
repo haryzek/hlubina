@@ -155,7 +155,8 @@ main {
   color: var(--muted);
   font-style: italic;
 }
-#fb-actions { display: flex; gap: 10px; margin-top: 16px; }
+#fb-actions { display: flex; gap: 8px; margin-top: 16px; flex-wrap: wrap; }
+#fb-actions .ghost-btn { flex: 1; min-width: 110px; padding: 12px 8px; text-align: center; }
 #btn-next {
   flex: 1;
   background: var(--accent);
