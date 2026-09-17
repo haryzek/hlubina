@@ -1,6 +1,6 @@
 /* HLUBINA — engine v jednom souboru. Vanilla JS, žádné dependencies. */
 
-const APP_VERSION = '1.2.0';
+const APP_VERSION = '1.3.0';
 const SCHEMA_VERSION = 3;
 
 const OBOR_LABELS = {
@@ -484,6 +484,58 @@ function renderSettings() {
     (flagged ? ' · ' + flagged + ' nahlášených' : '');
 }
 
+/* ---------- offline kontrolka ----------
+   Bob potřebuje PŘED odletem vidět, jestli má appku i všechny balíčky
+   v cache. Ptáme se přímo service workera, ne sítě. */
+function swZprava(zprava) {
+  return new Promise(resolve => {
+    const sw = navigator.serviceWorker?.controller;
+    if (!sw) return resolve(null);
+    const kanal = new MessageChannel();
+    const t = setTimeout(() => resolve(null), 4000);
+    kanal.port1.onmessage = e => { clearTimeout(t); resolve(e.data); };
+    sw.postMessage(zprava, [kanal.port2]);
+  });
+}
+
+function offlineUrls() {
+  return ['./index.html', './styles.css', './app.js', './packs/manifest.json']
+    .concat(packsInfo.map(p => './packs/' + p.file));
+}
+
+async function renderOfflineStav() {
+  const box = $('#offline-stav');
+  if (!navigator.serviceWorker?.controller) {
+    box.textContent = '⚠ Offline režim není aktivní. Obnov stránku (online) a vrať se sem.';
+    box.style.color = 'var(--wrong)';
+    return;
+  }
+  const odp = await swZprava({ cmd: 'stav', urls: offlineUrls() });
+  if (!odp) { box.textContent = 'Stav se nepodařilo zjistit.'; return; }
+  const hotovo = odp.celkem - odp.chybi.length;
+  if (!odp.chybi.length) {
+    box.textContent = '✓ Připraveno offline — ' + hotovo + '/' + odp.celkem +
+      ' souborů v cache. Můžeš vypnout data.';
+    box.style.color = 'var(--accent)';
+  } else {
+    box.textContent = '⚠ Chybí ' + odp.chybi.length + ' z ' + odp.celkem +
+      ' souborů. Dokud jsi online, klepni na Připravit na offline.';
+    box.style.color = 'var(--wrong)';
+  }
+}
+
+$('#btn-precache').onclick = async () => {
+  if (!navigator.serviceWorker?.controller) {
+    toast('Offline režim není aktivní — obnov stránku online.');
+    return;
+  }
+  toast('Stahuju…', null, null, 0);
+  await swZprava({ cmd: 'precache' });
+  $('#toast').classList.add('hidden');
+  await renderOfflineStav();
+  toast('Hotovo.');
+};
+
 $('#pool-select').onchange = e => {
   player.pool = e.target.value;
   saveState();
@@ -575,7 +627,7 @@ document.addEventListener('click', e => {
 // ---------- navigace ----------
 
 $('#btn-stats').onclick = () => { renderStats(); show('#view-stats'); };
-$('#btn-settings').onclick = () => { renderSettings(); show('#view-settings'); };
+$('#btn-settings').onclick = () => { renderSettings(); show('#view-settings'); renderOfflineStav(); };
 for (const b of document.querySelectorAll('[data-back]')) b.onclick = () => show('#view-question');
 
 // ---------- start ----------
@@ -583,8 +635,16 @@ for (const b of document.querySelectorAll('[data-back]')) b.onclick = () => show
 async function loadPacks() {
   const manifest = await (await fetch('packs/manifest.json')).json();
   packsInfo = manifest;
+  const chybejici = [];
   for (const p of manifest) {
-    const pack = await (await fetch('packs/' + p.file)).json();
+    let pack;
+    try {
+      pack = await (await fetch('packs/' + p.file)).json();
+    } catch (err) {
+      // Chybějící balíček nesmí shodit celou hru — hraje se z toho, co je.
+      chybejici.push(p.title);
+      continue;
+    }
     for (const q of pack) {
       if (byId.has(q.id)) continue;
       q._pack = p.id;
@@ -593,20 +653,21 @@ async function loadPacks() {
       questions.push(q);
     }
   }
+  if (chybejici.length) {
+    toast(chybejici.length + ' balíčků chybí offline — v Nastavení je dotáhneš.', null, null, 6000);
+  }
+  if (!questions.length) throw new Error('žádný balíček se nenačetl');
 }
 
-async function main() {
-  loadState();
-  updateHeader();
+/* Registrace SW je PRVNÍ věc, co appka udělá — nezávisle na tom, jestli se
+   povede načíst balíčky. Dřív visela až na konci main() za returnem v catchi,
+   takže jedno neúspěšné načtení packů znamenalo, že se SW nezaregistroval
+   vůbec → žádná cache → v letadle Chromí "není připojení". */
+async function initSW() {
+  if (!('serviceWorker' in navigator)) return;
   try {
-    await loadPacks();
-  } catch (e) {
-    $('#q-text').textContent = 'Nepodařilo se načíst otázky (' + e.message + '). Zkus obnovit stránku online.';
-    return;
-  }
-  renderQuestion();
-
-  if ('serviceWorker' in navigator) {
+    // Bez persist() smí Android cache vyhodit, když je v telefonu těsno.
+    navigator.storage?.persist?.().catch(() => {});
     const reg = await navigator.serviceWorker.register('sw.js');
     reg.addEventListener('updatefound', () => {
       const nw = reg.installing;
@@ -619,7 +680,22 @@ async function main() {
       });
     });
     navigator.serviceWorker.addEventListener('controllerchange', () => location.reload());
+  } catch (err) {
+    console.warn('SW se nezaregistroval:', err);
   }
+}
+
+async function main() {
+  initSW();
+  loadState();
+  updateHeader();
+  try {
+    await loadPacks();
+  } catch (e) {
+    $('#q-text').textContent = 'Nepodařilo se načíst otázky (' + e.message + '). Zkus obnovit stránku online.';
+    return;
+  }
+  renderQuestion();
 }
 
 main();

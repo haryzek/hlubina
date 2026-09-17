@@ -63,10 +63,43 @@ launch config „hlubina".
    po sondáži (strop 2150) je na ~2140. Chceš vyšší číslo → musí přijít
    těžší odpor, ne víc hraní.
 
+## Offline (letadlo) — jak to drží
+
+Primární scénář je 15hodinový let bez sítě. Drží to čtyři věci, všechny
+nasazené 2026-09-17 po tom, co Hlubina v letadle vůbec nenaběhla:
+
+1. **SW se registruje jako PRVNÍ věc v `main()`** (`initSW()`), ne až na
+   konci. Předtím visel za `return`em v catchi `loadPacks()` — jedno
+   neúspěšné načtení balíčků (mizerná wifi) znamenalo, že se service
+   worker **nezaregistroval vůbec**, takže nevznikla cache a offline
+   appka ukázala Chromí „není připojení". Byla to sebeposilující past:
+   bez dobré sítě nikdy nevznikl offline režim. Reprodukováno i ověřeno
+   v headless Chromiu. **Nikdy registraci SW nedávej za nic, co může
+   selhat.**
+2. **Precache po jednom** (`Promise.allSettled`, ne `cache.addAll`) —
+   `addAll` je všechno-nebo-nic, takže jeden nedojetý pack z 24 zabil
+   celou cache a Bob to zjistil až ve vzduchu.
+3. **Navigace offline vždycky dostane `index.html`** (fallback v `fetch`
+   handleru na `request.mode === 'navigate'`), i z URL s query
+   (`?source=pwa`). Bez toho vrací SW 503 a prohlížeč ukáže chybovku.
+4. **`navigator.storage.persist()`** — bez toho smí Android cache vyhodit,
+   když je v telefonu těsno.
+
+Navíc: `loadPacks()` chybějící balíček **přeskočí** (hraje se z toho, co
+je) místo aby shodil hru, a Nastavení má blok **„Do letadla"** —
+kontrolka „✓ Připraveno offline — 27/27 souborů v cache" plus tlačítko
+**Připravit na offline**, které dotáhne, co chybí. Ptá se přímo service
+workera přes `MessageChannel`, ne sítě. **Před odletem se na to koukni.**
+
+Import i export zálohy jsou čistě lokální (FileReader / Blob) a offline
+fungují — ověřeno.
+
 ## Provozní rituály (každý deploy)
 
 1. `node tools/validate.mjs` musí projít (schéma, duplicity, anti-tell).
 2. Bump `CACHE` v `sw.js` (`hlubina-v{N}`) — jinak klienti neuvidí nová data!
+   Po deployi otevřít Nastavení → **Do letadla** a ověřit, že kontrolka
+   hlásí plný počet.
 3. Commit + push → GitHub Pages nasadí samo; ověřit `gh run list --limit 1`.
 4. Bobův progres v localStorage update nikdy nemaže.
 
