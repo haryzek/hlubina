@@ -71,6 +71,13 @@
       <input type="file" id="import-file" accept="application/json" class="hidden">
     </div>
     <div class="set-block">
+      <h3>Průchod na jeden pokus</h3>
+      <label class="prepinac"><input type="checkbox" id="once-toggle"> Každou otázku jen jednou</label>
+      <p class="hint">Zapnuto: otázka, kterou jsi zodpověděl (správně i špatně), se do oběhu už nevrátí. Jde se až do vyčerpání balíčku, pak appka ukáže skóre průchodu. Elo, statistiky ani záloha se tím nemění.</p>
+      <p id="once-stav" class="hint"></p>
+      <button id="btn-new-run">Začít nový průchod</button>
+    </div>
+    <div class="set-block">
       <h3>Hraješ z</h3>
       <select id="pool-select"></select>
       <p class="hint">Všechno = mix všech balíčků. Volba jednoho balíčku (třeba knihy) omezí kvíz jen na něj.</p>

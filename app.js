@@ -1,6 +1,6 @@
 /* HLUBINA — engine v jednom souboru. Vanilla JS, žádné dependencies. */
 
-const APP_VERSION = '1.3.0';
+const APP_VERSION = '1.4.0';
 const SCHEMA_VERSION = 3;
 
 const OBOR_LABELS = {
@@ -35,7 +35,8 @@ let questions = [];          // všechny otázky ze všech balíčků
 let byId = new Map();
 let packsInfo = [];
 
-let player = { v: SCHEMA_VERSION, elos: {}, answeredByObor: {}, answered: 0, pool: 'all', obor: 'all' };
+let player = { v: SCHEMA_VERSION, elos: {}, answeredByObor: {}, answered: 0, pool: 'all', obor: 'all',
+               once: 0, runId: 0, runStartedAt: 0 };
 let qstate = {};             // id -> {elo, seen, wrong, due, last, cooldown, flag}
 let answers = [];            // log: {q, ok, eloB, eloA, t}
 
@@ -68,6 +69,10 @@ function loadState() {
   if (!player.elos) player.elos = {};
   if (!player.answeredByObor) player.answeredByObor = {};
   if (!player.obor) player.obor = 'all';
+  // režim průchodu (každá otázka jen jednou) — vypnutý, dokud si ho Bob nezapne
+  if (!player.once) player.once = 0;
+  if (!player.runId) player.runId = 0;
+  if (!player.runStartedAt) player.runStartedAt = 0;
   recent = answers.slice(-50).map(a => a.q);
 }
 
@@ -81,7 +86,7 @@ function saveState() {
 }
 
 function qs(id) {
-  if (!qstate[id]) qstate[id] = { elo: byId.get(id)?.seedElo || 1500, seen: 0, wrong: 0, due: null, last: -1, cooldown: -1, flag: 0, keep: 0 };
+  if (!qstate[id]) qstate[id] = { elo: byId.get(id)?.seedElo || 1500, seen: 0, wrong: 0, due: null, last: -1, cooldown: -1, flag: 0, keep: 0, runSeen: 0 };
   return qstate[id];
 }
 
@@ -95,6 +100,30 @@ function activePool() {
     return questions.filter(q => q._obor === player.obor);
   }
   return questions;
+}
+
+// ---------- průchod (každá otázka jen jednou) ----------
+
+/* Otázka je v tomhle průchodu odbytá, když ji Bob zodpověděl pod aktuálním
+   runId. Chyba i správně = odbyto; chybná se tím pádem nikdy nevrátí.
+   Stará historie zůstává netknutá — nový průchod se pozná jen podle runId. */
+function odbyta(id) { return player.once && (qstate[id]?.runSeen || 0) === player.runId; }
+
+function zbyvaList() { return activePool().filter(q => !odbyta(q.id)); }
+
+function novyPruchod() {
+  player.once = 1;
+  player.runId = (player.runId || 0) + 1;
+  player.runStartedAt = Date.now();
+  saveState();
+}
+
+/* Skóre průchodu: odpovědi od jeho začátku, jen na otázky z aktivního poolu. */
+function skorePruchodu() {
+  const vPoolu = new Set(activePool().map(q => q.id));
+  const a = answers.filter(x => x.t >= player.runStartedAt && vPoolu.has(x.q));
+  const ok = a.filter(x => x.ok).length;
+  return { n: a.length, ok, pct: a.length ? Math.round(100 * ok / a.length) : 0 };
 }
 
 // ---------- Elo ----------
@@ -120,7 +149,22 @@ function applyElo(q, ok) {
 
 function pickNext() {
   const recentSet = new Set(recent);
-  const source = activePool();
+  let source = activePool();
+  if (player.once) {
+    // v průchodu žádná fronta oprav ani cooldowny — jen to, co ještě nepadlo
+    source = source.filter(q => !odbyta(q.id));
+    if (!source.length) return null;
+    let pool = source.filter(q => !recentSet.has(q.id));
+    if (!pool.length) pool = source;
+    let band = 150, cand = [];
+    while (true) {
+      cand = pool.filter(q => Math.abs((qstate[q.id]?.elo ?? q.seedElo) - eloOf(q._obor)) <= band);
+      if (cand.length >= 5 || band > 2000) break;
+      band += 50;
+    }
+    if (!cand.length) cand = pool;
+    return cand[Math.floor(Math.random() * cand.length)];
+  }
   // 1) fronta oprav
   const dueList = source.filter(q => {
     const st = qstate[q.id];
@@ -162,12 +206,24 @@ function answer(optIndex) {
   const st = qs(q.id);
   const eloB = eloOf(q._obor);
   // snapshot pro případný „překlik“ (anulace odpovědi)
-  current.undo = { qElo: st.elo, pElo: eloB, seen: st.seen, wrong: st.wrong, due: st.due, last: st.last, cooldown: st.cooldown };
+  current.undo = { qElo: st.elo, pElo: eloB, seen: st.seen, wrong: st.wrong, due: st.due, last: st.last, cooldown: st.cooldown, runSeen: st.runSeen || 0 };
   const delta = applyElo(q, ok);
   player.answered++;
   player.answeredByObor[q._obor] = (player.answeredByObor[q._obor] || 0) + 1;
   st.seen++;
   st.last = player.answered;
+  if (player.once) {
+    // odbyto — ať byla odpověď jakákoli, otázka se v tomhle průchodu nevrací
+    st.runSeen = player.runId;
+    st.due = null;
+    st.cooldown = player.answered + 200;
+    if (!ok) st.wrong++;
+    answers.push({ q: q.id, ok, eloB, eloA: eloOf(q._obor), o: q._obor, t: Date.now() });
+    recent.push(q.id);
+    if (recent.length > 50) recent.shift();
+    saveState();
+    return { ok, delta };
+  }
   if (ok) {
     // „nechat“: otázka zůstává v oběhu a vrací se po 40–80 otázkách
     st.due = st.keep ? player.answered + 40 + Math.floor(Math.random() * 41) : null;
@@ -252,7 +308,10 @@ function shuffle(arr) {
 // ---------- UI: otázka ----------
 
 function renderQuestion() {
+  $('#q-done')?.remove();
+  for (const id of ['#q-meta', '#q-text', '#q-options']) $(id).classList.remove('hidden');
   const q = pickNext();
+  if (!q && player.once && activePool().length) { renderKonecPruchodu(); return; }
   if (!q) { $('#q-text').textContent = 'Nejsou žádné otázky. Zkontroluj balíčky.'; return; }
   current = { q, order: shuffle([0, 1, 2, 3]) };
   const oborCount = new Set(packsInfo.map(p => p.obor)).size;
@@ -264,10 +323,12 @@ function renderQuestion() {
     mark.title = 'V opakovacím oběhu („nechat“)';
     left.append(mark);
   }
-  $('#q-meta').append(
-    left,
-    el('span', null, TYPE_LABELS[q.type] || q.type)
-  );
+  const right = el('span', null, TYPE_LABELS[q.type] || q.type);
+  if (player.once) {
+    const zb = el('span', 'zbyva', ' · zbývá ' + zbyvaList().length);
+    right.append(zb);
+  }
+  $('#q-meta').append(left, right);
   updateHeader();
   $('#q-text').textContent = q.text;
   const box = $('#q-options');
@@ -278,6 +339,24 @@ function renderQuestion() {
     box.append(b);
   });
   $('#q-feedback').classList.add('hidden');
+  window.scrollTo({ top: 0 });
+}
+
+function renderKonecPruchodu() {
+  const s = skorePruchodu();
+  // vnitřek karty jen schováme (nemažeme — renderQuestion ho zas potřebuje)
+  for (const id of ['#q-meta', '#q-text', '#q-options']) $(id).classList.add('hidden');
+  $('#q-feedback').classList.add('hidden');
+  const box = el('div', null); box.id = 'q-done';
+  box.append(
+    el('h2', null, '🏁 Průchod dokončen'),
+    el('div', 'velke', s.pct + ' %'),
+    el('p', null, s.ok + ' z ' + s.n + ' správně · Elo ' + Math.round(eloOf(player.obor !== 'all' ? player.obor : 'psychoanalyza')))
+  );
+  const b = el('button', null, 'Začít nový průchod');
+  b.onclick = () => { novyPruchod(); renderQuestion(); };
+  box.append(b);
+  $('#q-card').append(box);
   window.scrollTo({ top: 0 });
 }
 
@@ -348,6 +427,7 @@ $('#btn-misclick').onclick = () => {
   // vrátíme stav otázky i hráčovo Elo přesně tam, kde byly před odpovědí
   st.elo = undo.qElo; st.seen = undo.seen; st.wrong = undo.wrong;
   st.due = undo.due; st.last = undo.last; st.cooldown = undo.cooldown;
+  st.runSeen = undo.runSeen;
   player.elos[q._obor] = undo.pElo;
   player.answered--;
   player.answeredByObor[q._obor]--;
@@ -355,8 +435,8 @@ $('#btn-misclick').onclick = () => {
   for (let i = answers.length - 1; i >= 0; i--) { if (answers[i].q === q.id) { answers.splice(i, 1); break; } }
   const ri = recent.lastIndexOf(q.id);
   if (ri >= 0) recent.splice(ri, 1);
-  // otázka se vrátí do oběhu zhruba za 10 otázek
-  st.due = player.answered + 10;
+  // otázka se vrátí do oběhu zhruba za 10 otázek (v průchodu prostě zas mezi nezodpovězené)
+  if (!player.once) st.due = player.answered + 10;
   current.undo = null;
   saveState();
   updateHeader();
@@ -479,6 +559,11 @@ function renderSettings() {
   for (const p of packsInfo) {
     packs.append(el('p', 'hint', p.title + ' — ' + p.count + ' otázek (v' + p.version + ')'));
   }
+  $('#once-toggle').checked = !!player.once;
+  const zb = player.once ? zbyvaList().length : activePool().length;
+  $('#once-stav').textContent = player.once
+    ? 'Průchod běží: zbývá ' + zb + ' z ' + activePool().length + ' otázek · skóre zatím ' + skorePruchodu().pct + ' %'
+    : 'Vypnuto — otázky se opakují jako dřív.';
   const flagged = Object.entries(qstate).filter(([, s]) => s.flag).length;
   $('#set-version').textContent = 'Hlubina ' + APP_VERSION + ' · ' + questions.length + ' otázek v poolu' +
     (flagged ? ' · ' + flagged + ' nahlášených' : '');
@@ -534,6 +619,27 @@ $('#btn-precache').onclick = async () => {
   $('#toast').classList.add('hidden');
   await renderOfflineStav();
   toast('Hotovo.');
+};
+
+$('#once-toggle').onchange = e => {
+  if (e.target.checked) {
+    novyPruchod();
+    toast('Průchod spuštěn — každá otázka jen jednou.');
+  } else {
+    player.once = 0;
+    saveState();
+    toast('Zpátky k opakování.');
+  }
+  renderSettings();
+  renderQuestion();
+};
+
+$('#btn-new-run').onclick = () => {
+  if (player.once && !confirm('Začít nový průchod? Všechny otázky se vrátí do hry a skóre průchodu se počítá od nuly.')) return;
+  novyPruchod();
+  renderSettings();
+  renderQuestion();
+  toast('Nový průchod běží.');
 };
 
 $('#pool-select').onchange = e => {

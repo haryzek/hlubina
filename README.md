@@ -63,6 +63,31 @@ launch config „hlubina".
    po sondáži (strop 2150) je na ~2140. Chceš vyšší číslo → musí přijít
    těžší odpor, ne víc hraní.
 
+## Průchod na jeden pokus (v1.4.0)
+
+Vedle běžného opakovacího režimu umí appka **průchod**: v Nastavení se zapne
+zaškrtávátkem „Každou otázku jen jednou". Otázka, na kterou Bob odpoví —
+správně i špatně — se do oběhu **už nevrátí**; chybné se neplánují na opravu,
+správné nedostanou cooldown-návrat. Jde se, dokud pool nedojde, pak se místo
+otázky ukáže karta „Průchod dokončen" se skóre (× %, N z M) a tlačítkem
+„Začít nový průchod".
+
+Jak to drží pohromadě:
+
+- `player.once` (zap/vyp), `player.runId` (číslo průchodu) a
+  `player.runStartedAt` (čas startu). Každá otázka si v `qstate` nese
+  `runSeen`; odbytá je ta, jejíž `runSeen === player.runId`.
+- **Nový průchod = runId + 1.** Nic se nemaže: Elo, statistiky, log odpovědí,
+  příznaky 🐟 i ♻ zůstávají. Zapnutí režimu je proto bezpečné i pro starou
+  historii — všechny otázky jsou zase čerstvé, skóre běží od nuly.
+- `pickNext()` má v režimu průchodu vlastní krátkou větev: žádná fronta oprav,
+  žádné cooldowny, jen Elo pásmo nad ještě nezodpovězenými.
+- Skóre průchodu se počítá z `answers` (t ≥ `runStartedAt`) omezených na
+  aktuální pool — změna balíčku/oboru tedy ukáže skóre toho poolu.
+- „🙃 překlik" vrací i `runSeen`, takže anulovaná odpověď otázku vrátí mezi
+  nezodpovězené (v průchodu bez `due` posunu).
+- V hlavičce otázky svítí „zbývá N".
+
 ## Offline (letadlo) — jak to drží
 
 Primární scénář je 15hodinový let bez sítě. Drží to čtyři věci, všechny

@@ -314,3 +314,12 @@ table.stats td.num { text-align: right; font-variant-numeric: tabular-nums; }
   font-weight: 700;
   cursor: pointer;
 }
+
+/* přepínač v nastavení + karta konce průchodu */
+.prepinac { display: flex; align-items: center; gap: 10px; font-size: 15px; margin-bottom: 8px; cursor: pointer; }
+.prepinac input { width: 20px; height: 20px; accent-color: var(--accent); }
+#q-done { text-align: center; padding: 10px 0; }
+#q-done h2 { margin: 0 0 6px; }
+#q-done .velke { font-size: 44px; font-weight: 700; color: var(--accent); line-height: 1.1; }
+#q-done p { color: var(--muted); }
+#q-meta .zbyva { color: var(--accent); }
