@@ -2,7 +2,7 @@
    Zásada: instalace NIKDY nespadne celá kvůli jednomu souboru, a navigace
    offline VŽDYCKY dostane index.html (jinak Chrome ukáže "není připojení"). */
 
-const CACHE = 'hlubina-v19';
+const CACHE = 'hlubina-v20';
 
 const CORE = [
   './',

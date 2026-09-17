@@ -323,3 +323,6 @@ table.stats td.num { text-align: right; font-variant-numeric: tabular-nums; }
 #q-done .velke { font-size: 44px; font-weight: 700; color: var(--accent); line-height: 1.1; }
 #q-done p { color: var(--muted); }
 #q-meta .zbyva { color: var(--accent); }
+
+table.stats tr.soucet td { border-top: 1px solid var(--line); font-weight: 600; color: var(--accent); }
+#st-pruchod h3 { margin-bottom: 6px; }

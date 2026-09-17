@@ -126,6 +126,27 @@ function skorePruchodu() {
   return { n: a.length, ok, pct: a.length ? Math.round(100 * ok / a.length) : 0 };
 }
 
+/* Rozpad průchodu po oborech: kolik hotovo/zbývá a jaká úspěšnost.
+   Schválně přes celý pool, ne přes activePool — Bob chce v Statistikách
+   vidět stav všech oborů naráz, ne jen toho zvoleného. */
+function pruchodPoOborech() {
+  const m = {};
+  for (const q of questions) {
+    const o = q._obor;
+    const g = m[o] || (m[o] = { celkem: 0, hotovo: 0, ok: 0, n: 0 });
+    g.celkem++;
+    if (odbyta(q.id)) g.hotovo++;
+  }
+  for (const a of answers) {
+    if (a.t < player.runStartedAt) continue;
+    const o = a.o || byId.get(a.q)?._obor;
+    if (!o || !m[o]) continue;
+    m[o].n++;
+    if (a.ok) m[o].ok++;
+  }
+  return m;
+}
+
 // ---------- Elo ----------
 
 function expected(rp, rq) { return 1 / (1 + Math.pow(10, (rq - rp) / 400)); }
@@ -471,6 +492,34 @@ function renderStats() {
   } else {
     const o = player.obor === 'all' ? obory[0] : player.obor;
     sum.append(tile(Math.round(eloOf(o)), 'Elo · ' + oborLabel(o)), tile(total, 'odpovědí'), tile(acc + ' %', 'úspěšnost'));
+  }
+
+  // průchod: kolik hotovo a kolik procent, po oborech
+  const pb = $('#st-pruchod');
+  pb.innerHTML = '';
+  if (player.once) {
+    const m = pruchodPoOborech();
+    const tbl = el('table', 'stats');
+    let cH = 0, cC = 0, cOk = 0, cN = 0;
+    for (const [o, g] of Object.entries(m).sort((a, b) => b[1].celkem - a[1].celkem)) {
+      cH += g.hotovo; cC += g.celkem; cOk += g.ok; cN += g.n;
+      const tr = el('tr');
+      tr.append(
+        el('td', null, oborLabel(o)),
+        el('td', 'num', g.hotovo + '/' + g.celkem),
+        el('td', 'num', g.n ? Math.round(100 * g.ok / g.n) + ' %' : '—')
+      );
+      tbl.append(tr);
+    }
+    const tr = el('tr', 'soucet');
+    tr.append(
+      el('td', null, 'Celkem'),
+      el('td', 'num', cH + '/' + cC),
+      el('td', 'num', cN ? Math.round(100 * cOk / cN) + ' %' : '—')
+    );
+    tbl.append(tr);
+    pb.append(el('h3', null, '🏁 Průchod'), tbl,
+      el('p', 'hint', 'Hotovo / celkem · úspěšnost v tomhle průchodu. Zbývá ' + (cC - cH) + ' otázek.'));
   }
 
   // sparkline z posledních 200 odpovědí (ve scope)

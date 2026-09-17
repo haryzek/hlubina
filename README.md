@@ -87,6 +87,10 @@ Jak to drží pohromadě:
 - „🙃 překlik" vrací i `runSeen`, takže anulovaná odpověď otázku vrátí mezi
   nezodpovězené (v průchodu bez `due` posunu).
 - V hlavičce otázky svítí „zbývá N".
+- **Statistiky mají blok „🏁 Průchod"** (jen když režim běží): po oborech
+  hotovo/celkem a úspěšnost v tomhle průchodu, plus součtový řádek. Schválně
+  přes celý pool, ne přes `activePool()` — v průchodu chce Bob vidět všechny
+  obory naráz, ne jen zvolený scope.
 
 ## Offline (letadlo) — jak to drží
 
